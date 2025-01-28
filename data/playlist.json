@@ -1,16 +1,16 @@
 {
-  "playlistTitle": "2025-01-27T19:10:37.796Z~2025-01-28T19:10:37.796Z",
+  "playlistTitle": "BeatSaver Maps Yesterday",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-01-27T19:10:37.796Z and 2025-01-28T19:10:37.796Z",
+  "discripstion": "Maps published between 2025-01-27T19:38:02.688Z and 2025-01-28T19:38:02.688Z",
   "customData": {
-    "syncURL": "https://raw.githubusercontent.com/SatoDoge/latestBeatSaverPlaylist/main/data/playlist.json"
+    "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "43bb4",
-      "songName": "LeaF - MARENOL (buffed)",
-      "hash": "09b10bc0b2f35b67ff3de232731dcdde4385aaeb",
-      "levelid": "custom_level_09b10bc0b2f35b67ff3de232731dcdde4385aaeb"
+      "key": "43bb5",
+      "songName": "lemon beat",
+      "hash": "02f6e3b0d3c69907a2acfdfcac6438bb41893f15",
+      "levelid": "custom_level_02f6e3b0d3c69907a2acfdfcac6438bb41893f15"
     },
     {
       "key": "43bae",
@@ -215,12 +215,6 @@
       "songName": "Free Me - NEFFEX",
       "hash": "962f3045046b74e4c73e28e97eb754abdd0ab913",
       "levelid": "custom_level_962f3045046b74e4c73e28e97eb754abdd0ab913"
-    },
-    {
-      "key": "43ae7",
-      "songName": "Oneohtrix Point Never - Krumville (cut)",
-      "hash": "07844a7ae5bf4c3aa283dc338b1ed8a810d2876b",
-      "levelid": "custom_level_07844a7ae5bf4c3aa283dc338b1ed8a810d2876b"
     }
   ],
   "image": ""
