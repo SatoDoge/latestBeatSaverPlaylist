@@ -113,8 +113,6 @@ function beforeNewPlaylist(dateString) {
   };
 
   while (!isEnd) {
-//    const requestUrl = `https://api.beatsaver.com/maps/latest?before=2025-01-26T16:41:38.909266Z&pageSize=100`;
-
     const requestUrl = `https://api.beatsaver.com/maps/latest?before=${latestDate}&pageSize=100`;
     console.log(`Fetching: ${requestUrl}`);
 
