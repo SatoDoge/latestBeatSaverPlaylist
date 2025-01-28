@@ -1,11 +1,17 @@
 {
   "playlistTitle": "BeatSaver Maps Yesterday",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-01-27T19:52:13.321Z and 2025-01-28T19:52:13.321Z",
+  "discripstion": "Maps published between 2025-01-27T19:52:24.831Z and 2025-01-28T19:52:24.831Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
+    {
+      "key": "43bb7",
+      "songName": "Chaotic Dance - grihffungg",
+      "hash": "ea9bc844cd01f22511ae79528147efb3d79de635",
+      "levelid": "custom_level_ea9bc844cd01f22511ae79528147efb3d79de635"
+    },
     {
       "key": "43bb5",
       "songName": "lemon beat",
