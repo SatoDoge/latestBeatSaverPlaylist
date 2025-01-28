@@ -40,7 +40,7 @@ function getFileSHA(path) {
  * プレイリストを取得し、GitHubにアップロード
  */
 function updatePlaylistOnGitHub() {
-  const path = "path";
+  const path = "data/playlist.json";
   
   // APIからプレイリストのデータを取得
   const newContent = beforeNewPlaylist(getCurrentUTCTime());
@@ -50,10 +50,9 @@ function updatePlaylistOnGitHub() {
     return;
   }
 
-  // JSONを文字列化 → Base64エンコード
+  // JSONを文字列化
   const jsonString = JSON.stringify(newContent, null, 2);
-  const encodedContent = Utilities.base64Encode(Utilities.newBlob(jsonString).getBytes());
-
+  
   // GitHub上の `playlist.json` のSHAを取得
   const sha = getFileSHA(path);
   Logger.log(`取得したSHA: ${sha}`);
@@ -62,7 +61,7 @@ function updatePlaylistOnGitHub() {
   const url = `https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`;
   const payload = {
     message: "Update playlist.json via GAS",
-    content: encodedContent,
+    content: Utilities.base64Encode(Utilities.newBlob(jsonString).getBytes()),
     sha: sha || undefined, // SHAが `null` の場合は新規作成
   };
 
@@ -79,13 +78,138 @@ function updatePlaylistOnGitHub() {
   try {
     const response = UrlFetchApp.fetch(url, options);
     const responseCode = response.getResponseCode();
-    const responseText = response.getContentText();
     
     if (responseCode === 200 || responseCode === 201) {
       Logger.log("プレイリストが正常に更新されました！");
+      recreateLatestRelease(jsonString);
     } else {
       Logger.log(`GitHub APIエラー: ${responseCode}`);
-      Logger.log(responseText);
+      Logger.log(response.getContentText());
+    }
+  } catch (error) {
+    Logger.log("エラー: " + error.message);
+  }
+}
+
+function recreateLatestRelease(jsonString) {
+  const latestRelease = getLatestRelease();
+
+  if (latestRelease) {
+    deleteRelease(latestRelease.id);
+  }
+
+  createNewRelease(jsonString);
+}
+
+function getLatestRelease() {
+  const url = `https://api.github.com/repos/${OWNER}/${REPO}/releases/latest`;
+  const options = {
+    method: "get",
+    headers: {
+      "Authorization": `Bearer ${GITHUB_TOKEN}`,
+      "Accept": "application/vnd.github.v3+json"
+    },
+    muteHttpExceptions: true
+  };
+
+  try {
+    const response = UrlFetchApp.fetch(url, options);
+    if (response.getResponseCode() === 200) {
+      return JSON.parse(response.getContentText());
+    } else {
+      Logger.log("最新のリリースが見つかりませんでした。");
+      return null;
+    }
+  } catch (error) {
+    Logger.log("エラー: " + error.message);
+    return null;
+  }
+}
+
+function deleteRelease(releaseId) {
+  const url = `https://api.github.com/repos/${OWNER}/${REPO}/releases/${releaseId}`;
+  const options = {
+    method: "delete",
+    headers: {
+      "Authorization": `Bearer ${GITHUB_TOKEN}`,
+      "Accept": "application/vnd.github.v3+json"
+    },
+    muteHttpExceptions: true
+  };
+
+  try {
+    const response = UrlFetchApp.fetch(url, options);
+    if (response.getResponseCode() === 204) {
+      Logger.log(`リリース (ID: ${releaseId}) を削除しました。`);
+    } else {
+      Logger.log(`リリース削除エラー: ${response.getResponseCode()}`);
+      Logger.log(response.getContentText());
+    }
+  } catch (error) {
+    Logger.log("エラー: " + error.message);
+  }
+}
+
+function createNewRelease(jsonString) {
+  const url = `https://api.github.com/repos/${OWNER}/${REPO}/releases`;
+  const currentDate = getCurrentUTCTime().slice(0, 10); // YYYY-MM-DD フォーマット
+  const newTag = currentDate.replace(/-/g, ""); // YYYYMMDD 形式のタグ名
+
+  const payload = {
+    tag_name: newTag,
+    name: `BeatSaver Maps of ${currentDate}`,  // リリースタイトル
+    body: `This release contains the latest BeatSaver maps collected on ${currentDate}.`,
+    draft: false,
+    prerelease: false
+  };
+
+  const options = {
+    method: "post",
+    headers: {
+      "Authorization": `Bearer ${GITHUB_TOKEN}`,
+      "Accept": "application/vnd.github.v3+json"
+    },
+    payload: JSON.stringify(payload),
+    muteHttpExceptions: true
+  };
+
+  try {
+    const response = UrlFetchApp.fetch(url, options);
+    if (response.getResponseCode() === 201) {
+      const releaseData = JSON.parse(response.getContentText());
+      Logger.log("新しいリリースが作成されました！");
+      uploadReleaseAsset(releaseData.upload_url, jsonString, currentDate);
+    } else {
+      Logger.log(`リリース作成エラー: ${response.getResponseCode()}`);
+      Logger.log(response.getContentText());
+    }
+  } catch (error) {
+    Logger.log("エラー: " + error.message);
+  }
+}
+
+function uploadReleaseAsset(uploadUrl, jsonString, currentDate) {
+  const formattedFileName = `BeatSaver_Maps_Yesterday.json`;
+  const uploadUrlFormatted = uploadUrl.replace("{?name,label}", `?name=${formattedFileName}`);
+
+  const options = {
+    method: "post",
+    headers: {
+      "Authorization": `Bearer ${GITHUB_TOKEN}`,
+      "Accept": "application/vnd.github.v3+json",
+      "Content-Type": "application/json"
+    },
+    payload: jsonString,
+    muteHttpExceptions: true
+  };
+
+  try {
+    const response = UrlFetchApp.fetch(uploadUrlFormatted, options);
+    if (response.getResponseCode() === 201) {
+      Logger.log(`アセット ${formattedFileName} をリリースに追加しました！`);
+    } else {
+      Logger.log(`アセットアップロードエラー: ${response.getResponseCode()}`);
+      Logger.log(response.getContentText());
     }
   } catch (error) {
     Logger.log("エラー: " + error.message);
