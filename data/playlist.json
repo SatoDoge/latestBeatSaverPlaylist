@@ -1,11 +1,17 @@
 {
   "playlistTitle": "BeatSaver Maps Yesterday",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-01-27T19:58:15.209Z and 2025-01-28T19:58:15.209Z",
+  "discripstion": "Maps published between 2025-01-27T20:00:50.251Z and 2025-01-28T20:00:50.251Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
+    {
+      "key": "43bb8",
+      "songName": " LeaF - MARENOL (buffed)",
+      "hash": "88c5d835ed2758f61f5cbcb7eae5b30c577aa60c",
+      "levelid": "custom_level_88c5d835ed2758f61f5cbcb7eae5b30c577aa60c"
+    },
     {
       "key": "43bb7",
       "songName": "Chaotic Dance - grihffungg",
