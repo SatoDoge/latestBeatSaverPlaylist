@@ -1,11 +1,233 @@
 {
-  "playlistTitle": "2025-01-29T17:26:42.043Z~2025-01-30T17:26:42.043Z",
+  "playlistTitle": "2025-01-30T15:18:48.481Z~2025-01-31T15:18:48.481Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-01-29T17:26:42.043Z and 2025-01-30T17:26:42.043Z",
+  "discripstion": "Maps published between 2025-01-30T15:18:48.481Z and 2025-01-31T15:18:48.481Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
+    {
+      "key": "43d65",
+      "songName": "9mm Parabellum Bullet - march of rebellion",
+      "hash": "7233a5918086d1688c7cc71590571686434aa33d",
+      "levelid": "custom_level_7233a5918086d1688c7cc71590571686434aa33d"
+    },
+    {
+      "key": "43d55",
+      "songName": "op de beat",
+      "hash": "b37e40f398c7162d4c23abc974266b944f9b7333",
+      "levelid": "custom_level_b37e40f398c7162d4c23abc974266b944f9b7333"
+    },
+    {
+      "key": "43d4a",
+      "songName": "风经过，唱离合 (温情版)",
+      "hash": "0e202c4b5f9565fd46f8911a6912ffdeb0aa3ca5",
+      "levelid": "custom_level_0e202c4b5f9565fd46f8911a6912ffdeb0aa3ca5"
+    },
+    {
+      "key": "43d05",
+      "songName": "ROSÉ & Bruno Mars - APT.",
+      "hash": "a6648faa7a220b0cc45da994afa64ba991cf3395",
+      "levelid": "custom_level_a6648faa7a220b0cc45da994afa64ba991cf3395"
+    },
+    {
+      "key": "43cd7",
+      "songName": "トライダーG7のテーマ  (Trider G7 no theme)",
+      "hash": "a76da1d4f2019e19afa55be9aa6a36fb84397863",
+      "levelid": "custom_level_a76da1d4f2019e19afa55be9aa6a36fb84397863"
+    },
+    {
+      "key": "43d20",
+      "songName": "Do You Really Need Anyone Else?",
+      "hash": "1deadbaa061fdc35329d460ead39b5a7e0a70765",
+      "levelid": "custom_level_1deadbaa061fdc35329d460ead39b5a7e0a70765"
+    },
+    {
+      "key": "43ce4",
+      "songName": "Confessions of a Rotten Girl",
+      "hash": "b8a2f325cb3e9d7d9f5f19676e15bd01ed349791",
+      "levelid": "custom_level_b8a2f325cb3e9d7d9f5f19676e15bd01ed349791"
+    },
+    {
+      "key": "43d1b",
+      "songName": "[Building Blocks Submission #15] MUST DIE!, DUCKY - DELETE IT ALL",
+      "hash": "be7091d5140db6f3a80cd0aafd0dc9089950d3cd",
+      "levelid": "custom_level_be7091d5140db6f3a80cd0aafd0dc9089950d3cd"
+    },
+    {
+      "key": "43d1a",
+      "songName": "[Building Blocks Submission #14] Throttle - For Me",
+      "hash": "eef7165b658dc82ae0f7b7f67f9bd6b6af7c52c8",
+      "levelid": "custom_level_eef7165b658dc82ae0f7b7f67f9bd6b6af7c52c8"
+    },
+    {
+      "key": "43d19",
+      "songName": "[Building Blocks Submission #13] Käärijä, Joost - TRAFIK!",
+      "hash": "5d5e123d18ae4f51f982fb7ca23abddbb5462422",
+      "levelid": "custom_level_5d5e123d18ae4f51f982fb7ca23abddbb5462422"
+    },
+    {
+      "key": "43d18",
+      "songName": "[Building Blocks Submission #12] Käärijä, Joost - TRAFIK!",
+      "hash": "025a668420a87538559d0ddc666933266516a28b",
+      "levelid": "custom_level_025a668420a87538559d0ddc666933266516a28b"
+    },
+    {
+      "key": "43d13",
+      "songName": "bros arguing with dry spongebob",
+      "hash": "6a6d117f027feadd838ec310402c2b5a8529ba5f",
+      "levelid": "custom_level_6a6d117f027feadd838ec310402c2b5a8529ba5f"
+    },
+    {
+      "key": "43d11",
+      "songName": "Heize - FALLIN'",
+      "hash": "16d5d81b28d80221f9799088c5eb87d4e1dddc7c",
+      "levelid": "custom_level_16d5d81b28d80221f9799088c5eb87d4e1dddc7c"
+    },
+    {
+      "key": "43d10",
+      "songName": "Spooky patterns",
+      "hash": "23ccd7b77ef027508f5fa4bf0c16188eed36d426",
+      "levelid": "custom_level_23ccd7b77ef027508f5fa4bf0c16188eed36d426"
+    },
+    {
+      "key": "43d0f",
+      "songName": "holy fuck im coming lois funk",
+      "hash": "deb4f852d8058fbd25378293f55fd652360a30ae",
+      "levelid": "custom_level_deb4f852d8058fbd25378293f55fd652360a30ae"
+    },
+    {
+      "key": "43d0e",
+      "songName": "Born With A Broken Heart",
+      "hash": "45c724be4534c2c31426a5fdf053f82eb35dcba9",
+      "levelid": "custom_level_45c724be4534c2c31426a5fdf053f82eb35dcba9"
+    },
+    {
+      "key": "43d0d",
+      "songName": "Bim Bom - João Gilberto",
+      "hash": "02ae00cac9d3a0b7897320aa19c28336d54c9500",
+      "levelid": "custom_level_02ae00cac9d3a0b7897320aa19c28336d54c9500"
+    },
+    {
+      "key": "43d0b",
+      "songName": "FIND YOUR WINGS - Tyler, The Creator (V3 Lighting)",
+      "hash": "3d82917e93a18844816652418932c1d75457f9af",
+      "levelid": "custom_level_3d82917e93a18844816652418932c1d75457f9af"
+    },
+    {
+      "key": "43d0a",
+      "songName": "Do You Really Need Anyone Else?",
+      "hash": "d7c0ca6bac1f7fd0f10d4f80712def7323251750",
+      "levelid": "custom_level_d7c0ca6bac1f7fd0f10d4f80712def7323251750"
+    },
+    {
+      "key": "43d09",
+      "songName": "INTERDIXION - Juggernaut.",
+      "hash": "9b9bdd0f4d20e3406555d8ef64bd631cd20bff44",
+      "levelid": "custom_level_9b9bdd0f4d20e3406555d8ef64bd631cd20bff44"
+    },
+    {
+      "key": "43d06",
+      "songName": "piri & tommy - on & on",
+      "hash": "efaecfa90dfd881ae5f4280474cab4e31b4d7b06",
+      "levelid": "custom_level_efaecfa90dfd881ae5f4280474cab4e31b4d7b06"
+    },
+    {
+      "key": "43d04",
+      "songName": "t+pazolite & P*Light - IZANA (Uncut Edition)",
+      "hash": "4597eda907b901bb69d7c8b445be466454ed31b8",
+      "levelid": "custom_level_4597eda907b901bb69d7c8b445be466454ed31b8"
+    },
+    {
+      "key": "43d02",
+      "songName": "SAD!",
+      "hash": "e74bf6787d9d7571d5f524703112a1a8aa15302d",
+      "levelid": "custom_level_e74bf6787d9d7571d5f524703112a1a8aa15302d"
+    },
+    {
+      "key": "43d01",
+      "songName": "LADY'S ONLY - Plot Armor (4nzu 210 Do-Straight Style)",
+      "hash": "2e0390a82682a8a246095ace39d4ba69517ed01e",
+      "levelid": "custom_level_2e0390a82682a8a246095ace39d4ba69517ed01e"
+    },
+    {
+      "key": "43d00",
+      "songName": "verty69",
+      "hash": "e35ffa0798f7aff10ed657d0359cd6581b66a7cb",
+      "levelid": "custom_level_e35ffa0798f7aff10ed657d0359cd6581b66a7cb"
+    },
+    {
+      "key": "43cfe",
+      "songName": "Camellia - Anomaly",
+      "hash": "90af61c9619861c08017753c53de2cdd703aa60f",
+      "levelid": "custom_level_90af61c9619861c08017753c53de2cdd703aa60f"
+    },
+    {
+      "key": "43cfc",
+      "songName": "Henri Werner - The Fairy",
+      "hash": "bbd346d5f30a82cfe91ca533ea8cad0afd69cab1",
+      "levelid": "custom_level_bbd346d5f30a82cfe91ca533ea8cad0afd69cab1"
+    },
+    {
+      "key": "43cfb",
+      "songName": "Peace and Tranquility",
+      "hash": "2d7acde863c2eba8266a85a6b43df6fb5b1e610a",
+      "levelid": "custom_level_2d7acde863c2eba8266a85a6b43df6fb5b1e610a"
+    },
+    {
+      "key": "43cfd",
+      "songName": "soulless",
+      "hash": "12d55d984e8ad45c794d861232f74ebbf9ee4529",
+      "levelid": "custom_level_12d55d984e8ad45c794d861232f74ebbf9ee4529"
+    },
+    {
+      "key": "43cfa",
+      "songName": "Falling Down",
+      "hash": "479e9e5882fbaa30860eeda9f5b2049a17c9b66e",
+      "levelid": "custom_level_479e9e5882fbaa30860eeda9f5b2049a17c9b66e"
+    },
+    {
+      "key": "43cf8",
+      "songName": "POP IN 2 - Full Ver.",
+      "hash": "c345b101ed832a7a032a585d5a42cb816230ddbe",
+      "levelid": "custom_level_c345b101ed832a7a032a585d5a42cb816230ddbe"
+    },
+    {
+      "key": "43cf3",
+      "songName": "Goreshit - No Problem!",
+      "hash": "f385bd72b775bb662e51531a04e6ecc3987a16e4",
+      "levelid": "custom_level_f385bd72b775bb662e51531a04e6ecc3987a16e4"
+    },
+    {
+      "key": "43cef",
+      "songName": "Shake (dentalstonk's SHAKY SPEEDCORE REMIX)",
+      "hash": "6849bb23fe7f96c04a44a83fdc4be6cab660ab9c",
+      "levelid": "custom_level_6849bb23fe7f96c04a44a83fdc4be6cab660ab9c"
+    },
+    {
+      "key": "43ced",
+      "songName": "Count down 321",
+      "hash": "67954f90272a46e6ae7659ed978228a713504c3a",
+      "levelid": "custom_level_67954f90272a46e6ae7659ed978228a713504c3a"
+    },
+    {
+      "key": "43ce7",
+      "songName": "Rise - NEFFEX ",
+      "hash": "21d4a71788411427b9619b44a28d17438f950a08",
+      "levelid": "custom_level_21d4a71788411427b9619b44a28d17438f950a08"
+    },
+    {
+      "key": "43ce6",
+      "songName": "Unbeatable (FNF) (Chroma)",
+      "hash": "6003b1bab65fffadd68cb45fe9562d2d656fd715",
+      "levelid": "custom_level_6003b1bab65fffadd68cb45fe9562d2d656fd715"
+    },
+    {
+      "key": "43ce5",
+      "songName": "[Independence Tech] Andy Poland - Mad Verse City: Credits Rap (feat. Simeon Norfleet, Sr.)",
+      "hash": "08204d9eec0cd917c8345f5940ade1604589753c",
+      "levelid": "custom_level_08204d9eec0cd917c8345f5940ade1604589753c"
+    },
     {
       "key": "43ce3",
       "songName": "rakuen project",
@@ -29,282 +251,6 @@
       "songName": "めりぃめりぃろんり～ - 桃寝ちのい",
       "hash": "634bf6d808399e0fa82d8e167cc525b6362d18ff",
       "levelid": "custom_level_634bf6d808399e0fa82d8e167cc525b6362d18ff"
-    },
-    {
-      "key": "43ccb",
-      "songName": "Bling-Bang-Bang-Born (Maezawa remix)",
-      "hash": "c1ae36bf76c3f51796106a3d3567f6d9ebfb2eb0",
-      "levelid": "custom_level_c1ae36bf76c3f51796106a3d3567f6d9ebfb2eb0"
-    },
-    {
-      "key": "43cbe",
-      "songName": "LUV U NEED U",
-      "hash": "fe9bf3c4b9b4b54cf61a85290dc7d09f98ce9830",
-      "levelid": "custom_level_fe9bf3c4b9b4b54cf61a85290dc7d09f98ce9830"
-    },
-    {
-      "key": "43cbc",
-      "songName": "The Dead Don't Die - Dominum feat. Feuerschwanz",
-      "hash": "8c5a952acd4ba54f7e557f51a9624426692f6936",
-      "levelid": "custom_level_8c5a952acd4ba54f7e557f51a9624426692f6936"
-    },
-    {
-      "key": "43cbb",
-      "songName": "ULTIMATE STREAM CHALLENGE",
-      "hash": "4681cdcc16b69eb9fa84829dc11889a3bbce7327",
-      "levelid": "custom_level_4681cdcc16b69eb9fa84829dc11889a3bbce7327"
-    },
-    {
-      "key": "43cb9",
-      "songName": "The world is ending ",
-      "hash": "2d92ca307124ab2385749464eb3e9d9fd5e677e6",
-      "levelid": "custom_level_2d92ca307124ab2385749464eb3e9d9fd5e677e6"
-    },
-    {
-      "key": "43c6c",
-      "songName": "Shirakami Fubuki - 「Storyteller」",
-      "hash": "5a645e39c66caafc14f8bdddaee0aa21adb275c3",
-      "levelid": "custom_level_5a645e39c66caafc14f8bdddaee0aa21adb275c3"
-    },
-    {
-      "key": "43cb6",
-      "songName": "Aespa - Whiplash",
-      "hash": "0b7c97b95dce72edccd8dc736d8d2a360117cfcd",
-      "levelid": "custom_level_0b7c97b95dce72edccd8dc736d8d2a360117cfcd"
-    },
-    {
-      "key": "43cb0",
-      "songName": "me if i was lobsta",
-      "hash": "757443126d44402b26134f49aa099df576a71ce6",
-      "levelid": "custom_level_757443126d44402b26134f49aa099df576a71ce6"
-    },
-    {
-      "key": "43caf",
-      "songName": "Nüguns - System of a Down",
-      "hash": "6c286025da465626b3ad9b3158cbe74dd72ef833",
-      "levelid": "custom_level_6c286025da465626b3ad9b3158cbe74dd72ef833"
-    },
-    {
-      "key": "43ca9",
-      "songName": "Shut Me Up - Mindless Self Indulgence",
-      "hash": "835454d0c6729cb9bbf2f11ba6f30f44094c307a",
-      "levelid": "custom_level_835454d0c6729cb9bbf2f11ba6f30f44094c307a"
-    },
-    {
-      "key": "43ca1",
-      "songName": "=LOVE - Norrote Norrote",
-      "hash": "a16879e22d777676a41b0cfed9bac1b88f24ae88",
-      "levelid": "custom_level_a16879e22d777676a41b0cfed9bac1b88f24ae88"
-    },
-    {
-      "key": "43ca7",
-      "songName": "ゴミ太郎 - Take a Hint",
-      "hash": "ab9dc25e86e51edeb42dad2214555710a37994be",
-      "levelid": "custom_level_ab9dc25e86e51edeb42dad2214555710a37994be"
-    },
-    {
-      "key": "43ca6",
-      "songName": "London View",
-      "hash": "22f972f50001fa1ec2e43deb265f1835ca4b8679",
-      "levelid": "custom_level_22f972f50001fa1ec2e43deb265f1835ca4b8679"
-    },
-    {
-      "key": "43ca5",
-      "songName": "Atsuover - Dilemma",
-      "hash": "6c932b04d163425025faf14852793f3b71b3a723",
-      "levelid": "custom_level_6c932b04d163425025faf14852793f3b71b3a723"
-    },
-    {
-      "key": "43ca4",
-      "songName": "[Building Blocks Submission #11] Tak, Corbin - Tic! Tac! Toe!",
-      "hash": "a54aaad7d0985940be0a31d822b8d9ee28e06cab",
-      "levelid": "custom_level_a54aaad7d0985940be0a31d822b8d9ee28e06cab"
-    },
-    {
-      "key": "43ca3",
-      "songName": "Neko Hacker - Listen feat wotoha",
-      "hash": "b143650f3c73117037dd398a0b7037a7e8b0e840",
-      "levelid": "custom_level_b143650f3c73117037dd398a0b7037a7e8b0e840"
-    },
-    {
-      "key": "43ca0",
-      "songName": "RoughSketch - Digital Slum",
-      "hash": "06c2b222566092a12372b0c7b85b9cb3983906c6",
-      "levelid": "custom_level_06c2b222566092a12372b0c7b85b9cb3983906c6"
-    },
-    {
-      "key": "43c9e",
-      "songName": "Planet Disco",
-      "hash": "b849bb91525a62e15ea5f86500953ef65af2fa6b",
-      "levelid": "custom_level_b849bb91525a62e15ea5f86500953ef65af2fa6b"
-    },
-    {
-      "key": "43c9f",
-      "songName": "delfino square",
-      "hash": "eaa673d62957c40cf3739f4f9f88ed79acdfa272",
-      "levelid": "custom_level_eaa673d62957c40cf3739f4f9f88ed79acdfa272"
-    },
-    {
-      "key": "43c9d",
-      "songName": "Collapse - OneShot",
-      "hash": "1c9063652eaf8e75b6e20e6c6b4eae7d454457d6",
-      "levelid": "custom_level_1c9063652eaf8e75b6e20e6c6b4eae7d454457d6"
-    },
-    {
-      "key": "43c9c",
-      "songName": "Snowman",
-      "hash": "92a23a2a2ff21c1b5503ee976612e10ff30ae7d0",
-      "levelid": "custom_level_92a23a2a2ff21c1b5503ee976612e10ff30ae7d0"
-    },
-    {
-      "key": "43c9a",
-      "songName": "face of death",
-      "hash": "417c300060052645a94ebb0e90a454809e90ef9e",
-      "levelid": "custom_level_417c300060052645a94ebb0e90a454809e90ef9e"
-    },
-    {
-      "key": "43c99",
-      "songName": "Booty V10",
-      "hash": "b201326833731ddb40757b607925e3ef407d0d9e",
-      "levelid": "custom_level_b201326833731ddb40757b607925e3ef407d0d9e"
-    },
-    {
-      "key": "43c96",
-      "songName": "DENONBU - Hyper Bass (feat. Yunomi)",
-      "hash": "775dcf8996967d3738be6314f1cbe8a298a9412e",
-      "levelid": "custom_level_775dcf8996967d3738be6314f1cbe8a298a9412e"
-    },
-    {
-      "key": "43c97",
-      "songName": "[V3] t+pazolite, Nanahira - KIRAMEKE Shoot it Now! - SSLong ver.",
-      "hash": "8ebc63864973c1a00bc0835c02e9dc0a8033f1cf",
-      "levelid": "custom_level_8ebc63864973c1a00bc0835c02e9dc0a8033f1cf"
-    },
-    {
-      "key": "43c95",
-      "songName": "six impala - eyes in the water",
-      "hash": "8988a1c9250841b6bf6623a10d24a4328255ac90",
-      "levelid": "custom_level_8988a1c9250841b6bf6623a10d24a4328255ac90"
-    },
-    {
-      "key": "43c93",
-      "songName": "XXXTENTACION - SAD!",
-      "hash": "473c744d4198876090eb0b36ac168fd295f43225",
-      "levelid": "custom_level_473c744d4198876090eb0b36ac168fd295f43225"
-    },
-    {
-      "key": "43c92",
-      "songName": "2hollis - gold (1.3x)",
-      "hash": "f576d28d418190808586c4dc999e000244cde872",
-      "levelid": "custom_level_f576d28d418190808586c4dc999e000244cde872"
-    },
-    {
-      "key": "43c91",
-      "songName": "As The World Caves In - Sarah Cothran",
-      "hash": "f5931121cb64c9c79980e857e69938b148a3eb32",
-      "levelid": "custom_level_f5931121cb64c9c79980e857e69938b148a3eb32"
-    },
-    {
-      "key": "43c90",
-      "songName": "Hollywood baby",
-      "hash": "9ce14ae0e9d4069ec44c5d7b9900190e1c026e30",
-      "levelid": "custom_level_9ce14ae0e9d4069ec44c5d7b9900190e1c026e30"
-    },
-    {
-      "key": "43c8f",
-      "songName": "SURVIVAL / GLAY",
-      "hash": "b8033c57ea5df748035b26512e35ea64d06361cb",
-      "levelid": "custom_level_b8033c57ea5df748035b26512e35ea64d06361cb"
-    },
-    {
-      "key": "43c8e",
-      "songName": "Cock/ver10",
-      "hash": "2f82120c757057ffc7331ec4e4139f93c154fde9",
-      "levelid": "custom_level_2f82120c757057ffc7331ec4e4139f93c154fde9"
-    },
-    {
-      "key": "43c8d",
-      "songName": "Red Sex",
-      "hash": "b3c7b81af54ab637b7b136b0056d3fe4055fdb76",
-      "levelid": "custom_level_b3c7b81af54ab637b7b136b0056d3fe4055fdb76"
-    },
-    {
-      "key": "43c8c",
-      "songName": "Brown Study (400bpm Version)",
-      "hash": "ceb2680c5dd4de20d8f4e41918967468049a14c2",
-      "levelid": "custom_level_ceb2680c5dd4de20d8f4e41918967468049a14c2"
-    },
-    {
-      "key": "43c8a",
-      "songName": "Days of Candy (400bpm Version)",
-      "hash": "d140422e6445f96af2327765edd0567ff2591d4c",
-      "levelid": "custom_level_d140422e6445f96af2327765edd0567ff2591d4c"
-    },
-    {
-      "key": "43c88",
-      "songName": "the way things go",
-      "hash": "19f69dbb9348486ab0ccddc3cf6ec410b77ce045",
-      "levelid": "custom_level_19f69dbb9348486ab0ccddc3cf6ec410b77ce045"
-    },
-    {
-      "key": "43c87",
-      "songName": "[Building Blocks Submission #10] 32ki - Mesmerizer",
-      "hash": "9ba1494d2d0e47f42d3819f7af5c92e5b2c035e3",
-      "levelid": "custom_level_9ba1494d2d0e47f42d3819f7af5c92e5b2c035e3"
-    },
-    {
-      "key": "43c86",
-      "songName": "[Building Blocks Submission #9] Midnight Grand Orchestra - Midnight Mission",
-      "hash": "6112ee556cd00d681f7e4188ae394cce790ed7c7",
-      "levelid": "custom_level_6112ee556cd00d681f7e4188ae394cce790ed7c7"
-    },
-    {
-      "key": "43c85",
-      "songName": "[UNRANKED] Higher Ground - Delta Heavy & MUZZ (ft. Cammie Robinson)",
-      "hash": "2a233fb4fbcb93cef868efec0aba899956190b3a",
-      "levelid": "custom_level_2a233fb4fbcb93cef868efec0aba899956190b3a"
-    },
-    {
-      "key": "43c84",
-      "songName": "[Building Blocks Submission #8] Tak, Corbin - Tic! Tac! Toe!",
-      "hash": "4cb7c4927693b4436e2952f63f10da8b048be556",
-      "levelid": "custom_level_4cb7c4927693b4436e2952f63f10da8b048be556"
-    },
-    {
-      "key": "43c83",
-      "songName": "Adrian x100",
-      "hash": "2c6ca0274a1b1c37e228e3e4f3079def82d426a4",
-      "levelid": "custom_level_2c6ca0274a1b1c37e228e3e4f3079def82d426a4"
-    },
-    {
-      "key": "43c82",
-      "songName": "Bishu's Subs - Super Microphone Megamix",
-      "hash": "1ed29cb39e0d906eb458c526253efd446b366570",
-      "levelid": "custom_level_1ed29cb39e0d906eb458c526253efd446b366570"
-    },
-    {
-      "key": "43c7b",
-      "songName": "Hometown",
-      "hash": "6a5488a66eeb533c57dc10930edb16894dd19428",
-      "levelid": "custom_level_6a5488a66eeb533c57dc10930edb16894dd19428"
-    },
-    {
-      "key": "43c7a",
-      "songName": "dimension pattern",
-      "hash": "c14592b36a971c733cfb4fd25b603a67f0b13510",
-      "levelid": "custom_level_c14592b36a971c733cfb4fd25b603a67f0b13510"
-    },
-    {
-      "key": "43c78",
-      "songName": "LIL BRUH SAY HE WALKED DOWN😈😈",
-      "hash": "bde4616d66a30b1a2b1a217ec2ca94f0db10fb97",
-      "levelid": "custom_level_bde4616d66a30b1a2b1a217ec2ca94f0db10fb97"
-    },
-    {
-      "key": "43c76",
-      "songName": "7_7 - Katyutrava",
-      "hash": "9933873f5c02394d707ce4af4d21a40ba018bbd2",
-      "levelid": "custom_level_9933873f5c02394d707ce4af4d21a40ba018bbd2"
     }
   ],
   "image": ""
