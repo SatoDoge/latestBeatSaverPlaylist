@@ -1,322 +1,310 @@
 {
-  "playlistTitle": "2025-02-02T15:18:49.172Z~2025-02-03T15:18:49.172Z",
+  "playlistTitle": "2025-02-03T15:18:52.116Z~2025-02-04T15:18:52.116Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-02-02T15:18:49.172Z and 2025-02-03T15:18:49.172Z",
+  "discripstion": "Maps published between 2025-02-03T15:18:52.116Z and 2025-02-04T15:18:52.116Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "43f55",
-      "songName": "Ugly",
-      "hash": "e8c191026188eed5b7c63a2f14c8e183953bf6fc",
-      "levelid": "custom_level_e8c191026188eed5b7c63a2f14c8e183953bf6fc"
+      "key": "43fd8",
+      "songName": "PSY 3",
+      "hash": "c918fe830e0169c9a4e68d3fc4b538a008ece9ba",
+      "levelid": "custom_level_c918fe830e0169c9a4e68d3fc4b538a008ece9ba"
     },
     {
-      "key": "43f54",
-      "songName": "[Building Blocks Submission #22] Käärijä, Joost - TRAFIK!",
-      "hash": "b9f7d0b49c83fec03b3a6a88dcf68d16b333d10c",
-      "levelid": "custom_level_b9f7d0b49c83fec03b3a6a88dcf68d16b333d10c"
+      "key": "43fd5",
+      "songName": "Bury Me Low - 8 Graves",
+      "hash": "b507761c6286232fc073e7844d7975bdb521655b",
+      "levelid": "custom_level_b507761c6286232fc073e7844d7975bdb521655b"
     },
     {
-      "key": "43f53",
-      "songName": "[Building Blocks Submission #24] MUST DIE!, DUCKY - DELETE IT ALL",
-      "hash": "ef6a050d156ce8136aae4b3f85390d4f832920b3",
-      "levelid": "custom_level_ef6a050d156ce8136aae4b3f85390d4f832920b3"
+      "key": "43fd1",
+      "songName": "I'm butterfly",
+      "hash": "baf8bc5d332827fa4867acc30a019f59ec7b42c9",
+      "levelid": "custom_level_baf8bc5d332827fa4867acc30a019f59ec7b42c9"
     },
     {
-      "key": "43f52",
-      "songName": "[Building Blocks Submission #23] 32ki - Mesmerizer",
-      "hash": "a179cae9c58112bfc620c5f0519a8059f6ddc69f",
-      "levelid": "custom_level_a179cae9c58112bfc620c5f0519a8059f6ddc69f"
+      "key": "43fce",
+      "songName": "Earthless - Volt Rush",
+      "hash": "1a62be1948c121560c67d0167bab0c7298bec37a",
+      "levelid": "custom_level_1a62be1948c121560c67d0167bab0c7298bec37a"
     },
     {
-      "key": "43f50",
-      "songName": "Modest - NEFFEX",
-      "hash": "f9edfd599706effce9af059c651c8cb263a5c3c3",
-      "levelid": "custom_level_f9edfd599706effce9af059c651c8cb263a5c3c3"
+      "key": "43fcc",
+      "songName": "LittleVMills - Gurenge Metal Cover",
+      "hash": "9edb7a9593bcb14c9897d2d29d0f4cb300a63ea2",
+      "levelid": "custom_level_9edb7a9593bcb14c9897d2d29d0f4cb300a63ea2"
     },
     {
-      "key": "43f4f",
-      "songName": "[Building Blocks Submission #21] 32ki - Mesmerizer",
-      "hash": "4577729f27fc386ee5f316768d13c73f5972abf7",
-      "levelid": "custom_level_4577729f27fc386ee5f316768d13c73f5972abf7"
+      "key": "43fcb",
+      "songName": "Gravity Falls Opening",
+      "hash": "0ce7683f72366cc44d40a99e13fa578e6d9f9371",
+      "levelid": "custom_level_0ce7683f72366cc44d40a99e13fa578e6d9f9371"
     },
     {
-      "key": "43f4c",
-      "songName": "Sugar [V3]",
-      "hash": "af6c75039b8223e4d2a81155855654b572ee68f4",
-      "levelid": "custom_level_af6c75039b8223e4d2a81155855654b572ee68f4"
+      "key": "43fca",
+      "songName": "YAJU&U 【ﾔｼﾞｭｾﾝﾊﾟｲｲｷｽｷﾞﾝｲｸｲｸｱｯｱｯｱｯｱｰﾔﾘﾏｽﾈ/Cartoon】",
+      "hash": "9d4717434b405ed6b8a96e857bede8a453ac4800",
+      "levelid": "custom_level_9d4717434b405ed6b8a96e857bede8a453ac4800"
     },
     {
-      "key": "43f4d",
-      "songName": "Dear Alice feat.Itaru Baba - arai tasuku",
-      "hash": "f4ad6331b1872e4505eda12613633d86cabe27a4",
-      "levelid": "custom_level_f4ad6331b1872e4505eda12613633d86cabe27a4"
+      "key": "43fc6",
+      "songName": "Sexy and I know it",
+      "hash": "a5226627c17430fa044635281223e04269c338f3",
+      "levelid": "custom_level_a5226627c17430fa044635281223e04269c338f3"
     },
     {
-      "key": "43f4b",
-      "songName": "[Chroma]Candy Cookie Chocolate ft. Kasane Teto, Hatsune Miku",
-      "hash": "d1107c3f2f6f8845b4e47a394032e538f602e563",
-      "levelid": "custom_level_d1107c3f2f6f8845b4e47a394032e538f602e563"
+      "key": "43fc2",
+      "songName": "NANAOAKARI - Cute fiction",
+      "hash": "ebbcd2f760b058b88573275022a0b964f6f4c212",
+      "levelid": "custom_level_ebbcd2f760b058b88573275022a0b964f6f4c212"
     },
     {
-      "key": "43ecd",
-      "songName": "Mellowcle - Wachawacha Valentine",
-      "hash": "fe7b860d127ce6f6383c9f01b044f26ff59a6fcb",
-      "levelid": "custom_level_fe7b860d127ce6f6383c9f01b044f26ff59a6fcb"
+      "key": "43fc4",
+      "songName": "Eternal Petals In The Wind - Embark Studios (From \"THE FINALS: Season 3 OST\")",
+      "hash": "f55bc762cb26a687215e27046659daecf2125516",
+      "levelid": "custom_level_f55bc762cb26a687215e27046659daecf2125516"
     },
     {
-      "key": "43f48",
-      "songName": "Starker Wind, zerzaustes Haar (German Cover of Kyoufuu All Back by Jinja)",
-      "hash": "3fc26ef07d19fce0c0452b3081e11a36450b5bae",
-      "levelid": "custom_level_3fc26ef07d19fce0c0452b3081e11a36450b5bae"
+      "key": "43fbc",
+      "songName": "CBID (Parody PPAP)",
+      "hash": "d355509c609ae2f3c9d83fb42475c8287daaadfa",
+      "levelid": "custom_level_d355509c609ae2f3c9d83fb42475c8287daaadfa"
     },
     {
-      "key": "43f47",
-      "songName": "BABYMONSTER - Woke Up In Tokyo (RUKA & ASA)",
-      "hash": "d419707eedf3a93b2a242436744f36f75245ed54",
-      "levelid": "custom_level_d419707eedf3a93b2a242436744f36f75245ed54"
+      "key": "43fba",
+      "songName": "IPHONE",
+      "hash": "a3a8428c1d9d866a51ae148efd19dcdcf4a5c29d",
+      "levelid": "custom_level_a3a8428c1d9d866a51ae148efd19dcdcf4a5c29d"
     },
     {
-      "key": "43f46",
-      "songName": "Lady Gaga - Abracadabra ( Music Video-Cinema)",
-      "hash": "c20b70311325969cb205f0e76f96a838b49b7b5e",
-      "levelid": "custom_level_c20b70311325969cb205f0e76f96a838b49b7b5e"
+      "key": "43f27",
+      "songName": "全力全開！ゼンカイジャー (ZenryokuZenkai! Zenkaiger)",
+      "hash": "4f8321a7a4e7a5076d8aee260892fb952d00d738",
+      "levelid": "custom_level_4f8321a7a4e7a5076d8aee260892fb952d00d738"
     },
     {
-      "key": "43f45",
-      "songName": "LEMON MELON COOKIE",
-      "hash": "7cb27bd8c1c532f755602024affb251d56b3a8be",
-      "levelid": "custom_level_7cb27bd8c1c532f755602024affb251d56b3a8be"
+      "key": "43fb7",
+      "songName": "Idiot Box!",
+      "hash": "fe1a19c4aa9f6412636c0cf6ee9ff8b57f04e0a8",
+      "levelid": "custom_level_fe1a19c4aa9f6412636c0cf6ee9ff8b57f04e0a8"
     },
     {
-      "key": "43f41",
-      "songName": "Kry.exe - SENT://iNEL(Tournament Version)",
-      "hash": "7f0c1e698586aa2b0134e310dedec054de2ce231",
-      "levelid": "custom_level_7f0c1e698586aa2b0134e310dedec054de2ce231"
+      "key": "43fb6",
+      "songName": "[V3 Chains] Avilon & Holo Bass - Ground Pound",
+      "hash": "59be24e372ece5b4b75e12304f60597a66b43505",
+      "levelid": "custom_level_59be24e372ece5b4b75e12304f60597a66b43505"
     },
     {
-      "key": "43f40",
-      "songName": "サークルライン(Circle Line)/田辺文雄 - チョロQ3 -",
-      "hash": "9ccc852d6bf1ca9f2fdbf655ddc09f027ada2017",
-      "levelid": "custom_level_9ccc852d6bf1ca9f2fdbf655ddc09f027ada2017"
+      "key": "43fb5",
+      "songName": "Shut Up and Dance - Walk the Moon",
+      "hash": "1b4f51f7f5570ae28cf65f366be456e8dd2cf5b2",
+      "levelid": "custom_level_1b4f51f7f5570ae28cf65f366be456e8dd2cf5b2"
     },
     {
-      "key": "43f3f",
-      "songName": "Feed Me Jack - Jelly The Queen",
-      "hash": "506101960fded420c58529d5621f1e437182a5c3",
-      "levelid": "custom_level_506101960fded420c58529d5621f1e437182a5c3"
+      "key": "43faf",
+      "songName": " [SCENECORE MAP PACK] DJ Re:Vert - Blood Box (feat. tracey brakes)",
+      "hash": "436dfc7c175410401c7061c19dbad4d940132065",
+      "levelid": "custom_level_436dfc7c175410401c7061c19dbad4d940132065"
     },
     {
-      "key": "43f3d",
-      "songName": "[SCENECORE MAP PACK] PLAYBOi - Vana x Sophie Powers",
-      "hash": "d2f3c3666cb8f2059dcd06a8a9ed8bc4dc2836e9",
-      "levelid": "custom_level_d2f3c3666cb8f2059dcd06a8a9ed8bc4dc2836e9"
+      "key": "43fb0",
+      "songName": "超主宰",
+      "hash": "7d2c6bba2e1e7277aec739ab7ecbf0069d5114d6",
+      "levelid": "custom_level_7d2c6bba2e1e7277aec739ab7ecbf0069d5114d6"
     },
     {
-      "key": "43f3e",
-      "songName": "Camellia - Hello (BPM) 2025",
-      "hash": "61bfd7d1a9b00b9324e7c5ea642db6ed9a6d2ab6",
-      "levelid": "custom_level_61bfd7d1a9b00b9324e7c5ea642db6ed9a6d2ab6"
+      "key": "43fab",
+      "songName": "ball hard ",
+      "hash": "7306774fcce5b2245d907b864e0ed7a5d3122ead",
+      "levelid": "custom_level_7306774fcce5b2245d907b864e0ed7a5d3122ead"
     },
     {
-      "key": "43f38",
-      "songName": "Teach Me How To Dougie",
-      "hash": "e99acfd872b2912c2bfc8e1d0612cb94bc005800",
-      "levelid": "custom_level_e99acfd872b2912c2bfc8e1d0612cb94bc005800"
+      "key": "43fa9",
+      "songName": "TNT Dick",
+      "hash": "f5331729b4440cee474c14d705d9fc6824cb030f",
+      "levelid": "custom_level_f5331729b4440cee474c14d705d9fc6824cb030f"
     },
     {
-      "key": "43f37",
-      "songName": "LEMONHEAD",
-      "hash": "e40a50fd70cf8187fb034648263a74bfc634f55b",
-      "levelid": "custom_level_e40a50fd70cf8187fb034648263a74bfc634f55b"
+      "key": "43f9b",
+      "songName": "Electroswing (0.85x)",
+      "hash": "a24e1eee6f8521b280feb9636c34ef223f3e485d",
+      "levelid": "custom_level_a24e1eee6f8521b280feb9636c34ef223f3e485d"
     },
     {
-      "key": "43f36",
-      "songName": "Nakiso - Dokuzu (25時、ナイトコードで。 × 初音ミク cover)",
-      "hash": "3a178e86b116e35415696e005f6c9388c938b170",
-      "levelid": "custom_level_3a178e86b116e35415696e005f6c9388c938b170"
+      "key": "43f98",
+      "songName": "Paliatzis (Greek Moments)",
+      "hash": "cfdaf6b6fd7cde94a85af19d796efdbcb57ade26",
+      "levelid": "custom_level_cfdaf6b6fd7cde94a85af19d796efdbcb57ade26"
     },
     {
-      "key": "43f35",
-      "songName": "Flight B741 - King Gizzard and the Lizard Wizard",
-      "hash": "97160bf532e36fb0d131da4af7f8295f03497a89",
-      "levelid": "custom_level_97160bf532e36fb0d131da4af7f8295f03497a89"
+      "key": "43f96",
+      "songName": "heylog - bullseye",
+      "hash": "bef71f1640d282f083a03154ed0dafb15f63fb03",
+      "levelid": "custom_level_bef71f1640d282f083a03154ed0dafb15f63fb03"
     },
     {
-      "key": "43f31",
-      "songName": "S.S.H - Intersect Thunderbolt (Remix)",
-      "hash": "fa6c9669dcc257f27deaecd30b590197b9fdbaa9",
-      "levelid": "custom_level_fa6c9669dcc257f27deaecd30b590197b9fdbaa9"
+      "key": "43f93",
+      "songName": "Laur - Seclusion [CHROMA]",
+      "hash": "eabe6d8ae2e934bde7c1e3562c596bfbe9489454",
+      "levelid": "custom_level_eabe6d8ae2e934bde7c1e3562c596bfbe9489454"
     },
     {
-      "key": "43f2f",
-      "songName": "Broccli diss",
-      "hash": "0295bd3f78b29bf5b3a4efb3dfd2d6e67a392b59",
-      "levelid": "custom_level_0295bd3f78b29bf5b3a4efb3dfd2d6e67a392b59"
+      "key": "43f92",
+      "songName": "CHIDARUMA (Feat. Hatsune Miku) - OTIKA",
+      "hash": "6ca9206abc9e9c9848031311b1a63ccb7b29c981",
+      "levelid": "custom_level_6ca9206abc9e9c9848031311b1a63ccb7b29c981"
     },
     {
-      "key": "43f2e",
-      "songName": "i am barely hanging on - anime love story",
-      "hash": "19c47404f295ebfde0526b767fd4e15c690ce899",
-      "levelid": "custom_level_19c47404f295ebfde0526b767fd4e15c690ce899"
+      "key": "43f90",
+      "songName": "TRAILER - OFF (2025)",
+      "hash": "21c343412e26d848a9df8fc0a47fb4cf9f9bf4c1",
+      "levelid": "custom_level_21c343412e26d848a9df8fc0a47fb4cf9f9bf4c1"
     },
     {
-      "key": "43f2d",
-      "songName": "天下DJ",
-      "hash": "1cd9e7afbfe71accecc1e10f9d31c674b96dfa43",
-      "levelid": "custom_level_1cd9e7afbfe71accecc1e10f9d31c674b96dfa43"
+      "key": "43f8a",
+      "songName": "Sigma Boy - Betsy, Мария Янковская",
+      "hash": "3d9a690cec1ba1546ad300c6b88f3692b6dd1fb2",
+      "levelid": "custom_level_3d9a690cec1ba1546ad300c6b88f3692b6dd1fb2"
     },
     {
-      "key": "43f2c",
-      "songName": "Ponyo on a Cliff",
-      "hash": "b0b0dcf64c71ea73ae4253a96c578d450193ab04",
-      "levelid": "custom_level_b0b0dcf64c71ea73ae4253a96c578d450193ab04"
+      "key": "434ca",
+      "songName": "[SCENECORE MAP PACK] femtanyl - P3T",
+      "hash": "0de55c52915aa7479baa211cad482545fef1b52e",
+      "levelid": "custom_level_0de55c52915aa7479baa211cad482545fef1b52e"
     },
     {
-      "key": "43f2b",
-      "songName": "super awesome",
-      "hash": "794eab7529a72185bcd4e58844e4216093398d77",
-      "levelid": "custom_level_794eab7529a72185bcd4e58844e4216093398d77"
+      "key": "43f85",
+      "songName": "Vaeo - Growing Pains",
+      "hash": "f49fa590e362155d41759d32e1a56ffb415febe5",
+      "levelid": "custom_level_f49fa590e362155d41759d32e1a56ffb415febe5"
     },
     {
-      "key": "43f2a",
-      "songName": "Enter The Darkness - KH:BBS",
-      "hash": "5eacc3d6fe0933a1004204e411b7966a3b6b0c60",
-      "levelid": "custom_level_5eacc3d6fe0933a1004204e411b7966a3b6b0c60"
+      "key": "43f83",
+      "songName": "Splatter Party - Camellia (Feat. Hatsune Miku) [Xena Galia Cover || XH / KYURO3 Remix]",
+      "hash": "7d929c9fa9b7076afb118712e0249dba368469b5",
+      "levelid": "custom_level_7d929c9fa9b7076afb118712e0249dba368469b5"
     },
     {
-      "key": "43f25",
-      "songName": "WOP - J Dash",
-      "hash": "b7dd779dbc19cbb9653625eef424f9c32045ebcc",
-      "levelid": "custom_level_b7dd779dbc19cbb9653625eef424f9c32045ebcc"
+      "key": "43f81",
+      "songName": " [SCENECORE MAP PACK] Sophie Powers - See Me!!",
+      "hash": "69b9a78e6f18719478b71cd55355262ff2ec06ac",
+      "levelid": "custom_level_69b9a78e6f18719478b71cd55355262ff2ec06ac"
     },
     {
-      "key": "43f24",
-      "songName": "Sorry? - Pengu1n",
-      "hash": "0727fbed8fb4ddcc4d19a35a8d3329bdb54b2034",
-      "levelid": "custom_level_0727fbed8fb4ddcc4d19a35a8d3329bdb54b2034"
+      "key": "43f7e",
+      "songName": "Open Hearts - The Weeknd",
+      "hash": "e9a423d03cc89165f40f038226015f40131eb677",
+      "levelid": "custom_level_e9a423d03cc89165f40f038226015f40131eb677"
     },
     {
-      "key": "43f1a",
-      "songName": "Hello (BPM) 2025",
-      "hash": "0999f781efe87bf91c02c4fb95d1b258a3384c88",
-      "levelid": "custom_level_0999f781efe87bf91c02c4fb95d1b258a3384c88"
+      "key": "43f7c",
+      "songName": "𒁶𒋙 𒄿𒈾",
+      "hash": "3845d513b77efa690d74a194559784cfcf487173",
+      "levelid": "custom_level_3845d513b77efa690d74a194559784cfcf487173"
     },
     {
-      "key": "43f17",
-      "songName": "Duck Sauce",
-      "hash": "e827ee796a6e5a590a2a607d8dfbde4d26a7bf42",
-      "levelid": "custom_level_e827ee796a6e5a590a2a607d8dfbde4d26a7bf42"
+      "key": "43f71",
+      "songName": "COUNT THOSE FREAKS [V3]",
+      "hash": "19b0c4b3d51dd52d271edceb82d12ceee6a0bbc4",
+      "levelid": "custom_level_19b0c4b3d51dd52d271edceb82d12ceee6a0bbc4"
     },
     {
-      "key": "43f12",
-      "songName": "Earthless - Uluru Rock",
-      "hash": "66fdab6fa829b7716f50565a854d96a667569be0",
-      "levelid": "custom_level_66fdab6fa829b7716f50565a854d96a667569be0"
+      "key": "43f7a",
+      "songName": "Arctic Monkeys - I Wanna Be Yours",
+      "hash": "1116f35c578bd5e14daecfc7396271d6ee2e402b",
+      "levelid": "custom_level_1116f35c578bd5e14daecfc7396271d6ee2e402b"
     },
     {
-      "key": "43f10",
-      "songName": " YOASOBI - KAIBUTSU (Fuwamoco cover)",
-      "hash": "55041ec077e828b39b7554695f8bb4ee7f2c28e9",
-      "levelid": "custom_level_55041ec077e828b39b7554695f8bb4ee7f2c28e9"
+      "key": "43f77",
+      "songName": "Bambee - Bumble Bee (Sped Up Ver.)",
+      "hash": "fa183ff4148fab48320971aa3949224d327cf4f9",
+      "levelid": "custom_level_fa183ff4148fab48320971aa3949224d327cf4f9"
     },
     {
-      "key": "43f0f",
-      "songName": "Stained, Brutal Calamity",
-      "hash": "27bd8782dfffc10c5156969d4519e430b01e31aa",
-      "levelid": "custom_level_27bd8782dfffc10c5156969d4519e430b01e31aa"
+      "key": "43f75",
+      "songName": "Brutal Spam",
+      "hash": "9f51a94ee087532f700764cb0221369804d1545c",
+      "levelid": "custom_level_9f51a94ee087532f700764cb0221369804d1545c"
     },
     {
-      "key": "43f06",
-      "songName": "Camellia - Hello (BPM) 2025",
-      "hash": "64cdc9af207d67e1c034cb12cdd8c5b100fa30c9",
-      "levelid": "custom_level_64cdc9af207d67e1c034cb12cdd8c5b100fa30c9"
+      "key": "43f76",
+      "songName": "[SCENECORE MAP PACK] DJ Re:Code - Black Bunny ",
+      "hash": "a341ae2104923cc86fc21344e01830580f5fb745",
+      "levelid": "custom_level_a341ae2104923cc86fc21344e01830580f5fb745"
     },
     {
-      "key": "43ef6",
-      "songName": "Something...",
-      "hash": "8a7daab21ce033be68587162425123699836fcb8",
-      "levelid": "custom_level_8a7daab21ce033be68587162425123699836fcb8"
+      "key": "43f73",
+      "songName": "Song 2",
+      "hash": "8a9c353b26bd062089493e91bd8c23424550bb8a",
+      "levelid": "custom_level_8a9c353b26bd062089493e91bd8c23424550bb8a"
     },
     {
-      "key": "43ef2",
-      "songName": " MINNIE  - Cherry Sky ",
-      "hash": "8c14d7102694d934153af7822ac34b14fba1f91f",
-      "levelid": "custom_level_8c14d7102694d934153af7822ac34b14fba1f91f"
+      "key": "43f6c",
+      "songName": "[SCENCECORE MAP PACK] FREE.99 - one",
+      "hash": "989c00eb00d587d692e435c74751222a15e6b984",
+      "levelid": "custom_level_989c00eb00d587d692e435c74751222a15e6b984"
     },
     {
-      "key": "43ef1",
-      "songName": "Paul Owen Music  - The Cyborg Incinerates",
-      "hash": "2ace6c2543062a6d3f36a14a5d3398873e7aa387",
-      "levelid": "custom_level_2ace6c2543062a6d3f36a14a5d3398873e7aa387"
+      "key": "43f69",
+      "songName": "BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER - Sickmode",
+      "hash": "05158be5752de9448add97d01b64f8403eb4d5a6",
+      "levelid": "custom_level_05158be5752de9448add97d01b64f8403eb4d5a6"
     },
     {
-      "key": "43eed",
-      "songName": "FanXiaoQin我期待的不是钱，而是宝贵的尊严",
-      "hash": "3681009b275a60a81d086e53a7e5829e368ef70b",
-      "levelid": "custom_level_3681009b275a60a81d086e53a7e5829e368ef70b"
+      "key": "43f68",
+      "songName": "BIG SHOT",
+      "hash": "e62243c7acee1693250c4ad7b3ba81a108e3c136",
+      "levelid": "custom_level_e62243c7acee1693250c4ad7b3ba81a108e3c136"
     },
     {
-      "key": "43eec",
-      "songName": "1月病",
-      "hash": "02fd7ddb82083d2698fe7f2f9d2da369e0717eaf",
-      "levelid": "custom_level_02fd7ddb82083d2698fe7f2f9d2da369e0717eaf"
+      "key": "43f67",
+      "songName": "Hakken Fighter - Remzcore",
+      "hash": "4975dcb1c035e2c616f2cf8113affb9388c59b37",
+      "levelid": "custom_level_4975dcb1c035e2c616f2cf8113affb9388c59b37"
     },
     {
-      "key": "43eeb",
-      "songName": "Worst hold music ever?",
-      "hash": "9944a96760d56a1556ed9d49029b56478fde1192",
-      "levelid": "custom_level_9944a96760d56a1556ed9d49029b56478fde1192"
+      "key": "4332a",
+      "songName": "[SCENECORE MAP PACK] 6arelyhuman - Hands up! (ft. kets4eki)",
+      "hash": "c7f8f8807d97301ee4937b0856ea23aadddfb322",
+      "levelid": "custom_level_c7f8f8807d97301ee4937b0856ea23aadddfb322"
     },
     {
-      "key": "43eea",
-      "songName": "DELAIN - The Reaping",
-      "hash": "490e4d184f533c304be513f4e76e65405600b8a9",
-      "levelid": "custom_level_490e4d184f533c304be513f4e76e65405600b8a9"
+      "key": "43f5f",
+      "songName": "[SCENCECORE MAP PACK] xxxmyspaceslut - N0TH1NG (th1ngz th4t rhym3 w1th 0r4ng3)",
+      "hash": "cb306cc4705ac7536df3541e60817f3c81ed3a91",
+      "levelid": "custom_level_cb306cc4705ac7536df3541e60817f3c81ed3a91"
     },
     {
-      "key": "43e35",
-      "songName": "MY KZ, UR BF - Everything Everything",
-      "hash": "819582f0f32eb5be5a198668d0522989bc2c0141",
-      "levelid": "custom_level_819582f0f32eb5be5a198668d0522989bc2c0141"
+      "key": "43971",
+      "songName": "[SCENECORE MAP PACK] asteria - EYES ON ME",
+      "hash": "781b2aa1d80ebf5c79d49ede0255c68a79b1c4b6",
+      "levelid": "custom_level_781b2aa1d80ebf5c79d49ede0255c68a79b1c4b6"
     },
     {
-      "key": "43ee0",
-      "songName": "CHEAT CODES - Tokyo Machine (NCS)",
-      "hash": "9a9479f75e4be08a7a35725eb62dcd92226ffa9e",
-      "levelid": "custom_level_9a9479f75e4be08a7a35725eb62dcd92226ffa9e"
+      "key": "43f30",
+      "songName": "[SCENECORE MAP PACK] immortal >:3 - ilymeow",
+      "hash": "97e7e891ab1d7d0197e3330c609a70678b4b56b7",
+      "levelid": "custom_level_97e7e891ab1d7d0197e3330c609a70678b4b56b7"
     },
     {
-      "key": "43edf",
-      "songName": "LET ME IN (feat. FitzyVA) - CG5",
-      "hash": "259063f3116dc84cf4c83e1e16e11eeb7d7bd2d4",
-      "levelid": "custom_level_259063f3116dc84cf4c83e1e16e11eeb7d7bd2d4"
+      "key": "43f20",
+      "songName": "[SCENECORE MAP PACK] - NOKERB - RUIN IT",
+      "hash": "0c48377be313f30be14fa7164b60ed04c58b8c11",
+      "levelid": "custom_level_0c48377be313f30be14fa7164b60ed04c58b8c11"
     },
     {
-      "key": "43ee9",
-      "songName": "yax03 - yx4",
-      "hash": "aaa421811b29b890877ce89608340926a9e6cd5e",
-      "levelid": "custom_level_aaa421811b29b890877ce89608340926a9e6cd5e"
+      "key": "43f5a",
+      "songName": "[Building Blocks Submission #26] Tak, Corbin - Tic! Tac! Toe!",
+      "hash": "3a4f7095f232abe2e71689ff20a4b8408c3ab207",
+      "levelid": "custom_level_3a4f7095f232abe2e71689ff20a4b8408c3ab207"
     },
     {
-      "key": "43ee7",
-      "songName": "Let it Happen",
-      "hash": "0b4e3886abe9dd23073b1b53c91307afd4bed28d",
-      "levelid": "custom_level_0b4e3886abe9dd23073b1b53c91307afd4bed28d"
-    },
-    {
-      "key": "43ee2",
-      "songName": "MINNIE ((G)I-DLE) - Drive U Crazy (feat. YUQI)",
-      "hash": "c429c5ddc4563b0a124aa30de5789902ecda1e99",
-      "levelid": "custom_level_c429c5ddc4563b0a124aa30de5789902ecda1e99"
-    },
-    {
-      "key": "43ed9",
-      "songName": "DM DOKURO - Outcast of The Sulphurous Seas",
-      "hash": "1bbd93786ed30e2d8e393abcd19936b4b3869d69",
-      "levelid": "custom_level_1bbd93786ed30e2d8e393abcd19936b4b3869d69"
+      "key": "43f59",
+      "songName": "[Building Blocks Submission #25] (MODCHART) Nanashi Mumei - mumei",
+      "hash": "5851932955f161170853d6661567322e5f4d32db",
+      "levelid": "custom_level_5851932955f161170853d6661567322e5f4d32db"
     }
   ],
   "image": ""
