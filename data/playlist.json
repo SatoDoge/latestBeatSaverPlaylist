@@ -1,454 +1,244 @@
 {
-  "playlistTitle": "2025-02-04T15:18:48.741Z~2025-02-05T15:18:48.741Z",
+  "playlistTitle": "2025-02-05T15:18:47.908Z~2025-02-06T15:18:47.908Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-02-04T15:18:48.741Z and 2025-02-05T15:18:48.741Z",
+  "discripstion": "Maps published between 2025-02-05T15:18:47.908Z and 2025-02-06T15:18:47.908Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "44064",
-      "songName": "I Wanna Dance With Somebody x Lets Get Married Mash Up - Whitney Houston ft. Jagged Edge",
-      "hash": "c26a10609bd6021f2bace73fad91514912ee2f18",
-      "levelid": "custom_level_c26a10609bd6021f2bace73fad91514912ee2f18"
+      "key": "440c0",
+      "songName": "DANCE",
+      "hash": "1542191c14718c0ebd255d9e7fa5397807b65564",
+      "levelid": "custom_level_1542191c14718c0ebd255d9e7fa5397807b65564"
     },
     {
-      "key": "44060",
-      "songName": " [SCENECORE MAP PACK] 6arelyhuman - Faster N Harder (prod. asteria)",
-      "hash": "3a09e86dcba712426e97c6aac2b15e7f196083cf",
-      "levelid": "custom_level_3a09e86dcba712426e97c6aac2b15e7f196083cf"
+      "key": "440be",
+      "songName": "My Oh My-Ava Max",
+      "hash": "10e6c382f55222e5769e6f6b3c8a94e1906fd03a",
+      "levelid": "custom_level_10e6c382f55222e5769e6f6b3c8a94e1906fd03a"
     },
     {
-      "key": "43f4e",
-      "songName": "星街すいせい - Caramel pain",
-      "hash": "97ed6c03ad4a387088d5ed55c29042890c85cfe6",
-      "levelid": "custom_level_97ed6c03ad4a387088d5ed55c29042890c85cfe6"
+      "key": "440ba",
+      "songName": "more or less",
+      "hash": "c1b1dea9b043763205b8bfcff2720f791145b585",
+      "levelid": "custom_level_c1b1dea9b043763205b8bfcff2720f791145b585"
     },
     {
-      "key": "4405a",
-      "songName": "[Vibro] Dark Dragon Fire (1.2x)",
-      "hash": "dfe511604df2ae1601ae59565263f83caf85be66",
-      "levelid": "custom_level_dfe511604df2ae1601ae59565263f83caf85be66"
+      "key": "440b9",
+      "songName": "(G)I-DLE - Wife",
+      "hash": "58acee478ee711432bf547467c719dd5796e87e0",
+      "levelid": "custom_level_58acee478ee711432bf547467c719dd5796e87e0"
     },
     {
-      "key": "44006",
-      "songName": "[Poodle] Neru - Saikyoiku covered by Hakase Fukuki & Yorumi Rena",
-      "hash": "788d3d74a22c8d92ae96351a89835e2b4e60d920",
-      "levelid": "custom_level_788d3d74a22c8d92ae96351a89835e2b4e60d920"
+      "key": "40fcb",
+      "songName": "Boney M - Rivers Of Babylon (1978)",
+      "hash": "08345e32dec9cbc3e3cea33a8b6bbc13a4a042e7",
+      "levelid": "custom_level_08345e32dec9cbc3e3cea33a8b6bbc13a4a042e7"
     },
     {
-      "key": "44004",
-      "songName": "Issey - MoeChakkaFire covered by kotoha",
-      "hash": "501b284cf70ee6012b6ea10408b0ceffadc08601",
-      "levelid": "custom_level_501b284cf70ee6012b6ea10408b0ceffadc08601"
+      "key": "440b7",
+      "songName": "Jenna Raine - It Is What It Is",
+      "hash": "446e364971db8ba53b4094f10e500bd18c4fc7c6",
+      "levelid": "custom_level_446e364971db8ba53b4094f10e500bd18c4fc7c6"
     },
     {
-      "key": "44003",
-      "songName": "Fuwa Minato - Ittan STAY TONIGHT",
-      "hash": "7218bd11b522a27df1b6404585d51364a00ef6f2",
-      "levelid": "custom_level_7218bd11b522a27df1b6404585d51364a00ef6f2"
+      "key": "440b5",
+      "songName": "not like not like not like us",
+      "hash": "fd702a065a2cf958021b3db85bc9af20c1b1ad94",
+      "levelid": "custom_level_fd702a065a2cf958021b3db85bc9af20c1b1ad94"
     },
     {
-      "key": "43f5e",
-      "songName": "MORE MORE JUMP! * MEGURINE LUKA - Dreamin Chuchu",
-      "hash": "e062091b5f0e55a14eb3dcfb9d55d8a19d6c8719",
-      "levelid": "custom_level_e062091b5f0e55a14eb3dcfb9d55d8a19d6c8719"
+      "key": "440b4",
+      "songName": "underscores - Spoiled little brat",
+      "hash": "444acda3e71700d4cae9be133d1cec15535df2b9",
+      "levelid": "custom_level_444acda3e71700d4cae9be133d1cec15535df2b9"
     },
     {
-      "key": "44059",
-      "songName": "Hener & Smallfox - Uta (7_7 Remix)",
-      "hash": "addbff336dfb3898a6e393d567a3c8569e9b89f9",
-      "levelid": "custom_level_addbff336dfb3898a6e393d567a3c8569e9b89f9"
+      "key": "440b0",
+      "songName": "UNIS - SUPERWOMAN",
+      "hash": "968b7fb0c1d0e5dc6de5ea51e8129b985c8954c4",
+      "levelid": "custom_level_968b7fb0c1d0e5dc6de5ea51e8129b985c8954c4"
     },
     {
-      "key": "44058",
-      "songName": "Jakeneutron - Play My Way",
-      "hash": "81942a11a5af302ba771ebdf01ec971b0386aeae",
-      "levelid": "custom_level_81942a11a5af302ba771ebdf01ec971b0386aeae"
+      "key": "440af",
+      "songName": "silent hill flip",
+      "hash": "44e2018e163483fa95dd525ce2617e1351c7da1c",
+      "levelid": "custom_level_44e2018e163483fa95dd525ce2617e1351c7da1c"
     },
     {
-      "key": "44057",
-      "songName": "Aoi - grandnebula",
-      "hash": "581f3449eba01f2a62441c3349fb2bf4dc8f0d15",
-      "levelid": "custom_level_581f3449eba01f2a62441c3349fb2bf4dc8f0d15"
+      "key": "440ae",
+      "songName": "All Cancel Baby",
+      "hash": "e1a178a8fe7484b92c07fbe6f0122e1b741bd35f",
+      "levelid": "custom_level_e1a178a8fe7484b92c07fbe6f0122e1b741bd35f"
     },
     {
-      "key": "44056",
-      "songName": "B33r_T00b",
-      "hash": "8254c546f9cb417ce70bbd39292f77aa808863f2",
-      "levelid": "custom_level_8254c546f9cb417ce70bbd39292f77aa808863f2"
+      "key": "440ab",
+      "songName": "TAKING A spooky DOOKIE AT 3AM??//???",
+      "hash": "fa82a29dd9166dc4d07918a91c9c32865cf54a5b",
+      "levelid": "custom_level_fa82a29dd9166dc4d07918a91c9c32865cf54a5b"
     },
     {
-      "key": "44055",
-      "songName": "So I Wake Up Everyday at 7 AM (Right Version)",
-      "hash": "5075dc9cc29a6d4303cc036c20329ec3c767b759",
-      "levelid": "custom_level_5075dc9cc29a6d4303cc036c20329ec3c767b759"
+      "key": "43fa3",
+      "songName": "Emerald Lakeside (Action)  / はがね feat. 狐井アキラ",
+      "hash": "1793d4de7e7af9a42ebd5fc3163cf8d63aaf4c6d",
+      "levelid": "custom_level_1793d4de7e7af9a42ebd5fc3163cf8d63aaf4c6d"
     },
     {
-      "key": "44053",
-      "songName": "Lady Gaga-Abracadabra (Music Video Version)-Cinema",
-      "hash": "9e743345664ec7736d80d91769494eec6afe9706",
-      "levelid": "custom_level_9e743345664ec7736d80d91769494eec6afe9706"
+      "key": "440a8",
+      "songName": "The Nerve",
+      "hash": "3c13c29ad72bec47ede54e326502e6d7f91b29d2",
+      "levelid": "custom_level_3c13c29ad72bec47ede54e326502e6d7f91b29d2"
     },
     {
-      "key": "44051",
-      "songName": "End0_114- An Amalgamation Of Carnage",
-      "hash": "a01dc959e5a586fae109fb886a6ec244f1c1c23c",
-      "levelid": "custom_level_a01dc959e5a586fae109fb886a6ec244f1c1c23c"
+      "key": "440a7",
+      "songName": "yummy",
+      "hash": "3c14587dcf8ca5646f08d6064a594e33eb07d46c",
+      "levelid": "custom_level_3c14587dcf8ca5646f08d6064a594e33eb07d46c"
     },
     {
-      "key": "4404f",
-      "songName": "Hoshimachi Suisei - Kireigoto",
-      "hash": "c6fcbff241437560c9facd3c589e56788cdcb268",
-      "levelid": "custom_level_c6fcbff241437560c9facd3c589e56788cdcb268"
+      "key": "440a5",
+      "songName": "Metaoliosis",
+      "hash": "5363b51a13efcac976dde721c83b41de79cc2985",
+      "levelid": "custom_level_5363b51a13efcac976dde721c83b41de79cc2985"
     },
     {
-      "key": "44040",
-      "songName": "Penis RMX",
-      "hash": "b4ebe420efbeedf587dedf20cd5f2deb1b7daa9e",
-      "levelid": "custom_level_b4ebe420efbeedf587dedf20cd5f2deb1b7daa9e"
+      "key": "440a2",
+      "songName": "#BrooklynBloodPop! - SyKo",
+      "hash": "0797b7f741713719093010299a1ed1f00b95114f",
+      "levelid": "custom_level_0797b7f741713719093010299a1ed1f00b95114f"
     },
     {
-      "key": "4403f",
-      "songName": "Just Wanna ×××× With You - Kikuo & Null ft. Kasane Teto SV, KAFU, Kuro Usagi",
-      "hash": "9195b92e05a49715768d37b53d559ea097cf70fe",
-      "levelid": "custom_level_9195b92e05a49715768d37b53d559ea097cf70fe"
+      "key": "4409f",
+      "songName": "Omernac - Time Bomb! [Chroma]",
+      "hash": "44ab889242ea310464d5df68d39081b7909a3997",
+      "levelid": "custom_level_44ab889242ea310464d5df68d39081b7909a3997"
     },
     {
-      "key": "4403e",
-      "songName": "oui oui jemapple bagete 360",
-      "hash": "df678305d9b494072b0008b97ff3ea8919c7eeb8",
-      "levelid": "custom_level_df678305d9b494072b0008b97ff3ea8919c7eeb8"
+      "key": "4409e",
+      "songName": "The Isley Brothers - All In My Lover's Eyes",
+      "hash": "8bce61e90184aafcdd269c611a4cec41fd922848",
+      "levelid": "custom_level_8bce61e90184aafcdd269c611a4cec41fd922848"
     },
     {
-      "key": "4403d",
-      "songName": "ZUNTATA - BURN ALT AIR",
-      "hash": "7fdbd2653d7387c1adbddd22fed93afd9923f518",
-      "levelid": "custom_level_7fdbd2653d7387c1adbddd22fed93afd9923f518"
+      "key": "4409d",
+      "songName": "The Days (NOTION Remix)",
+      "hash": "99f8cb00ce7b77cc6796a50f424f366d6c21b9fb",
+      "levelid": "custom_level_99f8cb00ce7b77cc6796a50f424f366d6c21b9fb"
     },
     {
-      "key": "4403c",
-      "songName": "rhett requests #1",
-      "hash": "0cc99a19b978262eefd83cd8a943640c45ff3a8d",
-      "levelid": "custom_level_0cc99a19b978262eefd83cd8a943640c45ff3a8d"
+      "key": "4409b",
+      "songName": "Avernus ",
+      "hash": "fc314e9f17d05afdfccf7884f831195c3271318a",
+      "levelid": "custom_level_fc314e9f17d05afdfccf7884f831195c3271318a"
     },
     {
-      "key": "44038",
-      "songName": "Hakken Fighter",
-      "hash": "3cd2ed1a2a2ac4978a34f273db2ff5b730fe06a5",
-      "levelid": "custom_level_3cd2ed1a2a2ac4978a34f273db2ff5b730fe06a5"
+      "key": "44098",
+      "songName": "Kahoot! - 10 Second Countdown [Extended]",
+      "hash": "7a4e193267856977f0f6e2e7b40a10764d930944",
+      "levelid": "custom_level_7a4e193267856977f0f6e2e7b40a10764d930944"
     },
     {
-      "key": "44035",
-      "songName": "[Building Blocks Submission #58] Midnight Grand Orchestra - Midnight Mission",
-      "hash": "86a9e017c72f81b27a82db7b6af1c1bca4eaf596",
-      "levelid": "custom_level_86a9e017c72f81b27a82db7b6af1c1bca4eaf596"
+      "key": "44095",
+      "songName": "EMVBRACE MY CUERS",
+      "hash": "f46164ab2e26c07c860526d6533d52657cfbfcb2",
+      "levelid": "custom_level_f46164ab2e26c07c860526d6533d52657cfbfcb2"
     },
     {
-      "key": "44036",
-      "songName": "[Building Blocks Submission #57] ReeK - Farewell to Reality",
-      "hash": "3e3b42c6d531215028aace509d75822c07b25648",
-      "levelid": "custom_level_3e3b42c6d531215028aace509d75822c07b25648"
+      "key": "44094",
+      "songName": "Confessions of a Rotten Girl",
+      "hash": "9d570d2ce512236ab78e901472330f43a21343c3",
+      "levelid": "custom_level_9d570d2ce512236ab78e901472330f43a21343c3"
     },
     {
-      "key": "44013",
-      "songName": "[Building Blocks Submission #56] 32ki - Mesmerizer",
-      "hash": "1bb667e2085618f9823eda4272585ab3031500c9",
-      "levelid": "custom_level_1bb667e2085618f9823eda4272585ab3031500c9"
+      "key": "44092",
+      "songName": "moetwee, enveel - Closing my eyes | Закрываю глаза",
+      "hash": "1880a2e102d96f9178c58a07490c89039f62eaf1",
+      "levelid": "custom_level_1880a2e102d96f9178c58a07490c89039f62eaf1"
     },
     {
-      "key": "44032",
-      "songName": "oui oui jemapple bagete V3",
-      "hash": "7854f9081183b499e4968c409c9605b1aa200a60",
-      "levelid": "custom_level_7854f9081183b499e4968c409c9605b1aa200a60"
+      "key": "44091",
+      "songName": "No Fear, No Despair, With All My Hearts - Xystran",
+      "hash": "c38e4b4d6eed9600d13de3b264c9486a8b823946",
+      "levelid": "custom_level_c38e4b4d6eed9600d13de3b264c9486a8b823946"
     },
     {
-      "key": "4402f",
-      "songName": "BEST INTEREST",
-      "hash": "2499c965fc90efb208d6cac641ac5429b577d4ba",
-      "levelid": "custom_level_2499c965fc90efb208d6cac641ac5429b577d4ba"
+      "key": "44090",
+      "songName": "prism fountain",
+      "hash": "0c4ac2dabe2b327d478738a4e9d9172e1b72daf6",
+      "levelid": "custom_level_0c4ac2dabe2b327d478738a4e9d9172e1b72daf6"
     },
     {
-      "key": "4402e",
-      "songName": "leroy - omg! ~CR*SH DESIRE~",
-      "hash": "2bdaa6e542c9eb90f8aacef986a3fab6f8341250",
-      "levelid": "custom_level_2bdaa6e542c9eb90f8aacef986a3fab6f8341250"
+      "key": "4408e",
+      "songName": "Kevin MacLeod - Spazzmatica Polka",
+      "hash": "2f5ab4867814e9d037faf0b21d2670ce076034d1",
+      "levelid": "custom_level_2f5ab4867814e9d037faf0b21d2670ce076034d1"
     },
     {
-      "key": "4402b",
-      "songName": "Remedy",
-      "hash": "07be4a76e66aad930b8ceb2c35f04bae692e8a83",
-      "levelid": "custom_level_07be4a76e66aad930b8ceb2c35f04bae692e8a83"
+      "key": "4408d",
+      "songName": "Pink Pony Club - Chappell Roan",
+      "hash": "ac33d3b166807a0a87e62d6520acff9e25b264d6",
+      "levelid": "custom_level_ac33d3b166807a0a87e62d6520acff9e25b264d6"
     },
     {
-      "key": "4402d",
-      "songName": "As The Impossibles Caves In [ MADE FOR SONI ]",
-      "hash": "ad72cf52e4623ad50877d105dc2701502126d0e5",
-      "levelid": "custom_level_ad72cf52e4623ad50877d105dc2701502126d0e5"
+      "key": "4408a",
+      "songName": "SAWTOWNE - Confessions of a Rotten Girl",
+      "hash": "362eb44346ededc597453f77f2952b8be2a4615b",
+      "levelid": "custom_level_362eb44346ededc597453f77f2952b8be2a4615b"
     },
     {
-      "key": "4402c",
-      "songName": "Key Glock x Young Dolph - Let's Go (Remix)",
-      "hash": "5ba9c1856de5cc9350e6e79a9bf22c53027d52a4",
-      "levelid": "custom_level_5ba9c1856de5cc9350e6e79a9bf22c53027d52a4"
+      "key": "44081",
+      "songName": "SAWTOWNE - Confessions of a Rotten Girl (ft. Hatsune Miku)",
+      "hash": "8219fc671b2773f176da6f48cd9077a009dfaf50",
+      "levelid": "custom_level_8219fc671b2773f176da6f48cd9077a009dfaf50"
     },
     {
-      "key": "44027",
-      "songName": "Lady Gaga - Abracadabra",
-      "hash": "6a3b6e2aee90f4da5a0881a49bdc3f11d9989bf9",
-      "levelid": "custom_level_6a3b6e2aee90f4da5a0881a49bdc3f11d9989bf9"
+      "key": "4407e",
+      "songName": "Dune Eternal - ULTRAKILL",
+      "hash": "b4b9a97aeb37354d8f37e082f9fb78e34db192e0",
+      "levelid": "custom_level_b4b9a97aeb37354d8f37e082f9fb78e34db192e0"
     },
     {
-      "key": "44025",
-      "songName": "Kobaryo - IF YOU'RE 666, THEN I'M 667",
-      "hash": "aae42181856be4ee83b47c1ff18b517841639403",
-      "levelid": "custom_level_aae42181856be4ee83b47c1ff18b517841639403"
+      "key": "4407d",
+      "songName": "Something Good 08'",
+      "hash": "a3bb767ea428b33e5ab55e9a50f94db41285925a",
+      "levelid": "custom_level_a3bb767ea428b33e5ab55e9a50f94db41285925a"
     },
     {
-      "key": "44021",
-      "songName": "Kevin Penkin - Tabi no Hidarite, Saihate no Migite",
-      "hash": "db88501028350e290fc2488dea4516ec784ac527",
-      "levelid": "custom_level_db88501028350e290fc2488dea4516ec784ac527"
+      "key": "4407a",
+      "songName": "Perry das Schnabeltier (Theme)",
+      "hash": "05567e2b4c6fd4316e9e5ce60797a870e65009ce",
+      "levelid": "custom_level_05567e2b4c6fd4316e9e5ce60797a870e65009ce"
     },
     {
-      "key": "4401f",
-      "songName": "Bladee - Trendy",
-      "hash": "4138c92d3dcffd0a4f125f0326e5d9ce8f0f7b06",
-      "levelid": "custom_level_4138c92d3dcffd0a4f125f0326e5d9ce8f0f7b06"
+      "key": "44077",
+      "songName": "(You Drive Me) Crazy [Meme Version]",
+      "hash": "693aee44b2b61ffecf13ce8e6fcd8cbc2964d142",
+      "levelid": "custom_level_693aee44b2b61ffecf13ce8e6fcd8cbc2964d142"
     },
     {
-      "key": "4401e",
-      "songName": "Masonna - Ejaculation Generator",
-      "hash": "9b0710a83cbdc6123b31503784218a96049116b3",
-      "levelid": "custom_level_9b0710a83cbdc6123b31503784218a96049116b3"
+      "key": "44076",
+      "songName": "Perfect Girl - Mareux",
+      "hash": "39c5aa13234514fed6baeb03e8e3cda06e4dbdac",
+      "levelid": "custom_level_39c5aa13234514fed6baeb03e8e3cda06e4dbdac"
     },
     {
-      "key": "43f78",
-      "songName": "Duvet (TV Sized)",
-      "hash": "d2e51c72085580be3594265979075d4f91fc8b08",
-      "levelid": "custom_level_d2e51c72085580be3594265979075d4f91fc8b08"
+      "key": "44073",
+      "songName": "2hollis - light",
+      "hash": "fa4664da179e0fa699b82740b90bafb017572418",
+      "levelid": "custom_level_fa4664da179e0fa699b82740b90bafb017572418"
     },
     {
-      "key": "44019",
-      "songName": "Gram & RONDO - Rinka",
-      "hash": "2023b6004251ebe586f905ff2efdbf930b9ba383",
-      "levelid": "custom_level_2023b6004251ebe586f905ff2efdbf930b9ba383"
+      "key": "44075",
+      "songName": "Baptized In Fear - The Weeknd",
+      "hash": "d3a5c8c96f2ccff288d5dcaab330f6541af16cc4",
+      "levelid": "custom_level_d3a5c8c96f2ccff288d5dcaab330f6541af16cc4"
     },
     {
-      "key": "43f74",
-      "songName": "夢重力 - Dream Gravity",
-      "hash": "812cd77fa1b96bfe391a9dbbc219f21b1bec8673",
-      "levelid": "custom_level_812cd77fa1b96bfe391a9dbbc219f21b1bec8673"
-    },
-    {
-      "key": "44016",
-      "songName": "Earthless - Black Heaven (cut)",
-      "hash": "8d73790ab7d7aaa9019e7e9eb6bcd54489082b02",
-      "levelid": "custom_level_8d73790ab7d7aaa9019e7e9eb6bcd54489082b02"
-    },
-    {
-      "key": "44015",
-      "songName": "Imaginary Places",
-      "hash": "34010bb54411587a13184d2bbe272e76d453b44f",
-      "levelid": "custom_level_34010bb54411587a13184d2bbe272e76d453b44f"
-    },
-    {
-      "key": "44011",
-      "songName": "[Building Blocks Submission #55] (MODCHART) LilDeuceDeuce - Everybody Do The Flop",
-      "hash": "474f29b6a1cbc3f22160a60b8e8cffec4c78e231",
-      "levelid": "custom_level_474f29b6a1cbc3f22160a60b8e8cffec4c78e231"
-    },
-    {
-      "key": "44010",
-      "songName": "[Building Blocks Submission #54] Masayoshi Minoshima - Bad Apple!! (Camellia's \"Bad Psy\" Remix)",
-      "hash": "fd354f43d6ad88428390d621d68df814237dc306",
-      "levelid": "custom_level_fd354f43d6ad88428390d621d68df814237dc306"
-    },
-    {
-      "key": "4400f",
-      "songName": "[Building Blocks Submission #53] Tak, Corbin - Tic! Tac! Toe!",
-      "hash": "3d70c686a9498f3945e5795136c22294010a6e52",
-      "levelid": "custom_level_3d70c686a9498f3945e5795136c22294010a6e52"
-    },
-    {
-      "key": "4400e",
-      "songName": "[Building Blocks Submission #52] LilDeuceDeuce - Everybody Do The Flop",
-      "hash": "6bd6a80b32de5f31a24317abaa0e58a7e0f53bb0",
-      "levelid": "custom_level_6bd6a80b32de5f31a24317abaa0e58a7e0f53bb0"
-    },
-    {
-      "key": "4400d",
-      "songName": "[Building Blocks Submission #51] Käärijä, Joost - TRAFIK!",
-      "hash": "0953b9292cde6afc338c7c86868bca17f14c4a30",
-      "levelid": "custom_level_0953b9292cde6afc338c7c86868bca17f14c4a30"
-    },
-    {
-      "key": "4400c",
-      "songName": "[Building Blocks Submission #50] Tak, Corbin - Tic! Tac! Toe!",
-      "hash": "bb7bf65339acd80a59fcd8ab0a02a0895724b418",
-      "levelid": "custom_level_bb7bf65339acd80a59fcd8ab0a02a0895724b418"
-    },
-    {
-      "key": "4400a",
-      "songName": "Shaky Criminal - Michael Shakeson",
-      "hash": "7c4474d6ca31ce233e29ac30dab8039011e0cb27",
-      "levelid": "custom_level_7c4474d6ca31ce233e29ac30dab8039011e0cb27"
-    },
-    {
-      "key": "44009",
-      "songName": " Splatter Party - Camellia (Feat. Hatsune Miku) [Xena Galia Cover || XH / KYURO3 Remix]",
-      "hash": "621f45d095f139e3c447fbc2e973a6321506ce08",
-      "levelid": "custom_level_621f45d095f139e3c447fbc2e973a6321506ce08"
-    },
-    {
-      "key": "44008",
-      "songName": "42 - 5opka, 6055",
-      "hash": "9a8447c252152b6e2853f1a9562a718d74e3173a",
-      "levelid": "custom_level_9a8447c252152b6e2853f1a9562a718d74e3173a"
-    },
-    {
-      "key": "44007",
-      "songName": "Party All Night (Sleep All Day) - Sean Kingston (V3)",
-      "hash": "2eb7b2b149d142807ec07c249ce47e5dbcd02e3b",
-      "levelid": "custom_level_2eb7b2b149d142807ec07c249ce47e5dbcd02e3b"
-    },
-    {
-      "key": "43ffd",
-      "songName": "[Chroma+] The Night Does Not Belong to God - Sleep Token",
-      "hash": "fde65923ea2a17a1e4be04f891a3def8593e76e2",
-      "levelid": "custom_level_fde65923ea2a17a1e4be04f891a3def8593e76e2"
-    },
-    {
-      "key": "43ff9",
-      "songName": "[Building Blocks Submission #46] Tak, Corbin - Tic! Tac! Toe!",
-      "hash": "612730d513bea9799f29a2dd580fe6e59977c9db",
-      "levelid": "custom_level_612730d513bea9799f29a2dd580fe6e59977c9db"
-    },
-    {
-      "key": "43ffc",
-      "songName": "[Building Blocks Submission #49] Masayoshi Minoshima - Bad Apple!! (Camellia's \"Bad Psy\" Remix)",
-      "hash": "b3b30f35676413ee7c8ebdbe8be70e6c9956dc85",
-      "levelid": "custom_level_b3b30f35676413ee7c8ebdbe8be70e6c9956dc85"
-    },
-    {
-      "key": "43ffb",
-      "songName": "[Building Blocks Submission #48] (MODCHART) LilDeuceDeuce - Everybody Do The Flop",
-      "hash": "ba3eeea3c35c8e701a76521867d6338452adb866",
-      "levelid": "custom_level_ba3eeea3c35c8e701a76521867d6338452adb866"
-    },
-    {
-      "key": "43ffa",
-      "songName": "[Building Blocks Submission #47] 32ki - Mesmerizer",
-      "hash": "5c5267d0ba3dea58b4bc21abdb76fa0ac9c6f621",
-      "levelid": "custom_level_5c5267d0ba3dea58b4bc21abdb76fa0ac9c6f621"
-    },
-    {
-      "key": "43ff8",
-      "songName": "[Building Blocks Submission #45] Käärijä, Joost - TRAFIK!",
-      "hash": "425c264a0f9175c9b6205f95ae10d23a81ce4dae",
-      "levelid": "custom_level_425c264a0f9175c9b6205f95ae10d23a81ce4dae"
-    },
-    {
-      "key": "43ff7",
-      "songName": "[Building Blocks Submission #44] Käärijä, Joost - TRAFIK!",
-      "hash": "2fc1ba81adf9ba2a634e0278ccde27437b449444",
-      "levelid": "custom_level_2fc1ba81adf9ba2a634e0278ccde27437b449444"
-    },
-    {
-      "key": "43ff6",
-      "songName": "[Building Blocks Submission #43] Tak, Corbin - Tic! Tac! Toe!",
-      "hash": "e73034d70d200b06e17303f32cf3b3db3ac524de",
-      "levelid": "custom_level_e73034d70d200b06e17303f32cf3b3db3ac524de"
-    },
-    {
-      "key": "43ff4",
-      "songName": "[Building Blocks Submission #42] (MODCHART) Sefa, D-Block, S-te-Fan - Infinity",
-      "hash": "b776777ce43653ab0cb8a22f6272464a2c8ece70",
-      "levelid": "custom_level_b776777ce43653ab0cb8a22f6272464a2c8ece70"
-    },
-    {
-      "key": "43ff3",
-      "songName": "[Building Blocks Submission #41] Masayoshi Minoshima - Bad Apple!! (Camellia's \"Bad Psy\" Remix)",
-      "hash": "3ae2d16b7d57e27db69fc111618551e422d18bfd",
-      "levelid": "custom_level_3ae2d16b7d57e27db69fc111618551e422d18bfd"
-    },
-    {
-      "key": "43ff1",
-      "songName": "[Building Blocks Submission #40] Throttle - For Me",
-      "hash": "e0f73340589e47e707044e84038dd0598caa68b4",
-      "levelid": "custom_level_e0f73340589e47e707044e84038dd0598caa68b4"
-    },
-    {
-      "key": "43ff0",
-      "songName": "[Building Blocks Submission #39] ReeK - Farewell to Reality",
-      "hash": "86af43f236d32af49af6e154db3b6818275c7733",
-      "levelid": "custom_level_86af43f236d32af49af6e154db3b6818275c7733"
-    },
-    {
-      "key": "43fef",
-      "songName": "[Building Blocks Submission #38] Käärijä, Joost - TRAFIK!",
-      "hash": "999abde8451549944c11d85a18cea84220b55335",
-      "levelid": "custom_level_999abde8451549944c11d85a18cea84220b55335"
-    },
-    {
-      "key": "43fed",
-      "songName": "[Building Blocks Submission #37] Nanashi Mumei - mumei",
-      "hash": "7e8d5b77bcd8ce26e135719ccd1411355e9ca1e1",
-      "levelid": "custom_level_7e8d5b77bcd8ce26e135719ccd1411355e9ca1e1"
-    },
-    {
-      "key": "43fec",
-      "songName": "[Building Blocks Submission #36] Käärijä, Joost - TRAFIK!",
-      "hash": "e8cb3e03d9a583b46340e573305fbee03fa66af4",
-      "levelid": "custom_level_e8cb3e03d9a583b46340e573305fbee03fa66af4"
-    },
-    {
-      "key": "43feb",
-      "songName": "[Building Blocks Submission #35] Käärijä, Joost - TRAFIK!",
-      "hash": "f681640e6906c16e5a578e3bd48751903af5bac1",
-      "levelid": "custom_level_f681640e6906c16e5a578e3bd48751903af5bac1"
-    },
-    {
-      "key": "43fea",
-      "songName": "[Building Blocks Submission #34] Tak, Corbin - Tic! Tac! Toe!",
-      "hash": "dec01016f53a3af28dbf8571be9d20d9845d6b7a",
-      "levelid": "custom_level_dec01016f53a3af28dbf8571be9d20d9845d6b7a"
-    },
-    {
-      "key": "43fe7",
-      "songName": "[Building Blocks Submission #32] Käärijä, Joost - TRAFIK!",
-      "hash": "bf35723e30b7369ab870dd02d7bd12bff875601c",
-      "levelid": "custom_level_bf35723e30b7369ab870dd02d7bd12bff875601c"
-    },
-    {
-      "key": "43fe6",
-      "songName": "[Building Blocks Submission #31] (MODCHART) Yonetro - Letting Go",
-      "hash": "06d1f7d5291a80de8a5e31e885d4a15bf8892705",
-      "levelid": "custom_level_06d1f7d5291a80de8a5e31e885d4a15bf8892705"
-    },
-    {
-      "key": "43fe5",
-      "songName": "[Building Blocks Submission #30] Masayoshi Minoshima - Bad Apple!! (Camellia's \"Bad Psy\" Remix)",
-      "hash": "eb13d49b79012ca93979d8b69cb44656f98dc73f",
-      "levelid": "custom_level_eb13d49b79012ca93979d8b69cb44656f98dc73f"
-    },
-    {
-      "key": "43fe3",
-      "songName": "[Building Blocks Submission #29] LilDeuceDeuce - Everybody Do The Flop",
-      "hash": "94c8ff31b59d6b506ec18ddf4b3e437b09a89985",
-      "levelid": "custom_level_94c8ff31b59d6b506ec18ddf4b3e437b09a89985"
-    },
-    {
-      "key": "43fe2",
-      "songName": "[Building Blocks Submission #28] Käärijä, Joost - TRAFIK!",
-      "hash": "89f53f19105a87da0431a0ffa5f067ee0c5d3aa3",
-      "levelid": "custom_level_89f53f19105a87da0431a0ffa5f067ee0c5d3aa3"
-    },
-    {
-      "key": "43fe1",
-      "songName": "[Building Blocks Submission #27] Throttle - For Me",
-      "hash": "0fc2a3240d157dd5bdc3427e81e055b5faa5f990",
-      "levelid": "custom_level_0fc2a3240d157dd5bdc3427e81e055b5faa5f990"
+      "key": "4406f",
+      "songName": "Weapons-Ava Max",
+      "hash": "645798e5c311e9db4db14a5cef3f7ef9d29e88a7",
+      "levelid": "custom_level_645798e5c311e9db4db14a5cef3f7ef9d29e88a7"
     }
   ],
   "image": ""
