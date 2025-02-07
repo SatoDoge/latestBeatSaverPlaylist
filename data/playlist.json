@@ -1,244 +1,304 @@
 {
-  "playlistTitle": "2025-02-05T15:18:47.908Z~2025-02-06T15:18:47.908Z",
+  "playlistTitle": "2025-02-06T15:18:48.258Z~2025-02-07T15:18:48.258Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-02-05T15:18:47.908Z and 2025-02-06T15:18:47.908Z",
+  "discripstion": "Maps published between 2025-02-06T15:18:48.258Z and 2025-02-07T15:18:48.258Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "440c0",
-      "songName": "DANCE",
-      "hash": "1542191c14718c0ebd255d9e7fa5397807b65564",
-      "levelid": "custom_level_1542191c14718c0ebd255d9e7fa5397807b65564"
+      "key": "4412c",
+      "songName": "只因你太美",
+      "hash": "753f5ddf1b27108ebc7ce1a775e6adf696163d5d",
+      "levelid": "custom_level_753f5ddf1b27108ebc7ce1a775e6adf696163d5d"
     },
     {
-      "key": "440be",
-      "songName": "My Oh My-Ava Max",
-      "hash": "10e6c382f55222e5769e6f6b3c8a94e1906fd03a",
-      "levelid": "custom_level_10e6c382f55222e5769e6f6b3c8a94e1906fd03a"
+      "key": "4412b",
+      "songName": "01-11魔女密会",
+      "hash": "41dd16277ca58ce9c86d76b5eb3236e7d4d8c257",
+      "levelid": "custom_level_41dd16277ca58ce9c86d76b5eb3236e7d4d8c257"
     },
     {
-      "key": "440ba",
+      "key": "4412a",
+      "songName": "Anakin vs Obi-Wan but it's a musical",
+      "hash": "16525912eadf33f506859ff803134088c2b3567b",
+      "levelid": "custom_level_16525912eadf33f506859ff803134088c2b3567b"
+    },
+    {
+      "key": "44129",
+      "songName": "Murasaki Shion - Acacia Syndrome",
+      "hash": "e75e554f8f7b3b24d9597d2d1345bed8f610c61b",
+      "levelid": "custom_level_e75e554f8f7b3b24d9597d2d1345bed8f610c61b"
+    },
+    {
+      "key": "44128",
+      "songName": "Kashii Moimi - Cat Rubbing covered by YUENA",
+      "hash": "d4bef9611b5f89cf7e28cf627d82f403d45e1eea",
+      "levelid": "custom_level_d4bef9611b5f89cf7e28cf627d82f403d45e1eea"
+    },
+    {
+      "key": "44119",
+      "songName": "ericdoa - sheaskedwhatmylifeislike",
+      "hash": "c37f6af40c353fdac5bead5aa17c3203cc616595",
+      "levelid": "custom_level_c37f6af40c353fdac5bead5aa17c3203cc616595"
+    },
+    {
+      "key": "44115",
+      "songName": "i know you hate me",
+      "hash": "93074d01e2feb88304fbfe55b3f31e84f9298729",
+      "levelid": "custom_level_93074d01e2feb88304fbfe55b3f31e84f9298729"
+    },
+    {
+      "key": "4410f",
+      "songName": "Lighthouse-Infected Rain",
+      "hash": "6e722cd335c1d70da10d23cb867f7838f82461de",
+      "levelid": "custom_level_6e722cd335c1d70da10d23cb867f7838f82461de"
+    },
+    {
+      "key": "4410d",
+      "songName": "幽閉サテライト-陽だまり探して(Cut Ver.)",
+      "hash": "d0e95dd7f718a052121186ae0c6ad8b2ad62fb14",
+      "levelid": "custom_level_d0e95dd7f718a052121186ae0c6ad8b2ad62fb14"
+    },
+    {
+      "key": "4410b",
+      "songName": "(177) rock that body shawty - d3r (shortened)",
+      "hash": "a874117419c940846c179f5131175cfb1a76591b",
+      "levelid": "custom_level_a874117419c940846c179f5131175cfb1a76591b"
+    },
+    {
+      "key": "4410c",
+      "songName": "Ocean Night - Re-Logic",
+      "hash": "11e5d9ad942cf2255e674c2bf2a24e1f830b339f",
+      "levelid": "custom_level_11e5d9ad942cf2255e674c2bf2a24e1f830b339f"
+    },
+    {
+      "key": "44109",
+      "songName": "rap man ",
+      "hash": "db46391a8cb7e9d2709e0dec7a657ba9b20e815d",
+      "levelid": "custom_level_db46391a8cb7e9d2709e0dec7a657ba9b20e815d"
+    },
+    {
+      "key": "44107",
+      "songName": "Dog With no Fur ",
+      "hash": "3605a8dc51543894feac329f28bf2b246f859af0",
+      "levelid": "custom_level_3605a8dc51543894feac329f28bf2b246f859af0"
+    },
+    {
+      "key": "44105",
+      "songName": "Hello (BPM) 2025",
+      "hash": "2df8cc2b3df75b30d788cbdbcf0a68023636a707",
+      "levelid": "custom_level_2df8cc2b3df75b30d788cbdbcf0a68023636a707"
+    },
+    {
+      "key": "44106",
+      "songName": "map test",
+      "hash": "8a5cf39dc9e7575e0a8b4e9dada6334c0eac11e8",
+      "levelid": "custom_level_8a5cf39dc9e7575e0a8b4e9dada6334c0eac11e8"
+    },
+    {
+      "key": "44104",
+      "songName": "Rescue Girl",
+      "hash": "ce263990f6fa0167f1405704da3e7318156fd3e0",
+      "levelid": "custom_level_ce263990f6fa0167f1405704da3e7318156fd3e0"
+    },
+    {
+      "key": "44103",
+      "songName": "bbn - jahlu",
+      "hash": "f41eb6e9777a33ea444668a613a2466a21a5595a",
+      "levelid": "custom_level_f41eb6e9777a33ea444668a613a2466a21a5595a"
+    },
+    {
+      "key": "44100",
+      "songName": "AI Country Song  (Explicit)   Pauls",
+      "hash": "238e43802285c9d82944cf4f3bf74bae7a521437",
+      "levelid": "custom_level_238e43802285c9d82944cf4f3bf74bae7a521437"
+    },
+    {
+      "key": "440ff",
+      "songName": "PoSTED in the TErnchets",
+      "hash": "4bbe8c026ec33cefa2a50d6a514994f2229dbdf8",
+      "levelid": "custom_level_4bbe8c026ec33cefa2a50d6a514994f2229dbdf8"
+    },
+    {
+      "key": "440fe",
+      "songName": "Idksterling Song",
+      "hash": "922305ac50c527f26c32092d7de000f6f8285ad9",
+      "levelid": "custom_level_922305ac50c527f26c32092d7de000f6f8285ad9"
+    },
+    {
+      "key": "440fc",
+      "songName": "Never Say - ND Lee",
+      "hash": "af49dd83006d94be97e949638eaef88b581d6b43",
+      "levelid": "custom_level_af49dd83006d94be97e949638eaef88b581d6b43"
+    },
+    {
+      "key": "440f8",
+      "songName": "Kr1z - Forever",
+      "hash": "f175b667d30cb144b149918989c06af85f67eb46",
+      "levelid": "custom_level_f175b667d30cb144b149918989c06af85f67eb46"
+    },
+    {
+      "key": "440fb",
+      "songName": "Crush on Funk",
+      "hash": "0474261a0a3a14729f873f9364082188b0951cad",
+      "levelid": "custom_level_0474261a0a3a14729f873f9364082188b0951cad"
+    },
+    {
+      "key": "440fa",
+      "songName": "Nstryder - Miserable Pile Of Secrets",
+      "hash": "75b09f6065ee1171f06310e507978ffad14cde1e",
+      "levelid": "custom_level_75b09f6065ee1171f06310e507978ffad14cde1e"
+    },
+    {
+      "key": "440f9",
+      "songName": "TV Girl - Taking What's Not Yours",
+      "hash": "a071ad40a4fd53cabf066b5488500b6cbc169b28",
+      "levelid": "custom_level_a071ad40a4fd53cabf066b5488500b6cbc169b28"
+    },
+    {
+      "key": "440f6",
+      "songName": "KATAMARI",
+      "hash": "5debe08690ea9b6f1f659c017d2ddcc6f7f85d90",
+      "levelid": "custom_level_5debe08690ea9b6f1f659c017d2ddcc6f7f85d90"
+    },
+    {
+      "key": "440f5",
+      "songName": "peanut butter peanut butter peanut butter peanut butter",
+      "hash": "b2d39e7520acf642d5eae8055ef71a6837a26c35",
+      "levelid": "custom_level_b2d39e7520acf642d5eae8055ef71a6837a26c35"
+    },
+    {
+      "key": "440f3",
       "songName": "more or less",
-      "hash": "c1b1dea9b043763205b8bfcff2720f791145b585",
-      "levelid": "custom_level_c1b1dea9b043763205b8bfcff2720f791145b585"
+      "hash": "56bde7f3c521e0453094a1feec542b03def7c85b",
+      "levelid": "custom_level_56bde7f3c521e0453094a1feec542b03def7c85b"
     },
     {
-      "key": "440b9",
-      "songName": "(G)I-DLE - Wife",
-      "hash": "58acee478ee711432bf547467c719dd5796e87e0",
-      "levelid": "custom_level_58acee478ee711432bf547467c719dd5796e87e0"
+      "key": "440f2",
+      "songName": "EASTINANDDOPY, PLAY THIS",
+      "hash": "06c559611a01a0e71a09c9736acb4db833a31f53",
+      "levelid": "custom_level_06c559611a01a0e71a09c9736acb4db833a31f53"
     },
     {
-      "key": "40fcb",
-      "songName": "Boney M - Rivers Of Babylon (1978)",
-      "hash": "08345e32dec9cbc3e3cea33a8b6bbc13a4a042e7",
-      "levelid": "custom_level_08345e32dec9cbc3e3cea33a8b6bbc13a4a042e7"
+      "key": "440f1",
+      "songName": "how is it possibly that difficult to be honest with me - haunt",
+      "hash": "899d9023e732ef8cbaff097295094022d7276b06",
+      "levelid": "custom_level_899d9023e732ef8cbaff097295094022d7276b06"
     },
     {
-      "key": "440b7",
-      "songName": "Jenna Raine - It Is What It Is",
-      "hash": "446e364971db8ba53b4094f10e500bd18c4fc7c6",
-      "levelid": "custom_level_446e364971db8ba53b4094f10e500bd18c4fc7c6"
+      "key": "440f0",
+      "songName": "Abracadabra - Lady Gaga",
+      "hash": "b65674e9e012b932127fab65663e88e3247487f4",
+      "levelid": "custom_level_b65674e9e012b932127fab65663e88e3247487f4"
     },
     {
-      "key": "440b5",
-      "songName": "not like not like not like us",
-      "hash": "fd702a065a2cf958021b3db85bc9af20c1b1ad94",
-      "levelid": "custom_level_fd702a065a2cf958021b3db85bc9af20c1b1ad94"
+      "key": "440ee",
+      "songName": "Nutella. PEANUT BUTTAH!",
+      "hash": "6ac5448b067253883e04f692e4a890def0bbe26a",
+      "levelid": "custom_level_6ac5448b067253883e04f692e4a890def0bbe26a"
     },
     {
-      "key": "440b4",
-      "songName": "underscores - Spoiled little brat",
-      "hash": "444acda3e71700d4cae9be133d1cec15535df2b9",
-      "levelid": "custom_level_444acda3e71700d4cae9be133d1cec15535df2b9"
+      "key": "440e1",
+      "songName": "Santaflow - La Locura Está en Mí (feat. Porta & Eneyser) (Remix)",
+      "hash": "af5319a239b90cc455c8bb4327dacb243976a127",
+      "levelid": "custom_level_af5319a239b90cc455c8bb4327dacb243976a127"
     },
     {
-      "key": "440b0",
-      "songName": "UNIS - SUPERWOMAN",
-      "hash": "968b7fb0c1d0e5dc6de5ea51e8129b985c8954c4",
-      "levelid": "custom_level_968b7fb0c1d0e5dc6de5ea51e8129b985c8954c4"
+      "key": "440e0",
+      "songName": "Ludicin - Echoes of Memoria",
+      "hash": "cdf860f5180b963567e4b00a7f19ef43e533aa76",
+      "levelid": "custom_level_cdf860f5180b963567e4b00a7f19ef43e533aa76"
     },
     {
-      "key": "440af",
-      "songName": "silent hill flip",
-      "hash": "44e2018e163483fa95dd525ce2617e1351c7da1c",
-      "levelid": "custom_level_44e2018e163483fa95dd525ce2617e1351c7da1c"
+      "key": "440df",
+      "songName": "Twenty One Pilots - Navigating (V3)",
+      "hash": "ebf9c1ec3b00f5b7bc511d51b3d74e9c4ade5aa2",
+      "levelid": "custom_level_ebf9c1ec3b00f5b7bc511d51b3d74e9c4ade5aa2"
     },
     {
-      "key": "440ae",
-      "songName": "All Cancel Baby",
-      "hash": "e1a178a8fe7484b92c07fbe6f0122e1b741bd35f",
-      "levelid": "custom_level_e1a178a8fe7484b92c07fbe6f0122e1b741bd35f"
+      "key": "440de",
+      "songName": "SoInhumane - Super Inhu Boy",
+      "hash": "ba4049ab779f70b3a47d09c8f6435e93954df128",
+      "levelid": "custom_level_ba4049ab779f70b3a47d09c8f6435e93954df128"
     },
     {
-      "key": "440ab",
-      "songName": "TAKING A spooky DOOKIE AT 3AM??//???",
-      "hash": "fa82a29dd9166dc4d07918a91c9c32865cf54a5b",
-      "levelid": "custom_level_fa82a29dd9166dc4d07918a91c9c32865cf54a5b"
+      "key": "440dd",
+      "songName": "Camellia - 色を喪った街 ～遺街～（The third offline invitational tournament）[Certain Zone]",
+      "hash": "d9ed6dedd72226c3305e25c1211786cf0673d001",
+      "levelid": "custom_level_d9ed6dedd72226c3305e25c1211786cf0673d001"
     },
     {
-      "key": "43fa3",
-      "songName": "Emerald Lakeside (Action)  / はがね feat. 狐井アキラ",
-      "hash": "1793d4de7e7af9a42ebd5fc3163cf8d63aaf4c6d",
-      "levelid": "custom_level_1793d4de7e7af9a42ebd5fc3163cf8d63aaf4c6d"
+      "key": "440db",
+      "songName": "ナージャ！！",
+      "hash": "1c5007a6a15c068793dc0cb2f670a1651273e3a8",
+      "levelid": "custom_level_1c5007a6a15c068793dc0cb2f670a1651273e3a8"
     },
     {
-      "key": "440a8",
-      "songName": "The Nerve",
-      "hash": "3c13c29ad72bec47ede54e326502e6d7f91b29d2",
-      "levelid": "custom_level_3c13c29ad72bec47ede54e326502e6d7f91b29d2"
+      "key": "440da",
+      "songName": "Jauraur",
+      "hash": "9ce4fca012a184fac54a8b365f96a3434d742257",
+      "levelid": "custom_level_9ce4fca012a184fac54a8b365f96a3434d742257"
     },
     {
-      "key": "440a7",
-      "songName": "yummy",
-      "hash": "3c14587dcf8ca5646f08d6064a594e33eb07d46c",
-      "levelid": "custom_level_3c14587dcf8ca5646f08d6064a594e33eb07d46c"
+      "key": "440d8",
+      "songName": "Check Yes, Juliet",
+      "hash": "cc50ff1d9d1ded6624f19ac1a1815776706bff10",
+      "levelid": "custom_level_cc50ff1d9d1ded6624f19ac1a1815776706bff10"
     },
     {
-      "key": "440a5",
-      "songName": "Metaoliosis",
-      "hash": "5363b51a13efcac976dde721c83b41de79cc2985",
-      "levelid": "custom_level_5363b51a13efcac976dde721c83b41de79cc2985"
+      "key": "440d6",
+      "songName": "Camellia/Akira Complex - \"Delta\" for the Delta (Akira Complex Remix)",
+      "hash": "179d05b7c116f43a94153cf0c5196a0461f25078",
+      "levelid": "custom_level_179d05b7c116f43a94153cf0c5196a0461f25078"
     },
     {
-      "key": "440a2",
-      "songName": "#BrooklynBloodPop! - SyKo",
-      "hash": "0797b7f741713719093010299a1ed1f00b95114f",
-      "levelid": "custom_level_0797b7f741713719093010299a1ed1f00b95114f"
+      "key": "440d4",
+      "songName": "Transcendental Cha Cha Cha - Tom Cardy",
+      "hash": "f8eb8eab6485833ba0c0b5cfff8405cabdc0ab13",
+      "levelid": "custom_level_f8eb8eab6485833ba0c0b5cfff8405cabdc0ab13"
     },
     {
-      "key": "4409f",
-      "songName": "Omernac - Time Bomb! [Chroma]",
-      "hash": "44ab889242ea310464d5df68d39081b7909a3997",
-      "levelid": "custom_level_44ab889242ea310464d5df68d39081b7909a3997"
+      "key": "440d3",
+      "songName": "Franny - WUWAHAHAHA (English ver.)",
+      "hash": "20e930cfe33748f014402ca29e2a13d1da399247",
+      "levelid": "custom_level_20e930cfe33748f014402ca29e2a13d1da399247"
     },
     {
-      "key": "4409e",
-      "songName": "The Isley Brothers - All In My Lover's Eyes",
-      "hash": "8bce61e90184aafcdd269c611a4cec41fd922848",
-      "levelid": "custom_level_8bce61e90184aafcdd269c611a4cec41fd922848"
+      "key": "440cf",
+      "songName": "Komm, lass uns tanzen",
+      "hash": "aea46a1f169fb1c2254a8dcfb4773e993639a039",
+      "levelid": "custom_level_aea46a1f169fb1c2254a8dcfb4773e993639a039"
     },
     {
-      "key": "4409d",
-      "songName": "The Days (NOTION Remix)",
-      "hash": "99f8cb00ce7b77cc6796a50f424f366d6c21b9fb",
-      "levelid": "custom_level_99f8cb00ce7b77cc6796a50f424f366d6c21b9fb"
+      "key": "440ce",
+      "songName": "[Chroma]Candy Cookie Chocolate ft. Kasane Teto, Hatsune Miku",
+      "hash": "1d50951b3cae645dd647286b2836c022694c4ed9",
+      "levelid": "custom_level_1d50951b3cae645dd647286b2836c022694c4ed9"
     },
     {
-      "key": "4409b",
-      "songName": "Avernus ",
-      "hash": "fc314e9f17d05afdfccf7884f831195c3271318a",
-      "levelid": "custom_level_fc314e9f17d05afdfccf7884f831195c3271318a"
+      "key": "440cb",
+      "songName": "rizz flower (SPIDERMAN SUNFLOWER BRAIN ROT PARODY)",
+      "hash": "bc74c402018d8b93d001ff2c4ceeab64bd83b516",
+      "levelid": "custom_level_bc74c402018d8b93d001ff2c4ceeab64bd83b516"
     },
     {
-      "key": "44098",
-      "songName": "Kahoot! - 10 Second Countdown [Extended]",
-      "hash": "7a4e193267856977f0f6e2e7b40a10764d930944",
-      "levelid": "custom_level_7a4e193267856977f0f6e2e7b40a10764d930944"
+      "key": "440c7",
+      "songName": "nuttykid x langhals luan - fortnite mit den jungs",
+      "hash": "57c33bf0cb2f2d2fbf8d18036f371a0357408b2d",
+      "levelid": "custom_level_57c33bf0cb2f2d2fbf8d18036f371a0357408b2d"
     },
     {
-      "key": "44095",
-      "songName": "EMVBRACE MY CUERS",
-      "hash": "f46164ab2e26c07c860526d6533d52657cfbfcb2",
-      "levelid": "custom_level_f46164ab2e26c07c860526d6533d52657cfbfcb2"
+      "key": "440c3",
+      "songName": "DANCE",
+      "hash": "ada2575a22e3a10cefb5eae9570bedd5a79ef043",
+      "levelid": "custom_level_ada2575a22e3a10cefb5eae9570bedd5a79ef043"
     },
     {
-      "key": "44094",
-      "songName": "Confessions of a Rotten Girl",
-      "hash": "9d570d2ce512236ab78e901472330f43a21343c3",
-      "levelid": "custom_level_9d570d2ce512236ab78e901472330f43a21343c3"
-    },
-    {
-      "key": "44092",
-      "songName": "moetwee, enveel - Closing my eyes | Закрываю глаза",
-      "hash": "1880a2e102d96f9178c58a07490c89039f62eaf1",
-      "levelid": "custom_level_1880a2e102d96f9178c58a07490c89039f62eaf1"
-    },
-    {
-      "key": "44091",
-      "songName": "No Fear, No Despair, With All My Hearts - Xystran",
-      "hash": "c38e4b4d6eed9600d13de3b264c9486a8b823946",
-      "levelid": "custom_level_c38e4b4d6eed9600d13de3b264c9486a8b823946"
-    },
-    {
-      "key": "44090",
-      "songName": "prism fountain",
-      "hash": "0c4ac2dabe2b327d478738a4e9d9172e1b72daf6",
-      "levelid": "custom_level_0c4ac2dabe2b327d478738a4e9d9172e1b72daf6"
-    },
-    {
-      "key": "4408e",
-      "songName": "Kevin MacLeod - Spazzmatica Polka",
-      "hash": "2f5ab4867814e9d037faf0b21d2670ce076034d1",
-      "levelid": "custom_level_2f5ab4867814e9d037faf0b21d2670ce076034d1"
-    },
-    {
-      "key": "4408d",
-      "songName": "Pink Pony Club - Chappell Roan",
-      "hash": "ac33d3b166807a0a87e62d6520acff9e25b264d6",
-      "levelid": "custom_level_ac33d3b166807a0a87e62d6520acff9e25b264d6"
-    },
-    {
-      "key": "4408a",
-      "songName": "SAWTOWNE - Confessions of a Rotten Girl",
-      "hash": "362eb44346ededc597453f77f2952b8be2a4615b",
-      "levelid": "custom_level_362eb44346ededc597453f77f2952b8be2a4615b"
-    },
-    {
-      "key": "44081",
-      "songName": "SAWTOWNE - Confessions of a Rotten Girl (ft. Hatsune Miku)",
-      "hash": "8219fc671b2773f176da6f48cd9077a009dfaf50",
-      "levelid": "custom_level_8219fc671b2773f176da6f48cd9077a009dfaf50"
-    },
-    {
-      "key": "4407e",
-      "songName": "Dune Eternal - ULTRAKILL",
-      "hash": "b4b9a97aeb37354d8f37e082f9fb78e34db192e0",
-      "levelid": "custom_level_b4b9a97aeb37354d8f37e082f9fb78e34db192e0"
-    },
-    {
-      "key": "4407d",
-      "songName": "Something Good 08'",
-      "hash": "a3bb767ea428b33e5ab55e9a50f94db41285925a",
-      "levelid": "custom_level_a3bb767ea428b33e5ab55e9a50f94db41285925a"
-    },
-    {
-      "key": "4407a",
-      "songName": "Perry das Schnabeltier (Theme)",
-      "hash": "05567e2b4c6fd4316e9e5ce60797a870e65009ce",
-      "levelid": "custom_level_05567e2b4c6fd4316e9e5ce60797a870e65009ce"
-    },
-    {
-      "key": "44077",
-      "songName": "(You Drive Me) Crazy [Meme Version]",
-      "hash": "693aee44b2b61ffecf13ce8e6fcd8cbc2964d142",
-      "levelid": "custom_level_693aee44b2b61ffecf13ce8e6fcd8cbc2964d142"
-    },
-    {
-      "key": "44076",
-      "songName": "Perfect Girl - Mareux",
-      "hash": "39c5aa13234514fed6baeb03e8e3cda06e4dbdac",
-      "levelid": "custom_level_39c5aa13234514fed6baeb03e8e3cda06e4dbdac"
-    },
-    {
-      "key": "44073",
-      "songName": "2hollis - light",
-      "hash": "fa4664da179e0fa699b82740b90bafb017572418",
-      "levelid": "custom_level_fa4664da179e0fa699b82740b90bafb017572418"
-    },
-    {
-      "key": "44075",
-      "songName": "Baptized In Fear - The Weeknd",
-      "hash": "d3a5c8c96f2ccff288d5dcaab330f6541af16cc4",
-      "levelid": "custom_level_d3a5c8c96f2ccff288d5dcaab330f6541af16cc4"
-    },
-    {
-      "key": "4406f",
-      "songName": "Weapons-Ava Max",
-      "hash": "645798e5c311e9db4db14a5cef3f7ef9d29e88a7",
-      "levelid": "custom_level_645798e5c311e9db4db14a5cef3f7ef9d29e88a7"
+      "key": "440c1",
+      "songName": "Raja Kumari, Stefflon Don, Jarina DeMarco - Renegate",
+      "hash": "b0f2ed1d776725e2a6c638e22f8e46bf7f32e20d",
+      "levelid": "custom_level_b0f2ed1d776725e2a6c638e22f8e46bf7f32e20d"
     }
   ],
   "image": ""
