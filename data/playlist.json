@@ -1,232 +1,346 @@
 {
-  "playlistTitle": "2025-03-03T15:18:48.744Z~2025-03-04T15:18:48.744Z",
+  "playlistTitle": "2025-03-04T15:18:48.505Z~2025-03-05T15:18:48.505Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-03-03T15:18:48.744Z and 2025-03-04T15:18:48.744Z",
+  "discripstion": "Maps published between 2025-03-04T15:18:48.505Z and 2025-03-05T15:18:48.505Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "44e5c",
-      "songName": "Marshmello & Jonas Brothers - Slow Motion",
-      "hash": "d094c9de2cb642a28f4fa1b70cc0dddf134a50e1",
-      "levelid": "custom_level_d094c9de2cb642a28f4fa1b70cc0dddf134a50e1"
+      "key": "44ef9",
+      "songName": "Taylor Swift - Blank Space (Taylor's ver)",
+      "hash": "60ff39f7f69a1aea2c7b8b2527b631282792ab35",
+      "levelid": "custom_level_60ff39f7f69a1aea2c7b8b2527b631282792ab35"
     },
     {
-      "key": "44e8e",
-      "songName": "Hearts2Hearts - The Chase",
-      "hash": "7c94601338b07bc9244c20ecb08cbd5b7f62a040",
-      "levelid": "custom_level_7c94601338b07bc9244c20ecb08cbd5b7f62a040"
+      "key": "44ef8",
+      "songName": "SOFFIE - Für immer Frühling",
+      "hash": "7745e3d48a3dc84230f9c35e1d82d1897bfc7143",
+      "levelid": "custom_level_7745e3d48a3dc84230f9c35e1d82d1897bfc7143"
     },
     {
-      "key": "44e8d",
-      "songName": "ALPHA - Layto",
-      "hash": "fac552ab725b20715a3c5ebf7b73b84ef86af6a0",
-      "levelid": "custom_level_fac552ab725b20715a3c5ebf7b73b84ef86af6a0"
+      "key": "44ef7",
+      "songName": "Ludicin - Everlasting Eternity",
+      "hash": "ab0a4164aed49cc87fc16c3932651efc127ef25a",
+      "levelid": "custom_level_ab0a4164aed49cc87fc16c3932651efc127ef25a"
     },
     {
-      "key": "44e8c",
-      "songName": "Finana Ryugu - UNSEISO  {S}",
-      "hash": "27a02ebd61170bc5b6712cbff7be0897dac18753",
-      "levelid": "custom_level_27a02ebd61170bc5b6712cbff7be0897dac18753"
+      "key": "44ef6",
+      "songName": "bbno$ - antidepressants",
+      "hash": "5a7e07814b03bc9d6ced2f34c244fdb818f03731",
+      "levelid": "custom_level_5a7e07814b03bc9d6ced2f34c244fdb818f03731"
     },
     {
-      "key": "44e8b",
-      "songName": "Ghast Voices",
-      "hash": "12675ae709753ed0b15a8bed2afa6ad4f147ec35",
-      "levelid": "custom_level_12675ae709753ed0b15a8bed2afa6ad4f147ec35"
+      "key": "44ef5",
+      "songName": "Unlike Pluto - Losing Myself To Find You",
+      "hash": "23801b50096f4de70fca86cd6f611814045dc504",
+      "levelid": "custom_level_23801b50096f4de70fca86cd6f611814045dc504"
     },
     {
-      "key": "44e88",
-      "songName": "Tsukihi Araragi (Yuka Iguchi) - Platinum Disco (Covered by YuNi)",
-      "hash": "c76601689ce03c1c455bfb5b7899620a2eb87eb1",
-      "levelid": "custom_level_c76601689ce03c1c455bfb5b7899620a2eb87eb1"
+      "key": "44ef4",
+      "songName": "Tokyo Machine - Play (V3 Walls)",
+      "hash": "1b6e23cbc8e6302400a1ccc0c2a38d0d51708c15",
+      "levelid": "custom_level_1b6e23cbc8e6302400a1ccc0c2a38d0d51708c15"
     },
     {
-      "key": "44e8a",
-      "songName": "My Little Cousin Has Too Much Brainrot",
-      "hash": "f4d970139d73a62632f3d2e99de2874928523bbc",
-      "levelid": "custom_level_f4d970139d73a62632f3d2e99de2874928523bbc"
+      "key": "44eee",
+      "songName": "もえちゃっかふぁいや Moechakka fire - Issey 弌誠",
+      "hash": "81b8a54fe6b44bd4da027e4cb0986c0df6f7d840",
+      "levelid": "custom_level_81b8a54fe6b44bd4da027e4cb0986c0df6f7d840"
     },
     {
-      "key": "44e89",
-      "songName": "[∀nnihilation]",
-      "hash": "fcd4f3fd8a9eb39ef14c4faf06b0cbbb21963b40",
-      "levelid": "custom_level_fcd4f3fd8a9eb39ef14c4faf06b0cbbb21963b40"
+      "key": "44eed",
+      "songName": "モエチャッカファイア Moechakka fire - Issey 弌誠",
+      "hash": "ebc1699f0364dda958d34b86475182a7982bb204",
+      "levelid": "custom_level_ebc1699f0364dda958d34b86475182a7982bb204"
     },
     {
-      "key": "44e87",
-      "songName": "Ludicin - Lost Requiem",
-      "hash": "1961a5ca46a7f60b8ac6e40f6809cb6b2179c18e",
-      "levelid": "custom_level_1961a5ca46a7f60b8ac6e40f6809cb6b2179c18e"
+      "key": "44edf",
+      "songName": "pepsssI MAN",
+      "hash": "56fd0cbb54a230b7b5a2e0c3a3db3e397fac1697",
+      "levelid": "custom_level_56fd0cbb54a230b7b5a2e0c3a3db3e397fac1697"
     },
     {
-      "key": "44e78",
-      "songName": "[Touhou Arrangement] Laur - Absolute Queen [Original Song: Septet for the Dead Princess]",
-      "hash": "dc0f24d6557b895e1e71678f36f9b58a1ea1987f",
-      "levelid": "custom_level_dc0f24d6557b895e1e71678f36f9b58a1ea1987f"
+      "key": "44edb",
+      "songName": "Flashes",
+      "hash": "33086b964503616e52cdd3dc85ce428c9a66d4e8",
+      "levelid": "custom_level_33086b964503616e52cdd3dc85ce428c9a66d4e8"
     },
     {
-      "key": "44e74",
-      "songName": "Slide",
-      "hash": "4fc2179427baf789620a4e338cc266de47b2ef0e",
-      "levelid": "custom_level_4fc2179427baf789620a4e338cc266de47b2ef0e"
+      "key": "44eda",
+      "songName": "Camellia - The Cat Evolved Into The Microwave-proof Cat!",
+      "hash": "09c64245d036e833125ac529d8d80cb3be6a660a",
+      "levelid": "custom_level_09c64245d036e833125ac529d8d80cb3be6a660a"
     },
     {
-      "key": "44e73",
+      "key": "44ed7",
+      "songName": "Swinaecologist ",
+      "hash": "8206c33231ce14e245d48f48e2a8348ba00d93b1",
+      "levelid": "custom_level_8206c33231ce14e245d48f48e2a8348ba00d93b1"
+    },
+    {
+      "key": "44ed4",
+      "songName": "First Flight - OneShot OST",
+      "hash": "83a24c0747cf093b4ad1949a3880312623af8427",
+      "levelid": "custom_level_83a24c0747cf093b4ad1949a3880312623af8427"
+    },
+    {
+      "key": "44ed5",
+      "songName": "Rokudenashi - One Voice",
+      "hash": "285d4b75fe88a4319a521417f593e28b353ec1af",
+      "levelid": "custom_level_285d4b75fe88a4319a521417f593e28b353ec1af"
+    },
+    {
+      "key": "44ed0",
+      "songName": "JACKIE'S BOX",
+      "hash": "b9a3d3c85969f949bd6b7c739e9554915a8758b4",
+      "levelid": "custom_level_b9a3d3c85969f949bd6b7c739e9554915a8758b4"
+    },
+    {
+      "key": "44ecf",
+      "songName": "Darts",
+      "hash": "a5151543839e1f11835bedcd90e39efc935c26e4",
+      "levelid": "custom_level_a5151543839e1f11835bedcd90e39efc935c26e4"
+    },
+    {
+      "key": "44ecd",
+      "songName": "Fighting My Demons - Ken Carson",
+      "hash": "89637e96d013010c220fa9f2e9d7ccbc06356cfc",
+      "levelid": "custom_level_89637e96d013010c220fa9f2e9d7ccbc06356cfc"
+    },
+    {
+      "key": "44ecb",
+      "songName": "Cutting Crew - One For The Mockingbird",
+      "hash": "23bf34ad4d26a2be028025d0735dfd8ce9e4d31c",
+      "levelid": "custom_level_23bf34ad4d26a2be028025d0735dfd8ce9e4d31c"
+    },
+    {
+      "key": "44ec9",
+      "songName": "Cutting Crew - (I Just) Died In Your Arms",
+      "hash": "ff38fbdcbaccd0610f7536c6ad7d563a9472517e",
+      "levelid": "custom_level_ff38fbdcbaccd0610f7536c6ad7d563a9472517e"
+    },
+    {
+      "key": "44ec8",
       "songName": "Why Not???",
-      "hash": "4d8142216e29ceab7c1e0c3ccbf87e4553e749ce",
-      "levelid": "custom_level_4d8142216e29ceab7c1e0c3ccbf87e4553e749ce"
+      "hash": "4bed8dcd7cf69bf9ffd5687b37a3553218789958",
+      "levelid": "custom_level_4bed8dcd7cf69bf9ffd5687b37a3553218789958"
     },
     {
-      "key": "44e70",
-      "songName": "Cool patterns 4",
-      "hash": "d4a165c6b2053ef59f2794b710cd1a0c05795be9",
-      "levelid": "custom_level_d4a165c6b2053ef59f2794b710cd1a0c05795be9"
+      "key": "44ec7",
+      "songName": "Arch Enemy - Blood Dynasty",
+      "hash": "42c2183a6c2d4e2b200566f82ca743cf265735cc",
+      "levelid": "custom_level_42c2183a6c2d4e2b200566f82ca743cf265735cc"
     },
     {
-      "key": "44e6f",
-      "songName": "FULi AUTO SHOOTER",
-      "hash": "359d7777cc5ff272435dd40aff0ff816dbcf677e",
-      "levelid": "custom_level_359d7777cc5ff272435dd40aff0ff816dbcf677e"
+      "key": "44ec6",
+      "songName": "Come a Long Way",
+      "hash": "fbb16a69a0fac6966dcf2b675667b689b00f283d",
+      "levelid": "custom_level_fbb16a69a0fac6966dcf2b675667b689b00f283d"
     },
     {
-      "key": "44e60",
-      "songName": "Cave Diver Simulator",
-      "hash": "760f2c59867ab413b7cb017eea2b5feab5606e7f",
-      "levelid": "custom_level_760f2c59867ab413b7cb017eea2b5feab5606e7f"
+      "key": "44ec5",
+      "songName": "505 test ver",
+      "hash": "2897bde35466f508b6961d00460b1a72f9e2e377",
+      "levelid": "custom_level_2897bde35466f508b6961d00460b1a72f9e2e377"
     },
     {
-      "key": "44e5f",
-      "songName": "setsuna__ - take me up",
-      "hash": "47e0d7f36d78029083a3c37ebeb25c89290e6c3d",
-      "levelid": "custom_level_47e0d7f36d78029083a3c37ebeb25c89290e6c3d"
+      "key": "44e85",
+      "songName": "MDK - Azalea",
+      "hash": "528de463fff381bf42a7b596d50b6f0a5483df11",
+      "levelid": "custom_level_528de463fff381bf42a7b596d50b6f0a5483df11"
     },
     {
-      "key": "44e5d",
-      "songName": "Spaze - Believe",
-      "hash": "e5d164cec4eae6e53e9e40257cf2cce142682827",
-      "levelid": "custom_level_e5d164cec4eae6e53e9e40257cf2cce142682827"
+      "key": "44ec4",
+      "songName": "Swing Checker Short III",
+      "hash": "450d5267a2a79137b3a840d65c06672457838ae8",
+      "levelid": "custom_level_450d5267a2a79137b3a840d65c06672457838ae8"
     },
     {
-      "key": "44e5b",
-      "songName": "TS SO TUFF😭🙏💔",
-      "hash": "7961a321d36f02e1e4cfc240046ae61e4632df7f",
-      "levelid": "custom_level_7961a321d36f02e1e4cfc240046ae61e4632df7f"
+      "key": "44ec2",
+      "songName": "Guchiry - Abnormality Dancin' Girl (feat. flower)",
+      "hash": "09c98b8b75989d3a7421d175a45f3907777d85a7",
+      "levelid": "custom_level_09c98b8b75989d3a7421d175a45f3907777d85a7"
     },
     {
-      "key": "44e53",
-      "songName": "ballen bymphony",
-      "hash": "d8c7b52cd042bdbcd5e3384c2768c23c6afb461e",
-      "levelid": "custom_level_d8c7b52cd042bdbcd5e3384c2768c23c6afb461e"
+      "key": "44ebe",
+      "songName": "Artists who cant sing vs artists who can!!!",
+      "hash": "3e666a9f81fe19824e66a9b743f55d3088645a12",
+      "levelid": "custom_level_3e666a9f81fe19824e66a9b743f55d3088645a12"
     },
     {
-      "key": "44e51",
-      "songName": "ballen bymphony (PLAY 44e53 TOO)",
-      "hash": "4911bdf2704a8aa9b8e8e877de231ac8f48b58fa",
-      "levelid": "custom_level_4911bdf2704a8aa9b8e8e877de231ac8f48b58fa"
+      "key": "44ebc",
+      "songName": "AQUASINE X MEMODEMO X BilliumMoto - samplestore.amb",
+      "hash": "8a98d8ef9277e02b30b78e2017447525272b4cf7",
+      "levelid": "custom_level_8a98d8ef9277e02b30b78e2017447525272b4cf7"
     },
     {
-      "key": "44e57",
-      "songName": "two moons - BoyWithUke",
-      "hash": "610b9a3c4e274d04906c1c2c3299254ce0ddee05",
-      "levelid": "custom_level_610b9a3c4e274d04906c1c2c3299254ce0ddee05"
+      "key": "44de7",
+      "songName": "Scatterbrain -nihmune cover",
+      "hash": "6f77d0546d7cd6f62617de02eb5540c8a4dd6c6d",
+      "levelid": "custom_level_6f77d0546d7cd6f62617de02eb5540c8a4dd6c6d"
     },
     {
-      "key": "44e55",
-      "songName": "Yeah now THIS is the christmas special",
-      "hash": "d79c13bcae8f823bc66f305b963e972c203b5211",
-      "levelid": "custom_level_d79c13bcae8f823bc66f305b963e972c203b5211"
+      "key": "44eb7",
+      "songName": "LIFE - Neuro-sama",
+      "hash": "3d55568329e1231c656e3b29c71d98d0b5491ce2",
+      "levelid": "custom_level_3d55568329e1231c656e3b29c71d98d0b5491ce2"
     },
     {
-      "key": "44e54",
-      "songName": "What",
-      "hash": "d046317135160311b01848d88ac66ca75fa9de93",
-      "levelid": "custom_level_d046317135160311b01848d88ac66ca75fa9de93"
+      "key": "44eba",
+      "songName": "Out For Love",
+      "hash": "fbad2dbfece0ece9f8644aa2c552745898634c11",
+      "levelid": "custom_level_fbad2dbfece0ece9f8644aa2c552745898634c11"
     },
     {
-      "key": "44e4f",
-      "songName": "[V3 Collider | 100 Lanes] funeral - IN THE WALLS",
-      "hash": "c11f0d51275d06ecc19fbb402b8527671d0ccd5e",
-      "levelid": "custom_level_c11f0d51275d06ecc19fbb402b8527671d0ccd5e"
+      "key": "44eb6",
+      "songName": "[Touhou Arrangement] Laur - Absolute Queen [Original Song Septet for the Dead Princess]",
+      "hash": "38e6bdc79d330f0196dd37d77810dd11e1ac28ac",
+      "levelid": "custom_level_38e6bdc79d330f0196dd37d77810dd11e1ac28ac"
     },
     {
-      "key": "44e4d",
-      "songName": "litty",
-      "hash": "3c6611a8b4b53715ce141577ae3de374c0a1a8a0",
-      "levelid": "custom_level_3c6611a8b4b53715ce141577ae3de374c0a1a8a0"
+      "key": "44eb5",
+      "songName": "This Love (Poodle)",
+      "hash": "5d12daf7e8ada22a4c71765c950f749695088203",
+      "levelid": "custom_level_5d12daf7e8ada22a4c71765c950f749695088203"
     },
     {
-      "key": "44e49",
-      "songName": "Becky Hill X Andy C - Indestructible (V3)",
-      "hash": "af44fa7d4b9e554a09977e1e2d817266db0f143e",
-      "levelid": "custom_level_af44fa7d4b9e554a09977e1e2d817266db0f143e"
+      "key": "44eb3",
+      "songName": "Toby Fox - Finale",
+      "hash": "4be31796839af88fe352a21f8e3facc0708f0d87",
+      "levelid": "custom_level_4be31796839af88fe352a21f8e3facc0708f0d87"
     },
     {
-      "key": "44e42",
-      "songName": "BPM Test",
-      "hash": "010788bc836c293580a130629bf2da6094b8c5b1",
-      "levelid": "custom_level_010788bc836c293580a130629bf2da6094b8c5b1"
+      "key": "44eb2",
+      "songName": "I C UR SHADOW",
+      "hash": "a83059bd25c3e87675a7fa59191b730fd628191f",
+      "levelid": "custom_level_a83059bd25c3e87675a7fa59191b730fd628191f"
     },
     {
-      "key": "44e41",
-      "songName": "Dj Brunin XM, Bibi Babydoll, Mc Erikah - Automotivo Amar, Ma Ma Ma",
-      "hash": "2989a3befa2e0a3a2f09ee76a49058c0b54acd6b",
-      "levelid": "custom_level_2989a3befa2e0a3a2f09ee76a49058c0b54acd6b"
+      "key": "44eb1",
+      "songName": "said so  Alexander Stewart  (Poodles)",
+      "hash": "150cda8c596092e7ddfc6db074c839d4d8bcf9ce",
+      "levelid": "custom_level_150cda8c596092e7ddfc6db074c839d4d8bcf9ce"
     },
     {
-      "key": "44e40",
-      "songName": "arbys respone to burger king ",
-      "hash": "398a7f6e169225467c25d944e4a8863f857b6186",
-      "levelid": "custom_level_398a7f6e169225467c25d944e4a8863f857b6186"
+      "key": "44eb0",
+      "songName": "Like Me ",
+      "hash": "94be519e467f1ef9a4726a476f09f3ae1ebd6c25",
+      "levelid": "custom_level_94be519e467f1ef9a4726a476f09f3ae1ebd6c25"
     },
     {
-      "key": "44e39",
-      "songName": "Camellia - GHOST-NOVA",
-      "hash": "7a14031cf6b93ade4778c54fe7fee475667b326d",
-      "levelid": "custom_level_7a14031cf6b93ade4778c54fe7fee475667b326d"
+      "key": "44eaf",
+      "songName": "I Fade Away",
+      "hash": "e0038efcec9161ca7616890eb254a1cd33182de7",
+      "levelid": "custom_level_e0038efcec9161ca7616890eb254a1cd33182de7"
     },
     {
-      "key": "44e32",
-      "songName": "funny meme sounds trust 2",
-      "hash": "8cb3bc0076cea05900f24fe6c36c2ac4f4f8a485",
-      "levelid": "custom_level_8cb3bc0076cea05900f24fe6c36c2ac4f4f8a485"
+      "key": "44eab",
+      "songName": "Tate McRae - Sports car",
+      "hash": "45b4f14d454a6edd59fdc4e9c7be9c9d76d4fb8f",
+      "levelid": "custom_level_45b4f14d454a6edd59fdc4e9c7be9c9d76d4fb8f"
     },
     {
-      "key": "44e35",
-      "songName": "I don’t know why we can get to the end of this (vnjs)",
-      "hash": "6530e61518704fdf566bd6a33b2ad6a5a7148b0d",
-      "levelid": "custom_level_6530e61518704fdf566bd6a33b2ad6a5a7148b0d"
+      "key": "44ead",
+      "songName": "Blackbriar - Crimson Faces",
+      "hash": "0a2f673e181b88fd725ac0c0754cc5a1055fe550",
+      "levelid": "custom_level_0a2f673e181b88fd725ac0c0754cc5a1055fe550"
     },
     {
-      "key": "44e31",
-      "songName": "Lay All Your Love On Me [remix Lietru x YAMAS - feat. Lavinia Hope]",
-      "hash": "e6e9550bf44ce8b9663c92eb0cbbbfb86af078d0",
-      "levelid": "custom_level_e6e9550bf44ce8b9663c92eb0cbbbfb86af078d0"
+      "key": "44eac",
+      "songName": "Ovekeyashiki - OVe-NaXx",
+      "hash": "bbcf6ff79ba95b4c699076df79f3101a67bbc0b0",
+      "levelid": "custom_level_bbcf6ff79ba95b4c699076df79f3101a67bbc0b0"
     },
     {
-      "key": "44e34",
-      "songName": "My Girlfriend - Guttermouth",
-      "hash": "469cc0b3fe1418d9d7dc7099c59c2c277720bb0b",
-      "levelid": "custom_level_469cc0b3fe1418d9d7dc7099c59c2c277720bb0b"
+      "key": "44eaa",
+      "songName": "Unknown Brain - Superhero (feat. Chris Linton)",
+      "hash": "935ddcfa9599b10d0ad041dced2bea6bafc88fb3",
+      "levelid": "custom_level_935ddcfa9599b10d0ad041dced2bea6bafc88fb3"
     },
     {
-      "key": "44e33",
-      "songName": "Loneliness test",
-      "hash": "10aac1da3dc8ee3dbe8158b5b4080f7c50e1a2a5",
-      "levelid": "custom_level_10aac1da3dc8ee3dbe8158b5b4080f7c50e1a2a5"
+      "key": "44ea9",
+      "songName": "Mnogoznaal - Duga v1",
+      "hash": "8f96a12b0678823983d0bb89605d27815b7e3f49",
+      "levelid": "custom_level_8f96a12b0678823983d0bb89605d27815b7e3f49"
     },
     {
-      "key": "44e2d",
-      "songName": "QZKago Requiem",
-      "hash": "e1cb67592a836e304acd338cccc8177c25587bc2",
-      "levelid": "custom_level_e1cb67592a836e304acd338cccc8177c25587bc2"
+      "key": "44ea5",
+      "songName": "デナイアルミュトラ",
+      "hash": "d48a66f2a7cabcaba82ac8f97a15214d86cc1982",
+      "levelid": "custom_level_d48a66f2a7cabcaba82ac8f97a15214d86cc1982"
     },
     {
-      "key": "44e2c",
-      "songName": "DECISIVE BATTLE",
-      "hash": "8e7c6f088144d25e39b5c5f2ef439f34cc2e82af",
-      "levelid": "custom_level_8e7c6f088144d25e39b5c5f2ef439f34cc2e82af"
+      "key": "44ea2",
+      "songName": "Käärijä, Joost - TRAFIK!",
+      "hash": "7110ddb9a5a5fc568c7522f32be1926bcca7900e",
+      "levelid": "custom_level_7110ddb9a5a5fc568c7522f32be1926bcca7900e"
+    },
+    {
+      "key": "44ea1",
+      "songName": "tune out - no good",
+      "hash": "7763e0849f12a1f51deebe5abfe6b81372494075",
+      "levelid": "custom_level_7763e0849f12a1f51deebe5abfe6b81372494075"
+    },
+    {
+      "key": "44ea0",
+      "songName": "JENNIE - Love Hangover (feat. Dominic Fike)",
+      "hash": "00a727dfed5c64d82ef13220474bfbe25a9a60a9",
+      "levelid": "custom_level_00a727dfed5c64d82ef13220474bfbe25a9a60a9"
+    },
+    {
+      "key": "44e9e",
+      "songName": "Lin gan guli guli - Don Pollo (Hatsune Miku Ver. 🤑 🤑 🤑 🤑 )",
+      "hash": "09e706f64af21c530a072d347609b8704d03ab58",
+      "levelid": "custom_level_09e706f64af21c530a072d347609b8704d03ab58"
+    },
+    {
+      "key": "44e6e",
+      "songName": "Phil Collins - In the Air Tonight",
+      "hash": "ecbc681a1b499e0268c0fd7a290704ba870b4de9",
+      "levelid": "custom_level_ecbc681a1b499e0268c0fd7a290704ba870b4de9"
+    },
+    {
+      "key": "44e97",
+      "songName": "Malcolm Todd - Chest Pain (I Love)",
+      "hash": "e6f18820192e90887fe9ae7f340ff02e12f2717f",
+      "levelid": "custom_level_e6f18820192e90887fe9ae7f340ff02e12f2717f"
+    },
+    {
+      "key": "44e96",
+      "songName": "yung kai - blue",
+      "hash": "a94c842edf0e1d9e7921e068edfb29ddd16b1a79",
+      "levelid": "custom_level_a94c842edf0e1d9e7921e068edfb29ddd16b1a79"
+    },
+    {
+      "key": "44e08",
+      "songName": "Yayo - Yung Lean",
+      "hash": "fdefaf53c3346992c52b7dcc198259280e25989a",
+      "levelid": "custom_level_fdefaf53c3346992c52b7dcc198259280e25989a"
+    },
+    {
+      "key": "44e94",
+      "songName": "lapix - Nexta",
+      "hash": "1c4c7296708749fe534449eead547b1c33820abc",
+      "levelid": "custom_level_1c4c7296708749fe534449eead547b1c33820abc"
+    },
+    {
+      "key": "44e95",
+      "songName": "A Cloud Broke Open",
+      "hash": "8b00582fc90a35a2949a867c80218c4ff99c833a",
+      "levelid": "custom_level_8b00582fc90a35a2949a867c80218c4ff99c833a"
+    },
+    {
+      "key": "44e93",
+      "songName": "Phineas und Ferb Intro (De)",
+      "hash": "8357931212aac61fa62fd79802b8e964e7d71f8c",
+      "levelid": "custom_level_8357931212aac61fa62fd79802b8e964e7d71f8c"
+    },
+    {
+      "key": "44e90",
+      "songName": "Pretty Lights - Total Fascination",
+      "hash": "91046bbb4e899d37f8aca695b93e013cfafb0f1f",
+      "levelid": "custom_level_91046bbb4e899d37f8aca695b93e013cfafb0f1f"
     }
   ],
   "image": ""
