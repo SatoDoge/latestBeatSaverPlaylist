@@ -1,406 +1,316 @@
 {
-  "playlistTitle": "2025-03-08T15:18:48.370Z~2025-03-09T15:18:48.370Z",
+  "playlistTitle": "2025-03-09T15:18:48.380Z~2025-03-10T15:18:48.380Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-03-08T15:18:48.370Z and 2025-03-09T15:18:48.370Z",
+  "discripstion": "Maps published between 2025-03-09T15:18:48.380Z and 2025-03-10T15:18:48.380Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "45146",
-      "songName": "You Can Never Be Ready - Sunrise Avenue",
-      "hash": "04b6c97931a23498a4f42fb9924119c4adf08577",
-      "levelid": "custom_level_04b6c97931a23498a4f42fb9924119c4adf08577"
+      "key": "451b9",
+      "songName": "empty core 1",
+      "hash": "3d4f0d0b2bf5fdf1a81552180276c1cd3f9572cd",
+      "levelid": "custom_level_3d4f0d0b2bf5fdf1a81552180276c1cd3f9572cd"
     },
     {
-      "key": "45145",
-      "songName": "Rabbit House - Dead Rabbit and Witch's Blood",
-      "hash": "e8230e9cf84f7c6d40c4be6a2f0d83f942d5ec0e",
-      "levelid": "custom_level_e8230e9cf84f7c6d40c4be6a2f0d83f942d5ec0e"
+      "key": "451b8",
+      "songName": "DIGITIST - LASER ROT",
+      "hash": "5567f6b43adbf4980c022dc67a26a8aaae94f1de",
+      "levelid": "custom_level_5567f6b43adbf4980c022dc67a26a8aaae94f1de"
     },
     {
-      "key": "45144",
-      "songName": "Mario World Bowser",
-      "hash": "b391733c11722d5f5af2cadaa58f52139cf91444",
-      "levelid": "custom_level_b391733c11722d5f5af2cadaa58f52139cf91444"
+      "key": "451af",
+      "songName": "litty2",
+      "hash": "2164fcf1cc0cec9405175cb05985b068a7f6bd90",
+      "levelid": "custom_level_2164fcf1cc0cec9405175cb05985b068a7f6bd90"
     },
     {
-      "key": "45143",
-      "songName": "TEYA & SALENA - Bye Bye Bye",
-      "hash": "b0e4d02702879016b701e17f09bda1734ae8e60e",
-      "levelid": "custom_level_b0e4d02702879016b701e17f09bda1734ae8e60e"
+      "key": "451ae",
+      "songName": "Strawberry - Ivoris",
+      "hash": "4a12b266f40b71aaf401ce02b243eba8333f417c",
+      "levelid": "custom_level_4a12b266f40b71aaf401ce02b243eba8333f417c"
     },
     {
-      "key": "45141",
-      "songName": "Cranky Clown",
-      "hash": "6cda5b118638441ce74245d1ab01123c7c94648d",
-      "levelid": "custom_level_6cda5b118638441ce74245d1ab01123c7c94648d"
+      "key": "451ad",
+      "songName": "02-07 请我不改-周深",
+      "hash": "daa78594b3e30a3e04e0ee6fd7f426b3fd0bab49",
+      "levelid": "custom_level_daa78594b3e30a3e04e0ee6fd7f426b3fd0bab49"
     },
     {
-      "key": "4513f",
-      "songName": "踊っチャイナ ft. 初音ミク, 重音テトSV - Atena",
-      "hash": "2da776457ec73a8ccdf0fa786c140a07bce2adbe",
-      "levelid": "custom_level_2da776457ec73a8ccdf0fa786c140a07bce2adbe"
+      "key": "451ac",
+      "songName": "my broke ahh",
+      "hash": "9e5299b5e7f3daf5e19d513e1c19861862fa9a90",
+      "levelid": "custom_level_9e5299b5e7f3daf5e19d513e1c19861862fa9a90"
     },
     {
-      "key": "4513d",
-      "songName": "Yuuka - Girls' Carnival",
-      "hash": "ad3dfdec158cd2eabfc24815bb3293219ae6d98e",
-      "levelid": "custom_level_ad3dfdec158cd2eabfc24815bb3293219ae6d98e"
+      "key": "451ab",
+      "songName": "万物に流るる命/In All Does Life Flow(Honkai:StarRail) - HOYO-MiX",
+      "hash": "7db43f3b1a9e74fef641dadade48f85b9fd2491c",
+      "levelid": "custom_level_7db43f3b1a9e74fef641dadade48f85b9fd2491c"
     },
     {
-      "key": "4513e",
-      "songName": "【V3 MAP】若梦（ruo meng）- 周深（Zhou Shen）",
-      "hash": "617ef773ed7b4acb489a7f35aecf11b6c15b177c",
-      "levelid": "custom_level_617ef773ed7b4acb489a7f35aecf11b6c15b177c"
+      "key": "451aa",
+      "songName": "Better Came Along Siine feat. Danny Shea",
+      "hash": "92791c7f3d19c6ae21096ea60270595772b6f22f",
+      "levelid": "custom_level_92791c7f3d19c6ae21096ea60270595772b6f22f"
     },
     {
-      "key": "4513c",
-      "songName": "Macaroni With The Chicken Strips (v2)",
-      "hash": "ee5ba4cd8db75c0bfab6f6dd59addf68b906db6c",
-      "levelid": "custom_level_ee5ba4cd8db75c0bfab6f6dd59addf68b906db6c"
+      "key": "451a9",
+      "songName": "YOU GOT A OTOMODACHI 妖怪ウォッチOP- King Cream Soda",
+      "hash": "cb442f16205542de1faa9012c96fb883a5d4c345",
+      "levelid": "custom_level_cb442f16205542de1faa9012c96fb883a5d4c345"
     },
     {
-      "key": "44b7d",
-      "songName": "I broke my robot - The Further Away",
-      "hash": "3806424efa28f0967b85c8aaa3076243aad89592",
-      "levelid": "custom_level_3806424efa28f0967b85c8aaa3076243aad89592"
+      "key": "451a5",
+      "songName": "Harmony Of Fuck",
+      "hash": "ee400ff6eb9b62c8b13810bff4e997d571b8ef8b",
+      "levelid": "custom_level_ee400ff6eb9b62c8b13810bff4e997d571b8ef8b"
     },
     {
-      "key": "4513b",
-      "songName": "Hell's Chicken Theme",
-      "hash": "c5895c819e007ff31a683458881d633b9dd6301f",
-      "levelid": "custom_level_c5895c819e007ff31a683458881d633b9dd6301f"
+      "key": "451a2",
+      "songName": "STOMACH BOOK - FUKOUNA GIRL",
+      "hash": "a617913475d42d51cc19356ca68591a8fb04651e",
+      "levelid": "custom_level_a617913475d42d51cc19356ca68591a8fb04651e"
     },
     {
-      "key": "45138",
-      "songName": "Plazma",
-      "hash": "8b81413ff134825f629c6d47e1463a63471d169c",
-      "levelid": "custom_level_8b81413ff134825f629c6d47e1463a63471d169c"
+      "key": "4519d",
+      "songName": "Del mar county fair 2008",
+      "hash": "1829d854a9386e79bc2f3ae37e6cd28e017e9226",
+      "levelid": "custom_level_1829d854a9386e79bc2f3ae37e6cd28e017e9226"
     },
     {
-      "key": "45139",
-      "songName": "STFU",
-      "hash": "dbaaccc1b39e3f67f3ffb834dda168e89bfb55b6",
-      "levelid": "custom_level_dbaaccc1b39e3f67f3ffb834dda168e89bfb55b6"
+      "key": "43b87",
+      "songName": "Vaeo, rouri404 - poison",
+      "hash": "0c139eeffd5d3bff3ce2b7c987894aa42fa74d98",
+      "levelid": "custom_level_0c139eeffd5d3bff3ce2b7c987894aa42fa74d98"
     },
     {
-      "key": "45136",
-      "songName": "Six Feet Underground - Lord Of The Lost",
-      "hash": "57b151e442d24820f7d0424a062e2cccbae7c601",
-      "levelid": "custom_level_57b151e442d24820f7d0424a062e2cccbae7c601"
+      "key": "4519c",
+      "songName": "nangs",
+      "hash": "8911b41f36945514699bfdd647565dcd23402dba",
+      "levelid": "custom_level_8911b41f36945514699bfdd647565dcd23402dba"
     },
     {
-      "key": "45137",
-      "songName": "S1 E3 well um... there's always next time right",
-      "hash": "b51fa787aa42c47b525c0dafbe4b31becb34d59e",
-      "levelid": "custom_level_b51fa787aa42c47b525c0dafbe4b31becb34d59e"
+      "key": "45178",
+      "songName": "Go With The Flow - Queens of the Stone Age",
+      "hash": "2e44d08c8f3e31b0ca225da0196ab2dc7502805e",
+      "levelid": "custom_level_2e44d08c8f3e31b0ca225da0196ab2dc7502805e"
     },
     {
-      "key": "45133",
-      "songName": "Megalovania (WIP)",
-      "hash": "11cb68830d94041c47c6efc4521fa07c38b628ee",
-      "levelid": "custom_level_11cb68830d94041c47c6efc4521fa07c38b628ee"
+      "key": "4519b",
+      "songName": "Heavy Is The Crown (Arcane Original Score) - Mike Shinoda, Emily Armstrong",
+      "hash": "1d30b920572f7932d7eaa33462ed9e4434e9f6eb",
+      "levelid": "custom_level_1d30b920572f7932d7eaa33462ed9e4434e9f6eb"
     },
     {
-      "key": "45131",
-      "songName": "oh no our table, its broken",
-      "hash": "c4a0bb2db9509c253dc3c848df394986e4a1c3ce",
-      "levelid": "custom_level_c4a0bb2db9509c253dc3c848df394986e4a1c3ce"
+      "key": "4519a",
+      "songName": "Boys Interface",
+      "hash": "c0ce2ce695a57003cb4e601aa567d37d33acee34",
+      "levelid": "custom_level_c0ce2ce695a57003cb4e601aa567d37d33acee34"
     },
     {
-      "key": "4512f",
-      "songName": "Octagon - Titana ft. IA",
-      "hash": "10d208fd665b69e0f512ffc6f952838efbf9e05c",
-      "levelid": "custom_level_10d208fd665b69e0f512ffc6f952838efbf9e05c"
+      "key": "45199",
+      "songName": "Heaven (BARELY ALIVE Remix) - Sara Landry & Alt8",
+      "hash": "491fc9b42ed89e55a3d9f0f4bb05c166946b0933",
+      "levelid": "custom_level_491fc9b42ed89e55a3d9f0f4bb05c166946b0933"
     },
     {
-      "key": "4512b",
-      "songName": "HIMEHINA -「キスキツネ」",
-      "hash": "78df0e708c66c5918bd0adaf86f1f21d967f8e52",
-      "levelid": "custom_level_78df0e708c66c5918bd0adaf86f1f21d967f8e52"
+      "key": "45197",
+      "songName": "(Nerfed Final Drop) heylog - bullseye",
+      "hash": "1c081bd73bafb1cc1c1187c53eee3de4ad486427",
+      "levelid": "custom_level_1c081bd73bafb1cc1c1187c53eee3de4ad486427"
     },
     {
-      "key": "4512a",
-      "songName": "Fade - Corde",
-      "hash": "a953d7a0dda0453856df1f039760d361ac13d2e0",
-      "levelid": "custom_level_a953d7a0dda0453856df1f039760d361ac13d2e0"
+      "key": "45193",
+      "songName": "snow's very long paul or somthn",
+      "hash": "1b6615396b91199b24dcf7d25fc5bdc593fe46fd",
+      "levelid": "custom_level_1b6615396b91199b24dcf7d25fc5bdc593fe46fd"
     },
     {
-      "key": "45129",
-      "songName": "sdsd",
-      "hash": "e9d37d70a888e4b09e739f34f48ac5deb2e30bd6",
-      "levelid": "custom_level_e9d37d70a888e4b09e739f34f48ac5deb2e30bd6"
+      "key": "45195",
+      "songName": "running shoes (probably level 31-32",
+      "hash": "8a0a1b1369925a39818c899433578921accb8cfa",
+      "levelid": "custom_level_8a0a1b1369925a39818c899433578921accb8cfa"
     },
     {
-      "key": "45128",
-      "songName": "QU4RTZ - PASTEL",
-      "hash": "98981a9ddfa1cbb32b646cbe40ea34106539982a",
-      "levelid": "custom_level_98981a9ddfa1cbb32b646cbe40ea34106539982a"
+      "key": "4518d",
+      "songName": "I LOVE FIDGET SPINNERS",
+      "hash": "5de5d71d5b283541c08538ad6a0e29c07a3de5d2",
+      "levelid": "custom_level_5de5d71d5b283541c08538ad6a0e29c07a3de5d2"
     },
     {
-      "key": "45127",
-      "songName": "Moonlight-feat.-ぷにぷに電機 - - Neko Hacker -",
-      "hash": "8b3b531753b5f4fd776a1e329abdf15bb66dbf5e",
-      "levelid": "custom_level_8b3b531753b5f4fd776a1e329abdf15bb66dbf5e"
+      "key": "4518b",
+      "songName": "2hollis - trust",
+      "hash": "965f03d41b4646982df72cf6f4e11c4f56c120bb",
+      "levelid": "custom_level_965f03d41b4646982df72cf6f4e11c4f56c120bb"
     },
     {
-      "key": "4508d",
-      "songName": "Zun - Broken Moon (IaMP)",
-      "hash": "107a5b7c064d0f1f88bb72c777fbc8aea79d23de",
-      "levelid": "custom_level_107a5b7c064d0f1f88bb72c777fbc8aea79d23de"
+      "key": "45185",
+      "songName": "505",
+      "hash": "a34d56a73f5f0288fb7305718f716119303d8823",
+      "levelid": "custom_level_a34d56a73f5f0288fb7305718f716119303d8823"
     },
     {
-      "key": "45126",
-      "songName": "fcj - on and on (w kitsui akira & riensu)",
-      "hash": "65741f157f68ee1ed6970a18aaef566267735a51",
-      "levelid": "custom_level_65741f157f68ee1ed6970a18aaef566267735a51"
+      "key": "45184",
+      "songName": "paystub",
+      "hash": "ae66370a13ab62f94850616e7231b7203fa925f1",
+      "levelid": "custom_level_ae66370a13ab62f94850616e7231b7203fa925f1"
     },
     {
-      "key": "45123",
-      "songName": " cosMo@bousouP DeroDeroDeroDe feat. Hatsune Miku",
-      "hash": "e4ba30a3518bfe296964682809611f16717059b9",
-      "levelid": "custom_level_e4ba30a3518bfe296964682809611f16717059b9"
+      "key": "45152",
+      "songName": "Splinxsh - Scrap Iron (Dubstep Remix)",
+      "hash": "7e92cbb7cac872b871b5ed6c18319ebda9afd112",
+      "levelid": "custom_level_7e92cbb7cac872b871b5ed6c18319ebda9afd112"
     },
     {
-      "key": "45122",
-      "songName": "Hepititis C",
-      "hash": "8b1b7e0f14def641008bc112f6f3a3410c394ec7",
-      "levelid": "custom_level_8b1b7e0f14def641008bc112f6f3a3410c394ec7"
+      "key": "45180",
+      "songName": "Chilly Foxgirl Time",
+      "hash": "a51aea1c54834dcf7236fde4d97de932050bbd9a",
+      "levelid": "custom_level_a51aea1c54834dcf7236fde4d97de932050bbd9a"
     },
     {
-      "key": "4511f",
-      "songName": "Cuckoo - Electric Swing Circus",
-      "hash": "16a5b3999d9315fa1e1e34384f78f481cb43d7bc",
-      "levelid": "custom_level_16a5b3999d9315fa1e1e34384f78f481cb43d7bc"
+      "key": "44f44",
+      "songName": "[Side Order Soundtrack] Free Association - d3molish",
+      "hash": "1bfe885ba7b514ff869debbe5e9edd675fb6d202",
+      "levelid": "custom_level_1bfe885ba7b514ff869debbe5e9edd675fb6d202"
     },
     {
-      "key": "45120",
-      "songName": "The Lion Sleeps Tonight - Billy Eichner & Seth Rogen ",
-      "hash": "4c59682080c5a63d0bbc5fa8cfa602cb82f5ef77",
-      "levelid": "custom_level_4c59682080c5a63d0bbc5fa8cfa602cb82f5ef77"
+      "key": "45177",
+      "songName": "Arabid dariacore",
+      "hash": "d6bb83fa581edf83775b2766cbf6deb978eceeb2",
+      "levelid": "custom_level_d6bb83fa581edf83775b2766cbf6deb978eceeb2"
     },
     {
-      "key": "4511e",
-      "songName": "is this really it?",
-      "hash": "1eee5d88dacdfa99428c377b66806e2c7634d47e",
-      "levelid": "custom_level_1eee5d88dacdfa99428c377b66806e2c7634d47e"
+      "key": "45176",
+      "songName": "Camellia - Operation: Zenithfall",
+      "hash": "888bc2f8c031faf77b067b6f6da3d9405a9e22a3",
+      "levelid": "custom_level_888bc2f8c031faf77b067b6f6da3d9405a9e22a3"
     },
     {
-      "key": "4511d",
-      "songName": "gage",
-      "hash": "02376500eba4b74a9d55b6e69d335c1d9aecd1f7",
-      "levelid": "custom_level_02376500eba4b74a9d55b6e69d335c1d9aecd1f7"
+      "key": "45170",
+      "songName": "Remond",
+      "hash": "3ca36f7535b5921271770e8b5c99de65539baf6b",
+      "levelid": "custom_level_3ca36f7535b5921271770e8b5c99de65539baf6b"
     },
     {
-      "key": "45117",
-      "songName": "AUTOMOTIVO MANGOS",
-      "hash": "d4228b73a0a097bfb7ae2d64972e05a7b2c49efc",
-      "levelid": "custom_level_d4228b73a0a097bfb7ae2d64972e05a7b2c49efc"
+      "key": "4516e",
+      "songName": "Dani Demand - Dance Demand [lxvly Remix]",
+      "hash": "da647542ad8bb8a63e4b1c73415c3e214b95a12f",
+      "levelid": "custom_level_da647542ad8bb8a63e4b1c73415c3e214b95a12f"
     },
     {
-      "key": "45114",
-      "songName": "[HER Album Pack] MINNIE - Valentine's Dream",
-      "hash": "005f25d1ac69aa483025bcf7360856cd4e4b4174",
-      "levelid": "custom_level_005f25d1ac69aa483025bcf7360856cd4e4b4174"
+      "key": "4516d",
+      "songName": "Käärijä, Joost - TRAFIK!",
+      "hash": "e7d9915e4e8e1705b7d40584f1da6b3f5c34388b",
+      "levelid": "custom_level_e7d9915e4e8e1705b7d40584f1da6b3f5c34388b"
     },
     {
-      "key": "4510e",
-      "songName": "UNIS - Dopamine",
-      "hash": "a8b81858fc007b4fda6ff5f0b4216f4053728dd4",
-      "levelid": "custom_level_a8b81858fc007b4fda6ff5f0b4216f4053728dd4"
+      "key": "4516c",
+      "songName": "peanut v2",
+      "hash": "b2d185dcab6acbb32ad0d686b1290ae7d7eb5046",
+      "levelid": "custom_level_b2d185dcab6acbb32ad0d686b1290ae7d7eb5046"
     },
     {
-      "key": "4510d",
-      "songName": "u",
-      "hash": "10a971eb0b449ec7bfca244ed0c56bab69c0adc8",
-      "levelid": "custom_level_10a971eb0b449ec7bfca244ed0c56bab69c0adc8"
+      "key": "45169",
+      "songName": "Fnaf jumpscare (V3 Experience)",
+      "hash": "00f72f320c4cdfd12424c09ea56ee39dc274c383",
+      "levelid": "custom_level_00f72f320c4cdfd12424c09ea56ee39dc274c383"
     },
     {
-      "key": "45109",
-      "songName": "(404, 202) It's Cold Out Here - Modern Baseball",
-      "hash": "afcd757e1469643adfc318d0ed2dbaf641de709b",
-      "levelid": "custom_level_afcd757e1469643adfc318d0ed2dbaf641de709b"
+      "key": "45167",
+      "songName": "Laur - Vindication",
+      "hash": "d95556818ef99d141863692c49e9dd8ff1e68e1d",
+      "levelid": "custom_level_d95556818ef99d141863692c49e9dd8ff1e68e1d"
     },
     {
-      "key": "45102",
-      "songName": "Chas & Dave - Any Old Iron",
-      "hash": "6faf6d6974f88ce9ab9a6ce93b3147cfed347ac7",
-      "levelid": "custom_level_6faf6d6974f88ce9ab9a6ce93b3147cfed347ac7"
+      "key": "45163",
+      "songName": " s",
+      "hash": "bafd2ad04ecdee5d94a7b8751ddc1b9cd17d75f2",
+      "levelid": "custom_level_bafd2ad04ecdee5d94a7b8751ddc1b9cd17d75f2"
     },
     {
-      "key": "45100",
-      "songName": "ovine hall - uk bitches w/ kurtains",
-      "hash": "1e95860b877211047bc5ac26120332e73d32e7d5",
-      "levelid": "custom_level_1e95860b877211047bc5ac26120332e73d32e7d5"
+      "key": "45162",
+      "songName": "Raon - Kitsuneno Mado (Nia Suzune Cover)",
+      "hash": "ad0bf358ce19a1eaee792693d611177229cd3131",
+      "levelid": "custom_level_ad0bf358ce19a1eaee792693d611177229cd3131"
     },
     {
-      "key": "44ebf",
-      "songName": "[Side Order Soundtrack] Free Association - demoli2h",
-      "hash": "b0b9c110a026f97cba339870e517f742e9df7357",
-      "levelid": "custom_level_b0b9c110a026f97cba339870e517f742e9df7357"
+      "key": "45160",
+      "songName": "drytoph",
+      "hash": "a260e00f05ed5e3375ab411de5ec7c6e327a76bf",
+      "levelid": "custom_level_a260e00f05ed5e3375ab411de5ec7c6e327a76bf"
     },
     {
-      "key": "450fc",
-      "songName": "Say My Name, Karen",
-      "hash": "f0e6f1d95d7a67873dfe8166ac1c5bb8fa1847d8",
-      "levelid": "custom_level_f0e6f1d95d7a67873dfe8166ac1c5bb8fa1847d8"
+      "key": "4515e",
+      "songName": "Safe Haven",
+      "hash": "3f1dbc475f2966aef1dd6b70d1a5a4fae83d3ceb",
+      "levelid": "custom_level_3f1dbc475f2966aef1dd6b70d1a5a4fae83d3ceb"
     },
     {
-      "key": "450fb",
-      "songName": "Ignition (Title) - Various Artists [Flametail]",
-      "hash": "479875ece2fd4cf6c00489b6d961b076f18e9681",
-      "levelid": "custom_level_479875ece2fd4cf6c00489b6d961b076f18e9681"
+      "key": "4515c",
+      "songName": "505-tv",
+      "hash": "393dacedccc0b6b7617e97ac4206f8ff49381c79",
+      "levelid": "custom_level_393dacedccc0b6b7617e97ac4206f8ff49381c79"
     },
     {
-      "key": "450f9",
-      "songName": "Opal In Sky - Projection",
-      "hash": "a38b0bf9664179490c927ce4089a3917f4bb3751",
-      "levelid": "custom_level_a38b0bf9664179490c927ce4089a3917f4bb3751"
+      "key": "4515b",
+      "songName": "toxic monitoring",
+      "hash": "34ca47f27496d3f715a1ae916f93c17277cdae12",
+      "levelid": "custom_level_34ca47f27496d3f715a1ae916f93c17277cdae12"
     },
     {
-      "key": "450f0",
-      "songName": "gage",
-      "hash": "5b672c55c489f2a2e3c3b19ee6a011f81dd97e58",
-      "levelid": "custom_level_5b672c55c489f2a2e3c3b19ee6a011f81dd97e58"
+      "key": "45159",
+      "songName": "Five - Keep On Moving (V3)",
+      "hash": "8aa9333ec9ef07eb2e005f7e8ed86fec8a88d84a",
+      "levelid": "custom_level_8aa9333ec9ef07eb2e005f7e8ed86fec8a88d84a"
     },
     {
-      "key": "450eb",
-      "songName": "Pathetic",
-      "hash": "bd8429fa901c38d73903a889bbd28cf55ebfaccd",
-      "levelid": "custom_level_bd8429fa901c38d73903a889bbd28cf55ebfaccd"
+      "key": "4514f",
+      "songName": "the Hole",
+      "hash": "c824f6e1f79f2fc9ca77ea35483a078018a7d525",
+      "levelid": "custom_level_c824f6e1f79f2fc9ca77ea35483a078018a7d525"
     },
     {
-      "key": "450ea",
-      "songName": "Roaring Thunder",
-      "hash": "a92221f55b2bd2690f0f776935f8251379316956",
-      "levelid": "custom_level_a92221f55b2bd2690f0f776935f8251379316956"
+      "key": "45154",
+      "songName": "Kessoku Band - Ano Band (Yuuni Bootleg)",
+      "hash": "bea72e3cf5d5d6ff72ce12262707eb7361be7beb",
+      "levelid": "custom_level_bea72e3cf5d5d6ff72ce12262707eb7361be7beb"
     },
     {
-      "key": "450e9",
-      "songName": "Power of the Saber Blade but with 2018 Mapping",
-      "hash": "ca12220f5a23961e7b83865fecf55e383d4cdd1b",
-      "levelid": "custom_level_ca12220f5a23961e7b83865fecf55e383d4cdd1b"
+      "key": "45153",
+      "songName": "a",
+      "hash": "51945ab97eabe7a4fef45ce4f80bb2ceec78e00b",
+      "levelid": "custom_level_51945ab97eabe7a4fef45ce4f80bb2ceec78e00b"
     },
     {
-      "key": "450e5",
-      "songName": "at the store w/ the gang_chapter397",
-      "hash": "4c1847172d9ac0fde36cd5651ffd86ab5bc5fe2c",
-      "levelid": "custom_level_4c1847172d9ac0fde36cd5651ffd86ab5bc5fe2c"
+      "key": "45150",
+      "songName": "kenta-v.ez. - ListENiNg to spEEDcorE turNs you iNto A fuckiNg idiot (Kobaryo's FTN-Remix)",
+      "hash": "76de992a3e0ba9f2e5b3ed594ae754e26e834f44",
+      "levelid": "custom_level_76de992a3e0ba9f2e5b3ed594ae754e26e834f44"
     },
     {
-      "key": "450e4",
-      "songName": "Drunk-Dazed",
-      "hash": "506665b42b4e7bea31f027f17b7a8618816518ca",
-      "levelid": "custom_level_506665b42b4e7bea31f027f17b7a8618816518ca"
+      "key": "4514e",
+      "songName": "Culture Shock feat Hatsune Miku",
+      "hash": "9c73b5bda17834730c20498c6209e8ea8a1f7a61",
+      "levelid": "custom_level_9c73b5bda17834730c20498c6209e8ea8a1f7a61"
     },
     {
-      "key": "450e3",
-      "songName": "Green Peta",
-      "hash": "25af1686537227b75442c4064932682cb9aed9a8",
-      "levelid": "custom_level_25af1686537227b75442c4064932682cb9aed9a8"
+      "key": "4514d",
+      "songName": "Case & Point - Error Code",
+      "hash": "938acad65a75e92372bf39ae1e8e5ec4bc0c3fac",
+      "levelid": "custom_level_938acad65a75e92372bf39ae1e8e5ec4bc0c3fac"
     },
     {
-      "key": "450e2",
-      "songName": "i'm here for a good time, not a long time",
-      "hash": "6eacefdeaffda02cc66ec3c485d630c0647d7e1d",
-      "levelid": "custom_level_6eacefdeaffda02cc66ec3c485d630c0647d7e1d"
+      "key": "45148",
+      "songName": "ITZY - Imaginary Friend",
+      "hash": "0ca05374386fa748db126edf8481be48b6b19b89",
+      "levelid": "custom_level_0ca05374386fa748db126edf8481be48b6b19b89"
     },
     {
-      "key": "450e1",
-      "songName": "piggy pie",
-      "hash": "e3a7d0046c9a020f4cdd6a617b869167991b6199",
-      "levelid": "custom_level_e3a7d0046c9a020f4cdd6a617b869167991b6199"
-    },
-    {
-      "key": "450e0",
-      "songName": "Gonna be this way",
-      "hash": "7a0be79d1bf399e32afc40bdd822aa448038d6e0",
-      "levelid": "custom_level_7a0be79d1bf399e32afc40bdd822aa448038d6e0"
-    },
-    {
-      "key": "450b1",
-      "songName": "Rokudenashi - Reincarnation",
-      "hash": "a31193bdedace1df3bb59dda86b9d170e12bed5a",
-      "levelid": "custom_level_a31193bdedace1df3bb59dda86b9d170e12bed5a"
-    },
-    {
-      "key": "450da",
-      "songName": "My Mother Wants Me Dead",
-      "hash": "1a904cd0c53068eb84eee9f382cfca8c08f29fd0",
-      "levelid": "custom_level_1a904cd0c53068eb84eee9f382cfca8c08f29fd0"
-    },
-    {
-      "key": "450d9",
-      "songName": "worst map ever",
-      "hash": "502b832b3cb5e3657ffd0db8d736e230f9000421",
-      "levelid": "custom_level_502b832b3cb5e3657ffd0db8d736e230f9000421"
-    },
-    {
-      "key": "450d8",
-      "songName": "YAJU&U",
-      "hash": "45c2cfa2b880b7127891dc796bbce57a6954513c",
-      "levelid": "custom_level_45c2cfa2b880b7127891dc796bbce57a6954513c"
-    },
-    {
-      "key": "450d7",
-      "songName": "r",
-      "hash": "937281b534cb0e9db29a78135a59affda74476de",
-      "levelid": "custom_level_937281b534cb0e9db29a78135a59affda74476de"
-    },
-    {
-      "key": "450d5",
-      "songName": "Isolation (wallmap)",
-      "hash": "48f5e7354483654527778f27af20d2fe66057c77",
-      "levelid": "custom_level_48f5e7354483654527778f27af20d2fe66057c77"
-    },
-    {
-      "key": "450cb",
-      "songName": "goofy",
-      "hash": "ca448e586d4ad570737143ca763266e1535715df",
-      "levelid": "custom_level_ca448e586d4ad570737143ca763266e1535715df"
-    },
-    {
-      "key": "450c6",
-      "songName": "Rory in early 20s - あなたと一別の行きましょう",
-      "hash": "46a11b0d5c48b8b7667c9cbf9ac1dd5aa2ba0eb5",
-      "levelid": "custom_level_46a11b0d5c48b8b7667c9cbf9ac1dd5aa2ba0eb5"
-    },
-    {
-      "key": "4209c",
-      "songName": "t+pazolite - geragerageragera",
-      "hash": "74630d501d3f28974c214de104d8059bd8ee25a5",
-      "levelid": "custom_level_74630d501d3f28974c214de104d8059bd8ee25a5"
-    },
-    {
-      "key": "450b7",
-      "songName": "The Way Things Go",
-      "hash": "dcc3020ed9b5688fc9f9c3e5a3af096e0684ab48",
-      "levelid": "custom_level_dcc3020ed9b5688fc9f9c3e5a3af096e0684ab48"
-    },
-    {
-      "key": "450b5",
-      "songName": "Chernoburkv, Sensi Affect - Rastaet sneg",
-      "hash": "d74225f9380db740305585a02f2bb5b91e911991",
-      "levelid": "custom_level_d74225f9380db740305585a02f2bb5b91e911991"
-    },
-    {
-      "key": "450af",
-      "songName": "DVRST-Close Eyes",
-      "hash": "3ee715044e80fd102547812fd49ff03eb83fc869",
-      "levelid": "custom_level_3ee715044e80fd102547812fd49ff03eb83fc869"
-    },
-    {
-      "key": "450ad",
-      "songName": "r",
-      "hash": "6ccca1b2e1ee3e6683155a7c9a6800f1a7693f2b",
-      "levelid": "custom_level_6ccca1b2e1ee3e6683155a7c9a6800f1a7693f2b"
-    },
-    {
-      "key": "450a4",
-      "songName": "魂のソフラン",
-      "hash": "36d0adec910ae8cf3a87bb9273350eb206699aad",
-      "levelid": "custom_level_36d0adec910ae8cf3a87bb9273350eb206699aad"
+      "key": "45135",
+      "songName": "Loathe - Screaming (inoqx Remix)",
+      "hash": "ef5c61463968da11b85e61f52af94c20166b05b4",
+      "levelid": "custom_level_ef5c61463968da11b85e61f52af94c20166b05b4"
     }
   ],
   "image": ""
