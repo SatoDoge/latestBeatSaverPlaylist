@@ -1,280 +1,178 @@
 {
-  "playlistTitle": "2025-03-25T15:18:48.709Z~2025-03-26T15:18:48.709Z",
+  "playlistTitle": "2025-03-26T15:18:48.374Z~2025-03-27T15:18:48.374Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-03-25T15:18:48.709Z and 2025-03-26T15:18:48.709Z",
+  "discripstion": "Maps published between 2025-03-26T15:18:48.374Z and 2025-03-27T15:18:48.374Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "45903",
-      "songName": "【JBSL】MagnaDrake - Blood Red Moon",
-      "hash": "69d158e053c16da1dc173c5c4763f06546fb5c7b",
-      "levelid": "custom_level_69d158e053c16da1dc173c5c4763f06546fb5c7b"
+      "key": "4416e",
+      "songName": "[V4] {11,111 Upvotes Celebration} Matduke - Rock the House (Reimagined)",
+      "hash": "e20dfde101e75a9d28a46dbb1ba2244101589108",
+      "levelid": "custom_level_e20dfde101e75a9d28a46dbb1ba2244101589108"
     },
     {
-      "key": "45902",
-      "songName": "Mayhem",
-      "hash": "94f25e2b6790f4346f01fe901b8a342a042de962",
-      "levelid": "custom_level_94f25e2b6790f4346f01fe901b8a342a042de962"
+      "key": "45973",
+      "songName": "bbno$ - antidepressants",
+      "hash": "38a96f8cd0f658ad6a78c56227bb896fbf8f11a5",
+      "levelid": "custom_level_38a96f8cd0f658ad6a78c56227bb896fbf8f11a5"
     },
     {
-      "key": "458fb",
-      "songName": "Counting Stars",
-      "hash": "4399c1f7706e8361f7b1ae9842e8f2713bf8e355",
-      "levelid": "custom_level_4399c1f7706e8361f7b1ae9842e8f2713bf8e355"
+      "key": "45933",
+      "songName": "Chaewon - Thank you for supporting us",
+      "hash": "11b6e21565f1a6d4e543b637dbab1024c9fb796a",
+      "levelid": "custom_level_11b6e21565f1a6d4e543b637dbab1024c9fb796a"
     },
     {
-      "key": "458f5",
-      "songName": "Mitsukiyo - Cotton Candy Island",
-      "hash": "89d532a81f845164d30fe3cfbde10cdc62cf21aa",
-      "levelid": "custom_level_89d532a81f845164d30fe3cfbde10cdc62cf21aa"
+      "key": "45953",
+      "songName": "yuki - 恋するキリギリス",
+      "hash": "21410dc45e7057102a893e30ffeeee13b337bcd2",
+      "levelid": "custom_level_21410dc45e7057102a893e30ffeeee13b337bcd2"
     },
     {
-      "key": "458f4",
-      "songName": "Nor - Up to 21°C",
-      "hash": "be1b49ebcbaed0f1e1151610b6fae524d4b492d6",
-      "levelid": "custom_level_be1b49ebcbaed0f1e1151610b6fae524d4b492d6"
+      "key": "45943",
+      "songName": "As the world caves in",
+      "hash": "7434e60c4433ebc92bacf49295086c55da0d1294",
+      "levelid": "custom_level_7434e60c4433ebc92bacf49295086c55da0d1294"
     },
     {
-      "key": "458ea",
-      "songName": "Black Rail",
-      "hash": "c706951094ccab4bb4cd12525e4f75152cecd03e",
-      "levelid": "custom_level_c706951094ccab4bb4cd12525e4f75152cecd03e"
+      "key": "45940",
+      "songName": "Not like us x No more ?'s x Love for you",
+      "hash": "24f814e983fdcf46bbf7e61e559e4c855af8e626",
+      "levelid": "custom_level_24f814e983fdcf46bbf7e61e559e4c855af8e626"
     },
     {
-      "key": "458f0",
-      "songName": "THØRNS - Honestly (feat. Kasane Teto)",
-      "hash": "1e6f5af3b05610c063d0aca63db4fbb72cb79dbe",
-      "levelid": "custom_level_1e6f5af3b05610c063d0aca63db4fbb72cb79dbe"
+      "key": "4593c",
+      "songName": "Soulless 4 - ExileLord",
+      "hash": "ec537e46fa3fe5cc84874e1e6ee30cdbec430dfe",
+      "levelid": "custom_level_ec537e46fa3fe5cc84874e1e6ee30cdbec430dfe"
     },
     {
-      "key": "458ee",
-      "songName": "How Do You Do",
-      "hash": "780b2cd8a0fa46fbdf8cd7bee4944e827e933c08",
-      "levelid": "custom_level_780b2cd8a0fa46fbdf8cd7bee4944e827e933c08"
+      "key": "4593b",
+      "songName": "glass beach - orchids",
+      "hash": "4d10ab538dd172e2a7c9a2f016046d55778dcba2",
+      "levelid": "custom_level_4d10ab538dd172e2a7c9a2f016046d55778dcba2"
     },
     {
-      "key": "458eb",
-      "songName": "[V3] Taylor Swift - Monologue Song (La La La) (from \"Saturday Night Live\" S35E5)",
-      "hash": "006fc3e111719086e9f087663d29a1709c8bc857",
-      "levelid": "custom_level_006fc3e111719086e9f087663d29a1709c8bc857"
+      "key": "4590f",
+      "songName": "想い咲く時 (When Wishes Bloom)",
+      "hash": "cf59b92f22823f4b30aaa43f291cb7ec9b1510c1",
+      "levelid": "custom_level_cf59b92f22823f4b30aaa43f291cb7ec9b1510c1"
     },
     {
-      "key": "458e2",
-      "songName": "Runaway",
-      "hash": "7e4ac29dfeaf48ec54f3f80a23ee29dc6e6ed616",
-      "levelid": "custom_level_7e4ac29dfeaf48ec54f3f80a23ee29dc6e6ed616"
+      "key": "4590d",
+      "songName": "蒼空の炎 (Blaze of Clear Sky)",
+      "hash": "6f4ff340dfee5a37c0a863cb4a2ee91186cda5f6",
+      "levelid": "custom_level_6f4ff340dfee5a37c0a863cb4a2ee91186cda5f6"
     },
     {
-      "key": "458df",
-      "songName": "Intro ",
-      "hash": "42ed090e4401d43fe8f14a3e1f87c67253fcdf5b",
-      "levelid": "custom_level_42ed090e4401d43fe8f14a3e1f87c67253fcdf5b"
+      "key": "45936",
+      "songName": "americanzombi",
+      "hash": "e5bb177d28fa3598491255b64dfccdc4f9991a44",
+      "levelid": "custom_level_e5bb177d28fa3598491255b64dfccdc4f9991a44"
     },
     {
-      "key": "458de",
-      "songName": "Nick28T’s EXTREME Speed Jumps Challenge",
-      "hash": "80483d29f3cdf158a9447d7a678fe2a23811aec3",
-      "levelid": "custom_level_80483d29f3cdf158a9447d7a678fe2a23811aec3"
+      "key": "45934",
+      "songName": "Theodore Shapiro - Main Titles",
+      "hash": "d4e84264507e7513ecdd624a2dbe48a128eb13c0",
+      "levelid": "custom_level_d4e84264507e7513ecdd624a2dbe48a128eb13c0"
     },
     {
-      "key": "458dc",
-      "songName": "Blade and Bath - Shot",
-      "hash": "b4171fb6d29d638ae2708284d6c593e72883c8bd",
-      "levelid": "custom_level_b4171fb6d29d638ae2708284d6c593e72883c8bd"
+      "key": "45932",
+      "songName": "I MISS THE RAGE",
+      "hash": "48db37a4f9e3c0525aa891489f6581fc33258387",
+      "levelid": "custom_level_48db37a4f9e3c0525aa891489f6581fc33258387"
     },
     {
-      "key": "458db",
-      "songName": "Bad Omens - bad decisions",
-      "hash": "ee80958edbed056cc34168d430ce548bf98fe77f",
-      "levelid": "custom_level_ee80958edbed056cc34168d430ce548bf98fe77f"
+      "key": "45931",
+      "songName": "Swamp Thing - The Grid",
+      "hash": "f4c9f4fd0b0b3cf63e60211207e1a8b2a4f067d7",
+      "levelid": "custom_level_f4c9f4fd0b0b3cf63e60211207e1a8b2a4f067d7"
     },
     {
-      "key": "458da",
-      "songName": "Neonatalimpalionecrophiliation",
-      "hash": "b833cf7ebf6c471c40e3c58474269ea92368e53a",
-      "levelid": "custom_level_b833cf7ebf6c471c40e3c58474269ea92368e53a"
+      "key": "4592a",
+      "songName": "what the beat",
+      "hash": "e656ffbcda662dc55659761621e35c584f66b076",
+      "levelid": "custom_level_e656ffbcda662dc55659761621e35c584f66b076"
     },
     {
-      "key": "458d8",
-      "songName": "hell12345",
-      "hash": "20d32e4a39b12520d38de9d01e570e97ead2ce6a",
-      "levelid": "custom_level_20d32e4a39b12520d38de9d01e570e97ead2ce6a"
+      "key": "45929",
+      "songName": "Denial Is A River",
+      "hash": "9943f8dde4d3b824b30ef2bd3828caa73a0ba143",
+      "levelid": "custom_level_9943f8dde4d3b824b30ef2bd3828caa73a0ba143"
     },
     {
-      "key": "458d1",
-      "songName": "Runaway (Buffed Cut Version)",
-      "hash": "a328ed3515abcf7eb03c71d4a4395363320fa151",
-      "levelid": "custom_level_a328ed3515abcf7eb03c71d4a4395363320fa151"
+      "key": "45926",
+      "songName": "[V3] Hollow (Lø's Version)",
+      "hash": "e16a41946f3b4ead7a96971d0c1c99ddaca694cc",
+      "levelid": "custom_level_e16a41946f3b4ead7a96971d0c1c99ddaca694cc"
     },
     {
-      "key": "458cf",
-      "songName": "dariastep",
-      "hash": "7e0300e3550df1a07b4c74260e9ebdd68d839658",
-      "levelid": "custom_level_7e0300e3550df1a07b4c74260e9ebdd68d839658"
+      "key": "45925",
+      "songName": "Skrillex - Bangarang (feat. Sirah)",
+      "hash": "c60650dba06b8e64f88cacaf5a060992bdf285b4",
+      "levelid": "custom_level_c60650dba06b8e64f88cacaf5a060992bdf285b4"
     },
     {
-      "key": "458ce",
-      "songName": "[Arcs] catunes - BU1LT 2 L4ST",
-      "hash": "827b9cd0e975471631121bc3a1e70449758195b4",
-      "levelid": "custom_level_827b9cd0e975471631121bc3a1e70449758195b4"
+      "key": "45919",
+      "songName": "Ahee & Sømething - The Action",
+      "hash": "07bfefe5d0ee45da96a331c8407502c713b1b3f4",
+      "levelid": "custom_level_07bfefe5d0ee45da96a331c8407502c713b1b3f4"
     },
     {
-      "key": "458ca",
-      "songName": "Jan Ilavsky - Origins",
-      "hash": "aef18cd1f1d62caf00cfe97df4bb04129db6810a",
-      "levelid": "custom_level_aef18cd1f1d62caf00cfe97df4bb04129db6810a"
+      "key": "45920",
+      "songName": "[V4.1] LEE CHAE YEON - KNOCK",
+      "hash": "d4f5ebb38f334fce5a88455487e11baf9983c672",
+      "levelid": "custom_level_d4f5ebb38f334fce5a88455487e11baf9983c672"
     },
     {
-      "key": "458c6",
-      "songName": "The Brave",
-      "hash": "76a359121f904cf0af290059ff296e05dec08f1d",
-      "levelid": "custom_level_76a359121f904cf0af290059ff296e05dec08f1d"
+      "key": "4591e",
+      "songName": "licks and sniffs",
+      "hash": "d01c832e69fff9124f60d9ab9a85f7c8be9958fa",
+      "levelid": "custom_level_d01c832e69fff9124f60d9ab9a85f7c8be9958fa"
     },
     {
-      "key": "458c7",
-      "songName": "KiiiKiii - BTG",
-      "hash": "3992ac967abb0a498fa20044e5886b8802dfd7dc",
-      "levelid": "custom_level_3992ac967abb0a498fa20044e5886b8802dfd7dc"
+      "key": "45917",
+      "songName": "Come To Light - Arkells",
+      "hash": "22d4ce555f94f07ae513cbd7de77d7e4007167fc",
+      "levelid": "custom_level_22d4ce555f94f07ae513cbd7de77d7e4007167fc"
     },
     {
-      "key": "458c4",
-      "songName": "Zdob si Zdub & Fratii Advahov - Trenuletul",
-      "hash": "a9e4515accd31688470b837aba4a12a6d31b1053",
-      "levelid": "custom_level_a9e4515accd31688470b837aba4a12a6d31b1053"
+      "key": "45916",
+      "songName": "Energy - The Atomic Bitchwax",
+      "hash": "ffa68b740aeab639e71a12b668d362f55c9a2178",
+      "levelid": "custom_level_ffa68b740aeab639e71a12b668d362f55c9a2178"
     },
     {
-      "key": "458c2",
-      "songName": "dariastep - w1red",
-      "hash": "c25ce669f3005d3ed5c5defb2b6ff4b769362a02",
-      "levelid": "custom_level_c25ce669f3005d3ed5c5defb2b6ff4b769362a02"
+      "key": "45918",
+      "songName": "EDEN - Wake Up",
+      "hash": "ef809bf01192acb8a35de9b4c96228cd284b9de5",
+      "levelid": "custom_level_ef809bf01192acb8a35de9b4c96228cd284b9de5"
     },
     {
-      "key": "458c1",
-      "songName": "Webyte - LON3LYHE4RT",
-      "hash": "c3bd41574013b35b4830241f7f7c4a7092953bbe",
-      "levelid": "custom_level_c3bd41574013b35b4830241f7f7c4a7092953bbe"
+      "key": "45915",
+      "songName": "Micah Dailey-White - Lust",
+      "hash": "3c8aa821b970cce32cc3764240ba669d35be5616",
+      "levelid": "custom_level_3c8aa821b970cce32cc3764240ba669d35be5616"
     },
     {
-      "key": "458c0",
-      "songName": "Swinaecologist",
-      "hash": "c9b751a511fca1a309ff9a172af7fbe7878f537b",
-      "levelid": "custom_level_c9b751a511fca1a309ff9a172af7fbe7878f537b"
+      "key": "45910",
+      "songName": "webyte - pineapple 🍍",
+      "hash": "4a218c9c2eeffcfbaeee0ab9ad10300e7d58ffe6",
+      "levelid": "custom_level_4a218c9c2eeffcfbaeee0ab9ad10300e7d58ffe6"
     },
     {
-      "key": "458bc",
-      "songName": "Eleven",
-      "hash": "617e90e036345813c0a4acca95ed5c9d4d18ce2a",
-      "levelid": "custom_level_617e90e036345813c0a4acca95ed5c9d4d18ce2a"
+      "key": "45907",
+      "songName": "[Mapsaber Competition] [V4] Outer Science - Jin",
+      "hash": "605e0365fb645df0f72432b9a596e71714dd04c5",
+      "levelid": "custom_level_605e0365fb645df0f72432b9a596e71714dd04c5"
     },
     {
-      "key": "458bb",
-      "songName": "Sleepyhead - Jutes (Acoustic ver.) [Chroma+]",
-      "hash": "6b055b8b04d4f10d8f5595496cbf1df70194c933",
-      "levelid": "custom_level_6b055b8b04d4f10d8f5595496cbf1df70194c933"
-    },
-    {
-      "key": "458ba",
-      "songName": "One Step At a Time - Jordin Sparks",
-      "hash": "7d14ba0d3299fa614c0b0c53ff5f207cc2230462",
-      "levelid": "custom_level_7d14ba0d3299fa614c0b0c53ff5f207cc2230462"
-    },
-    {
-      "key": "458b9",
-      "songName": "dont touch my pizza",
-      "hash": "b0ee4c9390dafbf28687dfbeb0cedcba3f4011b4",
-      "levelid": "custom_level_b0ee4c9390dafbf28687dfbeb0cedcba3f4011b4"
-    },
-    {
-      "key": "458b8",
-      "songName": "Zara Larsson - You Love Who You Love",
-      "hash": "4cf72b525e61db85faa36d8a9e90ba977671593f",
-      "levelid": "custom_level_4cf72b525e61db85faa36d8a9e90ba977671593f"
-    },
-    {
-      "key": "458b7",
-      "songName": "Lost in the Woods (From \"Frozen 2\") Metal Cover",
-      "hash": "2ee533098980e649fb4a982abe39781f42daa303",
-      "levelid": "custom_level_2ee533098980e649fb4a982abe39781f42daa303"
-    },
-    {
-      "key": "458b5",
-      "songName": "Camellia - NUCLEAR-STAR",
-      "hash": "4ef86834b1c17e3c41b4207cb0aa29b2eaf87825",
-      "levelid": "custom_level_4ef86834b1c17e3c41b4207cb0aa29b2eaf87825"
-    },
-    {
-      "key": "458b3",
-      "songName": "Imagine you're going to work one day... and suddenly... KABOOM!!",
-      "hash": "a383922b52475bda5dfeaf8f60c3624faef69bb8",
-      "levelid": "custom_level_a383922b52475bda5dfeaf8f60c3624faef69bb8"
-    },
-    {
-      "key": "458b2",
-      "songName": "Runaway (Cut)",
-      "hash": "1296a30217efe133d14bef0448591e7abf668a79",
-      "levelid": "custom_level_1296a30217efe133d14bef0448591e7abf668a79"
-    },
-    {
-      "key": "458ab",
-      "songName": "Camellia - The Cat Evolved Into The Microwave-proof Cat!",
-      "hash": "9c830c49955c78e0bba03ac9a0ded89c3d9a1ed1",
-      "levelid": "custom_level_9c830c49955c78e0bba03ac9a0ded89c3d9a1ed1"
-    },
-    {
-      "key": "457e7",
-      "songName": "[Arcs] GAWVI - Home Sick",
-      "hash": "3918334f4147d929c62b872aab3077cb46712f63",
-      "levelid": "custom_level_3918334f4147d929c62b872aab3077cb46712f63"
-    },
-    {
-      "key": "458a9",
-      "songName": "eekhoorn",
-      "hash": "989015653772fd3dbff5cef940f68386141c3570",
-      "levelid": "custom_level_989015653772fd3dbff5cef940f68386141c3570"
-    },
-    {
-      "key": "458a5",
-      "songName": "Fetty Wap, very cool tutorial - Trap Royalty",
-      "hash": "081c5e29a753a4047aacd24993103a898da9689f",
-      "levelid": "custom_level_081c5e29a753a4047aacd24993103a898da9689f"
-    },
-    {
-      "key": "458a0",
-      "songName": "SMNM, She' - For U",
-      "hash": "5ac8c1c3ffca017ce86a033b9663b783a43d924c",
-      "levelid": "custom_level_5ac8c1c3ffca017ce86a033b9663b783a43d924c"
-    },
-    {
-      "key": "4589e",
-      "songName": "Shinra-Bansho - Sanyosei SAY YA!!!",
-      "hash": "501455074c6f41beb3aa429e371ca9811f0b6e8c",
-      "levelid": "custom_level_501455074c6f41beb3aa429e371ca9811f0b6e8c"
-    },
-    {
-      "key": "4589b",
-      "songName": "~Snow Castle~ tekkendr",
-      "hash": "35b920261a299a5dea698fbe983a2b4666f1c3f0",
-      "levelid": "custom_level_35b920261a299a5dea698fbe983a2b4666f1c3f0"
-    },
-    {
-      "key": "4589a",
-      "songName": "Royal & the Serpent - Wasteland  [Noodle Extension, Vivify]",
-      "hash": "cba42ebf5e79cdc86c8f7092a90ac8e59df44078",
-      "levelid": "custom_level_cba42ebf5e79cdc86c8f7092a90ac8e59df44078"
-    },
-    {
-      "key": "457f5",
-      "songName": "Giga - Beyond the way",
-      "hash": "b8c278eb0f43e7316d913da9134e552adab38470",
-      "levelid": "custom_level_b8c278eb0f43e7316d913da9134e552adab38470"
-    },
-    {
-      "key": "45895",
-      "songName": "ME:I - MUSE",
-      "hash": "889e88e8a27a9651142d52603064e2d655e527d4",
-      "levelid": "custom_level_889e88e8a27a9651142d52603064e2d655e527d4"
+      "key": "45906",
+      "songName": "synthesis",
+      "hash": "6c34e574845c4bc5a4b91f344bab0491375db65a",
+      "levelid": "custom_level_6c34e574845c4bc5a4b91f344bab0491375db65a"
     }
   ],
   "image": ""
