@@ -1,334 +1,340 @@
 {
-  "playlistTitle": "2025-03-28T15:18:48.340Z~2025-03-29T15:18:48.340Z",
+  "playlistTitle": "2025-03-29T15:18:47.966Z~2025-03-30T15:18:47.966Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-03-28T15:18:48.340Z and 2025-03-29T15:18:48.340Z",
+  "discripstion": "Maps published between 2025-03-29T15:18:47.966Z and 2025-03-30T15:18:47.966Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "45ace",
-      "songName": "Destructo, GTA - Party Up (Don Dirty Remix)",
-      "hash": "aade4a3a5e004cfd45a198b58b04473d7d7eff60",
-      "levelid": "custom_level_aade4a3a5e004cfd45a198b58b04473d7d7eff60"
+      "key": "45b48",
+      "songName": "Tatsunoshin-Judgement",
+      "hash": "1ce6745b4efd84bbe0524d173efaf7e6ddf45e7d",
+      "levelid": "custom_level_1ce6745b4efd84bbe0524d173efaf7e6ddf45e7d"
     },
     {
-      "key": "45a31",
-      "songName": "羽生まゐご - 我愛メイデン",
-      "hash": "17681f33b1bd2202d473d6743408099b76f7d75b",
-      "levelid": "custom_level_17681f33b1bd2202d473d6743408099b76f7d75b"
+      "key": "45b47",
+      "songName": "block level",
+      "hash": "a614ae998faf4cfd829d836f82cc0c20fcc24be9",
+      "levelid": "custom_level_a614ae998faf4cfd829d836f82cc0c20fcc24be9"
     },
     {
-      "key": "45ac8",
-      "songName": "ナイトループ - 大神ミオ",
-      "hash": "8cc77231e6f28bb359608e7c956710a695960ba6",
-      "levelid": "custom_level_8cc77231e6f28bb359608e7c956710a695960ba6"
+      "key": "45b46",
+      "songName": "Kobaryo - Bookmaker (2D Version)",
+      "hash": "3b3d2ed4b9f8b2de543888cf43f780b5bc6f3b63",
+      "levelid": "custom_level_3b3d2ed4b9f8b2de543888cf43f780b5bc6f3b63"
     },
     {
-      "key": "45ac5",
-      "songName": "d4vd - What Are You Waiting For",
-      "hash": "fb40c2eece5febac1d6af9e9deba3e25b002bab9",
-      "levelid": "custom_level_fb40c2eece5febac1d6af9e9deba3e25b002bab9"
+      "key": "45b44",
+      "songName": "Bloodywood ft. BABYMETAL - Bekhauf",
+      "hash": "a166a87be5dab96a7b9913b3871de378230c746a",
+      "levelid": "custom_level_a166a87be5dab96a7b9913b3871de378230c746a"
     },
     {
-      "key": "45ac1",
-      "songName": "02-10 99次我爱他合唱",
-      "hash": "a943403e372363e3df97d70418681974c3075962",
-      "levelid": "custom_level_a943403e372363e3df97d70418681974c3075962"
+      "key": "45b43",
+      "songName": "Let Me Go Hailee Steinfeld, Alesso feat. Florida Georgia Line, WATT",
+      "hash": "3780ffa13334c27b08dbe106a98f89eab212ff13",
+      "levelid": "custom_level_3780ffa13334c27b08dbe106a98f89eab212ff13"
     },
     {
-      "key": "45ac4",
-      "songName": "PUPA(Endorfin. Remix)",
-      "hash": "f445d57a202bcf796626f18bfecf5e1a7652bc37",
-      "levelid": "custom_level_f445d57a202bcf796626f18bfecf5e1a7652bc37"
+      "key": "45b3d",
+      "songName": "CG5- mommy's here",
+      "hash": "16145ba708f134ac453906c3e04da04694e87fd0",
+      "levelid": "custom_level_16145ba708f134ac453906c3e04da04694e87fd0"
     },
     {
-      "key": "45ac3",
-      "songName": "X-GALACTICO( super slowed)",
-      "hash": "502c37e778afdec3ee0968d33a43f03e540d99f1",
-      "levelid": "custom_level_502c37e778afdec3ee0968d33a43f03e540d99f1"
+      "key": "45b3c",
+      "songName": "FA3 - RENICHT MIX VERSION (Slowed) (short version)",
+      "hash": "510163c6f091d58dce227b91e31c4e61051fec5e",
+      "levelid": "custom_level_510163c6f091d58dce227b91e31c4e61051fec5e"
     },
     {
-      "key": "45ac0",
-      "songName": "BSMCapy FAILS to wlak on a wall x3",
-      "hash": "1bf534edb8e67f609ad14c453a1af28c929e1e82",
-      "levelid": "custom_level_1bf534edb8e67f609ad14c453a1af28c929e1e82"
+      "key": "45b3b",
+      "songName": "JPEGMAFIA - don't rely on other men",
+      "hash": "82db6149c97dd364b8b9d4b8dee2f92a6bf10fb6",
+      "levelid": "custom_level_82db6149c97dd364b8b9d4b8dee2f92a6bf10fb6"
     },
     {
-      "key": "45abf",
-      "songName": "Mrs. GREEN APPLE - lilac/ライラック",
-      "hash": "f7836dc40e3b8f00d811473228906be91d8f0f91",
-      "levelid": "custom_level_f7836dc40e3b8f00d811473228906be91d8f0f91"
+      "key": "45b3a",
+      "songName": "Busy Town - Remzcore",
+      "hash": "5fec6e43e965ea30e607467a8182153d6550f11f",
+      "levelid": "custom_level_5fec6e43e965ea30e607467a8182153d6550f11f"
     },
     {
-      "key": "45abe",
-      "songName": "Zombieboy (Lady Gaga)",
-      "hash": "28400618cd6e2cacea3e2877716a9a08399bd8d6",
-      "levelid": "custom_level_28400618cd6e2cacea3e2877716a9a08399bd8d6"
+      "key": "4590b",
+      "songName": "Still worth Fighting For",
+      "hash": "3fd64e299ee289468ba00e95403f41cc7a46878a",
+      "levelid": "custom_level_3fd64e299ee289468ba00e95403f41cc7a46878a"
     },
     {
-      "key": "45aba",
-      "songName": " Subtronics - Into Pieces (feat Grabbitz) VIP",
-      "hash": "05c8fb68111fe0a3ce7f2bb93a9710047c9d5bc8",
-      "levelid": "custom_level_05c8fb68111fe0a3ce7f2bb93a9710047c9d5bc8"
+      "key": "45b32",
+      "songName": "Dragonforce - Through The Fire And Flames",
+      "hash": "4e254b6305c3fa9cd0413657bdf48a63df8c0646",
+      "levelid": "custom_level_4e254b6305c3fa9cd0413657bdf48a63df8c0646"
     },
     {
-      "key": "45ab9",
-      "songName": "AIKA & XYKI | MALFEC",
-      "hash": "31fe222e464163dfe15b9ebfc01ebacfe6f18f17",
-      "levelid": "custom_level_31fe222e464163dfe15b9ebfc01ebacfe6f18f17"
+      "key": "45b31",
+      "songName": "mijn superheld",
+      "hash": "da4cf56f2656ddd09f57a86424538590bfb33f4c",
+      "levelid": "custom_level_da4cf56f2656ddd09f57a86424538590bfb33f4c"
     },
     {
-      "key": "45ab8",
-      "songName": "That Kid - Full Throttle",
-      "hash": "586bda7456d2b6eb4918a2eb2dc78c94dcfaced3",
-      "levelid": "custom_level_586bda7456d2b6eb4918a2eb2dc78c94dcfaced3"
+      "key": "45b2e",
+      "songName": " cf",
+      "hash": "42ee1cd22f0877a39a2222951c91e4405260c788",
+      "levelid": "custom_level_42ee1cd22f0877a39a2222951c91e4405260c788"
     },
     {
-      "key": "45ab7",
-      "songName": "IRENE - Like A Flower",
-      "hash": "3628cd31b49247e96cd7d36f901fa96c442ac64a",
-      "levelid": "custom_level_3628cd31b49247e96cd7d36f901fa96c442ac64a"
+      "key": "45800",
+      "songName": "ど～ぱみん - しゃにむに feat.重音テト / dopamine - Syanimuni",
+      "hash": "9cb63cf31bcb6fa6295ba896411b148f434d0489",
+      "levelid": "custom_level_9cb63cf31bcb6fa6295ba896411b148f434d0489"
     },
     {
-      "key": "45ab6",
-      "songName": "Picdo - Tougenkyou e Ikou (feat. Rei Adachi)",
-      "hash": "2f1faa6e3718c35123e8e51f9a8675dec860d90f",
-      "levelid": "custom_level_2f1faa6e3718c35123e8e51f9a8675dec860d90f"
+      "key": "45b2c",
+      "songName": "Ragnarok",
+      "hash": "f9f9c151320a8b34170ff5a7a4456119d9e9f69e",
+      "levelid": "custom_level_f9f9c151320a8b34170ff5a7a4456119d9e9f69e"
     },
     {
-      "key": "45ab4",
+      "key": "45b2b",
+      "songName": "Dragon Night - SEKAI NO OWARI",
+      "hash": "114770503d509359d47d8b068f8b3cb8aaa0b241",
+      "levelid": "custom_level_114770503d509359d47d8b068f8b3cb8aaa0b241"
+    },
+    {
+      "key": "45b2a",
+      "songName": "a gold bar",
+      "hash": "5d32ec0f98d707c8ad06d91330f6ea7f09041c43",
+      "levelid": "custom_level_5d32ec0f98d707c8ad06d91330f6ea7f09041c43"
+    },
+    {
+      "key": "45b27",
+      "songName": "see you again",
+      "hash": "7d2a38e7f542e2697baee75db8177348931c6015",
+      "levelid": "custom_level_7d2a38e7f542e2697baee75db8177348931c6015"
+    },
+    {
+      "key": "45b1e",
+      "songName": "MYUKKE. - RakiRaki Rebuilders!!!",
+      "hash": "ea6e3fc620ba5f1048a2865ec6b7ecff401ecd21",
+      "levelid": "custom_level_ea6e3fc620ba5f1048a2865ec6b7ecff401ecd21"
+    },
+    {
+      "key": "45b13",
+      "songName": "Adust Rain - Pretty Pretty Dark",
+      "hash": "8758fe6f3cb25a24876a7400e356f8e586cb1fed",
+      "levelid": "custom_level_8758fe6f3cb25a24876a7400e356f8e586cb1fed"
+    },
+    {
+      "key": "45b10",
+      "songName": "Everyone adores you (at least I do)",
+      "hash": "1877235a8a4c3d4f600b9ba0df93a662a7104c16",
+      "levelid": "custom_level_1877235a8a4c3d4f600b9ba0df93a662a7104c16"
+    },
+    {
+      "key": "45b0f",
+      "songName": "Middy titty",
+      "hash": "97c5ac319ab9c4cca52f852dc3d1ed8000eeaf27",
+      "levelid": "custom_level_97c5ac319ab9c4cca52f852dc3d1ed8000eeaf27"
+    },
+    {
+      "key": "45b0e",
+      "songName": "Nekomata Okayu - Decogradation",
+      "hash": "fe1ca0b47776240d66781edbc9fd6f8e6158c99c",
+      "levelid": "custom_level_fe1ca0b47776240d66781edbc9fd6f8e6158c99c"
+    },
+    {
+      "key": "45b0d",
+      "songName": "Veranda",
+      "hash": "fd549e8286071b606bbfaf2f820f975a94e41dfc",
+      "levelid": "custom_level_fd549e8286071b606bbfaf2f820f975a94e41dfc"
+    },
+    {
+      "key": "45b0c",
+      "songName": "03-Fulaco 恋爱色魔法",
+      "hash": "90a624db96fc423da50cd063f4beeeae607d6b3c",
+      "levelid": "custom_level_90a624db96fc423da50cd063f4beeeae607d6b3c"
+    },
+    {
+      "key": "45b08",
+      "songName": "repeat - heylog",
+      "hash": "c0a589c46dd9fdf0a0504852b3a541d06fb4c828",
+      "levelid": "custom_level_c0a589c46dd9fdf0a0504852b3a541d06fb4c828"
+    },
+    {
+      "key": "45b05",
+      "songName": "Why Bug hasn't been posting D;",
+      "hash": "20cdd6c5fc503c9b82663556c422e910a6d7c80f",
+      "levelid": "custom_level_20cdd6c5fc503c9b82663556c422e910a6d7c80f"
+    },
+    {
+      "key": "45b04",
+      "songName": "DECO*27 - Telepathy/テレパシ",
+      "hash": "f73806917acd3347fcdfa56092fc35db1565579c",
+      "levelid": "custom_level_f73806917acd3347fcdfa56092fc35db1565579c"
+    },
+    {
+      "key": "45b03",
+      "songName": "Area Where I Can Do Anything",
+      "hash": "b7cda26e46e5ba293a1c1fd65a72a9ab77d11615",
+      "levelid": "custom_level_b7cda26e46e5ba293a1c1fd65a72a9ab77d11615"
+    },
+    {
+      "key": "45b02",
+      "songName": "Kaneko Chiharu - YukiOtoko",
+      "hash": "62bb645946ab6fc7833bddfc45e7df524c1ea902",
+      "levelid": "custom_level_62bb645946ab6fc7833bddfc45e7df524c1ea902"
+    },
+    {
+      "key": "45afe",
+      "songName": "Måneskin - HONEY (ARE U COMING?)",
+      "hash": "81e76e8f77ca5cf0613a1b700369bddfc83ced68",
+      "levelid": "custom_level_81e76e8f77ca5cf0613a1b700369bddfc83ced68"
+    },
+    {
+      "key": "45aff",
+      "songName": "[NO NOODLE] Vengaboys - We Like To Party! (The Vengabus) | [Fvrwvrd Bootleg]",
+      "hash": "9c41c3ce9a76c9021cedc3a9fb55503373ae0050",
+      "levelid": "custom_level_9c41c3ce9a76c9021cedc3a9fb55503373ae0050"
+    },
+    {
+      "key": "45afd",
+      "songName": "Daisy bell (bycicle for two)",
+      "hash": "ce768b7648fb9d00c5471884468371400486040d",
+      "levelid": "custom_level_ce768b7648fb9d00c5471884468371400486040d"
+    },
+    {
+      "key": "45afc",
+      "songName": "I'm So Sick",
+      "hash": "6e67d24809d24e4e7cbf5e8fbc02ce637e4030b3",
+      "levelid": "custom_level_6e67d24809d24e4e7cbf5e8fbc02ce637e4030b3"
+    },
+    {
+      "key": "459f8",
+      "songName": "守るべきもの",
+      "hash": "6eef87cde2940ee27faee7d6f4ac84a1caf7b5e5",
+      "levelid": "custom_level_6eef87cde2940ee27faee7d6f4ac84a1caf7b5e5"
+    },
+    {
+      "key": "45afb",
+      "songName": "Numl6ck- time (1.2x)",
+      "hash": "c55e74e0aa25431cd7c6679d6b805fa25130110e",
+      "levelid": "custom_level_c55e74e0aa25431cd7c6679d6b805fa25130110e"
+    },
+    {
+      "key": "45afa",
+      "songName": "Tremors",
+      "hash": "c799ade8fdb2c10fe706922a1c236200e384c905",
+      "levelid": "custom_level_c799ade8fdb2c10fe706922a1c236200e384c905"
+    },
+    {
+      "key": "4593d",
+      "songName": "～娘よ～　藤岡藤巻",
+      "hash": "5387c212af315697fcc7b6cd667c03acd927d710",
+      "levelid": "custom_level_5387c212af315697fcc7b6cd667c03acd927d710"
+    },
+    {
+      "key": "45af9",
+      "songName": "semba",
+      "hash": "d6122e73f9355c89d3f0af87c830fc1ddc5e8a8c",
+      "levelid": "custom_level_d6122e73f9355c89d3f0af87c830fc1ddc5e8a8c"
+    },
+    {
+      "key": "45af8",
+      "songName": "piri & tommy - fruit machine",
+      "hash": "0ac8b6ec9a783a73bcff1f1b985fb43e4686d042",
+      "levelid": "custom_level_0ac8b6ec9a783a73bcff1f1b985fb43e4686d042"
+    },
+    {
+      "key": "45af6",
+      "songName": "Vengaboys - We Like To Party! (The Vengabus) | [Fvrwvrd Bootleg]",
+      "hash": "8660b9ee6d760ad602200d3f4927c4b8ac9a52b9",
+      "levelid": "custom_level_8660b9ee6d760ad602200d3f4927c4b8ac9a52b9"
+    },
+    {
+      "key": "45af4",
+      "songName": "aldn - icantbelieveiletyougetaway [Modchart]",
+      "hash": "b62bc8958c01c116911cb6131227c44379a60a00",
+      "levelid": "custom_level_b62bc8958c01c116911cb6131227c44379a60a00"
+    },
+    {
+      "key": "45af2",
+      "songName": "Toby Fox - Your Best Nightmare + Finale (Extended)",
+      "hash": "e5cd76bd3a94ea2baefcf2a718f20a8dd042566f",
+      "levelid": "custom_level_e5cd76bd3a94ea2baefcf2a718f20a8dd042566f"
+    },
+    {
+      "key": "45ae6",
+      "songName": "marks pizzeria",
+      "hash": "5e4248b3819603044b92b0c626e1d40b95b01cfd",
+      "levelid": "custom_level_5e4248b3819603044b92b0c626e1d40b95b01cfd"
+    },
+    {
+      "key": "45ae4",
       "songName": "I wanna slam my head against the wall",
-      "hash": "580e450da8b803b516f2f22fe60de83d709d8ee0",
-      "levelid": "custom_level_580e450da8b803b516f2f22fe60de83d709d8ee0"
+      "hash": "ea8a39addff3b80714711b8d4b1fee98f7b26771",
+      "levelid": "custom_level_ea8a39addff3b80714711b8d4b1fee98f7b26771"
     },
     {
-      "key": "45ab2",
-      "songName": "New Gold - Gorillaz (Cracker Island) [Balanced]",
-      "hash": "97ab6398d2eccf17022a9967463aa9cf36f9265a",
-      "levelid": "custom_level_97ab6398d2eccf17022a9967463aa9cf36f9265a"
+      "key": "45ae2",
+      "songName": "Leave It All To Me (Theme from iCarly)",
+      "hash": "72b8a7bcc795d3814fc2b9dedbaa91a0b7cdd3ef",
+      "levelid": "custom_level_72b8a7bcc795d3814fc2b9dedbaa91a0b7cdd3ef"
     },
     {
-      "key": "45aaf",
-      "songName": "Twin Skeletons (Hotel In NYC)",
-      "hash": "493885896b8c6924376df956a09f82b58f8ce740",
-      "levelid": "custom_level_493885896b8c6924376df956a09f82b58f8ce740"
+      "key": "45ae0",
+      "songName": "Hong Kong 97 - Hardstyler",
+      "hash": "6247f05669c5a9952f0c5c3b01682443ede5afaa",
+      "levelid": "custom_level_6247f05669c5a9952f0c5c3b01682443ede5afaa"
     },
     {
-      "key": "45aab",
-      "songName": " London View OTP & BM",
-      "hash": "27d784fe3cdb01daab3530797b89cb7ae489e358",
-      "levelid": "custom_level_27d784fe3cdb01daab3530797b89cb7ae489e358"
+      "key": "45ade",
+      "songName": "[Vivify] 雑魚Small Fish",
+      "hash": "8f8f425d5c32f529a93a599ff86c45e3890dda8e",
+      "levelid": "custom_level_8f8f425d5c32f529a93a599ff86c45e3890dda8e"
     },
     {
-      "key": "45aa9",
-      "songName": "dont touch my pizzer v2",
-      "hash": "02213ce886dcba2bce6bdee6e3012a7d15d8f948",
-      "levelid": "custom_level_02213ce886dcba2bce6bdee6e3012a7d15d8f948"
+      "key": "45adc",
+      "songName": "The Expired Sugar",
+      "hash": "3e73aff62d1e428bd0c7b550848458b105f2fe80",
+      "levelid": "custom_level_3e73aff62d1e428bd0c7b550848458b105f2fe80"
     },
     {
-      "key": "45a9d",
-      "songName": "[SS2H] AAAA + Umeboshi Chazuke - Cait Sith (reprise)",
-      "hash": "f47bb63eb3987286d73b754bf5ce9a77c7fb7f6a",
-      "levelid": "custom_level_f47bb63eb3987286d73b754bf5ce9a77c7fb7f6a"
+      "key": "45ada",
+      "songName": "Jorei - Lie",
+      "hash": "1e4cfe8558e933cff3f2dd87ff9c2bbe2b187f88",
+      "levelid": "custom_level_1e4cfe8558e933cff3f2dd87ff9c2bbe2b187f88"
     },
     {
-      "key": "45a9b",
-      "songName": "[SS2H] Qrestfall",
-      "hash": "6dd115c7a5b8118cb277b6cffa1138be1da056c8",
-      "levelid": "custom_level_6dd115c7a5b8118cb277b6cffa1138be1da056c8"
+      "key": "45ad8",
+      "songName": "wwwwwww",
+      "hash": "a56b215c66a908eede25c48b55f0132de8aff328",
+      "levelid": "custom_level_a56b215c66a908eede25c48b55f0132de8aff328"
     },
     {
-      "key": "45a9a",
-      "songName": "[SS2H] Connexio - GATE",
-      "hash": "bd30945329c707fd0a64b01cf0d00e08aeae23db",
-      "levelid": "custom_level_bd30945329c707fd0a64b01cf0d00e08aeae23db"
+      "key": "45ad7",
+      "songName": "TYNAN - Ducks On Acid",
+      "hash": "aee324d702cd87ce467eac6ffb94ef9b371bc226",
+      "levelid": "custom_level_aee324d702cd87ce467eac6ffb94ef9b371bc226"
     },
     {
-      "key": "45a99",
-      "songName": "[SS2H] Laur - Cat Paradise (♥ THE R4WSTYL3RZ ♥ UPTEMPO FUCKUP)",
-      "hash": "715f0608e5d29e5f97d95be4f63d651bf9313384",
-      "levelid": "custom_level_715f0608e5d29e5f97d95be4f63d651bf9313384"
+      "key": "45ad4",
+      "songName": "Jumper",
+      "hash": "e03b186732bfb47920dda4e0d8dbf03daf2654cc",
+      "levelid": "custom_level_e03b186732bfb47920dda4e0d8dbf03daf2654cc"
     },
     {
-      "key": "45a98",
-      "songName": "JVKE - this is what falling in love feels like",
-      "hash": "8eaaa18d693353554681c061edcd8881ba07c9e7",
-      "levelid": "custom_level_8eaaa18d693353554681c061edcd8881ba07c9e7"
+      "key": "45ad3",
+      "songName": "thought it was a drought?",
+      "hash": "8b2af42bbb35294ad1018cd3d52de15a1747b283",
+      "levelid": "custom_level_8b2af42bbb35294ad1018cd3d52de15a1747b283"
     },
     {
-      "key": "45a97",
-      "songName": "montagem invasao",
-      "hash": "c8c4fc89855a3c32dabaadb1728a774ceab9010b",
-      "levelid": "custom_level_c8c4fc89855a3c32dabaadb1728a774ceab9010b"
-    },
-    {
-      "key": "45a96",
-      "songName": "[SS2H] Mameyudoufu - Space Age",
-      "hash": "9de252b60459b7a5860234b14d590f7e42a4d418",
-      "levelid": "custom_level_9de252b60459b7a5860234b14d590f7e42a4d418"
-    },
-    {
-      "key": "45a88",
-      "songName": "[SS2H] cool watt song - BARELY ALIVE",
-      "hash": "3dd6399e6082b882ac9d3f66fbc6dc8eb15b2f3f",
-      "levelid": "custom_level_3dd6399e6082b882ac9d3f66fbc6dc8eb15b2f3f"
-    },
-    {
-      "key": "45a95",
-      "songName": "[SS2H] Yuta Imai vs Qlarabelle - ALTER EGO",
-      "hash": "3f1162f5af56a1943d9c6703e74c167a9f994c18",
-      "levelid": "custom_level_3f1162f5af56a1943d9c6703e74c167a9f994c18"
-    },
-    {
-      "key": "45a8d",
-      "songName": "[V4.1] [SS2H] Runnit & Scullion - Mullah",
-      "hash": "09d4e216aefdeb4a40ae05b5d68e7818134aaf63",
-      "levelid": "custom_level_09d4e216aefdeb4a40ae05b5d68e7818134aaf63"
-    },
-    {
-      "key": "45a89",
-      "songName": "[SS2H] clipping. - get.it (feat. kill rogers & TiVO)",
-      "hash": "b71241ab0045a1a97cedfba5a7ef5f2ea9803b0e",
-      "levelid": "custom_level_b71241ab0045a1a97cedfba5a7ef5f2ea9803b0e"
-    },
-    {
-      "key": "45a93",
-      "songName": "[SS2H] 8485 - 1:15",
-      "hash": "cc9cea878a6101019643620da1954a3771497062",
-      "levelid": "custom_level_cc9cea878a6101019643620da1954a3771497062"
-    },
-    {
-      "key": "45a94",
-      "songName": "Linkin Park - Up From The Bottom",
-      "hash": "8b7af6f1c0dd5787322043a68a26672b748f843d",
-      "levelid": "custom_level_8b7af6f1c0dd5787322043a68a26672b748f843d"
-    },
-    {
-      "key": "45a8e",
-      "songName": "Yooh - Booby Trap",
-      "hash": "95a63d16a07951ac4c3f6a3f03a0437c75456c18",
-      "levelid": "custom_level_95a63d16a07951ac4c3f6a3f03a0437c75456c18"
-    },
-    {
-      "key": "45a8b",
-      "songName": "[SS2H] Juggernaut. - Outburst",
-      "hash": "fc5d6ae404759cafcd59ab7a644a2c66d37ce4e8",
-      "levelid": "custom_level_fc5d6ae404759cafcd59ab7a644a2c66d37ce4e8"
-    },
-    {
-      "key": "45a83",
-      "songName": "Sigma ADHD",
-      "hash": "43f2f1ea45db2ba23515a4f03b11650bd58a8e01",
-      "levelid": "custom_level_43f2f1ea45db2ba23515a4f03b11650bd58a8e01"
-    },
-    {
-      "key": "45a80",
-      "songName": "Seclusion - Laur (Feat. Sennzai)",
-      "hash": "f855dbc61ee265d8d2a08481334f977720c0b4c9",
-      "levelid": "custom_level_f855dbc61ee265d8d2a08481334f977720c0b4c9"
-    },
-    {
-      "key": "45a7e",
-      "songName": "FKA Twigs",
-      "hash": "fc04172b52e8174e0aca3c9c0524b5e9e48af3ab",
-      "levelid": "custom_level_fc04172b52e8174e0aca3c9c0524b5e9e48af3ab"
-    },
-    {
-      "key": "45a70",
-      "songName": "Up From The Bottom - Linkin Park",
-      "hash": "d4ea769ea4715df3ca9bf76b0d27550e7c309eaa",
-      "levelid": "custom_level_d4ea769ea4715df3ca9bf76b0d27550e7c309eaa"
-    },
-    {
-      "key": "45a6c",
-      "songName": "tdstr - another station (untested)",
-      "hash": "9336cdf95474070a875ba253b3aa9f933fd25fcc",
-      "levelid": "custom_level_9336cdf95474070a875ba253b3aa9f933fd25fcc"
-    },
-    {
-      "key": "459fd",
-      "songName": "Flerian - innocense",
-      "hash": "2cd6c29b1b99e6014fa395f07c102363519bbb42",
-      "levelid": "custom_level_2cd6c29b1b99e6014fa395f07c102363519bbb42"
-    },
-    {
-      "key": "45a50",
-      "songName": "Skrillex - Rock 'n' Roll (Will Take You To The Mountain)",
-      "hash": "2582143bdc0d643d01026ed5722cb1cd55c4cc86",
-      "levelid": "custom_level_2582143bdc0d643d01026ed5722cb1cd55c4cc86"
-    },
-    {
-      "key": "45a46",
-      "songName": "M2U - Magnolia (feat. Guriri)",
-      "hash": "6d0bde5aee833036c3981114c063a47f37284e61",
-      "levelid": "custom_level_6d0bde5aee833036c3981114c063a47f37284e61"
-    },
-    {
-      "key": "45a5b",
-      "songName": "Kalafina - To The Beginning (V3) (From Fate/Zero)",
-      "hash": "905a3921c90a3a7eb32754a77c367118c3c588d2",
-      "levelid": "custom_level_905a3921c90a3a7eb32754a77c367118c3c588d2"
-    },
-    {
-      "key": "45a5a",
-      "songName": "JOYRYDE & Skrillex - AGEN WIDA",
-      "hash": "17818e79d30007b3dcd1583deca8891dbb4289a8",
-      "levelid": "custom_level_17818e79d30007b3dcd1583deca8891dbb4289a8"
-    },
-    {
-      "key": "45a53",
-      "songName": "Nishino Kana - Moshimo Unmei no Hito ga Iru no Nara (Aizawa Cover)",
-      "hash": "dab66d2f87c83e4cf6832e12ed372a3601339dd8",
-      "levelid": "custom_level_dab66d2f87c83e4cf6832e12ed372a3601339dd8"
-    },
-    {
-      "key": "45a54",
-      "songName": "Korn - Love & Meth",
-      "hash": "43cbf46d03e867900a1d680171f8f22e997546b6",
-      "levelid": "custom_level_43cbf46d03e867900a1d680171f8f22e997546b6"
-    },
-    {
-      "key": "45a56",
-      "songName": "Edel Piep Lilie (ustempo Vip)",
-      "hash": "849e1e0f3551c2d00107cfc3647596484836ed8f",
-      "levelid": "custom_level_849e1e0f3551c2d00107cfc3647596484836ed8f"
-    },
-    {
-      "key": "45a57",
-      "songName": "6locc-6a6y (feat-lil-loaded)",
-      "hash": "72f00915fe385fd71ad40262437e1fd9238778d3",
-      "levelid": "custom_level_72f00915fe385fd71ad40262437e1fd9238778d3"
-    },
-    {
-      "key": "45a41",
-      "songName": "銭$ソング（マンダム親子のテーマ）",
-      "hash": "285b0b8788f0188419f61a92d15a7748c7c87224",
-      "levelid": "custom_level_285b0b8788f0188419f61a92d15a7748c7c87224"
-    },
-    {
-      "key": "45a3c",
-      "songName": "NOTHING ELSE",
-      "hash": "c9366d90aa8c04a678513b1e480f00761c6972d0",
-      "levelid": "custom_level_c9366d90aa8c04a678513b1e480f00761c6972d0"
-    },
-    {
-      "key": "45a3b",
-      "songName": "EDEN - Wake Up",
-      "hash": "29b435630e318c981ea0f796c58c3df30c8d833e",
-      "levelid": "custom_level_29b435630e318c981ea0f796c58c3df30c8d833e"
-    },
-    {
-      "key": "45a3a",
-      "songName": "Basking in the Sun",
-      "hash": "beeb15ecc5b64de1c1217f3f951968d0ed8723fb",
-      "levelid": "custom_level_beeb15ecc5b64de1c1217f3f951968d0ed8723fb"
-    },
-    {
-      "key": "45a39",
-      "songName": "Vertile - Where Legends Rise (Defqon.1 2025 Anthem)",
-      "hash": "96cd9b1ef0f903f88f6a21c566129c618daa8d83",
-      "levelid": "custom_level_96cd9b1ef0f903f88f6a21c566129c618daa8d83"
+      "key": "45ad0",
+      "songName": "Kenya Grace - It's not fair",
+      "hash": "6435fe62b999695ee08ddb0198610643fdfbec6b",
+      "levelid": "custom_level_6435fe62b999695ee08ddb0198610643fdfbec6b"
     }
   ],
   "image": ""
