@@ -1,442 +1,238 @@
 {
-  "playlistTitle": "2025-03-31T15:18:48.459Z~2025-04-01T15:18:48.459Z",
+  "playlistTitle": "2025-04-01T15:18:52.610Z~2025-04-02T15:18:52.610Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-03-31T15:18:48.459Z and 2025-04-01T15:18:48.459Z",
+  "discripstion": "Maps published between 2025-04-01T15:18:52.610Z and 2025-04-02T15:18:52.610Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "45c2e",
-      "songName": "Seahorse Scrutiny [Calamity Pack]",
-      "hash": "b1aea59c34376b4069eda33d4b8da0ce3112c1ac",
-      "levelid": "custom_level_b1aea59c34376b4069eda33d4b8da0ce3112c1ac"
+      "key": "45ca5",
+      "songName": "MIMI - Science covered by Nanahira",
+      "hash": "099e3c42f2c36da0439f367154658192fcb4829b",
+      "levelid": "custom_level_099e3c42f2c36da0439f367154658192fcb4829b"
     },
     {
-      "key": "45c2d",
-      "songName": "[Squat map] 迫り来る仙高人 シェンガオレン 【スクワット譜面】",
-      "hash": "b9d835eab0ec0f39004bf4911ee86b4a226c68a6",
-      "levelid": "custom_level_b9d835eab0ec0f39004bf4911ee86b4a226c68a6"
+      "key": "45ca3",
+      "songName": "Yomitan Akane - 合わせ鏡のウワサ / 重音テト (Rumors of the Infinity mirror / Kasane Teto)",
+      "hash": "2fa78f4caed6912a085eb479ceb5d2523618e963",
+      "levelid": "custom_level_2fa78f4caed6912a085eb479ceb5d2523618e963"
     },
     {
-      "key": "45bbd",
-      "songName": "ツクヨミ討滅戦　FFXIV ",
-      "hash": "b8bf36b44cdc5edb4baf96c504d7278e2e062082",
-      "levelid": "custom_level_b8bf36b44cdc5edb4baf96c504d7278e2e062082"
+      "key": "45ca4",
+      "songName": "a gold bar v3",
+      "hash": "e94b2d7923c95c16c42375c21cbd1fed80a17b62",
+      "levelid": "custom_level_e94b2d7923c95c16c42375c21cbd1fed80a17b62"
     },
     {
-      "key": "45b26",
-      "songName": "～妻よ～　藤岡藤巻",
-      "hash": "6114c0a43e7e959051b4e0d65621ae5b88671853",
-      "levelid": "custom_level_6114c0a43e7e959051b4e0d65621ae5b88671853"
+      "key": "45ca2",
+      "songName": "请我不改-周深",
+      "hash": "f8568ebd0eab60c2c04eaa914b676205de7f752f",
+      "levelid": "custom_level_f8568ebd0eab60c2c04eaa914b676205de7f752f"
     },
     {
-      "key": "45c23",
-      "songName": "ファランドール　アルルの女　ビゼー",
-      "hash": "1ddc84231c4016c389b75f681256c1dc0a98d0ec",
-      "levelid": "custom_level_1ddc84231c4016c389b75f681256c1dc0a98d0ec"
+      "key": "45ca0",
+      "songName": "Aiobahn +81-天天天国地獄国(Ten Ten Tengoku Jigoku Koku)",
+      "hash": "e8f57514564974124f8907b6f72ef40f9daadc25",
+      "levelid": "custom_level_e8f57514564974124f8907b6f72ef40f9daadc25"
     },
     {
-      "key": "45c2a",
-      "songName": "LINKUS - DarkStep (Part 1)",
-      "hash": "5b40b3a65e93f4dff016dee5fbd75a2048434681",
-      "levelid": "custom_level_5b40b3a65e93f4dff016dee5fbd75a2048434681"
+      "key": "45c9f",
+      "songName": "ゆーり(yuri)-隙(suki)",
+      "hash": "1add04c889c24ba8c837b5d11d519ca394ff0720",
+      "levelid": "custom_level_1add04c889c24ba8c837b5d11d519ca394ff0720"
     },
     {
-      "key": "44b1d",
-      "songName": "852 Hz",
-      "hash": "10de8f3e7cade2b2e6364325dd3490b66fd58eb2",
-      "levelid": "custom_level_10de8f3e7cade2b2e6364325dd3490b66fd58eb2"
+      "key": "45c9d",
+      "songName": "takehirotei - Sincerely, Maya",
+      "hash": "f461ec79f67558ccce9d09aba8ab5d0a971f5d84",
+      "levelid": "custom_level_f461ec79f67558ccce9d09aba8ab5d0a971f5d84"
     },
     {
-      "key": "45c28",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] [Fitbeat] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) (feat. JENNIE & Dua Lipa) [Fitbeat] (feat. JENNIE & Dua Lipa)",
-      "hash": "1ce3962ff8dce6199a5ebd3a1cb769e9963ac0f9",
-      "levelid": "custom_level_1ce3962ff8dce6199a5ebd3a1cb769e9963ac0f9"
+      "key": "45c97",
+      "songName": "Demrv",
+      "hash": "f4e0beb1811a64b7a4aebd881e59f88aaa887acc",
+      "levelid": "custom_level_f4e0beb1811a64b7a4aebd881e59f88aaa887acc"
     },
     {
-      "key": "45c26",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "9889237c832ae06b487dfa86226f6c1a4c0812eb",
-      "levelid": "custom_level_9889237c832ae06b487dfa86226f6c1a4c0812eb"
+      "key": "45c93",
+      "songName": "Send My Love (Snap Ya Fingas) (Remix) - Adele",
+      "hash": "1549b610c499dcbe887e9796ad095266579bfb46",
+      "levelid": "custom_level_1549b610c499dcbe887e9796ad095266579bfb46"
     },
     {
-      "key": "45c1d",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "3124aad2c8358e49e210053c752ef08f134450f7",
-      "levelid": "custom_level_3124aad2c8358e49e210053c752ef08f134450f7"
+      "key": "44b4d",
+      "songName": "[Chroma+] STEAKA - Konpeito Extremists (feat. 夢ノ結唱 POPY)",
+      "hash": "8f5a0b3574ad41d22cb93726564e6a0a42f8d88d",
+      "levelid": "custom_level_8f5a0b3574ad41d22cb93726564e6a0a42f8d88d"
     },
     {
-      "key": "45c1c",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "974363fd1c81c6d1fe179a1163f35ba657669a54",
-      "levelid": "custom_level_974363fd1c81c6d1fe179a1163f35ba657669a54"
+      "key": "45c91",
+      "songName": "Camellia - ONE BITE",
+      "hash": "d23429e3693e2cc0d236a36194339730dc1fcee7",
+      "levelid": "custom_level_d23429e3693e2cc0d236a36194339730dc1fcee7"
     },
     {
-      "key": "45bff",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "df8221e2bff285e67f79a65bf4c8598b192d8b23",
-      "levelid": "custom_level_df8221e2bff285e67f79a65bf4c8598b192d8b23"
+      "key": "45c8f",
+      "songName": "Mona Lisa - J-Hope",
+      "hash": "12891468072bf604662badc52708da628c43c7d4",
+      "levelid": "custom_level_12891468072bf604662badc52708da628c43c7d4"
     },
     {
-      "key": "45b8d",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "93ee11e6acfe13975018658e06d7d4ca154d05fa",
-      "levelid": "custom_level_93ee11e6acfe13975018658e06d7d4ca154d05fa"
+      "key": "45c89",
+      "songName": "MATOI -phase L-",
+      "hash": "1ce2a33fe87c631e7f5e8aa60a2afe64942fea43",
+      "levelid": "custom_level_1ce2a33fe87c631e7f5e8aa60a2afe64942fea43"
     },
     {
-      "key": "45b8a",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "57e2a8da8f905e55c6dbe77ab4d08c9164f4f493",
-      "levelid": "custom_level_57e2a8da8f905e55c6dbe77ab4d08c9164f4f493"
+      "key": "45c85",
+      "songName": "Honestly Feat. Kasane Teto",
+      "hash": "03e1d7a46c15b2586a03bc917d24b58a91e4bbf4",
+      "levelid": "custom_level_03e1d7a46c15b2586a03bc917d24b58a91e4bbf4"
     },
     {
-      "key": "45bfb",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "fe9c8fd1435e314691f5112e4c2e9c3ac6fd728e",
-      "levelid": "custom_level_fe9c8fd1435e314691f5112e4c2e9c3ac6fd728e"
+      "key": "45c7d",
+      "songName": "MYUKKE. - The 90's Decision",
+      "hash": "f22ca0bb7667a7970e636658650721f285631675",
+      "levelid": "custom_level_f22ca0bb7667a7970e636658650721f285631675"
     },
     {
-      "key": "45bf8",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "6d335324a0717bc765702cb3b9b9588ff6a9279a",
-      "levelid": "custom_level_6d335324a0717bc765702cb3b9b9588ff6a9279a"
+      "key": "45c7c",
+      "songName": "Trace Adkins - Honky Tonk Badonkadonk",
+      "hash": "bdf1cc05c4759bdd860dff62888029faed2f3ae2",
+      "levelid": "custom_level_bdf1cc05c4759bdd860dff62888029faed2f3ae2"
     },
     {
-      "key": "45939",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "50088aa116fce1bde5d8178eb3471ba84d1ab129",
-      "levelid": "custom_level_50088aa116fce1bde5d8178eb3471ba84d1ab129"
+      "key": "45c7b",
+      "songName": "t",
+      "hash": "e893d9df767ee4b8ce76a14cf70273b2291ac010",
+      "levelid": "custom_level_e893d9df767ee4b8ce76a14cf70273b2291ac010"
     },
     {
-      "key": "45001",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "83b47cddb7921eac0c779adee4bb5b0089390b26",
-      "levelid": "custom_level_83b47cddb7921eac0c779adee4bb5b0089390b26"
+      "key": "45c7a",
+      "songName": "Tao Mon Amour - Plage Coquillage (First Kiss Song)",
+      "hash": "8afc3d21d7231733939392c44bbf25cb7c925862",
+      "levelid": "custom_level_8afc3d21d7231733939392c44bbf25cb7c925862"
     },
     {
-      "key": "45bd5",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "8050d8271ad9a1ffccee1ff3aed696ff8c284b90",
-      "levelid": "custom_level_8050d8271ad9a1ffccee1ff3aed696ff8c284b90"
+      "key": "45c79",
+      "songName": "Chaos Euphoria v3",
+      "hash": "d629c80f14ab20262aa322c7c8c6ff0c345b9775",
+      "levelid": "custom_level_d629c80f14ab20262aa322c7c8c6ff0c345b9775"
     },
     {
-      "key": "45bbf",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "3eeb0fb2a37c754869d0801da31df69f9820e815",
-      "levelid": "custom_level_3eeb0fb2a37c754869d0801da31df69f9820e815"
+      "key": "45c77",
+      "songName": "The Oral Cigarettes - Miss Tail ",
+      "hash": "e392369d3b648f05bd64ea8d55023e073e29dc0f",
+      "levelid": "custom_level_e392369d3b648f05bd64ea8d55023e073e29dc0f"
     },
     {
-      "key": "45bbc",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "c77ea7ef69b597a6e656a805f97992324928aa19",
-      "levelid": "custom_level_c77ea7ef69b597a6e656a805f97992324928aa19"
+      "key": "45c76",
+      "songName": "See You Again",
+      "hash": "93fc74a3e058b64a5565541131a1a52725c9078c",
+      "levelid": "custom_level_93fc74a3e058b64a5565541131a1a52725c9078c"
     },
     {
-      "key": "45605",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "09747d52a9ffd133c9b1272c575afa10063d8d65",
-      "levelid": "custom_level_09747d52a9ffd133c9b1272c575afa10063d8d65"
+      "key": "45c75",
+      "songName": "we got to celebrate our differences",
+      "hash": "f41fa286cb3eb3f71960dfa379c9abf222d6ef5e",
+      "levelid": "custom_level_f41fa286cb3eb3f71960dfa379c9abf222d6ef5e"
     },
     {
-      "key": "45ad2",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] [Fitbeat] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "4c9fd58db784742ea12b2b67a2108780248b845a",
-      "levelid": "custom_level_4c9fd58db784742ea12b2b67a2108780248b845a"
+      "key": "45c74",
+      "songName": "Casanova Metal Cover V2",
+      "hash": "f0f075d09845d8add827a8e648325ae30d75d241",
+      "levelid": "custom_level_f0f075d09845d8add827a8e648325ae30d75d241"
     },
     {
-      "key": "457ef",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "1f2f33f60558150894522c22b1b12aee1f11e21d",
-      "levelid": "custom_level_1f2f33f60558150894522c22b1b12aee1f11e21d"
+      "key": "45c73",
+      "songName": "Hawk Tuah",
+      "hash": "0d9ea3d39561a359c84142271c6494b576f8e146",
+      "levelid": "custom_level_0d9ea3d39561a359c84142271c6494b576f8e146"
     },
     {
-      "key": "45909",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "458cf9d2681021d3dd8d73698c2092a2bb83cec3",
-      "levelid": "custom_level_458cf9d2681021d3dd8d73698c2092a2bb83cec3"
+      "key": "45c6f",
+      "songName": "[V4.1] Camellia - Birthright Syndrome feat. Hatsune Miku",
+      "hash": "77da71a549dbd11b33fa37341b8e3fe39f7295ee",
+      "levelid": "custom_level_77da71a549dbd11b33fa37341b8e3fe39f7295ee"
     },
     {
-      "key": "455f6",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "f37b615695edc2fe4a88ecf66a6edc7ac0c829d4",
-      "levelid": "custom_level_f37b615695edc2fe4a88ecf66a6edc7ac0c829d4"
+      "key": "45c6e",
+      "songName": "yama - Mahi (TV Size)",
+      "hash": "b1006e73b8124ae920d7e00724013d5ed566b1fc",
+      "levelid": "custom_level_b1006e73b8124ae920d7e00724013d5ed566b1fc"
     },
     {
-      "key": "45625",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) ",
-      "hash": "2ba5ab1b36f17da5456ce964c0b89d1397507c58",
-      "levelid": "custom_level_2ba5ab1b36f17da5456ce964c0b89d1397507c58"
+      "key": "45c6d",
+      "songName": "aldn - fall at the same time ",
+      "hash": "5bb9ecbbde6ba577e1a469bb75a4add657bd3fbf",
+      "levelid": "custom_level_5bb9ecbbde6ba577e1a469bb75a4add657bd3fbf"
     },
     {
-      "key": "455f8",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "1733d99b8d4941fb5a55c65abf44e29f3ad997cd",
-      "levelid": "custom_level_1733d99b8d4941fb5a55c65abf44e29f3ad997cd"
+      "key": "45c6b",
+      "songName": "To Soar - Aoi with mAoA9",
+      "hash": "19ed9a0b003ef2207da096ac9a182791159426c0",
+      "levelid": "custom_level_19ed9a0b003ef2207da096ac9a182791159426c0"
     },
     {
-      "key": "45652",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "bd38806d4e648f820210c3252601617b42f5d0dc",
-      "levelid": "custom_level_bd38806d4e648f820210c3252601617b42f5d0dc"
+      "key": "45c6c",
+      "songName": "outside by me",
+      "hash": "8ab202d9db76a2242f72e51018832d6e55a79022",
+      "levelid": "custom_level_8ab202d9db76a2242f72e51018832d6e55a79022"
     },
     {
-      "key": "455e7",
-      "songName": "[Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "5dc6693bd9f5bc62308f6ca5aa15dfbb6e48c4b3",
-      "levelid": "custom_level_5dc6693bd9f5bc62308f6ca5aa15dfbb6e48c4b3"
+      "key": "45c68",
+      "songName": "Windows 10000",
+      "hash": "c5513a9cb9cb9b48e892aa87222b40e263319870",
+      "levelid": "custom_level_c5513a9cb9cb9b48e892aa87222b40e263319870"
     },
     {
-      "key": "45c27",
-      "songName": "LIARGAME OP TVsize / 中田ヤスタカ　LIARGAME OP TVsize / Yasutaka Nakata",
-      "hash": "addef171eea35ef46f1c2a4c3647bedd81d35fc4",
-      "levelid": "custom_level_addef171eea35ef46f1c2a4c3647bedd81d35fc4"
+      "key": "45c61",
+      "songName": "(Pre-Minute Madness S2) nomary - during а FREAKY MONTH (BAD FLIP 2025!!!!!)",
+      "hash": "b7de4ec7a09f9f30960de212252a7c5037940cd5",
+      "levelid": "custom_level_b7de4ec7a09f9f30960de212252a7c5037940cd5"
     },
     {
-      "key": "45c22",
-      "songName": "Valentino Khan - Pump",
-      "hash": "70de353366b78a14122e2f7589308bb3c0d6cd04",
-      "levelid": "custom_level_70de353366b78a14122e2f7589308bb3c0d6cd04"
+      "key": "45c04",
+      "songName": "speed chalengyurfhrfuefuef ",
+      "hash": "ab85e1ff9f036968b29a867963da4786659e56fe",
+      "levelid": "custom_level_ab85e1ff9f036968b29a867963da4786659e56fe"
     },
     {
-      "key": "45c20",
-      "songName": "Boom Kitty - It Takes Me (feat. Waylon Reavis)",
-      "hash": "5ce7096fdefa74e17f47b7e2505d4b88d5ab9d06",
-      "levelid": "custom_level_5ce7096fdefa74e17f47b7e2505d4b88d5ab9d06"
+      "key": "45c5d",
+      "songName": "All as one (Final Battle Theme)",
+      "hash": "cdfe7c54d9133b7f057141e2b8becdb8ab1beb20",
+      "levelid": "custom_level_cdfe7c54d9133b7f057141e2b8becdb8ab1beb20"
     },
     {
-      "key": "45c1e",
-      "songName": "SciFun - Płaska Ziemia - Poważna Analiza cz.1",
-      "hash": "b1e5c24b9644c1189c2c8047589243273f8a9c43",
-      "levelid": "custom_level_b1e5c24b9644c1189c2c8047589243273f8a9c43"
+      "key": "45c5c",
+      "songName": "The Curse Of The Lovely Fox - kanemiko [APRIL FOOL]",
+      "hash": "21782340e2cafb1276827b16e39941f5d1acf9a6",
+      "levelid": "custom_level_21782340e2cafb1276827b16e39941f5d1acf9a6"
     },
     {
-      "key": "45c1b",
-      "songName": "MATG ON THE BEAT",
-      "hash": "f0b9fd9b91b54b3e0732e4863825035c0f31e417",
-      "levelid": "custom_level_f0b9fd9b91b54b3e0732e4863825035c0f31e417"
+      "key": "45c4e",
+      "songName": "Burn It to the Ground - Nickelback",
+      "hash": "d334a9d422e21e761b70335976607100778257b9",
+      "levelid": "custom_level_d334a9d422e21e761b70335976607100778257b9"
     },
     {
-      "key": "45c1a",
-      "songName": "Nevermind",
-      "hash": "639da5a01e2f7ec4584a4e3c4f8a42a61746c160",
-      "levelid": "custom_level_639da5a01e2f7ec4584a4e3c4f8a42a61746c160"
+      "key": "45c07",
+      "songName": "Explorers of the Internet - ARRIVING ANTHEM",
+      "hash": "a3a5b7f455882c74861071c96262a9fa57841d90",
+      "levelid": "custom_level_a3a5b7f455882c74861071c96262a9fa57841d90"
     },
     {
-      "key": "45c13",
-      "songName": "Teniwoha - Samsa (covered by Nightcord at 25:00 feat. KAITO)",
-      "hash": "e51d23bbc1259320108eb8a12b2a034e4f4d0130",
-      "levelid": "custom_level_e51d23bbc1259320108eb8a12b2a034e4f4d0130"
+      "key": "45c33",
+      "songName": " Hiro Shinosawa - Mekurume covered by Nanahira",
+      "hash": "ccbbf149c0f2db38b60013709aeb321f21afe662",
+      "levelid": "custom_level_ccbbf149c0f2db38b60013709aeb321f21afe662"
     },
     {
-      "key": "45c0e",
-      "songName": "SEVENTEEN - God of Light Music",
-      "hash": "e66c0132e787b7fb8fb2f3f1a0545ce7a81d7af1",
-      "levelid": "custom_level_e66c0132e787b7fb8fb2f3f1a0545ce7a81d7af1"
-    },
-    {
-      "key": "45c0b",
-      "songName": "I should have bought a house when I was a Fetus",
-      "hash": "dd5630a7c9b5f5f27d7224a3e3ac3029b4cbbcc0",
-      "levelid": "custom_level_dd5630a7c9b5f5f27d7224a3e3ac3029b4cbbcc0"
-    },
-    {
-      "key": "45c09",
-      "songName": "I Fuck Bees Not Tragedies - Panic! at the Disco FIXED",
-      "hash": "1def4af66c9012d2b6ad374e4714416ff794df53",
-      "levelid": "custom_level_1def4af66c9012d2b6ad374e4714416ff794df53"
-    },
-    {
-      "key": "45c08",
-      "songName": "Only Be Me",
-      "hash": "5c3fa1c02b416b7291ae81dfe8ea9d9a55c8121d",
-      "levelid": "custom_level_5c3fa1c02b416b7291ae81dfe8ea9d9a55c8121d"
-    },
-    {
-      "key": "45bfe",
-      "songName": "[POODLE] The Gregory Brothers & Daym Drops - Oh My Dayum!",
-      "hash": "23663181d434773d8a102b15f44db63fbb1a66ce",
-      "levelid": "custom_level_23663181d434773d8a102b15f44db63fbb1a66ce"
-    },
-    {
-      "key": "45c02",
-      "songName": "Oh, HLG",
-      "hash": "21185c824d5d052227dc3a5406583c155ed906c8",
-      "levelid": "custom_level_21185c824d5d052227dc3a5406583c155ed906c8"
-    },
-    {
-      "key": "45c01",
-      "songName": "Oval - Line Extension",
-      "hash": "94e89d45ae21f8332e19e61cce2c82fcefa3f1d2",
-      "levelid": "custom_level_94e89d45ae21f8332e19e61cce2c82fcefa3f1d2"
-    },
-    {
-      "key": "45c00",
-      "songName": "THE VAMPIRE",
-      "hash": "189d4daf865246a178285c1eba5b065888a8ceca",
-      "levelid": "custom_level_189d4daf865246a178285c1eba5b065888a8ceca"
-    },
-    {
-      "key": "45bfa",
-      "songName": "yall sleeping on french rap 🥐",
-      "hash": "390dbd26de9a3929d1b2d8d5e22332c4d7657854",
-      "levelid": "custom_level_390dbd26de9a3929d1b2d8d5e22332c4d7657854"
-    },
-    {
-      "key": "45bf7",
-      "songName": "[MapSaber Competition Map] HITO Mania - Sasuke Haraguchi",
-      "hash": "f7eff82535d5f9e00d8aa3a06505e43a99a3de3a",
-      "levelid": "custom_level_f7eff82535d5f9e00d8aa3a06505e43a99a3de3a"
-    },
-    {
-      "key": "45baf",
-      "songName": "Morning Brown - Aunty Donna",
-      "hash": "eb6f1cf35283d830d5f1ddb5cd01e02141db7e48",
-      "levelid": "custom_level_eb6f1cf35283d830d5f1ddb5cd01e02141db7e48"
-    },
-    {
-      "key": "45bf6",
-      "songName": "Crystal Dolphin",
-      "hash": "98347c2f6c92e58e53359f4b70293483afa80b95",
-      "levelid": "custom_level_98347c2f6c92e58e53359f4b70293483afa80b95"
-    },
-    {
-      "key": "45bf5",
-      "songName": "Snollebollekes - Bobbelen",
-      "hash": "fdd8f9005c9eeb9696f240b8a175974f73015771",
-      "levelid": "custom_level_fdd8f9005c9eeb9696f240b8a175974f73015771"
-    },
-    {
-      "key": "45bf4",
-      "songName": "Linkin Park - The Emptiness Machine",
-      "hash": "b9ec38f3d27c45093d49442f26304951da5c591f",
-      "levelid": "custom_level_b9ec38f3d27c45093d49442f26304951da5c591f"
-    },
-    {
-      "key": "45bf3",
-      "songName": "instruments",
-      "hash": "de54211b9b0516428391a8b54b4324741aa5713b",
-      "levelid": "custom_level_de54211b9b0516428391a8b54b4324741aa5713b"
-    },
-    {
-      "key": "45bf2",
-      "songName": "Juggernaut. - Apocaliptix",
-      "hash": "1c0f3cc610f044bf03455aa906694c846bed494b",
-      "levelid": "custom_level_1c0f3cc610f044bf03455aa906694c846bed494b"
-    },
-    {
-      "key": "45bf0",
-      "songName": "Ludicrous Speed",
-      "hash": "0e27e51fbd22bf57a9a5c314e826c925ffb29f26",
-      "levelid": "custom_level_0e27e51fbd22bf57a9a5c314e826c925ffb29f26"
-    },
-    {
-      "key": "45beb",
-      "songName": "Scattered Bursts",
-      "hash": "897e9d0d9a87a76e57f798f11d3467c8c38091be",
-      "levelid": "custom_level_897e9d0d9a87a76e57f798f11d3467c8c38091be"
-    },
-    {
-      "key": "45bec",
-      "songName": "computer fight - helen keller",
-      "hash": "09effeb8ea8edb6e8923a67cef02395a2fe3124f",
-      "levelid": "custom_level_09effeb8ea8edb6e8923a67cef02395a2fe3124f"
-    },
-    {
-      "key": "45b82",
-      "songName": "Cries of a Spirit",
-      "hash": "5018b81586dcbd40992af6228150aab256193548",
-      "levelid": "custom_level_5018b81586dcbd40992af6228150aab256193548"
-    },
-    {
-      "key": "45be2",
-      "songName": "December 16 2024",
-      "hash": "181cfce91c84e0a27274d50e100dfa355db60c0e",
-      "levelid": "custom_level_181cfce91c84e0a27274d50e100dfa355db60c0e"
-    },
-    {
-      "key": "45be0",
-      "songName": "The Curse Of The Lovely Fox",
-      "hash": "0d1186d5fd9dd34b19acc821c8c36e756325f440",
-      "levelid": "custom_level_0d1186d5fd9dd34b19acc821c8c36e756325f440"
-    },
-    {
-      "key": "45bde",
-      "songName": "The Quick Brown Fox - Shut Down Everything",
-      "hash": "842efab8f4135b5a9448c2c603d863c2e5489011",
-      "levelid": "custom_level_842efab8f4135b5a9448c2c603d863c2e5489011"
-    },
-    {
-      "key": "45bdd",
-      "songName": "I got a brand new saxophone 🎷🎷",
-      "hash": "b342b389561574181fc77c2a4bee9b308a505bff",
-      "levelid": "custom_level_b342b389561574181fc77c2a4bee9b308a505bff"
-    },
-    {
-      "key": "45bdb",
-      "songName": "Remzcore - Justice",
-      "hash": "62fec9031db2fb462c441cee8695d60bbfe2c8ce",
-      "levelid": "custom_level_62fec9031db2fb462c441cee8695d60bbfe2c8ce"
-    },
-    {
-      "key": "45bda",
-      "songName": "21st century humor but its a rave song ",
-      "hash": "d2ce1b2d048a8092d97b41e623adad3597fc5df6",
-      "levelid": "custom_level_d2ce1b2d048a8092d97b41e623adad3597fc5df6"
-    },
-    {
-      "key": "45bd8",
-      "songName": "Kobaryo - Astral Paradox",
-      "hash": "add0de4c481afc02c83a22194d6c68ae626356e1",
-      "levelid": "custom_level_add0de4c481afc02c83a22194d6c68ae626356e1"
-    },
-    {
-      "key": "45bd7",
-      "songName": "a gold bar v2",
-      "hash": "f32b295913336cd78c9dc0e589a8938b2a1a215d",
-      "levelid": "custom_level_f32b295913336cd78c9dc0e589a8938b2a1a215d"
-    },
-    {
-      "key": "45b28",
-      "songName": "Vaeo, ovrwrld - walk walk walk walk",
-      "hash": "e5f7dce84b0d36649a3bb163b3e8c87e0bcc137c",
-      "levelid": "custom_level_e5f7dce84b0d36649a3bb163b3e8c87e0bcc137c"
-    },
-    {
-      "key": "45bd6",
-      "songName": "Bluetooth Baslijn",
-      "hash": "81ae0a5b102c03bf5b58cc832f028c1380848057",
-      "levelid": "custom_level_81ae0a5b102c03bf5b58cc832f028c1380848057"
-    },
-    {
-      "key": "45bd4",
-      "songName": "Cordula Grün feat. Josh",
-      "hash": "4814ae2ab79ad46414f4dc71bb18b65274b917ce",
-      "levelid": "custom_level_4814ae2ab79ad46414f4dc71bb18b65274b917ce"
-    },
-    {
-      "key": "45bd3",
-      "songName": "Kairiki Bear - Venom covered by Kyujitsu, Shumijin Doushi de.",
-      "hash": "e4d708d3591a708a39fca81d25b007fc3a7ace45",
-      "levelid": "custom_level_e4d708d3591a708a39fca81d25b007fc3a7ace45"
-    },
-    {
-      "key": "45bd2",
-      "songName": "Zbuku, Sliwa, Sztoss - Mloda Krew",
-      "hash": "dca5892409f0067a40fe8b3365a088bf11d6775d",
-      "levelid": "custom_level_dca5892409f0067a40fe8b3365a088bf11d6775d"
-    },
-    {
-      "key": "45bd1",
-      "songName": "I got a glock in my rawri",
-      "hash": "80b6e2741b09553e56b26c6b0e157030224d7f1d",
-      "levelid": "custom_level_80b6e2741b09553e56b26c6b0e157030224d7f1d"
-    },
-    {
-      "key": "45bd0",
-      "songName": "Dancin wit sombaawwdy",
-      "hash": "8ac3d237e3be9f6513a2cf6552234d25734a2b90",
-      "levelid": "custom_level_8ac3d237e3be9f6513a2cf6552234d25734a2b90"
+      "key": "45c05",
+      "songName": "Essbee - Hymn of Golden Glory",
+      "hash": "1f5b813005a72f2a9eaacbeb89d4f0afbcf507d5",
+      "levelid": "custom_level_1f5b813005a72f2a9eaacbeb89d4f0afbcf507d5"
     }
   ],
   "image": ""
