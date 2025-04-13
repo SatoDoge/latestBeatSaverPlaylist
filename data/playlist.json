@@ -1,238 +1,304 @@
 {
-  "playlistTitle": "2025-04-11T15:18:48.218Z~2025-04-12T15:18:48.218Z",
+  "playlistTitle": "2025-04-12T15:18:48.504Z~2025-04-13T15:18:48.504Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-04-11T15:18:48.218Z and 2025-04-12T15:18:48.218Z",
+  "discripstion": "Maps published between 2025-04-12T15:18:48.504Z and 2025-04-13T15:18:48.504Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "46168",
+      "key": "461f9",
+      "songName": "Tate McRae - Sports car",
+      "hash": "700f33ba1aa26c76617f59ed6a8d53727b2ec23f",
+      "levelid": "custom_level_700f33ba1aa26c76617f59ed6a8d53727b2ec23f"
+    },
+    {
+      "key": "461f7",
+      "songName": "Gachi De Koisuru Omaera He V2.feat Ugoku Chan",
+      "hash": "9280c7183ea0ed73c45ffa2efc55fd8f9bdf9c3a",
+      "levelid": "custom_level_9280c7183ea0ed73c45ffa2efc55fd8f9bdf9c3a"
+    },
+    {
+      "key": "461f3",
+      "songName": "[V4] AC/DC - Thunderstruck",
+      "hash": "741833d14d890f22e734f457bc60bd4b1c99de22",
+      "levelid": "custom_level_741833d14d890f22e734f457bc60bd4b1c99de22"
+    },
+    {
+      "key": "461eb",
+      "songName": "I'm so crazy for youuu ᐸ/3 - Rebzyyx",
+      "hash": "37b6e7991bcfebaffaebcb3d3196bfa018208d4b",
+      "levelid": "custom_level_37b6e7991bcfebaffaebcb3d3196bfa018208d4b"
+    },
+    {
+      "key": "461e8",
+      "songName": "[JBSL9] Telepathy テレパシー - DECO*27",
+      "hash": "a730275c630e8c0b452087d5ab7d3a3ff2ee66a5",
+      "levelid": "custom_level_a730275c630e8c0b452087d5ab7d3a3ff2ee66a5"
+    },
+    {
+      "key": "461e7",
+      "songName": "yoidore shirazu",
+      "hash": "88201a351d3a069037a664cd0e14fcd3dc2dd220",
+      "levelid": "custom_level_88201a351d3a069037a664cd0e14fcd3dc2dd220"
+    },
+    {
+      "key": "461e4",
+      "songName": "dfennette McCurdy ",
+      "hash": "3c7f18fa5fafcccdeede8d1538f0a87b753b7a50",
+      "levelid": "custom_level_3c7f18fa5fafcccdeede8d1538f0a87b753b7a50"
+    },
+    {
+      "key": "461e3",
+      "songName": "Acacia",
+      "hash": "19586ff45cc7bed181a3f959826621f1f0b0f1a1",
+      "levelid": "custom_level_19586ff45cc7bed181a3f959826621f1f0b0f1a1"
+    },
+    {
+      "key": "45e48",
+      "songName": "Friday Night Fantasy",
+      "hash": "327aa332f076e820479ad4c4399e4f4f5869df94",
+      "levelid": "custom_level_327aa332f076e820479ad4c4399e4f4f5869df94"
+    },
+    {
+      "key": "461e0",
+      "songName": "SLAUGHTER",
+      "hash": "be79d1291ddba4d7a779520d53f8763aa52c9c0a",
+      "levelid": "custom_level_be79d1291ddba4d7a779520d53f8763aa52c9c0a"
+    },
+    {
+      "key": "461dd",
+      "songName": " Forsaken plead (c00lkidd  and 007n7)",
+      "hash": "ebff461721296663bed16bac0ec4d0b042c5b364",
+      "levelid": "custom_level_ebff461721296663bed16bac0ec4d0b042c5b364"
+    },
+    {
+      "key": "461db",
+      "songName": "Alcohol Free by TWICE",
+      "hash": "041f5da5634fe78133178c59ad342604d2451ec3",
+      "levelid": "custom_level_041f5da5634fe78133178c59ad342604d2451ec3"
+    },
+    {
+      "key": "461da",
+      "songName": "21st century humor but its a rave song ",
+      "hash": "0c9dc11e15d47cd8a7838c9d9adde9a1b8592c73",
+      "levelid": "custom_level_0c9dc11e15d47cd8a7838c9d9adde9a1b8592c73"
+    },
+    {
+      "key": "461d9",
+      "songName": "(Amanda the Adventure2) play my way",
+      "hash": "efb49e0a62c27fa5c6b2ea1d5e0b8767894912e1",
+      "levelid": "custom_level_efb49e0a62c27fa5c6b2ea1d5e0b8767894912e1"
+    },
+    {
+      "key": "461d8",
+      "songName": "And I sniped IZAaaaAAAAaaaah",
+      "hash": "ddffd34ee31fe62cfc3a71846155b8c07bb52481",
+      "levelid": "custom_level_ddffd34ee31fe62cfc3a71846155b8c07bb52481"
+    },
+    {
+      "key": "461d6",
+      "songName": "Let me know",
+      "hash": "4793911a631dbed2d373a6ce0f7ef37fa73c37d4",
+      "levelid": "custom_level_4793911a631dbed2d373a6ce0f7ef37fa73c37d4"
+    },
+    {
+      "key": "461d4",
+      "songName": "play my way  but I ruined it",
+      "hash": "a0b63bffd578b069ba8a91888563d55c83795f9d",
+      "levelid": "custom_level_a0b63bffd578b069ba8a91888563d55c83795f9d"
+    },
+    {
+      "key": "461d3",
+      "songName": "bo0t up",
+      "hash": "44835c8d5123b9508efa9fb24742516520a1a9d6",
+      "levelid": "custom_level_44835c8d5123b9508efa9fb24742516520a1a9d6"
+    },
+    {
+      "key": "461c9",
+      "songName": "inabakumori - Lagtrain (Kirairi Bootleg)",
+      "hash": "c62e325014422010723241d1fe4e021657ad0b50",
+      "levelid": "custom_level_c62e325014422010723241d1fe4e021657ad0b50"
+    },
+    {
+      "key": "461c7",
+      "songName": "the cdi logo breaks",
+      "hash": "11db3e2bec8301c36defb9e895e5543290b0455f",
+      "levelid": "custom_level_11db3e2bec8301c36defb9e895e5543290b0455f"
+    },
+    {
+      "key": "461c5",
+      "songName": "Jamal's Revenge",
+      "hash": "9ccab2a4b4f24aa9580a61c3b1463ac329ac81fd",
+      "levelid": "custom_level_9ccab2a4b4f24aa9580a61c3b1463ac329ac81fd"
+    },
+    {
+      "key": "461c4",
+      "songName": "Cool patterns 7",
+      "hash": "7ad4f07737b3627896752dfb80dbd644899c3453",
+      "levelid": "custom_level_7ad4f07737b3627896752dfb80dbd644899c3453"
+    },
+    {
+      "key": "461c0",
+      "songName": "Squeaky Clean Sprint",
+      "hash": "b95b957dca356d04247e1c3041e9164e95528352",
+      "levelid": "custom_level_b95b957dca356d04247e1c3041e9164e95528352"
+    },
+    {
+      "key": "461be",
+      "songName": "You can't",
+      "hash": "2d932edf1e5688ea4041a4eb50edf1f70dc67905",
+      "levelid": "custom_level_2d932edf1e5688ea4041a4eb50edf1f70dc67905"
+    },
+    {
+      "key": "461bf",
+      "songName": "Orbital StrikeOrbital StrikeOrbital StrikeOrbital StrikeOrbital StrikeOrbital Strike",
+      "hash": "d2d86ddc6c8ccb5003374b6b5f1254c07a8fa26d",
+      "levelid": "custom_level_d2d86ddc6c8ccb5003374b6b5f1254c07a8fa26d"
+    },
+    {
+      "key": "461b1",
+      "songName": "Sad meow",
+      "hash": "16c5bbede5a6f4cda6b07924dde90728b07e66a6",
+      "levelid": "custom_level_16c5bbede5a6f4cda6b07924dde90728b07e66a6"
+    },
+    {
+      "key": "461af",
+      "songName": "House MD them song rap",
+      "hash": "a5d876579490585b9515e35612825e74db84a8ff",
+      "levelid": "custom_level_a5d876579490585b9515e35612825e74db84a8ff"
+    },
+    {
+      "key": "461ae",
+      "songName": "Kobaryo, Gram - Dies Irae",
+      "hash": "8e86ed56edb4c785c3ea2725491c4a400a36f280",
+      "levelid": "custom_level_8e86ed56edb4c785c3ea2725491c4a400a36f280"
+    },
+    {
+      "key": "461ad",
+      "songName": "Cat Rave (Please Go Away - Flamenco Edit",
+      "hash": "a2ce86329b51f7473e5e125cae7dc62fb61f62b5",
+      "levelid": "custom_level_a2ce86329b51f7473e5e125cae7dc62fb61f62b5"
+    },
+    {
+      "key": "461a4",
+      "songName": "Roll the Bass",
+      "hash": "bb81f38de9438163e235c4b2d88ed42ff5c4332d",
+      "levelid": "custom_level_bb81f38de9438163e235c4b2d88ed42ff5c4332d"
+    },
+    {
+      "key": "46199",
+      "songName": "jaydes - untited6",
+      "hash": "5a72d3daf59819bc5755c8e15ea6412e4a74389b",
+      "levelid": "custom_level_5a72d3daf59819bc5755c8e15ea6412e4a74389b"
+    },
+    {
+      "key": "4618e",
+      "songName": "Protokseed - Burn Like Fire",
+      "hash": "9c3396ab13c608ccc27e18b3da22dfa71e3b0ac4",
+      "levelid": "custom_level_9c3396ab13c608ccc27e18b3da22dfa71e3b0ac4"
+    },
+    {
+      "key": "4618f",
+      "songName": "silent hill dub   step",
+      "hash": "92d227c9b3271efebfeb2170b2c4fec71eb87994",
+      "levelid": "custom_level_92d227c9b3271efebfeb2170b2c4fec71eb87994"
+    },
+    {
+      "key": "4618c",
+      "songName": "lost souls prayer",
+      "hash": "9940de0bcd3154ca4a73c757adeea03c4d5eada6",
+      "levelid": "custom_level_9940de0bcd3154ca4a73c757adeea03c4d5eada6"
+    },
+    {
+      "key": "4618a",
+      "songName": "[Chroma] SOMETHING WICKED (Instrumental) - Remapped",
+      "hash": "aca9e78380ac26c0513685ef3732be9767938c37",
+      "levelid": "custom_level_aca9e78380ac26c0513685ef3732be9767938c37"
+    },
+    {
+      "key": "46188",
+      "songName": "CHAOS 5",
+      "hash": "c597e1d75ee816f34c8370bd5c54a687b03c1b45",
+      "levelid": "custom_level_c597e1d75ee816f34c8370bd5c54a687b03c1b45"
+    },
+    {
+      "key": "46186",
+      "songName": "mexicaanse dans (challenge)",
+      "hash": "98102e6f4e869b9919bf857dc27cf78158a44634",
+      "levelid": "custom_level_98102e6f4e869b9919bf857dc27cf78158a44634"
+    },
+    {
+      "key": "45c4c",
+      "songName": "Besaid - 2 Piece",
+      "hash": "70d705264a4ecb16ad1781d2189f00b8bce274f5",
+      "levelid": "custom_level_70d705264a4ecb16ad1781d2189f00b8bce274f5"
+    },
+    {
+      "key": "4617b",
+      "songName": "i'm here for a good time, not a long time",
+      "hash": "2cb4d8f77d7517e1a8571d6ab1ef08f7a741f562",
+      "levelid": "custom_level_2cb4d8f77d7517e1a8571d6ab1ef08f7a741f562"
+    },
+    {
+      "key": "46176",
+      "songName": "海老振り屋 - オメでたい頭でなにより",
+      "hash": "4be27a02ffe333ac5e698ab8cc6c9125d84e5cf3",
+      "levelid": "custom_level_4be27a02ffe333ac5e698ab8cc6c9125d84e5cf3"
+    },
+    {
+      "key": "46177",
+      "songName": "The Prom",
+      "hash": "98074f8e48f238d710d71ed670151b42e1b57023",
+      "levelid": "custom_level_98074f8e48f238d710d71ed670151b42e1b57023"
+    },
+    {
+      "key": "46175",
+      "songName": "Kawaii Psychedelic",
+      "hash": "b717f5f1f912d6e48ad97dc51ba73ee67a8b97ca",
+      "levelid": "custom_level_b717f5f1f912d6e48ad97dc51ba73ee67a8b97ca"
+    },
+    {
+      "key": "46174",
+      "songName": "Kyutatsuki - FINAL PHASE",
+      "hash": "611d7fd7097cf95272fac54bb645a838a6993f69",
+      "levelid": "custom_level_611d7fd7097cf95272fac54bb645a838a6993f69"
+    },
+    {
+      "key": "46151",
+      "songName": "anet sai - Slezi (ANTVN Bootleg)",
+      "hash": "b727b698cf591096155a27fd65c766d01c92d851",
+      "levelid": "custom_level_b727b698cf591096155a27fd65c766d01c92d851"
+    },
+    {
+      "key": "46150",
+      "songName": "2WEI - IM A SURVIVOR (Lieless Remix)",
+      "hash": "2e7173ec6ea7db07a821a9ec813c1f708a42356e",
+      "levelid": "custom_level_2e7173ec6ea7db07a821a9ec813c1f708a42356e"
+    },
+    {
+      "key": "4614f",
+      "songName": "Besomorph, Gloria Kim - NOT THE ONE (Lieless Remix)",
+      "hash": "67146407ef8a94a0c957c94aeae80b16fc1b3e04",
+      "levelid": "custom_level_67146407ef8a94a0c957c94aeae80b16fc1b3e04"
+    },
+    {
+      "key": "4616f",
       "songName": "Daicon V",
-      "hash": "d49504fdfe35485c14ffcea264936c18123e5d21",
-      "levelid": "custom_level_d49504fdfe35485c14ffcea264936c18123e5d21"
+      "hash": "00b8f56b952e588c9cfc16bcb55f413869ceca66",
+      "levelid": "custom_level_00b8f56b952e588c9cfc16bcb55f413869ceca66"
     },
     {
-      "key": "46165",
-      "songName": "[VIVIFY] norlore jumpscare",
-      "hash": "654bb38195292b8c8cacf08f9904b5ea2c4b422f",
-      "levelid": "custom_level_654bb38195292b8c8cacf08f9904b5ea2c4b422f"
+      "key": "4616c",
+      "songName": "a 我想牵着你的手-许嵩",
+      "hash": "0cdbafd40d92702cd6d5ae299b3d6fe564a9b043",
+      "levelid": "custom_level_0cdbafd40d92702cd6d5ae299b3d6fe564a9b043"
     },
     {
-      "key": "46166",
-      "songName": "Will.I.am - I like to move it (V3)",
-      "hash": "30c3861ffe1bff1430d8f7b644969183f9e387ba",
-      "levelid": "custom_level_30c3861ffe1bff1430d8f7b644969183f9e387ba"
-    },
-    {
-      "key": "46164",
-      "songName": "Forbid - Werkserv",
-      "hash": "eb370c80fcbd4de252ed099e2b90eb61058b49af",
-      "levelid": "custom_level_eb370c80fcbd4de252ed099e2b90eb61058b49af"
-    },
-    {
-      "key": "46160",
-      "songName": "喵斯摇 - Muse Shake",
-      "hash": "6278f801c0466b6364392b436cb62d57589874a8",
-      "levelid": "custom_level_6278f801c0466b6364392b436cb62d57589874a8"
-    },
-    {
-      "key": "4615e",
-      "songName": "Up From The Bottom - Linkin Park ",
-      "hash": "377d2b2d8a6fa779b3bef5e46e606dc6025e6be2",
-      "levelid": "custom_level_377d2b2d8a6fa779b3bef5e46e606dc6025e6be2"
-    },
-    {
-      "key": "4615a",
-      "songName": "הכל בגללך - בן זיני | Its All Because Of You - Ben Zini",
-      "hash": "2c726818e8c29659a773b9635e27a60a89e3f1a5",
-      "levelid": "custom_level_2c726818e8c29659a773b9635e27a60a89e3f1a5"
-    },
-    {
-      "key": "4614e",
-      "songName": "キスキツネ/Kiss Kitsune.",
-      "hash": "3cc5acec2848f0af5c9affa3d7644c366e648158",
-      "levelid": "custom_level_3cc5acec2848f0af5c9affa3d7644c366e648158"
-    },
-    {
-      "key": "4614d",
-      "songName": "UR gonna be our food tonight",
-      "hash": "b8b75e6730a84ccdccb524417b6fd329f468782e",
-      "levelid": "custom_level_b8b75e6730a84ccdccb524417b6fd329f468782e"
-    },
-    {
-      "key": "46148",
-      "songName": "wifiskeleton, i wanna be a jack-o-lantern - Everyday's the same joke",
-      "hash": "57885791b42e34766ebce2f93480f7d96400b19b",
-      "levelid": "custom_level_57885791b42e34766ebce2f93480f7d96400b19b"
-    },
-    {
-      "key": "46146",
-      "songName": "Mood Breaker",
-      "hash": "fea508bdc1d4fd19e981c82041a1f9d86068ee26",
-      "levelid": "custom_level_fea508bdc1d4fd19e981c82041a1f9d86068ee26"
-    },
-    {
-      "key": "46144",
-      "songName": "Electrolytes",
-      "hash": "35d370a2bd8d72a521b3daf02221546230a8734f",
-      "levelid": "custom_level_35d370a2bd8d72a521b3daf02221546230a8734f"
-    },
-    {
-      "key": "46143",
-      "songName": "PROXIE - Bad Shawty",
-      "hash": "e885a5751fd319db9b24b10641fd168a4d7d160e",
-      "levelid": "custom_level_e885a5751fd319db9b24b10641fd168a4d7d160e"
-    },
-    {
-      "key": "46140",
-      "songName": "JOYRYDE & Skrillex - AGEN WIDA",
-      "hash": "2e684d485427207d8795caa9603ec353cc6e05c9",
-      "levelid": "custom_level_2e684d485427207d8795caa9603ec353cc6e05c9"
-    },
-    {
-      "key": "45fb4",
-      "songName": "03-02 闪光的征途-星瞳",
-      "hash": "fcee53806af2e1d2aa8c3c784ac371c89d3d9987",
-      "levelid": "custom_level_fcee53806af2e1d2aa8c3c784ac371c89d3d9987"
-    },
-    {
-      "key": "4613d",
-      "songName": "Lieless- 911",
-      "hash": "3487f7577cab8599414c1fadbfa1e23cc3ea9cd1",
-      "levelid": "custom_level_3487f7577cab8599414c1fadbfa1e23cc3ea9cd1"
-    },
-    {
-      "key": "46137",
-      "songName": "takahirofks - 005e927f8d7bf5eba98193663273ae2",
-      "hash": "bb631defb6f2cffcbb527b34f472f54e0126b5bf",
-      "levelid": "custom_level_bb631defb6f2cffcbb527b34f472f54e0126b5bf"
-    },
-    {
-      "key": "4613b",
-      "songName": "Paradise - Nicky Romero & Deniz Koyu",
-      "hash": "cb389ce8794fefb4dfd2cb4bea2214dfd104a11e",
-      "levelid": "custom_level_cb389ce8794fefb4dfd2cb4bea2214dfd104a11e"
-    },
-    {
-      "key": "4613a",
-      "songName": "Protect Me - k?d & Yadosan",
-      "hash": "68e4a7090f740350d1b10b80bf3d57958f2a5af3",
-      "levelid": "custom_level_68e4a7090f740350d1b10b80bf3d57958f2a5af3"
-    },
-    {
-      "key": "45e34",
-      "songName": "亡き王女の為のセプテット(Massive New Krew Remix)",
-      "hash": "96a6642c250000b82470bf48252bf20e25313a28",
-      "levelid": "custom_level_96a6642c250000b82470bf48252bf20e25313a28"
-    },
-    {
-      "key": "46134",
-      "songName": "Killer2256",
-      "hash": "6d14180ab21866b1685885f8061f52e218a80d58",
-      "levelid": "custom_level_6d14180ab21866b1685885f8061f52e218a80d58"
-    },
-    {
-      "key": "46132",
-      "songName": "JERUB - There Till The End",
-      "hash": "10adb02f9ac04383d5540a543a919c69825662db",
-      "levelid": "custom_level_10adb02f9ac04383d5540a543a919c69825662db"
-    },
-    {
-      "key": "4612a",
-      "songName": "ily - My Mother Wants Me Dead",
-      "hash": "176d4bc30b39d9a327444a5472b04ad7704f42f0",
-      "levelid": "custom_level_176d4bc30b39d9a327444a5472b04ad7704f42f0"
-    },
-    {
-      "key": "46129",
-      "songName": "Limesoda - WAVE",
-      "hash": "686f19f311a04e6aaff055732c121abac6ea0358",
-      "levelid": "custom_level_686f19f311a04e6aaff055732c121abac6ea0358"
-    },
-    {
-      "key": "46128",
-      "songName": "Charli xcx - c2.0",
-      "hash": "a3a73af24a5aba96589cb1e7e019e49200b5f0c9",
-      "levelid": "custom_level_a3a73af24a5aba96589cb1e7e019e49200b5f0c9"
-    },
-    {
-      "key": "46122",
-      "songName": "Motion Picture Soundtrack",
-      "hash": "277f5ffeeb1cfd30f4d140c246f8b12288520ec3",
-      "levelid": "custom_level_277f5ffeeb1cfd30f4d140c246f8b12288520ec3"
-    },
-    {
-      "key": "46120",
-      "songName": "t+pazolite - Garakuta Doll Play",
-      "hash": "f7c8f78f0766819a7e6d972ab44e582f281956f9",
-      "levelid": "custom_level_f7c8f78f0766819a7e6d972ab44e582f281956f9"
-    },
-    {
-      "key": "4611d",
-      "songName": " [Poodles] Oblivion - Dirty Palm",
-      "hash": "309794bb6edf88b44b49830715f7cb1ca3aa2545",
-      "levelid": "custom_level_309794bb6edf88b44b49830715f7cb1ca3aa2545"
-    },
-    {
-      "key": "4611c",
-      "songName": "Lights Out - bludnymph",
-      "hash": "b54afd3c2a292d39ff2e6989f55f9405e73875ca",
-      "levelid": "custom_level_b54afd3c2a292d39ff2e6989f55f9405e73875ca"
-    },
-    {
-      "key": "4611a",
-      "songName": "ThxSoMch - SPIT IN MY FACE!",
-      "hash": "ccbcb6debab4daf85babe72ab4304ccf716d1c6f",
-      "levelid": "custom_level_ccbcb6debab4daf85babe72ab4304ccf716d1c6f"
-    },
-    {
-      "key": "46119",
-      "songName": "Intruding Demise (Pandemonium insane mode)",
-      "hash": "e3db4bb055241f8e77986c76ea47310a9ce0be00",
-      "levelid": "custom_level_e3db4bb055241f8e77986c76ea47310a9ce0be00"
-    },
-    {
-      "key": "41983",
-      "songName": "Fertilizer ",
-      "hash": "151a985806f22f714d6e9f47dc366510bc082e1a",
-      "levelid": "custom_level_151a985806f22f714d6e9f47dc366510bc082e1a"
-    },
-    {
-      "key": "46102",
-      "songName": "i don't like mirrors - not how it's supposed to be",
-      "hash": "6cb924fc324c37ab3f9e20a19e3e7a9d70625edb",
-      "levelid": "custom_level_6cb924fc324c37ab3f9e20a19e3e7a9d70625edb"
-    },
-    {
-      "key": "46101",
-      "songName": "metronome thing",
-      "hash": "c39f876cdcc081fd82b20fd6348b3b0ac04a93c2",
-      "levelid": "custom_level_c39f876cdcc081fd82b20fd6348b3b0ac04a93c2"
-    },
-    {
-      "key": "46100",
-      "songName": "trackerGPS beep sound effet",
-      "hash": "ff918e0ec8b2d0e4d2a929a2bea91fbcd2dd3780",
-      "levelid": "custom_level_ff918e0ec8b2d0e4d2a929a2bea91fbcd2dd3780"
-    },
-    {
-      "key": "460ff",
-      "songName": "Don't Start Now - Dua Lipa",
-      "hash": "236587ee1cba516ecb211a3bcd8df9362bcb4a69",
-      "levelid": "custom_level_236587ee1cba516ecb211a3bcd8df9362bcb4a69"
-    },
-    {
-      "key": "460f0",
-      "songName": "Big Man With A Gun",
-      "hash": "8cdc848fea34e0c5a1cda05beb502e4f93a5e4d2",
-      "levelid": "custom_level_8cdc848fea34e0c5a1cda05beb502e4f93a5e4d2"
-    },
-    {
-      "key": "460ed",
-      "songName": "Tockyy - Troy Bolton",
-      "hash": "d9273c2b3b401bca5d34e3c3a09faa55b7dd1ec3",
-      "levelid": "custom_level_d9273c2b3b401bca5d34e3c3a09faa55b7dd1ec3"
+      "key": "4616a",
+      "songName": "[Side Order Soundtrack] Free Association - Øctøpticøn",
+      "hash": "31d271eabe7d43a0e6e06854f8103ea8d5e562e5",
+      "levelid": "custom_level_31d271eabe7d43a0e6e06854f8103ea8d5e562e5"
     }
   ],
   "image": ""
