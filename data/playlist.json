@@ -1,292 +1,154 @@
 {
-  "playlistTitle": "2025-04-16T15:18:48.283Z~2025-04-17T15:18:48.283Z",
+  "playlistTitle": "2025-04-17T15:18:48.526Z~2025-04-18T15:18:48.526Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-04-16T15:18:48.283Z and 2025-04-17T15:18:48.283Z",
+  "discripstion": "Maps published between 2025-04-17T15:18:48.526Z and 2025-04-18T15:18:48.526Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4638a",
-      "songName": "Leah Kate - Bad Taste",
-      "hash": "408546465bfe9d640b444c76ffcd5449022ac8a2",
-      "levelid": "custom_level_408546465bfe9d640b444c76ffcd5449022ac8a2"
+      "key": "463c1",
+      "songName": "Dial-Up Nostalgia",
+      "hash": "f10c39031cba8e29af320b7690480476e20219eb",
+      "levelid": "custom_level_f10c39031cba8e29af320b7690480476e20219eb"
     },
     {
-      "key": "46387",
-      "songName": "[Fitbeat] Location - Cheat Codes ft. A7S",
-      "hash": "91c08448a41c6f671799569ebe214766ec5849b7",
-      "levelid": "custom_level_91c08448a41c6f671799569ebe214766ec5849b7"
+      "key": "463bb",
+      "songName": "slam my head ",
+      "hash": "27052ef3cdbda2a90b0f44755658bcc4daeae437",
+      "levelid": "custom_level_27052ef3cdbda2a90b0f44755658bcc4daeae437"
     },
     {
-      "key": "46386",
-      "songName": "I Don't Fuck With You (Cut Ver)",
-      "hash": "ed779d509e2c52df8a993f928341b14747eda0cf",
-      "levelid": "custom_level_ed779d509e2c52df8a993f928341b14747eda0cf"
+      "key": "4637e",
+      "songName": "BAND-MAID - 「Ready to Rock」(ロックは淑女の嗜みでして)",
+      "hash": "ed02713645975c6927d2b3c62fd73e147ffc51b1",
+      "levelid": "custom_level_ed02713645975c6927d2b3c62fd73e147ffc51b1"
     },
     {
-      "key": "46385",
-      "songName": "GRUENE NEUNE (Neue Deutsche Säge Edit)",
-      "hash": "4986cf4e0d4842c0cfbd8cae2458eb00b15cfa1e",
-      "levelid": "custom_level_4986cf4e0d4842c0cfbd8cae2458eb00b15cfa1e"
+      "key": "463b5",
+      "songName": " Stereo Love - Babalos",
+      "hash": "0320b8c2b2a45fade9f273e38c1d23981e8fb812",
+      "levelid": "custom_level_0320b8c2b2a45fade9f273e38c1d23981e8fb812"
     },
     {
-      "key": "46384",
-      "songName": "Pattern Test Please Ignore Redux",
-      "hash": "8a124962f8b925a357f0af8038c143dd83988d79",
-      "levelid": "custom_level_8a124962f8b925a357f0af8038c143dd83988d79"
+      "key": "463b3",
+      "songName": "(190) I'd die in my sleep",
+      "hash": "6787f818ab171d3f0d94eb8f4cadbd35793ba4c6",
+      "levelid": "custom_level_6787f818ab171d3f0d94eb8f4cadbd35793ba4c6"
     },
     {
-      "key": "46382",
-      "songName": "Fresh!",
-      "hash": "4c29c3f6604bb43fe5840bbcb4c4a95d8c18cb02",
-      "levelid": "custom_level_4c29c3f6604bb43fe5840bbcb4c4a95d8c18cb02"
+      "key": "463af",
+      "songName": "andy on the trumpet",
+      "hash": "f7dfa8525a5ae2490a13ccf2b89f3025fa43a1fa",
+      "levelid": "custom_level_f7dfa8525a5ae2490a13ccf2b89f3025fa43a1fa"
     },
     {
-      "key": "46381",
-      "songName": "Dont Stop Get It (feat. Bok Nero)",
-      "hash": "a4eb727166d928bcb04c1ca854ebc061c0ae7341",
-      "levelid": "custom_level_a4eb727166d928bcb04c1ca854ebc061c0ae7341"
+      "key": "463ac",
+      "songName": "ANGUISH, deepins, ily - Etazhi (Remix) | Этажи",
+      "hash": "da1ba0aaf463461fb05e531cbb01f84c18c52a76",
+      "levelid": "custom_level_da1ba0aaf463461fb05e531cbb01f84c18c52a76"
     },
     {
-      "key": "46380",
-      "songName": "Eyes Closed - Imagine Dragons - A remaster of the map that started it all!",
-      "hash": "c37485283707777ee4f7f0ec41cc2823043d9c33",
-      "levelid": "custom_level_c37485283707777ee4f7f0ec41cc2823043d9c33"
+      "key": "463ab",
+      "songName": "CA7RIEL & Paco Amoroso - IMPOSTOR",
+      "hash": "339171aab8bc1e4b4beadd98962e1b48fd8249fc",
+      "levelid": "custom_level_339171aab8bc1e4b4beadd98962e1b48fd8249fc"
     },
     {
-      "key": "4637d",
-      "songName": "Trap Royalty",
-      "hash": "e0b31f0141f06292c3454ef5461e360291b687c7",
-      "levelid": "custom_level_e0b31f0141f06292c3454ef5461e360291b687c7"
+      "key": "45fb6",
+      "songName": "03-04 宇宙呼吸着我的粒子-庄东茹",
+      "hash": "cb05d4f871d42fffd3ef2845ae8e2015f8c526c1",
+      "levelid": "custom_level_cb05d4f871d42fffd3ef2845ae8e2015f8c526c1"
     },
     {
-      "key": "4637a",
-      "songName": "Schwank - OPEN YOUR 3RD EYE",
-      "hash": "4f38c914d61016bc287bb17d4713ccfd2b7cb9f5",
-      "levelid": "custom_level_4f38c914d61016bc287bb17d4713ccfd2b7cb9f5"
+      "key": "463aa",
+      "songName": "NEUPINK - death song (1.14x)",
+      "hash": "9c39dc534baa4d1a0e624c00b298339476eea2aa",
+      "levelid": "custom_level_9c39dc534baa4d1a0e624c00b298339476eea2aa"
     },
     {
-      "key": "4637b",
-      "songName": "Jack Black - Steve's Lava Chicken",
-      "hash": "907b143e987d45a247bed53f5dcd32ce33f19c7c",
-      "levelid": "custom_level_907b143e987d45a247bed53f5dcd32ce33f19c7c"
+      "key": "463a9",
+      "songName": "It's for smaller S A N I T Y",
+      "hash": "81b7e5ee3e5df1cb7ab8e38cdc29cd13c0fab63d",
+      "levelid": "custom_level_81b7e5ee3e5df1cb7ab8e38cdc29cd13c0fab63d"
     },
     {
-      "key": "46285",
-      "songName": "Heatbringer - Defy Death (AGONY edit)",
-      "hash": "f6f9f58cf21043f3d2cf6023acaa68b709e47fa7",
-      "levelid": "custom_level_f6f9f58cf21043f3d2cf6023acaa68b709e47fa7"
+      "key": "463a8",
+      "songName": "Luigi's drip",
+      "hash": "9c11aa7f98c7ab1b8e76f63685d91746f4fab445",
+      "levelid": "custom_level_9c11aa7f98c7ab1b8e76f63685d91746f4fab445"
     },
     {
-      "key": "46286",
-      "songName": "Flerian, Lieless, AGONY - Я НЕ ХОЧУ!",
-      "hash": "1a4072f2caae1311a03c86eb4dbf89186ab9ca2c",
-      "levelid": "custom_level_1a4072f2caae1311a03c86eb4dbf89186ab9ca2c"
+      "key": "4639d",
+      "songName": "Embers",
+      "hash": "bb79e47bd3f12adedda8700e38d58cfec63cb53d",
+      "levelid": "custom_level_bb79e47bd3f12adedda8700e38d58cfec63cb53d"
     },
     {
-      "key": "461fe",
-      "songName": "Flerian - lost myself in you",
-      "hash": "c8f9ec31477ff5d65b667729c84693d15b51fad3",
-      "levelid": "custom_level_c8f9ec31477ff5d65b667729c84693d15b51fad3"
+      "key": "4639c",
+      "songName": "Jane Remover - Dancing with your eyes closed",
+      "hash": "35cb766da4619cd8f87616e7fa48487b4f0749ba",
+      "levelid": "custom_level_35cb766da4619cd8f87616e7fa48487b4f0749ba"
     },
     {
-      "key": "46378",
-      "songName": "The Lethal Weapons & Marc Hudson - Aisatsu Metal",
-      "hash": "c5de765b180a124cb95cdf0dddb8fe91a76735c8",
-      "levelid": "custom_level_c5de765b180a124cb95cdf0dddb8fe91a76735c8"
+      "key": "4638b",
+      "songName": "BOYNEXTDOOR - IF I SAY, I LOVE YOU",
+      "hash": "8d4ed5b8e7a59940dff04c0b91a0d2807899566f",
+      "levelid": "custom_level_8d4ed5b8e7a59940dff04c0b91a0d2807899566f"
     },
     {
-      "key": "4178d",
-      "songName": "Paul Young - Love Of The Common People (1983)",
-      "hash": "b3ba2f8ace98fad8532d25200bd7f6cdb3f2d4b5",
-      "levelid": "custom_level_b3ba2f8ace98fad8532d25200bd7f6cdb3f2d4b5"
+      "key": "46396",
+      "songName": "Demetori - Heart of the Sunrise",
+      "hash": "b9d0ae5d9b8082a59962b4ce25d82f84c35fd10f",
+      "levelid": "custom_level_b9d0ae5d9b8082a59962b4ce25d82f84c35fd10f"
     },
     {
-      "key": "46370",
-      "songName": "билборды - это не любовь",
-      "hash": "b34cba8e79c1bf1b2835345ed9afa702006514ae",
-      "levelid": "custom_level_b34cba8e79c1bf1b2835345ed9afa702006514ae"
+      "key": "46392",
+      "songName": "[100 LANES] gladde paling - ADHD",
+      "hash": "266503fb915ecb3643cfda653349666721167e0c",
+      "levelid": "custom_level_266503fb915ecb3643cfda653349666721167e0c"
     },
     {
-      "key": "4636f",
-      "songName": "Bokuranoseiza/ 僕らの星座 (Our Constellation) - Fubuki Shirakami",
-      "hash": "cab8e4803e33cef5e8951694f3c7bd28e06a29a8",
-      "levelid": "custom_level_cab8e4803e33cef5e8951694f3c7bd28e06a29a8"
+      "key": "46391",
+      "songName": "400 bpm tech map",
+      "hash": "9d4f47c021ce33543ff07b7e759e1081eba533a0",
+      "levelid": "custom_level_9d4f47c021ce33543ff07b7e759e1081eba533a0"
     },
     {
-      "key": "4636e",
-      "songName": "BATTLE UNDER A BROKEN SKY",
-      "hash": "b3d91384bdfcbbc02eea3242eadded934d553c78",
-      "levelid": "custom_level_b3d91384bdfcbbc02eea3242eadded934d553c78"
+      "key": "46390",
+      "songName": "Love Is Everywhere",
+      "hash": "e177518234102136773d0f4c89f8c85be7aec67f",
+      "levelid": "custom_level_e177518234102136773d0f4c89f8c85be7aec67f"
     },
     {
-      "key": "4636d",
-      "songName": "KANKAN - ALL FOOL",
-      "hash": "3473b9a3a332615ce73877949595bdb14bddf08f",
-      "levelid": "custom_level_3473b9a3a332615ce73877949595bdb14bddf08f"
+      "key": "4638f",
+      "songName": "The Cut That Always Bleeds",
+      "hash": "a0b5a025521f1876b8e5baaa5dc50c3af33bd1c1",
+      "levelid": "custom_level_a0b5a025521f1876b8e5baaa5dc50c3af33bd1c1"
     },
     {
-      "key": "4636c",
-      "songName": "Jesus-P - ONI KYOKAN (covered by kradness & Reol)",
-      "hash": "353e7808bfb489f47b6519e643736191099acf29",
-      "levelid": "custom_level_353e7808bfb489f47b6519e643736191099acf29"
+      "key": "4638e",
+      "songName": "Purple Disco Machine, Sophie Louise Scott - In The Dark",
+      "hash": "bb5b315146e812b9c5a76360da046eb4aa39167f",
+      "levelid": "custom_level_bb5b315146e812b9c5a76360da046eb4aa39167f"
     },
     {
-      "key": "4636b",
-      "songName": "Vulf Intro",
-      "hash": "2baa7444660a1bf22dff1a13f140531fbe86bce4",
-      "levelid": "custom_level_2baa7444660a1bf22dff1a13f140531fbe86bce4"
+      "key": "4638c",
+      "songName": " Nothing But Requiem with Museo - Pentiment",
+      "hash": "5cbb237e41857ba752bb162ae1a8f73a1c4d8e22",
+      "levelid": "custom_level_5cbb237e41857ba752bb162ae1a8f73a1c4d8e22"
     },
     {
-      "key": "4636a",
-      "songName": "bitingmynails/bitingmylips",
-      "hash": "412bc90deb334b542022043c4c741a600c835edf",
-      "levelid": "custom_level_412bc90deb334b542022043c4c741a600c835edf"
+      "key": "46379",
+      "songName": "Three Days Grace - Mayday",
+      "hash": "511edef83f74c7ad051f8c7717b55e6e4ef73c95",
+      "levelid": "custom_level_511edef83f74c7ad051f8c7717b55e6e4ef73c95"
     },
     {
-      "key": "46369",
-      "songName": "Following The Waving Wings",
-      "hash": "e13eaddfd6a84937cd31fa22268fc3c0f1cbd938",
-      "levelid": "custom_level_e13eaddfd6a84937cd31fa22268fc3c0f1cbd938"
-    },
-    {
-      "key": "46368",
-      "songName": "(190, 380) All The Things She Said (Infected Frenchcore Bootleg)",
-      "hash": "473b7dfc7edc121cdd92f7017147991d644a92c6",
-      "levelid": "custom_level_473b7dfc7edc121cdd92f7017147991d644a92c6"
-    },
-    {
-      "key": "46364",
-      "songName": "Never Kill Yourself",
-      "hash": "46aa0f24e0029690187e94cc6a462e961fed8843",
-      "levelid": "custom_level_46aa0f24e0029690187e94cc6a462e961fed8843"
-    },
-    {
-      "key": "46360",
-      "songName": "qta2o@8H",
-      "hash": "3ca247623c22a6045eb605e95507c673a00914b4",
-      "levelid": "custom_level_3ca247623c22a6045eb605e95507c673a00914b4"
-    },
-    {
-      "key": "4635e",
-      "songName": "High Octane",
-      "hash": "72939a35315c87bf3a0e7da63925c1ce626c25e3",
-      "levelid": "custom_level_72939a35315c87bf3a0e7da63925c1ce626c25e3"
-    },
-    {
-      "key": "4635c",
-      "songName": "BanYa - Extravaganza (D21)",
-      "hash": "bade2acf11876da214a128037fe97720b9669dbf",
-      "levelid": "custom_level_bade2acf11876da214a128037fe97720b9669dbf"
-    },
-    {
-      "key": "4635b",
-      "songName": "CHICKEN JOCKEY, but it s British and Elegant ",
-      "hash": "36da1254479e08b03d7d41169eca5284e879822a",
-      "levelid": "custom_level_36da1254479e08b03d7d41169eca5284e879822a"
-    },
-    {
-      "key": "46356",
-      "songName": "dj Extrose - unOrDer ReVo",
-      "hash": "94e2c6a4769f1d2158a8d8e7a1ab15dae04a1ce4",
-      "levelid": "custom_level_94e2c6a4769f1d2158a8d8e7a1ab15dae04a1ce4"
-    },
-    {
-      "key": "46355",
-      "songName": "crazy cattle 3d theme song 2",
-      "hash": "e118ab4a1f8ab38aba5ae74dde04ae94ca91e27f",
-      "levelid": "custom_level_e118ab4a1f8ab38aba5ae74dde04ae94ca91e27f"
-    },
-    {
-      "key": "46352",
-      "songName": "Straight To The Heart - Battle Beast",
-      "hash": "d96255b4427e0eaf883228015f49220ce3363489",
-      "levelid": "custom_level_d96255b4427e0eaf883228015f49220ce3363489"
-    },
-    {
-      "key": "46350",
-      "songName": "my console having an existental idenity crisis💀😭",
-      "hash": "72d471f3ee848d936bea87808c37879d2b36b338",
-      "levelid": "custom_level_72d471f3ee848d936bea87808c37879d2b36b338"
-    },
-    {
-      "key": "4634e",
-      "songName": "Crankdat - Party All Night",
-      "hash": "7479fe9793036c762e9fc4300393d55922cffa50",
-      "levelid": "custom_level_7479fe9793036c762e9fc4300393d55922cffa50"
-    },
-    {
-      "key": "4634d",
-      "songName": "[Q] ryo (supercell) - Great Distance (feat. chelly) (Chroma)",
-      "hash": "c7b8ffe7d45bfe27216f948fdbace155f726bd83",
-      "levelid": "custom_level_c7b8ffe7d45bfe27216f948fdbace155f726bd83"
-    },
-    {
-      "key": "4634b",
-      "songName": "crazy cattle 3d theme song",
-      "hash": "48e2606e2c5dfb96a68275337f8d743676e7d50a",
-      "levelid": "custom_level_48e2606e2c5dfb96a68275337f8d743676e7d50a"
-    },
-    {
-      "key": "4634a",
-      "songName": "Salvatore Ganacci - Silk Lining",
-      "hash": "96b7aac32bb62ba038be62d340715215c4290a7f",
-      "levelid": "custom_level_96b7aac32bb62ba038be62d340715215c4290a7f"
-    },
-    {
-      "key": "46349",
-      "songName": "crafter2011 - account migration",
-      "hash": "71c8f2521d298b6209a8c4edef06c67dcff82c3b",
-      "levelid": "custom_level_71c8f2521d298b6209a8c4edef06c67dcff82c3b"
-    },
-    {
-      "key": "46348",
-      "songName": "Ericdoa - Arm and a leg",
-      "hash": "a345416d56cf997528a1a5cc790d026c74cec6a0",
-      "levelid": "custom_level_a345416d56cf997528a1a5cc790d026c74cec6a0"
-    },
-    {
-      "key": "46347",
-      "songName": "1213",
-      "hash": "3a8b225b590304cae500ff9a8f535c01af8c7c35",
-      "levelid": "custom_level_3a8b225b590304cae500ff9a8f535c01af8c7c35"
-    },
-    {
-      "key": "46346",
-      "songName": "from you, from us",
-      "hash": "1b979db93589dfad4b6c3ae3eb3384db2a5b9b17",
-      "levelid": "custom_level_1b979db93589dfad4b6c3ae3eb3384db2a5b9b17"
-    },
-    {
-      "key": "46343",
-      "songName": "TWICE - Strategy",
-      "hash": "50aa7257bfd7c27ddadf1e7eacc7804af835467b",
-      "levelid": "custom_level_50aa7257bfd7c27ddadf1e7eacc7804af835467b"
-    },
-    {
-      "key": "46342",
-      "songName": "UNIS - Puyo Puyo",
-      "hash": "2077f393530eb98f688427fb4e722251f8e4648e",
-      "levelid": "custom_level_2077f393530eb98f688427fb4e722251f8e4648e"
-    },
-    {
-      "key": "46341",
-      "songName": "UNIS - From a seed called 'Hey, what's up?'",
-      "hash": "27519448ee5e0b1fe23ea5185f48c9400bedd1d4",
-      "levelid": "custom_level_27519448ee5e0b1fe23ea5185f48c9400bedd1d4"
-    },
-    {
-      "key": "4633e",
-      "songName": "Sommer in Thüringen - TekkSchuster",
-      "hash": "5d12b37ebc731ca0bc63095a0e59a0ceaa2daf31",
-      "levelid": "custom_level_5d12b37ebc731ca0bc63095a0e59a0ceaa2daf31"
-    },
-    {
-      "key": "4633d",
-      "songName": "Camellia - Mass of the Heart",
-      "hash": "87c6b3c65d53000aef911d1ae950add0b1dde33e",
-      "levelid": "custom_level_87c6b3c65d53000aef911d1ae950add0b1dde33e"
+      "key": "46367",
+      "songName": "SVDDEN DEATH, PeelingFlesh, NIMDA, yvm3 - MIDNIGHT",
+      "hash": "a806eced305a34ef14e227878f3e13742521ea1e",
+      "levelid": "custom_level_a806eced305a34ef14e227878f3e13742521ea1e"
     }
   ],
   "image": ""
