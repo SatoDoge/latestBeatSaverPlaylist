@@ -1,154 +1,382 @@
 {
-  "playlistTitle": "2025-04-17T15:18:48.526Z~2025-04-18T15:18:48.526Z",
+  "playlistTitle": "2025-04-18T15:18:48.527Z~2025-04-19T15:18:48.527Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-04-17T15:18:48.526Z and 2025-04-18T15:18:48.526Z",
+  "discripstion": "Maps published between 2025-04-18T15:18:48.527Z and 2025-04-19T15:18:48.527Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "463c1",
-      "songName": "Dial-Up Nostalgia",
-      "hash": "f10c39031cba8e29af320b7690480476e20219eb",
-      "levelid": "custom_level_f10c39031cba8e29af320b7690480476e20219eb"
+      "key": "46296",
+      "songName": "[Fitbeat SALVATION Pack] Rebecca Black - Sugar Water Cyanide",
+      "hash": "f3fbbcaeea7e17bd4d57022572783dfa5540421f",
+      "levelid": "custom_level_f3fbbcaeea7e17bd4d57022572783dfa5540421f"
     },
     {
-      "key": "463bb",
-      "songName": "slam my head ",
-      "hash": "27052ef3cdbda2a90b0f44755658bcc4daeae437",
-      "levelid": "custom_level_27052ef3cdbda2a90b0f44755658bcc4daeae437"
+      "key": "463cd",
+      "songName": "[Fitbeat SALVATION Pack] Rebecca Black - Salvation",
+      "hash": "f81473e9e211a1edb848d9ad6c483ff4d1995e2e",
+      "levelid": "custom_level_f81473e9e211a1edb848d9ad6c483ff4d1995e2e"
     },
     {
-      "key": "4637e",
-      "songName": "BAND-MAID - 「Ready to Rock」(ロックは淑女の嗜みでして)",
-      "hash": "ed02713645975c6927d2b3c62fd73e147ffc51b1",
-      "levelid": "custom_level_ed02713645975c6927d2b3c62fd73e147ffc51b1"
+      "key": "46428",
+      "songName": "German",
+      "hash": "b610e1c689f4ff8c5d2b0cbd776db1e99d40fd40",
+      "levelid": "custom_level_b610e1c689f4ff8c5d2b0cbd776db1e99d40fd40"
     },
     {
-      "key": "463b5",
-      "songName": " Stereo Love - Babalos",
-      "hash": "0320b8c2b2a45fade9f273e38c1d23981e8fb812",
-      "levelid": "custom_level_0320b8c2b2a45fade9f273e38c1d23981e8fb812"
+      "key": "46426",
+      "songName": "Viva la vida",
+      "hash": "93fb8b10cbe685b28f18711dc3c1115e6401ebaf",
+      "levelid": "custom_level_93fb8b10cbe685b28f18711dc3c1115e6401ebaf"
     },
     {
-      "key": "463b3",
-      "songName": "(190) I'd die in my sleep",
-      "hash": "6787f818ab171d3f0d94eb8f4cadbd35793ba4c6",
-      "levelid": "custom_level_6787f818ab171d3f0d94eb8f4cadbd35793ba4c6"
+      "key": "46425",
+      "songName": "Just Abandoned Myself (cut)",
+      "hash": "d6e6162ad46dbae8232e2d2d25636421c76ecfc6",
+      "levelid": "custom_level_d6e6162ad46dbae8232e2d2d25636421c76ecfc6"
     },
     {
-      "key": "463af",
-      "songName": "andy on the trumpet",
-      "hash": "f7dfa8525a5ae2490a13ccf2b89f3025fa43a1fa",
-      "levelid": "custom_level_f7dfa8525a5ae2490a13ccf2b89f3025fa43a1fa"
+      "key": "46424",
+      "songName": "legends never die!",
+      "hash": "b9c9cb146c906b80c8ffb334db0ca55e927a71e0",
+      "levelid": "custom_level_b9c9cb146c906b80c8ffb334db0ca55e927a71e0"
     },
     {
-      "key": "463ac",
-      "songName": "ANGUISH, deepins, ily - Etazhi (Remix) | Этажи",
-      "hash": "da1ba0aaf463461fb05e531cbb01f84c18c52a76",
-      "levelid": "custom_level_da1ba0aaf463461fb05e531cbb01f84c18c52a76"
+      "key": "46423",
+      "songName": "\"Mr Bean in a Whole Foods\" gag",
+      "hash": "d01f56711cb332ac830303421ffdc229d211d961",
+      "levelid": "custom_level_d01f56711cb332ac830303421ffdc229d211d961"
     },
     {
-      "key": "463ab",
-      "songName": "CA7RIEL & Paco Amoroso - IMPOSTOR",
-      "hash": "339171aab8bc1e4b4beadd98962e1b48fd8249fc",
-      "levelid": "custom_level_339171aab8bc1e4b4beadd98962e1b48fd8249fc"
+      "key": "46422",
+      "songName": "Kobaryo - HAL 30000",
+      "hash": "2dae16938836240adddd50112dfde471f06d4974",
+      "levelid": "custom_level_2dae16938836240adddd50112dfde471f06d4974"
     },
     {
-      "key": "45fb6",
-      "songName": "03-04 宇宙呼吸着我的粒子-庄东茹",
-      "hash": "cb05d4f871d42fffd3ef2845ae8e2015f8c526c1",
-      "levelid": "custom_level_cb05d4f871d42fffd3ef2845ae8e2015f8c526c1"
+      "key": "46420",
+      "songName": "you",
+      "hash": "a73c5089a8566dc95a9871c1ec96f6ab0f772d69",
+      "levelid": "custom_level_a73c5089a8566dc95a9871c1ec96f6ab0f772d69"
     },
     {
-      "key": "463aa",
-      "songName": "NEUPINK - death song (1.14x)",
-      "hash": "9c39dc534baa4d1a0e624c00b298339476eea2aa",
-      "levelid": "custom_level_9c39dc534baa4d1a0e624c00b298339476eea2aa"
+      "key": "4641f",
+      "songName": "护花使者",
+      "hash": "4021203d5fe3969f1d8d0d83824e2c247728e78d",
+      "levelid": "custom_level_4021203d5fe3969f1d8d0d83824e2c247728e78d"
     },
     {
-      "key": "463a9",
-      "songName": "It's for smaller S A N I T Y",
-      "hash": "81b7e5ee3e5df1cb7ab8e38cdc29cd13c0fab63d",
-      "levelid": "custom_level_81b7e5ee3e5df1cb7ab8e38cdc29cd13c0fab63d"
+      "key": "4641e",
+      "songName": "At His Best",
+      "hash": "2d32d69cf9f3e6f68cd3e909c2e1a808e2cfca60",
+      "levelid": "custom_level_2d32d69cf9f3e6f68cd3e909c2e1a808e2cfca60"
     },
     {
-      "key": "463a8",
-      "songName": "Luigi's drip",
-      "hash": "9c11aa7f98c7ab1b8e76f63685d91746f4fab445",
-      "levelid": "custom_level_9c11aa7f98c7ab1b8e76f63685d91746f4fab445"
+      "key": "4641d",
+      "songName": "Chroma - To the Milky Way",
+      "hash": "b9598c4ec0456f93d6fc5f9e606420ece6a4ae65",
+      "levelid": "custom_level_b9598c4ec0456f93d6fc5f9e606420ece6a4ae65"
     },
     {
-      "key": "4639d",
-      "songName": "Embers",
-      "hash": "bb79e47bd3f12adedda8700e38d58cfec63cb53d",
-      "levelid": "custom_level_bb79e47bd3f12adedda8700e38d58cfec63cb53d"
+      "key": "4641c",
+      "songName": "this tds event sucks nuts. its the same as the last one - gaming enthusiast",
+      "hash": "8db9009c7d641905b4e5da8345de8cdb8b2813aa",
+      "levelid": "custom_level_8db9009c7d641905b4e5da8345de8cdb8b2813aa"
     },
     {
-      "key": "4639c",
-      "songName": "Jane Remover - Dancing with your eyes closed",
-      "hash": "35cb766da4619cd8f87616e7fa48487b4f0749ba",
-      "levelid": "custom_level_35cb766da4619cd8f87616e7fa48487b4f0749ba"
+      "key": "4640f",
+      "songName": "Kiss Kitsune キスキツネ - HIMEHINA",
+      "hash": "14da3c0e7afe0e99e5156a8f76aad1095580e622",
+      "levelid": "custom_level_14da3c0e7afe0e99e5156a8f76aad1095580e622"
     },
     {
-      "key": "4638b",
-      "songName": "BOYNEXTDOOR - IF I SAY, I LOVE YOU",
-      "hash": "8d4ed5b8e7a59940dff04c0b91a0d2807899566f",
-      "levelid": "custom_level_8d4ed5b8e7a59940dff04c0b91a0d2807899566f"
+      "key": "4640c",
+      "songName": "Kou! - High-Speed Particle Collider",
+      "hash": "f7dcc8194f4b2e606459a116e5ffd7c58fb137f1",
+      "levelid": "custom_level_f7dcc8194f4b2e606459a116e5ffd7c58fb137f1"
     },
     {
-      "key": "46396",
-      "songName": "Demetori - Heart of the Sunrise",
-      "hash": "b9d0ae5d9b8082a59962b4ce25d82f84c35fd10f",
-      "levelid": "custom_level_b9d0ae5d9b8082a59962b4ce25d82f84c35fd10f"
+      "key": "4640b",
+      "songName": "Unwelcome SchoolUnwelcome SchoolUnwelcome SchoolUnwelcome Schoolergrhtjykt",
+      "hash": "a3559c67daaf2c74964f274e72531916dd144606",
+      "levelid": "custom_level_a3559c67daaf2c74964f274e72531916dd144606"
     },
     {
-      "key": "46392",
-      "songName": "[100 LANES] gladde paling - ADHD",
-      "hash": "266503fb915ecb3643cfda653349666721167e0c",
-      "levelid": "custom_level_266503fb915ecb3643cfda653349666721167e0c"
+      "key": "4640a",
+      "songName": "Off The Leash - Map By Skittles",
+      "hash": "cc51bd52b2fbae222b0761c012bbfd614ce89e15",
+      "levelid": "custom_level_cc51bd52b2fbae222b0761c012bbfd614ce89e15"
     },
     {
-      "key": "46391",
-      "songName": "400 bpm tech map",
-      "hash": "9d4f47c021ce33543ff07b7e759e1081eba533a0",
-      "levelid": "custom_level_9d4f47c021ce33543ff07b7e759e1081eba533a0"
+      "key": "46404",
+      "songName": "666 Collaborate John",
+      "hash": "b95ad7e8a72ed71b8fdadb172b62ebce61ed7d42",
+      "levelid": "custom_level_b95ad7e8a72ed71b8fdadb172b62ebce61ed7d42"
     },
     {
-      "key": "46390",
-      "songName": "Love Is Everywhere",
-      "hash": "e177518234102136773d0f4c89f8c85be7aec67f",
-      "levelid": "custom_level_e177518234102136773d0f4c89f8c85be7aec67f"
+      "key": "46403",
+      "songName": "OutRun ～MAGICAL SOUND SHOWER",
+      "hash": "f2b6ea8b5e8c66bdd9f6d97e806ec19b3568da82",
+      "levelid": "custom_level_f2b6ea8b5e8c66bdd9f6d97e806ec19b3568da82"
     },
     {
-      "key": "4638f",
-      "songName": "The Cut That Always Bleeds",
-      "hash": "a0b5a025521f1876b8e5baaa5dc50c3af33bd1c1",
-      "levelid": "custom_level_a0b5a025521f1876b8e5baaa5dc50c3af33bd1c1"
+      "key": "463ff",
+      "songName": "The Forgetters",
+      "hash": "2a8208e7966c8b1f60ce203d123ee635bc88ac89",
+      "levelid": "custom_level_2a8208e7966c8b1f60ce203d123ee635bc88ac89"
     },
     {
-      "key": "4638e",
-      "songName": "Purple Disco Machine, Sophie Louise Scott - In The Dark",
-      "hash": "bb5b315146e812b9c5a76360da046eb4aa39167f",
-      "levelid": "custom_level_bb5b315146e812b9c5a76360da046eb4aa39167f"
+      "key": "463fb",
+      "songName": "ugh",
+      "hash": "9c5ca976ba069ea5dc4878e76591025fb7195b0b",
+      "levelid": "custom_level_9c5ca976ba069ea5dc4878e76591025fb7195b0b"
     },
     {
-      "key": "4638c",
-      "songName": " Nothing But Requiem with Museo - Pentiment",
-      "hash": "5cbb237e41857ba752bb162ae1a8f73a1c4d8e22",
-      "levelid": "custom_level_5cbb237e41857ba752bb162ae1a8f73a1c4d8e22"
+      "key": "463f4",
+      "songName": "GHOST DATA - Blatant Plagiarism",
+      "hash": "3bf6468bd733a891dfb6143eb8ac102c42826643",
+      "levelid": "custom_level_3bf6468bd733a891dfb6143eb8ac102c42826643"
     },
     {
-      "key": "46379",
-      "songName": "Three Days Grace - Mayday",
-      "hash": "511edef83f74c7ad051f8c7717b55e6e4ef73c95",
-      "levelid": "custom_level_511edef83f74c7ad051f8c7717b55e6e4ef73c95"
+      "key": "463f3",
+      "songName": "[Ska! Pack] We Are Number One - Lazytown",
+      "hash": "e04e4adf8c1be5e1a9a9a043b6e9e0401bfbc82d",
+      "levelid": "custom_level_e04e4adf8c1be5e1a9a9a043b6e9e0401bfbc82d"
     },
     {
-      "key": "46367",
-      "songName": "SVDDEN DEATH, PeelingFlesh, NIMDA, yvm3 - MIDNIGHT",
-      "hash": "a806eced305a34ef14e227878f3e13742521ea1e",
-      "levelid": "custom_level_a806eced305a34ef14e227878f3e13742521ea1e"
+      "key": "463e4",
+      "songName": "[Ska! Pack] She Got Arrested - The Interrupters",
+      "hash": "4979017a46fdb1ce74f937b6d8ef4a83e5049eee",
+      "levelid": "custom_level_4979017a46fdb1ce74f937b6d8ef4a83e5049eee"
+    },
+    {
+      "key": "463f1",
+      "songName": "[Ska! Pack] No Doubt - Spiderwebs (v4)",
+      "hash": "19913ab80df2e0f55318c5e1f210d97a3b487a69",
+      "levelid": "custom_level_19913ab80df2e0f55318c5e1f210d97a3b487a69"
+    },
+    {
+      "key": "463d8",
+      "songName": "[Ska! Pack] The Beat - Rankin' Full Stop",
+      "hash": "0128343b186f421f50857c54d57c43bedca73d93",
+      "levelid": "custom_level_0128343b186f421f50857c54d57c43bedca73d93"
+    },
+    {
+      "key": "463dc",
+      "songName": "[Ska! Pack] Bad Manners - Lip Up Fatty",
+      "hash": "157a9a418349f377c9426c327b015c13e365217d",
+      "levelid": "custom_level_157a9a418349f377c9426c327b015c13e365217d"
+    },
+    {
+      "key": "463ef",
+      "songName": "[Ska! Pack] Reel Big Fish - I Know You Too Well To Like You Anymore",
+      "hash": "9e7a1972ee59f1aba094e50bfcd2c803ad360d52",
+      "levelid": "custom_level_9e7a1972ee59f1aba094e50bfcd2c803ad360d52"
+    },
+    {
+      "key": "463ee",
+      "songName": "[Ska! Pack] Victims of Circumstance - A Libido the Size of Toledo",
+      "hash": "dd432f97c26555b1439f3913f82b34ebd7c140c2",
+      "levelid": "custom_level_dd432f97c26555b1439f3913f82b34ebd7c140c2"
+    },
+    {
+      "key": "463d0",
+      "songName": "[Ska! Pack] All My Best Friends Are Metalheads - Less Than Jake",
+      "hash": "c182643b0f575a97f7aee82f68b100151bac9bcc",
+      "levelid": "custom_level_c182643b0f575a97f7aee82f68b100151bac9bcc"
+    },
+    {
+      "key": "463ed",
+      "songName": "Massive New Krew - Memento Mori (Extended Ver.)",
+      "hash": "2756a126925e3046d4e582888026e30e57dd984f",
+      "levelid": "custom_level_2756a126925e3046d4e582888026e30e57dd984f"
+    },
+    {
+      "key": "463ec",
+      "songName": "hawk tuah ASMR",
+      "hash": "4b6b4b696c7bd94be5b7238af2a921df6f90ff0b",
+      "levelid": "custom_level_4b6b4b696c7bd94be5b7238af2a921df6f90ff0b"
+    },
+    {
+      "key": "463eb",
+      "songName": "you",
+      "hash": "a43d2d4d46ef5753a1d049a3f3a75b1a7a66f027",
+      "levelid": "custom_level_a43d2d4d46ef5753a1d049a3f3a75b1a7a66f027"
+    },
+    {
+      "key": "463ea",
+      "songName": "slam my headddd",
+      "hash": "d2233f47a77087a1caab7c5d026e1361eac8798a",
+      "levelid": "custom_level_d2233f47a77087a1caab7c5d026e1361eac8798a"
+    },
+    {
+      "key": "463e8",
+      "songName": "ADHD - Gladde Paling (English Dub)[Shitpost]",
+      "hash": "24a95174328284e05edb600192e3982da5473ac9",
+      "levelid": "custom_level_24a95174328284e05edb600192e3982da5473ac9"
+    },
+    {
+      "key": "463e6",
+      "songName": "Obsessed (with Charlie Puth & Shenseea)",
+      "hash": "bf71fa0697c42cf07528b1ab649a93c051815451",
+      "levelid": "custom_level_bf71fa0697c42cf07528b1ab649a93c051815451"
+    },
+    {
+      "key": "463e5",
+      "songName": "Not My Fight -Lontalius",
+      "hash": "6c4558404df31fcc68922542f275d3942bcdf546",
+      "levelid": "custom_level_6c4558404df31fcc68922542f275d3942bcdf546"
+    },
+    {
+      "key": "463e2",
+      "songName": "Cool patterns 8",
+      "hash": "92d9ef4158c2451bf88538c3f9f92a56fe03680b",
+      "levelid": "custom_level_92d9ef4158c2451bf88538c3f9f92a56fe03680b"
+    },
+    {
+      "key": "463e0",
+      "songName": "High Octane",
+      "hash": "f6048c2ce6cf4bc4fe681d5bfc942c360efad799",
+      "levelid": "custom_level_f6048c2ce6cf4bc4fe681d5bfc942c360efad799"
+    },
+    {
+      "key": "462dd",
+      "songName": "Shiva, Ardian Bujupi - Auto Blu (ArashiA Thugcore Remix)",
+      "hash": "88550ef11625b217212b3a8c92d9d7b9ed9206e6",
+      "levelid": "custom_level_88550ef11625b217212b3a8c92d9d7b9ed9206e6"
+    },
+    {
+      "key": "462dc",
+      "songName": "Kardashev - Glass Phantoms",
+      "hash": "b13f884f0fcd2079b4dc07d70120a7b460f86306",
+      "levelid": "custom_level_b13f884f0fcd2079b4dc07d70120a7b460f86306"
+    },
+    {
+      "key": "462df",
+      "songName": "TNO - Verify Your Clock",
+      "hash": "c31d73c75675abc852cffe4aeff5129e64fbcb95",
+      "levelid": "custom_level_c31d73c75675abc852cffe4aeff5129e64fbcb95"
+    },
+    {
+      "key": "46287",
+      "songName": "Modern Talking - Last Exit To Brooklyn (DT ver.)",
+      "hash": "fae1beb3668a87b49b7ed8bafba5ea03812b2906",
+      "levelid": "custom_level_fae1beb3668a87b49b7ed8bafba5ea03812b2906"
+    },
+    {
+      "key": "463de",
+      "songName": "Make You Mine - Madison Beer (Cinema & Chroma+)",
+      "hash": "f4dd40ecb747fe7e56d33995195b380d6efc9c37",
+      "levelid": "custom_level_f4dd40ecb747fe7e56d33995195b380d6efc9c37"
+    },
+    {
+      "key": "463dd",
+      "songName": "Jane Remover - star people",
+      "hash": "df245a5f94243a01ceda9e6cb58a4df0041a08a4",
+      "levelid": "custom_level_df245a5f94243a01ceda9e6cb58a4df0041a08a4"
+    },
+    {
+      "key": "463db",
+      "songName": "Minecraft movie",
+      "hash": "c3ce992d258962131567adfafd46fb68e39ceed0",
+      "levelid": "custom_level_c3ce992d258962131567adfafd46fb68e39ceed0"
+    },
+    {
+      "key": "463da",
+      "songName": "otuka - let me go",
+      "hash": "75620a13747bfe860d569ecb73bf3cba7ba207e2",
+      "levelid": "custom_level_75620a13747bfe860d569ecb73bf3cba7ba207e2"
+    },
+    {
+      "key": "463d7",
+      "songName": "We're Not Gonna Take It - Twisted Sister",
+      "hash": "a1fdb811f66e45e07e68291183552de91ae299ae",
+      "levelid": "custom_level_a1fdb811f66e45e07e68291183552de91ae299ae"
+    },
+    {
+      "key": "463c7",
+      "songName": "Б.А.У. - Танцы на костях",
+      "hash": "57c76d47f75a598248fba9afd9a8ca311a4c714c",
+      "levelid": "custom_level_57c76d47f75a598248fba9afd9a8ca311a4c714c"
+    },
+    {
+      "key": "463d1",
+      "songName": "XO (Eden Cover & Remake)",
+      "hash": "07b291eabdd05a65b08b452c582e731bd9b1557a",
+      "levelid": "custom_level_07b291eabdd05a65b08b452c582e731bd9b1557a"
+    },
+    {
+      "key": "463cf",
+      "songName": "hollywood baby",
+      "hash": "345d4cd8f951bdac9fd4d56b0fe833ea6467cf5f",
+      "levelid": "custom_level_345d4cd8f951bdac9fd4d56b0fe833ea6467cf5f"
+    },
+    {
+      "key": "46366",
+      "songName": "Writing On The Wall (feat Alhaitham) - Lia, Tala, Coffee Run, Will Stetson, niu arx, and Miyolophone",
+      "hash": "d7d53cebd56d6f78b584e151cc447c904f4a5ef9",
+      "levelid": "custom_level_d7d53cebd56d6f78b584e151cc447c904f4a5ef9"
+    },
+    {
+      "key": "46365",
+      "songName": "Writing On The Wall (feat Kaveh Fansong) - Will Stetson, niu arx, and Miyolophone",
+      "hash": "38dd2bdd4141ef942f2067005ed49b90784ce4b1",
+      "levelid": "custom_level_38dd2bdd4141ef942f2067005ed49b90784ce4b1"
+    },
+    {
+      "key": "463ce",
+      "songName": "Yuukyuu no Catharsis",
+      "hash": "03331106cc65ca52dfa7779daf71e48f62f5a4d1",
+      "levelid": "custom_level_03331106cc65ca52dfa7779daf71e48f62f5a4d1"
+    },
+    {
+      "key": "463cc",
+      "songName": "MONTAGEM VOZES PROFUNDAS (Super Slowed)",
+      "hash": "13dd4881a6c7812658c4a523f0b711d5561fb844",
+      "levelid": "custom_level_13dd4881a6c7812658c4a523f0b711d5561fb844"
+    },
+    {
+      "key": "463c9",
+      "songName": "STEAKA - 六角形のカフカ feat.可不/ Hexagonal Kafka",
+      "hash": "bb39a1dc3e955d196600b46ea923d3aeba0a902e",
+      "levelid": "custom_level_bb39a1dc3e955d196600b46ea923d3aeba0a902e"
+    },
+    {
+      "key": "463ca",
+      "songName": "[One Saber/Chroma] STOMACH BOOK - FUKOUNA GIRL",
+      "hash": "7265b8f84fe70eef0b2908a66d48d1503cefc491",
+      "levelid": "custom_level_7265b8f84fe70eef0b2908a66d48d1503cefc491"
+    },
+    {
+      "key": "46395",
+      "songName": "Noisia - Into Dust (edited outro)",
+      "hash": "62d4e11b52da56f955eed0a4f0758952e9913854",
+      "levelid": "custom_level_62d4e11b52da56f955eed0a4f0758952e9913854"
+    },
+    {
+      "key": "463c6",
+      "songName": "Toby Fox - Quiet Water",
+      "hash": "e2ca4138bd438473d5a0a7efa4eabb36fca5a801",
+      "levelid": "custom_level_e2ca4138bd438473d5a0a7efa4eabb36fca5a801"
+    },
+    {
+      "key": "463c4",
+      "songName": "Boom Kitty - GEOMETRY DASH GANGSTER RAP",
+      "hash": "b6959666e8cc4d88e3fa2839b4a64ae3f6f40b2b",
+      "levelid": "custom_level_b6959666e8cc4d88e3fa2839b4a64ae3f6f40b2b"
+    },
+    {
+      "key": "463c3",
+      "songName": "z² - 4H",
+      "hash": "d6292288f19655c133c3e0a1dec94c819622645b",
+      "levelid": "custom_level_d6292288f19655c133c3e0a1dec94c819622645b"
+    },
+    {
+      "key": "463c2",
+      "songName": "KAT x Aku P - Affection Addiction ft. POPY (SynthV Original Song) {S}",
+      "hash": "d9ae65ad01daf156548be96db813dfc28a05c228",
+      "levelid": "custom_level_d9ae65ad01daf156548be96db813dfc28a05c228"
     }
   ],
   "image": ""
