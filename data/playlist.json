@@ -1,256 +1,202 @@
 {
-  "playlistTitle": "2025-04-25T15:18:48.438Z~2025-04-26T15:18:48.438Z",
+  "playlistTitle": "2025-04-26T15:18:48.479Z~2025-04-27T15:18:48.479Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-04-25T15:18:48.438Z and 2025-04-26T15:18:48.438Z",
+  "discripstion": "Maps published between 2025-04-26T15:18:48.479Z and 2025-04-27T15:18:48.479Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "466ed",
-      "songName": "Virtual Riot - Need / Get",
-      "hash": "fae9eb774b9b2943910a913063c63193a499a2d9",
-      "levelid": "custom_level_fae9eb774b9b2943910a913063c63193a499a2d9"
+      "key": "46779",
+      "songName": "追いかけっこキャッハー",
+      "hash": "95b5700edbb1aca3d75794a78c62397fef30c10d",
+      "levelid": "custom_level_95b5700edbb1aca3d75794a78c62397fef30c10d"
     },
     {
-      "key": "466eb",
-      "songName": "跳楼机",
-      "hash": "c0220e6850a28b022b781c25ce15c6c970d2a1bb",
-      "levelid": "custom_level_c0220e6850a28b022b781c25ce15c6c970d2a1bb"
-    },
-    {
-      "key": "466ea",
-      "songName": "The Big Black",
-      "hash": "1fe7a8d02848009dba052ba477e6f410d2dca346",
-      "levelid": "custom_level_1fe7a8d02848009dba052ba477e6f410d2dca346"
-    },
-    {
-      "key": "466e8",
-      "songName": "Denkare - Addiction / Non-fiction",
-      "hash": "5e960dd9634b1a86d2ed6fd709a5dd1532601047",
-      "levelid": "custom_level_5e960dd9634b1a86d2ed6fd709a5dd1532601047"
-    },
-    {
-      "key": "466e3",
-      "songName": "DIALOGUE+ - MAHOROBA-Deli",
-      "hash": "574c29b8db0108734efc38e0299b05413f51d442",
-      "levelid": "custom_level_574c29b8db0108734efc38e0299b05413f51d442"
-    },
-    {
-      "key": "466e0",
-      "songName": "[QUEUE] t+pazolite - Pumpin' Junkies (Kobaryo's FTN-Remix)",
-      "hash": "58690ab4b56315de3df7a2aa8514b849afc02d1c",
-      "levelid": "custom_level_58690ab4b56315de3df7a2aa8514b849afc02d1c"
-    },
-    {
-      "key": "466de",
+      "key": "46775",
       "songName": "Panda Eyes - Double Jump [Chroma 2.0]",
-      "hash": "2e9d070469a22a71d7f5a197a1638454f0256914",
-      "levelid": "custom_level_2e9d070469a22a71d7f5a197a1638454f0256914"
+      "hash": "e090df0f89ea3f6fbdcf263e085be8e27e0afd92",
+      "levelid": "custom_level_e090df0f89ea3f6fbdcf263e085be8e27e0afd92"
     },
     {
-      "key": "466dd",
-      "songName": "A Whole New World - Aladdin Soundtrack (Disney)",
-      "hash": "a013f2e73f7e76a6f4ee3277ff1c181d91a28753",
-      "levelid": "custom_level_a013f2e73f7e76a6f4ee3277ff1c181d91a28753"
+      "key": "46741",
+      "songName": "We Bring The BOOM!",
+      "hash": "de0dd3d1323dad529ef6fdeb5cf60ea8005081a3",
+      "levelid": "custom_level_de0dd3d1323dad529ef6fdeb5cf60ea8005081a3"
     },
     {
-      "key": "466d9",
-      "songName": "ウルトラマンギンガの歌",
-      "hash": "096ef428a8a82011ab068201a3d4ad91636bb11d",
-      "levelid": "custom_level_096ef428a8a82011ab068201a3d4ad91636bb11d"
+      "key": "46740",
+      "songName": "ITZY - WANNABE ",
+      "hash": "6751857bb83794f0da923ed0eaf40cac4d13f5b6",
+      "levelid": "custom_level_6751857bb83794f0da923ed0eaf40cac4d13f5b6"
     },
     {
-      "key": "466d8",
-      "songName": "chicken jockey type beat",
-      "hash": "368799f80ae0ddf1d62c7a84fe513558889f1856",
-      "levelid": "custom_level_368799f80ae0ddf1d62c7a84fe513558889f1856"
+      "key": "4673e",
+      "songName": " Age of Money",
+      "hash": "db96797b8b2f64167b14f0ca51d1c3c6cab4286c",
+      "levelid": "custom_level_db96797b8b2f64167b14f0ca51d1c3c6cab4286c"
     },
     {
-      "key": "466d0",
-      "songName": "Kep1er - Yum",
-      "hash": "8f1e0f76252fad6727a177029aa7dcdc031129c7",
-      "levelid": "custom_level_8f1e0f76252fad6727a177029aa7dcdc031129c7"
+      "key": "4673a",
+      "songName": "goth prosthetic",
+      "hash": "1de32de88db85dd97543c47d90ed3e8e1e6b6089",
+      "levelid": "custom_level_1de32de88db85dd97543c47d90ed3e8e1e6b6089"
     },
     {
-      "key": "466ce",
-      "songName": "Im Jilly!",
-      "hash": "f28985139973ebbc7c4ee0204e91989ca1a79eda",
-      "levelid": "custom_level_f28985139973ebbc7c4ee0204e91989ca1a79eda"
+      "key": "46730",
+      "songName": "Tsumikusa - FOUND YOU",
+      "hash": "a6a5a09d23d83b09fdd1f103cb7e5a03f4a69f43",
+      "levelid": "custom_level_a6a5a09d23d83b09fdd1f103cb7e5a03f4a69f43"
     },
     {
-      "key": "466cf",
-      "songName": "Наше Последнее Лето - Паралич ",
-      "hash": "0591abec9871ad6b10c03d59f0d8000f098bd55a",
-      "levelid": "custom_level_0591abec9871ad6b10c03d59f0d8000f098bd55a"
+      "key": "4672d",
+      "songName": "XH, KYURO3, YUTRAZIUM - Reflection",
+      "hash": "9b0a377cd0e5f4cca649dd923dc29777a63d4c34",
+      "levelid": "custom_level_9b0a377cd0e5f4cca649dd923dc29777a63d4c34"
     },
     {
-      "key": "466cb",
-      "songName": "Unshatter",
-      "hash": "f70e44748c71c68443c0ffac46bf274b6e011a9c",
-      "levelid": "custom_level_f70e44748c71c68443c0ffac46bf274b6e011a9c"
+      "key": "4672b",
+      "songName": "色恋 feat. z²",
+      "hash": "e0650c66060c4107a0bca56ad44e25034213d632",
+      "levelid": "custom_level_e0650c66060c4107a0bca56ad44e25034213d632"
     },
     {
-      "key": "466ca",
-      "songName": "April 25, 2025",
-      "hash": "f74878cc39e41ccfbfbd9dde7c4447412e408477",
-      "levelid": "custom_level_f74878cc39e41ccfbfbd9dde7c4447412e408477"
+      "key": "46729",
+      "songName": "Theory of a Deadman-Bitch Came Back  (Poodles) ",
+      "hash": "b22d8932710a146f5082ebd452c890bf92d252f4",
+      "levelid": "custom_level_b22d8932710a146f5082ebd452c890bf92d252f4"
     },
     {
-      "key": "466c9",
-      "songName": "HEAD START 2019 - HEUX",
-      "hash": "86fca6f4f7680a3ef9de9199a10535810b97a6f4",
-      "levelid": "custom_level_86fca6f4f7680a3ef9de9199a10535810b97a6f4"
+      "key": "46728",
+      "songName": "BernardFrey - AniT.E.R.A.",
+      "hash": "49e38478d1f7396ef3eae972614debe4deee2975",
+      "levelid": "custom_level_49e38478d1f7396ef3eae972614debe4deee2975"
     },
     {
-      "key": "466c6",
-      "songName": "Power of the Saber Blade",
-      "hash": "940afeb9021686853a270f30fd19c5e07e625925",
-      "levelid": "custom_level_940afeb9021686853a270f30fd19c5e07e625925"
+      "key": "46727",
+      "songName": "Jack Black - Ode to Dennis",
+      "hash": "be1b08d23eaa173112345670c349a4f3db6d8938",
+      "levelid": "custom_level_be1b08d23eaa173112345670c349a4f3db6d8938"
     },
     {
-      "key": "466c7",
-      "songName": "Intermission",
-      "hash": "de884ee8df7f828caa12bb78281b56944eb19138",
-      "levelid": "custom_level_de884ee8df7f828caa12bb78281b56944eb19138"
+      "key": "46723",
+      "songName": "Like the Movies by Eddy Crowley",
+      "hash": "20db757eb970c076f49a788d3bfae48232a424c7",
+      "levelid": "custom_level_20db757eb970c076f49a788d3bfae48232a424c7"
     },
     {
-      "key": "466bd",
-      "songName": "こっちのけんと - けっかおーらい",
-      "hash": "f6b3261d83253b726bbd33b38ef081402bea05dd",
-      "levelid": "custom_level_f6b3261d83253b726bbd33b38ef081402bea05dd"
+      "key": "46716",
+      "songName": "joz - I Can't See",
+      "hash": "86dbc0ed5e96f03c17b36f8fcb1948538c1469f0",
+      "levelid": "custom_level_86dbc0ed5e96f03c17b36f8fcb1948538c1469f0"
     },
     {
-      "key": "466b9",
-      "songName": "BLEND-A x PaperBoxHouse - Bon Appetit S (Eggman's Announcement) [for MapSaber meme song contest]",
-      "hash": "ce1b88067646e5f3b240bc1f3a30a6ff627dae0a",
-      "levelid": "custom_level_ce1b88067646e5f3b240bc1f3a30a6ff627dae0a"
+      "key": "46715",
+      "songName": "DAN DA DAN",
+      "hash": "91b0f4876b7e0cd8180f43f6007e426c8de08afa",
+      "levelid": "custom_level_91b0f4876b7e0cd8180f43f6007e426c8de08afa"
     },
     {
-      "key": "466ba",
-      "songName": "Jack Stauber - Fighter",
-      "hash": "695d940160ffea2a32885252a5551fdc2b44ddc8",
-      "levelid": "custom_level_695d940160ffea2a32885252a5551fdc2b44ddc8"
+      "key": "46712",
+      "songName": "Take 3 - Inner Wave",
+      "hash": "fdfe4de0f6cd612fa1e4dd8dddd0eaa08756a6aa",
+      "levelid": "custom_level_fdfe4de0f6cd612fa1e4dd8dddd0eaa08756a6aa"
     },
     {
-      "key": "466b8",
-      "songName": "vv",
-      "hash": "4a0c148f25335419c61218b55ea7180d262a21a2",
-      "levelid": "custom_level_4a0c148f25335419c61218b55ea7180d262a21a2"
+      "key": "46711",
+      "songName": "Fox Stevenson - Curtain Call",
+      "hash": "d828b1a3a28c368a6e7756c04813724d514515fd",
+      "levelid": "custom_level_d828b1a3a28c368a6e7756c04813724d514515fd"
     },
     {
-      "key": "466b5",
-      "songName": "One, Two, Three",
-      "hash": "b7951723cad54772307ee8972b7df8e1eed0d140",
-      "levelid": "custom_level_b7951723cad54772307ee8972b7df8e1eed0d140"
+      "key": "4670f",
+      "songName": "LoonBoon",
+      "hash": "79fd907a2cc8a90914d2c448b680c9231969097e",
+      "levelid": "custom_level_79fd907a2cc8a90914d2c448b680c9231969097e"
     },
     {
-      "key": "466b4",
-      "songName": "mikmak",
-      "hash": "94117e06be1b8f8c08f4a644812ad34ab5a0399f",
-      "levelid": "custom_level_94117e06be1b8f8c08f4a644812ad34ab5a0399f"
+      "key": "4670e",
+      "songName": "UNIS - SWICY",
+      "hash": "3ddfb7ea2ce6fd7ee50ead9f5e9079e3b63fa460",
+      "levelid": "custom_level_3ddfb7ea2ce6fd7ee50ead9f5e9079e3b63fa460"
     },
     {
-      "key": "466b3",
-      "songName": "Frums - dropdead",
-      "hash": "6bf0c4d33bdb1efadbc522070cb7cc3c8f3cc141",
-      "levelid": "custom_level_6bf0c4d33bdb1efadbc522070cb7cc3c8f3cc141"
+      "key": "4670d",
+      "songName": "Deadlocked",
+      "hash": "ffa98749d9b621661d51b4092d981ec2bf6f999f",
+      "levelid": "custom_level_ffa98749d9b621661d51b4092d981ec2bf6f999f"
     },
     {
-      "key": "466b2",
-      "songName": "I'll Risk it All (ft. ZealTheRealDeal)",
-      "hash": "21980f41264e5ecb092aa20f817e1660897294eb",
-      "levelid": "custom_level_21980f41264e5ecb092aa20f817e1660897294eb"
+      "key": "46707",
+      "songName": "Isabel LaRosa - Destroy Myself For You",
+      "hash": "63e0974e00b1c0cb21378661ab53b0914b2f0393",
+      "levelid": "custom_level_63e0974e00b1c0cb21378661ab53b0914b2f0393"
     },
     {
-      "key": "466b0",
-      "songName": "Dissonance To Chill To - Ferrin (After The Fall)",
-      "hash": "31e222cb4e56f70f43ba314e335608dd2c9b66fd",
-      "levelid": "custom_level_31e222cb4e56f70f43ba314e335608dd2c9b66fd"
+      "key": "46703",
+      "songName": "M@GICAL CURE! LOVE SHOT!",
+      "hash": "d66d070c998c3365ad9cc956deb9a69f39604a7a",
+      "levelid": "custom_level_d66d070c998c3365ad9cc956deb9a69f39604a7a"
     },
     {
-      "key": "466af",
-      "songName": "white girl manifestation type beat test version",
-      "hash": "8313f2b40e2649677c4dd6532ccccd3ec483718c",
-      "levelid": "custom_level_8313f2b40e2649677c4dd6532ccccd3ec483718c"
+      "key": "46702",
+      "songName": "Scheming Weasel tehehe",
+      "hash": "1cea8133fe03285ddc744b4463ae9b3689b5bcb2",
+      "levelid": "custom_level_1cea8133fe03285ddc744b4463ae9b3689b5bcb2"
     },
     {
-      "key": "466ad",
-      "songName": "βlαnoir",
-      "hash": "6a4dce285134f080bd36a90e8fc9d73afc2cdc42",
-      "levelid": "custom_level_6a4dce285134f080bd36a90e8fc9d73afc2cdc42"
+      "key": "466fe",
+      "songName": "Frank's Lava Monkey",
+      "hash": "371e1680d76573d5d9ee41307ed6bb1540311ea0",
+      "levelid": "custom_level_371e1680d76573d5d9ee41307ed6bb1540311ea0"
     },
     {
-      "key": "466ac",
-      "songName": "dennokop - DAI DAI DAI KIRAI",
-      "hash": "7ad8ed00cf5a2fcad82dad47dc7b8cd199056fc2",
-      "levelid": "custom_level_7ad8ed00cf5a2fcad82dad47dc7b8cd199056fc2"
+      "key": "466fd",
+      "songName": "Tralalero Tralala",
+      "hash": "8ddff34f667f3b9fa22fd4b1b1cfcc3a0145c096",
+      "levelid": "custom_level_8ddff34f667f3b9fa22fd4b1b1cfcc3a0145c096"
     },
     {
-      "key": "466ab",
-      "songName": "Alkome - Innocent",
-      "hash": "aac3b867587e0844153f82aa9012b641c9f56535",
-      "levelid": "custom_level_aac3b867587e0844153f82aa9012b641c9f56535"
+      "key": "466fa",
+      "songName": "desert",
+      "hash": "3cd3632a53c09601002fd0e0e256e20d50a7b934",
+      "levelid": "custom_level_3cd3632a53c09601002fd0e0e256e20d50a7b934"
     },
     {
-      "key": "466aa",
-      "songName": "AFOURTEEN - DIGITAL RAPE",
-      "hash": "9c580280337884cf2daf89fee1e07a4e8d83b6b2",
-      "levelid": "custom_level_9c580280337884cf2daf89fee1e07a4e8d83b6b2"
+      "key": "466f9",
+      "songName": "testr 2",
+      "hash": "1c0af7fd703d94f78f662c4e4afb74cce7da4ff6",
+      "levelid": "custom_level_1c0af7fd703d94f78f662c4e4afb74cce7da4ff6"
     },
     {
-      "key": "466a9",
-      "songName": "X-SLIDE",
-      "hash": "46668019e1bcf42528c867aa7f7853b0ed7027cc",
-      "levelid": "custom_level_46668019e1bcf42528c867aa7f7853b0ed7027cc"
+      "key": "466f7",
+      "songName": "lot of me",
+      "hash": "8d01ef675948230a2d582dd8cd148a450dc78c72",
+      "levelid": "custom_level_8d01ef675948230a2d582dd8cd148a450dc78c72"
     },
     {
-      "key": "466a4",
-      "songName": "Odd Mob - LEFT TO RIGHT (Space Laces Remix)",
-      "hash": "537fc928e0cd09c187532f893479e9c8f639d652",
-      "levelid": "custom_level_537fc928e0cd09c187532f893479e9c8f639d652"
+      "key": "466f6",
+      "songName": "Sason Ifram Shaulov - Tamid Ohev Oti | ששון איפרם שאולוב - תמיד אוהב אותי",
+      "hash": "3f87836e49db9b60355a020e4ac5ccd7a6d2ac75",
+      "levelid": "custom_level_3f87836e49db9b60355a020e4ac5ccd7a6d2ac75"
     },
     {
-      "key": "466a3",
-      "songName": "Comma",
-      "hash": "0e1454d60bcef15f474f3422632c551e3a897446",
-      "levelid": "custom_level_0e1454d60bcef15f474f3422632c551e3a897446"
+      "key": "46238",
+      "songName": "Bloodywood - Bekhauf (feat. BABYMETAL)",
+      "hash": "5800baca98ba4f4c63b91603d48e2f5152ac3e7d",
+      "levelid": "custom_level_5800baca98ba4f4c63b91603d48e2f5152ac3e7d"
     },
     {
-      "key": "466a2",
-      "songName": "SNOWFLAKE IS HOT!!!!!!!!!!",
-      "hash": "b4c19a81e8422f252459d351a5884fb0dd3f03ad",
-      "levelid": "custom_level_b4c19a81e8422f252459d351a5884fb0dd3f03ad"
+      "key": "466f4",
+      "songName": "EZFG - Glucagon (feat. Megurine Luka)",
+      "hash": "0a496ba86a38f179a927750a2720612d36b7b6ec",
+      "levelid": "custom_level_0a496ba86a38f179a927750a2720612d36b7b6ec"
     },
     {
-      "key": "466a0",
-      "songName": "Machine Love (feat. Kasane Teto)",
-      "hash": "074adaa93693ac76c8678d20001424b693367664",
-      "levelid": "custom_level_074adaa93693ac76c8678d20001424b693367664"
-    },
-    {
-      "key": "46699",
-      "songName": "AXiS as EQUiON - Protogene",
-      "hash": "75a3067687098abd32c49763da8c7e7347d91c55",
-      "levelid": "custom_level_75a3067687098abd32c49763da8c7e7347d91c55"
-    },
-    {
-      "key": "46698",
-      "songName": "Warrior - AURORA (Chroma+)",
-      "hash": "5a52056e5b7b4c26b0248c7ac324a1ff698ae7c4",
-      "levelid": "custom_level_5a52056e5b7b4c26b0248c7ac324a1ff698ae7c4"
-    },
-    {
-      "key": "46697",
-      "songName": "jam-jam - Sweet On You (DJMAX RESPECT V | V EXTENSION 2)",
-      "hash": "0e87d59b2f8b5308543360b5061839dfa387ab37",
-      "levelid": "custom_level_0e87d59b2f8b5308543360b5061839dfa387ab37"
-    },
-    {
-      "key": "46695",
-      "songName": "[V3 Lighting] Rockefeller Street - Getter Jaani (Nightcore)",
-      "hash": "23accfb9ac7ca3db97072cfc08b9c7fdf701cc57",
-      "levelid": "custom_level_23accfb9ac7ca3db97072cfc08b9c7fdf701cc57"
+      "key": "466df",
+      "songName": "レイジーモーニング - THE BINARY",
+      "hash": "e2324fb826f8d608cd656c287324baac3440bc8e",
+      "levelid": "custom_level_e2324fb826f8d608cd656c287324baac3440bc8e"
     }
   ],
   "image": ""
