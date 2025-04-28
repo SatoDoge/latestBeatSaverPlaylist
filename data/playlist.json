@@ -1,202 +1,268 @@
 {
-  "playlistTitle": "2025-04-26T15:18:48.479Z~2025-04-27T15:18:48.479Z",
+  "playlistTitle": "2025-04-27T15:18:48.108Z~2025-04-28T15:18:48.108Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-04-26T15:18:48.479Z and 2025-04-27T15:18:48.479Z",
+  "discripstion": "Maps published between 2025-04-27T15:18:48.108Z and 2025-04-28T15:18:48.108Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "46779",
-      "songName": "追いかけっこキャッハー",
-      "hash": "95b5700edbb1aca3d75794a78c62397fef30c10d",
-      "levelid": "custom_level_95b5700edbb1aca3d75794a78c62397fef30c10d"
+      "key": "467cc",
+      "songName": "Steve's Lava Chicken (Camellia Remix)",
+      "hash": "d687cc80a4e5a753d4977ea38b0d9803463f6b2c",
+      "levelid": "custom_level_d687cc80a4e5a753d4977ea38b0d9803463f6b2c"
     },
     {
-      "key": "46775",
-      "songName": "Panda Eyes - Double Jump [Chroma 2.0]",
-      "hash": "e090df0f89ea3f6fbdcf263e085be8e27e0afd92",
-      "levelid": "custom_level_e090df0f89ea3f6fbdcf263e085be8e27e0afd92"
+      "key": "467cb",
+      "songName": "紅の魂",
+      "hash": "784d5780063e9c2029b327d015bd52442805ee29",
+      "levelid": "custom_level_784d5780063e9c2029b327d015bd52442805ee29"
     },
     {
-      "key": "46741",
-      "songName": "We Bring The BOOM!",
-      "hash": "de0dd3d1323dad529ef6fdeb5cf60ea8005081a3",
-      "levelid": "custom_level_de0dd3d1323dad529ef6fdeb5cf60ea8005081a3"
+      "key": "467ca",
+      "songName": "MEOVV  - HANDS UP",
+      "hash": "7dfdfb9a594cbb2192a9592fdb92e4eee6b5d39b",
+      "levelid": "custom_level_7dfdfb9a594cbb2192a9592fdb92e4eee6b5d39b"
     },
     {
-      "key": "46740",
-      "songName": "ITZY - WANNABE ",
-      "hash": "6751857bb83794f0da923ed0eaf40cac4d13f5b6",
-      "levelid": "custom_level_6751857bb83794f0da923ed0eaf40cac4d13f5b6"
+      "key": "467c9",
+      "songName": "[JBSL9]サクラスコール",
+      "hash": "708ae5340050033f81211fd72ca00408ed844efe",
+      "levelid": "custom_level_708ae5340050033f81211fd72ca00408ed844efe"
     },
     {
-      "key": "4673e",
-      "songName": " Age of Money",
-      "hash": "db96797b8b2f64167b14f0ca51d1c3c6cab4286c",
-      "levelid": "custom_level_db96797b8b2f64167b14f0ca51d1c3c6cab4286c"
+      "key": "467c8",
+      "songName": "マリオネ",
+      "hash": "dca754167d8c0e23b0b6082fbab13849fe9b975f",
+      "levelid": "custom_level_dca754167d8c0e23b0b6082fbab13849fe9b975f"
     },
     {
-      "key": "4673a",
-      "songName": "goth prosthetic",
-      "hash": "1de32de88db85dd97543c47d90ed3e8e1e6b6089",
-      "levelid": "custom_level_1de32de88db85dd97543c47d90ed3e8e1e6b6089"
+      "key": "467c7",
+      "songName": "3LEG - Yakuza",
+      "hash": "cba275e019144a80dd6f980f758017230e80f4dc",
+      "levelid": "custom_level_cba275e019144a80dd6f980f758017230e80f4dc"
     },
     {
-      "key": "46730",
-      "songName": "Tsumikusa - FOUND YOU",
-      "hash": "a6a5a09d23d83b09fdd1f103cb7e5a03f4a69f43",
-      "levelid": "custom_level_a6a5a09d23d83b09fdd1f103cb7e5a03f4a69f43"
+      "key": "467c0",
+      "songName": "トッケビの花",
+      "hash": "0c5b3da7f7d5f741dae157141118d9809efbb958",
+      "levelid": "custom_level_0c5b3da7f7d5f741dae157141118d9809efbb958"
     },
     {
-      "key": "4672d",
-      "songName": "XH, KYURO3, YUTRAZIUM - Reflection",
-      "hash": "9b0a377cd0e5f4cca649dd923dc29777a63d4c34",
-      "levelid": "custom_level_9b0a377cd0e5f4cca649dd923dc29777a63d4c34"
+      "key": "467c3",
+      "songName": "AiScReam",
+      "hash": "c97e07188934f0966e50c46d1fed9d14b46a80c3",
+      "levelid": "custom_level_c97e07188934f0966e50c46d1fed9d14b46a80c3"
     },
     {
-      "key": "4672b",
-      "songName": "色恋 feat. z²",
-      "hash": "e0650c66060c4107a0bca56ad44e25034213d632",
-      "levelid": "custom_level_e0650c66060c4107a0bca56ad44e25034213d632"
+      "key": "467c1",
+      "songName": "bbno$ - check",
+      "hash": "ca568b6194ed3bce474fceaafae36f8fd473480c",
+      "levelid": "custom_level_ca568b6194ed3bce474fceaafae36f8fd473480c"
     },
     {
-      "key": "46729",
-      "songName": "Theory of a Deadman-Bitch Came Back  (Poodles) ",
-      "hash": "b22d8932710a146f5082ebd452c890bf92d252f4",
-      "levelid": "custom_level_b22d8932710a146f5082ebd452c890bf92d252f4"
+      "key": "467bf",
+      "songName": "2nd Life, Svniivan & Drunken Bunny - Lost Control ｜ Nightcore ",
+      "hash": "ad9e3b2fdb72f5c3a76afa00596553a8a331aaa3",
+      "levelid": "custom_level_ad9e3b2fdb72f5c3a76afa00596553a8a331aaa3"
     },
     {
-      "key": "46728",
-      "songName": "BernardFrey - AniT.E.R.A.",
-      "hash": "49e38478d1f7396ef3eae972614debe4deee2975",
-      "levelid": "custom_level_49e38478d1f7396ef3eae972614debe4deee2975"
+      "key": "467b6",
+      "songName": "Steve's Lava Chicken OIIA Cat Cover",
+      "hash": "3162be4c86f2890f871734f83e93c690e225187e",
+      "levelid": "custom_level_3162be4c86f2890f871734f83e93c690e225187e"
     },
     {
-      "key": "46727",
-      "songName": "Jack Black - Ode to Dennis",
-      "hash": "be1b08d23eaa173112345670c349a4f3db6d8938",
-      "levelid": "custom_level_be1b08d23eaa173112345670c349a4f3db6d8938"
+      "key": "467be",
+      "songName": "DJ Mass MAD Izm* - Red. by Full Metal Jacket",
+      "hash": "8a59b8ad934e82d4adacd92c45e20145af04a133",
+      "levelid": "custom_level_8a59b8ad934e82d4adacd92c45e20145af04a133"
     },
     {
-      "key": "46723",
-      "songName": "Like the Movies by Eddy Crowley",
-      "hash": "20db757eb970c076f49a788d3bfae48232a424c7",
-      "levelid": "custom_level_20db757eb970c076f49a788d3bfae48232a424c7"
+      "key": "467ba",
+      "songName": "4'33\"",
+      "hash": "ad3ad3aa8b966c834e7d17bd4f8dba2699fa6d24",
+      "levelid": "custom_level_ad3ad3aa8b966c834e7d17bd4f8dba2699fa6d24"
     },
     {
-      "key": "46716",
-      "songName": "joz - I Can't See",
-      "hash": "86dbc0ed5e96f03c17b36f8fcb1948538c1469f0",
-      "levelid": "custom_level_86dbc0ed5e96f03c17b36f8fcb1948538c1469f0"
+      "key": "467b2",
+      "songName": "Camellia - Tornado",
+      "hash": "4a4475395a17c6db6095c14fa5c0e6baa4a7a42c",
+      "levelid": "custom_level_4a4475395a17c6db6095c14fa5c0e6baa4a7a42c"
     },
     {
-      "key": "46715",
-      "songName": "DAN DA DAN",
-      "hash": "91b0f4876b7e0cd8180f43f6007e426c8de08afa",
-      "levelid": "custom_level_91b0f4876b7e0cd8180f43f6007e426c8de08afa"
+      "key": "467b1",
+      "songName": "Moment 7",
+      "hash": "490e439567fed08e3185e3cc7a1fe2e9b5b63520",
+      "levelid": "custom_level_490e439567fed08e3185e3cc7a1fe2e9b5b63520"
     },
     {
-      "key": "46712",
-      "songName": "Take 3 - Inner Wave",
-      "hash": "fdfe4de0f6cd612fa1e4dd8dddd0eaa08756a6aa",
-      "levelid": "custom_level_fdfe4de0f6cd612fa1e4dd8dddd0eaa08756a6aa"
+      "key": "467af",
+      "songName": "TS Again",
+      "hash": "3b3f02a24819df0bb72a02af5aad0f3cca19c9ee",
+      "levelid": "custom_level_3b3f02a24819df0bb72a02af5aad0f3cca19c9ee"
     },
     {
-      "key": "46711",
-      "songName": "Fox Stevenson - Curtain Call",
-      "hash": "d828b1a3a28c368a6e7756c04813724d514515fd",
-      "levelid": "custom_level_d828b1a3a28c368a6e7756c04813724d514515fd"
+      "key": "46733",
+      "songName": "Secret Acid World",
+      "hash": "6a027112fc829a86394943674e951f7675023c13",
+      "levelid": "custom_level_6a027112fc829a86394943674e951f7675023c13"
     },
     {
-      "key": "4670f",
-      "songName": "LoonBoon",
-      "hash": "79fd907a2cc8a90914d2c448b680c9231969097e",
-      "levelid": "custom_level_79fd907a2cc8a90914d2c448b680c9231969097e"
+      "key": "467ac",
+      "songName": "[V3] Nanashi Mumei - Gravity",
+      "hash": "a1ae69891561921d329710fe95e75c52a1d59725",
+      "levelid": "custom_level_a1ae69891561921d329710fe95e75c52a1d59725"
     },
     {
-      "key": "4670e",
-      "songName": "UNIS - SWICY",
-      "hash": "3ddfb7ea2ce6fd7ee50ead9f5e9079e3b63fa460",
-      "levelid": "custom_level_3ddfb7ea2ce6fd7ee50ead9f5e9079e3b63fa460"
+      "key": "467aa",
+      "songName": "春先、終着駅、花と散る",
+      "hash": "8bf2103c8aa697bb30b3bdc383a01e1e78d3aabf",
+      "levelid": "custom_level_8bf2103c8aa697bb30b3bdc383a01e1e78d3aabf"
     },
     {
-      "key": "4670d",
-      "songName": "Deadlocked",
-      "hash": "ffa98749d9b621661d51b4092d981ec2bf6f999f",
-      "levelid": "custom_level_ffa98749d9b621661d51b4092d981ec2bf6f999f"
+      "key": "46788",
+      "songName": "Potata",
+      "hash": "bd1dea60b9db72c1cacd3e536afa752b361692dc",
+      "levelid": "custom_level_bd1dea60b9db72c1cacd3e536afa752b361692dc"
     },
     {
-      "key": "46707",
-      "songName": "Isabel LaRosa - Destroy Myself For You",
-      "hash": "63e0974e00b1c0cb21378661ab53b0914b2f0393",
-      "levelid": "custom_level_63e0974e00b1c0cb21378661ab53b0914b2f0393"
+      "key": "467a8",
+      "songName": "nope your too late",
+      "hash": "1632e21f3456e52f3d1f9fc5279080e95c33c35c",
+      "levelid": "custom_level_1632e21f3456e52f3d1f9fc5279080e95c33c35c"
     },
     {
-      "key": "46703",
-      "songName": "M@GICAL CURE! LOVE SHOT!",
-      "hash": "d66d070c998c3365ad9cc956deb9a69f39604a7a",
-      "levelid": "custom_level_d66d070c998c3365ad9cc956deb9a69f39604a7a"
+      "key": "467a7",
+      "songName": "[JB1H] BanYa - My Way",
+      "hash": "d8e9e9e47287e10b9404eda7cadb32faf726deb8",
+      "levelid": "custom_level_d8e9e9e47287e10b9404eda7cadb32faf726deb8"
     },
     {
-      "key": "46702",
-      "songName": "Scheming Weasel tehehe",
-      "hash": "1cea8133fe03285ddc744b4463ae9b3689b5bcb2",
-      "levelid": "custom_level_1cea8133fe03285ddc744b4463ae9b3689b5bcb2"
+      "key": "467a6",
+      "songName": "fall damage",
+      "hash": "5c396c615820d5e29386c11f96373d6ba30ba08d",
+      "levelid": "custom_level_5c396c615820d5e29386c11f96373d6ba30ba08d"
     },
     {
-      "key": "466fe",
-      "songName": "Frank's Lava Monkey",
-      "hash": "371e1680d76573d5d9ee41307ed6bb1540311ea0",
-      "levelid": "custom_level_371e1680d76573d5d9ee41307ed6bb1540311ea0"
+      "key": "467a4",
+      "songName": "part22 - Paulie Leparik",
+      "hash": "ce4739ec39095ce5cd9d03a938312786a8d95121",
+      "levelid": "custom_level_ce4739ec39095ce5cd9d03a938312786a8d95121"
     },
     {
-      "key": "466fd",
-      "songName": "Tralalero Tralala",
-      "hash": "8ddff34f667f3b9fa22fd4b1b1cfcc3a0145c096",
-      "levelid": "custom_level_8ddff34f667f3b9fa22fd4b1b1cfcc3a0145c096"
+      "key": "467a2",
+      "songName": "Zagnova's Beat Saber Warm Up",
+      "hash": "ac015c65879515a952aeaea6a6aa9ee1bc3fbe54",
+      "levelid": "custom_level_ac015c65879515a952aeaea6a6aa9ee1bc3fbe54"
     },
     {
-      "key": "466fa",
-      "songName": "desert",
-      "hash": "3cd3632a53c09601002fd0e0e256e20d50a7b934",
-      "levelid": "custom_level_3cd3632a53c09601002fd0e0e256e20d50a7b934"
+      "key": "4679f",
+      "songName": "24 - tripleS",
+      "hash": "aacaaaa42c3c5b32f76465dfe393d0028687680d",
+      "levelid": "custom_level_aacaaaa42c3c5b32f76465dfe393d0028687680d"
     },
     {
-      "key": "466f9",
-      "songName": "testr 2",
-      "hash": "1c0af7fd703d94f78f662c4e4afb74cce7da4ff6",
-      "levelid": "custom_level_1c0af7fd703d94f78f662c4e4afb74cce7da4ff6"
+      "key": "4679d",
+      "songName": "Solid Ground - Kaskade",
+      "hash": "46880ebedf1eac67d726384ee2cc48ed814ee543",
+      "levelid": "custom_level_46880ebedf1eac67d726384ee2cc48ed814ee543"
     },
     {
-      "key": "466f7",
-      "songName": "lot of me",
-      "hash": "8d01ef675948230a2d582dd8cd148a450dc78c72",
-      "levelid": "custom_level_8d01ef675948230a2d582dd8cd148a450dc78c72"
+      "key": "4679b",
+      "songName": "LIBI跳楼机",
+      "hash": "afdcd23a9cb4000fd1314c675fa3da035dc67693",
+      "levelid": "custom_level_afdcd23a9cb4000fd1314c675fa3da035dc67693"
     },
     {
-      "key": "466f6",
-      "songName": "Sason Ifram Shaulov - Tamid Ohev Oti | ששון איפרם שאולוב - תמיד אוהב אותי",
-      "hash": "3f87836e49db9b60355a020e4ac5ccd7a6d2ac75",
-      "levelid": "custom_level_3f87836e49db9b60355a020e4ac5ccd7a6d2ac75"
+      "key": "46798",
+      "songName": "Camellia - Chirality (\"Dissymmetric\" Long ver.)",
+      "hash": "239b91e5501bf5a9de563f03c62f6c9d28edb403",
+      "levelid": "custom_level_239b91e5501bf5a9de563f03c62f6c9d28edb403"
     },
     {
-      "key": "46238",
-      "songName": "Bloodywood - Bekhauf (feat. BABYMETAL)",
-      "hash": "5800baca98ba4f4c63b91603d48e2f5152ac3e7d",
-      "levelid": "custom_level_5800baca98ba4f4c63b91603d48e2f5152ac3e7d"
+      "key": "46796",
+      "songName": "Teto territory",
+      "hash": "3cdb98b8c5a7745263f059711dea5e40efb4dd82",
+      "levelid": "custom_level_3cdb98b8c5a7745263f059711dea5e40efb4dd82"
     },
     {
-      "key": "466f4",
-      "songName": "EZFG - Glucagon (feat. Megurine Luka)",
-      "hash": "0a496ba86a38f179a927750a2720612d36b7b6ec",
-      "levelid": "custom_level_0a496ba86a38f179a927750a2720612d36b7b6ec"
+      "key": "46794",
+      "songName": "what the fuck",
+      "hash": "e86743542090282fa57ae05bc477b2c1024d988b",
+      "levelid": "custom_level_e86743542090282fa57ae05bc477b2c1024d988b"
     },
     {
-      "key": "466df",
-      "songName": "レイジーモーニング - THE BINARY",
-      "hash": "e2324fb826f8d608cd656c287324baac3440bc8e",
-      "levelid": "custom_level_e2324fb826f8d608cd656c287324baac3440bc8e"
+      "key": "4678f",
+      "songName": "Trap Royalty",
+      "hash": "7d9e7c2cd561f11c31c543025ef00875f5d7ac01",
+      "levelid": "custom_level_7d9e7c2cd561f11c31c543025ef00875f5d7ac01"
+    },
+    {
+      "key": "4678e",
+      "songName": "Ru Suek Mai - Z-MYX",
+      "hash": "f776594bbbefbae17bc0393a0b78df10b4fba55c",
+      "levelid": "custom_level_f776594bbbefbae17bc0393a0b78df10b4fba55c"
+    },
+    {
+      "key": "4678d",
+      "songName": "Deuk Laew - Z-MYX",
+      "hash": "4bc2743f61a7bc16c4a160d17834d8acada386a2",
+      "levelid": "custom_level_4bc2743f61a7bc16c4a160d17834d8acada386a2"
+    },
+    {
+      "key": "4678c",
+      "songName": "Lom Hai Jai - Z-MYX",
+      "hash": "458aaa2f13a53ba4174b62c3105dd9f029d2b65a",
+      "levelid": "custom_level_458aaa2f13a53ba4174b62c3105dd9f029d2b65a"
+    },
+    {
+      "key": "4678a",
+      "songName": "dentalstonk - CHEESE POWERED NUCLEAR BOMB",
+      "hash": "6846f0a7afa75fb75b48455859fd2ce9d78caabe",
+      "levelid": "custom_level_6846f0a7afa75fb75b48455859fd2ce9d78caabe"
+    },
+    {
+      "key": "46786",
+      "songName": "Four Jews In A Room Bitching",
+      "hash": "63bf718245a812714fa0a8b52098e99c39b50cb9",
+      "levelid": "custom_level_63bf718245a812714fa0a8b52098e99c39b50cb9"
+    },
+    {
+      "key": "46785",
+      "songName": "[Latin Dance] Bulova: El Nino",
+      "hash": "fcf4a0bbd1295c429f11b0139bd03718f6778979",
+      "levelid": "custom_level_fcf4a0bbd1295c429f11b0139bd03718f6778979"
+    },
+    {
+      "key": "46784",
+      "songName": "asteria - i didn't need you anyway",
+      "hash": "03b459c829a35e948119ea63ea2cb5d67288861a",
+      "levelid": "custom_level_03b459c829a35e948119ea63ea2cb5d67288861a"
+    },
+    {
+      "key": "46780",
+      "songName": "Painting Greys",
+      "hash": "354fd9c04b7eb4f846401141bff26255ce328b17",
+      "levelid": "custom_level_354fd9c04b7eb4f846401141bff26255ce328b17"
+    },
+    {
+      "key": "4677c",
+      "songName": "Sennou - MEDA/染脳",
+      "hash": "59191a9fb4b48d5026b57dad3bf3305ae33ce45c",
+      "levelid": "custom_level_59191a9fb4b48d5026b57dad3bf3305ae33ce45c"
+    },
+    {
+      "key": "4677b",
+      "songName": "Madelline - dopamine (French + English)",
+      "hash": "f2bc74d10ba250318b253add5497e9384f6ef491",
+      "levelid": "custom_level_f2bc74d10ba250318b253add5497e9384f6ef491"
+    },
+    {
+      "key": "4677a",
+      "songName": "italian brainrot song",
+      "hash": "d1b4f3c270d789529d968632bbec1c7f1123e0bd",
+      "levelid": "custom_level_d1b4f3c270d789529d968632bbec1c7f1123e0bd"
     }
   ],
   "image": ""
