@@ -1,280 +1,196 @@
 {
-  "playlistTitle": "2025-05-04T15:18:48.333Z~2025-05-05T15:18:48.333Z",
+  "playlistTitle": "2025-05-05T15:18:47.849Z~2025-05-06T15:18:47.849Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-05-04T15:18:48.333Z and 2025-05-05T15:18:48.333Z",
+  "discripstion": "Maps published between 2025-05-05T15:18:47.849Z and 2025-05-06T15:18:47.849Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "46ac3",
-      "songName": "JENNIE - ZEN",
-      "hash": "0edb7904af43b4ff3b377703080cd361a56c21e8",
-      "levelid": "custom_level_0edb7904af43b4ff3b377703080cd361a56c21e8"
+      "key": "46b0b",
+      "songName": "Spin Eternally",
+      "hash": "b83fc03e35c6976e5498133d0adca405fca27c1e",
+      "levelid": "custom_level_b83fc03e35c6976e5498133d0adca405fca27c1e"
     },
     {
-      "key": "46ac0",
-      "songName": "Stand Tall",
-      "hash": "3f9874b315e2874c535abc969fd02935d72c2527",
-      "levelid": "custom_level_3f9874b315e2874c535abc969fd02935d72c2527"
+      "key": "46b09",
+      "songName": "M2U - Marigold (feat. Guriri)",
+      "hash": "f895430870fab185aeae489ff0b05e98ef316968",
+      "levelid": "custom_level_f895430870fab185aeae489ff0b05e98ef316968"
     },
     {
-      "key": "46abe",
-      "songName": "Milkychan - Moechakkafire [German Cover]",
-      "hash": "e70c4a1e686c6ec20a67988dd2ffca1fecf8fe1f",
-      "levelid": "custom_level_e70c4a1e686c6ec20a67988dd2ffca1fecf8fe1f"
+      "key": "46aee",
+      "songName": "I Can't See",
+      "hash": "47728b5bcad4f4516b9e5ce7c05582ca6339ad88",
+      "levelid": "custom_level_47728b5bcad4f4516b9e5ce7c05582ca6339ad88"
     },
     {
-      "key": "46abd",
-      "songName": "Home alone beat",
-      "hash": "b7cde474d0526dc5b6400f42530f345322e2104e",
-      "levelid": "custom_level_b7cde474d0526dc5b6400f42530f345322e2104e"
+      "key": "46af7",
+      "songName": "Caramel - Visszavagyom",
+      "hash": "e0948a1abb7f5a6026feb378de2967f54604f7ce",
+      "levelid": "custom_level_e0948a1abb7f5a6026feb378de2967f54604f7ce"
     },
     {
-      "key": "46abc",
-      "songName": "BoyToy - Halle Abadi",
-      "hash": "cc4c3ada689313c809ba48bb2b45b04fa5764047",
-      "levelid": "custom_level_cc4c3ada689313c809ba48bb2b45b04fa5764047"
+      "key": "46af6",
+      "songName": "Crankdat - Whiplash (feat. SOFI)",
+      "hash": "0254fe9277de31c70e193f8d4348be13498ff135",
+      "levelid": "custom_level_0254fe9277de31c70e193f8d4348be13498ff135"
     },
     {
-      "key": "46abb",
-      "songName": "[QUEUE] Seiryu - AO-Infinity",
-      "hash": "85566f0f061055d6a5a79b3660347a6de8a213e3",
-      "levelid": "custom_level_85566f0f061055d6a5a79b3660347a6de8a213e3"
+      "key": "46af0",
+      "songName": "triple 3 ",
+      "hash": "37c0cc5afa0150206d6a509fc2fb2038ea33fdb4",
+      "levelid": "custom_level_37c0cc5afa0150206d6a509fc2fb2038ea33fdb4"
     },
     {
-      "key": "46aba",
-      "songName": "I Got No Time",
-      "hash": "bb97b9a3a2383f864db7595af07ef98b215f0ab8",
-      "levelid": "custom_level_bb97b9a3a2383f864db7595af07ef98b215f0ab8"
+      "key": "46aef",
+      "songName": "猫娘",
+      "hash": "4e24754a315baca0a0f610aafabb4f81ed9da9e2",
+      "levelid": "custom_level_4e24754a315baca0a0f610aafabb4f81ed9da9e2"
     },
     {
-      "key": "46ab8",
-      "songName": "chess",
-      "hash": "4cf4ef02d77eb1a36d46bec1251b5f0efa12d50f",
-      "levelid": "custom_level_4cf4ef02d77eb1a36d46bec1251b5f0efa12d50f"
+      "key": "46aed",
+      "songName": " Virtuous Cycle",
+      "hash": "6a243a3157be2765eb7598bc822ff21f72dcd50c",
+      "levelid": "custom_level_6a243a3157be2765eb7598bc822ff21f72dcd50c"
     },
     {
-      "key": "46aaf",
-      "songName": "Aitana - Somos 2 extraños",
-      "hash": "dcc006f05bbe64a5b41164793ea9cdd3ace449fa",
-      "levelid": "custom_level_dcc006f05bbe64a5b41164793ea9cdd3ace449fa"
+      "key": "46aec",
+      "songName": "Chinese Tattoo",
+      "hash": "ea9309bb527c3e80c03e97377429d178dd1dda6a",
+      "levelid": "custom_level_ea9309bb527c3e80c03e97377429d178dd1dda6a"
     },
     {
-      "key": "46aad",
-      "songName": "Aitana - Ahora que ya no estas",
-      "hash": "e2d8e3a679ebf69fdfb871b35e6d5975b04b8b90",
-      "levelid": "custom_level_e2d8e3a679ebf69fdfb871b35e6d5975b04b8b90"
+      "key": "46aeb",
+      "songName": "Starlight",
+      "hash": "63cf602ed2a762242883bd17cff5e4f11bf7d5d7",
+      "levelid": "custom_level_63cf602ed2a762242883bd17cff5e4f11bf7d5d7"
     },
     {
-      "key": "46aac",
-      "songName": "INERTIA by Sawano Hiroyuki[nZk]:Rei",
-      "hash": "bef1f2b5615e3d2f7a8d366d335fff6d77edf57c",
-      "levelid": "custom_level_bef1f2b5615e3d2f7a8d366d335fff6d77edf57c"
+      "key": "46ae8",
+      "songName": "[BLEED BLOOD]",
+      "hash": "3bb01f1670ea26c162f9d640a13188ca204714e1",
+      "levelid": "custom_level_3bb01f1670ea26c162f9d640a13188ca204714e1"
     },
     {
-      "key": "46aab",
-      "songName": "Emilia & Tini - La Original",
-      "hash": "88cc38dad5d2d7dca881052b13a3880019fd7965",
-      "levelid": "custom_level_88cc38dad5d2d7dca881052b13a3880019fd7965"
+      "key": "46ae7",
+      "songName": "Getty, DJ DiA - Antifront Gears (BlackYooh Remix)",
+      "hash": "a30077304cd326397f019d3346e3940ceaf59e18",
+      "levelid": "custom_level_a30077304cd326397f019d3346e3940ceaf59e18"
     },
     {
-      "key": "46aaa",
-      "songName": "Ana Mena - Madrid City",
-      "hash": "e3cbb0b4f746bd993981c90acd0cb79bb40a569a",
-      "levelid": "custom_level_e3cbb0b4f746bd993981c90acd0cb79bb40a569a"
+      "key": "46ae1",
+      "songName": "Yababaina ",
+      "hash": "29dc777320f3f11fde37ffd574d3660af22c07d3",
+      "levelid": "custom_level_29dc777320f3f11fde37ffd574d3660af22c07d3"
     },
     {
-      "key": "46aa8",
-      "songName": "Robert Miles - Fable",
-      "hash": "0826b917629c9660ea7cb43efa8c37f92fe03894",
-      "levelid": "custom_level_0826b917629c9660ea7cb43efa8c37f92fe03894"
+      "key": "46ae0",
+      "songName": "scream into the camera v5",
+      "hash": "a2269ddd00af8ec01b4747ebd64d4e3962a56071",
+      "levelid": "custom_level_a2269ddd00af8ec01b4747ebd64d4e3962a56071"
     },
     {
-      "key": "46aa1",
-      "songName": "DJ toenail v2 on the track",
-      "hash": "3d84772b29478826f2c2ae905a41a19e437da496",
-      "levelid": "custom_level_3d84772b29478826f2c2ae905a41a19e437da496"
+      "key": "46adc",
+      "songName": "TRAELMYX - MORE STITCHES",
+      "hash": "d0c2fdbdf20ca2d511b0aab5d4d31df5f8d8a836",
+      "levelid": "custom_level_d0c2fdbdf20ca2d511b0aab5d4d31df5f8d8a836"
     },
     {
-      "key": "46aa0",
-      "songName": "GALNERYUS - Raise My Sword (Cut Short Version)",
-      "hash": "f70a9eaee76c7e044a7e839642341627e168f9f8",
-      "levelid": "custom_level_f70a9eaee76c7e044a7e839642341627e168f9f8"
+      "key": "46adb",
+      "songName": "sad",
+      "hash": "e85c8eb09ac6f97fb33ac49d9f496f7f0e1bbf7b",
+      "levelid": "custom_level_e85c8eb09ac6f97fb33ac49d9f496f7f0e1bbf7b"
     },
     {
-      "key": "46a9f",
-      "songName": "Clawfinger - Nigger",
-      "hash": "dece04576c7300afdfcca87938da44c5ff04afbd",
-      "levelid": "custom_level_dece04576c7300afdfcca87938da44c5ff04afbd"
+      "key": "46ada",
+      "songName": "idk",
+      "hash": "3c0ceb227be0ecea78f3fa8967ae49f3718ca491",
+      "levelid": "custom_level_3c0ceb227be0ecea78f3fa8967ae49f3718ca491"
     },
     {
-      "key": "46a9e",
-      "songName": "DJ Myosuke feat. tsugu - Sacrifice of Fools",
-      "hash": "0d86819b7d42b570f5ea0a0e3442f2a903f6a64f",
-      "levelid": "custom_level_0d86819b7d42b570f5ea0a0e3442f2a903f6a64f"
+      "key": "46ad9",
+      "songName": "r u s s e l b u c k - FLY WITH ME",
+      "hash": "91cc93c6d5208b4b5c44df740d68f61361491bbb",
+      "levelid": "custom_level_91cc93c6d5208b4b5c44df740d68f61361491bbb"
     },
     {
-      "key": "46a9d",
-      "songName": "Breaking Phonk",
-      "hash": "f99f8d34a8211fe8bff04df0970989f9c8fb36a6",
-      "levelid": "custom_level_f99f8d34a8211fe8bff04df0970989f9c8fb36a6"
+      "key": "46ad8",
+      "songName": "crush - retz",
+      "hash": "02a32aeecf92b414d6c46ed2cf6e82bc549e5820",
+      "levelid": "custom_level_02a32aeecf92b414d6c46ed2cf6e82bc549e5820"
     },
     {
-      "key": "46a9c",
-      "songName": "Plan A - DISH//",
-      "hash": "d4f57af4b432f145c3d8c783fcd8a7d6e902ba9e",
-      "levelid": "custom_level_d4f57af4b432f145c3d8c783fcd8a7d6e902ba9e"
+      "key": "46ad5",
+      "songName": "The Living Tombstone - Five Nights At Freddy's (10th Anniversary Orchestral Special)",
+      "hash": "6382b965435297b68cf3d16d5683fe3097211e00",
+      "levelid": "custom_level_6382b965435297b68cf3d16d5683fe3097211e00"
     },
     {
-      "key": "46a97",
-      "songName": "Breaking Benjamin - Had Enough",
-      "hash": "c6b782cf5232a5c8d79dc9a37281265e6c5b813e",
-      "levelid": "custom_level_c6b782cf5232a5c8d79dc9a37281265e6c5b813e"
+      "key": "46ad4",
+      "songName": "[4YMA] Deekey - It's Love",
+      "hash": "7e2a833dcf5c62671a6fdd192ef194d252052955",
+      "levelid": "custom_level_7e2a833dcf5c62671a6fdd192ef194d252052955"
     },
     {
-      "key": "46a96",
-      "songName": "cloudyfield - is that love? (Oblivios Frenchcore Bootleg)",
-      "hash": "4c3824947e5a6a2447bbdf96dea6cb0513ec972c",
-      "levelid": "custom_level_4c3824947e5a6a2447bbdf96dea6cb0513ec972c"
+      "key": "46ad3",
+      "songName": "Il - L - THE EARTH (feat. amelie xoxo)",
+      "hash": "b6fa7f7bcfcbc4cb8a6130ea13f9994ef59ab3aa",
+      "levelid": "custom_level_b6fa7f7bcfcbc4cb8a6130ea13f9994ef59ab3aa"
     },
     {
-      "key": "46a95",
-      "songName": "re6ce - eyebags",
-      "hash": "44161eac72fa40187124424adf5676d84e536e79",
-      "levelid": "custom_level_44161eac72fa40187124424adf5676d84e536e79"
+      "key": "46ad1",
+      "songName": "Beatbox",
+      "hash": "7dc281642e2607f5b7284612aa69166de0721822",
+      "levelid": "custom_level_7dc281642e2607f5b7284612aa69166de0721822"
     },
     {
-      "key": "46a94",
-      "songName": "Skrillex - SAY GOODBYE",
-      "hash": "3dafa05d985b365494397aa2abda758bd5bd8070",
-      "levelid": "custom_level_3dafa05d985b365494397aa2abda758bd5bd8070"
+      "key": "46ad0",
+      "songName": "Y2K, bbno$ Lalala  (Poodle)",
+      "hash": "d9fc3605ebddb2e6bcd1db5711f6096f5859145a",
+      "levelid": "custom_level_d9fc3605ebddb2e6bcd1db5711f6096f5859145a"
     },
     {
-      "key": "46a93",
-      "songName": "fu e n a me 3333333333333333333",
-      "hash": "9ec42f7288b67038ed79eb3847a809cafef3c1f9",
-      "levelid": "custom_level_9ec42f7288b67038ed79eb3847a809cafef3c1f9"
+      "key": "46acf",
+      "songName": "DJ toenail",
+      "hash": "0fc7c450ca29bae4880bb02a4e627f93de6744a9",
+      "levelid": "custom_level_0fc7c450ca29bae4880bb02a4e627f93de6744a9"
     },
     {
-      "key": "46a92",
-      "songName": "Cool patterns 9",
-      "hash": "86fb317c8a3665dcedacdf1ee32e3a71191dd36d",
-      "levelid": "custom_level_86fb317c8a3665dcedacdf1ee32e3a71191dd36d"
+      "key": "46aca",
+      "songName": "The Seeking - Restless",
+      "hash": "9a1aa7571e8b3fa969bf906accf66619f9c31707",
+      "levelid": "custom_level_9a1aa7571e8b3fa969bf906accf66619f9c31707"
     },
     {
-      "key": "46a91",
-      "songName": "Raeves turns into masonna",
-      "hash": "c82d077386bf6ddca35bc373bff43f3ef135f551",
-      "levelid": "custom_level_c82d077386bf6ddca35bc373bff43f3ef135f551"
+      "key": "46ac8",
+      "songName": "Buster Nalmi - When I use it",
+      "hash": "8fc77d99a0abb68ba2e1f0b773184dfca0439c25",
+      "levelid": "custom_level_8fc77d99a0abb68ba2e1f0b773184dfca0439c25"
     },
     {
-      "key": "46a90",
-      "songName": "rock n meep",
-      "hash": "2b17c3ac2456c0ff5a84b459fec4e4ea6730d424",
-      "levelid": "custom_level_2b17c3ac2456c0ff5a84b459fec4e4ea6730d424"
+      "key": "46ac9",
+      "songName": "Believers-ING!!",
+      "hash": "19b7836b8ca6bf08535a87578f4fce247e0946a7",
+      "levelid": "custom_level_19b7836b8ca6bf08535a87578f4fce247e0946a7"
     },
     {
-      "key": "46a8f",
-      "songName": "heaven",
-      "hash": "0ac20965d04dae7ee56534c5ac4e478f25666bc1",
-      "levelid": "custom_level_0ac20965d04dae7ee56534c5ac4e478f25666bc1"
+      "key": "46ac6",
+      "songName": "ILUMILAND - Дичь",
+      "hash": "f873be5bab746c42e1d118b9e9adf58ecf7d1a08",
+      "levelid": "custom_level_f873be5bab746c42e1d118b9e9adf58ecf7d1a08"
     },
     {
-      "key": "46a8e",
-      "songName": "lad of fier",
-      "hash": "9380418e800d804f2d6e424dba3af8ef2d050826",
-      "levelid": "custom_level_9380418e800d804f2d6e424dba3af8ef2d050826"
+      "key": "46ac5",
+      "songName": "Dat Politics - Turn My Brain Off",
+      "hash": "988c8984d7c85b54ff925d638fac03b132adf2cf",
+      "levelid": "custom_level_988c8984d7c85b54ff925d638fac03b132adf2cf"
     },
     {
-      "key": "46a8c",
-      "songName": "E t h e r e a l",
-      "hash": "09cc8a7e0b07854ff22829ec5b80cb53774b5b30",
-      "levelid": "custom_level_09cc8a7e0b07854ff22829ec5b80cb53774b5b30"
-    },
-    {
-      "key": "46a89",
-      "songName": "scream into the camera v4",
-      "hash": "25e36f1025f4328f5deb18bc025355bdf86f9d2b",
-      "levelid": "custom_level_25e36f1025f4328f5deb18bc025355bdf86f9d2b"
-    },
-    {
-      "key": "46a59",
-      "songName": "seatrus - The Daybreak Will Never Come Again",
-      "hash": "0193bdbc4d383412b4eea482d331dbb46f52c0c2",
-      "levelid": "custom_level_0193bdbc4d383412b4eea482d331dbb46f52c0c2"
-    },
-    {
-      "key": "46a57",
-      "songName": "makko - Lichter Aus",
-      "hash": "c3b386d80664a2daadda50b573e2b59e33ddb0dc",
-      "levelid": "custom_level_c3b386d80664a2daadda50b573e2b59e33ddb0dc"
-    },
-    {
-      "key": "46a53",
-      "songName": "low njs test thing go brrrr",
-      "hash": "2774184f6babba22b1b108127beb36a70b4b71fe",
-      "levelid": "custom_level_2774184f6babba22b1b108127beb36a70b4b71fe"
-    },
-    {
-      "key": "46a52",
-      "songName": "HYPERCLOCKED",
-      "hash": "21299b6358cac018c55616f1da731ac10bb81aff",
-      "levelid": "custom_level_21299b6358cac018c55616f1da731ac10bb81aff"
-    },
-    {
-      "key": "46a51",
-      "songName": "fex - NOW we funkin'",
-      "hash": "5b277334d0ac66c570922543cebf3f05f10e809d",
-      "levelid": "custom_level_5b277334d0ac66c570922543cebf3f05f10e809d"
-    },
-    {
-      "key": "46a4f",
-      "songName": "DECO27 - Telepathy ",
-      "hash": "84c5f5fad10c9c5be669f661e6104fb370271b11",
-      "levelid": "custom_level_84c5f5fad10c9c5be669f661e6104fb370271b11"
-    },
-    {
-      "key": "46a4c",
-      "songName": "Britney Spears - Gimme More (Cut)",
-      "hash": "19e616f034b9f72b704297ff27fd92e01ac519e9",
-      "levelid": "custom_level_19e616f034b9f72b704297ff27fd92e01ac519e9"
-    },
-    {
-      "key": "46a4a",
-      "songName": "Hit The Road, Nickelback",
-      "hash": "e6d91a77c703ed2bdac2835ac8d42cd38c62338a",
-      "levelid": "custom_level_e6d91a77c703ed2bdac2835ac8d42cd38c62338a"
-    },
-    {
-      "key": "46a49",
-      "songName": "Boris - Wareruraido",
-      "hash": "e90f1f749216373572c536fc86e37187544c2379",
-      "levelid": "custom_level_e90f1f749216373572c536fc86e37187544c2379"
-    },
-    {
-      "key": "46a20",
-      "songName": "[4YMA] Andy Grammer - Love Myself",
-      "hash": "046b14dfad243db093ea79c9ae982a438a869670",
-      "levelid": "custom_level_046b14dfad243db093ea79c9ae982a438a869670"
-    },
-    {
-      "key": "46a43",
-      "songName": "Uranoid",
-      "hash": "f5957df71851b3475df68e25896a58b937fe9e47",
-      "levelid": "custom_level_f5957df71851b3475df68e25896a58b937fe9e47"
-    },
-    {
-      "key": "46938",
-      "songName": "[1.40+] Samuel Kim - Star Wars (Epic Cinematic Main Theme)",
-      "hash": "6b82f7490f1e1201ea15a90574c3d88242aab249",
-      "levelid": "custom_level_6b82f7490f1e1201ea15a90574c3d88242aab249"
-    },
-    {
-      "key": "46a42",
-      "songName": "scream into the camera v3 ",
-      "hash": "87b6f1dd4ea770f29ed4b0151e1ac672fd0d8231",
-      "levelid": "custom_level_87b6f1dd4ea770f29ed4b0151e1ac672fd0d8231"
+      "key": "46ac1",
+      "songName": "ライラック covered by Tamanoi Nana",
+      "hash": "d048d8f607049c18d8a8781f40eccee06e2de82b",
+      "levelid": "custom_level_d048d8f607049c18d8a8781f40eccee06e2de82b"
     }
   ],
   "image": ""
