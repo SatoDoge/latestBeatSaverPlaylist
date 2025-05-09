@@ -1,232 +1,262 @@
 {
-  "playlistTitle": "2025-05-07T15:18:48.183Z~2025-05-08T15:18:48.183Z",
+  "playlistTitle": "2025-05-08T15:18:48.338Z~2025-05-09T15:18:48.338Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-05-07T15:18:48.183Z and 2025-05-08T15:18:48.183Z",
+  "discripstion": "Maps published between 2025-05-08T15:18:48.338Z and 2025-05-09T15:18:48.338Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "46ba1",
-      "songName": "Hoshimachi Suisei - Caramel Pain",
-      "hash": "5eb2e0334345f852fbd884e2b66e61cb6b94bda6",
-      "levelid": "custom_level_5eb2e0334345f852fbd884e2b66e61cb6b94bda6"
+      "key": "46c29",
+      "songName": "Can you feel my heart???",
+      "hash": "76ed65e8862bdb621841c31c22894c6b0151623f",
+      "levelid": "custom_level_76ed65e8862bdb621841c31c22894c6b0151623f"
     },
     {
-      "key": "46b9d",
+      "key": "46c28",
+      "songName": "Three Days Grace -  Redemption ",
+      "hash": "b1388bf5c0d6617cfad07ad098d4490074db7fd7",
+      "levelid": "custom_level_b1388bf5c0d6617cfad07ad098d4490074db7fd7"
+    },
+    {
+      "key": "46c21",
+      "songName": "ericdoa - fool4love",
+      "hash": "986d9cfa724c8c43e31064619c39c82ae013932f",
+      "levelid": "custom_level_986d9cfa724c8c43e31064619c39c82ae013932f"
+    },
+    {
+      "key": "46c1f",
+      "songName": "琴葉姉妹『アラジン』",
+      "hash": "ec9ce1deedb64631a0caec6f33d64be0f6df388a",
+      "levelid": "custom_level_ec9ce1deedb64631a0caec6f33d64be0f6df388a"
+    },
+    {
+      "key": "46b61",
+      "songName": "Shinryaku the Chariots VII(TV Size)[Platinumhugen Ordian Opening]",
+      "hash": "60a87ec8510516c3201be9a13ced58489058c2c1",
+      "levelid": "custom_level_60a87ec8510516c3201be9a13ced58489058c2c1"
+    },
+    {
+      "key": "46c16",
+      "songName": "Cherry Blossom (Interlude) - Ujico*",
+      "hash": "1d38b2a9c2ea9caadc29badb06bc4fda938dd696",
+      "levelid": "custom_level_1d38b2a9c2ea9caadc29badb06bc4fda938dd696"
+    },
+    {
+      "key": "46c15",
+      "songName": "EVERYTHING MUST GO - Tyler, The Creator",
+      "hash": "86ca02e063cb9313dc94fad01a87bf682918606f",
+      "levelid": "custom_level_86ca02e063cb9313dc94fad01a87bf682918606f"
+    },
+    {
+      "key": "46c11",
+      "songName": "NBSPLV - The Lost Soul Down",
+      "hash": "c15c8614d5b3914c10f8a2a2af7335316bb7500d",
+      "levelid": "custom_level_c15c8614d5b3914c10f8a2a2af7335316bb7500d"
+    },
+    {
+      "key": "46c0f",
+      "songName": "Natsuyama Yotsugi - Digital Magical (feat. Kasane Teto SV)",
+      "hash": "76798e86263036042849e8063f21c0ca1f689462",
+      "levelid": "custom_level_76798e86263036042849e8063f21c0ca1f689462"
+    },
+    {
+      "key": "46b8d",
+      "songName": "dd",
+      "hash": "d2a1a024b33099a99684dd650060987e0487c560",
+      "levelid": "custom_level_d2a1a024b33099a99684dd650060987e0487c560"
+    },
+    {
+      "key": "46c03",
+      "songName": " rouri404 - chainsaw",
+      "hash": "cce7ffc437acc3d64d1a4776bbbeb2cff7a55ad2",
+      "levelid": "custom_level_cce7ffc437acc3d64d1a4776bbbeb2cff7a55ad2"
+    },
+    {
+      "key": "46bfd",
+      "songName": "The Drug In Me Is You",
+      "hash": "700c04ad18ca428636c52b026625a663b8ac30db",
+      "levelid": "custom_level_700c04ad18ca428636c52b026625a663b8ac30db"
+    },
+    {
+      "key": "46bfc",
+      "songName": "To Soar NERFED  - Aoi with mAoA9 ",
+      "hash": "8d9c7064c176cdfacfbcb8c7c00070721865c007",
+      "levelid": "custom_level_8d9c7064c176cdfacfbcb8c7c00070721865c007"
+    },
+    {
+      "key": "46897",
+      "songName": "Russkaja - Kartuli Vino",
+      "hash": "7cb10d34765c5d9f44048169eff65e646da41276",
+      "levelid": "custom_level_7cb10d34765c5d9f44048169eff65e646da41276"
+    },
+    {
+      "key": "46bf6",
+      "songName": "DJ Akademiks Computer Breaks Down on Livestream",
+      "hash": "226c04583b518e757c4fd4343b48874e5cd8a3b6",
+      "levelid": "custom_level_226c04583b518e757c4fd4343b48874e5cd8a3b6"
+    },
+    {
+      "key": "46bf5",
+      "songName": "YOASOBI - Yuusha",
+      "hash": "55f3e8807def8381432f82ed52bf18689c020b6d",
+      "levelid": "custom_level_55f3e8807def8381432f82ed52bf18689c020b6d"
+    },
+    {
+      "key": "46bf3",
+      "songName": "Honeyworks feat. HaKoniwalily - Shitsumon, Koitte Nan Deshou Ka?  [From 男女の友情は成立する？（いや、しないっ!! ) / Danjoru?]",
+      "hash": "c4ea1c765f4f071fa16d8756203109e51410146a",
+      "levelid": "custom_level_c4ea1c765f4f071fa16d8756203109e51410146a"
+    },
+    {
+      "key": "46bf2",
+      "songName": "MINDWARP",
+      "hash": "08eeca8b50d41b86ea1a4502f93074a2bf80fe94",
+      "levelid": "custom_level_08eeca8b50d41b86ea1a4502f93074a2bf80fe94"
+    },
+    {
+      "key": "46bed",
+      "songName": "DON'T YOU TOUCH MY DONUT!",
+      "hash": "9f701fee4bb6b32946e3fc204250b2d6b201a898",
+      "levelid": "custom_level_9f701fee4bb6b32946e3fc204250b2d6b201a898"
+    },
+    {
+      "key": "46beb",
+      "songName": "I like to kill people for fun",
+      "hash": "d58ad55130c8b848eecfa3fa6f7754080bb38cef",
+      "levelid": "custom_level_d58ad55130c8b848eecfa3fa6f7754080bb38cef"
+    },
+    {
+      "key": "46be7",
+      "songName": "rouri404 - impotent",
+      "hash": "4ea6d5bd5ef2c38b2310348cdb7aeab5e3c017b7",
+      "levelid": "custom_level_4ea6d5bd5ef2c38b2310348cdb7aeab5e3c017b7"
+    },
+    {
+      "key": "46be0",
+      "songName": "P.O.D - I Got That",
+      "hash": "3373786510cd714fd2cfa6a4e177d901320bfb02",
+      "levelid": "custom_level_3373786510cd714fd2cfa6a4e177d901320bfb02"
+    },
+    {
+      "key": "46bdf",
+      "songName": "EGOIST - Namae No Nai Kaibutsu",
+      "hash": "5abb96068ef3a9e491738e6a44ccb8db55a82eef",
+      "levelid": "custom_level_5abb96068ef3a9e491738e6a44ccb8db55a82eef"
+    },
+    {
+      "key": "46bdc",
+      "songName": "Habit (Short Ver.) - Rain Man & Krysta Youngs ",
+      "hash": "7586d62de4650a682de49370e5968db468e4a610",
+      "levelid": "custom_level_7586d62de4650a682de49370e5968db468e4a610"
+    },
+    {
+      "key": "46bd6",
+      "songName": "Pisces (Live Sessions) - Jinjer",
+      "hash": "b543c752434677ca93cd3eb61630fc816c3aa913",
+      "levelid": "custom_level_b543c752434677ca93cd3eb61630fc816c3aa913"
+    },
+    {
+      "key": "46bd5",
+      "songName": "Caking By The Bake",
+      "hash": "ee16160fe88641774b683259080c8bd779a15dc5",
+      "levelid": "custom_level_ee16160fe88641774b683259080c8bd779a15dc5"
+    },
+    {
+      "key": "46bcf",
+      "songName": "Building A Deck In Indiana",
+      "hash": "3b2d982ccb298f666a6054e9b0129be1383525e3",
+      "levelid": "custom_level_3b2d982ccb298f666a6054e9b0129be1383525e3"
+    },
+    {
+      "key": "46bce",
+      "songName": "Close To You",
+      "hash": "9872d45db933dd27f16e5fc952facda8f102603d",
+      "levelid": "custom_level_9872d45db933dd27f16e5fc952facda8f102603d"
+    },
+    {
+      "key": "46bcd",
+      "songName": "FNAF Beatbox meme vibro",
+      "hash": "0e5c0b833c63854f3e8f8f85a58c158c35d09b2e",
+      "levelid": "custom_level_0e5c0b833c63854f3e8f8f85a58c158c35d09b2e"
+    },
+    {
+      "key": "46bcc",
+      "songName": "ENNWAY - Purgatory's Assault",
+      "hash": "68f8d2b0480037077469e6b1555501c8b9142080",
+      "levelid": "custom_level_68f8d2b0480037077469e6b1555501c8b9142080"
+    },
+    {
+      "key": "46bcb",
+      "songName": "sudbath - brawler",
+      "hash": "fff7d3e47bec884a28094d8b47de0dba829ee0ad",
+      "levelid": "custom_level_fff7d3e47bec884a28094d8b47de0dba829ee0ad"
+    },
+    {
+      "key": "46bc8",
+      "songName": "[4YMA] Big & Rich feat. Gretchen Wilson - Fake ID",
+      "hash": "7172b45d16c25cdc8379ed5670c658936b79f409",
+      "levelid": "custom_level_7172b45d16c25cdc8379ed5670c658936b79f409"
+    },
+    {
+      "key": "46bc2",
+      "songName": "minnesota is a place that exists",
+      "hash": "0d3dbd0fb73dc8a69084f08cefac934116fe1896",
+      "levelid": "custom_level_0d3dbd0fb73dc8a69084f08cefac934116fe1896"
+    },
+    {
+      "key": "46bc0",
+      "songName": "Crystallized (K1llbot's Chipstep cover)",
+      "hash": "aeb44ec09aaa9add810a487b982bd03352f86534",
+      "levelid": "custom_level_aeb44ec09aaa9add810a487b982bd03352f86534"
+    },
+    {
+      "key": "46bbe",
+      "songName": "Cousins",
+      "hash": "9d62303f6a18c463bf869d2257a15d2ac3e44082",
+      "levelid": "custom_level_9d62303f6a18c463bf869d2257a15d2ac3e44082"
+    },
+    {
+      "key": "46bbb",
+      "songName": "RAY VOLPE - PAYBACK",
+      "hash": "aef8d9c1166602e65b564ed2922f49fd1970c2d1",
+      "levelid": "custom_level_aef8d9c1166602e65b564ed2922f49fd1970c2d1"
+    },
+    {
+      "key": "46bba",
+      "songName": "[Virtual Riot Pack Vol. 2] This Could Be Us - Virtual Riot",
+      "hash": "e083802845da2b0eb6849442a53e79faa261f9fe",
+      "levelid": "custom_level_e083802845da2b0eb6849442a53e79faa261f9fe"
+    },
+    {
+      "key": "46bb8",
+      "songName": "[V4 Collider] Twenty One Pilots - Oldies Station",
+      "hash": "9671488e9741e2303632ab5220eab3afe903b387",
+      "levelid": "custom_level_9671488e9741e2303632ab5220eab3afe903b387"
+    },
+    {
+      "key": "46bb5",
+      "songName": "A Child Like You",
+      "hash": "2e82e952fc6554399205c85f28e5bbaf1fd9c683",
+      "levelid": "custom_level_2e82e952fc6554399205c85f28e5bbaf1fd9c683"
+    },
+    {
+      "key": "46bb4",
       "songName": "Tick Tock - Joji",
-      "hash": "c556442d2dcc2aa33c666d4abe6707fd40409bca",
-      "levelid": "custom_level_c556442d2dcc2aa33c666d4abe6707fd40409bca"
+      "hash": "2c5cac025660e7909b98a2a7bb2e496f1b8cc13c",
+      "levelid": "custom_level_2c5cac025660e7909b98a2a7bb2e496f1b8cc13c"
     },
     {
-      "key": "46b99",
-      "songName": "HARRIS & FORD x ALEXANDER EDER - THERAPIE",
-      "hash": "8d095a68eadd40656b6f58f9111863a0d2b355ad",
-      "levelid": "custom_level_8d095a68eadd40656b6f58f9111863a0d2b355ad"
+      "key": "46bab",
+      "songName": "next to u",
+      "hash": "2847f8e31d57e55bdb9a50e68bc4a528c51f15b0",
+      "levelid": "custom_level_2847f8e31d57e55bdb9a50e68bc4a528c51f15b0"
     },
     {
-      "key": "46b97",
-      "songName": "Sexy Sexy,",
-      "hash": "50e9d30277e28cca8304c995cdfb04b4e82561c5",
-      "levelid": "custom_level_50e9d30277e28cca8304c995cdfb04b4e82561c5"
-    },
-    {
-      "key": "46b11",
-      "songName": "GO!GO! トリトン (GO!GO! Triton)",
-      "hash": "a7edf36977fddca31fed41cbc2578120d78e2515",
-      "levelid": "custom_level_a7edf36977fddca31fed41cbc2578120d78e2515"
-    },
-    {
-      "key": "46b8e",
-      "songName": "[Virtual Riot Pack Vol. 2] Dino Killer - Virtual riot",
-      "hash": "2db5b7cda4d278baf7ca71ece4f4074d5c0c0cc6",
-      "levelid": "custom_level_2db5b7cda4d278baf7ca71ece4f4074d5c0c0cc6"
-    },
-    {
-      "key": "46b8f",
-      "songName": "民主暴力主義葛西共和国連合 国歌斉唱",
-      "hash": "79c8702911a4902604b81b73bbd0b476f2b229a6",
-      "levelid": "custom_level_79c8702911a4902604b81b73bbd0b476f2b229a6"
-    },
-    {
-      "key": "46b8c",
-      "songName": "Shinku Hitomi Shimatani",
-      "hash": "c4252bc68ee58f4f39d3090acf5fe9f3084e8ce2",
-      "levelid": "custom_level_c4252bc68ee58f4f39d3090acf5fe9f3084e8ce2"
-    },
-    {
-      "key": "46b8a",
-      "songName": "Rivals",
-      "hash": "0104928e52626192ede1472e16beb124f159b353",
-      "levelid": "custom_level_0104928e52626192ede1472e16beb124f159b353"
-    },
-    {
-      "key": "46b8b",
-      "songName": "[Virtual Riot Pack Vol. 2] Virtual Riot - Reconnect",
-      "hash": "4f5e9ae940c3971f22d9cfc49c4f7d9d613b6d99",
-      "levelid": "custom_level_4f5e9ae940c3971f22d9cfc49c4f7d9d613b6d99"
-    },
-    {
-      "key": "46b89",
-      "songName": "Tim Loves Boobies",
-      "hash": "0e9ba1c5943a3ad7b034a1022282b87960b48701",
-      "levelid": "custom_level_0e9ba1c5943a3ad7b034a1022282b87960b48701"
-    },
-    {
-      "key": "46b84",
-      "songName": "Fight of My Life",
-      "hash": "ec9a0ee725ead893ea2b089bd1c383191c5fa142",
-      "levelid": "custom_level_ec9a0ee725ead893ea2b089bd1c383191c5fa142"
-    },
-    {
-      "key": "46b83",
-      "songName": "coping mechanism",
-      "hash": "101a399667355a539998f691c27bc0f1c297c670",
-      "levelid": "custom_level_101a399667355a539998f691c27bc0f1c297c670"
-    },
-    {
-      "key": "46b82",
-      "songName": "[Poodles] Pink Guy - Balls",
-      "hash": "5d960b8593aa0a2ea22b369b903bca3329925fb1",
-      "levelid": "custom_level_5d960b8593aa0a2ea22b369b903bca3329925fb1"
-    },
-    {
-      "key": "46b81",
-      "songName": "Phoneboy - Something On My Mind",
-      "hash": "121a18abbaa45fff74f38d7ec8c3c86a135f13c4",
-      "levelid": "custom_level_121a18abbaa45fff74f38d7ec8c3c86a135f13c4"
-    },
-    {
-      "key": "46b7f",
-      "songName": "home alone type beat",
-      "hash": "2d6884fa95c09deefeda9a455a08fe5b576338af",
-      "levelid": "custom_level_2d6884fa95c09deefeda9a455a08fe5b576338af"
-    },
-    {
-      "key": "46b7e",
-      "songName": "GPF - All I Ever F****d ",
-      "hash": "c1b32f89779c632e5d807f31e537ff3e1637d7e8",
-      "levelid": "custom_level_c1b32f89779c632e5d807f31e537ff3e1637d7e8"
-    },
-    {
-      "key": "46b7b",
-      "songName": "Out of Control - Bad Situation",
-      "hash": "b68cb6a8113c295af49951aa45820f0b9ca66419",
-      "levelid": "custom_level_b68cb6a8113c295af49951aa45820f0b9ca66419"
-    },
-    {
-      "key": "46b78",
-      "songName": " [Virtual Riot Pack Vol. 2] Pleasure Seeker (Virtual Riot Remix) - Mr. Bill",
-      "hash": "f142203962b6993fb443c19c7e36a6790ea94104",
-      "levelid": "custom_level_f142203962b6993fb443c19c7e36a6790ea94104"
-    },
-    {
-      "key": "46b76",
-      "songName": "Steve's Lava Chicken (Camellia Remix)",
-      "hash": "61cf37d55f1bbf42bfa07d5faaf44e9148d6ed87",
-      "levelid": "custom_level_61cf37d55f1bbf42bfa07d5faaf44e9148d6ed87"
-    },
-    {
-      "key": "46b75",
-      "songName": "longstoryshort & Arya - Back 2 Back",
-      "hash": "20310688585b4da5b2a621c33fcfa6f76942502e",
-      "levelid": "custom_level_20310688585b4da5b2a621c33fcfa6f76942502e"
-    },
-    {
-      "key": "46b6f",
-      "songName": "UglyApe - Dame Tu Cosita (Aggressive Gaming Phonk Remix)",
-      "hash": "2fd26b3a8c4fa0a74827f026b86b5ae9a5c3653f",
-      "levelid": "custom_level_2fd26b3a8c4fa0a74827f026b86b5ae9a5c3653f"
-    },
-    {
-      "key": "46b6e",
-      "songName": " oliver tree hits the roof top death gap",
-      "hash": "e7343c7984afb3d69aa26454928135aeeac8e146",
-      "levelid": "custom_level_e7343c7984afb3d69aa26454928135aeeac8e146"
-    },
-    {
-      "key": "46b6b",
-      "songName": "[Virtual Riot Pack Vol. 2] Virtual Riot - Preset Junkies VIP",
-      "hash": "ba38a866bb14c687ac89faab1f724bc33d54951a",
-      "levelid": "custom_level_ba38a866bb14c687ac89faab1f724bc33d54951a"
-    },
-    {
-      "key": "46180",
-      "songName": "[Virtual Riot Pack Vol. 2] Virtual Riot - Ridiculous",
-      "hash": "149f5c2720f7a7fb423735d3f296304ef92f9a6d",
-      "levelid": "custom_level_149f5c2720f7a7fb423735d3f296304ef92f9a6d"
-    },
-    {
-      "key": "46b4c",
-      "songName": " [Virtual Riot Pack Vol. 2] [Chroma+] Virtual Riot - Bossfight Afterparty",
-      "hash": "6861cf27f3bb485e38cd507e010c4981a3420181",
-      "levelid": "custom_level_6861cf27f3bb485e38cd507e010c4981a3420181"
-    },
-    {
-      "key": "46b6a",
-      "songName": "[Virtual Riot Pack Vol. 2] [V3] VROOM - Virtual Riot ",
-      "hash": "c38047029c40c87ceab3a34b148e9b9de4f4687a",
-      "levelid": "custom_level_c38047029c40c87ceab3a34b148e9b9de4f4687a"
-    },
-    {
-      "key": "46b66",
-      "songName": "[Virtual Riot Pack Vol. 2] Emotional (Virtual Riot Remix) - Flux Pavilion & Matthew Koma",
-      "hash": "a262f179d95fb4349094fd9c1d427f2d5c9fbebf",
-      "levelid": "custom_level_a262f179d95fb4349094fd9c1d427f2d5c9fbebf"
-    },
-    {
-      "key": "46b3b",
-      "songName": " [Virtual Riot Pack Vol. 2] Virtual Riot - Believe What You Want",
-      "hash": "5e56192840b1a1545653efbe0b3af6e9fa825155",
-      "levelid": "custom_level_5e56192840b1a1545653efbe0b3af6e9fa825155"
-    },
-    {
-      "key": "46a41",
-      "songName": "[Virtual Riot Pack Vol.2] Flutter - Virtual Riot, MADI",
-      "hash": "68ccba357fca9915e309bf3e168c2fd44d3da81f",
-      "levelid": "custom_level_68ccba357fca9915e309bf3e168c2fd44d3da81f"
-    },
-    {
-      "key": "46b4a",
-      "songName": "[Virtual Riot Pack Vol. 2] [V3] Virtual Riot - Simulation (VIP)",
-      "hash": "855e5806ffab0a15d118dc0e3535156a9ea47159",
-      "levelid": "custom_level_855e5806ffab0a15d118dc0e3535156a9ea47159"
-    },
-    {
-      "key": "46b69",
-      "songName": "Luverance - Poi",
-      "hash": "e48a6f6f8eec3be9b7483a127476933dde8a67d7",
-      "levelid": "custom_level_e48a6f6f8eec3be9b7483a127476933dde8a67d7"
-    },
-    {
-      "key": "46b65",
-      "songName": "I Got No Time",
-      "hash": "d982f53df1d6dd46a954a912778c159feb60caa3",
-      "levelid": "custom_level_d982f53df1d6dd46a954a912778c159feb60caa3"
-    },
-    {
-      "key": "468ef",
-      "songName": "[Virtual Riot Pack Vol. 2] Virtual Riot, Modestep - Spicy Riddim Drums Vol. 2 (Sample Pack Demo)",
-      "hash": "7a9b3b8615bcc82a349c59c41ae3349cc81777b1",
-      "levelid": "custom_level_7a9b3b8615bcc82a349c59c41ae3349cc81777b1"
-    },
-    {
-      "key": "46b4e",
-      "songName": "[Virtual Riot Pack Vol. 2] Virtual Riot - Star Destroyer",
-      "hash": "2255909e430a58668f8bc0256125c53e37171a24",
-      "levelid": "custom_level_2255909e430a58668f8bc0256125c53e37171a24"
-    },
-    {
-      "key": "46b47",
-      "songName": "[Virtual Riot Pack Vol. 2] Nights on Fire (2024) - Virtual Riot",
-      "hash": "e71b3fcd370e428080f46955c1d91bd81aa1c7ae",
-      "levelid": "custom_level_e71b3fcd370e428080f46955c1d91bd81aa1c7ae"
-    },
-    {
-      "key": "46b63",
-      "songName": "gladde paling - sexy bitch",
-      "hash": "9626d0979e2d819193cd6569d284671ce183f3a5",
-      "levelid": "custom_level_9626d0979e2d819193cd6569d284671ce183f3a5"
+      "key": "46ba7",
+      "songName": "Wavves - No Shade",
+      "hash": "6270ac78ce899250af70913b6a6e4edf2ed63ff1",
+      "levelid": "custom_level_6270ac78ce899250af70913b6a6e4edf2ed63ff1"
     }
   ],
   "image": ""
