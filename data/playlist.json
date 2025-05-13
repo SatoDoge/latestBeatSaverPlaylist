@@ -1,310 +1,196 @@
 {
-  "playlistTitle": "2025-05-11T15:18:48.546Z~2025-05-12T15:18:48.546Z",
+  "playlistTitle": "2025-05-12T15:18:48.796Z~2025-05-13T15:18:48.796Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-05-11T15:18:48.546Z and 2025-05-12T15:18:48.546Z",
+  "discripstion": "Maps published between 2025-05-12T15:18:48.796Z and 2025-05-13T15:18:48.796Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "46e5e",
-      "songName": "Russkaja - Da Mama",
-      "hash": "ee9a6c2fd8e8e6a78082b583b9bbf82cb52696ef",
-      "levelid": "custom_level_ee9a6c2fd8e8e6a78082b583b9bbf82cb52696ef"
+      "key": "46e63",
+      "songName": "[Comeback Purge] Darren Styles, Dougal & Gammer - Party Don't Stop",
+      "hash": "ff39e37f1f4d0a4e1d0c5f2100a62f0dd71bf1fe",
+      "levelid": "custom_level_ff39e37f1f4d0a4e1d0c5f2100a62f0dd71bf1fe"
     },
     {
-      "key": "46e5d",
-      "songName": "Lil darkie - MEAN WHAT YOU SAY! (prod.wendigo)",
-      "hash": "3f333ce88a3536a882e79633a530756c380ab0f1",
-      "levelid": "custom_level_3f333ce88a3536a882e79633a530756c380ab0f1"
+      "key": "46ed6",
+      "songName": "Iyowa - Kyu-kurarin (covered by Ui)",
+      "hash": "7aff85b3f9d422289cb1290b0206b17a8e40a3d2",
+      "levelid": "custom_level_7aff85b3f9d422289cb1290b0206b17a8e40a3d2"
     },
     {
-      "key": "46e5c",
-      "songName": "Blooming Planet - Xyris",
-      "hash": "62915463d82b8d59c184eea1a74cf7a272f74986",
-      "levelid": "custom_level_62915463d82b8d59c184eea1a74cf7a272f74986"
+      "key": "46ecc",
+      "songName": "Euphoria",
+      "hash": "aaed6dfdbc92d990108558db9c2954b20e4daf5b",
+      "levelid": "custom_level_aaed6dfdbc92d990108558db9c2954b20e4daf5b"
     },
     {
-      "key": "46e5b",
-      "songName": "gladde paling - laserstraal",
-      "hash": "bc0cb96d2134885a013665fabb01b1ffdc552b79",
-      "levelid": "custom_level_bc0cb96d2134885a013665fabb01b1ffdc552b79"
+      "key": "46ecb",
+      "songName": "stagestruck but its floor only",
+      "hash": "d9e3ace429fddb921010ab8a42ac51922a1a0c6f",
+      "levelid": "custom_level_d9e3ace429fddb921010ab8a42ac51922a1a0c6f"
     },
     {
-      "key": "46e59",
-      "songName": "adore - did i tell u that i miss u",
-      "hash": "892cadd98fe9a7a7821dcd4edd4f5815e5ad6305",
-      "levelid": "custom_level_892cadd98fe9a7a7821dcd4edd4f5815e5ad6305"
+      "key": "46eab",
+      "songName": "ericoda - search and destory",
+      "hash": "eb3f1c095e90796ddc2c6ada97d5696e77f24728",
+      "levelid": "custom_level_eb3f1c095e90796ddc2c6ada97d5696e77f24728"
     },
     {
-      "key": "46e58",
-      "songName": "i just had sex with ur mum",
-      "hash": "0d67b0c65abaeaaf0167051ba893ef08da14da2b",
-      "levelid": "custom_level_0d67b0c65abaeaaf0167051ba893ef08da14da2b"
+      "key": "46eaa",
+      "songName": "d3r - love bomb",
+      "hash": "749aeb24244eb9c7cb7f386ab1c22dced75a8d5b",
+      "levelid": "custom_level_749aeb24244eb9c7cb7f386ab1c22dced75a8d5b"
     },
     {
-      "key": "46e56",
-      "songName": "Toby Fox - Small Shock",
-      "hash": "17e8e035cd9c276add73f2832c7dc667e92f0424",
-      "levelid": "custom_level_17e8e035cd9c276add73f2832c7dc667e92f0424"
+      "key": "46ea8",
+      "songName": "Silentroom & Frums - Aegleseeker",
+      "hash": "56b2e2147b09337611743e4deb20449ee19fbcef",
+      "levelid": "custom_level_56b2e2147b09337611743e4deb20449ee19fbcef"
     },
     {
-      "key": "46e54",
-      "songName": "Aoi Honoo 蒼い炎­­ - ITOWOKASHI",
-      "hash": "355bb287ae05d1ff0bf4e5324edb42dedb60f609",
-      "levelid": "custom_level_355bb287ae05d1ff0bf4e5324edb42dedb60f609"
+      "key": "46ea7",
+      "songName": "BIRIKEN - Creepy Nuts",
+      "hash": "37057670ec9254acc2d4b09374d70d12b16124de",
+      "levelid": "custom_level_37057670ec9254acc2d4b09374d70d12b16124de"
     },
     {
-      "key": "46e53",
-      "songName": "Yakusoku 約束­­ - GReeeeN, No title­",
-      "hash": "633806030f2da056355e3c967248e8bef358112d",
-      "levelid": "custom_level_633806030f2da056355e3c967248e8bef358112d"
+      "key": "46ea5",
+      "songName": "[Poodles] The Taste - Ellis",
+      "hash": "d8b08490c88650ed7f83c0a698f18780515eca19",
+      "levelid": "custom_level_d8b08490c88650ed7f83c0a698f18780515eca19"
     },
     {
-      "key": "46e52",
-      "songName": "Eden - Monkey Majik",
-      "hash": "3454bf166db81f8ec72fafccafec7c1e304ea833",
-      "levelid": "custom_level_3454bf166db81f8ec72fafccafec7c1e304ea833"
+      "key": "45003",
+      "songName": "yung kai - blue (O I I A I ver.)",
+      "hash": "8fcc8c563b285eef56c494f17933d4c276d46634",
+      "levelid": "custom_level_8fcc8c563b285eef56c494f17933d4c276d46634"
     },
     {
-      "key": "46e4f",
-      "songName": "[Nominated] Priestess - Lay Down",
-      "hash": "036b5b9667075c6c89f33734d87f98406a2b903e",
-      "levelid": "custom_level_036b5b9667075c6c89f33734d87f98406a2b903e"
+      "key": "46ea3",
+      "songName": "Dance Gavin Dance - I'm Down With Brown Town",
+      "hash": "c88dc4301215cea194bc3f731a36eefd9d3af1d3",
+      "levelid": "custom_level_c88dc4301215cea194bc3f731a36eefd9d3af1d3"
     },
     {
-      "key": "46e51",
-      "songName": "Season - Alisa Takigawa",
-      "hash": "e2c2b42fc75e94686e90c8e0f5d65a75b955ea23",
-      "levelid": "custom_level_e2c2b42fc75e94686e90c8e0f5d65a75b955ea23"
+      "key": "46ea1",
+      "songName": "JDFixer setter but im lazy",
+      "hash": "35028c8c87220be3eb8aaaa38c383a556e469a15",
+      "levelid": "custom_level_35028c8c87220be3eb8aaaa38c383a556e469a15"
     },
     {
-      "key": "46e50",
-      "songName": "Beautiful - Anly",
-      "hash": "994e6fb3b86752c48f1cdbab50240a4f3b62639e",
-      "levelid": "custom_level_994e6fb3b86752c48f1cdbab50240a4f3b62639e"
+      "key": "46ea0",
+      "songName": "[Chroma + Cinema} SLIPPERY ",
+      "hash": "2394ecacd26f53dfdc9ff06ece089710efd379d0",
+      "levelid": "custom_level_2394ecacd26f53dfdc9ff06ece089710efd379d0"
     },
     {
-      "key": "46e4d",
-      "songName": "[Challange]Chrome VOX (Uncut Edition) - T+pazolite ",
-      "hash": "9b9717e441bec3020ae84a2efa412793e5c4d14e",
-      "levelid": "custom_level_9b9717e441bec3020ae84a2efa412793e5c4d14e"
+      "key": "46e9a",
+      "songName": "5 (no 360)",
+      "hash": "45667099a905992c1086dd7219baaab353bde01f",
+      "levelid": "custom_level_45667099a905992c1086dd7219baaab353bde01f"
     },
     {
-      "key": "46e4a",
-      "songName": "PSY (feat. CL of 2NE1) - DADDY",
-      "hash": "da7f4cce78e52d892ff65cfaf08cad8a11d95343",
-      "levelid": "custom_level_da7f4cce78e52d892ff65cfaf08cad8a11d95343"
+      "key": "46e98",
+      "songName": "5",
+      "hash": "ef68e812ce555faf7b8cd3991d8016f649502e1b",
+      "levelid": "custom_level_ef68e812ce555faf7b8cd3991d8016f649502e1b"
     },
     {
-      "key": "46e49",
-      "songName": "アンゴラたちの踊り",
-      "hash": "d04f4e4b09c9a764f05034daaaf838bd80de724f",
-      "levelid": "custom_level_d04f4e4b09c9a764f05034daaaf838bd80de724f"
+      "key": "46e92",
+      "songName": "Happy For You - Jasmine Thompson ",
+      "hash": "cd528f95774949153234cf018b6b7e83d92702ab",
+      "levelid": "custom_level_cd528f95774949153234cf018b6b7e83d92702ab"
     },
     {
-      "key": "46e48",
-      "songName": "femtanyl - ATTACKING VERTICAL",
-      "hash": "5c0180fbb913a0faf49af582c3d7eb0b0077c811",
-      "levelid": "custom_level_5c0180fbb913a0faf49af582c3d7eb0b0077c811"
+      "key": "46b64",
+      "songName": "F.O.O.L - Damage",
+      "hash": "0fba8ff5058ec3d7840ba4437ea0d8da278919b7",
+      "levelid": "custom_level_0fba8ff5058ec3d7840ba4437ea0d8da278919b7"
     },
     {
-      "key": "46e45",
+      "key": "46e8f",
+      "songName": "GIRL HELL 1999",
+      "hash": "2cb05b798305a83daab1a255269e4ac5d9847613",
+      "levelid": "custom_level_2cb05b798305a83daab1a255269e4ac5d9847613"
+    },
+    {
+      "key": "46e8d",
+      "songName": "night of core",
+      "hash": "a54491899dd185bacdc7a4b92a1b316decdf481f",
+      "levelid": "custom_level_a54491899dd185bacdc7a4b92a1b316decdf481f"
+    },
+    {
+      "key": "46e8c",
       "songName": "femtanyl - GIRL HELL 1999",
-      "hash": "1a64a157bb65faf22a77471234995cfb9a38b4c2",
-      "levelid": "custom_level_1a64a157bb65faf22a77471234995cfb9a38b4c2"
+      "hash": "28280c9a1f21f17122ed83c71506610febc6da84",
+      "levelid": "custom_level_28280c9a1f21f17122ed83c71506610febc6da84"
     },
     {
-      "key": "46e46",
-      "songName": "KAT x Aku P - Affection Addiction (ft. POPY)",
-      "hash": "2949dc653db627d3f45b2db5e27c89c7b7d558c5",
-      "levelid": "custom_level_2949dc653db627d3f45b2db5e27c89c7b7d558c5"
+      "key": "46e85",
+      "songName": "Rather be",
+      "hash": "ff65afd78ddaf89b161009fae137393d0407e77f",
+      "levelid": "custom_level_ff65afd78ddaf89b161009fae137393d0407e77f"
     },
     {
-      "key": "46e43",
-      "songName": " El Retorno Del Gamer",
-      "hash": "ec7128ac10e32b07593c29a17aaf4cf6959a0bed",
-      "levelid": "custom_level_ec7128ac10e32b07593c29a17aaf4cf6959a0bed"
+      "key": "46e83",
+      "songName": "Guess the direction",
+      "hash": "fe134bdf3c762541e583c5f737625a77b6eb3d0c",
+      "levelid": "custom_level_fe134bdf3c762541e583c5f737625a77b6eb3d0c"
     },
     {
-      "key": "46e3f",
-      "songName": "gorilla tag (song)",
-      "hash": "306da86510ff7881775da34457cd451cfec1f508",
-      "levelid": "custom_level_306da86510ff7881775da34457cd451cfec1f508"
+      "key": "46e82",
+      "songName": "Ado - Usseewa (yzrin kuso Bootleg)",
+      "hash": "f118ad249205d6d0be216fd3b45097ab8d256849",
+      "levelid": "custom_level_f118ad249205d6d0be216fd3b45097ab8d256849"
     },
     {
-      "key": "46e3e",
-      "songName": "Camellia - +ERABY+E CONNEC+10N",
-      "hash": "aa929900e359dbbc89dd797aca0ed586e4c91533",
-      "levelid": "custom_level_aa929900e359dbbc89dd797aca0ed586e4c91533"
+      "key": "46e7e",
+      "songName": "Shiny Toy Guns - Major Tom",
+      "hash": "a8e8a11244eaed26964a1164a5bf1fe1fdb628c0",
+      "levelid": "custom_level_a8e8a11244eaed26964a1164a5bf1fe1fdb628c0"
     },
     {
-      "key": "46e3c",
-      "songName": "SilenceSilenceSilenceSilence",
-      "hash": "0351e4703ed7c617f1d0d922987e8d1cde8e1885",
-      "levelid": "custom_level_0351e4703ed7c617f1d0d922987e8d1cde8e1885"
+      "key": "46e7d",
+      "songName": "The Birthday Massacre - Sleepwalking",
+      "hash": "9c5d0355c83221ee885af815990dc6226fa86893",
+      "levelid": "custom_level_9c5d0355c83221ee885af815990dc6226fa86893"
     },
     {
-      "key": "46e33",
-      "songName": "Over You - Daughtry",
-      "hash": "a78f7f51fa3446713e936a067030dfacea165c6f",
-      "levelid": "custom_level_a78f7f51fa3446713e936a067030dfacea165c6f"
+      "key": "46e7c",
+      "songName": "TWICE - FANCY",
+      "hash": "a3f6a2b8a5c56d8f978ad8df86e5296c07014e7a",
+      "levelid": "custom_level_a3f6a2b8a5c56d8f978ad8df86e5296c07014e7a"
     },
     {
-      "key": "46e35",
-      "songName": "Home alone type beat",
-      "hash": "b0dbc746a4bcd37b09bbbb4172cfcdec01132a4d",
-      "levelid": "custom_level_b0dbc746a4bcd37b09bbbb4172cfcdec01132a4d"
+      "key": "46e7b",
+      "songName": "SAMBA TEMPERADO  Yuji Ohno & Lupintic Sixteen",
+      "hash": "b86e52253216acadd1db5da8a4a00f76110f48c1",
+      "levelid": "custom_level_b86e52253216acadd1db5da8a4a00f76110f48c1"
     },
     {
-      "key": "46dbe",
-      "songName": "无畏战士 - 星瞳",
-      "hash": "3427e2a641c3f3e1141878d919ceb8c92b10b55f",
-      "levelid": "custom_level_3427e2a641c3f3e1141878d919ceb8c92b10b55f"
+      "key": "46e72",
+      "songName": "FROMTHEHEART - BRAND NEW SOUND (w/ underscores & Chuck Sutton)",
+      "hash": "6eeb835cbb873245305917a1316ccbf775afb1f9",
+      "levelid": "custom_level_6eeb835cbb873245305917a1316ccbf775afb1f9"
     },
     {
-      "key": "46e30",
-      "songName": "Floccinaucinihilipilification",
-      "hash": "251c27b3ada918625b92f69b62b331bfd4f14079",
-      "levelid": "custom_level_251c27b3ada918625b92f69b62b331bfd4f14079"
+      "key": "46e60",
+      "songName": "[Comeback Purge] Tobee - Lotusblume",
+      "hash": "1a3e01e7b7543ae273c9ff1d2cb115caf80642f6",
+      "levelid": "custom_level_1a3e01e7b7543ae273c9ff1d2cb115caf80642f6"
     },
     {
-      "key": "46e2e",
-      "songName": "[4YMA] Makaleigh Colleen - Ordinary",
-      "hash": "a0c0fff03b3b5efc728b856130242312af27a104",
-      "levelid": "custom_level_a0c0fff03b3b5efc728b856130242312af27a104"
+      "key": "46e61",
+      "songName": "tung tung sajurt ",
+      "hash": "da1956bd4d60f678f29ad9d2bef4151f3bea61d8",
+      "levelid": "custom_level_da1956bd4d60f678f29ad9d2bef4151f3bea61d8"
     },
     {
-      "key": "46e2b",
-      "songName": "Bear Ghost - Bark Skinpson",
-      "hash": "ddfe9cf4ea3453792af2f6ee62c3eb7eb10ac545",
-      "levelid": "custom_level_ddfe9cf4ea3453792af2f6ee62c3eb7eb10ac545"
-    },
-    {
-      "key": "46e2a",
-      "songName": "Gram - GuNGNiR (The Requiem's EXTENDED MIX)",
-      "hash": "4b06f67f36589a172c41f84e1b866158b36d98f1",
-      "levelid": "custom_level_4b06f67f36589a172c41f84e1b866158b36d98f1"
-    },
-    {
-      "key": "46e29",
-      "songName": "Camellia - CICADA3302",
-      "hash": "688cb2cc8cadaa93bb93e4aa17c20a1045eec11c",
-      "levelid": "custom_level_688cb2cc8cadaa93bb93e4aa17c20a1045eec11c"
-    },
-    {
-      "key": "46e28",
-      "songName": "(238.5) Pretty Scene Girl!",
-      "hash": "de4bb4fc866570cd1c67760f8b423c594e3775e5",
-      "levelid": "custom_level_de4bb4fc866570cd1c67760f8b423c594e3775e5"
-    },
-    {
-      "key": "46e27",
-      "songName": "Acquire",
-      "hash": "eeab3a4e8fc3d1d963ff473c172d7840d7091439",
-      "levelid": "custom_level_eeab3a4e8fc3d1d963ff473c172d7840d7091439"
-    },
-    {
-      "key": "46e24",
-      "songName": "Good to Be Bad",
-      "hash": "5275739f83513de220b1fc8959bb31269fb2f5dd",
-      "levelid": "custom_level_5275739f83513de220b1fc8959bb31269fb2f5dd"
-    },
-    {
-      "key": "46e23",
-      "songName": "I Heard",
-      "hash": "343c1a1f0566375995b1d7d757733616f592c1a5",
-      "levelid": "custom_level_343c1a1f0566375995b1d7d757733616f592c1a5"
-    },
-    {
-      "key": "46e1e",
-      "songName": "glass beach - rare animal",
-      "hash": "2e3820affe871f9e5811bda62154f6b17a858c9e",
-      "levelid": "custom_level_2e3820affe871f9e5811bda62154f6b17a858c9e"
-    },
-    {
-      "key": "46e1c",
-      "songName": "glass beach - guitar song",
-      "hash": "42bf34b08ca9bd66fd8b9912b0447a06c3ad1ab0",
-      "levelid": "custom_level_42bf34b08ca9bd66fd8b9912b0447a06c3ad1ab0"
-    },
-    {
-      "key": "46e1a",
-      "songName": "Stardust",
-      "hash": "142839ac1e1703eef8dbf6c7e5b8e659af03676d",
-      "levelid": "custom_level_142839ac1e1703eef8dbf6c7e5b8e659af03676d"
-    },
-    {
-      "key": "46e18",
-      "songName": "spin enternily (light show map)",
-      "hash": "1cb7f1157c1e71ad86533a7cdc941be3c1ba8815",
-      "levelid": "custom_level_1cb7f1157c1e71ad86533a7cdc941be3c1ba8815"
-    },
-    {
-      "key": "46e16",
-      "songName": "I Love You - back number",
-      "hash": "c334ffb0624bfe71caa2004fc7cae2aa2739713d",
-      "levelid": "custom_level_c334ffb0624bfe71caa2004fc7cae2aa2739713d"
-    },
-    {
-      "key": "46e15",
-      "songName": "Lucky Ending - VK Blanka",
-      "hash": "9bedde5b0cd7efb4315ca8bc58542af6b1587c02",
-      "levelid": "custom_level_9bedde5b0cd7efb4315ca8bc58542af6b1587c02"
-    },
-    {
-      "key": "46e14",
-      "songName": "Tenkiame - Novel Core ft Hina (from FAKY)",
-      "hash": "d710a7d63fd3529731eee4aceee23d1d64e0196a",
-      "levelid": "custom_level_d710a7d63fd3529731eee4aceee23d1d64e0196a"
-    },
-    {
-      "key": "46e13",
-      "songName": "YUI - CHE.R.RY",
-      "hash": "f901dddda9ce90fe7da5310ca73a9cec1cacf509",
-      "levelid": "custom_level_f901dddda9ce90fe7da5310ca73a9cec1cacf509"
-    },
-    {
-      "key": "46e0d",
-      "songName": "reacting to a fnaf disc",
-      "hash": "028349046fb64269c2e7cda0df0d890782e4dbf7",
-      "levelid": "custom_level_028349046fb64269c2e7cda0df0d890782e4dbf7"
-    },
-    {
-      "key": "46e0c",
-      "songName": "ROAR - Take Me",
-      "hash": "2e09f047f18c5b18f48c188899d086b7836ad6f8",
-      "levelid": "custom_level_2e09f047f18c5b18f48c188899d086b7836ad6f8"
-    },
-    {
-      "key": "46e09",
-      "songName": "Life Force",
-      "hash": "2db1582defe2dd52c61904fdaae33c4f4cfbba51",
-      "levelid": "custom_level_2db1582defe2dd52c61904fdaae33c4f4cfbba51"
-    },
-    {
-      "key": "46e07",
-      "songName": "Quadeca & brakence - A LA CARTE",
-      "hash": "5ee3e4d5caf39f5e70b56cfbf9031b18515a28f0",
-      "levelid": "custom_level_5ee3e4d5caf39f5e70b56cfbf9031b18515a28f0"
-    },
-    {
-      "key": "46e08",
-      "songName": "Heavy Is the Crown",
-      "hash": "75c37de6f2a6d562e3a20ca558e03a02dcf07975",
-      "levelid": "custom_level_75c37de6f2a6d562e3a20ca558e03a02dcf07975"
-    },
-    {
-      "key": "46e06",
-      "songName": "The Title Track",
-      "hash": "74ca193ddad2cd7c5a9fc69d0fe38953a9e7447e",
-      "levelid": "custom_level_74ca193ddad2cd7c5a9fc69d0fe38953a9e7447e"
-    },
-    {
-      "key": "46e05",
-      "songName": "20 Min",
-      "hash": "38722909dd4112b0b39691ce92ff10da43bce273",
-      "levelid": "custom_level_38722909dd4112b0b39691ce92ff10da43bce273"
+      "key": "46e5f",
+      "songName": "Russkaja - Da Mama",
+      "hash": "c34575e3f1116b41648432f8da77b1de0dd54bc2",
+      "levelid": "custom_level_c34575e3f1116b41648432f8da77b1de0dd54bc2"
     }
   ],
   "image": ""
