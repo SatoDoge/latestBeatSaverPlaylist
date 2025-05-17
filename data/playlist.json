@@ -1,274 +1,244 @@
 {
-  "playlistTitle": "2025-05-15T15:18:48.760Z~2025-05-16T15:18:48.760Z",
+  "playlistTitle": "2025-05-16T15:18:47.935Z~2025-05-17T15:18:47.935Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-05-15T15:18:48.760Z and 2025-05-16T15:18:48.760Z",
+  "discripstion": "Maps published between 2025-05-16T15:18:47.935Z and 2025-05-17T15:18:47.935Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "47034",
+      "songName": "Rescene - Pinball",
+      "hash": "de191b39e99e7f6555ca02794dccfc30eef123a2",
+      "levelid": "custom_level_de191b39e99e7f6555ca02794dccfc30eef123a2"
+    },
+    {
+      "key": "47031",
+      "songName": "Beat Mario x Maron - Super Night of Knights",
+      "hash": "ba34ab4a03bdcdde0427cfe3642564b66869e6b9",
+      "levelid": "custom_level_ba34ab4a03bdcdde0427cfe3642564b66869e6b9"
+    },
+    {
+      "key": "46e68",
+      "songName": "[Comeback Purge] t+pazolite - Datamania (tpz Overheat Remix)",
+      "hash": "97e5ea4407185b23d7e614207f038d3f89ee7985",
+      "levelid": "custom_level_97e5ea4407185b23d7e614207f038d3f89ee7985"
+    },
+    {
+      "key": "4702a",
+      "songName": "kors k - Circuit Surfer [1.40]",
+      "hash": "47e418d329671721b44246e99d9970a1cd39697e",
+      "levelid": "custom_level_47e418d329671721b44246e99d9970a1cd39697e"
+    },
+    {
+      "key": "47004",
+      "songName": "Godlands - SCUMBAG",
+      "hash": "1fc55cbc95a7b4419099e9db85e6bc55b651446d",
+      "levelid": "custom_level_1fc55cbc95a7b4419099e9db85e6bc55b651446d"
+    },
+    {
+      "key": "47024",
+      "songName": "Time to Talk - Street Lights",
+      "hash": "f6aa7f84f80abebdbfd643ea260fe35f41b9b9fc",
+      "levelid": "custom_level_f6aa7f84f80abebdbfd643ea260fe35f41b9b9fc"
+    },
+    {
+      "key": "47025",
+      "songName": "hxvvxn, damnenby - Run home",
+      "hash": "fc7eeb9fbf4288a588980e394f7116b435334852",
+      "levelid": "custom_level_fc7eeb9fbf4288a588980e394f7116b435334852"
+    },
+    {
+      "key": "47023",
+      "songName": "Bob The Zealot - PAUSING IS WINNING",
+      "hash": "71788b8890f2804e76ea14327416af768c105002",
+      "levelid": "custom_level_71788b8890f2804e76ea14327416af768c105002"
+    },
+    {
+      "key": "47021",
+      "songName": "#eurodab - Käärijä, Baby Lasagna",
+      "hash": "9bbb8a3eb41ae99ef1d2b7438f2e4f4b4c015514",
+      "levelid": "custom_level_9bbb8a3eb41ae99ef1d2b7438f2e4f4b4c015514"
+    },
+    {
+      "key": "47020",
+      "songName": "android alarm",
+      "hash": "1cad682c440c8f598d46e46758695e1cf69607bf",
+      "levelid": "custom_level_1cad682c440c8f598d46e46758695e1cf69607bf"
+    },
+    {
+      "key": "4701f",
+      "songName": "Papercuts",
+      "hash": "6d075d300bb284168202a8a871573df758864c25",
+      "levelid": "custom_level_6d075d300bb284168202a8a871573df758864c25"
+    },
+    {
+      "key": "46fb0",
+      "songName": "Crankdat & SOFI - Whiplash",
+      "hash": "e1e588686bb8043f6a21575af0b3b228995cf85e",
+      "levelid": "custom_level_e1e588686bb8043f6a21575af0b3b228995cf85e"
+    },
+    {
+      "key": "47018",
+      "songName": "根本你不懂得爱我",
+      "hash": "4bdae3ddad84351215d39b62604752506aa95955",
+      "levelid": "custom_level_4bdae3ddad84351215d39b62604752506aa95955"
+    },
+    {
+      "key": "47017",
+      "songName": "TEST V1",
+      "hash": "b5746417174ebe201f1d76f0fa2d4bf663a215ce",
+      "levelid": "custom_level_b5746417174ebe201f1d76f0fa2d4bf663a215ce"
+    },
+    {
+      "key": "47016",
+      "songName": "JUMPERS",
+      "hash": "57af0e3da1c9497961e079293a6e661f55d79990",
+      "levelid": "custom_level_57af0e3da1c9497961e079293a6e661f55d79990"
+    },
+    {
+      "key": "4700f",
+      "songName": "KATSEYE- Debut",
+      "hash": "add399e9d4450410300a54e9eebc64d3215327b1",
+      "levelid": "custom_level_add399e9d4450410300a54e9eebc64d3215327b1"
+    },
+    {
+      "key": "47006",
+      "songName": "asdasd",
+      "hash": "291b2678ac802cb756abb8a70a67a4b8c7958825",
+      "levelid": "custom_level_291b2678ac802cb756abb8a70a67a4b8c7958825"
+    },
+    {
+      "key": "47005",
+      "songName": "Lirili Larila",
+      "hash": "d9d8cb28258959a1d7117247982faac6469616ff",
+      "levelid": "custom_level_d9d8cb28258959a1d7117247982faac6469616ff"
+    },
+    {
+      "key": "47003",
+      "songName": "LUDICROUS SPEED",
+      "hash": "fb798ff328ca5af8e200ba4fbab940004bdc6d9b",
+      "levelid": "custom_level_fb798ff328ca5af8e200ba4fbab940004bdc6d9b"
+    },
+    {
+      "key": "47002",
+      "songName": "The Clock Strikes Noon (Apocalypse!)",
+      "hash": "2005e1ec5166cea6700892812505161c9707f6cd",
+      "levelid": "custom_level_2005e1ec5166cea6700892812505161c9707f6cd"
+    },
+    {
+      "key": "47000",
+      "songName": "Linkin Park - Let You Fade",
+      "hash": "5ca0a6aeeec8c40d73340a2bef884d9467ef5632",
+      "levelid": "custom_level_5ca0a6aeeec8c40d73340a2bef884d9467ef5632"
+    },
+    {
+      "key": "46ffc",
+      "songName": "Neverland - DECO*27 (feat Hatsune Miku)",
+      "hash": "d143f3e16f89da6929a3a49e7d0f4b555bb50d33",
+      "levelid": "custom_level_d143f3e16f89da6929a3a49e7d0f4b555bb50d33"
+    },
+    {
+      "key": "46ffb",
+      "songName": "さくらみこ - 気合！リズム天国(Sakura Miko - Rhythm Heaven)",
+      "hash": "0933c4b680ada933fc099ae6b62a97957ef73833",
+      "levelid": "custom_level_0933c4b680ada933fc099ae6b62a97957ef73833"
+    },
+    {
+      "key": "46fe2",
+      "songName": "dariaco2",
+      "hash": "e3e29fca829e85ab0c30f33e8570bcf8f9a2af69",
+      "levelid": "custom_level_e3e29fca829e85ab0c30f33e8570bcf8f9a2af69"
+    },
+    {
+      "key": "46fe1",
+      "songName": "empathy slowed and reverb",
+      "hash": "45c3a8c8af7941be6a662fb00c75ef3fdbb65757",
+      "levelid": "custom_level_45c3a8c8af7941be6a662fb00c75ef3fdbb65757"
+    },
+    {
+      "key": "46fe0",
+      "songName": "Hustlin",
+      "hash": "60779e041d6ea9732ad570cf28ae2176acf0bc6f",
+      "levelid": "custom_level_60779e041d6ea9732ad570cf28ae2176acf0bc6f"
+    },
+    {
+      "key": "46fdf",
+      "songName": "Dangerous Slot",
+      "hash": "a5816344c7837e11ebca4e16979b5255c31a9ec3",
+      "levelid": "custom_level_a5816344c7837e11ebca4e16979b5255c31a9ec3"
+    },
+    {
+      "key": "46fde",
+      "songName": "眠れぬ夜",
+      "hash": "56f0cc7496872ca9c666c3874047fafcf263d62d",
+      "levelid": "custom_level_56f0cc7496872ca9c666c3874047fafcf263d62d"
+    },
+    {
+      "key": "46fdb",
+      "songName": "NateWantsToBattle - BRANDED",
+      "hash": "a1ebc92ef837712322df1c9027c0d4d16756f899",
+      "levelid": "custom_level_a1ebc92ef837712322df1c9027c0d4d16756f899"
+    },
+    {
+      "key": "46fb6",
+      "songName": "Kolkian - Zaphkiel",
+      "hash": "0f9fb2fdefc9ab3a66ade9bd9feddd43e16982a6",
+      "levelid": "custom_level_0f9fb2fdefc9ab3a66ade9bd9feddd43e16982a6"
+    },
+    {
+      "key": "46fd8",
+      "songName": "Let You Fade - Linkin Park ",
+      "hash": "47b41b4af47ffb0722a7b333ba3dc177753f2445",
+      "levelid": "custom_level_47b41b4af47ffb0722a7b333ba3dc177753f2445"
+    },
+    {
+      "key": "46fd9",
+      "songName": "Daily Dose but v2",
+      "hash": "9dd96582d219a718f16d00d0973967f707fcc9cf",
+      "levelid": "custom_level_9dd96582d219a718f16d00d0973967f707fcc9cf"
+    },
+    {
+      "key": "46fd7",
+      "songName": "Virtual Riot - Fine (Currently)[Noodle Extension + Chroma]",
+      "hash": "8f09b110ec3025831f611b1273765d80db850f07",
+      "levelid": "custom_level_8f09b110ec3025831f611b1273765d80db850f07"
+    },
+    {
+      "key": "46fd6",
+      "songName": "(V2) Marina Satti- LOLA",
+      "hash": "ffa8efb623ef3bb986a9bcebf75715c76b02cdd7",
+      "levelid": "custom_level_ffa8efb623ef3bb986a9bcebf75715c76b02cdd7"
+    },
+    {
+      "key": "46fd5",
+      "songName": "lil peep - yesterday",
+      "hash": "66214b1f1c7dbb60c94af78294d7ff365490a587",
+      "levelid": "custom_level_66214b1f1c7dbb60c94af78294d7ff365490a587"
+    },
+    {
+      "key": "46fcc",
+      "songName": "It’s OK To Not Be OK - super_toki",
+      "hash": "56b9f50ec7b4b5e5243079889a179566738c31fa",
+      "levelid": "custom_level_56b9f50ec7b4b5e5243079889a179566738c31fa"
+    },
+    {
+      "key": "4605f",
+      "songName": "Too Late ",
+      "hash": "e405f1f791ed1ee307c9cd7544d5fc2904906a96",
+      "levelid": "custom_level_e405f1f791ed1ee307c9cd7544d5fc2904906a96"
+    },
+    {
+      "key": "46a38",
+      "songName": "LOVE - 今夜、あの街から",
+      "hash": "9f164b2557dfc1bf3cdf4254a00ab61c017d776d",
+      "levelid": "custom_level_9f164b2557dfc1bf3cdf4254a00ab61c017d776d"
+    },
+    {
       "key": "46fca",
-      "songName": "for testplay only",
-      "hash": "bd522a9d00e33973c9d6e49790abbc081cb8061a",
-      "levelid": "custom_level_bd522a9d00e33973c9d6e49790abbc081cb8061a"
-    },
-    {
-      "key": "46e67",
-      "songName": "[Comeback Purge] Mo Falk - Feel So Gud",
-      "hash": "69b52f4486f23b27cab030487252388b76d26592",
-      "levelid": "custom_level_69b52f4486f23b27cab030487252388b76d26592"
-    },
-    {
-      "key": "46237",
-      "songName": "SHOSHIMIN: How to become Ordinary Opening Season 2 - 火星人 (Martian) | Yorushika",
-      "hash": "58cd22271f4661687407428af101e8b206ed7313",
-      "levelid": "custom_level_58cd22271f4661687407428af101e8b206ed7313"
-    },
-    {
-      "key": "46fc9",
-      "songName": "Azukita - Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo",
-      "hash": "ec4f199a513ba6fd5e2ee7ba6c5b99a95010c649",
-      "levelid": "custom_level_ec4f199a513ba6fd5e2ee7ba6c5b99a95010c649"
-    },
-    {
-      "key": "46fc8",
-      "songName": "Murder swarm (Theme of dragonfolly) - DM Dokuro",
-      "hash": "f332d4d3420901b464e132367a956538c6dd487a",
-      "levelid": "custom_level_f332d4d3420901b464e132367a956538c6dd487a"
-    },
-    {
-      "key": "46fc6",
-      "songName": "Cascada - Evacuate The Dancefloor",
-      "hash": "9109925c3719d232e3eeae8868c0bf1efd660d51",
-      "levelid": "custom_level_9109925c3719d232e3eeae8868c0bf1efd660d51"
-    },
-    {
-      "key": "46fc1",
-      "songName": "KATSEYE - Gnarly",
-      "hash": "aa9cf976b89c81ee02fde6129878e64b4c376df7",
-      "levelid": "custom_level_aa9cf976b89c81ee02fde6129878e64b4c376df7"
-    },
-    {
-      "key": "46fc0",
-      "songName": "[Noodle] laur - Absolute Queen",
-      "hash": "8a5ccff1c6d74e27208f99b2ddc9b6be080f8ccd",
-      "levelid": "custom_level_8a5ccff1c6d74e27208f99b2ddc9b6be080f8ccd"
-    },
-    {
-      "key": "46fbe",
-      "songName": "Silicon King - VOTCHI",
-      "hash": "021279a5917f9cfd3b13bb8a978a2dc28e44e310",
-      "levelid": "custom_level_021279a5917f9cfd3b13bb8a978a2dc28e44e310"
-    },
-    {
-      "key": "46fbc",
-      "songName": "Daily Dose",
-      "hash": "60a3d4628952a146ddd9949fff8f11aa593af221",
-      "levelid": "custom_level_60a3d4628952a146ddd9949fff8f11aa593af221"
-    },
-    {
-      "key": "46fb9",
-      "songName": "C418 - The End",
-      "hash": "cc2deeb849ab1d90995ff63a5f09b20296304301",
-      "levelid": "custom_level_cc2deeb849ab1d90995ff63a5f09b20296304301"
-    },
-    {
-      "key": "46c23",
-      "songName": "おさるのジョージ (Osaru no George)",
-      "hash": "aea9e6da269d15ec46a13872524f6a091a7dcd02",
-      "levelid": "custom_level_aea9e6da269d15ec46a13872524f6a091a7dcd02"
-    },
-    {
-      "key": "46fb5",
-      "songName": "ソーダを飲みましょう/Let's Drink Soda - koi no koe",
-      "hash": "72fabe78eb5a4f95a8e6245be85b23f790b3ca1f",
-      "levelid": "custom_level_72fabe78eb5a4f95a8e6245be85b23f790b3ca1f"
-    },
-    {
-      "key": "46fb4",
-      "songName": "Throw It Back",
-      "hash": "773c0d367982f9c083e4e423affaf7f22a0acaf7",
-      "levelid": "custom_level_773c0d367982f9c083e4e423affaf7f22a0acaf7"
-    },
-    {
-      "key": "46fb3",
-      "songName": "aldn & glaive - what was the last thing u said",
-      "hash": "cf6945b131d1b99b5a60f3e201cada040bf6d0a2",
-      "levelid": "custom_level_cf6945b131d1b99b5a60f3e201cada040bf6d0a2"
-    },
-    {
-      "key": "46fb1",
-      "songName": "Found Footage",
-      "hash": "ad5f90414c45006d486adbf13de859303105d254",
-      "levelid": "custom_level_ad5f90414c45006d486adbf13de859303105d254"
-    },
-    {
-      "key": "46faf",
-      "songName": "Am I at Gunners yet?",
-      "hash": "ce04df470c5a55a67d25dc27d1572a273b8c763f",
-      "levelid": "custom_level_ce04df470c5a55a67d25dc27d1572a273b8c763f"
-    },
-    {
-      "key": "46fae",
-      "songName": "Ado - Hibana",
-      "hash": "76b7c654f0060b0c6040333919d70654d890fbee",
-      "levelid": "custom_level_76b7c654f0060b0c6040333919d70654d890fbee"
-    },
-    {
-      "key": "46fac",
-      "songName": "Brr Brr Patapim",
-      "hash": "1c2bba5ff880cef5d2efa62188385a0756d70846",
-      "levelid": "custom_level_1c2bba5ff880cef5d2efa62188385a0756d70846"
-    },
-    {
-      "key": "46fa7",
-      "songName": "nuke",
-      "hash": "5a2a88f043e774a4ff4a7fd8e65c9d5401f84d94",
-      "levelid": "custom_level_5a2a88f043e774a4ff4a7fd8e65c9d5401f84d94"
-    },
-    {
-      "key": "46fa6",
-      "songName": "nieuwe tune",
-      "hash": "e2f45d927b51a3f1c0779184bf8c1b830885ccf5",
-      "levelid": "custom_level_e2f45d927b51a3f1c0779184bf8c1b830885ccf5"
-    },
-    {
-      "key": "46f9d",
-      "songName": "HYSTERIA!",
-      "hash": "4d268b357078f4e21c4d9348eb060c988b9173c1",
-      "levelid": "custom_level_4d268b357078f4e21c4d9348eb060c988b9173c1"
-    },
-    {
-      "key": "46f9b",
-      "songName": "Pensamentos",
-      "hash": "8d37c2e325c6a0dc107d778975734ab200423faa",
-      "levelid": "custom_level_8d37c2e325c6a0dc107d778975734ab200423faa"
-    },
-    {
-      "key": "46f94",
-      "songName": "Me and my mistakes",
-      "hash": "7ae89f6aa945681fc2bf2445d4222152e72fc11e",
-      "levelid": "custom_level_7ae89f6aa945681fc2bf2445d4222152e72fc11e"
-    },
-    {
-      "key": "46f88",
-      "songName": "Meta runner development",
-      "hash": "dd3e6f065ce2c15ac3de294faaf8d093411860f3",
-      "levelid": "custom_level_dd3e6f065ce2c15ac3de294faaf8d093411860f3"
-    },
-    {
-      "key": "46f87",
-      "songName": "edamame",
-      "hash": "6c49ddc1b01f55dff675b4c736ab957389d60c97",
-      "levelid": "custom_level_6c49ddc1b01f55dff675b4c736ab957389d60c97"
-    },
-    {
-      "key": "46f7e",
-      "songName": "TAK - 孤独サイコ",
-      "hash": "48bf7f50d5736993f757684c96dd4559a9698afb",
-      "levelid": "custom_level_48bf7f50d5736993f757684c96dd4559a9698afb"
-    },
-    {
-      "key": "46f85",
-      "songName": "Skillet - The Resistance",
-      "hash": "d942bf5d88a2c2620eb80fd8ecff71ff078a27ef",
-      "levelid": "custom_level_d942bf5d88a2c2620eb80fd8ecff71ff078a27ef"
-    },
-    {
-      "key": "46f7f",
-      "songName": "Bring Me The Horizon - Follow You",
-      "hash": "42f6a0e99bba59c40705ec6bb3ee1732ae70ed2b",
-      "levelid": "custom_level_42f6a0e99bba59c40705ec6bb3ee1732ae70ed2b"
-    },
-    {
-      "key": "46da4",
-      "songName": "Opening Night ",
-      "hash": "6b94ecf3c92636ae6fe31925138738913c3fff9c",
-      "levelid": "custom_level_6b94ecf3c92636ae6fe31925138738913c3fff9c"
-    },
-    {
-      "key": "46f7c",
-      "songName": "CRASH CAPITAL",
-      "hash": "8463af3f3f89f74fbd5ab39fea0d8a98d9f96e04",
-      "levelid": "custom_level_8463af3f3f89f74fbd5ab39fea0d8a98d9f96e04"
-    },
-    {
-      "key": "46e6c",
-      "songName": "[Moving Walls] Don't Care Crown - Fox Stevenson",
-      "hash": "582a00fe12cc45c2ae0c81387f06664fc7bc03df",
-      "levelid": "custom_level_582a00fe12cc45c2ae0c81387f06664fc7bc03df"
-    },
-    {
-      "key": "464dc",
-      "songName": "Threats of The Ocean Floor - DM DOKURO [Calamity Pack]",
-      "hash": "4e6dd57d74f4fb9a99b9129807a7176657278168",
-      "levelid": "custom_level_4e6dd57d74f4fb9a99b9129807a7176657278168"
-    },
-    {
-      "key": "46f6c",
-      "songName": "Roar of the Jungle Dragon - DM DOKURO [Calamity Pack]",
-      "hash": "73ab676099ad7b5ec3ae31e548f0c19485a45cf3",
-      "levelid": "custom_level_73ab676099ad7b5ec3ae31e548f0c19485a45cf3"
-    },
-    {
-      "key": "46f65",
-      "songName": "Return To Slime (featuring SixteenInMono) - DM DOKORU [Calamity Pack]",
-      "hash": "3e31cb424b949067db61ca8b4876dd7ea35a87be",
-      "levelid": "custom_level_3e31cb424b949067db61ca8b4876dd7ea35a87be"
-    },
-    {
-      "key": "46f14",
-      "songName": "Sanctuary - DM DOKURO [Calamity Pack]",
-      "hash": "e36a9076da063d85e1d716c986284c8fa3b6f0e0",
-      "levelid": "custom_level_e36a9076da063d85e1d716c986284c8fa3b6f0e0"
-    },
-    {
-      "key": "46e87",
-      "songName": "[VNJS] Storms before the catastrophes - DM DOKURO [Calamity Pack]",
-      "hash": "3e34ed44e1d117592895d0ed0921426220434e85",
-      "levelid": "custom_level_3e34ed44e1d117592895d0ed0921426220434e85"
-    },
-    {
-      "key": "46f71",
-      "songName": "The Tale Of A Cruel World - DM Dokuro [Calamity Pack]",
-      "hash": "7b561d92b2bb2046e74a15c2caa03e64901dc4e3",
-      "levelid": "custom_level_7b561d92b2bb2046e74a15c2caa03e64901dc4e3"
-    },
-    {
-      "key": "46f41",
-      "songName": "Interstellar Stomper - DM DOKURO [Calamity Pack]",
-      "hash": "ec5a460a434fbbb6e8c4f0473845e4cf0beaf30a",
-      "levelid": "custom_level_ec5a460a434fbbb6e8c4f0473845e4cf0beaf30a"
-    },
-    {
-      "key": "46e76",
-      "songName": "Unholy Insurgency - DM DOKURO [Calamity Pack]",
-      "hash": "a6ba611f73dd24303a4da307c234d192cbaa8ecf",
-      "levelid": "custom_level_a6ba611f73dd24303a4da307c234d192cbaa8ecf"
-    },
-    {
-      "key": "46f3c",
-      "songName": "Fly of Beelzebub - DM DOKURO [Calamity Pack]",
-      "hash": "351878f3066983a49bbbebc4bf33740597ae2c00",
-      "levelid": "custom_level_351878f3066983a49bbbebc4bf33740597ae2c00"
-    },
-    {
-      "key": "465b8",
-      "songName": "1NF3S+@+!0N - DM DOKURO [Calamity Pack]",
-      "hash": "af1ba94335187801d88d0ff343026723a6933e87",
-      "levelid": "custom_level_af1ba94335187801d88d0ff343026723a6933e87"
-    },
-    {
-      "key": "46f75",
-      "songName": "S2 E4 tweenage dirtbag",
-      "hash": "aba2c7330594ddf78b0e163327155e9e64c53548",
-      "levelid": "custom_level_aba2c7330594ddf78b0e163327155e9e64c53548"
-    },
-    {
-      "key": "46f76",
-      "songName": "ke$ha - JOYRIDE.",
-      "hash": "de57ae70251a3179671b59a74a73c203a9afb68d",
-      "levelid": "custom_level_de57ae70251a3179671b59a74a73c203a9afb68d"
+      "songName": "Shoko Nakagawa - Sorairo Days (ENSON2 Ver.)",
+      "hash": "a7faf2a0f956091a1c9d3afd302344adc97f51ed",
+      "levelid": "custom_level_a7faf2a0f956091a1c9d3afd302344adc97f51ed"
     }
   ],
   "image": ""
