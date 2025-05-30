@@ -1,244 +1,226 @@
 {
-  "playlistTitle": "2025-05-28T15:18:52.070Z~2025-05-29T15:18:52.070Z",
+  "playlistTitle": "2025-05-29T15:18:48.241Z~2025-05-30T15:18:48.241Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-05-28T15:18:52.070Z and 2025-05-29T15:18:52.070Z",
+  "discripstion": "Maps published between 2025-05-29T15:18:48.241Z and 2025-05-30T15:18:48.241Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "47566",
-      "songName": "INJI - U WON'T!",
-      "hash": "683b2105c140c2e95a0b219e708cd8f0e15e2837",
-      "levelid": "custom_level_683b2105c140c2e95a0b219e708cd8f0e15e2837"
+      "key": "475b2",
+      "songName": "YoidoreSirazu(Jazz Arrange)coverd by MEDA - Kanaria/酔いどれ知らず",
+      "hash": "352c59366d9f352a8c690cc9f09ad3bb8005f30d",
+      "levelid": "custom_level_352c59366d9f352a8c690cc9f09ad3bb8005f30d"
     },
     {
-      "key": "47564",
-      "songName": "NYAANNYANNYNYANNYANNYA ",
-      "hash": "0d633be99dbcee87374bccd28f9a9bfd01587f69",
-      "levelid": "custom_level_0d633be99dbcee87374bccd28f9a9bfd01587f69"
+      "key": "475aa",
+      "songName": "お砂糖哀歌 feat. Miku - MIMI",
+      "hash": "b5b7b31df5f864a85ef684c529462fa024363e8e",
+      "levelid": "custom_level_b5b7b31df5f864a85ef684c529462fa024363e8e"
     },
     {
-      "key": "47562",
-      "songName": "Temple Lockout",
-      "hash": "de8905ed83859e6cea2b645b9181acaf3ed564dc",
-      "levelid": "custom_level_de8905ed83859e6cea2b645b9181acaf3ed564dc"
+      "key": "475b1",
+      "songName": "テルーの唄（ゲド戦記より）/TERUUNO UTA(GEDO SENKI YORI)",
+      "hash": "4788122f9be59c597296e93b5e243180d2d8378e",
+      "levelid": "custom_level_4788122f9be59c597296e93b5e243180d2d8378e"
     },
     {
-      "key": "47561",
-      "songName": "Last Goodbye - Battle Beast",
-      "hash": "37ec53b6b2e8c014d2275439bd6dd2b2bcde77b0",
-      "levelid": "custom_level_37ec53b6b2e8c014d2275439bd6dd2b2bcde77b0"
+      "key": "475af",
+      "songName": "Loner by NOYSE, Rudeejay",
+      "hash": "1a9b71b631f149339884002f82536aa8752c83aa",
+      "levelid": "custom_level_1a9b71b631f149339884002f82536aa8752c83aa"
     },
     {
-      "key": "47560",
-      "songName": "4 Min",
-      "hash": "c7484cd88aa0a17eed26f722379dc1efea834ec6",
-      "levelid": "custom_level_c7484cd88aa0a17eed26f722379dc1efea834ec6"
+      "key": "475ae",
+      "songName": "Daft Punk - Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "hash": "e7bed856a3b3ea5ff6558ca18bcde73d4e8a9ab0",
+      "levelid": "custom_level_e7bed856a3b3ea5ff6558ca18bcde73d4e8a9ab0"
     },
     {
-      "key": "4755f",
-      "songName": "Orihime Haruka - Hakoiri Rapunzel",
-      "hash": "315c0faba96bb52357458218d125f64df5836d5c",
-      "levelid": "custom_level_315c0faba96bb52357458218d125f64df5836d5c"
+      "key": "475ad",
+      "songName": "うるふ - 想い出迷子",
+      "hash": "ea5871ff186d69fd539e6abe3a34c8a898f160ed",
+      "levelid": "custom_level_ea5871ff186d69fd539e6abe3a34c8a898f160ed"
     },
     {
-      "key": "4755d",
-      "songName": "You & I",
-      "hash": "82f519889d87d701f02a0f440e2d9fd3fe236d91",
-      "levelid": "custom_level_82f519889d87d701f02a0f440e2d9fd3fe236d91"
+      "key": "475ab",
+      "songName": "第57次取消发送",
+      "hash": "cf507cabeb731b183fdaa225da4da16c2932a909",
+      "levelid": "custom_level_cf507cabeb731b183fdaa225da4da16c2932a909"
     },
     {
-      "key": "4755c",
-      "songName": "Action-ZERO 2010",
-      "hash": "b445f7d4e36ea22ca4e84b77c71cb398f0299f10",
-      "levelid": "custom_level_b445f7d4e36ea22ca4e84b77c71cb398f0299f10"
+      "key": "475a9",
+      "songName": "Battle Sirens",
+      "hash": "bb1095809f077ce961eb4e2c0529872dd9a21c9a",
+      "levelid": "custom_level_bb1095809f077ce961eb4e2c0529872dd9a21c9a"
     },
     {
-      "key": "4755b",
-      "songName": "Detox",
-      "hash": "c7450d88a4e2f3e6c69fb5ea8f3ea90bf664ab4e",
-      "levelid": "custom_level_c7450d88a4e2f3e6c69fb5ea8f3ea90bf664ab4e"
+      "key": "475a6",
+      "songName": "Pharrell Williams - Double Life (From Despicable Me 4) (V3)",
+      "hash": "279634348d27e40748e3acac0648b59923eccd73",
+      "levelid": "custom_level_279634348d27e40748e3acac0648b59923eccd73"
     },
     {
-      "key": "47557",
-      "songName": "PrinceWhateverer - Elemental",
-      "hash": "6de2f08aa92e77adeae7d3f0f0510b14dd8395ba",
-      "levelid": "custom_level_6de2f08aa92e77adeae7d3f0f0510b14dd8395ba"
+      "key": "475a4",
+      "songName": "Runaway - Bon Jovi (+360 map)",
+      "hash": "bc709bc90f5098ff1921dba0d2526f06c7032d76",
+      "levelid": "custom_level_bc709bc90f5098ff1921dba0d2526f06c7032d76"
     },
     {
-      "key": "47559",
-      "songName": "At Ends",
-      "hash": "bfa307863938c9413c64f2f968d31f666d5e2613",
-      "levelid": "custom_level_bfa307863938c9413c64f2f968d31f666d5e2613"
+      "key": "47589",
+      "songName": "Spooky Mormon Hell Dream - The Book of Mormon Broadway Musical",
+      "hash": "0f967cb6d92524d5dbdacc63ad5fe03e2f6bd5cd",
+      "levelid": "custom_level_0f967cb6d92524d5dbdacc63ad5fe03e2f6bd5cd"
     },
     {
-      "key": "47555",
-      "songName": "Medicine - (ft. Sasuke Haraguchi) (Wooden Flip) - Wooden",
-      "hash": "cf15619a29327f1cb1688828d40524066e2e0d17",
-      "levelid": "custom_level_cf15619a29327f1cb1688828d40524066e2e0d17"
+      "key": "475a0",
+      "songName": "Crayon Pop - Bar Bar Bar",
+      "hash": "b95d39d8f6a17d90029302198a0ee51816ba6c06",
+      "levelid": "custom_level_b95d39d8f6a17d90029302198a0ee51816ba6c06"
     },
     {
-      "key": "47554",
-      "songName": "Good Night, Bad Luck (Uncut Edition) - t+pazolite",
-      "hash": "6986ad78671ed95348809a64be14d3e6fc19b4e9",
-      "levelid": "custom_level_6986ad78671ed95348809a64be14d3e6fc19b4e9"
+      "key": "46d03",
+      "songName": "童話迷宮 (Douwa Meikyu)",
+      "hash": "7cbac267ca50e3c93f3ada38e75f8db3beab6f4e",
+      "levelid": "custom_level_7cbac267ca50e3c93f3ada38e75f8db3beab6f4e"
     },
     {
-      "key": "47515",
-      "songName": "[V4] Groove Maytrix - Unleashed",
-      "hash": "fc95a77aa00b70c4c926b379b81b25e0af377e63",
-      "levelid": "custom_level_fc95a77aa00b70c4c926b379b81b25e0af377e63"
+      "key": "47598",
+      "songName": "‎ ‎ ‎ ‎ ",
+      "hash": "a3571f55b4105998db0915220624f0c234c3be75",
+      "levelid": "custom_level_a3571f55b4105998db0915220624f0c234c3be75"
     },
     {
-      "key": "47552",
-      "songName": "2",
-      "hash": "d3e8aa37c2e9a97b4e1e7619734b2b0d6ac7f316",
-      "levelid": "custom_level_d3e8aa37c2e9a97b4e1e7619734b2b0d6ac7f316"
+      "key": "4753d",
+      "songName": "KEMURIKUSA - nano",
+      "hash": "d06307e265140e92f19f79389674ab61bea23c68",
+      "levelid": "custom_level_d06307e265140e92f19f79389674ab61bea23c68"
     },
     {
-      "key": "47551",
+      "key": "4758d",
+      "songName": "Yung Gravy - Betty",
+      "hash": "b03810a569db3a2832ef0bcb6db81e564f983d40",
+      "levelid": "custom_level_b03810a569db3a2832ef0bcb6db81e564f983d40"
+    },
+    {
+      "key": "4758c",
+      "songName": "540 palm up ",
+      "hash": "d63bd9495bed15565913222c417d102602f74449",
+      "levelid": "custom_level_d63bd9495bed15565913222c417d102602f74449"
+    },
+    {
+      "key": "4758b",
+      "songName": "Whourkr - Groovinbear V2",
+      "hash": "d70b51289bb23fa992d4b68e5f67ead0e306dd32",
+      "levelid": "custom_level_d70b51289bb23fa992d4b68e5f67ead0e306dd32"
+    },
+    {
+      "key": "4758a",
+      "songName": "HI HI HA HA!",
+      "hash": "08cedade48f7d96f87bc1610f4343511e66daa62",
+      "levelid": "custom_level_08cedade48f7d96f87bc1610f4343511e66daa62"
+    },
+    {
+      "key": "47583",
+      "songName": "Haggstrom",
+      "hash": "9beaf4a72d908d7c3371960e77b795dc1705971e",
+      "levelid": "custom_level_9beaf4a72d908d7c3371960e77b795dc1705971e"
+    },
+    {
+      "key": "47582",
+      "songName": "Bad Things - I Prevail",
+      "hash": "63ff817bbe72a9481137b6bdefc90e88f58c5e72",
+      "levelid": "custom_level_63ff817bbe72a9481137b6bdefc90e88f58c5e72"
+    },
+    {
+      "key": "47580",
+      "songName": "My Blood - Twenty One Pilots",
+      "hash": "d453702995f476a25e6261a495e06d85bbdefefe",
+      "levelid": "custom_level_d453702995f476a25e6261a495e06d85bbdefefe"
+    },
+    {
+      "key": "4757f",
       "songName": "The Love I Lost   ",
-      "hash": "a09d8cb5115e54aca83ad01de57c18d1fa675a7c",
-      "levelid": "custom_level_a09d8cb5115e54aca83ad01de57c18d1fa675a7c"
+      "hash": "ea4fd6cfb829b484a0fbf615a30374f84b26ef00",
+      "levelid": "custom_level_ea4fd6cfb829b484a0fbf615a30374f84b26ef00"
     },
     {
-      "key": "47550",
-      "songName": "Nsfw Artists",
-      "hash": "d27429293e2bbaa8d1f9ff954c1494009b4605da",
-      "levelid": "custom_level_d27429293e2bbaa8d1f9ff954c1494009b4605da"
+      "key": "4757e",
+      "songName": "I thin I'm famous",
+      "hash": "8b833ce000f22daf69388fce4c848b928b864763",
+      "levelid": "custom_level_8b833ce000f22daf69388fce4c848b928b864763"
     },
     {
-      "key": "4754f",
-      "songName": "Kalafina  -  Magia",
-      "hash": "38048b7ecbdceb9b9af4ed7c8bd45d830e914cdf",
-      "levelid": "custom_level_38048b7ecbdceb9b9af4ed7c8bd45d830e914cdf"
+      "key": "4757d",
+      "songName": "Motorbike",
+      "hash": "06cab2a0e9721c722a40756cc1f20cf36f9c37e4",
+      "levelid": "custom_level_06cab2a0e9721c722a40756cc1f20cf36f9c37e4"
     },
     {
-      "key": "4754e",
-      "songName": "MANISH  -  kirameku toki ni toraware te",
-      "hash": "8befc4e2b7fb2526a0810453286a0d63f81081cd",
-      "levelid": "custom_level_8befc4e2b7fb2526a0810453286a0d63f81081cd"
+      "key": "47576",
+      "songName": "i'm a bun",
+      "hash": "2c3ac70709f6603d0cf6832208c4e0843b3e1f20",
+      "levelid": "custom_level_2c3ac70709f6603d0cf6832208c4e0843b3e1f20"
     },
     {
-      "key": "474d7",
-      "songName": "03-06 永夜之前-希林娜依高",
-      "hash": "0fb86d4b4e70ffcd1fb31db0b8c28526d04d0df3",
-      "levelid": "custom_level_0fb86d4b4e70ffcd1fb31db0b8c28526d04d0df3"
+      "key": "47575",
+      "songName": "kaden. - tribulation",
+      "hash": "c2f2f558a37822ed05a89d9cd73d0cad033f24cf",
+      "levelid": "custom_level_c2f2f558a37822ed05a89d9cd73d0cad033f24cf"
     },
     {
-      "key": "4754d",
-      "songName": "abingdon boys school  -  kimi no uta",
-      "hash": "52704ce6e5e1c30b75b0deeed1ca9fa69bbe47d3",
-      "levelid": "custom_level_52704ce6e5e1c30b75b0deeed1ca9fa69bbe47d3"
+      "key": "4754c",
+      "songName": "PINK POWER RANGER POOPS but its just the 1 handed difficultys fixed",
+      "hash": "f8e9a811bcacf6ad26155a5070086673add8642f",
+      "levelid": "custom_level_f8e9a811bcacf6ad26155a5070086673add8642f"
     },
     {
-      "key": "47549",
-      "songName": "BUDLIGHT",
-      "hash": "4a33a9ebfa447de5ae01f59905c2048aae0a6cf5",
-      "levelid": "custom_level_4a33a9ebfa447de5ae01f59905c2048aae0a6cf5"
+      "key": "47574",
+      "songName": "Il Tributo Gormita (Non Resisto Più!)",
+      "hash": "b3f4e9c35aeb76b4ef6bb180c4ee9fa62273160e",
+      "levelid": "custom_level_b3f4e9c35aeb76b4ef6bb180c4ee9fa62273160e"
     },
     {
-      "key": "47544",
-      "songName": "Selena Gomez - Everything Is Not What It Seems (wizards of Waverly place theme song)",
-      "hash": "c7b5b1047f276d86f04547ec37744ab5e87264f1",
-      "levelid": "custom_level_c7b5b1047f276d86f04547ec37744ab5e87264f1"
+      "key": "47573",
+      "songName": "San Pacho & TOBEHONEST- Horny",
+      "hash": "41fe6dae5506a4572b0bcf073b0063ca7ee889ba",
+      "levelid": "custom_level_41fe6dae5506a4572b0bcf073b0063ca7ee889ba"
     },
     {
-      "key": "4753e",
-      "songName": "Final Music Orchestra",
-      "hash": "e86eecbdb014be827979830b7febd3a365539f9d",
-      "levelid": "custom_level_e86eecbdb014be827979830b7febd3a365539f9d"
+      "key": "47572",
+      "songName": "Circus-P - Twilight Melody feat. Hatsune miku",
+      "hash": "40db64e1b0c5347bddbc6f52b8ba0123f5ff4316",
+      "levelid": "custom_level_40db64e1b0c5347bddbc6f52b8ba0123f5ff4316"
     },
     {
-      "key": "47537",
-      "songName": "YOU KNOW I LOVE THE TUBA v2",
-      "hash": "154461c9ea27df7b7ec43134abf84f3237f47aff",
-      "levelid": "custom_level_154461c9ea27df7b7ec43134abf84f3237f47aff"
+      "key": "47571",
+      "songName": "[V3] Twenty One Pilots - The Craving (Jenna's version)",
+      "hash": "ed7af6aaaeed5a9e26d0d7c8d572d7b9008e65bb",
+      "levelid": "custom_level_ed7af6aaaeed5a9e26d0d7c8d572d7b9008e65bb"
     },
     {
-      "key": "4752e",
-      "songName": "Letdown - Karma",
-      "hash": "7fec014c931b160babce1bee7bd5e9f10fda064c",
-      "levelid": "custom_level_7fec014c931b160babce1bee7bd5e9f10fda064c"
+      "key": "4756d",
+      "songName": "Tiktok Made Me Do It",
+      "hash": "cfddc530aee4dc2b88213e544ae3de1221aae574",
+      "levelid": "custom_level_cfddc530aee4dc2b88213e544ae3de1221aae574"
     },
     {
-      "key": "47530",
-      "songName": "Oliver Buckland - the insides of tears",
-      "hash": "fa3ebf290d6ad145f8c34871c7a22cdb44f136fa",
-      "levelid": "custom_level_fa3ebf290d6ad145f8c34871c7a22cdb44f136fa"
+      "key": "4756c",
+      "songName": "AKAGE",
+      "hash": "2ac75e02474e038f6d1ab45065116f9c3d1e67cc",
+      "levelid": "custom_level_2ac75e02474e038f6d1ab45065116f9c3d1e67cc"
     },
     {
-      "key": "47514",
-      "songName": "Sweden - C418 Minecraft",
-      "hash": "1fb15f9fea05d76c0d6522f963e5f85997b65a1a",
-      "levelid": "custom_level_1fb15f9fea05d76c0d6522f963e5f85997b65a1a"
+      "key": "4756a",
+      "songName": "SHARKS WITH LEGS! - justan oval",
+      "hash": "48583bd403f5cb5f0a6d1a27f1e815bddc58c869",
+      "levelid": "custom_level_48583bd403f5cb5f0a6d1a27f1e815bddc58c869"
     },
     {
-      "key": "47511",
-      "songName": "the prom",
-      "hash": "5744613a078df4b2bbaaf7af2ba65a9619710fce",
-      "levelid": "custom_level_5744613a078df4b2bbaaf7af2ba65a9619710fce"
-    },
-    {
-      "key": "47507",
-      "songName": "Across the stars ",
-      "hash": "8a6f4b23139f274ab2c21bec6fdad1445a81985f",
-      "levelid": "custom_level_8a6f4b23139f274ab2c21bec6fdad1445a81985f"
-    },
-    {
-      "key": "47501",
-      "songName": "[V4] Backslide - twenty one pilots",
-      "hash": "b1fb8953e9cd66efd44399015759f4d900611608",
-      "levelid": "custom_level_b1fb8953e9cd66efd44399015759f4d900611608"
-    },
-    {
-      "key": "474fd",
-      "songName": "Frozen",
-      "hash": "59e8cb4557c91b3cbf0e3bfd914aa2cc5db18040",
-      "levelid": "custom_level_59e8cb4557c91b3cbf0e3bfd914aa2cc5db18040"
-    },
-    {
-      "key": "474f8",
-      "songName": "Kobaryo - Cross The Finish Line (Feat. Nanahira)",
-      "hash": "64d6f3994bd81da413ae26f44bd6ff783019f344",
-      "levelid": "custom_level_64d6f3994bd81da413ae26f44bd6ff783019f344"
-    },
-    {
-      "key": "474f6",
-      "songName": "Heiakim - Nico Nico Nii (Heiakim Remix)",
-      "hash": "fcbe9b2bdac3305cdda19846f897499ae76463e0",
-      "levelid": "custom_level_fcbe9b2bdac3305cdda19846f897499ae76463e0"
-    },
-    {
-      "key": "474f2",
-      "songName": "joz - Hit the gas like you wouldn't believe it (Short Edit)",
-      "hash": "be753c189688fbc666e7c65dc41718850d73e5b1",
-      "levelid": "custom_level_be753c189688fbc666e7c65dc41718850d73e5b1"
-    },
-    {
-      "key": "474ef",
-      "songName": "Kaneko Chiharu - Kurenai no Kenbu",
-      "hash": "5e6d3afce27174c95eca5726ddf7f17456bfcbb9",
-      "levelid": "custom_level_5e6d3afce27174c95eca5726ddf7f17456bfcbb9"
-    },
-    {
-      "key": "474ee",
-      "songName": "Cougar Macdowell - Scream Everyday ",
-      "hash": "254cf78e2285046c999b761c90520d5548074a68",
-      "levelid": "custom_level_254cf78e2285046c999b761c90520d5548074a68"
-    },
-    {
-      "key": "474ea",
-      "songName": "Overrated - Remedy",
-      "hash": "c08e22d57905fecbbd33f4cee2f94ed1efb985ac",
-      "levelid": "custom_level_c08e22d57905fecbbd33f4cee2f94ed1efb985ac"
-    },
-    {
-      "key": "474e6",
-      "songName": " Lumi Athena - ICEWHORE!",
-      "hash": "0590ef428e515c59067122ae276ca9a7b5838de4",
-      "levelid": "custom_level_0590ef428e515c59067122ae276ca9a7b5838de4"
+      "key": "47569",
+      "songName": "The Rare Occasions - Backwards [Remake]",
+      "hash": "60b99f50f74e162e46d3475c214239b34b87827f",
+      "levelid": "custom_level_60b99f50f74e162e46d3475c214239b34b87827f"
     }
   ],
   "image": ""
