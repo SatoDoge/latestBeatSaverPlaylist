@@ -1,292 +1,256 @@
 {
-  "playlistTitle": "2025-06-02T15:18:48.300Z~2025-06-03T15:18:48.300Z",
+  "playlistTitle": "2025-06-03T15:18:48.235Z~2025-06-04T15:18:48.235Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-06-02T15:18:48.300Z and 2025-06-03T15:18:48.300Z",
+  "discripstion": "Maps published between 2025-06-03T15:18:48.235Z and 2025-06-04T15:18:48.235Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "47759",
-      "songName": "Congratulations",
-      "hash": "0c6d7fd15f02e2e9c94245d5a6ebe54505e3960e",
-      "levelid": "custom_level_0c6d7fd15f02e2e9c94245d5a6ebe54505e3960e"
+      "key": "477c3",
+      "songName": "One More Bark",
+      "hash": "2177456ba542d56463cf1b8ea89a32c0453ec130",
+      "levelid": "custom_level_2177456ba542d56463cf1b8ea89a32c0453ec130"
     },
     {
-      "key": "47757",
-      "songName": "December 16 2024",
-      "hash": "c97f617233f174ebfe55c8c65cfc7e3b3cebfb6e",
-      "levelid": "custom_level_c97f617233f174ebfe55c8c65cfc7e3b3cebfb6e"
+      "key": "47663",
+      "songName": "Liz Triangle - Yoru no Circus",
+      "hash": "9a316a0d621accb58bdb2a52e2e2284be3453ee4",
+      "levelid": "custom_level_9a316a0d621accb58bdb2a52e2e2284be3453ee4"
     },
     {
-      "key": "47756",
-      "songName": "deja vu",
-      "hash": "99ad24f3e7a1ef572d1e75c52fa91b7eafad3b2f",
-      "levelid": "custom_level_99ad24f3e7a1ef572d1e75c52fa91b7eafad3b2f"
+      "key": "477c1",
+      "songName": "The 1975 - The Sound",
+      "hash": "14305825b5afb6faff6ecbae1dc5b8528c519105",
+      "levelid": "custom_level_14305825b5afb6faff6ecbae1dc5b8528c519105"
     },
     {
-      "key": "47755",
-      "songName": "Unwelcome School (7_7 Godcore bootleg)",
-      "hash": "e08c58d5facaa2cbed4bd3d819613521298de45d",
-      "levelid": "custom_level_e08c58d5facaa2cbed4bd3d819613521298de45d"
+      "key": "477bd",
+      "songName": "Asgore",
+      "hash": "5209a7bd399f35475c652702ba225256af94aa34",
+      "levelid": "custom_level_5209a7bd399f35475c652702ba225256af94aa34"
     },
     {
-      "key": "47738",
-      "songName": "なごり寿司～クロちゃんVer",
-      "hash": "ee9b502f9f06c6b56ef6b79a2e87b566ec46678c",
-      "levelid": "custom_level_ee9b502f9f06c6b56ef6b79a2e87b566ec46678c"
+      "key": "477bc",
+      "songName": "HH",
+      "hash": "f3fe144845e5784e28ab5dacd1a9333f92003b36",
+      "levelid": "custom_level_f3fe144845e5784e28ab5dacd1a9333f92003b36"
     },
     {
-      "key": "476ae",
-      "songName": "グランディアⅡ　闇の浄化～部位との戦闘",
-      "hash": "326fffa14f03123095b573b9824a6d224fa62bc7",
-      "levelid": "custom_level_326fffa14f03123095b573b9824a6d224fa62bc7"
+      "key": "477bb",
+      "songName": "You Dashed in the Wrong Gauntlet 2",
+      "hash": "e5382af45ac0068cfd5210584c098ada8649fafa",
+      "levelid": "custom_level_e5382af45ac0068cfd5210584c098ada8649fafa"
     },
     {
-      "key": "476cd",
-      "songName": "さかえ屋なんばん往来",
-      "hash": "31aeac6e11b3eff4ae99af12c50c2e4bc50db997",
-      "levelid": "custom_level_31aeac6e11b3eff4ae99af12c50c2e4bc50db997"
+      "key": "47257",
+      "songName": "Toby Fox - Hopes and Dreams (Undertale)",
+      "hash": "67f82964d2f7643d17ae94f9582a3f2160f2b718",
+      "levelid": "custom_level_67f82964d2f7643d17ae94f9582a3f2160f2b718"
     },
     {
-      "key": "47215",
-      "songName": "BANGER A.F., BROOOO!!!",
-      "hash": "3693456bdbde8f70c8899c114a16be4e86afbdb5",
-      "levelid": "custom_level_3693456bdbde8f70c8899c114a16be4e86afbdb5"
+      "key": "477b9",
+      "songName": "killgriffin & joz - griffnjoz hook line n sinker",
+      "hash": "0729163d7f5a2e5b7024883d4019999dca4dd5f7",
+      "levelid": "custom_level_0729163d7f5a2e5b7024883d4019999dca4dd5f7"
     },
     {
-      "key": "47748",
-      "songName": "Uchouten Vivace (Yukionnu cover) - Last Note.",
-      "hash": "9164c6be77c604eb99c026f35f38b5b63909fc5c",
-      "levelid": "custom_level_9164c6be77c604eb99c026f35f38b5b63909fc5c"
+      "key": "477a7",
+      "songName": "[Vivify] Before The Infinite Eclipse",
+      "hash": "af3c85fa1b4881dbbab65dbc8e3d5f8cfc12bb67",
+      "levelid": "custom_level_af3c85fa1b4881dbbab65dbc8e3d5f8cfc12bb67"
     },
     {
-      "key": "4773b",
-      "songName": "Leony - I can feel [WIP]",
-      "hash": "3e5b76c164c69a7cbe538249e52ff07958b92982",
-      "levelid": "custom_level_3e5b76c164c69a7cbe538249e52ff07958b92982"
+      "key": "477a6",
+      "songName": "[Saber the Intro pack] Madison Beer - The Beginning",
+      "hash": "689bba638afb84a29193efe464a73010360acd65",
+      "levelid": "custom_level_689bba638afb84a29193efe464a73010360acd65"
     },
     {
-      "key": "4773a",
-      "songName": "Wasted Love - JJ",
-      "hash": "a7ebd3b4e169ded6660a6dfbbebc3de07da1ed89",
-      "levelid": "custom_level_a7ebd3b4e169ded6660a6dfbbebc3de07da1ed89"
+      "key": "477a5",
+      "songName": "My hero academia opening 12 (tagatame)",
+      "hash": "685374c25cdf2593681767644d70d75d0181c082",
+      "levelid": "custom_level_685374c25cdf2593681767644d70d75d0181c082"
     },
     {
-      "key": "47739",
-      "songName": "Chris Kyle",
-      "hash": "9c0569469a7bda408db54f92652d5ea46a49ae0c",
-      "levelid": "custom_level_9c0569469a7bda408db54f92652d5ea46a49ae0c"
+      "key": "4775c",
+      "songName": "ゆよゆっぺ - For a Dead Girl+",
+      "hash": "e23ee2c56033bfaeb2a15dbd385756ed466a5e25",
+      "levelid": "custom_level_e23ee2c56033bfaeb2a15dbd385756ed466a5e25"
     },
     {
-      "key": "47737",
-      "songName": "Spider's Thread - Kikuo & CosMo@BousouP (Feat. Hana Kagenui)",
-      "hash": "bd37951e5d6f2a2b13388d419a899747e13cd51d",
-      "levelid": "custom_level_bd37951e5d6f2a2b13388d419a899747e13cd51d"
+      "key": "4775b",
+      "songName": "太陽曰く燃えよカオス(Ricot Bootleg) - 後ろから這いより隊G[這いよれ! ニャル子さん]",
+      "hash": "a7d2820636a948f2fea476d8d719418310320b58",
+      "levelid": "custom_level_a7d2820636a948f2fea476d8d719418310320b58"
     },
     {
-      "key": "47735",
-      "songName": "Xplosn - Sacrifices",
-      "hash": "082c527ce8ef7963b52a39ae84f3aecb6c25a052",
-      "levelid": "custom_level_082c527ce8ef7963b52a39ae84f3aecb6c25a052"
+      "key": "4775a",
+      "songName": "Tales Weaver - Make U THE Weaver",
+      "hash": "be36f9a26e86bb0a6ca6d2d8852bc6ffc2eb8067",
+      "levelid": "custom_level_be36f9a26e86bb0a6ca6d2d8852bc6ffc2eb8067"
     },
     {
-      "key": "47734",
-      "songName": "wow this is so wow this is so",
-      "hash": "e6fdad28cd55c4b7510861285b809c2a5c512bc1",
-      "levelid": "custom_level_e6fdad28cd55c4b7510861285b809c2a5c512bc1"
+      "key": "47758",
+      "songName": "Qrabit - Twenty One[Cytus]",
+      "hash": "9710583e31d0acd557e55ce41f12269bca923d64",
+      "levelid": "custom_level_9710583e31d0acd557e55ce41f12269bca923d64"
     },
     {
-      "key": "47731",
-      "songName": "Omoi - Teo (feat. Hatsune Miku)",
-      "hash": "d6eec44deb9362054ef191b5ad48b6dfa6a549f5",
-      "levelid": "custom_level_d6eec44deb9362054ef191b5ad48b6dfa6a549f5"
+      "key": "4779d",
+      "songName": "Chicken Banana",
+      "hash": "291eb50c493f3024161a011c1df0a6464bcccac6",
+      "levelid": "custom_level_291eb50c493f3024161a011c1df0a6464bcccac6"
     },
     {
-      "key": "47725",
-      "songName": "[Chroma] Damocles - Sleep Token",
-      "hash": "1124c232680fea2d01fadd823f985038bfee9ed8",
-      "levelid": "custom_level_1124c232680fea2d01fadd823f985038bfee9ed8"
+      "key": "4779c",
+      "songName": "String Theocracy - Library of Ruina theme song - Mili -",
+      "hash": "30aa61c6239571188df7cf7bfdcc3555d467d1fa",
+      "levelid": "custom_level_30aa61c6239571188df7cf7bfdcc3555d467d1fa"
     },
     {
-      "key": "47724",
-      "songName": "Gimme a Dew | Mountain Dew | Do The Dew",
-      "hash": "23d1174c2a4ba7ef700cd0fe0d36394d348d0664",
-      "levelid": "custom_level_23d1174c2a4ba7ef700cd0fe0d36394d348d0664"
+      "key": "4779b",
+      "songName": "Saint Maniac - Grabbitz",
+      "hash": "3978f838a70bda3e154338ed2bd7e0fe9a7927b7",
+      "levelid": "custom_level_3978f838a70bda3e154338ed2bd7e0fe9a7927b7"
     },
     {
-      "key": "47714",
-      "songName": "EVER BEEN FUCKED THIS GOOD?",
-      "hash": "2507cc96ee3741cdacdc96d3009e7e8e402043b3",
-      "levelid": "custom_level_2507cc96ee3741cdacdc96d3009e7e8e402043b3"
+      "key": "4779a",
+      "songName": "A town with a sunlit spot-Ah!",
+      "hash": "aa6e2d5721c8b435f4b13bf2e1fe6abadf535816",
+      "levelid": "custom_level_aa6e2d5721c8b435f4b13bf2e1fe6abadf535816"
     },
     {
-      "key": "47711",
-      "songName": "Crazy Cattle 3D",
-      "hash": "6501b445458e9317957013c31c230ff70be22db6",
-      "levelid": "custom_level_6501b445458e9317957013c31c230ff70be22db6"
+      "key": "47791",
+      "songName": "Lake Of Fire - Nirvana",
+      "hash": "59161aadebda047161e233bba19dcfaf80b9a918",
+      "levelid": "custom_level_59161aadebda047161e233bba19dcfaf80b9a918"
     },
     {
-      "key": "474da",
-      "songName": "03-09 救赎",
-      "hash": "051a459e71c557d580f7d9e49018eed825b89bee",
-      "levelid": "custom_level_051a459e71c557d580f7d9e49018eed825b89bee"
+      "key": "4778f",
+      "songName": "my twenty first reason </3 - wifiskeleton",
+      "hash": "bd8140a592132bdf0c62cf54bcda0b12f50cfe7e",
+      "levelid": "custom_level_bd8140a592132bdf0c62cf54bcda0b12f50cfe7e"
     },
     {
-      "key": "47710",
-      "songName": "Ground (Spin)",
-      "hash": "7e2d2dd4359f4495817f657330cffe91bc4f99e4",
-      "levelid": "custom_level_7e2d2dd4359f4495817f657330cffe91bc4f99e4"
+      "key": "47780",
+      "songName": "Azari - Whisper Whisper Whisper (來-Ray- cover)",
+      "hash": "39b95c99c346d4bcd50f6418df2edadf96fdf48b",
+      "levelid": "custom_level_39b95c99c346d4bcd50f6418df2edadf96fdf48b"
     },
     {
-      "key": "4770d",
-      "songName": "Divisive - Disturbed",
-      "hash": "5092c03a14a63383b3c25c72adafefb66f90cb2b",
-      "levelid": "custom_level_5092c03a14a63383b3c25c72adafefb66f90cb2b"
+      "key": "4777f",
+      "songName": "Badland",
+      "hash": "bf587bbf462c23c923da4a14173c414a895e7e4a",
+      "levelid": "custom_level_bf587bbf462c23c923da4a14173c414a895e7e4a"
     },
     {
-      "key": "47705",
-      "songName": "Goku",
-      "hash": "7c684549498b116672270f6357ea8714794ea998",
-      "levelid": "custom_level_7c684549498b116672270f6357ea8714794ea998"
+      "key": "4777e",
+      "songName": "Empire State Of Mind X Beat Rj 135 Bpm",
+      "hash": "01d4c648e8d3dcad6ed6d0e8dcf8cd48612908bf",
+      "levelid": "custom_level_01d4c648e8d3dcad6ed6d0e8dcf8cd48612908bf"
     },
     {
-      "key": "47701",
-      "songName": "Rise Against - Injection (Cut Ver.)",
-      "hash": "5d71f53f63de9727c0e8789233ce7777e08f2f63",
-      "levelid": "custom_level_5d71f53f63de9727c0e8789233ce7777e08f2f63"
+      "key": "4777d",
+      "songName": "Y LLORO",
+      "hash": "0ebdd92a245efe0b738ab38e98d858e8faa7fbe1",
+      "levelid": "custom_level_0ebdd92a245efe0b738ab38e98d858e8faa7fbe1"
     },
     {
-      "key": "47700",
-      "songName": "I Hope You Find Your Way Home - Tyler, The Creator",
-      "hash": "009099a08a1e08f51ffb61855bc760e6ee9008ef",
-      "levelid": "custom_level_009099a08a1e08f51ffb61855bc760e6ee9008ef"
+      "key": "4777a",
+      "songName": "In the name, in the east freestyle",
+      "hash": "cf7a5c69545df22fe110ee9f3597aac19017852b",
+      "levelid": "custom_level_cf7a5c69545df22fe110ee9f3597aac19017852b"
     },
     {
-      "key": "476fd",
-      "songName": "Mike Squires & Vic Sage - Heavyweights",
-      "hash": "3489ecdeee4f2a9049a97ad53af58fee4922144a",
-      "levelid": "custom_level_3489ecdeee4f2a9049a97ad53af58fee4922144a"
+      "key": "47777",
+      "songName": "呦猫 - 廢墟中綻放的花（鋼嵐）",
+      "hash": "e15bb5977e055f8eeeb19f58ab025fe78fde9901",
+      "levelid": "custom_level_e15bb5977e055f8eeeb19f58ab025fe78fde9901"
     },
     {
-      "key": "476fa",
-      "songName": "Glod Up - Juice WRLD",
-      "hash": "1a336980c080da4d64809eb5620ef6571bbacbc0",
-      "levelid": "custom_level_1a336980c080da4d64809eb5620ef6571bbacbc0"
+      "key": "47778",
+      "songName": "2 Aprivvvvvvvvvvvvl 2025 v3",
+      "hash": "f33ce19aac6abb5f5db27b9ea7b2712c06ef1e32",
+      "levelid": "custom_level_f33ce19aac6abb5f5db27b9ea7b2712c06ef1e32"
     },
     {
-      "key": "476f8",
-      "songName": "HalaCG - GENIUS SOCIETY SONG (ft. Justine's Mic, Swiblet & SO87)",
-      "hash": "dc356a015287aa7f96431d7bed48cb7e7c8859af",
-      "levelid": "custom_level_dc356a015287aa7f96431d7bed48cb7e7c8859af"
+      "key": "4776b",
+      "songName": "Blessthefall - With Eyes Wide Shut",
+      "hash": "d47025398ded63a388d90bd12ffae872cdefeb3b",
+      "levelid": "custom_level_d47025398ded63a388d90bd12ffae872cdefeb3b"
     },
     {
-      "key": "476f6",
-      "songName": "Pegboard Nerds - Give A Little Love",
-      "hash": "4ebaa5056c90bb8aae6492d451134fee898a17e4",
-      "levelid": "custom_level_4ebaa5056c90bb8aae6492d451134fee898a17e4"
+      "key": "47775",
+      "songName": "JOENN - Screaming Out (feat. HIRAGA & DEMONDICE)",
+      "hash": "b3a428a89f628e6243c9be30c4048afb18bf01cd",
+      "levelid": "custom_level_b3a428a89f628e6243c9be30c4048afb18bf01cd"
     },
     {
-      "key": "476f5",
-      "songName": "Seven Lions - Moonlight",
-      "hash": "feb7fe49d1a8eb98f98ad25c5efd3ce4d8b0e0da",
-      "levelid": "custom_level_feb7fe49d1a8eb98f98ad25c5efd3ce4d8b0e0da"
+      "key": "47774",
+      "songName": "やらないか(Yaranaika)",
+      "hash": "7292461ad76788fc0b2aa209e601271b1dfaac0e",
+      "levelid": "custom_level_7292461ad76788fc0b2aa209e601271b1dfaac0e"
     },
     {
-      "key": "476f4",
-      "songName": "You want to play this map",
-      "hash": "812350b865e0678c7fedd58312eb26c0f10e97bb",
-      "levelid": "custom_level_812350b865e0678c7fedd58312eb26c0f10e97bb"
+      "key": "47773",
+      "songName": "Bloody Purity - Eyemedia [Chroma 2.0]",
+      "hash": "5bae5b62da9a958d76cf244e7aa4cf998fcd033d",
+      "levelid": "custom_level_5bae5b62da9a958d76cf244e7aa4cf998fcd033d"
     },
     {
-      "key": "476f1",
-      "songName": "7038634357 - Ground (Up) INVERTED",
-      "hash": "6cf2a9207d54a1cb397e8b35cb63a79a3dd4d3a4",
-      "levelid": "custom_level_6cf2a9207d54a1cb397e8b35cb63a79a3dd4d3a4"
+      "key": "47772",
+      "songName": "UNWELCOME SCHOOL (8 lane)",
+      "hash": "667fccdddae734094ce0227344e5ee4b19d93c07",
+      "levelid": "custom_level_667fccdddae734094ce0227344e5ee4b19d93c07"
     },
     {
-      "key": "476de",
-      "songName": "Reload - Graphyt & Diskirz",
-      "hash": "3fef342652107f462c19b6ca7d7e24c6275659c8",
-      "levelid": "custom_level_3fef342652107f462c19b6ca7d7e24c6275659c8"
+      "key": "4775e",
+      "songName": "Link - 明透",
+      "hash": "57fdfcee718be81376c70586a385a90700f49e80",
+      "levelid": "custom_level_57fdfcee718be81376c70586a385a90700f49e80"
     },
     {
-      "key": "475fb",
-      "songName": "David Guetta - Baby Don't Hurt Me",
-      "hash": "0392c71d43fd8e68dd7cbda5597acc0ee3334979",
-      "levelid": "custom_level_0392c71d43fd8e68dd7cbda5597acc0ee3334979"
+      "key": "4772e",
+      "songName": "[Vivify+] Excision - Decimate (MASS PANIC FLIP)",
+      "hash": "cbad1b67bff1791932c15905e25dccfef5f96b2e",
+      "levelid": "custom_level_cbad1b67bff1791932c15905e25dccfef5f96b2e"
     },
     {
-      "key": "476ef",
-      "songName": "Ground (up) ",
-      "hash": "ff6f67bb1a27024ddfc3d9c42df9017a62c67489",
-      "levelid": "custom_level_ff6f67bb1a27024ddfc3d9c42df9017a62c67489"
+      "key": "4776a",
+      "songName": "dj cream",
+      "hash": "b7e1ba9249f8c5576e8a6ee154bee9c7c4c9a33d",
+      "levelid": "custom_level_b7e1ba9249f8c5576e8a6ee154bee9c7c4c9a33d"
     },
     {
-      "key": "476ee",
-      "songName": "Merzbow - Deathmetal (cut)",
-      "hash": "bd71f8cc37605a3a34e324e1990f02553103804b",
-      "levelid": "custom_level_bd71f8cc37605a3a34e324e1990f02553103804b"
+      "key": "47763",
+      "songName": "Cougar Macdowell - Dream Everyday ",
+      "hash": "18df652c54cfc2c5e1606954b0c4eb52a5b8a456",
+      "levelid": "custom_level_18df652c54cfc2c5e1606954b0c4eb52a5b8a456"
     },
     {
-      "key": "476ed",
-      "songName": "Yamajet - Grinning Face",
-      "hash": "232cae971dd8787715154bd36e209c5eb0e562e8",
-      "levelid": "custom_level_232cae971dd8787715154bd36e209c5eb0e562e8"
+      "key": "47760",
+      "songName": "Lumière - Lorien Testard [Clair Obscur: Expedition 33]",
+      "hash": "966c18f066a972a0c921e9f6453ff91c52b6a000",
+      "levelid": "custom_level_966c18f066a972a0c921e9f6453ff91c52b6a000"
     },
     {
-      "key": "476e8",
-      "songName": "Camellia - Suoh Divine Raiment",
-      "hash": "3e2612907c6403fdc7076708a927925a4a25ab25",
-      "levelid": "custom_level_3e2612907c6403fdc7076708a927925a4a25ab25"
+      "key": "4775f",
+      "songName": "Spring Meadows - Battling Breeze - Lorien Testard [Clair Obscur: Expedition 33]",
+      "hash": "9f14afff858568a9821c9087017c80ff94231605",
+      "levelid": "custom_level_9f14afff858568a9821c9087017c80ff94231605"
     },
     {
-      "key": "476e7",
-      "songName": "FLY ME TO THE MOON（#5 remix",
-      "hash": "09927fcb867b4543e6c1bdd84f98076c003a3c7b",
-      "levelid": "custom_level_09927fcb867b4543e6c1bdd84f98076c003a3c7b"
+      "key": "47761",
+      "songName": "Alicia - Lorien Testard [Clair Obscur: Expedition 33]",
+      "hash": "9f822177c8d2d8002e1c50ff9fb3a10627b1a2d3",
+      "levelid": "custom_level_9f822177c8d2d8002e1c50ff9fb3a10627b1a2d3"
     },
     {
-      "key": "476af",
-      "songName": "MGMT - Siberian Breaks (GL + VNJS)",
-      "hash": "27d03f4468cb4c5061e07eaf23519e126a2fa081",
-      "levelid": "custom_level_27d03f4468cb4c5061e07eaf23519e126a2fa081"
-    },
-    {
-      "key": "476e2",
-      "songName": "orange",
-      "hash": "227d42bc9535da441a583a82d92e40869a6d516c",
-      "levelid": "custom_level_227d42bc9535da441a583a82d92e40869a6d516c"
-    },
-    {
-      "key": "476e0",
-      "songName": "IT’S JESUS! SAY HELLO JESUS",
-      "hash": "839826d08e3f33d9e959b233876b36ae3a9fe537",
-      "levelid": "custom_level_839826d08e3f33d9e959b233876b36ae3a9fe537"
-    },
-    {
-      "key": "476dd",
-      "songName": "音圧第一 (LOUDNESSFIRST) - Zaagy Vibe",
-      "hash": "4ed13a4236e5ac7e8c9b0ef6d2b92927de8f2554",
-      "levelid": "custom_level_4ed13a4236e5ac7e8c9b0ef6d2b92927de8f2554"
-    },
-    {
-      "key": "476dc",
-      "songName": "Azure Duel - CrocsVR Custom OST (my friend made this song)",
-      "hash": "34f3c53e110233fd9b080182a1b2655f8be1830e",
-      "levelid": "custom_level_34f3c53e110233fd9b080182a1b2655f8be1830e"
-    },
-    {
-      "key": "476d7",
-      "songName": "ICEGERGERT & SKY RAE - Nasledstvo",
-      "hash": "0835c84f7036a21ceaf76a74aca7c14850505a60",
-      "levelid": "custom_level_0835c84f7036a21ceaf76a74aca7c14850505a60"
-    },
-    {
-      "key": "476d5",
-      "songName": "gladde paling - herrie",
-      "hash": "39c553ab0c000cc70a0ce590e1b9b750e0d2d570",
-      "levelid": "custom_level_39c553ab0c000cc70a0ce590e1b9b750e0d2d570"
+      "key": "4775d",
+      "songName": "Can't Stop the Feeling_Endurance (Any Direction)",
+      "hash": "8019c1751dac100b320b2918718b4fea6b0e9ea2",
+      "levelid": "custom_level_8019c1751dac100b320b2918718b4fea6b0e9ea2"
     }
   ],
   "image": ""
