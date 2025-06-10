@@ -1,274 +1,238 @@
 {
-  "playlistTitle": "2025-06-08T15:18:48.475Z~2025-06-09T15:18:48.475Z",
+  "playlistTitle": "2025-06-09T15:18:48.676Z~2025-06-10T15:18:48.676Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-06-08T15:18:48.475Z and 2025-06-09T15:18:48.475Z",
+  "discripstion": "Maps published between 2025-06-09T15:18:48.676Z and 2025-06-10T15:18:48.676Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "479d7",
-      "songName": "Pixel Terror & Aviella - Enigma",
-      "hash": "ce6cec30f6f8f09a3c5ed164a5aa58b5f467b659",
-      "levelid": "custom_level_ce6cec30f6f8f09a3c5ed164a5aa58b5f467b659"
+      "key": "47a3d",
+      "songName": "Enigma",
+      "hash": "84b3805bde471f80fa06ec58319ca7cf99049591",
+      "levelid": "custom_level_84b3805bde471f80fa06ec58319ca7cf99049591"
     },
     {
-      "key": "479d6",
-      "songName": "UNDEAD CORORATION - Can't Sleep Because It's Nighttime",
-      "hash": "23ee110af88f8eb88e220084395cc614ab20dca2",
-      "levelid": "custom_level_23ee110af88f8eb88e220084395cc614ab20dca2"
+      "key": "47a3c",
+      "songName": "NUCLEAR-STAR",
+      "hash": "177eb95e0634ca8bde1744b9c5c971bea35cca29",
+      "levelid": "custom_level_177eb95e0634ca8bde1744b9c5c971bea35cca29"
     },
     {
-      "key": "479d5",
-      "songName": "xn88ax, hangmanirl - JUSTINCASE",
-      "hash": "9894e8599b4d5c9f7d5a16408732ee6d284e36c2",
-      "levelid": "custom_level_9894e8599b4d5c9f7d5a16408732ee6d284e36c2"
+      "key": "47a3b",
+      "songName": "glaive - 17250",
+      "hash": "1462b34e455d7f9fb278a2633877e5d28e183f53",
+      "levelid": "custom_level_1462b34e455d7f9fb278a2633877e5d28e183f53"
     },
     {
-      "key": "479d3",
-      "songName": "Gunesh – Vatanımız Qırımda",
-      "hash": "d428384b3c38aa6b97f17aeef2416018b211a508",
-      "levelid": "custom_level_d428384b3c38aa6b97f17aeef2416018b211a508"
+      "key": "47a3a",
+      "songName": "Believer_Horizontal_Abduction_ROM",
+      "hash": "34d4a8eef56805b17068caa37a919d12fdd629e9",
+      "levelid": "custom_level_34d4a8eef56805b17068caa37a919d12fdd629e9"
     },
     {
-      "key": "479d2",
-      "songName": "Autechre - Rae (cut)",
-      "hash": "a21f0bef9f0f5f46ee00ed1f5d33cdda49591ae7",
-      "levelid": "custom_level_a21f0bef9f0f5f46ee00ed1f5d33cdda49591ae7"
+      "key": "47a39",
+      "songName": "Believer_Elbow_ROM",
+      "hash": "6a5ee7f19d62d6c5c293e2d3ee7eb9bdebfe25e7",
+      "levelid": "custom_level_6a5ee7f19d62d6c5c293e2d3ee7eb9bdebfe25e7"
     },
     {
-      "key": "479d1",
-      "songName": "Haywyre - Insight",
-      "hash": "8103cccea3718e13ec780f45928c101d4adbe2ab",
-      "levelid": "custom_level_8103cccea3718e13ec780f45928c101d4adbe2ab"
+      "key": "47a38",
+      "songName": "Casey Club - Brostep Flow",
+      "hash": "6bf79f4eb5469b22284a9b7dabcbfb62557ffb23",
+      "levelid": "custom_level_6bf79f4eb5469b22284a9b7dabcbfb62557ffb23"
     },
     {
-      "key": "479cf",
-      "songName": "プロローグ　～おみさ編～ （prologue ~ Omisa ~）- Daito Music",
-      "hash": "afe6b1b18399fdddab5e04f5efbccb9dd928f34d",
-      "levelid": "custom_level_afe6b1b18399fdddab5e04f5efbccb9dd928f34d"
+      "key": "47a37",
+      "songName": "SuperSexyMan - BREAK FROM THE ADS (Boxxy Remix)",
+      "hash": "e18b6cfc5a51a64c38e097ed1fb8c7cbecf357ea",
+      "levelid": "custom_level_e18b6cfc5a51a64c38e097ed1fb8c7cbecf357ea"
     },
     {
-      "key": "479cd",
-      "songName": "why ur unninf",
-      "hash": "cee885a39ecde22b16e9e29c1268e8e126776d70",
-      "levelid": "custom_level_cee885a39ecde22b16e9e29c1268e8e126776d70"
+      "key": "47a2d",
+      "songName": "Porter Robinson - Lifelike ( V4 )",
+      "hash": "a7f8808232a10184c862e7cec9d137a17d4550c4",
+      "levelid": "custom_level_a7f8808232a10184c862e7cec9d137a17d4550c4"
     },
     {
-      "key": "479cc",
-      "songName": "Skybreak, Atura, THREESIXTY - Pinwheel II",
-      "hash": "d1e7e7cec81c235da92fe68a4ba8192405870e1a",
-      "levelid": "custom_level_d1e7e7cec81c235da92fe68a4ba8192405870e1a"
+      "key": "47a2c",
+      "songName": "green apple redo",
+      "hash": "3b0e79e35cf4dea2db32364c052a01bbfc1ccb48",
+      "levelid": "custom_level_3b0e79e35cf4dea2db32364c052a01bbfc1ccb48"
     },
     {
-      "key": "479cb",
-      "songName": "Boss (DemonTower)",
-      "hash": "d95f98a88180e1e8df7ccd4b8775db7425bef0ee",
-      "levelid": "custom_level_d95f98a88180e1e8df7ccd4b8775db7425bef0ee"
+      "key": "47a2b",
+      "songName": "i made this at school",
+      "hash": "1a0ba2b1f3226b8b0a764d3790b3b0b4e74be944",
+      "levelid": "custom_level_1a0ba2b1f3226b8b0a764d3790b3b0b4e74be944"
     },
     {
-      "key": "479c0",
-      "songName": "春よ、来い OIIAIAOIIIAI",
-      "hash": "d57f9d7e5a62b5771250d21d75f2718612824193",
-      "levelid": "custom_level_d57f9d7e5a62b5771250d21d75f2718612824193"
+      "key": "47a27",
+      "songName": "orchids",
+      "hash": "9eff7bc2826a86f4df8ce4e6172b4cd71a473c46",
+      "levelid": "custom_level_9eff7bc2826a86f4df8ce4e6172b4cd71a473c46"
     },
     {
-      "key": "479bf",
-      "songName": "トロピカル・キッス / めろくる feat. 夏色花梨",
-      "hash": "c7dc54efacb66421f6c83c7b860cd1412e4ac854",
-      "levelid": "custom_level_c7dc54efacb66421f6c83c7b860cd1412e4ac854"
+      "key": "47a26",
+      "songName": "The Quick Brown Fox - Break (Handhurt remix)",
+      "hash": "741ab65f2b783d6242a9ebc2ec4bd4847dd83de4",
+      "levelid": "custom_level_741ab65f2b783d6242a9ebc2ec4bd4847dd83de4"
     },
     {
-      "key": "479be",
-      "songName": "Rouri404 - Intro",
-      "hash": "c705137a23a94a212469383a78d8ba0f9b066603",
-      "levelid": "custom_level_c705137a23a94a212469383a78d8ba0f9b066603"
+      "key": "47a25",
+      "songName": "しとしとと- t+pazolite - (Uncut Edition)",
+      "hash": "185e92812100db0905f0dc7aea5688035695df57",
+      "levelid": "custom_level_185e92812100db0905f0dc7aea5688035695df57"
     },
     {
-      "key": "479bd",
-      "songName": "Weeaboo Spookfest ll",
-      "hash": "2c9393d0443267dec3374a8ea508a0c2798b030a",
-      "levelid": "custom_level_2c9393d0443267dec3374a8ea508a0c2798b030a"
+      "key": "47a24",
+      "songName": "Sleeping Powder",
+      "hash": "8d9a33e622f5f4924d27e519378ba7a76aecefbc",
+      "levelid": "custom_level_8d9a33e622f5f4924d27e519378ba7a76aecefbc"
     },
     {
-      "key": "479bc",
-      "songName": "Ariana Grande - Twilight Zone",
-      "hash": "0092e449fcca7f2be855acb689e2d39b0da29419",
-      "levelid": "custom_level_0092e449fcca7f2be855acb689e2d39b0da29419"
+      "key": "47a23",
+      "songName": "Untitled",
+      "hash": "a902101eaf8245e7389ed0b67eabccc882ffdec1",
+      "levelid": "custom_level_a902101eaf8245e7389ed0b67eabccc882ffdec1"
     },
     {
-      "key": "479bb",
-      "songName": "slic.hertz",
-      "hash": "98eae475a3ea921be1df0e502f565d447163e2b1",
-      "levelid": "custom_level_98eae475a3ea921be1df0e502f565d447163e2b1"
+      "key": "479a9",
+      "songName": "Look Dear - koi no koe",
+      "hash": "c7684201693e8df9b5b70edb95706fa0026cc4eb",
+      "levelid": "custom_level_c7684201693e8df9b5b70edb95706fa0026cc4eb"
     },
     {
-      "key": "479ba",
-      "songName": "LEASE",
-      "hash": "2848012ee8eb3d30654a6891b055a70bed5bf249",
-      "levelid": "custom_level_2848012ee8eb3d30654a6891b055a70bed5bf249"
+      "key": "47a22",
+      "songName": "Toby Fox - Bonetrousle",
+      "hash": "b6f0e0a2eac0adc47f1008a0116e0743cd165839",
+      "levelid": "custom_level_b6f0e0a2eac0adc47f1008a0116e0743cd165839"
     },
     {
-      "key": "479b9",
-      "songName": "Hairmetal (Original Mix)",
-      "hash": "0116e6e5807650b43db9ea2811fe7f9016923227",
-      "levelid": "custom_level_0116e6e5807650b43db9ea2811fe7f9016923227"
+      "key": "47a21",
+      "songName": "Nefelibata【Wonderland Cup 2024 Finals HR1】- Xyris",
+      "hash": "4d62593b90672153594696b397562173cd233ca9",
+      "levelid": "custom_level_4d62593b90672153594696b397562173cd233ca9"
     },
     {
-      "key": "479b7",
-      "songName": "We Like To Party - Vengaboys",
-      "hash": "1ca7c93f5b7fbdb188cb6c0e7a4adbedb4e945df",
-      "levelid": "custom_level_1ca7c93f5b7fbdb188cb6c0e7a4adbedb4e945df"
+      "key": "47a20",
+      "songName": "haaaai",
+      "hash": "c7375a33934a6059dd693efee8180eec171b201b",
+      "levelid": "custom_level_c7375a33934a6059dd693efee8180eec171b201b"
     },
     {
-      "key": "479ab",
-      "songName": "babies",
-      "hash": "8b80779c9509a482b04a7279b07841b9e6f45a77",
-      "levelid": "custom_level_8b80779c9509a482b04a7279b07841b9e6f45a77"
+      "key": "47a18",
+      "songName": "Knife Party - Rage Valley",
+      "hash": "3e060d357012989ab98ded77447c5407e7c6c42f",
+      "levelid": "custom_level_3e060d357012989ab98ded77447c5407e7c6c42f"
     },
     {
-      "key": "479aa",
-      "songName": "Riptide - Trivecta",
-      "hash": "af461d9b307c98d69c3d68ee8bf0fb44603b095b",
-      "levelid": "custom_level_af461d9b307c98d69c3d68ee8bf0fb44603b095b"
+      "key": "474dd",
+      "songName": "03-12 星辰大海",
+      "hash": "fc53374bea1a3501fa89e12cbe3e508683951a23",
+      "levelid": "custom_level_fc53374bea1a3501fa89e12cbe3e508683951a23"
     },
     {
-      "key": "479a6",
-      "songName": "prince of Egypt",
-      "hash": "59174bdcc0ce192b06d062a559489616123ac929",
-      "levelid": "custom_level_59174bdcc0ce192b06d062a559489616123ac929"
+      "key": "47a1c",
+      "songName": "3 second song (max mix)",
+      "hash": "2bd7e763d355679140a06da8e23a2ca4fbd9ffc8",
+      "levelid": "custom_level_2bd7e763d355679140a06da8e23a2ca4fbd9ffc8"
     },
     {
-      "key": "479a3",
-      "songName": "[V3] All My Life- Attack Attack!",
-      "hash": "4247c22cae37d1d2279da457c6489ac247464ddd",
-      "levelid": "custom_level_4247c22cae37d1d2279da457c6489ac247464ddd"
+      "key": "47a1b",
+      "songName": "Big Bang Theory Theme - Barenaked Ladies",
+      "hash": "eaa3ebab4e2da20759911ff964777ee02252060f",
+      "levelid": "custom_level_eaa3ebab4e2da20759911ff964777ee02252060f"
     },
     {
-      "key": "479a2",
-      "songName": "BilliumMoto - Revolution",
-      "hash": "255b15b111b2f82703e5b555f2b8e210a6e2d5fb",
-      "levelid": "custom_level_255b15b111b2f82703e5b555f2b8e210a6e2d5fb"
+      "key": "47a1a",
+      "songName": "The Freaky Bus Is Comin",
+      "hash": "c7ff65efdc8e993f8ca4ae4cd9ef31c16114ed70",
+      "levelid": "custom_level_c7ff65efdc8e993f8ca4ae4cd9ef31c16114ed70"
     },
     {
-      "key": "479a1",
-      "songName": "Famous Last Words",
-      "hash": "789b2fc6a9db35f2782cfe251bf8a9ecb337d758",
-      "levelid": "custom_level_789b2fc6a9db35f2782cfe251bf8a9ecb337d758"
+      "key": "47a17",
+      "songName": "talk down",
+      "hash": "b4d00b0f5163998a945906d37842a3c984d09a4c",
+      "levelid": "custom_level_b4d00b0f5163998a945906d37842a3c984d09a4c"
     },
     {
-      "key": "479a0",
-      "songName": "crazy poodle",
-      "hash": "e9af516690ff71789258d068cbf6b62b818a1d7c",
-      "levelid": "custom_level_e9af516690ff71789258d068cbf6b62b818a1d7c"
+      "key": "47a15",
+      "songName": "asdasd",
+      "hash": "9b413ad87a6ed93bd28a3b63deaeed6e763ad8f9",
+      "levelid": "custom_level_9b413ad87a6ed93bd28a3b63deaeed6e763ad8f9"
     },
     {
-      "key": "4799e",
-      "songName": "Anoana - Heilung",
-      "hash": "52c69678fe0c478c027a211842a9564ea7385e10",
-      "levelid": "custom_level_52c69678fe0c478c027a211842a9564ea7385e10"
+      "key": "47a08",
+      "songName": "Laur - OMG!!",
+      "hash": "0e2bc289bd59a2746854e355f53f1a5e943291b3",
+      "levelid": "custom_level_0e2bc289bd59a2746854e355f53f1a5e943291b3"
     },
     {
-      "key": "4799d",
-      "songName": "Debth",
-      "hash": "6a54a6493ea1efd542a779fcbeecd2d577183925",
-      "levelid": "custom_level_6a54a6493ea1efd542a779fcbeecd2d577183925"
+      "key": "47a02",
+      "songName": "What's A Future Funk ? - LemKuuja",
+      "hash": "ebf7004db0014ad1247a2f900c115c7171a46c92",
+      "levelid": "custom_level_ebf7004db0014ad1247a2f900c115c7171a46c92"
     },
     {
-      "key": "4799b",
-      "songName": "Dannys long mususaursaurs 2.0",
-      "hash": "c55413ccf30abc468f980d9e4192e0e55f39807d",
-      "levelid": "custom_level_c55413ccf30abc468f980d9e4192e0e55f39807d"
+      "key": "47a00",
+      "songName": "Buggin",
+      "hash": "5982b5ab2b05f44fd90342251ef74d81ff5a4519",
+      "levelid": "custom_level_5982b5ab2b05f44fd90342251ef74d81ff5a4519"
     },
     {
-      "key": "4799a",
-      "songName": "rabo rekening english",
-      "hash": "88e66a2899f4881a75167c688ecac16719c99ec5",
-      "levelid": "custom_level_88e66a2899f4881a75167c688ecac16719c99ec5"
+      "key": "479fc",
+      "songName": "Wasted Mind - Reason ",
+      "hash": "65752ec0536e3daa88a7aaa79acdd18db5aec8cb",
+      "levelid": "custom_level_65752ec0536e3daa88a7aaa79acdd18db5aec8cb"
     },
     {
-      "key": "47929",
-      "songName": "Komiya Mao - (can you) understand me?",
-      "hash": "9095dabedf109f682815250280d26cfd62077220",
-      "levelid": "custom_level_9095dabedf109f682815250280d26cfd62077220"
+      "key": "479b2",
+      "songName": "Sons of Legion - Brand New Day",
+      "hash": "cc36edb82d0bbd4602c282b5af531de47f81533c",
+      "levelid": "custom_level_cc36edb82d0bbd4602c282b5af531de47f81533c"
     },
     {
-      "key": "47998",
-      "songName": "Redo - Airuei",
-      "hash": "59b58a2e31389b5adc8ea7ed2f241187c31f4052",
-      "levelid": "custom_level_59b58a2e31389b5adc8ea7ed2f241187c31f4052"
+      "key": "479fa",
+      "songName": "qebrµs - ◙◙◙",
+      "hash": "dc25264827d46d62f509173e8c5b1a4aaf59b9a4",
+      "levelid": "custom_level_dc25264827d46d62f509173e8c5b1a4aaf59b9a4"
     },
     {
-      "key": "47996",
-      "songName": "me at the zoo",
-      "hash": "9dd20b3bddc65668e457f4fd037a83bd1d9749e9",
-      "levelid": "custom_level_9dd20b3bddc65668e457f4fd037a83bd1d9749e9"
+      "key": "479ee",
+      "songName": "Believer_Performance_ALL",
+      "hash": "f315bcceaeac85e10d191c3fb92495089da8babc",
+      "levelid": "custom_level_f315bcceaeac85e10d191c3fb92495089da8babc"
     },
     {
-      "key": "47995",
-      "songName": "Alone - Alan Walker",
-      "hash": "056f51a2273d2766eb8bdac3605eee9ace6caf69",
-      "levelid": "custom_level_056f51a2273d2766eb8bdac3605eee9ace6caf69"
+      "key": "479e5",
+      "songName": "Angelg - Someone Special",
+      "hash": "6015b4d13243d74f1067de98dc4f67a4081752b7",
+      "levelid": "custom_level_6015b4d13243d74f1067de98dc4f67a4081752b7"
     },
     {
-      "key": "47993",
-      "songName": "XXXTENTACION - RED LIGHT!",
-      "hash": "fcea592e012c0ac48ff2593f3a6f7a2e96136137",
-      "levelid": "custom_level_fcea592e012c0ac48ff2593f3a6f7a2e96136137"
+      "key": "479e4",
+      "songName": "Tate McRae - Want That Too",
+      "hash": "02c331a1a86e19a1d07fb2776a2a1ea12d2d4503",
+      "levelid": "custom_level_02c331a1a86e19a1d07fb2776a2a1ea12d2d4503"
     },
     {
-      "key": "4798f",
-      "songName": "WASTED",
-      "hash": "0f4fc011f52a93c1127260254273ed2ca7e15a8c",
-      "levelid": "custom_level_0f4fc011f52a93c1127260254273ed2ca7e15a8c"
+      "key": "479e2",
+      "songName": "KERNEL PANIC",
+      "hash": "ecf7f9a9f08bc5a1114f97c00e2d8ed5716297a4",
+      "levelid": "custom_level_ecf7f9a9f08bc5a1114f97c00e2d8ed5716297a4"
     },
     {
-      "key": "4798d",
-      "songName": "Monster High Fright song - Windy Wagner Prese",
-      "hash": "0c60ca6beed7bf90e74e2ae1522986d8dfd197ab",
-      "levelid": "custom_level_0c60ca6beed7bf90e74e2ae1522986d8dfd197ab"
+      "key": "47972",
+      "songName": "アビス feat.Such - necchi",
+      "hash": "5962dc381581c0297ee5917675ed20e5c258afe0",
+      "levelid": "custom_level_5962dc381581c0297ee5917675ed20e5c258afe0"
     },
     {
-      "key": "4798c",
-      "songName": "The Pink Panther - Herny Mancini",
-      "hash": "f1637a59729cdd99bb3862f0e358fc68a122f96f",
-      "levelid": "custom_level_f1637a59729cdd99bb3862f0e358fc68a122f96f"
-    },
-    {
-      "key": "4798b",
-      "songName": "Stretch Break Mickey - Mickey Mouse Funhouse cast",
-      "hash": "93c0a80f282fad2abe52d3e4736878b14b504502",
-      "levelid": "custom_level_93c0a80f282fad2abe52d3e4736878b14b504502"
-    },
-    {
-      "key": "4798a",
-      "songName": "Take on me - A-ha",
-      "hash": "aa7ade105f325ec641c6450ecc8affbbf853fdef",
-      "levelid": "custom_level_aa7ade105f325ec641c6450ecc8affbbf853fdef"
-    },
-    {
-      "key": "47989",
-      "songName": "Believer - Imagine Dragons B",
-      "hash": "bbd376334c73980288328a48a45190a7b3f78c43",
-      "levelid": "custom_level_bbd376334c73980288328a48a45190a7b3f78c43"
-    },
-    {
-      "key": "47988",
-      "songName": "Believer - Imagine Dragons A",
-      "hash": "24ea88118bd6e44a244a362b3bfb4804c8f8f4e4",
-      "levelid": "custom_level_24ea88118bd6e44a244a362b3bfb4804c8f8f4e4"
-    },
-    {
-      "key": "47980",
-      "songName": "no.way.out - I'm sorry",
-      "hash": "ee364d161aecfe1d775bfab4ed341c4774c24877",
-      "levelid": "custom_level_ee364d161aecfe1d775bfab4ed341c4774c24877"
-    },
-    {
-      "key": "4797c",
-      "songName": "AVERAGEMOGGER - DARKHELM (Slowed)",
-      "hash": "85ce4069256b6923cb636a53a8aaed66695194cf",
-      "levelid": "custom_level_85ce4069256b6923cb636a53a8aaed66695194cf"
+      "key": "479d9",
+      "songName": "おジャ魔女はココにいる",
+      "hash": "8102f143bdd49684c767de0a80302500a8fc9993",
+      "levelid": "custom_level_8102f143bdd49684c767de0a80302500a8fc9993"
     }
   ],
   "image": ""
