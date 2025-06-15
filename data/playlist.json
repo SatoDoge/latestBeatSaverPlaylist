@@ -1,256 +1,304 @@
 {
-  "playlistTitle": "2025-06-13T15:18:48.372Z~2025-06-14T15:18:48.372Z",
+  "playlistTitle": "2025-06-14T15:18:48.105Z~2025-06-15T15:18:48.105Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-06-13T15:18:48.372Z and 2025-06-14T15:18:48.372Z",
+  "discripstion": "Maps published between 2025-06-14T15:18:48.105Z and 2025-06-15T15:18:48.105Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "47b7d",
-      "songName": "KISS OF LIFE - Slide",
-      "hash": "73d62f98e428e53651138513d0775b7870631a10",
-      "levelid": "custom_level_73d62f98e428e53651138513d0775b7870631a10"
+      "key": "47c33",
+      "songName": "smots gaming",
+      "hash": "d1379694bccac7a6caa8e43f5d34b2c295ee1a16",
+      "levelid": "custom_level_d1379694bccac7a6caa8e43f5d34b2c295ee1a16"
     },
     {
-      "key": "47b4e",
-      "songName": "K-forest - Break Over",
-      "hash": "736f56d928c13b1419ed388fdcba76381d6f77c5",
-      "levelid": "custom_level_736f56d928c13b1419ed388fdcba76381d6f77c5"
+      "key": "47c2c",
+      "songName": "I Can Feel",
+      "hash": "a828ea2a0bda351f8bacdfa223da1e32046aeb58",
+      "levelid": "custom_level_a828ea2a0bda351f8bacdfa223da1e32046aeb58"
     },
     {
-      "key": "47b7b",
-      "songName": "ホバーライド【ドナルド×オーバーライド】",
-      "hash": "af3a05b08bba71c1a87bfa904ecffe7f1f672b7d",
-      "levelid": "custom_level_af3a05b08bba71c1a87bfa904ecffe7f1f672b7d"
+      "key": "47b9f",
+      "songName": "Kry.exe - GEOLOGICAL//IRRESOLUTION  [Saber Sisters S2 Finals Tiebreaker]",
+      "hash": "b47e4deba631517a97db80fb75593a52b681ec1c",
+      "levelid": "custom_level_b47e4deba631517a97db80fb75593a52b681ec1c"
     },
     {
-      "key": "478a2",
-      "songName": "Shoo Bee Doom - Old School Medicine",
-      "hash": "defa8259ed131f8a3937dfb35329da8a4ebbc93c",
-      "levelid": "custom_level_defa8259ed131f8a3937dfb35329da8a4ebbc93c"
+      "key": "47c25",
+      "songName": "Brown Eyed Girls - LOVE",
+      "hash": "e8e7e6b780d3f0aaf0d2ba3100cf5605c69ff669",
+      "levelid": "custom_level_e8e7e6b780d3f0aaf0d2ba3100cf5605c69ff669"
     },
     {
-      "key": "47b7a",
-      "songName": "怪獸",
-      "hash": "9ecf2af06cba6028b97ef954d649ed2988881516",
-      "levelid": "custom_level_9ecf2af06cba6028b97ef954d649ed2988881516"
+      "key": "47c24",
+      "songName": "mason✝️⚾",
+      "hash": "8cdca38e2bc0c73d0f275a5807cd0ea52631a88f",
+      "levelid": "custom_level_8cdca38e2bc0c73d0f275a5807cd0ea52631a88f"
     },
     {
-      "key": "47b79",
-      "songName": "Erectile Dysfunction",
-      "hash": "7cca9f185d2571d0e9fc8d3576ab8d4d7b33c2b0",
-      "levelid": "custom_level_7cca9f185d2571d0e9fc8d3576ab8d4d7b33c2b0"
+      "key": "47c17",
+      "songName": "Unlucky Morpheus - Angreifer",
+      "hash": "182aecef6288da0830cfefe236d3942594eae42a",
+      "levelid": "custom_level_182aecef6288da0830cfefe236d3942594eae42a"
     },
     {
-      "key": "47b77",
-      "songName": "HermanvanVeen - Ik Ben Vandaag Zo Vrolijk (Koelka Hardstyle Remix)",
-      "hash": "df9888de10ed82f0e7eeb33ddc2533b811a3dd5c",
-      "levelid": "custom_level_df9888de10ed82f0e7eeb33ddc2533b811a3dd5c"
+      "key": "47c16",
+      "songName": "Espresso Macciato",
+      "hash": "33abe19ef39b97e3da70d9c8c1322efe7f0390d0",
+      "levelid": "custom_level_33abe19ef39b97e3da70d9c8c1322efe7f0390d0"
     },
     {
-      "key": "47888",
-      "songName": "Laura Les - Haunted [Saber Sisters S2 Semi-finals Tiebreaker]",
-      "hash": "55fcbca2f002bc93f6b60574083ae5e76315e422",
-      "levelid": "custom_level_55fcbca2f002bc93f6b60574083ae5e76315e422"
+      "key": "47c0d",
+      "songName": "OSTER project - ストレートネック feat. 雨衣",
+      "hash": "bac53951c9a7acecef81e9be320d0924b4566bb9",
+      "levelid": "custom_level_bac53951c9a7acecef81e9be320d0924b4566bb9"
     },
     {
-      "key": "47b73",
-      "songName": "Spice Girls - Who Do You Think You Are (V3)",
-      "hash": "a11eeca30d3c3f021877ce83d221d1784e1a6b6f",
-      "levelid": "custom_level_a11eeca30d3c3f021877ce83d221d1784e1a6b6f"
-    },
-    {
-      "key": "47b74",
-      "songName": "YUC'e - Tick Tock (Future Candy EP)",
-      "hash": "729c6bfddaecddb1934cb487a1b64fcacbe9ae62",
-      "levelid": "custom_level_729c6bfddaecddb1934cb487a1b64fcacbe9ae62"
-    },
-    {
-      "key": "47b70",
-      "songName": "KaiJu",
-      "hash": "fe1f85f317582761c4eb55b09d213fba87839ad3",
-      "levelid": "custom_level_fe1f85f317582761c4eb55b09d213fba87839ad3"
-    },
-    {
-      "key": "47b6d",
-      "songName": "Attack of the Killer Queen",
-      "hash": "bd4fe4338bf1b992e5e54dd8f46634816b116cd2",
-      "levelid": "custom_level_bd4fe4338bf1b992e5e54dd8f46634816b116cd2"
-    },
-    {
-      "key": "47b59",
-      "songName": "Scotty Doesn't Know",
-      "hash": "7ac619d5f6f208d1b1a7180909b78f2e8921eb15",
-      "levelid": "custom_level_7ac619d5f6f208d1b1a7180909b78f2e8921eb15"
-    },
-    {
-      "key": "47b56",
-      "songName": "ATLAS - Jmancurly",
-      "hash": "2edb178b5c5a8682097ef6ce99610d43df946f5d",
-      "levelid": "custom_level_2edb178b5c5a8682097ef6ce99610d43df946f5d"
-    },
-    {
-      "key": "47b53",
-      "songName": "4 - Home",
-      "hash": "903294498a34925f900f6b83ba58271eb21cd83a",
-      "levelid": "custom_level_903294498a34925f900f6b83ba58271eb21cd83a"
-    },
-    {
-      "key": "47b4f",
-      "songName": "REWIND",
-      "hash": "1ec86e2659cdc8b85cc66a171a6a55ea4f063436",
-      "levelid": "custom_level_1ec86e2659cdc8b85cc66a171a6a55ea4f063436"
-    },
-    {
-      "key": "47b51",
-      "songName": "sins bloom or sin bloom idk ",
-      "hash": "60cf07b76ee8bb146a442582e6d3b95d727aee46",
-      "levelid": "custom_level_60cf07b76ee8bb146a442582e6d3b95d727aee46"
-    },
-    {
-      "key": "47b50",
-      "songName": "PPP (cut)",
-      "hash": "9a6ffd9e7743902b157dcf845c97c3989b444d74",
-      "levelid": "custom_level_9a6ffd9e7743902b157dcf845c97c3989b444d74"
-    },
-    {
-      "key": "47b4c",
-      "songName": "Two Door Cinema Club - Eat That Up, It’s Good for You",
-      "hash": "e82f40a28dcdd8261cfce6acf4c68e90f818430d",
-      "levelid": "custom_level_e82f40a28dcdd8261cfce6acf4c68e90f818430d"
-    },
-    {
-      "key": "47b4d",
-      "songName": "the amongus happy meal at 3am",
-      "hash": "2221a258d6b0b8371060cf2c3f0a0a4d6e24f738",
-      "levelid": "custom_level_2221a258d6b0b8371060cf2c3f0a0a4d6e24f738"
-    },
-    {
-      "key": "47b0b",
-      "songName": "Sakura Miko - Also sprach Zarathustra(Trombone Champ)",
-      "hash": "e88aafa1420c543fe55da6321a2a7f12e18fcb1a",
-      "levelid": "custom_level_e88aafa1420c543fe55da6321a2a7f12e18fcb1a"
-    },
-    {
-      "key": "47b48",
-      "songName": "I Am A Robot",
-      "hash": "e61b462517239827a8699d0964448b5b73d436a8",
-      "levelid": "custom_level_e61b462517239827a8699d0964448b5b73d436a8"
-    },
-    {
-      "key": "47b49",
-      "songName": "with you pt 1",
-      "hash": "999a6522d6062f72f8818e425570e3cedc656269",
-      "levelid": "custom_level_999a6522d6062f72f8818e425570e3cedc656269"
-    },
-    {
-      "key": "47b44",
-      "songName": "Super Mario The Musical",
-      "hash": "e59f4e2694b5f7776e63096d792c5f11b2ff7378",
-      "levelid": "custom_level_e59f4e2694b5f7776e63096d792c5f11b2ff7378"
-    },
-    {
-      "key": "47b43",
-      "songName": "My Time",
-      "hash": "d56dc27501c56c300d014ee7cfacfb0a3164bbcf",
-      "levelid": "custom_level_d56dc27501c56c300d014ee7cfacfb0a3164bbcf"
-    },
-    {
-      "key": "47b42",
-      "songName": "windows breakcore",
-      "hash": "6e3bf0d5611feaa6907c418206ecaa17c9635af9",
-      "levelid": "custom_level_6e3bf0d5611feaa6907c418206ecaa17c9635af9"
-    },
-    {
-      "key": "47b40",
-      "songName": "BAD NEWSS",
-      "hash": "efc61ce79fe75f38e41e23a97cfe3a9972ca11e3",
-      "levelid": "custom_level_efc61ce79fe75f38e41e23a97cfe3a9972ca11e3"
-    },
-    {
-      "key": "47b3f",
-      "songName": "FZMZ - Broken Games (Shangri-La Frontier OP)",
-      "hash": "31ab7e6ac44a10a6fafbe5a45dc3a842765e557b",
-      "levelid": "custom_level_31ab7e6ac44a10a6fafbe5a45dc3a842765e557b"
-    },
-    {
-      "key": "47b35",
-      "songName": "ball hadr",
-      "hash": "ba5d5ca224f8f82394ab381eb9b5ca3c8d55001d",
-      "levelid": "custom_level_ba5d5ca224f8f82394ab381eb9b5ca3c8d55001d"
-    },
-    {
-      "key": "47b2b",
-      "songName": "Nettpsend - Skipping Class",
-      "hash": "dcf60d8db24c87d5654f602f4709f48f27b7abfb",
-      "levelid": "custom_level_dcf60d8db24c87d5654f602f4709f48f27b7abfb"
-    },
-    {
-      "key": "47b2a",
-      "songName": "electrodynamix",
-      "hash": "38445b137358eaf475529d335e95220cf6279875",
-      "levelid": "custom_level_38445b137358eaf475529d335e95220cf6279875"
-    },
-    {
-      "key": "47b29",
-      "songName": "Remzcore - Wicked And Wild",
-      "hash": "14cba329da506880658eb311be0d667b8f40db72",
-      "levelid": "custom_level_14cba329da506880658eb311be0d667b8f40db72"
-    },
-    {
-      "key": "47b28",
-      "songName": "Ending Seasons",
-      "hash": "8dbcc79d793761c2a55d7c3d95d0d47d91ac3dd0",
-      "levelid": "custom_level_8dbcc79d793761c2a55d7c3d95d0d47d91ac3dd0"
-    },
-    {
-      "key": "47b25",
-      "songName": "Got To Be Real",
-      "hash": "7b1a5d6585555afd3759ae0a578a46926766fbc5",
-      "levelid": "custom_level_7b1a5d6585555afd3759ae0a578a46926766fbc5"
-    },
-    {
-      "key": "47b22",
-      "songName": "Jason Beauchamp - Kahoot",
-      "hash": "1ee1cb5f4a7ed7ab021131c38713d415880a1b84",
-      "levelid": "custom_level_1ee1cb5f4a7ed7ab021131c38713d415880a1b84"
-    },
-    {
-      "key": "47b1f",
-      "songName": "Wakfu Opening",
-      "hash": "f6719500473eef83d8e32e43aa27f332edbfe304",
-      "levelid": "custom_level_f6719500473eef83d8e32e43aa27f332edbfe304"
-    },
-    {
-      "key": "47b11",
-      "songName": "feelz (Lil Peep) ",
-      "hash": "e599383194175438f49bc9267cf4111136ceb784",
-      "levelid": "custom_level_e599383194175438f49bc9267cf4111136ceb784"
-    },
-    {
-      "key": "47b0e",
+      "key": "47c0c",
       "songName": "I love you blobby",
-      "hash": "b764e55fe7f67aeb379b4545d0d2c7ee04e8b4cd",
-      "levelid": "custom_level_b764e55fe7f67aeb379b4545d0d2c7ee04e8b4cd"
+      "hash": "8ead032e8f808128e9caaf51e8e5b8b9b03c4dec",
+      "levelid": "custom_level_8ead032e8f808128e9caaf51e8e5b8b9b03c4dec"
     },
     {
-      "key": "47b0c",
-      "songName": "[Fitbeat] STAYC - PIPE DOWN",
-      "hash": "9c27d7da37ea980a4559c8ff560ca3a8e1e4b495",
-      "levelid": "custom_level_9c27d7da37ea980a4559c8ff560ca3a8e1e4b495"
+      "key": "47c0a",
+      "songName": "Espresso - Sabrina Carpenter [V3]",
+      "hash": "f3365f6037d8df607b500749214ac45616604571",
+      "levelid": "custom_level_f3365f6037d8df607b500749214ac45616604571"
     },
     {
-      "key": "47b06",
-      "songName": "Jorei - Knox 10th",
-      "hash": "da6ab38fca832ab7f1c6722f3473cccee1bbf831",
-      "levelid": "custom_level_da6ab38fca832ab7f1c6722f3473cccee1bbf831"
+      "key": "47c08",
+      "songName": "DiGiTAL WiNG - Paranoia 2019",
+      "hash": "6c66d1f238e6596eda864e244e401133b285772c",
+      "levelid": "custom_level_6c66d1f238e6596eda864e244e401133b285772c"
     },
     {
-      "key": "47b07",
-      "songName": "よるつむぎ feat. 初音ミク - MIMI (2025 remap)",
-      "hash": "2457a23bcc6dcaf8d2df64d334f554caf28e7064",
-      "levelid": "custom_level_2457a23bcc6dcaf8d2df64d334f554caf28e7064"
+      "key": "47c09",
+      "songName": "OoaaoO",
+      "hash": "1ed21ea6ee6a3b6bd6ae12d5e18652ba561948f1",
+      "levelid": "custom_level_1ed21ea6ee6a3b6bd6ae12d5e18652ba561948f1"
+    },
+    {
+      "key": "47c03",
+      "songName": "Kyutatsuki - SOUND ARCHITECH",
+      "hash": "86f5c3724c58efd80bbd443fcf9b05a3cd104bd4",
+      "levelid": "custom_level_86f5c3724c58efd80bbd443fcf9b05a3cd104bd4"
+    },
+    {
+      "key": "47c00",
+      "songName": "マリンパル呼子 CM",
+      "hash": "9bd93422452b515775e1cd0eeb6c2426d1bc878a",
+      "levelid": "custom_level_9bd93422452b515775e1cd0eeb6c2426d1bc878a"
+    },
+    {
+      "key": "47bfe",
+      "songName": "D-D-Dice feat. Yuki Kira - 饗宴賛歌(Kyouensanka)",
+      "hash": "94d649e5b135f3521825e6758b6df7c5f925f7d2",
+      "levelid": "custom_level_94d649e5b135f3521825e6758b6df7c5f925f7d2"
+    },
+    {
+      "key": "47bfd",
+      "songName": "お返事まだカナ💦❓おじさん構文😁❗️ / 雨衣 - 吉本おじさん",
+      "hash": "dbfe363f37e63fc1270e3d5962b0b3ce638fb919",
+      "levelid": "custom_level_dbfe363f37e63fc1270e3d5962b0b3ce638fb919"
+    },
+    {
+      "key": "47bfa",
+      "songName": "[1.40+] HATSUBOSHI GAKUEN - Mekurume",
+      "hash": "ca9b55e5a07cb68d62534fd5179e9b32289e89c7",
+      "levelid": "custom_level_ca9b55e5a07cb68d62534fd5179e9b32289e89c7"
+    },
+    {
+      "key": "47bfc",
+      "songName": "Novocaine - The Unlikely Candidates",
+      "hash": "6a87af43a8c0d80a52c0eb350d0d6b8be04f1f41",
+      "levelid": "custom_level_6a87af43a8c0d80a52c0eb350d0d6b8be04f1f41"
+    },
+    {
+      "key": "47bfb",
+      "songName": "CHICKEN JOCKEY FUNK🔥",
+      "hash": "fef5ab21fa1719996a63f9b3a35ccc0848b4c7c6",
+      "levelid": "custom_level_fef5ab21fa1719996a63f9b3a35ccc0848b4c7c6"
+    },
+    {
+      "key": "47bf6",
+      "songName": "Tangled",
+      "hash": "ade04ea1b04ecc968b66d63108599e45fce2935f",
+      "levelid": "custom_level_ade04ea1b04ecc968b66d63108599e45fce2935f"
+    },
+    {
+      "key": "47bf2",
+      "songName": "LISA - FXCK Up The World (vixi Solo Version)",
+      "hash": "4b06bde8640f6f7f607c291f9a5c9bfe9eb697a2",
+      "levelid": "custom_level_4b06bde8640f6f7f607c291f9a5c9bfe9eb697a2"
+    },
+    {
+      "key": "47be9",
+      "songName": "Kobaryo - Villain Virus (Sped Up Ver.) [feat. Camellia]",
+      "hash": "1bf467a4755bdf9b2e9397fc01fb4998e6ed9d40",
+      "levelid": "custom_level_1bf467a4755bdf9b2e9397fc01fb4998e6ed9d40"
+    },
+    {
+      "key": "47be5",
+      "songName": "You Can't Stop Me",
+      "hash": "c4fbc763242c25870a20228b2417b393219d8f1d",
+      "levelid": "custom_level_c4fbc763242c25870a20228b2417b393219d8f1d"
+    },
+    {
+      "key": "47bcf",
+      "songName": "bastard",
+      "hash": "fed6bf9c3b93fcfc808e3ed859a6baa80e06f4a7",
+      "levelid": "custom_level_fed6bf9c3b93fcfc808e3ed859a6baa80e06f4a7"
+    },
+    {
+      "key": "47bcd",
+      "songName": "My Heart Is Calling",
+      "hash": "78cca5c076b0fc2876cddae59336b5f5a67aefed",
+      "levelid": "custom_level_78cca5c076b0fc2876cddae59336b5f5a67aefed"
+    },
+    {
+      "key": "47bc6",
+      "songName": "Disaster - KSLV",
+      "hash": "9cce5b00143204ea30cefa78231cccd5cd6cb9d2",
+      "levelid": "custom_level_9cce5b00143204ea30cefa78231cccd5cd6cb9d2"
+    },
+    {
+      "key": "47bbb",
+      "songName": "TOM★CAT - LOVE SONG",
+      "hash": "aaa4de21e339ac9e23f29d77db86617476ebeb13",
+      "levelid": "custom_level_aaa4de21e339ac9e23f29d77db86617476ebeb13"
+    },
+    {
+      "key": "47b58",
+      "songName": "One Eyed Bastard - Green Day [4,000 Upvotes]",
+      "hash": "7107a3ebef527fe5884f1730cf6426c7c51dba09",
+      "levelid": "custom_level_7107a3ebef527fe5884f1730cf6426c7c51dba09"
+    },
+    {
+      "key": "47bb8",
+      "songName": "Rihanna - Rude Boy",
+      "hash": "0b1e219d8b194c530544ac3d8d219f1ddb41220c",
+      "levelid": "custom_level_0b1e219d8b194c530544ac3d8d219f1ddb41220c"
+    },
+    {
+      "key": "47bb5",
+      "songName": "Near",
+      "hash": "fcb963fb7be46e5ef418136219b3e7242a33745a",
+      "levelid": "custom_level_fcb963fb7be46e5ef418136219b3e7242a33745a"
+    },
+    {
+      "key": "47bb4",
+      "songName": "ピノキオピー feat. 初音ミク - God-like (7_7 bootleg)",
+      "hash": "668a69ae1334e8a9f8ab2261ef67bd94b23e9b0d",
+      "levelid": "custom_level_668a69ae1334e8a9f8ab2261ef67bd94b23e9b0d"
+    },
+    {
+      "key": "47bad",
+      "songName": "Collateral Damage",
+      "hash": "222aac9905c2b6a8520aec26183ea24f3d258c30",
+      "levelid": "custom_level_222aac9905c2b6a8520aec26183ea24f3d258c30"
+    },
+    {
+      "key": "47ba9",
+      "songName": "Kocchi no Kento - Kekka Orai (Chroma)",
+      "hash": "58b397926af37dd077bb92eda02e84e676fe7e79",
+      "levelid": "custom_level_58b397926af37dd077bb92eda02e84e676fe7e79"
+    },
+    {
+      "key": "47ba8",
+      "songName": "Wanted Dead Or Alive - Bon Jovi",
+      "hash": "69edb1858ae4c712511ea45d9a78a72a720ba2ca",
+      "levelid": "custom_level_69edb1858ae4c712511ea45d9a78a72a720ba2ca"
+    },
+    {
+      "key": "47ba7",
+      "songName": "gets bullied to death",
+      "hash": "5bbab756b676f6469b3fe929741127ac67026e9a",
+      "levelid": "custom_level_5bbab756b676f6469b3fe929741127ac67026e9a"
+    },
+    {
+      "key": "47ba6",
+      "songName": "sadasd",
+      "hash": "e61afab1c255016fed123362a2754615bbc97d24",
+      "levelid": "custom_level_e61afab1c255016fed123362a2754615bbc97d24"
+    },
+    {
+      "key": "47ba5",
+      "songName": "Without You",
+      "hash": "8fc9b3d7a9840268e6f268c7a09ad9927f597b65",
+      "levelid": "custom_level_8fc9b3d7a9840268e6f268c7a09ad9927f597b65"
+    },
+    {
+      "key": "47ba3",
+      "songName": "Eye To Eye - Tevin Campbell",
+      "hash": "22f121aee4a2c37f90d25e8be1d37ca4f4741e70",
+      "levelid": "custom_level_22f121aee4a2c37f90d25e8be1d37ca4f4741e70"
+    },
+    {
+      "key": "47ba1",
+      "songName": "Dragonforce - Ring of Fire",
+      "hash": "bdc04f0007d9f249fb6d68fe995fd0136ecaf488",
+      "levelid": "custom_level_bdc04f0007d9f249fb6d68fe995fd0136ecaf488"
+    },
+    {
+      "key": "47b9c",
+      "songName": "Scotty Doesn't Know",
+      "hash": "f98b52a7598ae469d85bcb4af2b439eaf1d43e19",
+      "levelid": "custom_level_f98b52a7598ae469d85bcb4af2b439eaf1d43e19"
+    },
+    {
+      "key": "47b9b",
+      "songName": "unrequited meaning",
+      "hash": "d61697d0777cfa0fe7a4361f9310ce3c02d2daad",
+      "levelid": "custom_level_d61697d0777cfa0fe7a4361f9310ce3c02d2daad"
+    },
+    {
+      "key": "47b9a",
+      "songName": "シムルグの目醒め",
+      "hash": "b6493a3c87d249963d96763cbc9cac4d72a9ba3f",
+      "levelid": "custom_level_b6493a3c87d249963d96763cbc9cac4d72a9ba3f"
+    },
+    {
+      "key": "47b92",
+      "songName": "BIG SHOT (Deltarune)",
+      "hash": "454dc3ed48d2878cb67ec06bffb2d0a99ee0e0c0",
+      "levelid": "custom_level_454dc3ed48d2878cb67ec06bffb2d0a99ee0e0c0"
+    },
+    {
+      "key": "47b91",
+      "songName": "nuphory ft. luna lenta - ＥＸＯＰＬＡＮＥＴ",
+      "hash": "a57c2c4c2aa4b4c280b04349344960204312a1dd",
+      "levelid": "custom_level_a57c2c4c2aa4b4c280b04349344960204312a1dd"
+    },
+    {
+      "key": "47b90",
+      "songName": "Taste It (Ur Pretty)  (Poodle) ",
+      "hash": "d1576cbb98b4f03b6e9e5421205dd9a16d759871",
+      "levelid": "custom_level_d1576cbb98b4f03b6e9e5421205dd9a16d759871"
+    },
+    {
+      "key": "47b8f",
+      "songName": "Beat Saber",
+      "hash": "98d11d830f870dc128cfb7c122a35da2ec3f64dd",
+      "levelid": "custom_level_98d11d830f870dc128cfb7c122a35da2ec3f64dd"
+    },
+    {
+      "key": "47b88",
+      "songName": "katagiri - No One Escapes Trucks",
+      "hash": "cae0692e94ac3adb510a7707646fb65211730c98",
+      "levelid": "custom_level_cae0692e94ac3adb510a7707646fb65211730c98"
+    },
+    {
+      "key": "47b82",
+      "songName": "lightbearer jumps part",
+      "hash": "ad8745d7826edbd076f267a7188506c39c1e73c6",
+      "levelid": "custom_level_ad8745d7826edbd076f267a7188506c39c1e73c6"
+    },
+    {
+      "key": "47b81",
+      "songName": "Apriliane - Can't [Eyesight Ender .10]",
+      "hash": "c1aae8a893b848986eda377e0c372080b00c6ff1",
+      "levelid": "custom_level_c1aae8a893b848986eda377e0c372080b00c6ff1"
     }
   ],
   "image": ""
