@@ -1,238 +1,220 @@
 {
-  "playlistTitle": "2025-06-15T15:18:48.312Z~2025-06-16T15:18:48.312Z",
+  "playlistTitle": "2025-06-16T15:18:48.573Z~2025-06-17T15:18:48.573Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-06-15T15:18:48.312Z and 2025-06-16T15:18:48.312Z",
+  "discripstion": "Maps published between 2025-06-16T15:18:48.573Z and 2025-06-17T15:18:48.573Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "47cdb",
-      "songName": "Antonio Banderas & Heitor Pereira - Fearless Hero",
-      "hash": "8b4b8a2a59f7f1312fea725bfc8a377d9b586405",
-      "levelid": "custom_level_8b4b8a2a59f7f1312fea725bfc8a377d9b586405"
+      "key": "47d14",
+      "songName": "Farewell, Farewell - Toa ft. Hatsune Miku",
+      "hash": "3d77ef1ecd78eaefab1848172b49963a0ae965a0",
+      "levelid": "custom_level_3d77ef1ecd78eaefab1848172b49963a0ae965a0"
     },
     {
-      "key": "47cdd",
-      "songName": "Flyleaf - Fully Alive (demo record 2007)",
-      "hash": "90b5a520be79da9e7e4d359e21d77461e7a6fa4d",
-      "levelid": "custom_level_90b5a520be79da9e7e4d359e21d77461e7a6fa4d"
+      "key": "47d6e",
+      "songName": "Toby Fox - TV WORLD",
+      "hash": "c2b9c2e63559185e25456b85cf39d949519e3ea5",
+      "levelid": "custom_level_c2b9c2e63559185e25456b85cf39d949519e3ea5"
     },
     {
-      "key": "47cdc",
-      "songName": "Øresund Space Collective - I Teleported to Acapulco",
-      "hash": "5fddeb4c8b54ce567d60db8d8f8b5a0287e789f9",
-      "levelid": "custom_level_5fddeb4c8b54ce567d60db8d8f8b5a0287e789f9"
+      "key": "47d6d",
+      "songName": "Bones_FastAlternating",
+      "hash": "4ce90c655c1fcb1f865bc0bc131a5f85812904bc",
+      "levelid": "custom_level_4ce90c655c1fcb1f865bc0bc131a5f85812904bc"
     },
     {
-      "key": "47cd9",
-      "songName": "NEW RALLY-X ～IN GAME MUSIC",
-      "hash": "31a018b8d36bed32c2b26d54817cda9e0dfc84c6",
-      "levelid": "custom_level_31a018b8d36bed32c2b26d54817cda9e0dfc84c6"
+      "key": "47d6c",
+      "songName": "Bones_FastAlternating_MIR",
+      "hash": "08bbdb78150a2fee3f64cf13a72433f8b575aa7a",
+      "levelid": "custom_level_08bbdb78150a2fee3f64cf13a72433f8b575aa7a"
     },
     {
-      "key": "47cda",
-      "songName": "Paramore - Still Into You",
-      "hash": "cd2ba8ae204be88a56d783b404f5f364b035bc8c",
-      "levelid": "custom_level_cd2ba8ae204be88a56d783b404f5f364b035bc8c"
+      "key": "47d6b",
+      "songName": "Written By Wolves - Goddess",
+      "hash": "01fef16e7617ad80cb13951e901d193f5dfd9312",
+      "levelid": "custom_level_01fef16e7617ad80cb13951e901d193f5dfd9312"
     },
     {
-      "key": "47cd5",
-      "songName": "BAD NEWSS",
-      "hash": "92e1b8544b5d9bbc1f0c5f56fd11e8c68b853e60",
-      "levelid": "custom_level_92e1b8544b5d9bbc1f0c5f56fd11e8c68b853e60"
+      "key": "47d69",
+      "songName": "Black Knife",
+      "hash": "f5c6ba5fb68a4f4805c44d20269c3f9cfd777e05",
+      "levelid": "custom_level_f5c6ba5fb68a4f4805c44d20269c3f9cfd777e05"
     },
     {
-      "key": "47cd2",
-      "songName": "Dance the Night - Paired Pacing",
-      "hash": "93e4ba34f7e9fe8cfe0e48974acfe5f59d33e685",
-      "levelid": "custom_level_93e4ba34f7e9fe8cfe0e48974acfe5f59d33e685"
+      "key": "47d6a",
+      "songName": "PawPaw Rod - Rainy",
+      "hash": "e44dace3dde472cc45419e9c79f8fc5a7e15483e",
+      "levelid": "custom_level_e44dace3dde472cc45419e9c79f8fc5a7e15483e"
     },
     {
-      "key": "47cd1",
-      "songName": "Bones - Paired Pacing",
-      "hash": "edd9859ff8a4355c9564a7bbae897bac3ec8629d",
-      "levelid": "custom_level_edd9859ff8a4355c9564a7bbae897bac3ec8629d"
+      "key": "47d68",
+      "songName": "Chroma Dysfunktion - NormalM ",
+      "hash": "a17acf6621176edf72ac7e632c46b57dbf903de3",
+      "levelid": "custom_level_a17acf6621176edf72ac7e632c46b57dbf903de3"
     },
     {
-      "key": "47cb7",
-      "songName": "Busy Woman - Sabrina Carpenter",
-      "hash": "46109ede59047c968b38c7b1dd9f1f6c421f7dda",
-      "levelid": "custom_level_46109ede59047c968b38c7b1dd9f1f6c421f7dda"
+      "key": "47d5c",
+      "songName": "Northwest zombie girl - Underscores",
+      "hash": "7355c358480d7ec7dfeb42014ee79722731485a3",
+      "levelid": "custom_level_7355c358480d7ec7dfeb42014ee79722731485a3"
     },
     {
-      "key": "47c9b",
-      "songName": "Spear of Justice",
-      "hash": "5689bc7441f526d61df5705ad65473dd5d8a1a15",
-      "levelid": "custom_level_5689bc7441f526d61df5705ad65473dd5d8a1a15"
-    },
-    {
-      "key": "47c9a",
-      "songName": "Dont go",
-      "hash": "e21257ec265d6156937d6c647317e0a3f0d229e0",
-      "levelid": "custom_level_e21257ec265d6156937d6c647317e0a3f0d229e0"
-    },
-    {
-      "key": "47c99",
-      "songName": "Real Friends - I Know How This Ends",
-      "hash": "330e238759277789ed29710eb466470592c1c27a",
-      "levelid": "custom_level_330e238759277789ed29710eb466470592c1c27a"
-    },
-    {
-      "key": "47c97",
-      "songName": "ur phone linging",
-      "hash": "cc79c623e70dfc1daaa7b52121aa048c8738150f",
-      "levelid": "custom_level_cc79c623e70dfc1daaa7b52121aa048c8738150f"
-    },
-    {
-      "key": "47c94",
-      "songName": "momori - Togameru Kage",
-      "hash": "de2081306fda4739656815804a435f35b63cbfe4",
-      "levelid": "custom_level_de2081306fda4739656815804a435f35b63cbfe4"
-    },
-    {
-      "key": "47c8e",
-      "songName": "nuke",
-      "hash": "e9ffcfce00ab4781267b39e440cc69fb633bcd20",
-      "levelid": "custom_level_e9ffcfce00ab4781267b39e440cc69fb633bcd20"
-    },
-    {
-      "key": "47c67",
-      "songName": "Cry",
-      "hash": "1970f21f6f15975ada88d94be27d102b0fe9de55",
-      "levelid": "custom_level_1970f21f6f15975ada88d94be27d102b0fe9de55"
-    },
-    {
-      "key": "47c70",
-      "songName": "Raise Up Your Bat! - Deltarune OST",
-      "hash": "6a280196b3cc3c83a1ec574f70809778eaff5543",
-      "levelid": "custom_level_6a280196b3cc3c83a1ec574f70809778eaff5543"
-    },
-    {
-      "key": "47c6a",
-      "songName": "Sangnoksu - Horang Pungryuga (feat. HANANA)",
-      "hash": "f7154bab15ebb1298134cfffe93b12402dee827d",
-      "levelid": "custom_level_f7154bab15ebb1298134cfffe93b12402dee827d"
-    },
-    {
-      "key": "47c64",
-      "songName": "bad newss",
-      "hash": "2a072023bb5e0a935583fe88bc9ac87432b6d397",
-      "levelid": "custom_level_2a072023bb5e0a935583fe88bc9ac87432b6d397"
-    },
-    {
-      "key": "47c62",
-      "songName": "Hills and Valleys",
-      "hash": "8190bc24e2252c6ba6e3607f5b0aa29b264a5fad",
-      "levelid": "custom_level_8190bc24e2252c6ba6e3607f5b0aa29b264a5fad"
-    },
-    {
-      "key": "47c60",
-      "songName": "[Saber the Intro pack] Tate McRae - ?",
-      "hash": "57c9abec770efa6869de5b9a462622a5079e9d51",
-      "levelid": "custom_level_57c9abec770efa6869de5b9a462622a5079e9d51"
-    },
-    {
-      "key": "47c5e",
-      "songName": "Athletic Theme - Super Mario World",
-      "hash": "2c50802c6e4a92d04dc5bb08c927ffa25771e597",
-      "levelid": "custom_level_2c50802c6e4a92d04dc5bb08c927ffa25771e597"
-    },
-    {
-      "key": "47c5d",
+      "key": "47d5a",
       "songName": "Sphalerite",
-      "hash": "4b28ce7a3f527ed238833169cbe66af362c5afde",
-      "levelid": "custom_level_4b28ce7a3f527ed238833169cbe66af362c5afde"
+      "hash": "36833329740268b32a4a45a4764817bf44eaccd6",
+      "levelid": "custom_level_36833329740268b32a4a45a4764817bf44eaccd6"
     },
     {
-      "key": "47c52",
-      "songName": "RESCENE - BamBamBam",
-      "hash": "897034703657f709fd17716e1a489add1e44c8e7",
-      "levelid": "custom_level_897034703657f709fd17716e1a489add1e44c8e7"
+      "key": "47d59",
+      "songName": "Freely Tomorrow - Mitchie M [Chroma 2.0]",
+      "hash": "a56c67eb86d580345f9432292ee775cadd5d9506",
+      "levelid": "custom_level_a56c67eb86d580345f9432292ee775cadd5d9506"
     },
     {
-      "key": "47c50",
-      "songName": "Raise Up Your Bat - Deltarune Chapter 3+4 OST",
-      "hash": "679096e29b21c278a15aa639d16f4e2f72c790f0",
-      "levelid": "custom_level_679096e29b21c278a15aa639d16f4e2f72c790f0"
+      "key": "47d58",
+      "songName": "Machine Love - Jamie Page feat. Kasane Teto",
+      "hash": "839ad285301a9e16e0506122fea06c360a846261",
+      "levelid": "custom_level_839ad285301a9e16e0506122fea06c360a846261"
     },
     {
-      "key": "4677f",
-      "songName": "uhh",
-      "hash": "66841b3594d67337e798486b74c81f9a90f03eb4",
-      "levelid": "custom_level_66841b3594d67337e798486b74c81f9a90f03eb4"
+      "key": "47d4b",
+      "songName": "sleep phonk",
+      "hash": "4cd07bf6b3db28985d80059bb349bdba58818613",
+      "levelid": "custom_level_4cd07bf6b3db28985d80059bb349bdba58818613"
     },
     {
-      "key": "47c4c",
-      "songName": "Stranger Things",
-      "hash": "71c33feb25935ac381fc980b9457baba6b82b98d",
-      "levelid": "custom_level_71c33feb25935ac381fc980b9457baba6b82b98d"
+      "key": "47d44",
+      "songName": "Wide Paul Tutorial",
+      "hash": "fab23d9ad0b3ce65945fa91394f7f3b80495f397",
+      "levelid": "custom_level_fab23d9ad0b3ce65945fa91394f7f3b80495f397"
     },
     {
-      "key": "47c4b",
-      "songName": "deethegodmod reaction to passing blackout",
-      "hash": "504cdc40d331d0a27e4ec22ed243e9de8550455e",
-      "levelid": "custom_level_504cdc40d331d0a27e4ec22ed243e9de8550455e"
+      "key": "47d2d",
+      "songName": "M2U - Promise (feat. Sherie)",
+      "hash": "c1e2b337c85eae38c0e617e6623d229d470e7f38",
+      "levelid": "custom_level_c1e2b337c85eae38c0e617e6623d229d470e7f38"
     },
     {
-      "key": "47c4a",
-      "songName": "Message Man",
-      "hash": "335ede6a15567c406cef666d168f383fd1a4269d",
-      "levelid": "custom_level_335ede6a15567c406cef666d168f383fd1a4269d"
+      "key": "47d18",
+      "songName": "Philadelphia Freedom ",
+      "hash": "78d2bc850a6b71833393e8456794c22ca06720cd",
+      "levelid": "custom_level_78d2bc850a6b71833393e8456794c22ca06720cd"
     },
     {
-      "key": "47c49",
-      "songName": "deethegodmod reaction to passing lead goes bonkers",
-      "hash": "13316ef93611cdc64eb2a382400ef71bc5929df9",
-      "levelid": "custom_level_13316ef93611cdc64eb2a382400ef71bc5929df9"
+      "key": "47d17",
+      "songName": "GESHTALT",
+      "hash": "83b88fb98805299495e2296f2b87a64aee4227cc",
+      "levelid": "custom_level_83b88fb98805299495e2296f2b87a64aee4227cc"
     },
     {
-      "key": "47c48",
-      "songName": "Znowy - SLIDE THE BPM (UP TO) 420!!",
-      "hash": "c7582b43c3aa139184d66a361ef94ad102a4fea6",
-      "levelid": "custom_level_c7582b43c3aa139184d66a361ef94ad102a4fea6"
+      "key": "47d16",
+      "songName": "Santiana - Jonathan Young",
+      "hash": "3af01102ebe839dcfad8e7cef4c14846c34cc827",
+      "levelid": "custom_level_3af01102ebe839dcfad8e7cef4c14846c34cc827"
     },
     {
-      "key": "47c45",
-      "songName": "ATLAS - Jmancurly",
-      "hash": "7ffcb6be22deca72d179ed408a4efd126f371c01",
-      "levelid": "custom_level_7ffcb6be22deca72d179ed408a4efd126f371c01"
+      "key": "47d12",
+      "songName": "LISA - Thunder",
+      "hash": "78b8d3501ada7675645afa6807b7200714de5564",
+      "levelid": "custom_level_78b8d3501ada7675645afa6807b7200714de5564"
     },
     {
-      "key": "47c43",
-      "songName": "Bring Me the Horizon - liMOusIne",
-      "hash": "0e45c0a3437903ab8dcf35311f5962cd3eabfd5d",
-      "levelid": "custom_level_0e45c0a3437903ab8dcf35311f5962cd3eabfd5d"
+      "key": "47d11",
+      "songName": "Jamal tries manipulation",
+      "hash": "12ea26378a11ac5e234d30677ec32aee8fcfb344",
+      "levelid": "custom_level_12ea26378a11ac5e234d30677ec32aee8fcfb344"
     },
     {
-      "key": "47c42",
-      "songName": "Propose | プロポーズ",
-      "hash": "daafaebc797f647becc01df4d90d38a1a57b10b3",
-      "levelid": "custom_level_daafaebc797f647becc01df4d90d38a1a57b10b3"
+      "key": "47d0f",
+      "songName": "JENNIE-Start a War",
+      "hash": "402a505ec7fa7a4156e6a14a8a90643b0d56b8fc",
+      "levelid": "custom_level_402a505ec7fa7a4156e6a14a8a90643b0d56b8fc"
     },
     {
-      "key": "47c3b",
-      "songName": "Machine Love",
-      "hash": "1292adda20fdb5199c28b90e21d61c81eb1b16e1",
-      "levelid": "custom_level_1292adda20fdb5199c28b90e21d61c81eb1b16e1"
+      "key": "47d0d",
+      "songName": "Omnitica - I'm Being Reelistic",
+      "hash": "5364b62b3b20dad2de4f76dea8996325d2f8b1fe",
+      "levelid": "custom_level_5364b62b3b20dad2de4f76dea8996325d2f8b1fe"
     },
     {
-      "key": "47c3a",
-      "songName": "Seventh Sisters - Seventh Haven (Aiobahn & Balville Mashup)",
-      "hash": "fc47fb28b94a15f7c814a12f65a842b668d76d80",
-      "levelid": "custom_level_fc47fb28b94a15f7c814a12f65a842b668d76d80"
+      "key": "47d0a",
+      "songName": "Mo Falk - Feel So Gud",
+      "hash": "25929e2bc744c6be5d76981b455265db4f1c28af",
+      "levelid": "custom_level_25929e2bc744c6be5d76981b455265db4f1c28af"
     },
     {
-      "key": "47c39",
-      "songName": "Remember The Name",
-      "hash": "22b251a29d9884ec936af713b587f991473de490",
-      "levelid": "custom_level_22b251a29d9884ec936af713b587f991473de490"
+      "key": "47d0b",
+      "songName": "a lot of candy , refrigerator full of sweets",
+      "hash": "d39afa4b377f7da4cb1642b9a3e12e4f03f7832a",
+      "levelid": "custom_level_d39afa4b377f7da4cb1642b9a3e12e4f03f7832a"
     },
     {
-      "key": "47979",
-      "songName": "See You Next Crossing",
-      "hash": "c6a50413de0c87abb53a2513a631a3ca2acd70ee",
-      "levelid": "custom_level_c6a50413de0c87abb53a2513a631a3ca2acd70ee"
+      "key": "47d09",
+      "songName": "I DIDNT SHOOT MY DOG",
+      "hash": "385434201986d84f3b1d39b5132044ba5807c7ea",
+      "levelid": "custom_level_385434201986d84f3b1d39b5132044ba5807c7ea"
+    },
+    {
+      "key": "47d08",
+      "songName": "One Left",
+      "hash": "fdafa83b199cb1fabfb999bcd4471ffa1851b893",
+      "levelid": "custom_level_fdafa83b199cb1fabfb999bcd4471ffa1851b893"
+    },
+    {
+      "key": "47d05",
+      "songName": "hostile",
+      "hash": "444cb5f8906480be422309dc6c25bdb60aeed676",
+      "levelid": "custom_level_444cb5f8906480be422309dc6c25bdb60aeed676"
+    },
+    {
+      "key": "47cee",
+      "songName": "d4vd - here with me",
+      "hash": "1f349f394ea430d8c1a122ee1de42e9665fa4962",
+      "levelid": "custom_level_1f349f394ea430d8c1a122ee1de42e9665fa4962"
+    },
+    {
+      "key": "47ced",
+      "songName": "Standing On The Shore",
+      "hash": "e8fcf42e6301eb10173577833fd8678d0260c28c",
+      "levelid": "custom_level_e8fcf42e6301eb10173577833fd8678d0260c28c"
+    },
+    {
+      "key": "47cec",
+      "songName": "BLACK KNIFE - Toby Fox",
+      "hash": "1663066c87ae7cbb3ecd4386b55d8efe7a79fa6b",
+      "levelid": "custom_level_1663066c87ae7cbb3ecd4386b55d8efe7a79fa6b"
+    },
+    {
+      "key": "47ceb",
+      "songName": "1991 ft. Alex Hosking - Jungle (Colin Hennerz Remix)",
+      "hash": "7a9ad29726afb1e556d4f251324ffdb67d14a8da",
+      "levelid": "custom_level_7a9ad29726afb1e556d4f251324ffdb67d14a8da"
+    },
+    {
+      "key": "47ce2",
+      "songName": "ILLIT - 빌려온 고양이 (Do the Dance)",
+      "hash": "c848ee116da3b6a2fb13cc5df424ce1f08be3982",
+      "levelid": "custom_level_c848ee116da3b6a2fb13cc5df424ce1f08be3982"
+    },
+    {
+      "key": "47ce1",
+      "songName": "Give Up Ever Soul (Parody of Build Our Machine) ",
+      "hash": "d60fc93d6c9809c5cf4fb9a993f445a5c2c68a92",
+      "levelid": "custom_level_d60fc93d6c9809c5cf4fb9a993f445a5c2c68a92"
+    },
+    {
+      "key": "47ce0",
+      "songName": "Herr Officer - Baran Kok",
+      "hash": "f1daee71446483e2d6399fcfe94acfd30c421078",
+      "levelid": "custom_level_f1daee71446483e2d6399fcfe94acfd30c421078"
+    },
+    {
+      "key": "47cdf",
+      "songName": "Navigating - Twenty One Pilots",
+      "hash": "584479f3ef9484bde1618a566a8370773af16639",
+      "levelid": "custom_level_584479f3ef9484bde1618a566a8370773af16639"
     }
   ],
   "image": ""
