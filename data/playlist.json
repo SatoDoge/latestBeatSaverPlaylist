@@ -1,220 +1,232 @@
 {
-  "playlistTitle": "2025-06-16T15:18:48.573Z~2025-06-17T15:18:48.573Z",
+  "playlistTitle": "2025-06-17T15:18:48.754Z~2025-06-18T15:18:48.754Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-06-16T15:18:48.573Z and 2025-06-17T15:18:48.573Z",
+  "discripstion": "Maps published between 2025-06-17T15:18:48.754Z and 2025-06-18T15:18:48.754Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "47d14",
-      "songName": "Farewell, Farewell - Toa ft. Hatsune Miku",
-      "hash": "3d77ef1ecd78eaefab1848172b49963a0ae965a0",
-      "levelid": "custom_level_3d77ef1ecd78eaefab1848172b49963a0ae965a0"
+      "key": "47df5",
+      "songName": "Fascination",
+      "hash": "519373e50a0812733630e3efc0de4f97e5c21c75",
+      "levelid": "custom_level_519373e50a0812733630e3efc0de4f97e5c21c75"
     },
     {
-      "key": "47d6e",
-      "songName": "Toby Fox - TV WORLD",
-      "hash": "c2b9c2e63559185e25456b85cf39d949519e3ea5",
-      "levelid": "custom_level_c2b9c2e63559185e25456b85cf39d949519e3ea5"
+      "key": "47df4",
+      "songName": "YAJU&U",
+      "hash": "774660d586fc56638a80bfefe2d8f158465b028d",
+      "levelid": "custom_level_774660d586fc56638a80bfefe2d8f158465b028d"
     },
     {
-      "key": "47d6d",
-      "songName": "Bones_FastAlternating",
-      "hash": "4ce90c655c1fcb1f865bc0bc131a5f85812904bc",
-      "levelid": "custom_level_4ce90c655c1fcb1f865bc0bc131a5f85812904bc"
+      "key": "47df2",
+      "songName": "lighthouse",
+      "hash": "23af6d12e533974a9dd0651b762ade289fd6e170",
+      "levelid": "custom_level_23af6d12e533974a9dd0651b762ade289fd6e170"
     },
     {
-      "key": "47d6c",
-      "songName": "Bones_FastAlternating_MIR",
-      "hash": "08bbdb78150a2fee3f64cf13a72433f8b575aa7a",
-      "levelid": "custom_level_08bbdb78150a2fee3f64cf13a72433f8b575aa7a"
+      "key": "47df0",
+      "songName": "Rainbow Rave Parade - Chime",
+      "hash": "539f3b6ee84a6021d280978971b385f6cafa2c29",
+      "levelid": "custom_level_539f3b6ee84a6021d280978971b385f6cafa2c29"
     },
     {
-      "key": "47d6b",
-      "songName": "Written By Wolves - Goddess",
-      "hash": "01fef16e7617ad80cb13951e901d193f5dfd9312",
-      "levelid": "custom_level_01fef16e7617ad80cb13951e901d193f5dfd9312"
+      "key": "47ded",
+      "songName": "yaknic",
+      "hash": "0795527b3c4549b857e9604e11ff9a52ce28c774",
+      "levelid": "custom_level_0795527b3c4549b857e9604e11ff9a52ce28c774"
     },
     {
-      "key": "47d69",
-      "songName": "Black Knife",
-      "hash": "f5c6ba5fb68a4f4805c44d20269c3f9cfd777e05",
-      "levelid": "custom_level_f5c6ba5fb68a4f4805c44d20269c3f9cfd777e05"
+      "key": "47de6",
+      "songName": "Undertale - Tem Shop [[KING MONKE REMIX]]",
+      "hash": "e5843ec72e6db14f876a95c7da2af00bba70749d",
+      "levelid": "custom_level_e5843ec72e6db14f876a95c7da2af00bba70749d"
     },
     {
-      "key": "47d6a",
-      "songName": "PawPaw Rod - Rainy",
-      "hash": "e44dace3dde472cc45419e9c79f8fc5a7e15483e",
-      "levelid": "custom_level_e44dace3dde472cc45419e9c79f8fc5a7e15483e"
+      "key": "47de3",
+      "songName": "Happy Sphere Day Everyone!!",
+      "hash": "cfa0ef780c821401641aa157cbfa9ffd94769111",
+      "levelid": "custom_level_cfa0ef780c821401641aa157cbfa9ffd94769111"
     },
     {
-      "key": "47d68",
-      "songName": "Chroma Dysfunktion - NormalM ",
-      "hash": "a17acf6621176edf72ac7e632c46b57dbf903de3",
-      "levelid": "custom_level_a17acf6621176edf72ac7e632c46b57dbf903de3"
+      "key": "47dd8",
+      "songName": "OVER:Acceleration [VNMC Finals Tiebreaker]",
+      "hash": "e51a8578519cc4caeb9309741387cae042f89f7b",
+      "levelid": "custom_level_e51a8578519cc4caeb9309741387cae042f89f7b"
     },
     {
-      "key": "47d5c",
-      "songName": "Northwest zombie girl - Underscores",
-      "hash": "7355c358480d7ec7dfeb42014ee79722731485a3",
-      "levelid": "custom_level_7355c358480d7ec7dfeb42014ee79722731485a3"
+      "key": "47dd6",
+      "songName": "I Feel Fine",
+      "hash": "ae3d562d5b9e2fc2e8e82a828f43c06e2c5ec421",
+      "levelid": "custom_level_ae3d562d5b9e2fc2e8e82a828f43c06e2c5ec421"
     },
     {
-      "key": "47d5a",
-      "songName": "Sphalerite",
-      "hash": "36833329740268b32a4a45a4764817bf44eaccd6",
-      "levelid": "custom_level_36833329740268b32a4a45a4764817bf44eaccd6"
+      "key": "47dd5",
+      "songName": "yax03 - Stresstest",
+      "hash": "8be22741edd4e876876da439a1119005fe2e5c51",
+      "levelid": "custom_level_8be22741edd4e876876da439a1119005fe2e5c51"
     },
     {
-      "key": "47d59",
-      "songName": "Freely Tomorrow - Mitchie M [Chroma 2.0]",
-      "hash": "a56c67eb86d580345f9432292ee775cadd5d9506",
-      "levelid": "custom_level_a56c67eb86d580345f9432292ee775cadd5d9506"
+      "key": "47dcf",
+      "songName": "Highway to Oblivion",
+      "hash": "0602ccc894769dc416cd3fe7c93ad0455dafedbe",
+      "levelid": "custom_level_0602ccc894769dc416cd3fe7c93ad0455dafedbe"
     },
     {
-      "key": "47d58",
-      "songName": "Machine Love - Jamie Page feat. Kasane Teto",
-      "hash": "839ad285301a9e16e0506122fea06c360a846261",
-      "levelid": "custom_level_839ad285301a9e16e0506122fea06c360a846261"
+      "key": "47dcd",
+      "songName": "The Quick Brown Fox & Klippa - MELANCHOLY passing into MANIA",
+      "hash": "897eb8cf53ace4d434e29bd91885669f66d78b74",
+      "levelid": "custom_level_897eb8cf53ace4d434e29bd91885669f66d78b74"
     },
     {
-      "key": "47d4b",
-      "songName": "sleep phonk",
-      "hash": "4cd07bf6b3db28985d80059bb349bdba58818613",
-      "levelid": "custom_level_4cd07bf6b3db28985d80059bb349bdba58818613"
+      "key": "47dcb",
+      "songName": "Bwa!",
+      "hash": "105971135d80a097406ec899e277a76732e6bc26",
+      "levelid": "custom_level_105971135d80a097406ec899e277a76732e6bc26"
     },
     {
-      "key": "47d44",
-      "songName": "Wide Paul Tutorial",
-      "hash": "fab23d9ad0b3ce65945fa91394f7f3b80495f397",
-      "levelid": "custom_level_fab23d9ad0b3ce65945fa91394f7f3b80495f397"
+      "key": "47dca",
+      "songName": "BRRRRRRR",
+      "hash": "9c740008acd91cb20f623ac7e377e8cbe2c39064",
+      "levelid": "custom_level_9c740008acd91cb20f623ac7e377e8cbe2c39064"
     },
     {
-      "key": "47d2d",
-      "songName": "M2U - Promise (feat. Sherie)",
-      "hash": "c1e2b337c85eae38c0e617e6623d229d470e7f38",
-      "levelid": "custom_level_c1e2b337c85eae38c0e617e6623d229d470e7f38"
+      "key": "47dc9",
+      "songName": "NIGHTBLAZE - Raphiiel",
+      "hash": "ad6775dbe34ee344ca72404ac726ec71c3fdac4b",
+      "levelid": "custom_level_ad6775dbe34ee344ca72404ac726ec71c3fdac4b"
     },
     {
-      "key": "47d18",
-      "songName": "Philadelphia Freedom ",
-      "hash": "78d2bc850a6b71833393e8456794c22ca06720cd",
-      "levelid": "custom_level_78d2bc850a6b71833393e8456794c22ca06720cd"
+      "key": "47dc7",
+      "songName": " FOTOSINTESIS",
+      "hash": "78bd1b90cc6d9d134cf15c46cc694f7181cbd539",
+      "levelid": "custom_level_78bd1b90cc6d9d134cf15c46cc694f7181cbd539"
     },
     {
-      "key": "47d17",
-      "songName": "GESHTALT",
-      "hash": "83b88fb98805299495e2296f2b87a64aee4227cc",
-      "levelid": "custom_level_83b88fb98805299495e2296f2b87a64aee4227cc"
+      "key": "47dc6",
+      "songName": "Dont go",
+      "hash": "273430090209841b4e080447aa6ea7bb84a4fec7",
+      "levelid": "custom_level_273430090209841b4e080447aa6ea7bb84a4fec7"
     },
     {
-      "key": "47d16",
-      "songName": "Santiana - Jonathan Young",
-      "hash": "3af01102ebe839dcfad8e7cef4c14846c34cc827",
-      "levelid": "custom_level_3af01102ebe839dcfad8e7cef4c14846c34cc827"
+      "key": "47dc5",
+      "songName": "locked up for every good reason",
+      "hash": "1a678ec57676c62b703e7954c485903a2f815fed",
+      "levelid": "custom_level_1a678ec57676c62b703e7954c485903a2f815fed"
     },
     {
-      "key": "47d12",
-      "songName": "LISA - Thunder",
-      "hash": "78b8d3501ada7675645afa6807b7200714de5564",
-      "levelid": "custom_level_78b8d3501ada7675645afa6807b7200714de5564"
+      "key": "47dc1",
+      "songName": "Broken Diamonds - Lord of Speed",
+      "hash": "6cf56146b9ac811609c86f9a5907e546de0b4f4a",
+      "levelid": "custom_level_6cf56146b9ac811609c86f9a5907e546de0b4f4a"
     },
     {
-      "key": "47d11",
-      "songName": "Jamal tries manipulation",
-      "hash": "12ea26378a11ac5e234d30677ec32aee8fcfb344",
-      "levelid": "custom_level_12ea26378a11ac5e234d30677ec32aee8fcfb344"
+      "key": "47dbf",
+      "songName": "[CHROMA] Camellia - Dreamless Wanderer",
+      "hash": "26ec496f5c970a8b0948e0c6558993e16296adb3",
+      "levelid": "custom_level_26ec496f5c970a8b0948e0c6558993e16296adb3"
     },
     {
-      "key": "47d0f",
-      "songName": "JENNIE-Start a War",
-      "hash": "402a505ec7fa7a4156e6a14a8a90643b0d56b8fc",
-      "levelid": "custom_level_402a505ec7fa7a4156e6a14a8a90643b0d56b8fc"
+      "key": "47dbd",
+      "songName": "i want some ice cream",
+      "hash": "5526008197406ab764822cfbfddac8e50080ae26",
+      "levelid": "custom_level_5526008197406ab764822cfbfddac8e50080ae26"
     },
     {
-      "key": "47d0d",
-      "songName": "Omnitica - I'm Being Reelistic",
-      "hash": "5364b62b3b20dad2de4f76dea8996325d2f8b1fe",
-      "levelid": "custom_level_5364b62b3b20dad2de4f76dea8996325d2f8b1fe"
+      "key": "47da9",
+      "songName": "Super Shooter",
+      "hash": "739eec545099fe81156d5544e9a9cd13df19a12d",
+      "levelid": "custom_level_739eec545099fe81156d5544e9a9cd13df19a12d"
     },
     {
-      "key": "47d0a",
-      "songName": "Mo Falk - Feel So Gud",
-      "hash": "25929e2bc744c6be5d76981b455265db4f1c28af",
-      "levelid": "custom_level_25929e2bc744c6be5d76981b455265db4f1c28af"
+      "key": "47da8",
+      "songName": "Fallen Symphony",
+      "hash": "e080ef96f827580985b54e4a4b766bd3f6d86c71",
+      "levelid": "custom_level_e080ef96f827580985b54e4a4b766bd3f6d86c71"
     },
     {
-      "key": "47d0b",
-      "songName": "a lot of candy , refrigerator full of sweets",
-      "hash": "d39afa4b377f7da4cb1642b9a3e12e4f03f7832a",
-      "levelid": "custom_level_d39afa4b377f7da4cb1642b9a3e12e4f03f7832a"
+      "key": "47da7",
+      "songName": "P.O.D - I Got That",
+      "hash": "c34419ef2d75cc9d5d9628957e4e7d427311d928",
+      "levelid": "custom_level_c34419ef2d75cc9d5d9628957e4e7d427311d928"
     },
     {
-      "key": "47d09",
-      "songName": "I DIDNT SHOOT MY DOG",
-      "hash": "385434201986d84f3b1d39b5132044ba5807c7ea",
-      "levelid": "custom_level_385434201986d84f3b1d39b5132044ba5807c7ea"
+      "key": "47d9d",
+      "songName": "Heaven - Dj Sammy & Yanou feat. Do ",
+      "hash": "8527506061c1d03783147568b669398e5203efae",
+      "levelid": "custom_level_8527506061c1d03783147568b669398e5203efae"
     },
     {
-      "key": "47d08",
-      "songName": "One Left",
-      "hash": "fdafa83b199cb1fabfb999bcd4471ffa1851b893",
-      "levelid": "custom_level_fdafa83b199cb1fabfb999bcd4471ffa1851b893"
+      "key": "47d88",
+      "songName": "heylog - if snakes in the wall was on crack",
+      "hash": "3447899718f08e536d33ee0aed3bde5743fbc024",
+      "levelid": "custom_level_3447899718f08e536d33ee0aed3bde5743fbc024"
     },
     {
-      "key": "47d05",
+      "key": "47d87",
+      "songName": "Ice Nine Kills, Reel Big Fish - Walking on Sunshine",
+      "hash": "618b7eba43ee4ba69123a64fe353caa3df813a0e",
+      "levelid": "custom_level_618b7eba43ee4ba69123a64fe353caa3df813a0e"
+    },
+    {
+      "key": "47d86",
       "songName": "hostile",
-      "hash": "444cb5f8906480be422309dc6c25bdb60aeed676",
-      "levelid": "custom_level_444cb5f8906480be422309dc6c25bdb60aeed676"
+      "hash": "fe0ce3ab2d1c9fac8d63c88f2afb442b5a746a07",
+      "levelid": "custom_level_fe0ce3ab2d1c9fac8d63c88f2afb442b5a746a07"
     },
     {
-      "key": "47cee",
-      "songName": "d4vd - here with me",
-      "hash": "1f349f394ea430d8c1a122ee1de42e9665fa4962",
-      "levelid": "custom_level_1f349f394ea430d8c1a122ee1de42e9665fa4962"
+      "key": "47d80",
+      "songName": "[Chroma] Imogen Heap - Headlock",
+      "hash": "5c9f32c43ec603216d7575d6f8aec1f2d8301a3f",
+      "levelid": "custom_level_5c9f32c43ec603216d7575d6f8aec1f2d8301a3f"
     },
     {
-      "key": "47ced",
-      "songName": "Standing On The Shore",
-      "hash": "e8fcf42e6301eb10173577833fd8678d0260c28c",
-      "levelid": "custom_level_e8fcf42e6301eb10173577833fd8678d0260c28c"
+      "key": "47c47",
+      "songName": "Noah Rinker - Wherever I Go",
+      "hash": "45b2e090fb6f1dbb0365fb00a90399a9e78fa20e",
+      "levelid": "custom_level_45b2e090fb6f1dbb0365fb00a90399a9e78fa20e"
     },
     {
-      "key": "47cec",
-      "songName": "BLACK KNIFE - Toby Fox",
-      "hash": "1663066c87ae7cbb3ecd4386b55d8efe7a79fa6b",
-      "levelid": "custom_level_1663066c87ae7cbb3ecd4386b55d8efe7a79fa6b"
+      "key": "47d7a",
+      "songName": "CHYL & Skybreak - Euphoria Rush",
+      "hash": "fc08dcad46388672df6b3f09d98aea7d85c15d01",
+      "levelid": "custom_level_fc08dcad46388672df6b3f09d98aea7d85c15d01"
     },
     {
-      "key": "47ceb",
-      "songName": "1991 ft. Alex Hosking - Jungle (Colin Hennerz Remix)",
-      "hash": "7a9ad29726afb1e556d4f251324ffdb67d14a8da",
-      "levelid": "custom_level_7a9ad29726afb1e556d4f251324ffdb67d14a8da"
+      "key": "47d7b",
+      "songName": "Shalom",
+      "hash": "152a45f5c15480582b670026312ca607f051ceed",
+      "levelid": "custom_level_152a45f5c15480582b670026312ca607f051ceed"
     },
     {
-      "key": "47ce2",
-      "songName": "ILLIT - 빌려온 고양이 (Do the Dance)",
-      "hash": "c848ee116da3b6a2fb13cc5df424ce1f08be3982",
-      "levelid": "custom_level_c848ee116da3b6a2fb13cc5df424ce1f08be3982"
+      "key": "47d77",
+      "songName": "les quatre Saisons de Vivaldi (L'été)",
+      "hash": "a955155d145a7bd3ce0f7fba5bcd2284da4fb82f",
+      "levelid": "custom_level_a955155d145a7bd3ce0f7fba5bcd2284da4fb82f"
     },
     {
-      "key": "47ce1",
-      "songName": "Give Up Ever Soul (Parody of Build Our Machine) ",
-      "hash": "d60fc93d6c9809c5cf4fb9a993f445a5c2c68a92",
-      "levelid": "custom_level_d60fc93d6c9809c5cf4fb9a993f445a5c2c68a92"
+      "key": "47d76",
+      "songName": "les quatre Saisons de Vivaldi (L'été)",
+      "hash": "437d16a507ddf5c174716b01624b3bb1dc2e7f4e",
+      "levelid": "custom_level_437d16a507ddf5c174716b01624b3bb1dc2e7f4e"
     },
     {
-      "key": "47ce0",
-      "songName": "Herr Officer - Baran Kok",
-      "hash": "f1daee71446483e2d6399fcfe94acfd30c421078",
-      "levelid": "custom_level_f1daee71446483e2d6399fcfe94acfd30c421078"
+      "key": "47d75",
+      "songName": "KISS OF LIFE - Lips Hips Kiss",
+      "hash": "76a807f334303a0d21ccd4eaa1d84ac263ec1ba5",
+      "levelid": "custom_level_76a807f334303a0d21ccd4eaa1d84ac263ec1ba5"
     },
     {
-      "key": "47cdf",
-      "songName": "Navigating - Twenty One Pilots",
-      "hash": "584479f3ef9484bde1618a566a8370773af16639",
-      "levelid": "custom_level_584479f3ef9484bde1618a566a8370773af16639"
+      "key": "47cde",
+      "songName": "淡さと微睡む feat. Miku - MIMI",
+      "hash": "c9fb4dee36d97e5ed0c2cb07706656fab567951a",
+      "levelid": "custom_level_c9fb4dee36d97e5ed0c2cb07706656fab567951a"
+    },
+    {
+      "key": "47d73",
+      "songName": "les quatre Saisons de Vivaldi (L'été)",
+      "hash": "ebf50a8bc1e517457139453f1fca9c89cefdf417",
+      "levelid": "custom_level_ebf50a8bc1e517457139453f1fca9c89cefdf417"
     }
   ],
   "image": ""
