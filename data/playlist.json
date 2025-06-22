@@ -1,274 +1,316 @@
 {
-  "playlistTitle": "2025-06-20T15:18:48.163Z~2025-06-21T15:18:48.163Z",
+  "playlistTitle": "2025-06-21T15:18:49.312Z~2025-06-22T15:18:49.312Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-06-20T15:18:48.163Z and 2025-06-21T15:18:48.163Z",
+  "discripstion": "Maps published between 2025-06-21T15:18:49.312Z and 2025-06-22T15:18:49.312Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "47e85",
-      "songName": "[V3 Lights] Sweet Dreams feat.Rica -Neko Hacker-",
-      "hash": "f9cb53337c2fe368b26df64f99ccf0c24f9fe442",
-      "levelid": "custom_level_f9cb53337c2fe368b26df64f99ccf0c24f9fe442"
+      "key": "47f9a",
+      "songName": "Die Young",
+      "hash": "0c1dbf2608ebb1d5da780408692274e9537e72ec",
+      "levelid": "custom_level_0c1dbf2608ebb1d5da780408692274e9537e72ec"
     },
     {
-      "key": "47f0d",
-      "songName": "Neko Hacker - Night-Sky",
-      "hash": "a113d026019daad19e5e79d56888469ae4bd4667",
-      "levelid": "custom_level_a113d026019daad19e5e79d56888469ae4bd4667"
+      "key": "47f0a",
+      "songName": "ハナタバ feat. KAFU - MIMI (2025 remap)",
+      "hash": "6aa0a89cd930a4bafe39ffc06899dead6d03cd2f",
+      "levelid": "custom_level_6aa0a89cd930a4bafe39ffc06899dead6d03cd2f"
     },
     {
-      "key": "47f25",
-      "songName": "YOU",
-      "hash": "dc69455895c0ab6fc6116a8ae6bae0bd8d3cd2a3",
-      "levelid": "custom_level_dc69455895c0ab6fc6116a8ae6bae0bd8d3cd2a3"
+      "key": "47f86",
+      "songName": "[Madoka Magica Pack #1] Yuki Kajiura - Incertus",
+      "hash": "1e5b617e7f1b91c3b21b6bcad3d54887280288ee",
+      "levelid": "custom_level_1e5b617e7f1b91c3b21b6bcad3d54887280288ee"
     },
     {
-      "key": "47f23",
-      "songName": "Tuta Gold",
-      "hash": "e3f4351ebc8ec61eba3f7722ebc61f8d52e4c5d6",
-      "levelid": "custom_level_e3f4351ebc8ec61eba3f7722ebc61f8d52e4c5d6"
+      "key": "47f85",
+      "songName": "[Madoka Magica Pack #1] Yuki Kajiura - Credens Justitiam",
+      "hash": "a4af8d54a2e22b983943f5ecb88a709f26f75f04",
+      "levelid": "custom_level_a4af8d54a2e22b983943f5ecb88a709f26f75f04"
     },
     {
-      "key": "47f22",
-      "songName": "ARCH ENEMY - Blood Dynasty",
-      "hash": "fbf9d7802537622e30f4477ea2e8031b4d27dcfe",
-      "levelid": "custom_level_fbf9d7802537622e30f4477ea2e8031b4d27dcfe"
+      "key": "47f89",
+      "songName": "[Madoka Magica Pack #1] Yuki Kajiura - Puella In Somnio",
+      "hash": "e2e506274aa93119f3c555cbd2bc52052f2deeb5",
+      "levelid": "custom_level_e2e506274aa93119f3c555cbd2bc52052f2deeb5"
     },
     {
-      "key": "47f1e",
-      "songName": "Crystal World feat. somunia & をとは - Neko Hacker",
-      "hash": "b92f2175e8543dee2bbb9388622d32ec9db7e2f6",
-      "levelid": "custom_level_b92f2175e8543dee2bbb9388622d32ec9db7e2f6"
+      "key": "47f88",
+      "songName": "[Madoka Magica Pack #1] Yuki Kajiura - Conturbatio",
+      "hash": "7ad8dd0bc57541c81fa0c813285fbd28fda63a59",
+      "levelid": "custom_level_7ad8dd0bc57541c81fa0c813285fbd28fda63a59"
     },
     {
-      "key": "47f11",
-      "songName": "ドライブ Drive - Neko Hacker feat. MITSUKIYO & Wotoha",
-      "hash": "e0c666b6e061c74a67eceb34007f82f9c2cbe301",
-      "levelid": "custom_level_e0c666b6e061c74a67eceb34007f82f9c2cbe301"
+      "key": "47f87",
+      "songName": "[Madoka Magica Pack #1] Yuki Kajiura - Quamobrem?",
+      "hash": "dad9a241a4f8ba3cda50f70f61f1608645639c63",
+      "levelid": "custom_level_dad9a241a4f8ba3cda50f70f61f1608645639c63"
     },
     {
-      "key": "47f1a",
-      "songName": "mugenhouyou ",
-      "hash": "d13cc028a4189b17251c45df93238b305e8a880d",
-      "levelid": "custom_level_d13cc028a4189b17251c45df93238b305e8a880d"
+      "key": "47f84",
+      "songName": "[Madoka Magica Pack #1] Yuki Kajiura - Sis Puella Magica!",
+      "hash": "16e4e9bf1680626596f49d79863b59b88f6ec731",
+      "levelid": "custom_level_16e4e9bf1680626596f49d79863b59b88f6ec731"
     },
     {
-      "key": "47f17",
-      "songName": "デーモンバスターズ！",
-      "hash": "1a9298b3b8ccbcedcc1b26658873369ff4f3d5cf",
-      "levelid": "custom_level_1a9298b3b8ccbcedcc1b26658873369ff4f3d5cf"
+      "key": "47f95",
+      "songName": "first song in ableton",
+      "hash": "810f132a668d370793c3d1fd4b48652d56c21278",
+      "levelid": "custom_level_810f132a668d370793c3d1fd4b48652d56c21278"
     },
     {
-      "key": "47f12",
-      "songName": "Hayden James – Permission to Love",
-      "hash": "862c58ecef51da0335d068ed413603f4825416e0",
-      "levelid": "custom_level_862c58ecef51da0335d068ed413603f4825416e0"
+      "key": "47f96",
+      "songName": "i forgot i made this so i'm calling it the SEGA DREAMCAST",
+      "hash": "45a3af4d84d98cd2f3b025654e34c401e124210d",
+      "levelid": "custom_level_45a3af4d84d98cd2f3b025654e34c401e124210d"
     },
     {
-      "key": "47f10",
-      "songName": "yes sir",
-      "hash": "aec5cfd155f68984edbe0790a3a3e550365325c4",
-      "levelid": "custom_level_aec5cfd155f68984edbe0790a3a3e550365325c4"
+      "key": "47f94",
+      "songName": "i wish i was a octopus so i cold slap 8 ppl at a time",
+      "hash": "bd5ca7a5a5705b5f6d51063b3854157c8a5639ee",
+      "levelid": "custom_level_bd5ca7a5a5705b5f6d51063b3854157c8a5639ee"
     },
     {
-      "key": "47ee7",
-      "songName": "MrKoolTrix - Supersquad",
-      "hash": "6e4cc52e3c514268b21807614d0d7db603497367",
-      "levelid": "custom_level_6e4cc52e3c514268b21807614d0d7db603497367"
+      "key": "47f8e",
+      "songName": "yax03 - Stresstest",
+      "hash": "3e52c4d31260fcd0e5bd88023f127df228fc75d9",
+      "levelid": "custom_level_3e52c4d31260fcd0e5bd88023f127df228fc75d9"
     },
     {
-      "key": "47f0f",
-      "songName": "Talk to US",
-      "hash": "1ca4e5feb9fa577295c3cb7073d4d6524a1b41bc",
-      "levelid": "custom_level_1ca4e5feb9fa577295c3cb7073d4d6524a1b41bc"
+      "key": "47f8d",
+      "songName": "Gruppo - Barbarian On The Groove feat.茶太",
+      "hash": "8132e55f1763b7d0e99d67276613775fcdc1945f",
+      "levelid": "custom_level_8132e55f1763b7d0e99d67276613775fcdc1945f"
     },
     {
-      "key": "47f09",
+      "key": "47f8a",
+      "songName": "ketsumeishi - Superstar",
+      "hash": "7fbe5c8e9956f0430ad8af9324d0d5a4251c81cf",
+      "levelid": "custom_level_7fbe5c8e9956f0430ad8af9324d0d5a4251c81cf"
+    },
+    {
+      "key": "47f83",
+      "songName": "Urbandawn - Encanto [Forza Horizon 5 Soundtrack]",
+      "hash": "6a9c835eb6598eb5c062667612f4fcce118e891b",
+      "levelid": "custom_level_6a9c835eb6598eb5c062667612f4fcce118e891b"
+    },
+    {
+      "key": "47f82",
+      "songName": "Isekai Market (feat. ななひら, mochari & をとは) - Neko Hacker",
+      "hash": "2dc5954775349f36e893a1b35189408fd6cbbac5",
+      "levelid": "custom_level_2dc5954775349f36e893a1b35189408fd6cbbac5"
+    },
+    {
+      "key": "47f81",
+      "songName": "Dancin'",
+      "hash": "05a089cea19c6baefba9511f2371e3716a03c695",
+      "levelid": "custom_level_05a089cea19c6baefba9511f2371e3716a03c695"
+    },
+    {
+      "key": "47f80",
+      "songName": "Dreamcatcher UAU - 2 Months",
+      "hash": "c7bb964fc585339e85732dc54de7c98f0744934b",
+      "levelid": "custom_level_c7bb964fc585339e85732dc54de7c98f0744934b"
+    },
+    {
+      "key": "47f7f",
+      "songName": "aldn - push you away (Cut)",
+      "hash": "775d51a26694ed5dee73e033ba2a9616819703a4",
+      "levelid": "custom_level_775d51a26694ed5dee73e033ba2a9616819703a4"
+    },
+    {
+      "key": "47f79",
+      "songName": "Reno, picco (NEXTLIGHT) feat. Hatsune Miku - Light Next To You [NX STARS 03]",
+      "hash": "56ee3dca66f2ff7a9955f2716cc4f5babe874764",
+      "levelid": "custom_level_56ee3dca66f2ff7a9955f2716cc4f5babe874764"
+    },
+    {
+      "key": "47e04",
+      "songName": "Reno (NEXTLIGHT) feat. GUMI SV - Our Statement [NX STARS 03]",
+      "hash": "7622135c54c768ff53ce05c218d43014af037d3c",
+      "levelid": "custom_level_7622135c54c768ff53ce05c218d43014af037d3c"
+    },
+    {
+      "key": "47f78",
+      "songName": "I just died (in your arms)",
+      "hash": "76311d1604c10ae15ffc2ebd7efdc400e6615227",
+      "levelid": "custom_level_76311d1604c10ae15ffc2ebd7efdc400e6615227"
+    },
+    {
+      "key": "47f74",
+      "songName": "Dirty Palm - Hana (feat. Swimmy)",
+      "hash": "062a1db84519674c257c07704a046feeada61a43",
+      "levelid": "custom_level_062a1db84519674c257c07704a046feeada61a43"
+    },
+    {
+      "key": "47f6b",
+      "songName": "Dive to The Heart - 681 Epilogue",
+      "hash": "3e8fbc3ad64e784578851dcc3a86dd7335d8012c",
+      "levelid": "custom_level_3e8fbc3ad64e784578851dcc3a86dd7335d8012c"
+    },
+    {
+      "key": "47f6a",
+      "songName": "Maretu - Magical Doctor",
+      "hash": "2cd32ca132729d25a8614935ad7e0401bdae3f99",
+      "levelid": "custom_level_2cd32ca132729d25a8614935ad7e0401bdae3f99"
+    },
+    {
+      "key": "47f69",
+      "songName": "acloudyskye - To Tell You The Truth",
+      "hash": "fc4dc51b82af0ed35c5df44461fdf0069d1ce39f",
+      "levelid": "custom_level_fc4dc51b82af0ed35c5df44461fdf0069d1ce39f"
+    },
+    {
+      "key": "47f66",
+      "songName": "Null",
+      "hash": "9b620d6342822ab3ee03733958ca3d229658a907",
+      "levelid": "custom_level_9b620d6342822ab3ee03733958ca3d229658a907"
+    },
+    {
+      "key": "47f65",
+      "songName": "616.388",
+      "hash": "bee9240d5689ffe33784cc20a72d42e756a2f9cf",
+      "levelid": "custom_level_bee9240d5689ffe33784cc20a72d42e756a2f9cf"
+    },
+    {
+      "key": "47f64",
+      "songName": "スクメロ-例えば君の未来が",
+      "hash": "8eab43b244dedaafb1a6cecb91d1066d152d9673",
+      "levelid": "custom_level_8eab43b244dedaafb1a6cecb91d1066d152d9673"
+    },
+    {
+      "key": "47f5c",
+      "songName": "BECOME HUMAN",
+      "hash": "fc97d25d0094de1f3af53c119e6618d0649b1af3",
+      "levelid": "custom_level_fc97d25d0094de1f3af53c119e6618d0649b1af3"
+    },
+    {
+      "key": "47f58",
+      "songName": "CHE.R.RY(coverd by 羊羊) - YUI",
+      "hash": "3527fd984390bb02ee5573527905b2abf4d28bd5",
+      "levelid": "custom_level_3527fd984390bb02ee5573527905b2abf4d28bd5"
+    },
+    {
+      "key": "47f50",
+      "songName": "I'm a banana - Onision",
+      "hash": "76a32b70303c120876afc7b8f8fa919935ef4f77",
+      "levelid": "custom_level_76a32b70303c120876afc7b8f8fa919935ef4f77"
+    },
+    {
+      "key": "47f4f",
+      "songName": "I want to die",
+      "hash": "78ffcab81700ec19caf7905a5618e47335d04996",
+      "levelid": "custom_level_78ffcab81700ec19caf7905a5618e47335d04996"
+    },
+    {
+      "key": "47f4e",
+      "songName": "660",
+      "hash": "a134ed81389a7da4e447497e5a9893ab95c3960a",
+      "levelid": "custom_level_a134ed81389a7da4e447497e5a9893ab95c3960a"
+    },
+    {
+      "key": "47f4d",
+      "songName": "Ymin lamiel",
+      "hash": "b4edddfa81b91b8de169621da80c3ef9871d2162",
+      "levelid": "custom_level_b4edddfa81b91b8de169621da80c3ef9871d2162"
+    },
+    {
+      "key": "47f4b",
+      "songName": "nemobeebo - scraping fork on a plate ahh 808s",
+      "hash": "16631de6109f9dfa89052913e0800480b3555c19",
+      "levelid": "custom_level_16631de6109f9dfa89052913e0800480b3555c19"
+    },
+    {
+      "key": "47f49",
       "songName": "PokeDance (Hey Boogie Woogie Bang Bang)",
-      "hash": "89906803cf74b4b9d5f8996851aadc2d736d6c62",
-      "levelid": "custom_level_89906803cf74b4b9d5f8996851aadc2d736d6c62"
+      "hash": "dde4e25560bf0c8a875b825c0ca7a1b3426d10a5",
+      "levelid": "custom_level_dde4e25560bf0c8a875b825c0ca7a1b3426d10a5"
     },
     {
-      "key": "47f08",
-      "songName": "Nhato-禊",
-      "hash": "5e01af5e959ab17c673ce4b3782674b757469d22",
-      "levelid": "custom_level_5e01af5e959ab17c673ce4b3782674b757469d22"
+      "key": "47f48",
+      "songName": "\"I Will Survive\" - Gloria Gaynor",
+      "hash": "5b209148486400a4f9bd78c47e114e9a9e6389b3",
+      "levelid": "custom_level_5b209148486400a4f9bd78c47e114e9a9e6389b3"
     },
     {
-      "key": "47f01",
-      "songName": "Miyamori Bungaku - Parry (covered by Kotoha x Vav)",
-      "hash": "5ffbc4793fe03d36834b120ed9b6321b26599fa1",
-      "levelid": "custom_level_5ffbc4793fe03d36834b120ed9b6321b26599fa1"
+      "key": "47f45",
+      "songName": "The Body Is A Temple For Heavier Metal",
+      "hash": "42d3ed214054ac3cc6979579e34419629eb80669",
+      "levelid": "custom_level_42d3ed214054ac3cc6979579e34419629eb80669"
     },
     {
-      "key": "47f06",
-      "songName": "FEET",
-      "hash": "d94e33f9ae0f89cb95edbd6b8062541e1d43c46b",
-      "levelid": "custom_level_d94e33f9ae0f89cb95edbd6b8062541e1d43c46b"
+      "key": "47f43",
+      "songName": "letter b song",
+      "hash": "3ee35bb4ce18026ba62703a57ded5219c194f947",
+      "levelid": "custom_level_3ee35bb4ce18026ba62703a57ded5219c194f947"
     },
     {
-      "key": "47eff",
-      "songName": "Yuuyu - Clover Club -C&C-",
-      "hash": "444c6ebee0073c808058a8ade93bcb007f07d91f",
-      "levelid": "custom_level_444c6ebee0073c808058a8ade93bcb007f07d91f"
+      "key": "47f42",
+      "songName": "Bake no Hana",
+      "hash": "1f12e2540de071f941def7b778cd312d58b70529",
+      "levelid": "custom_level_1f12e2540de071f941def7b778cd312d58b70529"
     },
     {
-      "key": "47eef",
-      "songName": "ΩΩPARTS",
-      "hash": "e3703d4a44ca4bd6bdcfd2806b867037cfbbece2",
-      "levelid": "custom_level_e3703d4a44ca4bd6bdcfd2806b867037cfbbece2"
+      "key": "47ddd",
+      "songName": "One Direction - They Don't Know About Us",
+      "hash": "a4ae4197485a7ed60f46c6bf6272f5b086081ba3",
+      "levelid": "custom_level_a4ae4197485a7ed60f46c6bf6272f5b086081ba3"
     },
     {
-      "key": "47ee5",
-      "songName": "neonatalimpalionecrophiliation",
-      "hash": "282bf4996807b933067ddd64fba9f67b3a4885b0",
-      "levelid": "custom_level_282bf4996807b933067ddd64fba9f67b3a4885b0"
+      "key": "47f3e",
+      "songName": "Sleep PHONK",
+      "hash": "6fe0948c01cd7ed38834afe63a1e87487c00e380",
+      "levelid": "custom_level_6fe0948c01cd7ed38834afe63a1e87487c00e380"
     },
     {
-      "key": "47ee3",
-      "songName": "Adust Rain - TRAUMATIC SYNDROME (Remastered 2025)",
-      "hash": "2d087c2122812cef84dec3a7302b3acb8c29f655",
-      "levelid": "custom_level_2d087c2122812cef84dec3a7302b3acb8c29f655"
+      "key": "47f3d",
+      "songName": "Title fight - Head in the ceiling fan",
+      "hash": "ac0567cff3c4c86eb79e3f5e59e480d6b563e887",
+      "levelid": "custom_level_ac0567cff3c4c86eb79e3f5e59e480d6b563e887"
     },
     {
-      "key": "47ede",
-      "songName": "No Fear, No Despair, With all My Hearts.",
-      "hash": "5045d48d33be92a8903c76a23ab0fbc8918da266",
-      "levelid": "custom_level_5045d48d33be92a8903c76a23ab0fbc8918da266"
+      "key": "47f3c",
+      "songName": "恋空予報",
+      "hash": "d69efd9afc385dfb060d2020948150de5fffecf5",
+      "levelid": "custom_level_d69efd9afc385dfb060d2020948150de5fffecf5"
     },
     {
-      "key": "47edd",
-      "songName": "Kompany & Ivory - Jackpot (feat. Raxdflipnote)",
-      "hash": "b5af8873416bfc7f8fdbbcafcc4607193996b56e",
-      "levelid": "custom_level_b5af8873416bfc7f8fdbbcafcc4607193996b56e"
+      "key": "47f3b",
+      "songName": "雨",
+      "hash": "09572a5ec07c7b29453697ce4bcc7f9ca5c73844",
+      "levelid": "custom_level_09572a5ec07c7b29453697ce4bcc7f9ca5c73844"
     },
     {
-      "key": "47eda",
-      "songName": "Hammer of Justice (Deltarune Ch. 4) | Cover by Dethraxx",
-      "hash": "6a4687672ac42885b2d8d72bce01b38193b6f564",
-      "levelid": "custom_level_6a4687672ac42885b2d8d72bce01b38193b6f564"
+      "key": "47d85",
+      "songName": "KAT x Aku P - Affection Addiction ft. POPY  [Map for BSWC: Round of 16]",
+      "hash": "4d8788467f35727bc32944c7d63fd676b54f3acf",
+      "levelid": "custom_level_4d8788467f35727bc32944c7d63fd676b54f3acf"
     },
     {
-      "key": "47ed9",
-      "songName": "HalaCG x Kiwwi - Sneaky Little Thief",
-      "hash": "aa6cead68a3a25a24b57c245d146f4368c30c118",
-      "levelid": "custom_level_aa6cead68a3a25a24b57c245d146f4368c30c118"
+      "key": "47dc2",
+      "songName": "[BSWC 2025] Linkin Park - Two Faced",
+      "hash": "fbd21a21c11ab1fad3e7eb9f6471a0f8ccba80ca",
+      "levelid": "custom_level_fbd21a21c11ab1fad3e7eb9f6471a0f8ccba80ca"
     },
     {
-      "key": "47ed8",
-      "songName": "mions",
-      "hash": "314af42c1c1864a41c5035944e7284fcd22cedeb",
-      "levelid": "custom_level_314af42c1c1864a41c5035944e7284fcd22cedeb"
+      "key": "47f35",
+      "songName": "Sophie Chen - Song About Life",
+      "hash": "0b007790086b58c1a98d3a093169dc1b25cd8ee8",
+      "levelid": "custom_level_0b007790086b58c1a98d3a093169dc1b25cd8ee8"
     },
     {
-      "key": "47ed6",
-      "songName": "Duck Or Ape",
-      "hash": "d996dc768b3bb5d6e6e392b009464fc066c3e3cd",
-      "levelid": "custom_level_d996dc768b3bb5d6e6e392b009464fc066c3e3cd"
+      "key": "47f2d",
+      "songName": "NLEpifghwepiyjnweiphw",
+      "hash": "378662c68176dd3622030cba14deac71ec60293b",
+      "levelid": "custom_level_378662c68176dd3622030cba14deac71ec60293b"
     },
     {
-      "key": "47ed5",
-      "songName": "BURNING EYES",
-      "hash": "05553b2cd1b4788d374f4c5841ca93c4163bf899",
-      "levelid": "custom_level_05553b2cd1b4788d374f4c5841ca93c4163bf899"
-    },
-    {
-      "key": "47ed3",
-      "songName": "TryHardNinja - The Puppet Song",
-      "hash": "2b15085c98060bcbde55080ea0d5683ed5f11a2f",
-      "levelid": "custom_level_2b15085c98060bcbde55080ea0d5683ed5f11a2f"
-    },
-    {
-      "key": "47ed2",
-      "songName": "Caravan Palace - C. Girl - Mixed",
-      "hash": "ffacefedea1cf1b922694f2b8dcb018f465951a5",
-      "levelid": "custom_level_ffacefedea1cf1b922694f2b8dcb018f465951a5"
-    },
-    {
-      "key": "47ed1",
-      "songName": "Imogen Heap & Venace - Headlock X Yeat",
-      "hash": "a0b575b055955b0d60545cb1cb53eef527714fe8",
-      "levelid": "custom_level_a0b575b055955b0d60545cb1cb53eef527714fe8"
-    },
-    {
-      "key": "47ed0",
-      "songName": "old spice parrot",
-      "hash": "da6c61c554d15cdc371519de97edfe4bb917640e",
-      "levelid": "custom_level_da6c61c554d15cdc371519de97edfe4bb917640e"
-    },
-    {
-      "key": "47ecd",
-      "songName": "Elite",
-      "hash": "3e0967dbfbc4c84a2bcc275fbda61e3c00d457b3",
-      "levelid": "custom_level_3e0967dbfbc4c84a2bcc275fbda61e3c00d457b3"
-    },
-    {
-      "key": "47ec9",
-      "songName": "Deep Down - Alok (feat. Ella Eyre, Kenny Dope & Never Dull)",
-      "hash": "4d08f2495a9f5eff69c5225386cd1c26edb77aab",
-      "levelid": "custom_level_4d08f2495a9f5eff69c5225386cd1c26edb77aab"
-    },
-    {
-      "key": "47ecc",
-      "songName": "You Don't Treat Me No Good - Sonia Dada",
-      "hash": "b74833e9cef06b51ff02a68f416eb4b3d88917bd",
-      "levelid": "custom_level_b74833e9cef06b51ff02a68f416eb4b3d88917bd"
-    },
-    {
-      "key": "1e611",
-      "songName": "Phuture Noize - A New World (Qlimax Anthem 2020)",
-      "hash": "a2504438bf0dc364869800897ff085028b44b527",
-      "levelid": "custom_level_a2504438bf0dc364869800897ff085028b44b527"
-    },
-    {
-      "key": "47ec8",
-      "songName": "Akira Complex - Ether Strike",
-      "hash": "69dfa42d753e9feadaaeb6181da8a4f9fc60ea1e",
-      "levelid": "custom_level_69dfa42d753e9feadaaeb6181da8a4f9fc60ea1e"
-    },
-    {
-      "key": "47d83",
-      "songName": "Follow You - Imagine Dragons",
-      "hash": "e059317fe7c7ace99d9724ee8f9f34939c0ca7f4",
-      "levelid": "custom_level_e059317fe7c7ace99d9724ee8f9f34939c0ca7f4"
-    },
-    {
-      "key": "47ec2",
-      "songName": "Claw Finger - Akira Yamaoka (Silent Hill 1 Soundtrack)",
-      "hash": "eeb318baad4f86f6818bd66513505fb8c42980ef",
-      "levelid": "custom_level_eeb318baad4f86f6818bd66513505fb8c42980ef"
-    },
-    {
-      "key": "47ebb",
-      "songName": "t+pazolite vs P*Light - IZANA",
-      "hash": "8b7c47f9b9c266ade6dfc2861d456074c74e798b",
-      "levelid": "custom_level_8b7c47f9b9c266ade6dfc2861d456074c74e798b"
-    },
-    {
-      "key": "47eb4",
-      "songName": "bill wurtz - i like to wear soft clothing",
-      "hash": "d1fae8680c4bbd8b2ebe7689087b32adf32222a4",
-      "levelid": "custom_level_d1fae8680c4bbd8b2ebe7689087b32adf32222a4"
-    },
-    {
-      "key": "47eaf",
-      "songName": "Rip jfk",
-      "hash": "4ffb8f0d01905b2f1d017c247b62b6bb9220782d",
-      "levelid": "custom_level_4ffb8f0d01905b2f1d017c247b62b6bb9220782d"
-    },
-    {
-      "key": "475f0",
-      "songName": "Once Upon a Witch’s Death Opening - Drops | Maaya Sakamoto",
-      "hash": "76f11465d6404d426ba1cbcb28fad4527fce4b02",
-      "levelid": "custom_level_76f11465d6404d426ba1cbcb28fad4527fce4b02"
-    },
-    {
-      "key": "47ead",
-      "songName": "Devil In The Details - Nightmare",
-      "hash": "5dc9865090a84cff1aea24833244e2e49905cd3d",
-      "levelid": "custom_level_5dc9865090a84cff1aea24833244e2e49905cd3d"
+      "key": "47f2c",
+      "songName": "After the Rain feat. Such",
+      "hash": "1a1b3c7192b67fe45882e892745014285637b4d5",
+      "levelid": "custom_level_1a1b3c7192b67fe45882e892745014285637b4d5"
     }
   ],
   "image": ""
