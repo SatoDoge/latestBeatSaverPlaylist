@@ -1,310 +1,196 @@
 {
-  "playlistTitle": "2025-06-24T15:18:48.622Z~2025-06-25T15:18:48.622Z",
+  "playlistTitle": "2025-06-25T15:18:48.375Z~2025-06-26T15:18:48.375Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-06-24T15:18:48.622Z and 2025-06-25T15:18:48.622Z",
+  "discripstion": "Maps published between 2025-06-25T15:18:48.375Z and 2025-06-26T15:18:48.375Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "480bc",
-      "songName": "Azari - D/N/A",
-      "hash": "7ede301e9eb631f9156eb61f9f4caa1d5962af12",
-      "levelid": "custom_level_7ede301e9eb631f9156eb61f9f4caa1d5962af12"
+      "key": "48114",
+      "songName": "Sam Smith - Diamonds (V3)",
+      "hash": "17d2c8d2ed4c8f72de66042617694e6d53336aee",
+      "levelid": "custom_level_17d2c8d2ed4c8f72de66042617694e6d53336aee"
     },
     {
-      "key": "480bb",
+      "key": "48111",
+      "songName": "密码的周一",
+      "hash": "6991fd72aa63c5eab1c7d478171c18b812364727",
+      "levelid": "custom_level_6991fd72aa63c5eab1c7d478171c18b812364727"
+    },
+    {
+      "key": "48110",
+      "songName": "オーバーライド - 重音テトSV[吉田夜世]",
+      "hash": "3a350da88a0f8f2cfac2f8f0fde42d8cd2a1ccbd",
+      "levelid": "custom_level_3a350da88a0f8f2cfac2f8f0fde42d8cd2a1ccbd"
+    },
+    {
+      "key": "4810d",
+      "songName": "Blue Devils 2025 trumpet feature",
+      "hash": "00469fcccb89615d5af7a6265d8bbe12c88a1db9",
+      "levelid": "custom_level_00469fcccb89615d5af7a6265d8bbe12c88a1db9"
+    },
+    {
+      "key": "48107",
+      "songName": "YOYO - 卡加布烈島",
+      "hash": "4544ed4c87d799ffbb7502f1113beee16e8a5a73",
+      "levelid": "custom_level_4544ed4c87d799ffbb7502f1113beee16e8a5a73"
+    },
+    {
+      "key": "480f8",
+      "songName": "Camellia - The King Of Lions",
+      "hash": "04129eefc05f40ca585c309543beeb488b5ad5c9",
+      "levelid": "custom_level_04129eefc05f40ca585c309543beeb488b5ad5c9"
+    },
+    {
+      "key": "480f7",
+      "songName": "first song",
+      "hash": "e57ae507082c278f8d7c27e3eca947102a1caec6",
+      "levelid": "custom_level_e57ae507082c278f8d7c27e3eca947102a1caec6"
+    },
+    {
+      "key": "480f4",
+      "songName": "Shicashey",
+      "hash": "16d6dc79db694a0524ae447d695bd2045bbc5b89",
+      "levelid": "custom_level_16d6dc79db694a0524ae447d695bd2045bbc5b89"
+    },
+    {
+      "key": "480f3",
+      "songName": "32Xchallenge",
+      "hash": "1879a2054ccb22e3f54ea6fc32e7c66751be0906",
+      "levelid": "custom_level_1879a2054ccb22e3f54ea6fc32e7c66751be0906"
+    },
+    {
+      "key": "480f0",
+      "songName": "summerween, insomniac · memo boy",
+      "hash": "b5f39ce64a57af9891a97983b2709a0c5e56232b",
+      "levelid": "custom_level_b5f39ce64a57af9891a97983b2709a0c5e56232b"
+    },
+    {
+      "key": "480ef",
+      "songName": "Hidden in the sand",
+      "hash": "70ec2678a1c2aca542efa87b2892ab2287479697",
+      "levelid": "custom_level_70ec2678a1c2aca542efa87b2892ab2287479697"
+    },
+    {
+      "key": "480f1",
+      "songName": "litmus* - Ground Pound",
+      "hash": "74d0eef971a60d78e83c4ef2d917793aea779587",
+      "levelid": "custom_level_74d0eef971a60d78e83c4ef2d917793aea779587"
+    },
+    {
+      "key": "480ed",
+      "songName": "lapix - Welcome to the Mosh Pit",
+      "hash": "d34208c647601a6e5754a4196ff64f8e3fc13804",
+      "levelid": "custom_level_d34208c647601a6e5754a4196ff64f8e3fc13804"
+    },
+    {
+      "key": "480ec",
       "songName": "as the world caves in",
-      "hash": "b898b02416796fd3893ef5e3659cc5f64bfdb659",
-      "levelid": "custom_level_b898b02416796fd3893ef5e3659cc5f64bfdb659"
+      "hash": "efae047e801b93653e5b9423e905c7503a35c05d",
+      "levelid": "custom_level_efae047e801b93653e5b9423e905c7503a35c05d"
     },
     {
-      "key": "480b4",
-      "songName": "Friendly Fire - Linkin Park [ VJNS/V4 ]",
-      "hash": "ef63f925a6d3ad342c91723224322af6eedd58c2",
-      "levelid": "custom_level_ef63f925a6d3ad342c91723224322af6eedd58c2"
+      "key": "480e5",
+      "songName": "The Disappearance of Hatsune Miku",
+      "hash": "eb0bcd8d9e6728cce36c3bd33456031882ac49e8",
+      "levelid": "custom_level_eb0bcd8d9e6728cce36c3bd33456031882ac49e8"
     },
     {
-      "key": "480af",
-      "songName": "Never Gonna Get Her",
-      "hash": "e0fd897e5d02728f51ba4da88817ac5679f21ff2",
-      "levelid": "custom_level_e0fd897e5d02728f51ba4da88817ac5679f21ff2"
+      "key": "480e4",
+      "songName": "Crystal Skies (Sped Up) \"Sample\"",
+      "hash": "07e9cf02750c4f693171f2aab1caaa7fe47aafb7",
+      "levelid": "custom_level_07e9cf02750c4f693171f2aab1caaa7fe47aafb7"
     },
     {
-      "key": "480ae",
-      "songName": "ドナルド電機【ドナルド×ヤマダ電機】",
-      "hash": "29c269fd65482b82253034a75567dd43ac2e8b50",
-      "levelid": "custom_level_29c269fd65482b82253034a75567dd43ac2e8b50"
+      "key": "480e3",
+      "songName": "the car",
+      "hash": "605afecebc366b061d70a25b19de24f3c1a9695f",
+      "levelid": "custom_level_605afecebc366b061d70a25b19de24f3c1a9695f"
     },
     {
-      "key": "480ad",
-      "songName": "les quatre Saisons de Vivaldi (L'Hiver) [Unfinished]",
-      "hash": "5a0e091c78b9067d9bd50916e21ce07dc7118840",
-      "levelid": "custom_level_5a0e091c78b9067d9bd50916e21ce07dc7118840"
+      "key": "480e2",
+      "songName": "Kitchen gun",
+      "hash": "7c933bf500a5c334551b7eefb719754dab810585",
+      "levelid": "custom_level_7c933bf500a5c334551b7eefb719754dab810585"
     },
     {
-      "key": "480ac",
-      "songName": "We Fell Apart (short ver.)",
-      "hash": "665f8b8abd7d78f45d41f181d75977e4a699ad37",
-      "levelid": "custom_level_665f8b8abd7d78f45d41f181d75977e4a699ad37"
+      "key": "480e0",
+      "songName": "MacMelto - Fisher Price",
+      "hash": "2f3d93467f4f69563164a1e0a5ea02a0e82e6525",
+      "levelid": "custom_level_2f3d93467f4f69563164a1e0a5ea02a0e82e6525"
     },
     {
-      "key": "480ab",
-      "songName": "if - 西野カナ",
-      "hash": "b9d633c82a1ed120986b4b69ffaa2ee8c1c36109",
-      "levelid": "custom_level_b9d633c82a1ed120986b4b69ffaa2ee8c1c36109"
+      "key": "480e1",
+      "songName": "Energy",
+      "hash": "ffeea331e661a8a753fe9669cc69e6d538080662",
+      "levelid": "custom_level_ffeea331e661a8a753fe9669cc69e6d538080662"
     },
     {
-      "key": "480a1",
-      "songName": "Air Ride Ending - HAL Laboratory [Kirby Air Ride]",
-      "hash": "ccb5c4560e11b9d49e1047357e99f329cf8610ab",
-      "levelid": "custom_level_ccb5c4560e11b9d49e1047357e99f329cf8610ab"
+      "key": "480df",
+      "songName": "IDLE DEATH GAMBLE 2",
+      "hash": "c82e1292f5dc3885d76b57a8da71598a346ee5df",
+      "levelid": "custom_level_c82e1292f5dc3885d76b57a8da71598a346ee5df"
     },
     {
-      "key": "480a0",
-      "songName": "Nebula Belt (Short Ver.) - HAL Laboratory [Kirby Air Ride]",
-      "hash": "0f7fa81ac1a807f6664a2cde56164e2c230644b5",
-      "levelid": "custom_level_0f7fa81ac1a807f6664a2cde56164e2c230644b5"
+      "key": "480de",
+      "songName": " KAT x Aku P - Affection Addiction (feat. POPY)",
+      "hash": "a15d6a5e83dfa2cfea961afa3ba2939e9223d909",
+      "levelid": "custom_level_a15d6a5e83dfa2cfea961afa3ba2939e9223d909"
     },
     {
-      "key": "4809f",
-      "songName": "Checker Knights (Short Ver.) - Akira Miyagawa [Kirby Air Ride]",
-      "hash": "4590d327c8f256421af5c59801a96d9246a51a9e",
-      "levelid": "custom_level_4590d327c8f256421af5c59801a96d9246a51a9e"
+      "key": "480dd",
+      "songName": "longstoryshort - All In My Head",
+      "hash": "f0e1a20756731aacd65bbe06386435f6143ed581",
+      "levelid": "custom_level_f0e1a20756731aacd65bbe06386435f6143ed581"
     },
     {
-      "key": "4809e",
-      "songName": "Machine Passage (Short Ver.) - Jun Ishikawa [Kirby Air Ride]",
-      "hash": "2b4284b6bacde4b73cd734b759a3249566474380",
-      "levelid": "custom_level_2b4284b6bacde4b73cd734b759a3249566474380"
+      "key": "480da",
+      "songName": "Air",
+      "hash": "428fed84f53c415ccf07baf17a0d6754f301a274",
+      "levelid": "custom_level_428fed84f53c415ccf07baf17a0d6754f301a274"
     },
     {
-      "key": "4809d",
-      "songName": "Beanstalk Park (Short Ver.) - HAL Laboratory [Kirby Air Ride]",
-      "hash": "114937cbe86e39cc85ed67caa434abe3bc031cf0",
-      "levelid": "custom_level_114937cbe86e39cc85ed67caa434abe3bc031cf0"
+      "key": "480d8",
+      "songName": "crafter2011 - fall damage",
+      "hash": "f4c250f96707918e64aa02ecad05bf53f0d761c3",
+      "levelid": "custom_level_f4c250f96707918e64aa02ecad05bf53f0d761c3"
     },
     {
-      "key": "4809c",
-      "songName": "Magma Flows - Shogo Sakai [Kirby Air Ride]",
-      "hash": "8b47d7e961defa487d614e0353c29ca578b326ca",
-      "levelid": "custom_level_8b47d7e961defa487d614e0353c29ca578b326ca"
+      "key": "480d2",
+      "songName": "Untraveled Roads",
+      "hash": "6c82ab10078194318480826609e54fddcc4005f9",
+      "levelid": "custom_level_6c82ab10078194318480826609e54fddcc4005f9"
     },
     {
-      "key": "4809b",
-      "songName": "Frozen Hillside - Shogo Sakai [Kirby Air Ride]",
-      "hash": "7f387858eb1f59b3bfb743493d1e6834515745ab",
-      "levelid": "custom_level_7f387858eb1f59b3bfb743493d1e6834515745ab"
+      "key": "480ca",
+      "songName": "granny brazilion pohnk",
+      "hash": "1c7da150063b5b7a3f0f588ebafe49fffd39c44f",
+      "levelid": "custom_level_1c7da150063b5b7a3f0f588ebafe49fffd39c44f"
     },
     {
-      "key": "48099",
-      "songName": "Sky Sands - Shogo Sakai [Kirby Air Ride]",
-      "hash": "1b539719799c8095711530a15897bd4b591a349a",
-      "levelid": "custom_level_1b539719799c8095711530a15897bd4b591a349a"
+      "key": "480c5",
+      "songName": "BE:FIRST - GRIT",
+      "hash": "42bc55c3a520d12c14ded7704bef6a2ecf272bbf",
+      "levelid": "custom_level_42bc55c3a520d12c14ded7704bef6a2ecf272bbf"
     },
     {
-      "key": "48098",
-      "songName": "Celestial Valley - Hirokazu Ando [Kirby Air Ride]",
-      "hash": "14eb3b266e99a373344dd4f5f2b780aeccd49a4c",
-      "levelid": "custom_level_14eb3b266e99a373344dd4f5f2b780aeccd49a4c"
+      "key": "480c4",
+      "songName": "Doot Doot (6 7) - Skrilla",
+      "hash": "17a9e960489ebaf591ba12a00980e0a31af96c6f",
+      "levelid": "custom_level_17a9e960489ebaf591ba12a00980e0a31af96c6f"
     },
     {
-      "key": "48096",
-      "songName": "Fantasy Meadows - Shogo Sakai  [Kirby Air Ride]",
-      "hash": "e5347bf94dcbeb54ffcf73ff447ed895714a9203",
-      "levelid": "custom_level_e5347bf94dcbeb54ffcf73ff447ed895714a9203"
+      "key": "480c2",
+      "songName": "WTF",
+      "hash": "ea224769e48c35b618ecfbf5ea101f870432ce9d",
+      "levelid": "custom_level_ea224769e48c35b618ecfbf5ea101f870432ce9d"
     },
     {
-      "key": "48094",
-      "songName": "Menu - HAL Laboratory [Kirby Air Ride]",
-      "hash": "b94cc074e1fdae0ac235180dd93066e8d029bf1d",
-      "levelid": "custom_level_b94cc074e1fdae0ac235180dd93066e8d029bf1d"
-    },
-    {
-      "key": "48093",
-      "songName": "Opening - HAL Laboratory [Kirby Air Ride]",
-      "hash": "a9456318c3eb5f990109dcf2ff006a12101d8b79",
-      "levelid": "custom_level_a9456318c3eb5f990109dcf2ff006a12101d8b79"
-    },
-    {
-      "key": "436c8",
-      "songName": "Fillbots - Various Artists [Rhythm Heaven Megamix]",
-      "hash": "5edb9d893dee6a3a77c9738248936e3262bc7526",
-      "levelid": "custom_level_5edb9d893dee6a3a77c9738248936e3262bc7526"
-    },
-    {
-      "key": "48091",
-      "songName": "IMMACULATE - VISXGE (Cut ver.)",
-      "hash": "59863015b6ec45a7570764b435c2fc3a6be18a6f",
-      "levelid": "custom_level_59863015b6ec45a7570764b435c2fc3a6be18a6f"
-    },
-    {
-      "key": "48090",
-      "songName": "Lady Gaga - Aura",
-      "hash": "681fc06c7ef05884addd6eb3628fe3f23af5493b",
-      "levelid": "custom_level_681fc06c7ef05884addd6eb3628fe3f23af5493b"
-    },
-    {
-      "key": "4808e",
-      "songName": "Espresso - Sabrina Carpenter ",
-      "hash": "15fdb1ec94f8abf149a50088415f1c0d4ac580e9",
-      "levelid": "custom_level_15fdb1ec94f8abf149a50088415f1c0d4ac580e9"
-    },
-    {
-      "key": "4808f",
-      "songName": "Awaken - Creo",
-      "hash": "660e1c1048addb71a8ef039b1a56efcb1282e1d7",
-      "levelid": "custom_level_660e1c1048addb71a8ef039b1a56efcb1282e1d7"
-    },
-    {
-      "key": "4808a",
-      "songName": "nieuwe tune - gladde paling",
-      "hash": "94fa83324b75559ad429454643da851b13df1bb3",
-      "levelid": "custom_level_94fa83324b75559ad429454643da851b13df1bb3"
-    },
-    {
-      "key": "48089",
-      "songName": "PROLIB STOP ASKING ME TO UPLOAD THIS SHIT",
-      "hash": "4140f90b8513d2724df9d818442643a152ad86cd",
-      "levelid": "custom_level_4140f90b8513d2724df9d818442643a152ad86cd"
-    },
-    {
-      "key": "48088",
-      "songName": "[V3] HUNTR/X - Golden (From the Kpop Demon Hunters OST)",
-      "hash": "a7922d874d944d2b16ccabf65e04c3eb0f40ae06",
-      "levelid": "custom_level_a7922d874d944d2b16ccabf65e04c3eb0f40ae06"
-    },
-    {
-      "key": "48087",
-      "songName": "Amalgam",
-      "hash": "d2578b4e84ae19c31c49526551aaca76efd31f66",
-      "levelid": "custom_level_d2578b4e84ae19c31c49526551aaca76efd31f66"
-    },
-    {
-      "key": "48086",
-      "songName": "Conscience - Another Folly",
-      "hash": "74ac179045abd486c1fec36e77fe7645cf3f3320",
-      "levelid": "custom_level_74ac179045abd486c1fec36e77fe7645cf3f3320"
-    },
-    {
-      "key": "48085",
-      "songName": "Godzilla",
-      "hash": "7e85fd385b31d6b471fad49c13360aabaf2021d8",
-      "levelid": "custom_level_7e85fd385b31d6b471fad49c13360aabaf2021d8"
-    },
-    {
-      "key": "48083",
-      "songName": "Centimillimental - session/the seasons",
-      "hash": "55fc0a8f38706404e0bea9225f25d7417a3c9c12",
-      "levelid": "custom_level_55fc0a8f38706404e0bea9225f25d7417a3c9c12"
-    },
-    {
-      "key": "48082",
-      "songName": "Thug.$quidward - $QUIDDIM.",
-      "hash": "d75de6649a21b3c9a9d60f17aa1721a4593c3870",
-      "levelid": "custom_level_d75de6649a21b3c9a9d60f17aa1721a4593c3870"
-    },
-    {
-      "key": "48080",
-      "songName": "Oblivion - Dirty Palm, Micah Martin ",
-      "hash": "a4a29790fdee9bb53187ca29c89cf99120ee8cbc",
-      "levelid": "custom_level_a4a29790fdee9bb53187ca29c89cf99120ee8cbc"
-    },
-    {
-      "key": "462a1",
-      "songName": "[1.40+] Adam Jensen - Leave Me Alone",
-      "hash": "fb7085a71b3da4376431c2677beb6c562e272740",
-      "levelid": "custom_level_fb7085a71b3da4376431c2677beb6c562e272740"
-    },
-    {
-      "key": "4807c",
-      "songName": "Reku Mochizuki - Broken Fruitz",
-      "hash": "446767dbfbaeb6813e2749db048e97ee4d1a12a4",
-      "levelid": "custom_level_446767dbfbaeb6813e2749db048e97ee4d1a12a4"
-    },
-    {
-      "key": "4807a",
-      "songName": " herrie",
-      "hash": "6cf995f10a3e00dffc5848c2048fc8a6a8fe66fb",
-      "levelid": "custom_level_6cf995f10a3e00dffc5848c2048fc8a6a8fe66fb"
-    },
-    {
-      "key": "48078",
-      "songName": "Origami Angel - Blanket Statement",
-      "hash": "b30b65804f1307910a7adab97dddb1a6aa2b1ed0",
-      "levelid": "custom_level_b30b65804f1307910a7adab97dddb1a6aa2b1ed0"
-    },
-    {
-      "key": "48079",
-      "songName": "Camellia (ft. Kradness) - Rip It Off (Now) Rip It Off",
-      "hash": "6eae4ea50a387798f6f126afb8d77243f984d225",
-      "levelid": "custom_level_6eae4ea50a387798f6f126afb8d77243f984d225"
-    },
-    {
-      "key": "48077",
-      "songName": "YooA - Abracadabra",
-      "hash": "912f449ad4d503a8a49c791db6596115f14d396d",
-      "levelid": "custom_level_912f449ad4d503a8a49c791db6596115f14d396d"
-    },
-    {
-      "key": "47fd7",
-      "songName": "Akatsuki Records - AahnUNKNOWN",
-      "hash": "f4bd97bf6389bd641e21c5925ba8f6a73eebe99a",
-      "levelid": "custom_level_f4bd97bf6389bd641e21c5925ba8f6a73eebe99a"
-    },
-    {
-      "key": "47f60",
-      "songName": "ganeme - Nue",
-      "hash": "8640eec1effc2726c5be6910f2f148e5a7cbfbf2",
-      "levelid": "custom_level_8640eec1effc2726c5be6910f2f148e5a7cbfbf2"
-    },
-    {
-      "key": "48076",
-      "songName": "So small - Blosso (Chroma)",
-      "hash": "dbaa53ae0675b1575fda76a0548e361cc655db1c",
-      "levelid": "custom_level_dbaa53ae0675b1575fda76a0548e361cc655db1c"
-    },
-    {
-      "key": "48075",
-      "songName": "XIchedelic Nova Trinity - Gram vs. DJ Genki",
-      "hash": "5ca3ad82b3950bc8d074db1582e5595d1066fda4",
-      "levelid": "custom_level_5ca3ad82b3950bc8d074db1582e5595d1066fda4"
-    },
-    {
-      "key": "48073",
-      "songName": "GET BUFF - SHADY NASTY",
-      "hash": "eb5246b46c2a39001a6096f238887f73af9b39be",
-      "levelid": "custom_level_eb5246b46c2a39001a6096f238887f73af9b39be"
-    },
-    {
-      "key": "48072",
-      "songName": "Can't Stop the Feeling_Horizontal_Abduction_ROM",
-      "hash": "310cbafc4702233eede581ac1caf1cf70944de16",
-      "levelid": "custom_level_310cbafc4702233eede581ac1caf1cf70944de16"
-    },
-    {
-      "key": "48071",
-      "songName": "Can't Stop the Feeling_Shoulder_Elevation_ROM",
-      "hash": "8131e59d3ffdd4468b907eb7d40a543b94f5e5ee",
-      "levelid": "custom_level_8131e59d3ffdd4468b907eb7d40a543b94f5e5ee"
-    },
-    {
-      "key": "48070",
-      "songName": "XH - Corrupted Paywall",
-      "hash": "ebfa1f2b3ac6ac29f1026c429bb00fdc473d56d2",
-      "levelid": "custom_level_ebfa1f2b3ac6ac29f1026c429bb00fdc473d56d2"
-    },
-    {
-      "key": "47e8f",
-      "songName": "The Beach Boys - Wouldn't It Be Nice",
-      "hash": "ed9148816bde3a43e457e326cf609606d67d8b98",
-      "levelid": "custom_level_ed9148816bde3a43e457e326cf609606d67d8b98"
-    },
-    {
-      "key": "4806f",
-      "songName": "mystery circles ultra",
-      "hash": "583711debf854ea6b84e6f4e4a013bbdbbce9684",
-      "levelid": "custom_level_583711debf854ea6b84e6f4e4a013bbdbbce9684"
+      "key": "480c0",
+      "songName": "NGHTMRE & ZHU - Man's First Inhibition (feat. Kidd Keem) [Saint Punk Remix] (Nightcore Mix)",
+      "hash": "31002319d1809e7afc68faf7ffdc49d72717c706",
+      "levelid": "custom_level_31002319d1809e7afc68faf7ffdc49d72717c706"
     }
   ],
   "image": ""
