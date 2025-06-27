@@ -1,196 +1,190 @@
 {
-  "playlistTitle": "2025-06-25T15:18:48.375Z~2025-06-26T15:18:48.375Z",
+  "playlistTitle": "2025-06-26T15:19:15.244Z~2025-06-27T15:19:15.244Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-06-25T15:18:48.375Z and 2025-06-26T15:18:48.375Z",
+  "discripstion": "Maps published between 2025-06-26T15:19:15.244Z and 2025-06-27T15:19:15.244Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "48114",
-      "songName": "Sam Smith - Diamonds (V3)",
-      "hash": "17d2c8d2ed4c8f72de66042617694e6d53336aee",
-      "levelid": "custom_level_17d2c8d2ed4c8f72de66042617694e6d53336aee"
+      "key": "48172",
+      "songName": "dr pery",
+      "hash": "d223edae1b24075d2c9074449de62eb55622f507",
+      "levelid": "custom_level_d223edae1b24075d2c9074449de62eb55622f507"
     },
     {
-      "key": "48111",
-      "songName": "密码的周一",
-      "hash": "6991fd72aa63c5eab1c7d478171c18b812364727",
-      "levelid": "custom_level_6991fd72aa63c5eab1c7d478171c18b812364727"
+      "key": "4816e",
+      "songName": "Green Apple",
+      "hash": "7366ba060d595b40fb52aef42986c790ef201394",
+      "levelid": "custom_level_7366ba060d595b40fb52aef42986c790ef201394"
     },
     {
-      "key": "48110",
-      "songName": "オーバーライド - 重音テトSV[吉田夜世]",
-      "hash": "3a350da88a0f8f2cfac2f8f0fde42d8cd2a1ccbd",
-      "levelid": "custom_level_3a350da88a0f8f2cfac2f8f0fde42d8cd2a1ccbd"
+      "key": "4816d",
+      "songName": "B-Komachi - Say What ? ",
+      "hash": "64997b7257cb2e94c2ed3237f4c1773c450db450",
+      "levelid": "custom_level_64997b7257cb2e94c2ed3237f4c1773c450db450"
     },
     {
-      "key": "4810d",
-      "songName": "Blue Devils 2025 trumpet feature",
-      "hash": "00469fcccb89615d5af7a6265d8bbe12c88a1db9",
-      "levelid": "custom_level_00469fcccb89615d5af7a6265d8bbe12c88a1db9"
+      "key": "4816b",
+      "songName": "bocchi the rock season 1 op",
+      "hash": "432391c8abae5c7e3c6154e05c147b0fae180380",
+      "levelid": "custom_level_432391c8abae5c7e3c6154e05c147b0fae180380"
     },
     {
-      "key": "48107",
-      "songName": "YOYO - 卡加布烈島",
-      "hash": "4544ed4c87d799ffbb7502f1113beee16e8a5a73",
-      "levelid": "custom_level_4544ed4c87d799ffbb7502f1113beee16e8a5a73"
+      "key": "4816a",
+      "songName": "[Super ONGEKI Music Pack] Viyella's Tears",
+      "hash": "eecd443be3ab0700cfd1092bf045cbe90ccff91c",
+      "levelid": "custom_level_eecd443be3ab0700cfd1092bf045cbe90ccff91c"
     },
     {
-      "key": "480f8",
-      "songName": "Camellia - The King Of Lions",
-      "hash": "04129eefc05f40ca585c309543beeb488b5ad5c9",
-      "levelid": "custom_level_04129eefc05f40ca585c309543beeb488b5ad5c9"
+      "key": "48169",
+      "songName": "About A Girl",
+      "hash": "2be4496e8bf300be68605b8123ebbcf1d19826f2",
+      "levelid": "custom_level_2be4496e8bf300be68605b8123ebbcf1d19826f2"
     },
     {
-      "key": "480f7",
-      "songName": "first song",
-      "hash": "e57ae507082c278f8d7c27e3eca947102a1caec6",
-      "levelid": "custom_level_e57ae507082c278f8d7c27e3eca947102a1caec6"
+      "key": "48168",
+      "songName": "Eleven Stud - Adust Rain",
+      "hash": "351e5e89a7b574589d3806dcb3d9947925f8d49c",
+      "levelid": "custom_level_351e5e89a7b574589d3806dcb3d9947925f8d49c"
     },
     {
-      "key": "480f4",
-      "songName": "Shicashey",
-      "hash": "16d6dc79db694a0524ae447d695bd2045bbc5b89",
-      "levelid": "custom_level_16d6dc79db694a0524ae447d695bd2045bbc5b89"
+      "key": "48167",
+      "songName": "lodołamacz400 - kupA",
+      "hash": "42dc01deca534f8841fecd0c6e0a7ec3ef05c036",
+      "levelid": "custom_level_42dc01deca534f8841fecd0c6e0a7ec3ef05c036"
     },
     {
-      "key": "480f3",
-      "songName": "32Xchallenge",
-      "hash": "1879a2054ccb22e3f54ea6fc32e7c66751be0906",
-      "levelid": "custom_level_1879a2054ccb22e3f54ea6fc32e7c66751be0906"
+      "key": "48165",
+      "songName": "lodołamacz400 - kupA",
+      "hash": "d9f5937d6982a117f70884d32f62fb580a996ab1",
+      "levelid": "custom_level_d9f5937d6982a117f70884d32f62fb580a996ab1"
     },
     {
-      "key": "480f0",
-      "songName": "summerween, insomniac · memo boy",
-      "hash": "b5f39ce64a57af9891a97983b2709a0c5e56232b",
-      "levelid": "custom_level_b5f39ce64a57af9891a97983b2709a0c5e56232b"
+      "key": "48164",
+      "songName": "tricot - Otozure [\"You are Ms. Servant\" Opening]",
+      "hash": "d23d9ed3ed72e7937315a711280a8ec94cfcaf15",
+      "levelid": "custom_level_d23d9ed3ed72e7937315a711280a8ec94cfcaf15"
     },
     {
-      "key": "480ef",
-      "songName": "Hidden in the sand",
-      "hash": "70ec2678a1c2aca542efa87b2892ab2287479697",
-      "levelid": "custom_level_70ec2678a1c2aca542efa87b2892ab2287479697"
+      "key": "47a75",
+      "songName": "夢想歌 (musouka)",
+      "hash": "cd1d2deb1bbf52174bdb86dc48e92e8b11b617f5",
+      "levelid": "custom_level_cd1d2deb1bbf52174bdb86dc48e92e8b11b617f5"
     },
     {
-      "key": "480f1",
-      "songName": "litmus* - Ground Pound",
-      "hash": "74d0eef971a60d78e83c4ef2d917793aea779587",
-      "levelid": "custom_level_74d0eef971a60d78e83c4ef2d917793aea779587"
+      "key": "48149",
+      "songName": "Your favorite sidekick - Underscores (feat. 8485)",
+      "hash": "e4519cde76a838b895144088b77992a32344e136",
+      "levelid": "custom_level_e4519cde76a838b895144088b77992a32344e136"
     },
     {
-      "key": "480ed",
-      "songName": "lapix - Welcome to the Mosh Pit",
-      "hash": "d34208c647601a6e5754a4196ff64f8e3fc13804",
-      "levelid": "custom_level_d34208c647601a6e5754a4196ff64f8e3fc13804"
+      "key": "48154",
+      "songName": "Roy - Da Block Hot",
+      "hash": "f6435ea065391942ed795c3c71c5afdde2e54a5f",
+      "levelid": "custom_level_f6435ea065391942ed795c3c71c5afdde2e54a5f"
     },
     {
-      "key": "480ec",
-      "songName": "as the world caves in",
-      "hash": "efae047e801b93653e5b9423e905c7503a35c05d",
-      "levelid": "custom_level_efae047e801b93653e5b9423e905c7503a35c05d"
+      "key": "48153",
+      "songName": "Neko Hacker - seventeen (feat. 小鳩りあ)",
+      "hash": "daaf487951a4dbd81f1c0777bc6c2f15f06abec9",
+      "levelid": "custom_level_daaf487951a4dbd81f1c0777bc6c2f15f06abec9"
     },
     {
-      "key": "480e5",
-      "songName": "The Disappearance of Hatsune Miku",
-      "hash": "eb0bcd8d9e6728cce36c3bd33456031882ac49e8",
-      "levelid": "custom_level_eb0bcd8d9e6728cce36c3bd33456031882ac49e8"
+      "key": "4814f",
+      "songName": "808s giving me a haircut🌹😵🫀➗2️⃣",
+      "hash": "81eaac39964c0ffcc24a929ecb9d3682b7220bbe",
+      "levelid": "custom_level_81eaac39964c0ffcc24a929ecb9d3682b7220bbe"
     },
     {
-      "key": "480e4",
-      "songName": "Crystal Skies (Sped Up) \"Sample\"",
-      "hash": "07e9cf02750c4f693171f2aab1caaa7fe47aafb7",
-      "levelid": "custom_level_07e9cf02750c4f693171f2aab1caaa7fe47aafb7"
+      "key": "4814e",
+      "songName": "abandoned (Slowed) - ANGUISH",
+      "hash": "b8a629c2155491881cdad353f49c236f2a206d4a",
+      "levelid": "custom_level_b8a629c2155491881cdad353f49c236f2a206d4a"
     },
     {
-      "key": "480e3",
-      "songName": "the car",
-      "hash": "605afecebc366b061d70a25b19de24f3c1a9695f",
-      "levelid": "custom_level_605afecebc366b061d70a25b19de24f3c1a9695f"
+      "key": "47e84",
+      "songName": "Its Alright",
+      "hash": "e9416b09c30a1c393934fd06c9584b35d9413af4",
+      "levelid": "custom_level_e9416b09c30a1c393934fd06c9584b35d9413af4"
     },
     {
-      "key": "480e2",
-      "songName": "Kitchen gun",
-      "hash": "7c933bf500a5c334551b7eefb719754dab810585",
-      "levelid": "custom_level_7c933bf500a5c334551b7eefb719754dab810585"
+      "key": "48146",
+      "songName": "GRANNY'S HOUSE  FGTeeV Official Music Video",
+      "hash": "dd3e2698382a721130da91e6dba08d88592f2a1a",
+      "levelid": "custom_level_dd3e2698382a721130da91e6dba08d88592f2a1a"
     },
     {
-      "key": "480e0",
-      "songName": "MacMelto - Fisher Price",
-      "hash": "2f3d93467f4f69563164a1e0a5ea02a0e82e6525",
-      "levelid": "custom_level_2f3d93467f4f69563164a1e0a5ea02a0e82e6525"
+      "key": "4813e",
+      "songName": "Spectrum Obligato ~ Ebb & Flow (Out of Order)",
+      "hash": "54d1d5149703512b80b8d9c757a893b047563976",
+      "levelid": "custom_level_54d1d5149703512b80b8d9c757a893b047563976"
     },
     {
-      "key": "480e1",
-      "songName": "Energy",
-      "hash": "ffeea331e661a8a753fe9669cc69e6d538080662",
-      "levelid": "custom_level_ffeea331e661a8a753fe9669cc69e6d538080662"
+      "key": "4813b",
+      "songName": "autobahn crasher pattern test please ignore",
+      "hash": "83891578dd8cb7cb0edf79f366f7b28156bcd46e",
+      "levelid": "custom_level_83891578dd8cb7cb0edf79f366f7b28156bcd46e"
     },
     {
-      "key": "480df",
-      "songName": "IDLE DEATH GAMBLE 2",
-      "hash": "c82e1292f5dc3885d76b57a8da71598a346ee5df",
-      "levelid": "custom_level_c82e1292f5dc3885d76b57a8da71598a346ee5df"
+      "key": "4812b",
+      "songName": "I'm so Happy(jubeat)",
+      "hash": "a7789d16899f286bdc3f67767b1179e1247c4211",
+      "levelid": "custom_level_a7789d16899f286bdc3f67767b1179e1247c4211"
     },
     {
-      "key": "480de",
-      "songName": " KAT x Aku P - Affection Addiction (feat. POPY)",
-      "hash": "a15d6a5e83dfa2cfea961afa3ba2939e9223d909",
-      "levelid": "custom_level_a15d6a5e83dfa2cfea961afa3ba2939e9223d909"
+      "key": "4812a",
+      "songName": "Hearts2Hearts – STYLE",
+      "hash": "724dd8e1e83169b15b7283edba281f71770a92e2",
+      "levelid": "custom_level_724dd8e1e83169b15b7283edba281f71770a92e2"
     },
     {
-      "key": "480dd",
-      "songName": "longstoryshort - All In My Head",
-      "hash": "f0e1a20756731aacd65bbe06386435f6143ed581",
-      "levelid": "custom_level_f0e1a20756731aacd65bbe06386435f6143ed581"
+      "key": "48128",
+      "songName": "bullseye",
+      "hash": "c57efa4daf3b2da6029bc1ddd7e1b6eed8fe1633",
+      "levelid": "custom_level_c57efa4daf3b2da6029bc1ddd7e1b6eed8fe1633"
     },
     {
-      "key": "480da",
-      "songName": "Air",
-      "hash": "428fed84f53c415ccf07baf17a0d6754f301a274",
-      "levelid": "custom_level_428fed84f53c415ccf07baf17a0d6754f301a274"
+      "key": "48123",
+      "songName": "Going On (Higgo Remix) - Young Franco, piri, MC DT",
+      "hash": "f0bd033e499aef05e8a177bf3138b7b056674a0e",
+      "levelid": "custom_level_f0bd033e499aef05e8a177bf3138b7b056674a0e"
     },
     {
-      "key": "480d8",
-      "songName": "crafter2011 - fall damage",
-      "hash": "f4c250f96707918e64aa02ecad05bf53f0d761c3",
-      "levelid": "custom_level_f4c250f96707918e64aa02ecad05bf53f0d761c3"
+      "key": "48120",
+      "songName": "Soulève moi - Joyca",
+      "hash": "7a98454e84fe1b1ec67529f86edf3025f9b2aaf1",
+      "levelid": "custom_level_7a98454e84fe1b1ec67529f86edf3025f9b2aaf1"
     },
     {
-      "key": "480d2",
-      "songName": "Untraveled Roads",
-      "hash": "6c82ab10078194318480826609e54fddcc4005f9",
-      "levelid": "custom_level_6c82ab10078194318480826609e54fddcc4005f9"
+      "key": "4811f",
+      "songName": "DANDADAN 2 FULL ON THE WAY by AiNA THE END ダンダダン",
+      "hash": "a73867f5c7706d68ae0620ffb2283bbc761a671c",
+      "levelid": "custom_level_a73867f5c7706d68ae0620ffb2283bbc761a671c"
     },
     {
-      "key": "480ca",
-      "songName": "granny brazilion pohnk",
-      "hash": "1c7da150063b5b7a3f0f588ebafe49fffd39c44f",
-      "levelid": "custom_level_1c7da150063b5b7a3f0f588ebafe49fffd39c44f"
+      "key": "4811c",
+      "songName": "Coqueta ",
+      "hash": "1fc8aac98829865622869b17edc9f65f652f8714",
+      "levelid": "custom_level_1fc8aac98829865622869b17edc9f65f652f8714"
     },
     {
-      "key": "480c5",
-      "songName": "BE:FIRST - GRIT",
-      "hash": "42bc55c3a520d12c14ded7704bef6a2ecf272bbf",
-      "levelid": "custom_level_42bc55c3a520d12c14ded7704bef6a2ecf272bbf"
+      "key": "48119",
+      "songName": "みつあみ引っ張って",
+      "hash": "b6418fdb4227363b9c5043e21725882f56e2b7b1",
+      "levelid": "custom_level_b6418fdb4227363b9c5043e21725882f56e2b7b1"
     },
     {
-      "key": "480c4",
-      "songName": "Doot Doot (6 7) - Skrilla",
-      "hash": "17a9e960489ebaf591ba12a00980e0a31af96c6f",
-      "levelid": "custom_level_17a9e960489ebaf591ba12a00980e0a31af96c6f"
+      "key": "48118",
+      "songName": "Call Me Maybe",
+      "hash": "e50c7736991aa90276781a43c0b2beb4f15437eb",
+      "levelid": "custom_level_e50c7736991aa90276781a43c0b2beb4f15437eb"
     },
     {
-      "key": "480c2",
-      "songName": "WTF",
-      "hash": "ea224769e48c35b618ecfbf5ea101f870432ce9d",
-      "levelid": "custom_level_ea224769e48c35b618ecfbf5ea101f870432ce9d"
-    },
-    {
-      "key": "480c0",
-      "songName": "NGHTMRE & ZHU - Man's First Inhibition (feat. Kidd Keem) [Saint Punk Remix] (Nightcore Mix)",
-      "hash": "31002319d1809e7afc68faf7ffdc49d72717c706",
-      "levelid": "custom_level_31002319d1809e7afc68faf7ffdc49d72717c706"
+      "key": "48115",
+      "songName": "[V3] Twenty One Pilots - Tear In My Heart",
+      "hash": "7bbe6c71c8103209137090d9eba66c6dc503ae12",
+      "levelid": "custom_level_7bbe6c71c8103209137090d9eba66c6dc503ae12"
     }
   ],
   "image": ""
