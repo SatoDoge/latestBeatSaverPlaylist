@@ -1,214 +1,208 @@
 {
-  "playlistTitle": "2025-06-28T15:18:48.355Z~2025-06-29T15:18:48.355Z",
+  "playlistTitle": "2025-06-29T15:18:48.382Z~2025-06-30T15:18:48.382Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-06-28T15:18:48.355Z and 2025-06-29T15:18:48.355Z",
+  "discripstion": "Maps published between 2025-06-29T15:18:48.382Z and 2025-06-30T15:18:48.382Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "48215",
-      "songName": "OoaaoO",
-      "hash": "c3b4e3755f51a37f61ab965ba54518bae9061b8a",
-      "levelid": "custom_level_c3b4e3755f51a37f61ab965ba54518bae9061b8a"
+      "key": "48269",
+      "songName": "SHIKI - METATRON",
+      "hash": "20c4ca12e791ee25565d74691b1b334c8d67953c",
+      "levelid": "custom_level_20c4ca12e791ee25565d74691b1b334c8d67953c"
     },
     {
-      "key": "48101",
-      "songName": "Metal - HAL Laboratory [Kirby Air Ride]",
-      "hash": "e46c87b38484e48258848f20bcf973e9e1ac3ae2",
-      "levelid": "custom_level_e46c87b38484e48258848f20bcf973e9e1ac3ae2"
+      "key": "48268",
+      "songName": "ToonTown Music - Cog Building (Final Floor)",
+      "hash": "842a2a0f15bbfeb4b3e081556906fb700d7f7416",
+      "levelid": "custom_level_842a2a0f15bbfeb4b3e081556906fb700d7f7416"
     },
     {
-      "key": "48100",
-      "songName": "Water - HAL Laboratory [Kirby Air Ride]",
-      "hash": "70663ebb49a41708346bb8c55e02b65e82cfe561",
-      "levelid": "custom_level_70663ebb49a41708346bb8c55e02b65e82cfe561"
+      "key": "48262",
+      "songName": "Yomitan Akane - 2代目閻魔 / 重音テトSV (Enma the Second / Kasane Teto SV)",
+      "hash": "ea270c2dfc3a964859e31dce4c787e167bb7a914",
+      "levelid": "custom_level_ea270c2dfc3a964859e31dce4c787e167bb7a914"
     },
     {
-      "key": "480ff",
-      "songName": "Light - HAL Laboratory [Kirby Air Ride]",
-      "hash": "aa67ea7648ca8be25a44833bb23bb240daa0b8bf",
-      "levelid": "custom_level_aa67ea7648ca8be25a44833bb23bb240daa0b8bf"
+      "key": "4825f",
+      "songName": "米津玄師 - Plazma (TV Size)",
+      "hash": "c5f5bcd97137522586c6d88034dd8d04d3e072fd",
+      "levelid": "custom_level_c5f5bcd97137522586c6d88034dd8d04d3e072fd"
     },
     {
-      "key": "480fe",
-      "songName": "Fire - HAL Laboratory [Kirby Air Ride]",
-      "hash": "0e2c035569570041ba7f8895852470b6924ef1f5",
-      "levelid": "custom_level_0e2c035569570041ba7f8895852470b6924ef1f5"
+      "key": "4825d",
+      "songName": "DECO*27 - Volt Tackle covered by Tamanoi Nana & Lunlun",
+      "hash": "653e49ecd586b62e06a0f11bc9d26fd19da876fe",
+      "levelid": "custom_level_653e49ecd586b62e06a0f11bc9d26fd19da876fe"
     },
     {
-      "key": "480fd",
-      "songName": "Sky - HAL Laboratory [Kirby Air Ride]",
-      "hash": "2902542395e0850a826c654038b894be82eac618",
-      "levelid": "custom_level_2902542395e0850a826c654038b894be82eac618"
+      "key": "4825a",
+      "songName": "When I Was Your Man - Bruno Mars",
+      "hash": "41d97ab223d7e1132ab172bfb63c5abe9d23cd79",
+      "levelid": "custom_level_41d97ab223d7e1132ab172bfb63c5abe9d23cd79"
     },
     {
-      "key": "480fc",
-      "songName": "Sand (Short Ver.) - HAL Laboratory [Kirby Air Ride]",
-      "hash": "80ba5c9d539f713b03f6f6eb24115c6ea7677305",
-      "levelid": "custom_level_80ba5c9d539f713b03f6f6eb24115c6ea7677305"
+      "key": "4825c",
+      "songName": "Off The Leash - Louie Zong",
+      "hash": "cea324e3120437d73fa47166d9cb0c14fd69e76a",
+      "levelid": "custom_level_cea324e3120437d73fa47166d9cb0c14fd69e76a"
     },
     {
-      "key": "4820c",
-      "songName": "Grass - HAL Laboratory [Kirby Air Ride]",
-      "hash": "0ab238a5bfb64daf581201a53f6f5961a00b578b",
-      "levelid": "custom_level_0ab238a5bfb64daf581201a53f6f5961a00b578b"
+      "key": "4825b",
+      "songName": "Jesus Doesn't Want Me for a Sunbeam",
+      "hash": "34146f03779c5f8c1dcf30bcde269cdfa65aac37",
+      "levelid": "custom_level_34146f03779c5f8c1dcf30bcde269cdfa65aac37"
     },
     {
-      "key": "481da",
-      "songName": " [V3] S10 - Joanne",
-      "hash": "1b7c6b22b32a727b9dac4d0e6105a0b21f2b1bbc",
-      "levelid": "custom_level_1b7c6b22b32a727b9dac4d0e6105a0b21f2b1bbc"
+      "key": "48257",
+      "songName": "ハッピーラッキーチャッピー - ano",
+      "hash": "0522bfd68234e86f77ac32413b93efe51d7d635d",
+      "levelid": "custom_level_0522bfd68234e86f77ac32413b93efe51d7d635d"
     },
     {
-      "key": "4820d",
-      "songName": "Studio Killers - Jenny (The Living Tombstone Remix)",
-      "hash": "3b1f2a40aeb61840b7add19002473b8c118ffae7",
-      "levelid": "custom_level_3b1f2a40aeb61840b7add19002473b8c118ffae7"
+      "key": "48256",
+      "songName": "Salami lid rap remix",
+      "hash": "6bb3bd74fd53dc856de5a9193d44afe8b2458bde",
+      "levelid": "custom_level_6bb3bd74fd53dc856de5a9193d44afe8b2458bde"
     },
     {
-      "key": "48206",
-      "songName": "Min. Sign|>? Number???V? - Satapanpi",
-      "hash": "c2a528ff8df5929c1029ef457dcf9b01992904c8",
-      "levelid": "custom_level_c2a528ff8df5929c1029ef457dcf9b01992904c8"
+      "key": "48255",
+      "songName": "HALLO CEL - CandyCookieChocolate ft. kasane Teto & Hatsune Miku",
+      "hash": "c84d3410fbddf9d43a80dc5cd4da76fc5726381c",
+      "levelid": "custom_level_c84d3410fbddf9d43a80dc5cd4da76fc5726381c"
     },
     {
-      "key": "48204",
-      "songName": "Sport Funk",
-      "hash": "1c4f787ee05599c57e99b141bbc694a4458cf8a2",
-      "levelid": "custom_level_1c4f787ee05599c57e99b141bbc694a4458cf8a2"
+      "key": "48254",
+      "songName": "HUNTR/X - How It's Done (From Kpop Demon Hunters)",
+      "hash": "a44a2fd935d5288b7eb488c3da926f6514c5f777",
+      "levelid": "custom_level_a44a2fd935d5288b7eb488c3da926f6514c5f777"
     },
     {
-      "key": "48202",
-      "songName": "Franchise",
-      "hash": "ad2296cfa425f2ff4187b0b747f5cfc123f9dd75",
-      "levelid": "custom_level_ad2296cfa425f2ff4187b0b747f5cfc123f9dd75"
+      "key": "48253",
+      "songName": "You Suffer",
+      "hash": "d1b478e51671993ee50c28a05b4d21475648bb7d",
+      "levelid": "custom_level_d1b478e51671993ee50c28a05b4d21475648bb7d"
     },
     {
-      "key": "481ff",
-      "songName": "TOPIA TWINS",
-      "hash": "1bbf584ddc34925b007f89a1fc76da866a95816e",
-      "levelid": "custom_level_1bbf584ddc34925b007f89a1fc76da866a95816e"
+      "key": "48252",
+      "songName": "asdasd",
+      "hash": "ebabf0dc33e05c2a910db60b8a3847e36ee7dfc8",
+      "levelid": "custom_level_ebabf0dc33e05c2a910db60b8a3847e36ee7dfc8"
     },
     {
-      "key": "481fa",
-      "songName": "サマータイムゴースト-水曜日のカンパネラ",
-      "hash": "77f0fc1e23eaf7e517b0692b3c9c6e169021d05a",
-      "levelid": "custom_level_77f0fc1e23eaf7e517b0692b3c9c6e169021d05a"
+      "key": "4824e",
+      "songName": "D-D-Dice vs. siromaru - JACK -the KING Ki11ing-",
+      "hash": "77725b513af8b6a988702726f257bf33b7967257",
+      "levelid": "custom_level_77725b513af8b6a988702726f257bf33b7967257"
     },
     {
-      "key": "481ef",
-      "songName": "Just A Kiss (Muah) - Enisa",
-      "hash": "328359d7e0fa2e0d4507f9dfddc481b715269659",
-      "levelid": "custom_level_328359d7e0fa2e0d4507f9dfddc481b715269659"
+      "key": "4823f",
+      "songName": "NA, Lukas Termena - Escape",
+      "hash": "26d67933cceebca128bd46baeb667ba4acae1b5f",
+      "levelid": "custom_level_26d67933cceebca128bd46baeb667ba4acae1b5f"
     },
     {
-      "key": "481ee",
-      "songName": "[One Saber] Tokyo Machine - PLAY (VIP)",
-      "hash": "87f0b6e045f14d4241ef6664a2b9885de8ee335c",
-      "levelid": "custom_level_87f0b6e045f14d4241ef6664a2b9885de8ee335c"
+      "key": "4823e",
+      "songName": "ANALYS- HAYAKO",
+      "hash": "d540c2d0307fdd7a6273fba08ca0ce26f929a9cb",
+      "levelid": "custom_level_d540c2d0307fdd7a6273fba08ca0ce26f929a9cb"
     },
     {
-      "key": "481ed",
-      "songName": "It's Raining Tacos",
-      "hash": "369f8319fb64233d3862dac2a8267031bb3dae3c",
-      "levelid": "custom_level_369f8319fb64233d3862dac2a8267031bb3dae3c"
+      "key": "4823c",
+      "songName": "Crystal Waters - Gypsy Woman (LANDA Dub)",
+      "hash": "9ec2d475dd3da8df00316d28fa77bd6f2c8c1924",
+      "levelid": "custom_level_9ec2d475dd3da8df00316d28fa77bd6f2c8c1924"
     },
     {
-      "key": "481ec",
-      "songName": "Vansire - from the subway train",
-      "hash": "19d16b4bd1dfb9e768df098b7140ddf9368477a6",
-      "levelid": "custom_level_19d16b4bd1dfb9e768df098b7140ddf9368477a6"
+      "key": "4823b",
+      "songName": "$1.78",
+      "hash": "5a08478fb0645b4f95db68773eda752320461380",
+      "levelid": "custom_level_5a08478fb0645b4f95db68773eda752320461380"
     },
     {
-      "key": "481eb",
-      "songName": "Uneasy Hearts Weigh the Most - Dance Gavin Dance",
-      "hash": "eb7c9f0d72358e5def0b47204818f11c01cffd0f",
-      "levelid": "custom_level_eb7c9f0d72358e5def0b47204818f11c01cffd0f"
+      "key": "4823a",
+      "songName": "Mr. Mustache",
+      "hash": "50e2b7c452f9ade9abd8b266d793637e134d5540",
+      "levelid": "custom_level_50e2b7c452f9ade9abd8b266d793637e134d5540"
     },
     {
-      "key": "481df",
-      "songName": "[Cinema] Eye & Dopam!ne - Øpen Ur",
-      "hash": "61cf29b69ed3dfda80ff24088a447c93c8b6a74e",
-      "levelid": "custom_level_61cf29b69ed3dfda80ff24088a447c93c8b6a74e"
+      "key": "48235",
+      "songName": "TimeLapse",
+      "hash": "9d83dd2b1d357c4fe270e338b681f39b0ea88e88",
+      "levelid": "custom_level_9d83dd2b1d357c4fe270e338b681f39b0ea88e88"
     },
     {
-      "key": "481db",
-      "songName": "おまえまだゲームしてるよ/You're still playing the game",
-      "hash": "d951871ab67829184928b559914b5a4983594a2e",
-      "levelid": "custom_level_d951871ab67829184928b559914b5a4983594a2e"
+      "key": "4822f",
+      "songName": "t+pazolite - Transcended Love",
+      "hash": "499073471f849e662794489fa4c12e0f5eceecd4",
+      "levelid": "custom_level_499073471f849e662794489fa4c12e0f5eceecd4"
     },
     {
-      "key": "481d8",
-      "songName": "Не смог признаться тебе",
-      "hash": "6bcaf16bc69a76586b1b9592b92619eb0c5320fc",
-      "levelid": "custom_level_6bcaf16bc69a76586b1b9592b92619eb0c5320fc"
+      "key": "4822c",
+      "songName": "[V4] Twenty One Pilots - The Contract",
+      "hash": "f21f71ee88511e817f97af5af3450235191f399d",
+      "levelid": "custom_level_f21f71ee88511e817f97af5af3450235191f399d"
     },
     {
-      "key": "481d6",
-      "songName": "watchmojo (FOUND FOOTAGE 😨😨😨😨)",
-      "hash": "3f2402f7ea0517bcab1f61f75747c2fb1469c809",
-      "levelid": "custom_level_3f2402f7ea0517bcab1f61f75747c2fb1469c809"
+      "key": "48159",
+      "songName": "[BSWC] seatrus - EXXTRA JUDGEMENT [From OWC 2022 Grandfinals Tiebreaker]",
+      "hash": "b907db0d67ab965b4b702d242463a44e01c5ecd3",
+      "levelid": "custom_level_b907db0d67ab965b4b702d242463a44e01c5ecd3"
     },
     {
-      "key": "481d4",
-      "songName": "Martin Solveig-Hello",
-      "hash": "0381f7914db9c1298f9c9c8e1c89e4d76ee5cf8e",
-      "levelid": "custom_level_0381f7914db9c1298f9c9c8e1c89e4d76ee5cf8e"
+      "key": "4815b",
+      "songName": "[BSWC2025] Ludicin - Echoes of Memoria",
+      "hash": "f959ebe70aa85bd55c226d4f47b4fbf4ad623762",
+      "levelid": "custom_level_f959ebe70aa85bd55c226d4f47b4fbf4ad623762"
     },
     {
-      "key": "481d3",
-      "songName": "Spill",
-      "hash": "66f84efe81ba4d53c01cf97365c4fce1307368ed",
-      "levelid": "custom_level_66f84efe81ba4d53c01cf97365c4fce1307368ed"
+      "key": "4815a",
+      "songName": "METRIC - Lost Kitten",
+      "hash": "e2e71212e6468506b35ab08986918f317157cddc",
+      "levelid": "custom_level_e2e71212e6468506b35ab08986918f317157cddc"
     },
     {
-      "key": "481d2",
-      "songName": "CROWD",
-      "hash": "b18d774e938bcb18584a20372c49d06f33038b24",
-      "levelid": "custom_level_b18d774e938bcb18584a20372c49d06f33038b24"
+      "key": "48226",
+      "songName": "dive to the heart - one voice (nxc)",
+      "hash": "82ffe9184d57e678a114a16818570ed38a2b97ab",
+      "levelid": "custom_level_82ffe9184d57e678a114a16818570ed38a2b97ab"
     },
     {
-      "key": "481d1",
-      "songName": "ASDASD",
-      "hash": "2180bcb3506d35c8e6740a3ffb8139e1c36bffb3",
-      "levelid": "custom_level_2180bcb3506d35c8e6740a3ffb8139e1c36bffb3"
+      "key": "48225",
+      "songName": "Kys (keep yourself safe)",
+      "hash": "e4cec4b66bba6dd7fcaa82e5eb497e812b9ce871",
+      "levelid": "custom_level_e4cec4b66bba6dd7fcaa82e5eb497e812b9ce871"
     },
     {
-      "key": "481ce",
-      "songName": "涙のパレード (Namida no parade)",
-      "hash": "0dfeb0cfdeb6635c3560114805cb6c15da796c87",
-      "levelid": "custom_level_0dfeb0cfdeb6635c3560114805cb6c15da796c87"
+      "key": "48224",
+      "songName": "Verflucht - Tyrfing",
+      "hash": "7a5c1272b2385228b4e1c4a5a02f6f4d4666d26b",
+      "levelid": "custom_level_7a5c1272b2385228b4e1c4a5a02f6f4d4666d26b"
     },
     {
-      "key": "481d0",
-      "songName": "From The Inside",
-      "hash": "6a8ff6671b1454f967062730fdfdc8d4aed9ea5a",
-      "levelid": "custom_level_6a8ff6671b1454f967062730fdfdc8d4aed9ea5a"
+      "key": "48223",
+      "songName": "R U 4 Me?",
+      "hash": "620cc4ab8c590995fd4a7a9b673b228c88839d30",
+      "levelid": "custom_level_620cc4ab8c590995fd4a7a9b673b228c88839d30"
     },
     {
-      "key": "48194",
-      "songName": " glaive - Nobody's Fault / Accept My Own",
-      "hash": "bbc69037dbe2f178743547e4ddfb0c3cb7bd8d0a",
-      "levelid": "custom_level_bbc69037dbe2f178743547e4ddfb0c3cb7bd8d0a"
+      "key": "48220",
+      "songName": "Madonna - Back That Up To The Beat",
+      "hash": "548d0d769d4cccae801847412fda055a475d6a23",
+      "levelid": "custom_level_548d0d769d4cccae801847412fda055a475d6a23"
     },
     {
-      "key": "481cd",
-      "songName": "[Chroma] Porter Robinson - Look at the Sky",
-      "hash": "519328eb5a1d187cf4de78fe2a5a4363e2f3ffc2",
-      "levelid": "custom_level_519328eb5a1d187cf4de78fe2a5a4363e2f3ffc2"
+      "key": "4821f",
+      "songName": "Yuno Miles - Bank Account",
+      "hash": "456b05b4333ea2e1ce300378fd0f3c7bc09b2856",
+      "levelid": "custom_level_456b05b4333ea2e1ce300378fd0f3c7bc09b2856"
     },
     {
-      "key": "481cc",
-      "songName": "Dance Gavin Dance - NASA",
-      "hash": "d6384a3e2a7a86f2717351d75c42beb3f115cf63",
-      "levelid": "custom_level_d6384a3e2a7a86f2717351d75c42beb3f115cf63"
-    },
-    {
-      "key": "481cb",
-      "songName": "Fizzy - my head hurt so i made this and made it hurt even more",
-      "hash": "f305a48c1665aa2211257600dbe3af10a259b0c1",
-      "levelid": "custom_level_f305a48c1665aa2211257600dbe3af10a259b0c1"
+      "key": "4821c",
+      "songName": "FL Studio ahh",
+      "hash": "fb700d12aaccb96c12223ce6fb65c0118bc499bd",
+      "levelid": "custom_level_fb700d12aaccb96c12223ce6fb65c0118bc499bd"
     }
   ],
   "image": ""
