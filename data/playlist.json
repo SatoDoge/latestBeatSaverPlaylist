@@ -1,298 +1,172 @@
 {
-  "playlistTitle": "2025-07-01T15:18:48.505Z~2025-07-02T15:18:48.505Z",
+  "playlistTitle": "2025-07-02T15:18:48.596Z~2025-07-03T15:18:48.596Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-07-01T15:18:48.505Z and 2025-07-02T15:18:48.505Z",
+  "discripstion": "Maps published between 2025-07-02T15:18:48.596Z and 2025-07-03T15:18:48.596Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "48345",
-      "songName": "Tonight Alive - The Edge",
-      "hash": "f5f9ea1c6b88cd6dee2e74f567b8a2705abf4477",
-      "levelid": "custom_level_f5f9ea1c6b88cd6dee2e74f567b8a2705abf4477"
+      "key": "483ab",
+      "songName": "Loreloli",
+      "hash": "68a96777abd5e5ed6a4da1edc98404954e10816d",
+      "levelid": "custom_level_68a96777abd5e5ed6a4da1edc98404954e10816d"
     },
     {
-      "key": "48344",
-      "songName": "Stop it ",
-      "hash": "cd2c8b1a307fcf89733b3c1078e7f11acf9379b2",
-      "levelid": "custom_level_cd2c8b1a307fcf89733b3c1078e7f11acf9379b2"
+      "key": "483a2",
+      "songName": "Last Hometown(short ver.) / 猫叉Master",
+      "hash": "0a1f0c20624f7f22f5b10f3b55c890427e15ac91",
+      "levelid": "custom_level_0a1f0c20624f7f22f5b10f3b55c890427e15ac91"
     },
     {
-      "key": "48343",
-      "songName": "gladde paling - tropicana pokoetj",
-      "hash": "e028b74e74b435818f8caf43799bb561ee9ded73",
-      "levelid": "custom_level_e028b74e74b435818f8caf43799bb561ee9ded73"
+      "key": "483a1",
+      "songName": "All I Wanted (Cut)",
+      "hash": "d54696aeba3d3a7e8d69f2b08ffe5a62dc97396f",
+      "levelid": "custom_level_d54696aeba3d3a7e8d69f2b08ffe5a62dc97396f"
     },
     {
-      "key": "48342",
-      "songName": "CosmographY - celtix",
-      "hash": "a983ee1f3ef0cc4951771fcc22ccdf7d5acc1914",
-      "levelid": "custom_level_a983ee1f3ef0cc4951771fcc22ccdf7d5acc1914"
+      "key": "4839e",
+      "songName": "Funny Death – Celluloid",
+      "hash": "cf6c1e5b87adcd96f7aaf07ada0cb983e6ff2c1c",
+      "levelid": "custom_level_cf6c1e5b87adcd96f7aaf07ada0cb983e6ff2c1c"
     },
     {
-      "key": "48340",
-      "songName": "Manchild - Sabrina Carpenter",
-      "hash": "7042e6829c45a6cba0ba4e35af00d27c8be8effd",
-      "levelid": "custom_level_7042e6829c45a6cba0ba4e35af00d27c8be8effd"
+      "key": "4839d",
+      "songName": "memecore",
+      "hash": "84b0343b9c5b6fd2d45abb4b9cadb1695742f3ac",
+      "levelid": "custom_level_84b0343b9c5b6fd2d45abb4b9cadb1695742f3ac"
     },
     {
-      "key": "4833f",
-      "songName": "AG X LOHLEQ - STYL POPPIN",
-      "hash": "d749364c37b5a3fa33d75966b3a706c02e1b3fd8",
-      "levelid": "custom_level_d749364c37b5a3fa33d75966b3a706c02e1b3fd8"
+      "key": "4839c",
+      "songName": "[Vivify] LOST IN DATA",
+      "hash": "1ef0a713d866f1fb79614bef815a721c1bad555d",
+      "levelid": "custom_level_1ef0a713d866f1fb79614bef815a721c1bad555d"
     },
     {
-      "key": "48338",
-      "songName": "kz (livetune) - LastNight, GoodNight",
-      "hash": "9281bd037819230d1191108ef732324b2d6a20ac",
-      "levelid": "custom_level_9281bd037819230d1191108ef732324b2d6a20ac"
+      "key": "48399",
+      "songName": "[Chroma] Kors K - Monkey Business",
+      "hash": "3511fc819b08c65ee3247c153d3406a8143ecdd2",
+      "levelid": "custom_level_3511fc819b08c65ee3247c153d3406a8143ecdd2"
     },
     {
-      "key": "4833d",
-      "songName": "Kawaiikute Gomen",
-      "hash": "48751e668885995ac2cbadaabd814e7659cf53c6",
-      "levelid": "custom_level_48751e668885995ac2cbadaabd814e7659cf53c6"
+      "key": "48394",
+      "songName": "ECHO",
+      "hash": "5d8947e96d59dde1c3fac8b59db01b1625c21da3",
+      "levelid": "custom_level_5d8947e96d59dde1c3fac8b59db01b1625c21da3"
     },
     {
-      "key": "4833c",
-      "songName": "Check Yes Juliet",
-      "hash": "f4c606b58c857c939791482f2aa904063e52ba79",
-      "levelid": "custom_level_f4c606b58c857c939791482f2aa904063e52ba79"
+      "key": "48393",
+      "songName": "reallerr - GRAVITAS",
+      "hash": "7970bbe9e36ef9c9f2ce7062b0a07ec546cef5d1",
+      "levelid": "custom_level_7970bbe9e36ef9c9f2ce7062b0a07ec546cef5d1"
     },
     {
-      "key": "4833b",
-      "songName": "Rinami Himesaki - L.U.V",
-      "hash": "d11c651c6fc1393e5c084b90550f24ffca35f2fb",
-      "levelid": "custom_level_d11c651c6fc1393e5c084b90550f24ffca35f2fb"
+      "key": "48390",
+      "songName": "Lost Fragments - glitchtrode",
+      "hash": "9045cfd92ce08ae6556d7301bf403141628d307e",
+      "levelid": "custom_level_9045cfd92ce08ae6556d7301bf403141628d307e"
     },
     {
-      "key": "4833a",
-      "songName": "Death By Glamour",
-      "hash": "5fa7b1f417fa637280aa23038edc701813a4e47e",
-      "levelid": "custom_level_5fa7b1f417fa637280aa23038edc701813a4e47e"
+      "key": "4838c",
+      "songName": "gets bullied to death",
+      "hash": "854164de69de3fce7e6c7939433e4d18b714b805",
+      "levelid": "custom_level_854164de69de3fce7e6c7939433e4d18b714b805"
     },
     {
-      "key": "48339",
-      "songName": "シークレット・シーカー / 初音ミク",
-      "hash": "5b1f4cad3263ec3deb5e58619bba07fb4d965ac8",
-      "levelid": "custom_level_5b1f4cad3263ec3deb5e58619bba07fb4d965ac8"
+      "key": "4838e",
+      "songName": "imperial 75",
+      "hash": "d1e122cc9ba9404f78a05b4755a1bcf8613fa820",
+      "levelid": "custom_level_d1e122cc9ba9404f78a05b4755a1bcf8613fa820"
     },
     {
-      "key": "48337",
-      "songName": "STEAKA - Lock-on Rush",
-      "hash": "db4ecb4af964fd887a34b9ca2faf56bcfeab0554",
-      "levelid": "custom_level_db4ecb4af964fd887a34b9ca2faf56bcfeab0554"
+      "key": "4838d",
+      "songName": "やらない夫がコーラをふるだけ",
+      "hash": "6eb1e84f5cdf1eb356bccf528616e14ab7d9fb86",
+      "levelid": "custom_level_6eb1e84f5cdf1eb356bccf528616e14ab7d9fb86"
     },
     {
-      "key": "48335",
-      "songName": "[teaser] Kobaryo - Orbital Laser",
-      "hash": "e3addc419c6c2e3dc437d2085f491222c7ef39a8",
-      "levelid": "custom_level_e3addc419c6c2e3dc437d2085f491222c7ef39a8"
+      "key": "4838b",
+      "songName": "LAAA 😭 #edm #music #edmmusic #dubstep #dancemusic #electronicmusic #riddim #shorts #djset #rave",
+      "hash": "0f6b205fa571ea1e09625680667c25f192baf760",
+      "levelid": "custom_level_0f6b205fa571ea1e09625680667c25f192baf760"
     },
     {
-      "key": "48334",
-      "songName": "The ShayXavi Disstrack",
-      "hash": "820ce2fe3d6a2a0ea4020d362b5d75f8a70efb40",
-      "levelid": "custom_level_820ce2fe3d6a2a0ea4020d362b5d75f8a70efb40"
+      "key": "48389",
+      "songName": "Aphex Twin - Goon Gumpas",
+      "hash": "196bcfa5030feb8814d4d5ad0330d454e6d66d1b",
+      "levelid": "custom_level_196bcfa5030feb8814d4d5ad0330d454e6d66d1b"
     },
     {
-      "key": "48333",
-      "songName": "Lost Requiem",
-      "hash": "c48ac3d41cfe2fc22e583b7db1a35787f455876b",
-      "levelid": "custom_level_c48ac3d41cfe2fc22e583b7db1a35787f455876b"
+      "key": "48386",
+      "songName": "squidward yell v3",
+      "hash": "b0938214352bbd5c04fb157716a7fc91213e6bee",
+      "levelid": "custom_level_b0938214352bbd5c04fb157716a7fc91213e6bee"
     },
     {
-      "key": "48331",
-      "songName": "Ruoski Minua!",
-      "hash": "f02196397ad98f6ff9552fea472f4a1cfb3c005c",
-      "levelid": "custom_level_f02196397ad98f6ff9552fea472f4a1cfb3c005c"
+      "key": "48384",
+      "songName": "LUCKI - Alternative Outro Instrumental",
+      "hash": "39e31873ed5cc4416a457b1a20de17ed534e21f2",
+      "levelid": "custom_level_39e31873ed5cc4416a457b1a20de17ed534e21f2"
     },
     {
-      "key": "4832e",
-      "songName": "Glitter pop! - OFF THE LEASH! (1.05x)",
-      "hash": "85b9869ce0cd2b99f8397868708e29bf82e1a543",
-      "levelid": "custom_level_85b9869ce0cd2b99f8397868708e29bf82e1a543"
+      "key": "48112",
+      "songName": "Won't Stand Down - Muse",
+      "hash": "a9e796671fe984c1eebe8317a9e957fd360ddc93",
+      "levelid": "custom_level_a9e796671fe984c1eebe8317a9e957fd360ddc93"
     },
     {
-      "key": "4832b",
-      "songName": "Stop it (in progress)",
-      "hash": "c85e0249d3f7721898ef85254e313fa8f14268cb",
-      "levelid": "custom_level_c85e0249d3f7721898ef85254e313fa8f14268cb"
+      "key": "48376",
+      "songName": "Burbank House",
+      "hash": "dc2fb1f71c92ff141341b1a0cf8826d30cd068ec",
+      "levelid": "custom_level_dc2fb1f71c92ff141341b1a0cf8826d30cd068ec"
     },
     {
-      "key": "48329",
-      "songName": "Your Idol",
-      "hash": "e093d783dbc3249346ae95da3a8b30b5075107ae",
-      "levelid": "custom_level_e093d783dbc3249346ae95da3a8b30b5075107ae"
+      "key": "48375",
+      "songName": "hong kong",
+      "hash": "0c2b695b39e4fdd4eb0b8d4ae9f9499cff50f2e2",
+      "levelid": "custom_level_0c2b695b39e4fdd4eb0b8d4ae9f9499cff50f2e2"
     },
     {
-      "key": "48322",
-      "songName": "celestial",
-      "hash": "a2e371c190d8c3d67de9d88a9446125be6a997ba",
-      "levelid": "custom_level_a2e371c190d8c3d67de9d88a9446125be6a997ba"
+      "key": "48374",
+      "songName": "[V4.1] S3RL & Atef - One More",
+      "hash": "8b246c098ad7f51f9c4b85294ed7009cbab3b1eb",
+      "levelid": "custom_level_8b246c098ad7f51f9c4b85294ed7009cbab3b1eb"
     },
     {
-      "key": "3fb26",
-      "songName": "Forever Bound - Fireproof [Stereo Madness w/ Vocals]",
-      "hash": "9051e85cbe2c4d77a6ddcc8102cb929259419ab5",
-      "levelid": "custom_level_9051e85cbe2c4d77a6ddcc8102cb929259419ab5"
+      "key": "48370",
+      "songName": "Lil Zé - se você quer roubar o banco (ft. FAB GODAMN)",
+      "hash": "1b042fbd9ddfaf498287a8d89b00ec892ef70252",
+      "levelid": "custom_level_1b042fbd9ddfaf498287a8d89b00ec892ef70252"
     },
     {
-      "key": "482a9",
-      "songName": "[v4.1] TheFatRat - HONK",
-      "hash": "8098cebf2a311f3b30f5e301e2d7dbaba00edd70",
-      "levelid": "custom_level_8098cebf2a311f3b30f5e301e2d7dbaba00edd70"
+      "key": "4836c",
+      "songName": "My first Beat Saber map! (\"It's Raining Tacos\" by Parry Gripp)",
+      "hash": "b31e63d92c801ff914c7fcdd042b0dbac4c42e4a",
+      "levelid": "custom_level_b31e63d92c801ff914c7fcdd042b0dbac4c42e4a"
     },
     {
-      "key": "48315",
-      "songName": "Surii - Ego Rock (feat. Kagamine Len)",
-      "hash": "66d2c940d66ceb948e9b735a6f401e845c2425a2",
-      "levelid": "custom_level_66d2c940d66ceb948e9b735a6f401e845c2425a2"
+      "key": "48369",
+      "songName": "Alohaii - Better Luck Next Time (feat. Shiki Miyoshino)",
+      "hash": "39323acf0ee509b6b3c081f279775bc8bef5fad5",
+      "levelid": "custom_level_39323acf0ee509b6b3c081f279775bc8bef5fad5"
     },
     {
-      "key": "48314",
-      "songName": "fissa x13",
-      "hash": "9ac2a3ebc084534341b0af8be1c263cfd9b5068e",
-      "levelid": "custom_level_9ac2a3ebc084534341b0af8be1c263cfd9b5068e"
+      "key": "48367",
+      "songName": "W&W - OIIA OIIA (Spinning Cat)",
+      "hash": "2a7ed34bc0b6901c25688e8e1edeea9275e6e3ec",
+      "levelid": "custom_level_2a7ed34bc0b6901c25688e8e1edeea9275e6e3ec"
     },
     {
-      "key": "48312",
-      "songName": "Europe - The Final Countdown",
-      "hash": "243cd0070fbec7f1c4a6c7ec251a082cd3b4c693",
-      "levelid": "custom_level_243cd0070fbec7f1c4a6c7ec251a082cd3b4c693"
+      "key": "48368",
+      "songName": "Jax jones - Instruction (feat. Demi Lovato & Stefflon Don)",
+      "hash": "3e12dca1495c1d7b17d100ae6c6619d7faa9a2bc",
+      "levelid": "custom_level_3e12dca1495c1d7b17d100ae6c6619d7faa9a2bc"
     },
     {
-      "key": "48310",
-      "songName": "Elton John - Philadelphia Freedom",
-      "hash": "a03cc2028e1406b78826fc389b5f7908851b1f5f",
-      "levelid": "custom_level_a03cc2028e1406b78826fc389b5f7908851b1f5f"
-    },
-    {
-      "key": "4830f",
-      "songName": "Momentum",
-      "hash": "aa08da19b41d8af615219e65824f8931e998ff20",
-      "levelid": "custom_level_aa08da19b41d8af615219e65824f8931e998ff20"
-    },
-    {
-      "key": "4830e",
-      "songName": "Zara Larsson - Lush Life",
-      "hash": "a2475d517946a9e629da4faa511ceda64be7763b",
-      "levelid": "custom_level_a2475d517946a9e629da4faa511ceda64be7763b"
-    },
-    {
-      "key": "4830d",
-      "songName": "t+pazolite - Zanshi Midnight",
-      "hash": "fdbefa77fb6813ae570bbfb099e58fa877f0fe18",
-      "levelid": "custom_level_fdbefa77fb6813ae570bbfb099e58fa877f0fe18"
-    },
-    {
-      "key": "4830c",
-      "songName": "squidward yell v2",
-      "hash": "86975c3854d815a4f83f62f46c78c3e25db33700",
-      "levelid": "custom_level_86975c3854d815a4f83f62f46c78c3e25db33700"
-    },
-    {
-      "key": "4830b",
-      "songName": "We get lost",
-      "hash": "598109f3309b47ed3a8fbfb801244aa7e44459fb",
-      "levelid": "custom_level_598109f3309b47ed3a8fbfb801244aa7e44459fb"
-    },
-    {
-      "key": "4830a",
-      "songName": "ricky bobby",
-      "hash": "2ee6d19bc531afd3d9e501b677c822e239c4c028",
-      "levelid": "custom_level_2ee6d19bc531afd3d9e501b677c822e239c4c028"
-    },
-    {
-      "key": "48308",
-      "songName": "Pedro Silva - Underwater Highway",
-      "hash": "6aadbdef30c1bcb9af69f00af6b8fb980d184dea",
-      "levelid": "custom_level_6aadbdef30c1bcb9af69f00af6b8fb980d184dea"
-    },
-    {
-      "key": "48300",
-      "songName": "Busy Town",
-      "hash": "3aa9886be74dfecb030f195bf13a001e048d3f69",
-      "levelid": "custom_level_3aa9886be74dfecb030f195bf13a001e048d3f69"
-    },
-    {
-      "key": "482fb",
-      "songName": "VØJ, Narvent - HEAR ME",
-      "hash": "8ea511745922e703611a969decb256b49dd756f1",
-      "levelid": "custom_level_8ea511745922e703611a969decb256b49dd756f1"
-    },
-    {
-      "key": "482f4",
-      "songName": "lapix - Far Away (Mameyudoufu Remix) [DANCE MAP]",
-      "hash": "290133f127c20af70f03f554899a04412efe47b1",
-      "levelid": "custom_level_290133f127c20af70f03f554899a04412efe47b1"
-    },
-    {
-      "key": "482f0",
-      "songName": "IRISÉ - 키리(KIIRI)",
-      "hash": "5e0b1f871ab9392ff1e99428bb38552a84629d18",
-      "levelid": "custom_level_5e0b1f871ab9392ff1e99428bb38552a84629d18"
-    },
-    {
-      "key": "482ef",
-      "songName": "OMFG - Hello",
-      "hash": "1081aba4e3213ea4a5cc4b85ee316465f6d40581",
-      "levelid": "custom_level_1081aba4e3213ea4a5cc4b85ee316465f6d40581"
-    },
-    {
-      "key": "482d0",
-      "songName": "HI - Demonicity",
-      "hash": "9657516bddb42f6d47db623142a50a1548b8691f",
-      "levelid": "custom_level_9657516bddb42f6d47db623142a50a1548b8691f"
-    },
-    {
-      "key": "482cd",
-      "songName": "Before You Go (Piano & Callo cover) - The Piano Guys",
-      "hash": "4fceda788663523f4364bb0bafa1b073f99e033e",
-      "levelid": "custom_level_4fceda788663523f4364bb0bafa1b073f99e033e"
-    },
-    {
-      "key": "482cc",
-      "songName": "Saja Boys - Your Idol (From Kpop Demon Hunters Soundtrack)",
-      "hash": "af1c4e2afb8acf5e999ad2d1e98268e3b06303e7",
-      "levelid": "custom_level_af1c4e2afb8acf5e999ad2d1e98268e3b06303e7"
-    },
-    {
-      "key": "48222",
-      "songName": "Sabaton - Blood of Bannockburn (Fitbeat)",
-      "hash": "d75b000b2082ede167e37ead6f168205e5c53786",
-      "levelid": "custom_level_d75b000b2082ede167e37ead6f168205e5c53786"
-    },
-    {
-      "key": "482c0",
-      "songName": "rintaro soma - 系ぎて",
-      "hash": "49d59c231257efbb0c460071531864667b1b18d1",
-      "levelid": "custom_level_49d59c231257efbb0c460071531864667b1b18d1"
-    },
-    {
-      "key": "482bf",
-      "songName": "PPP Sounds/Kasane Teto - Leviteto",
-      "hash": "e277b1a6aac337b840d97a3cee411c9366e4e2c2",
-      "levelid": "custom_level_e277b1a6aac337b840d97a3cee411c9366e4e2c2"
-    },
-    {
-      "key": "482bd",
-      "songName": " t+pazolite - Garakuta Doll Play",
-      "hash": "efe7090e52059339c96c8cd389b85cf335ac96a3",
-      "levelid": "custom_level_efe7090e52059339c96c8cd389b85cf335ac96a3"
-    },
-    {
-      "key": "482bc",
-      "songName": "Planet Girl",
-      "hash": "a025c5dded8985b9edc70eebd52757414668d715",
-      "levelid": "custom_level_a025c5dded8985b9edc70eebd52757414668d715"
-    },
-    {
-      "key": "482bb",
-      "songName": "K'naan - Bang Bang (ft. Adam Levine)",
-      "hash": "b3d4f988d15822ec890b67a38467a534d290fcf1",
-      "levelid": "custom_level_b3d4f988d15822ec890b67a38467a534d290fcf1"
+      "key": "4834f",
+      "songName": "Stop it (Dennett Remix)",
+      "hash": "f017edee1604315cc156b6fce2741910331a37c8",
+      "levelid": "custom_level_f017edee1604315cc156b6fce2741910331a37c8"
     }
   ],
   "image": ""
