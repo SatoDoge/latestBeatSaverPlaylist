@@ -1,226 +1,286 @@
 {
-  "playlistTitle": "2025-07-07T15:18:48.248Z~2025-07-08T15:18:48.248Z",
+  "playlistTitle": "2025-07-08T15:18:48.548Z~2025-07-09T15:18:48.548Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-07-07T15:18:48.248Z and 2025-07-08T15:18:48.248Z",
+  "discripstion": "Maps published between 2025-07-08T15:18:48.548Z and 2025-07-09T15:18:48.548Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "48711",
-      "songName": "Monoqlom - Blackout",
-      "hash": "03f9ab9d89c59bf9d2225f19582e4baee75ee2a1",
-      "levelid": "custom_level_03f9ab9d89c59bf9d2225f19582e4baee75ee2a1"
+      "key": "48771",
+      "songName": "cfmot intro v2",
+      "hash": "c8f0c3f390a27b4fbaef2b2dfa2acb97a77eea65",
+      "levelid": "custom_level_c8f0c3f390a27b4fbaef2b2dfa2acb97a77eea65"
     },
     {
-      "key": "4870d",
-      "songName": "crafter2011 - fall damage (TECH INLINE VERSION)",
-      "hash": "dfad9d6c0abf78b873702fa9ba8f2e2c274439af",
-      "levelid": "custom_level_dfad9d6c0abf78b873702fa9ba8f2e2c274439af"
+      "key": "48770",
+      "songName": "SAIHATE E (最果てへ) -Atelier Resleriana- (Vo.reche)",
+      "hash": "5248d2a1fbd9e8f9a33b5d183d5cc66a69223eef",
+      "levelid": "custom_level_5248d2a1fbd9e8f9a33b5d183d5cc66a69223eef"
     },
     {
-      "key": "48708",
-      "songName": "Kiss Me Again - ROY BEE",
-      "hash": "1e4e70a72acfe1dc99bee47a7260bd4771834867",
-      "levelid": "custom_level_1e4e70a72acfe1dc99bee47a7260bd4771834867"
+      "key": "4876f",
+      "songName": "W&W x Harris & Ford x Triiipl3 Inc. - Tricky Disco",
+      "hash": "2857cfc4d077e27a265eabac6bba5514ffa4eb0c",
+      "levelid": "custom_level_2857cfc4d077e27a265eabac6bba5514ffa4eb0c"
     },
     {
-      "key": "477c2",
-      "songName": "VULFPECK /// Sky Mall",
-      "hash": "598cc32d99e53b49949b7db06da13844f2be77f2",
-      "levelid": "custom_level_598cc32d99e53b49949b7db06da13844f2be77f2"
+      "key": "4876c",
+      "songName": "Ryo Nagamatsu - Title Screen (Wii Sports Resort OST)",
+      "hash": "045d61cc66fcdb381fc76cf2bc0d8b585f013a33",
+      "levelid": "custom_level_045d61cc66fcdb381fc76cf2bc0d8b585f013a33"
     },
     {
-      "key": "486de",
-      "songName": "SOUTHERN ALL STARS - EROTICA SEVEN(DANCE MAP)",
-      "hash": "78986b989bb5c72bb9d74abba32008e2f368ed27",
-      "levelid": "custom_level_78986b989bb5c72bb9d74abba32008e2f368ed27"
+      "key": "4876b",
+      "songName": "HIMEHINA -『バブリン』((Non-standard))",
+      "hash": "f7157b0bcb68502808277bbe5270c083dddacffb",
+      "levelid": "custom_level_f7157b0bcb68502808277bbe5270c083dddacffb"
     },
     {
-      "key": "46353",
-      "songName": "Thundercat - Uh Uh",
-      "hash": "50967112626d096b1eede8ed6dc075c6524ab03a",
-      "levelid": "custom_level_50967112626d096b1eede8ed6dc075c6524ab03a"
+      "key": "4876a",
+      "songName": "The Prom",
+      "hash": "9f9a0c3f7b97ea275b0a5a712d5dfffd39495080",
+      "levelid": "custom_level_9f9a0c3f7b97ea275b0a5a712d5dfffd39495080"
     },
     {
-      "key": "486d6",
-      "songName": "[Cinema V3] Evan Fong - Spawn!",
-      "hash": "314256c844e9500c90861e0107dd2b6d44461a6b",
-      "levelid": "custom_level_314256c844e9500c90861e0107dd2b6d44461a6b"
+      "key": "48740",
+      "songName": "Skillet - Feel Invincible",
+      "hash": "48d889460fce0c1d05a9233bd518b07ec660a540",
+      "levelid": "custom_level_48d889460fce0c1d05a9233bd518b07ec660a540"
     },
     {
-      "key": "486d5",
-      "songName": "een auto",
-      "hash": "5c40d9b9676a5bb8a0e28e53ff05e3880c36699c",
-      "levelid": "custom_level_5c40d9b9676a5bb8a0e28e53ff05e3880c36699c"
+      "key": "48651",
+      "songName": "サファイア (Sapphire)",
+      "hash": "5e1f16173a59f61e8afb9e2e0d4bd0973eb60cbc",
+      "levelid": "custom_level_5e1f16173a59f61e8afb9e2e0d4bd0973eb60cbc"
     },
     {
-      "key": "486d4",
-      "songName": "600bpmpracticemattpractice",
-      "hash": "c36b542e4b791cfbd74bdd08836d85970e30dbc4",
-      "levelid": "custom_level_c36b542e4b791cfbd74bdd08836d85970e30dbc4"
+      "key": "48769",
+      "songName": "a 怪诞心理学-华晨宇",
+      "hash": "bc2a7eb5c4f0e6558407dc164c527f06f65a3894",
+      "levelid": "custom_level_bc2a7eb5c4f0e6558407dc164c527f06f65a3894"
     },
     {
-      "key": "486d2",
-      "songName": "Linkin Park - The Emptiness Machine",
-      "hash": "9c28ac7c091f49d4c4981ad378c6973d4a1fdf8c",
-      "levelid": "custom_level_9c28ac7c091f49d4c4981ad378c6973d4a1fdf8c"
+      "key": "48768",
+      "songName": "祖堅正慶-Pulse:千年の暁 ～朱雀征魂戦～ Remixed by Takafumi Imamura(Cut Ver.)",
+      "hash": "2b36c40d941b8aa2e35f9d7f319e163e9733f202",
+      "levelid": "custom_level_2b36c40d941b8aa2e35f9d7f319e163e9733f202"
     },
     {
-      "key": "486cf",
-      "songName": "Tears In The Rain",
-      "hash": "16dd925cdd47328186e9634695508f6c5f624e63",
-      "levelid": "custom_level_16dd925cdd47328186e9634695508f6c5f624e63"
+      "key": "48765",
+      "songName": "YAJU&U - Mochimochi [野獣先輩]",
+      "hash": "221d5812d51246186f0b651622cbd2db98005214",
+      "levelid": "custom_level_221d5812d51246186f0b651622cbd2db98005214"
     },
     {
-      "key": "486ce",
-      "songName": "Freddie Dredd - What You Know",
-      "hash": "8977814adc8ead793fa26d3a0a27d542ec1c394f",
-      "levelid": "custom_level_8977814adc8ead793fa26d3a0a27d542ec1c394f"
+      "key": "48764",
+      "songName": "Runaway Runaway 1.1x",
+      "hash": "0aff3969dd900efed1c880b0653407e281ca1699",
+      "levelid": "custom_level_0aff3969dd900efed1c880b0653407e281ca1699"
     },
     {
-      "key": "486cd",
-      "songName": "Taking what not your light show",
-      "hash": "3fb3e3d54219f57e7d4167659e065ac57a9c74cb",
-      "levelid": "custom_level_3fb3e3d54219f57e7d4167659e065ac57a9c74cb"
+      "key": "48763",
+      "songName": "We get lost",
+      "hash": "170126d226e17fcb7a7003569b27d1d4ab6c0946",
+      "levelid": "custom_level_170126d226e17fcb7a7003569b27d1d4ab6c0946"
     },
     {
-      "key": "486cc",
-      "songName": "test",
-      "hash": "530cc21c6205ab5219ef48a4dacc51299714b90f",
-      "levelid": "custom_level_530cc21c6205ab5219ef48a4dacc51299714b90f"
+      "key": "48760",
+      "songName": "Ievan Polkka",
+      "hash": "0d233c12d0e0cb9973bb6993a415250db2645aca",
+      "levelid": "custom_level_0d233c12d0e0cb9973bb6993a415250db2645aca"
     },
     {
-      "key": "486ca",
-      "songName": "Big Baller B - no more mr. nice guy",
-      "hash": "b828fbd556e6a85d05b6fbf1fb5c61952f921449",
-      "levelid": "custom_level_b828fbd556e6a85d05b6fbf1fb5c61952f921449"
+      "key": "4875e",
+      "songName": "YOUR GONNA DIE IN THIS CAR",
+      "hash": "8824367e433d7a2696362e17c136fe83abb7ab98",
+      "levelid": "custom_level_8824367e433d7a2696362e17c136fe83abb7ab98"
     },
     {
-      "key": "486c9",
-      "songName": "duriduridan",
-      "hash": "dd41a22fcc40c3ab9b9d0caf755b4242a279d14f",
-      "levelid": "custom_level_dd41a22fcc40c3ab9b9d0caf755b4242a279d14f"
+      "key": "4875d",
+      "songName": "IN THE HEART OF",
+      "hash": "9e53b9e1c1aba35defb48f2f7603f5dc81280419",
+      "levelid": "custom_level_9e53b9e1c1aba35defb48f2f7603f5dc81280419"
     },
     {
-      "key": "486c8",
-      "songName": "Enough",
-      "hash": "ec35ca498057c05d9f9cd54b5e55e69a21834af9",
-      "levelid": "custom_level_ec35ca498057c05d9f9cd54b5e55e69a21834af9"
+      "key": "4875b",
+      "songName": "Roses",
+      "hash": "6852629743142b4a7df861ed813d2d7f2229c9a5",
+      "levelid": "custom_level_6852629743142b4a7df861ed813d2d7f2229c9a5"
     },
     {
-      "key": "486c6",
-      "songName": "Dance On The Moon",
-      "hash": "e7620a224681fad2fa7a472d550e0898f45f4520",
-      "levelid": "custom_level_e7620a224681fad2fa7a472d550e0898f45f4520"
+      "key": "48759",
+      "songName": "you cant fc this map",
+      "hash": "b040f9231af3c3b36bffaa15e847b20bdd0e9329",
+      "levelid": "custom_level_b040f9231af3c3b36bffaa15e847b20bdd0e9329"
     },
     {
-      "key": "486c4",
-      "songName": "Kobayashi Keiki (PROJECT ACES) - First Flight [ACE COMBAT 5]",
-      "hash": "3bcc7f385f95c579000096bc75bd87c67e97d813",
-      "levelid": "custom_level_3bcc7f385f95c579000096bc75bd87c67e97d813"
+      "key": "4875a",
+      "songName": " Radioactive Vampire Teeth - Tale of a TOFU Devotee",
+      "hash": "31f6043d280800833d9f245a49e6d3ade0484ce0",
+      "levelid": "custom_level_31f6043d280800833d9f245a49e6d3ade0484ce0"
     },
     {
-      "key": "486c2",
-      "songName": "Edgyguns Birthday Freestyle",
-      "hash": "52aab018ec3fa066c09f14bc6138e6c256cd1bb3",
-      "levelid": "custom_level_52aab018ec3fa066c09f14bc6138e6c256cd1bb3"
+      "key": "48758",
+      "songName": "Radioactive Vampire Teeth - DJ PROBLEMATIC TWEET, The Slot Machine Addict",
+      "hash": "58479703b81acb19b4b00d3a0f12ca38c907f6a6",
+      "levelid": "custom_level_58479703b81acb19b4b00d3a0f12ca38c907f6a6"
     },
     {
-      "key": "486c1",
-      "songName": "Updown",
-      "hash": "0c7a6fef74babffde1cb6a38b679c1051e528f18",
-      "levelid": "custom_level_0c7a6fef74babffde1cb6a38b679c1051e528f18"
+      "key": "48757",
+      "songName": "Radioactive Vampire Teeth - ✟ Stew of the Holy Land ✟",
+      "hash": "aa0095d9e6a2193a32b85e215e2390ff07c89649",
+      "levelid": "custom_level_aa0095d9e6a2193a32b85e215e2390ff07c89649"
     },
     {
-      "key": "486bf",
-      "songName": "SPECIALZ (English Cover)",
-      "hash": "a8aae17401ca37be8d56d670f0dbaa35a995dd9a",
-      "levelid": "custom_level_a8aae17401ca37be8d56d670f0dbaa35a995dd9a"
+      "key": "48755",
+      "songName": "Fito Silva - Blah Blah Blah",
+      "hash": "8e262f343476266fc8360b1c43503765a9bd1f97",
+      "levelid": "custom_level_8e262f343476266fc8360b1c43503765a9bd1f97"
     },
     {
-      "key": "486be",
-      "songName": "It's Going Down Now",
-      "hash": "7a0573a4f6e5a0324b70100ae93ab484b34a4963",
-      "levelid": "custom_level_7a0573a4f6e5a0324b70100ae93ab484b34a4963"
+      "key": "48751",
+      "songName": "[6L Fitbeat] Rockefeller Street (Nightcore) - Getter Jaani",
+      "hash": "af82634310b4c51f11fc0e4e796eb788a69c324a",
+      "levelid": "custom_level_af82634310b4c51f11fc0e4e796eb788a69c324a"
     },
     {
-      "key": "486bb",
-      "songName": "qebrµs & Otto Von Schirach - Enter the Sacred Triangle",
-      "hash": "3b6368b2623e9db75c1adf0fa14f7788ceaf238c",
-      "levelid": "custom_level_3b6368b2623e9db75c1adf0fa14f7788ceaf238c"
+      "key": "48750",
+      "songName": "Crush invites you then you get nuked ASMR",
+      "hash": "6efc2c30203592238cca737bc39049b45c86df8a",
+      "levelid": "custom_level_6efc2c30203592238cca737bc39049b45c86df8a"
     },
     {
-      "key": "486ba",
-      "songName": "ur too late i already died",
-      "hash": "6dcafef087dca72e8c2064faab0b35df36320689",
-      "levelid": "custom_level_6dcafef087dca72e8c2064faab0b35df36320689"
+      "key": "4874e",
+      "songName": "cant get you out of my mind",
+      "hash": "59ceabace3ad855f265281fae5ea9852d6c97fce",
+      "levelid": "custom_level_59ceabace3ad855f265281fae5ea9852d6c97fce"
     },
     {
-      "key": "486b0",
-      "songName": "[Chroma] Moe Shop - Notice",
-      "hash": "6f460b03b132e3ad878b17513c799f6d52d78e28",
-      "levelid": "custom_level_6f460b03b132e3ad878b17513c799f6d52d78e28"
+      "key": "48745",
+      "songName": "Jane Remover - Professional Vengeance",
+      "hash": "301a619a904906be1fdc36250de921493f6e399e",
+      "levelid": "custom_level_301a619a904906be1fdc36250de921493f6e399e"
     },
     {
-      "key": "486b3",
-      "songName": "Two Different Worlds (Short Edit) - KoruSe, mzmff ",
-      "hash": "3596bdd979f5abffe1551c9c62baa89bf7398963",
-      "levelid": "custom_level_3596bdd979f5abffe1551c9c62baa89bf7398963"
+      "key": "48744",
+      "songName": "Les Rallizes Dénudés - Wilderness of False Flowers (Yodo-Go-A-Go-Go)",
+      "hash": "258b441aacab4b3ec131b5fcd99a5f45ad3d8b77",
+      "levelid": "custom_level_258b441aacab4b3ec131b5fcd99a5f45ad3d8b77"
     },
     {
-      "key": "4868b",
-      "songName": "jet 2 holiday",
-      "hash": "4c318576096940f52b12c7c9a508073db07c197d",
-      "levelid": "custom_level_4c318576096940f52b12c7c9a508073db07c197d"
+      "key": "48741",
+      "songName": "RiraN - Let's Go",
+      "hash": "f922bae8245b7d62006916ba1c30218e602c4e93",
+      "levelid": "custom_level_f922bae8245b7d62006916ba1c30218e602c4e93"
     },
     {
-      "key": "4868a",
-      "songName": "Sincerely Maya",
-      "hash": "eed71703dae638771d1923a42f371d0f2f386d53",
-      "levelid": "custom_level_eed71703dae638771d1923a42f371d0f2f386d53"
+      "key": "48743",
+      "songName": "Enemy Retreating",
+      "hash": "dfcca31628cbc5f117605fc62387362a80b2c21a",
+      "levelid": "custom_level_dfcca31628cbc5f117605fc62387362a80b2c21a"
     },
     {
-      "key": "48688",
-      "songName": "12am",
-      "hash": "5018464a3504281c82b37ca24f814890d0228502",
-      "levelid": "custom_level_5018464a3504281c82b37ca24f814890d0228502"
+      "key": "4873c",
+      "songName": "DIA DELICIA ",
+      "hash": "5246cb66de9268ceb8339b1be42787d8565d8a65",
+      "levelid": "custom_level_5246cb66de9268ceb8339b1be42787d8565d8a65"
     },
     {
-      "key": "4861e",
-      "songName": "Takedown (from K-pop Demon Hunters)",
-      "hash": "a294cb21b373ab2330db3c3040c330f9309e75de",
-      "levelid": "custom_level_a294cb21b373ab2330db3c3040c330f9309e75de"
+      "key": "4873a",
+      "songName": "Walmart, but its back to school time",
+      "hash": "217888de20da7bfe7513c9230130b59d4b85c7e6",
+      "levelid": "custom_level_217888de20da7bfe7513c9230130b59d4b85c7e6"
     },
     {
-      "key": "48686",
-      "songName": "猫 シ Corp.  -【Twin Palms】",
-      "hash": "d64ed899bb1a459f7307c65d722517279be2a0cc",
-      "levelid": "custom_level_d64ed899bb1a459f7307c65d722517279be2a0cc"
+      "key": "48737",
+      "songName": "Melt-Banana - Test: Ground 1",
+      "hash": "8c8e92679cde3e40167fdac9ca2f4441829a4249",
+      "levelid": "custom_level_8c8e92679cde3e40167fdac9ca2f4441829a4249"
     },
     {
-      "key": "48685",
-      "songName": "Yunomi - Aimai Trip (w/ Momobako & miko)",
-      "hash": "d939127b3413edbd39bf14a9164f31ff439d525c",
-      "levelid": "custom_level_d939127b3413edbd39bf14a9164f31ff439d525c"
+      "key": "48731",
+      "songName": "Ryuven - URUSAI うるさい",
+      "hash": "5c749213f4b2440c8819ab54abd5252670d8652f",
+      "levelid": "custom_level_5c749213f4b2440c8819ab54abd5252670d8652f"
     },
     {
-      "key": "48681",
-      "songName": "Emei - Irresponsible",
-      "hash": "d1fb96de402177796c9e3c23a2b2c2fb1dfb742e",
-      "levelid": "custom_level_d1fb96de402177796c9e3c23a2b2c2fb1dfb742e"
+      "key": "4872b",
+      "songName": "Jamie Paige - Cadmium Colors (ft. Kasane Teto)",
+      "hash": "607297af5250ba584fe96faa96b5b7f45da27010",
+      "levelid": "custom_level_607297af5250ba584fe96faa96b5b7f45da27010"
     },
     {
-      "key": "48676",
-      "songName": "Yes B!tch",
-      "hash": "4cd27e0493e0830b0f20f9fbf63a8c26a49764cd",
-      "levelid": "custom_level_4cd27e0493e0830b0f20f9fbf63a8c26a49764cd"
+      "key": "48727",
+      "songName": "Rumi, Jinu - Free [From Kpop Demon Hunters Soundtrack]",
+      "hash": "21b14cdb97abdf9defe6f6979c6c94219ea6ac41",
+      "levelid": "custom_level_21b14cdb97abdf9defe6f6979c6c94219ea6ac41"
     },
     {
-      "key": "48673",
-      "songName": "Kobaryo - Computer Cornflakes",
-      "hash": "4b319d7958576175365146dca7fd27dc858a0c4b",
-      "levelid": "custom_level_4b319d7958576175365146dca7fd27dc858a0c4b"
+      "key": "48725",
+      "songName": "Juliet - Robin Gibb",
+      "hash": "53bff5959d4f8b755d1fa5e23cc4515e518528b3",
+      "levelid": "custom_level_53bff5959d4f8b755d1fa5e23cc4515e518528b3"
+    },
+    {
+      "key": "48724",
+      "songName": "OH SHIT!",
+      "hash": "5299c0a069275223a62f0df82c5db964fe6098f1",
+      "levelid": "custom_level_5299c0a069275223a62f0df82c5db964fe6098f1"
+    },
+    {
+      "key": "48723",
+      "songName": "Coming back around",
+      "hash": "486ee5a989c83ed481f991a5a53931559555481e",
+      "levelid": "custom_level_486ee5a989c83ed481f991a5a53931559555481e"
+    },
+    {
+      "key": "48721",
+      "songName": "Filthy Dog - Joost",
+      "hash": "f7a8ec8b55ec675a2e8d6c7c174d189498a3000f",
+      "levelid": "custom_level_f7a8ec8b55ec675a2e8d6c7c174d189498a3000f"
+    },
+    {
+      "key": "4871e",
+      "songName": "scoliosis 270",
+      "hash": "c89d2588a213f2acd573c65f58483d889e2e9bc1",
+      "levelid": "custom_level_c89d2588a213f2acd573c65f58483d889e2e9bc1"
+    },
+    {
+      "key": "4871c",
+      "songName": "I Can't Fit In - Marino",
+      "hash": "93aae824ea8b571839a72554de9607af5f37a2ca",
+      "levelid": "custom_level_93aae824ea8b571839a72554de9607af5f37a2ca"
+    },
+    {
+      "key": "4871b",
+      "songName": "Sam Browne - Silly Billy (Epic Trap Remix)",
+      "hash": "22a5077875a6528125995037d9b666aba068af2e",
+      "levelid": "custom_level_22a5077875a6528125995037d9b666aba068af2e"
+    },
+    {
+      "key": "4871a",
+      "songName": "I Like You Best",
+      "hash": "aec1cb28afb4e3aa98b56eece1951285a7ebb44d",
+      "levelid": "custom_level_aec1cb28afb4e3aa98b56eece1951285a7ebb44d"
+    },
+    {
+      "key": "48718",
+      "songName": "MEMNAYA PAPKA, Ksenon, Бемон, osobenniy, SLXW feat. Uker - 3000$",
+      "hash": "890635903f58a3e3352147b18d8af31f6f58dc13",
+      "levelid": "custom_level_890635903f58a3e3352147b18d8af31f6f58dc13"
+    },
+    {
+      "key": "48716",
+      "songName": "りことおっさ - ちんちん2018 (Bigger than You)",
+      "hash": "206019e4ada2cdd4f6ecb673f4e2c6106028e7fd",
+      "levelid": "custom_level_206019e4ada2cdd4f6ecb673f4e2c6106028e7fd"
+    },
+    {
+      "key": "48714",
+      "songName": "The Storm",
+      "hash": "f8435adb91bab1f1099d9abd0f1c6847c2546949",
+      "levelid": "custom_level_f8435adb91bab1f1099d9abd0f1c6847c2546949"
     }
   ],
   "image": ""
