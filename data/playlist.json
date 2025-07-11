@@ -1,244 +1,184 @@
 {
-  "playlistTitle": "2025-07-09T15:18:53.235Z~2025-07-10T15:18:53.235Z",
+  "playlistTitle": "2025-07-10T15:18:56.806Z~2025-07-11T15:18:56.806Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-07-09T15:18:53.235Z and 2025-07-10T15:18:53.235Z",
+  "discripstion": "Maps published between 2025-07-10T15:18:56.806Z and 2025-07-11T15:18:56.806Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "487b4",
-      "songName": "Camellia - PSYCHO+HEROES",
-      "hash": "25618b3643cd2b51dafc37cfbcc62b038efaa573",
-      "levelid": "custom_level_25618b3643cd2b51dafc37cfbcc62b038efaa573"
+      "key": "4874d",
+      "songName": "Andora - Croquis (feat. 弱酸性)",
+      "hash": "565158d6f9d0aad1fd564edd855e29ceea779957",
+      "levelid": "custom_level_565158d6f9d0aad1fd564edd855e29ceea779957"
     },
     {
-      "key": "48614",
-      "songName": "Andora - Dream Fantasy (feat. RANASOL)",
-      "hash": "99ec369fbd336cb7450828d1557dbcbf64d97110",
-      "levelid": "custom_level_99ec369fbd336cb7450828d1557dbcbf64d97110"
+      "key": "48800",
+      "songName": "I NEVER DIE",
+      "hash": "08f4f9da6763a3128eb0dafdd1c0a0e7fa00ad05",
+      "levelid": "custom_level_08f4f9da6763a3128eb0dafdd1c0a0e7fa00ad05"
     },
     {
-      "key": "487b2",
-      "songName": "cfmot intro v3",
-      "hash": "5c399bbe00ae8e33be34ead7f7cf620b74339371",
-      "levelid": "custom_level_5c399bbe00ae8e33be34ead7f7cf620b74339371"
+      "key": "477dc",
+      "songName": "VULFPECK /// 1 for 1, DiMaggio",
+      "hash": "d96182812cd6864fecf66bede34719f1f9b31121",
+      "levelid": "custom_level_d96182812cd6864fecf66bede34719f1f9b31121"
     },
     {
-      "key": "487b0",
-      "songName": "Using You",
-      "hash": "cf234253efaf9ba6576c52084c5b92837efbbcc4",
-      "levelid": "custom_level_cf234253efaf9ba6576c52084c5b92837efbbcc4"
+      "key": "487ff",
+      "songName": "ENJOYEE! (YOUR LIFETIME)",
+      "hash": "fcb7bb9d867dfa32230575b35c8b339f54462a96",
+      "levelid": "custom_level_fcb7bb9d867dfa32230575b35c8b339f54462a96"
     },
     {
-      "key": "487af",
-      "songName": "醉拳",
-      "hash": "d6cd9d36f752579bb3f11e338b354af6583dcdd0",
-      "levelid": "custom_level_d6cd9d36f752579bb3f11e338b354af6583dcdd0"
+      "key": "487fc",
+      "songName": "optimus prime shits his pants and fucking dies",
+      "hash": "d1223c550134ffb22ef23ede0c32566f3b0c000e",
+      "levelid": "custom_level_d1223c550134ffb22ef23ede0c32566f3b0c000e"
     },
     {
-      "key": "487ad",
-      "songName": "Ragga Bomb",
-      "hash": "22151b55539352a142c0fd696c205bd33710288c",
-      "levelid": "custom_level_22151b55539352a142c0fd696c205bd33710288c"
+      "key": "487f9",
+      "songName": "The bad the good the olga",
+      "hash": "91df4da397a9c892b12053f3c69fcf6d1ef182a5",
+      "levelid": "custom_level_91df4da397a9c892b12053f3c69fcf6d1ef182a5"
     },
     {
-      "key": "487aa",
-      "songName": "Juice WRLD - Empty Out Your Pockets (V3)",
-      "hash": "7ec6aaf309b5839ab2b8a81ef507a4c1155123aa",
-      "levelid": "custom_level_7ec6aaf309b5839ab2b8a81ef507a4c1155123aa"
+      "key": "487f8",
+      "songName": "mr beast the raw honey consumer",
+      "hash": "a2b79880fbbb296ab45c68a6e251440d21f691c3",
+      "levelid": "custom_level_a2b79880fbbb296ab45c68a6e251440d21f691c3"
     },
     {
-      "key": "487a7",
-      "songName": "Lounge Act",
-      "hash": "b766c198937a660502152b366745b19fdcf4e6d4",
-      "levelid": "custom_level_b766c198937a660502152b366745b19fdcf4e6d4"
+      "key": "487f6",
+      "songName": "USAO - Glaring Eyes",
+      "hash": "cc03968ac3b8d2a5c647796a45de18366130b32b",
+      "levelid": "custom_level_cc03968ac3b8d2a5c647796a45de18366130b32b"
     },
     {
-      "key": "487a5",
-      "songName": "Smiling -Scott James {Modchart}",
-      "hash": "437d785d2ca53d810794bda511e303a88f5a8b5f",
-      "levelid": "custom_level_437d785d2ca53d810794bda511e303a88f5a8b5f"
+      "key": "487f2",
+      "songName": "Lost Requiem",
+      "hash": "9c1cfd67725477cd75a33f3901d728669143a525",
+      "levelid": "custom_level_9c1cfd67725477cd75a33f3901d728669143a525"
     },
     {
-      "key": "487a4",
-      "songName": "Emily From The West",
-      "hash": "9fbdc9c0f66b3cc758218a7d5bafcc2f73d89cb1",
-      "levelid": "custom_level_9fbdc9c0f66b3cc758218a7d5bafcc2f73d89cb1"
+      "key": "487bd",
+      "songName": "くうになる feat. Miku & Kafu - MIMI (2025 remap)",
+      "hash": "b90219b1e48f1fd9d4dd48f390fafe45abcf1c8a",
+      "levelid": "custom_level_b90219b1e48f1fd9d4dd48f390fafe45abcf1c8a"
     },
     {
-      "key": "487a3",
-      "songName": "I be Flossin",
-      "hash": "c81c4eb8372fb275e96e7b1fcdeea2eedf6e1108",
-      "levelid": "custom_level_c81c4eb8372fb275e96e7b1fcdeea2eedf6e1108"
+      "key": "487e1",
+      "songName": "Ed Sheeran - Don't",
+      "hash": "46421d9568c694b389aeeafaddf68a31b3aa4f98",
+      "levelid": "custom_level_46421d9568c694b389aeeafaddf68a31b3aa4f98"
     },
     {
-      "key": "487a2",
-      "songName": "600 practice",
-      "hash": "a41b6ee7f236ccd4dec2a604a62ed9e6d2d84c4b",
-      "levelid": "custom_level_a41b6ee7f236ccd4dec2a604a62ed9e6d2d84c4b"
+      "key": "487e0",
+      "songName": "seagull scream",
+      "hash": "1a0fc31769c9ffc43aee7d67a040ac2fbb927d01",
+      "levelid": "custom_level_1a0fc31769c9ffc43aee7d67a040ac2fbb927d01"
     },
     {
-      "key": "487a0",
-      "songName": "HAYAKO - ANALYS",
-      "hash": "44be6835195b5bbe42c605ed2641ae4d19ec4a49",
-      "levelid": "custom_level_44be6835195b5bbe42c605ed2641ae4d19ec4a49"
+      "key": "487dd",
+      "songName": "KASAI HARCORES - Cycle Hit",
+      "hash": "68c9174df1d96daaad9b630ae4700c2000b2a40f",
+      "levelid": "custom_level_68c9174df1d96daaad9b630ae4700c2000b2a40f"
     },
     {
-      "key": "480c3",
-      "songName": "Eyedress - Romantic Lover",
-      "hash": "3b063ed7b72ae0d6bc44afe22ec8bf47ba796d79",
-      "levelid": "custom_level_3b063ed7b72ae0d6bc44afe22ec8bf47ba796d79"
+      "key": "487dc",
+      "songName": "Battle Against a True Hero",
+      "hash": "e8631ea47529d73d7134b450c846ff69ce55e586",
+      "levelid": "custom_level_e8631ea47529d73d7134b450c846ff69ce55e586"
     },
     {
-      "key": "4879f",
-      "songName": "a Hey Kong-KEY.L刘聪",
-      "hash": "f8a997988beb93606339743785d19f6ea05db4f9",
-      "levelid": "custom_level_f8a997988beb93606339743785d19f6ea05db4f9"
+      "key": "487d5",
+      "songName": "P*Light - Clip It Bro",
+      "hash": "d5e4231b0a864b8eddd8750eacacce10b9a33ab9",
+      "levelid": "custom_level_d5e4231b0a864b8eddd8750eacacce10b9a33ab9"
     },
     {
-      "key": "48795",
-      "songName": "Learn To Code",
-      "hash": "25a43a653bc5f371f5cac44c1a27d6ff59d3ec32",
-      "levelid": "custom_level_25a43a653bc5f371f5cac44c1a27d6ff59d3ec32"
+      "key": "487d3",
+      "songName": "_ - Kurage",
+      "hash": "2edb3d991e5c6dd8c9cb146405bc07760d60575f",
+      "levelid": "custom_level_2edb3d991e5c6dd8c9cb146405bc07760d60575f"
     },
     {
-      "key": "48796",
-      "songName": "García Huerta - Opus 4",
-      "hash": "be2f86159cf55b63fc7277af2bc4668955c5e879",
-      "levelid": "custom_level_be2f86159cf55b63fc7277af2bc4668955c5e879"
+      "key": "487cc",
+      "songName": "tiefsee but awesome",
+      "hash": "6f734049f6d4de3005b7728fcb9ec6cf97c41805",
+      "levelid": "custom_level_6f734049f6d4de3005b7728fcb9ec6cf97c41805"
     },
     {
-      "key": "48794",
-      "songName": "Eye Contact ",
-      "hash": "f226ef064d6fd28bcc566236bf2e4392831e47c1",
-      "levelid": "custom_level_f226ef064d6fd28bcc566236bf2e4392831e47c1"
+      "key": "487ca",
+      "songName": "Les Rallizes Dénudés - Vallé de l'eau",
+      "hash": "02a9426f95e72d4ea3b25bf2c6d48c985db2fd2d",
+      "levelid": "custom_level_02a9426f95e72d4ea3b25bf2c6d48c985db2fd2d"
     },
     {
-      "key": "48793",
-      "songName": "Chase Atlantic - Swim",
-      "hash": "d354c3fca857e4a272ac5c210853fde850af059b",
-      "levelid": "custom_level_d354c3fca857e4a272ac5c210853fde850af059b"
+      "key": "487c9",
+      "songName": "Camellia - POWA OF DA WILDANES",
+      "hash": "f8791bad4369d570167ddc770e8272e57d435b02",
+      "levelid": "custom_level_f8791bad4369d570167ddc770e8272e57d435b02"
     },
     {
-      "key": "48792",
-      "songName": "HUNTR/X - Takedown (From Kpop Demon Hunters)",
-      "hash": "b61a50735bc060bb33a62b65bd26b02f49f6a121",
-      "levelid": "custom_level_b61a50735bc060bb33a62b65bd26b02f49f6a121"
+      "key": "487c8",
+      "songName": "TRAFIK!",
+      "hash": "5b88cc15d856355b9ce8af5a53165078ce2d598b",
+      "levelid": "custom_level_5b88cc15d856355b9ce8af5a53165078ce2d598b"
     },
     {
-      "key": "48791",
-      "songName": "Snakeway",
-      "hash": "8051127302e148afa661f364476a4a8e470d4a00",
-      "levelid": "custom_level_8051127302e148afa661f364476a4a8e470d4a00"
+      "key": "487c6",
+      "songName": "continent song",
+      "hash": "c38f8bd769927d82f39831b1384172318a579b60",
+      "levelid": "custom_level_c38f8bd769927d82f39831b1384172318a579b60"
     },
     {
-      "key": "48790",
-      "songName": "One Of These Has Got To Be A Chicken",
-      "hash": "7627c537de616c617f6ed46011b42011ceb74bcb",
-      "levelid": "custom_level_7627c537de616c617f6ed46011b42011ceb74bcb"
+      "key": "487c5",
+      "songName": "Bang Bang",
+      "hash": "1087809d06f02b77c31a53cbb6873d8eba9de5ff",
+      "levelid": "custom_level_1087809d06f02b77c31a53cbb6873d8eba9de5ff"
     },
     {
-      "key": "485e4",
-      "songName": "[Chroma] Drop The Bomb - Scotty D (Dance Dance Revolution)",
-      "hash": "c5584ad36636d3eb1894cae97a0220e917cc8727",
-      "levelid": "custom_level_c5584ad36636d3eb1894cae97a0220e917cc8727"
+      "key": "487c3",
+      "songName": "kid crying nr 2",
+      "hash": "587dc66c5533fb842260942917f6f95e7435e90b",
+      "levelid": "custom_level_587dc66c5533fb842260942917f6f95e7435e90b"
     },
     {
-      "key": "48787",
-      "songName": "Ecco2k - Hidden Track (PXE)",
-      "hash": "7f58e9eec46567fe0c2f327934eac38445585b3c",
-      "levelid": "custom_level_7f58e9eec46567fe0c2f327934eac38445585b3c"
+      "key": "487c1",
+      "songName": "Adventurer - Oil Ocean",
+      "hash": "b1d89279c8ff4555b2a62d08f1b9628722c10fe7",
+      "levelid": "custom_level_b1d89279c8ff4555b2a62d08f1b9628722c10fe7"
     },
     {
-      "key": "48786",
-      "songName": "im_naku - Stagestruck (nolanLMOA's \"Shooters in Detroit\" Bootleg)",
-      "hash": "064a13a51016c0f04e23aad4929130656acac398",
-      "levelid": "custom_level_064a13a51016c0f04e23aad4929130656acac398"
+      "key": "487c0",
+      "songName": "kid crying",
+      "hash": "9e3aa6a1ad85bba91d614607666c8f3231c0d7d6",
+      "levelid": "custom_level_9e3aa6a1ad85bba91d614607666c8f3231c0d7d6"
     },
     {
-      "key": "48785",
-      "songName": "journal - Battle for One",
-      "hash": "ab07b73663cd7445701fc5e08140d2f9abafe48e",
-      "levelid": "custom_level_ab07b73663cd7445701fc5e08140d2f9abafe48e"
+      "key": "487bf",
+      "songName": "Team Grimoire - G1ll35 d3 R415",
+      "hash": "3c2153e1f8e413bddf61bf11e08be5484b2f0e8a",
+      "levelid": "custom_level_3c2153e1f8e413bddf61bf11e08be5484b2f0e8a"
     },
     {
-      "key": "48784",
-      "songName": " Hedex & Latte - Blocks",
-      "hash": "9232429296f9a2b32417f10afef13ef9b7d78626",
-      "levelid": "custom_level_9232429296f9a2b32417f10afef13ef9b7d78626"
+      "key": "487bb",
+      "songName": "Untitled 2",
+      "hash": "25c217f0d3fa22b83c3761a6e15e4218436d6c24",
+      "levelid": "custom_level_25c217f0d3fa22b83c3761a6e15e4218436d6c24"
     },
     {
-      "key": "48780",
-      "songName": " Stereo Love - Babalos (reupload)",
-      "hash": "9201a486b99ac61ce6d5fcce51fc1c30160e1dae",
-      "levelid": "custom_level_9201a486b99ac61ce6d5fcce51fc1c30160e1dae"
+      "key": "487b9",
+      "songName": "world.execute",
+      "hash": "99db125c472f8bd935ffc584277e3cdd18320db7",
+      "levelid": "custom_level_99db125c472f8bd935ffc584277e3cdd18320db7"
     },
     {
-      "key": "4877f",
-      "songName": "Sunhiausa - Our Generation (feat. Imil) [Sunhiausa 2019 Edit]",
-      "hash": "ed45d1ec100641e82753f1fd279081620b865f18",
-      "levelid": "custom_level_ed45d1ec100641e82753f1fd279081620b865f18"
-    },
-    {
-      "key": "4877e",
-      "songName": "Confessions of a Rotten Girl",
-      "hash": "f2fd54fd4cc32ef0eea5cc13116612fa790d64a4",
-      "levelid": "custom_level_f2fd54fd4cc32ef0eea5cc13116612fa790d64a4"
-    },
-    {
-      "key": "4877d",
-      "songName": "You're a boykisser!",
-      "hash": "01bdc8b6f0a82a7577e3adb8872f7afc88b281ac",
-      "levelid": "custom_level_01bdc8b6f0a82a7577e3adb8872f7afc88b281ac"
-    },
-    {
-      "key": "48604",
-      "songName": "End of Days (Short Ver.) (アークナイツ【焔燼曙明/RISE FROM EMBER】OP) - ReoNa",
-      "hash": "d83384e4bc50c8ff08790dd374e9bddb1a4d515a",
-      "levelid": "custom_level_d83384e4bc50c8ff08790dd374e9bddb1a4d515a"
-    },
-    {
-      "key": "48778",
-      "songName": "(KAIJU NO.8) 「Invincible (from 怪獣８号)」 OneRepublic",
-      "hash": "30959b85949c229304cea40fc52e84e9dd4f929a",
-      "levelid": "custom_level_30959b85949c229304cea40fc52e84e9dd4f929a"
-    },
-    {
-      "key": "48772",
-      "songName": "got 2 b startingggg",
-      "hash": "4bc46818ceea1690cfcb0ba09317dd65ead73432",
-      "levelid": "custom_level_4bc46818ceea1690cfcb0ba09317dd65ead73432"
-    },
-    {
-      "key": "48777",
-      "songName": "Camellia-MOONSIDE (Remix)",
-      "hash": "a90b0f8af57c67eefbce34ae475ff4916b835364",
-      "levelid": "custom_level_a90b0f8af57c67eefbce34ae475ff4916b835364"
-    },
-    {
-      "key": "48776",
-      "songName": "joz - Im Just Speaking To Myself",
-      "hash": "8fdf5514287f62db0c89cb1908cabeb08af288ff",
-      "levelid": "custom_level_8fdf5514287f62db0c89cb1908cabeb08af288ff"
-    },
-    {
-      "key": "48775",
-      "songName": "The Prom",
-      "hash": "e486cb2f68677c7558c8c7794a44c53e38279942",
-      "levelid": "custom_level_e486cb2f68677c7558c8c7794a44c53e38279942"
-    },
-    {
-      "key": "48774",
-      "songName": "BABYMONSTER - HOT SAUCE",
-      "hash": "fd6bace52a83001e6c3c88e2423fb810f1ed6b97",
-      "levelid": "custom_level_fd6bace52a83001e6c3c88e2423fb810f1ed6b97"
-    },
-    {
-      "key": "48773",
-      "songName": " Kobaryo - Sparkling Software v2.0",
-      "hash": "17177b06357665d57788601a0254e212a8558db8",
-      "levelid": "custom_level_17177b06357665d57788601a0254e212a8558db8"
+      "key": "487b8",
+      "songName": "Roughsketch - 777",
+      "hash": "6aa0352f83d73b1179bca1e26031d1212b724985",
+      "levelid": "custom_level_6aa0352f83d73b1179bca1e26031d1212b724985"
     }
   ],
   "image": ""
