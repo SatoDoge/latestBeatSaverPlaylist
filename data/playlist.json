@@ -1,184 +1,232 @@
 {
-  "playlistTitle": "2025-07-10T15:18:56.806Z~2025-07-11T15:18:56.806Z",
+  "playlistTitle": "2025-07-11T15:18:48.424Z~2025-07-12T15:18:48.424Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-07-10T15:18:56.806Z and 2025-07-11T15:18:56.806Z",
+  "discripstion": "Maps published between 2025-07-11T15:18:48.424Z and 2025-07-12T15:18:48.424Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4874d",
-      "songName": "Andora - Croquis (feat. 弱酸性)",
-      "hash": "565158d6f9d0aad1fd564edd855e29ceea779957",
-      "levelid": "custom_level_565158d6f9d0aad1fd564edd855e29ceea779957"
+      "key": "4885f",
+      "songName": " Klerotte - A_Choice",
+      "hash": "886fe09dd205cb4cdc0e5afbad3f94c27dda5921",
+      "levelid": "custom_level_886fe09dd205cb4cdc0e5afbad3f94c27dda5921"
     },
     {
-      "key": "48800",
-      "songName": "I NEVER DIE",
-      "hash": "08f4f9da6763a3128eb0dafdd1c0a0e7fa00ad05",
-      "levelid": "custom_level_08f4f9da6763a3128eb0dafdd1c0a0e7fa00ad05"
+      "key": "4885d",
+      "songName": "Toby Fox - Start Menu",
+      "hash": "e8e5b8590332b848797a1219604a3ab7a43c4d85",
+      "levelid": "custom_level_e8e5b8590332b848797a1219604a3ab7a43c4d85"
     },
     {
-      "key": "477dc",
-      "songName": "VULFPECK /// 1 for 1, DiMaggio",
-      "hash": "d96182812cd6864fecf66bede34719f1f9b31121",
-      "levelid": "custom_level_d96182812cd6864fecf66bede34719f1f9b31121"
+      "key": "4885c",
+      "songName": "Take me away",
+      "hash": "5e39300605bb3b362dc0f5fb7cf749b1de0c305b",
+      "levelid": "custom_level_5e39300605bb3b362dc0f5fb7cf749b1de0c305b"
     },
     {
-      "key": "487ff",
-      "songName": "ENJOYEE! (YOUR LIFETIME)",
-      "hash": "fcb7bb9d867dfa32230575b35c8b339f54462a96",
-      "levelid": "custom_level_fcb7bb9d867dfa32230575b35c8b339f54462a96"
+      "key": "48801",
+      "songName": "Turbo Dizel (Turbo Diesel) - Boban i Marko Markovic Orkestar",
+      "hash": "26a6c7bb9c8f5caff430fcf90c3a0c50933934c3",
+      "levelid": "custom_level_26a6c7bb9c8f5caff430fcf90c3a0c50933934c3"
     },
     {
-      "key": "487fc",
-      "songName": "optimus prime shits his pants and fucking dies",
-      "hash": "d1223c550134ffb22ef23ede0c32566f3b0c000e",
-      "levelid": "custom_level_d1223c550134ffb22ef23ede0c32566f3b0c000e"
+      "key": "4885a",
+      "songName": "Napalm",
+      "hash": "d8252f3e90f40fd80871c84cd94f55c0ad0d4de9",
+      "levelid": "custom_level_d8252f3e90f40fd80871c84cd94f55c0ad0d4de9"
     },
     {
-      "key": "487f9",
-      "songName": "The bad the good the olga",
-      "hash": "91df4da397a9c892b12053f3c69fcf6d1ef182a5",
-      "levelid": "custom_level_91df4da397a9c892b12053f3c69fcf6d1ef182a5"
+      "key": "48857",
+      "songName": "Toby Fox - Once Upon a Time",
+      "hash": "d00806bd3e0a6b33035a562eaa6cb28761270862",
+      "levelid": "custom_level_d00806bd3e0a6b33035a562eaa6cb28761270862"
     },
     {
-      "key": "487f8",
-      "songName": "mr beast the raw honey consumer",
-      "hash": "a2b79880fbbb296ab45c68a6e251440d21f691c3",
-      "levelid": "custom_level_a2b79880fbbb296ab45c68a6e251440d21f691c3"
+      "key": "48856",
+      "songName": "Christof - Eviga",
+      "hash": "38c71796ccddf36bbf3f55a91b94cb10abe7a596",
+      "levelid": "custom_level_38c71796ccddf36bbf3f55a91b94cb10abe7a596"
     },
     {
-      "key": "487f6",
-      "songName": "USAO - Glaring Eyes",
-      "hash": "cc03968ac3b8d2a5c647796a45de18366130b32b",
-      "levelid": "custom_level_cc03968ac3b8d2a5c647796a45de18366130b32b"
+      "key": "4884f",
+      "songName": "OK?",
+      "hash": "8a3cbfcb1e0d030468ecc6c761ace8ee40e3b8b1",
+      "levelid": "custom_level_8a3cbfcb1e0d030468ecc6c761ace8ee40e3b8b1"
     },
     {
-      "key": "487f2",
-      "songName": "Lost Requiem",
-      "hash": "9c1cfd67725477cd75a33f3901d728669143a525",
-      "levelid": "custom_level_9c1cfd67725477cd75a33f3901d728669143a525"
+      "key": "4884e",
+      "songName": "First Death",
+      "hash": "7f65c4c279693211c892f83f8345df54bc447fb4",
+      "levelid": "custom_level_7f65c4c279693211c892f83f8345df54bc447fb4"
     },
     {
-      "key": "487bd",
-      "songName": "くうになる feat. Miku & Kafu - MIMI (2025 remap)",
-      "hash": "b90219b1e48f1fd9d4dd48f390fafe45abcf1c8a",
-      "levelid": "custom_level_b90219b1e48f1fd9d4dd48f390fafe45abcf1c8a"
+      "key": "4884d",
+      "songName": "Lonely God - Marlboro Nights",
+      "hash": "c1ab803f383795439d09bf2fd4c6de5a3c5888fe",
+      "levelid": "custom_level_c1ab803f383795439d09bf2fd4c6de5a3c5888fe"
     },
     {
-      "key": "487e1",
-      "songName": "Ed Sheeran - Don't",
-      "hash": "46421d9568c694b389aeeafaddf68a31b3aa4f98",
-      "levelid": "custom_level_46421d9568c694b389aeeafaddf68a31b3aa4f98"
+      "key": "4884a",
+      "songName": "Concert Etude - Alexander Goedicke",
+      "hash": "024a1f431e910b4ddbee315b30409386c31a0ea9",
+      "levelid": "custom_level_024a1f431e910b4ddbee315b30409386c31a0ea9"
     },
     {
-      "key": "487e0",
-      "songName": "seagull scream",
-      "hash": "1a0fc31769c9ffc43aee7d67a040ac2fbb927d01",
-      "levelid": "custom_level_1a0fc31769c9ffc43aee7d67a040ac2fbb927d01"
+      "key": "48848",
+      "songName": "Gold Dust",
+      "hash": "f0164976109ed8456dc7edcabdf999dfb4b4c071",
+      "levelid": "custom_level_f0164976109ed8456dc7edcabdf999dfb4b4c071"
     },
     {
-      "key": "487dd",
-      "songName": "KASAI HARCORES - Cycle Hit",
-      "hash": "68c9174df1d96daaad9b630ae4700c2000b2a40f",
-      "levelid": "custom_level_68c9174df1d96daaad9b630ae4700c2000b2a40f"
+      "key": "48845",
+      "songName": "Healer Girls - Feel You, Heal You (TV size) [Healer Girl OP]",
+      "hash": "fbc3928ebe3d4d20297aaa188cb11f67d07aca7f",
+      "levelid": "custom_level_fbc3928ebe3d4d20297aaa188cb11f67d07aca7f"
     },
     {
-      "key": "487dc",
-      "songName": "Battle Against a True Hero",
-      "hash": "e8631ea47529d73d7134b450c846ff69ce55e586",
-      "levelid": "custom_level_e8631ea47529d73d7134b450c846ff69ce55e586"
+      "key": "48843",
+      "songName": "Mellowcle - Mãos para cima! ~手を上げな~ / feat.初音ミク",
+      "hash": "b2c06d5a418f06e4cbd9a243360e9d1e89a14b8d",
+      "levelid": "custom_level_b2c06d5a418f06e4cbd9a243360e9d1e89a14b8d"
     },
     {
-      "key": "487d5",
-      "songName": "P*Light - Clip It Bro",
-      "hash": "d5e4231b0a864b8eddd8750eacacce10b9a33ab9",
-      "levelid": "custom_level_d5e4231b0a864b8eddd8750eacacce10b9a33ab9"
+      "key": "4883f",
+      "songName": "[Chroma] Kikuo - Ten Sho Sho Ten Sho (Extended Mix)",
+      "hash": "8c3f9d82081d579b1d6ba532df06ddca92db9548",
+      "levelid": "custom_level_8c3f9d82081d579b1d6ba532df06ddca92db9548"
     },
     {
-      "key": "487d3",
-      "songName": "_ - Kurage",
-      "hash": "2edb3d991e5c6dd8c9cb146405bc07760d60575f",
-      "levelid": "custom_level_2edb3d991e5c6dd8c9cb146405bc07760d60575f"
+      "key": "4883c",
+      "songName": "Sister Anime - Fun / Encore (DSP Parody Song, Ch'King Finals 2025)",
+      "hash": "fcbbc2ee05b102c8af234a1117e3f156b46edfaa",
+      "levelid": "custom_level_fcbbc2ee05b102c8af234a1117e3f156b46edfaa"
     },
     {
-      "key": "487cc",
-      "songName": "tiefsee but awesome",
-      "hash": "6f734049f6d4de3005b7728fcb9ec6cf97c41805",
-      "levelid": "custom_level_6f734049f6d4de3005b7728fcb9ec6cf97c41805"
+      "key": "48839",
+      "songName": "cignature - Boyfriend",
+      "hash": "a164df1b29dd200aab2296591d46a4c09dcbbd23",
+      "levelid": "custom_level_a164df1b29dd200aab2296591d46a4c09dcbbd23"
     },
     {
-      "key": "487ca",
-      "songName": "Les Rallizes Dénudés - Vallé de l'eau",
-      "hash": "02a9426f95e72d4ea3b25bf2c6d48c985db2fd2d",
-      "levelid": "custom_level_02a9426f95e72d4ea3b25bf2c6d48c985db2fd2d"
+      "key": "48838",
+      "songName": "Imogen Heap - Minds Without Fear",
+      "hash": "d36e697ae5c421c7923e3b39ff7b9278079ed1ad",
+      "levelid": "custom_level_d36e697ae5c421c7923e3b39ff7b9278079ed1ad"
     },
     {
-      "key": "487c9",
-      "songName": "Camellia - POWA OF DA WILDANES",
-      "hash": "f8791bad4369d570167ddc770e8272e57d435b02",
-      "levelid": "custom_level_f8791bad4369d570167ddc770e8272e57d435b02"
+      "key": "48837",
+      "songName": "Tital Wave",
+      "hash": "65a2e3e909335e10b05b14b1831ae68601b52e32",
+      "levelid": "custom_level_65a2e3e909335e10b05b14b1831ae68601b52e32"
     },
     {
-      "key": "487c8",
-      "songName": "TRAFIK!",
-      "hash": "5b88cc15d856355b9ce8af5a53165078ce2d598b",
-      "levelid": "custom_level_5b88cc15d856355b9ce8af5a53165078ce2d598b"
+      "key": "48835",
+      "songName": "RATS",
+      "hash": "ea0fe5cab8dd3cc411f2e090dbe8487625637856",
+      "levelid": "custom_level_ea0fe5cab8dd3cc411f2e090dbe8487625637856"
     },
     {
-      "key": "487c6",
-      "songName": "continent song",
-      "hash": "c38f8bd769927d82f39831b1384172318a579b60",
-      "levelid": "custom_level_c38f8bd769927d82f39831b1384172318a579b60"
+      "key": "484b1",
+      "songName": "One Of My Bedbugs Ate My Pus*y - Cupcakke",
+      "hash": "ee0f652416f326315a14dc93e2a3a7cbba16a33d",
+      "levelid": "custom_level_ee0f652416f326315a14dc93e2a3a7cbba16a33d"
     },
     {
-      "key": "487c5",
-      "songName": "Bang Bang",
-      "hash": "1087809d06f02b77c31a53cbb6873d8eba9de5ff",
-      "levelid": "custom_level_1087809d06f02b77c31a53cbb6873d8eba9de5ff"
+      "key": "48831",
+      "songName": "FORSAKEN OST - NULL_AND_VOID",
+      "hash": "2b0a5fe0d1e1b26f5e8cb3f90259e14c509de372",
+      "levelid": "custom_level_2b0a5fe0d1e1b26f5e8cb3f90259e14c509de372"
     },
     {
-      "key": "487c3",
-      "songName": "kid crying nr 2",
-      "hash": "587dc66c5533fb842260942917f6f95e7435e90b",
-      "levelid": "custom_level_587dc66c5533fb842260942917f6f95e7435e90b"
+      "key": "4882f",
+      "songName": "Fer de Lance for Some High Romance",
+      "hash": "69eeb72538e21d2124cfe9a467527cf270d79625",
+      "levelid": "custom_level_69eeb72538e21d2124cfe9a467527cf270d79625"
     },
     {
-      "key": "487c1",
-      "songName": "Adventurer - Oil Ocean",
-      "hash": "b1d89279c8ff4555b2a62d08f1b9628722c10fe7",
-      "levelid": "custom_level_b1d89279c8ff4555b2a62d08f1b9628722c10fe7"
+      "key": "4882e",
+      "songName": "Golden",
+      "hash": "d463373c0262d41356f5ed2e5f9012c0f835d33b",
+      "levelid": "custom_level_d463373c0262d41356f5ed2e5f9012c0f835d33b"
     },
     {
-      "key": "487c0",
-      "songName": "kid crying",
-      "hash": "9e3aa6a1ad85bba91d614607666c8f3231c0d7d6",
-      "levelid": "custom_level_9e3aa6a1ad85bba91d614607666c8f3231c0d7d6"
+      "key": "4882d",
+      "songName": "Squidward Yell",
+      "hash": "3d6626c81723ac2dda0f2f86ff82c4ffb0802203",
+      "levelid": "custom_level_3d6626c81723ac2dda0f2f86ff82c4ffb0802203"
     },
     {
-      "key": "487bf",
-      "songName": "Team Grimoire - G1ll35 d3 R415",
-      "hash": "3c2153e1f8e413bddf61bf11e08be5484b2f0e8a",
-      "levelid": "custom_level_3c2153e1f8e413bddf61bf11e08be5484b2f0e8a"
+      "key": "48821",
+      "songName": "QWER - T.B.H (고민중독)",
+      "hash": "6ec8cd3a0e7ba222b6dd4f1716c99b654ce28e47",
+      "levelid": "custom_level_6ec8cd3a0e7ba222b6dd4f1716c99b654ce28e47"
     },
     {
-      "key": "487bb",
-      "songName": "Untitled 2",
-      "hash": "25c217f0d3fa22b83c3761a6e15e4218436d6c24",
-      "levelid": "custom_level_25c217f0d3fa22b83c3761a6e15e4218436d6c24"
+      "key": "4882c",
+      "songName": "Never Turn Away",
+      "hash": "e660cfc6e6726d8fb643546a93027dad8874b318",
+      "levelid": "custom_level_e660cfc6e6726d8fb643546a93027dad8874b318"
     },
     {
-      "key": "487b9",
-      "songName": "world.execute",
-      "hash": "99db125c472f8bd935ffc584277e3cdd18320db7",
-      "levelid": "custom_level_99db125c472f8bd935ffc584277e3cdd18320db7"
+      "key": "4882b",
+      "songName": "turiri turiri turiri pipi pipi pipi",
+      "hash": "1c22f93dfb341bc474f876c869dc47f077ab4a6a",
+      "levelid": "custom_level_1c22f93dfb341bc474f876c869dc47f077ab4a6a"
     },
     {
-      "key": "487b8",
-      "songName": "Roughsketch - 777",
-      "hash": "6aa0352f83d73b1179bca1e26031d1212b724985",
-      "levelid": "custom_level_6aa0352f83d73b1179bca1e26031d1212b724985"
+      "key": "48824",
+      "songName": "Kolajo - Style Bait",
+      "hash": "84eb033f907d8b76601eb909b23ce383f83caa3e",
+      "levelid": "custom_level_84eb033f907d8b76601eb909b23ce383f83caa3e"
+    },
+    {
+      "key": "48825",
+      "songName": "If know you know if you don't you don't",
+      "hash": "87524cb635b2cd72e86d51b394d54d290cbfd569",
+      "levelid": "custom_level_87524cb635b2cd72e86d51b394d54d290cbfd569"
+    },
+    {
+      "key": "48823",
+      "songName": "[BSWC israel warmup] Hava Nagila ",
+      "hash": "d6be7ab02dbf0ff6e76a4d1f917684f6c7d271df",
+      "levelid": "custom_level_d6be7ab02dbf0ff6e76a4d1f917684f6c7d271df"
+    },
+    {
+      "key": "48820",
+      "songName": "Gimpson - JP Armia Diss",
+      "hash": "ee776da652b69302fc0a208296b8a58f8cbf079a",
+      "levelid": "custom_level_ee776da652b69302fc0a208296b8a58f8cbf079a"
+    },
+    {
+      "key": "487ba",
+      "songName": "[FRACTURE]001",
+      "hash": "7625382072407b52fda1a6ed45f0ffc6bab615de",
+      "levelid": "custom_level_7625382072407b52fda1a6ed45f0ffc6bab615de"
+    },
+    {
+      "key": "4881f",
+      "songName": "Static - Flavor Foley",
+      "hash": "3bdda249d7476bc15c26bde7f49b1e72823ef049",
+      "levelid": "custom_level_3bdda249d7476bc15c26bde7f49b1e72823ef049"
+    },
+    {
+      "key": "4881c",
+      "songName": "Evil Earthquake",
+      "hash": "18b2be26c0421aa2d05d7ebb5ff87068d5b54ede",
+      "levelid": "custom_level_18b2be26c0421aa2d05d7ebb5ff87068d5b54ede"
+    },
+    {
+      "key": "4807e",
+      "songName": "ROAR - Christmas Kids",
+      "hash": "143f261fa77df02b26a3bde9afd44f5f2f8e03c4",
+      "levelid": "custom_level_143f261fa77df02b26a3bde9afd44f5f2f8e03c4"
+    },
+    {
+      "key": "4880d",
+      "songName": "Hallelujah - Rufus Wainwright ",
+      "hash": "ba99cf2cf360bd5681d63cd79ffc0f2af79206f9",
+      "levelid": "custom_level_ba99cf2cf360bd5681d63cd79ffc0f2af79206f9"
     }
   ],
   "image": ""
