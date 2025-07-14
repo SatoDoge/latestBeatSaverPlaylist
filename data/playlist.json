@@ -1,364 +1,400 @@
 {
-  "playlistTitle": "2025-07-12T15:18:48.840Z~2025-07-13T15:18:48.840Z",
+  "playlistTitle": "2025-07-13T15:18:48.483Z~2025-07-14T15:18:48.483Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-07-12T15:18:48.840Z and 2025-07-13T15:18:48.840Z",
+  "discripstion": "Maps published between 2025-07-13T15:18:48.483Z and 2025-07-14T15:18:48.483Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "488d7",
-      "songName": "如约而至-许嵩",
-      "hash": "8b2802e9e4d39fc2eceb22dce68d36b64f88799c",
-      "levelid": "custom_level_8b2802e9e4d39fc2eceb22dce68d36b64f88799c"
+      "key": "4894f",
+      "songName": "[Super ONGEKI Music Pack] Splash Dance (2025 version)",
+      "hash": "b406e952f66c71b2a922d63fa11fefd62a461167",
+      "levelid": "custom_level_b406e952f66c71b2a922d63fa11fefd62a461167"
     },
     {
-      "key": "488d6",
-      "songName": "The Way",
-      "hash": "625d4e7a2d088d3628ec0e22019d86af39c3b196",
-      "levelid": "custom_level_625d4e7a2d088d3628ec0e22019d86af39c3b196"
+      "key": "4894e",
+      "songName": "The Gauntlet",
+      "hash": "4f011753b5b56f5bdf5498ad4f2c12355b1bd66a",
+      "levelid": "custom_level_4f011753b5b56f5bdf5498ad4f2c12355b1bd66a"
     },
     {
-      "key": "488cf",
-      "songName": "Check Yes, Juliet",
-      "hash": "d9ad3d97ad07480e48f5d26533ddf5634b3bbf0c",
-      "levelid": "custom_level_d9ad3d97ad07480e48f5d26533ddf5634b3bbf0c"
+      "key": "4894c",
+      "songName": "7038634357 - Like a Stone",
+      "hash": "02373bcc521b209d1b38363c62e679255863b013",
+      "levelid": "custom_level_02373bcc521b209d1b38363c62e679255863b013"
     },
     {
-      "key": "488d1",
-      "songName": "Toby Fox - Uwa!! So Holiday",
-      "hash": "4fd0fecced8e77021d0e8caa635c6f3c821053ca",
-      "levelid": "custom_level_4fd0fecced8e77021d0e8caa635c6f3c821053ca"
+      "key": "4894b",
+      "songName": "I Love My Sex - Benny Benassi",
+      "hash": "3aee2da6882161528547b040fc522de3694e0896",
+      "levelid": "custom_level_3aee2da6882161528547b040fc522de3694e0896"
     },
     {
-      "key": "488d0",
-      "songName": "Yume ha Majolica Señorita",
-      "hash": "797fc211eb6c3401d3e2ed64d40beb6b4dd214d6",
-      "levelid": "custom_level_797fc211eb6c3401d3e2ed64d40beb6b4dd214d6"
+      "key": "48949",
+      "songName": "Hard Kicks - Dr Donk, Reflexx",
+      "hash": "12ae7215b2d0bcaa43c028d96a224666320b4bb1",
+      "levelid": "custom_level_12ae7215b2d0bcaa43c028d96a224666320b4bb1"
     },
     {
-      "key": "488cd",
-      "songName": "ILLIT - 밤소풍",
-      "hash": "acac18f533c10d5d276dbe6d30840e927394888b",
-      "levelid": "custom_level_acac18f533c10d5d276dbe6d30840e927394888b"
+      "key": "48948",
+      "songName": "Travis Scott & Kid Cud - THE SCOTTS",
+      "hash": "0c55372f86e20d23ae4e4f20fafad9d52f85ea16",
+      "levelid": "custom_level_0c55372f86e20d23ae4e4f20fafad9d52f85ea16"
     },
     {
-      "key": "488cc",
-      "songName": "The Blinxaps Disstrack (Birthday Edtion 2)",
-      "hash": "a858ddd3a0addbcc1c75b4a5808853ea6ebdb762",
-      "levelid": "custom_level_a858ddd3a0addbcc1c75b4a5808853ea6ebdb762"
+      "key": "48947",
+      "songName": "MEMNAYA PAPKA, Ksenon, Бемон, osobenniy, SLXW feat. Uker - 3000$ (DnB Remix by slxwbeatz)",
+      "hash": "d94424729bda0ef427a7994927e52d968b6ea3d0",
+      "levelid": "custom_level_d94424729bda0ef427a7994927e52d968b6ea3d0"
     },
     {
-      "key": "425d8",
-      "songName": "Laur - Executioner [Rhythm LAN 2025 Tiebreaker]",
-      "hash": "3ab7103c99896aba28115fb09068b4846ac7e205",
-      "levelid": "custom_level_3ab7103c99896aba28115fb09068b4846ac7e205"
+      "key": "48946",
+      "songName": " Kobaryo - Cosmic Diffusion",
+      "hash": "6db529f99e3bfed29a8e185052b0a7a76c217688",
+      "levelid": "custom_level_6db529f99e3bfed29a8e185052b0a7a76c217688"
     },
     {
-      "key": "488cb",
-      "songName": "7038634357 - Shipwrecked",
-      "hash": "ba8a62b3d05ead76a792334ce5f67ebc7774253e",
-      "levelid": "custom_level_ba8a62b3d05ead76a792334ce5f67ebc7774253e"
+      "key": "487cd",
+      "songName": "[BSWC 2025] Figue Folle - Igorrr & Ruby My Dear",
+      "hash": "9473d122902eb76e7a1b090f5a9786a9dfa42736",
+      "levelid": "custom_level_9473d122902eb76e7a1b090f5a9786a9dfa42736"
     },
     {
-      "key": "488c9",
-      "songName": "月紅（Gekko）- Daito Music",
-      "hash": "77bbe72f3815713bbc8cb520aa410207de81c600",
-      "levelid": "custom_level_77bbe72f3815713bbc8cb520aa410207de81c600"
+      "key": "48753",
+      "songName": "M-Project - Party Girl",
+      "hash": "34559ae8d11ef709884c0defe84f40cbd29dfce6",
+      "levelid": "custom_level_34559ae8d11ef709884c0defe84f40cbd29dfce6"
     },
     {
-      "key": "488c4",
-      "songName": "Cosmograph Feat. Corbin - Absolute Maker",
-      "hash": "346bd7a747d9020035847ca6db5c969bba9d2f0a",
-      "levelid": "custom_level_346bd7a747d9020035847ca6db5c969bba9d2f0a"
+      "key": "42690",
+      "songName": "Holy Knight [Beat Saber World Cup 2025]",
+      "hash": "6bb8c8d7f2f5bba6827cc0d0f0c8397777fa888a",
+      "levelid": "custom_level_6bb8c8d7f2f5bba6827cc0d0f0c8397777fa888a"
     },
     {
-      "key": "488c3",
-      "songName": "Asgore runs over Dess with lyrics",
-      "hash": "8402d6f0fec5d5fcce6ab0ab4e81ce937ab3f4d4",
-      "levelid": "custom_level_8402d6f0fec5d5fcce6ab0ab4e81ce937ab3f4d4"
+      "key": "46880",
+      "songName": "[BSWC 2025] Laur - Party People",
+      "hash": "0b06b579f512c547ef57dfe7bb17740430a81107",
+      "levelid": "custom_level_0b06b579f512c547ef57dfe7bb17740430a81107"
     },
     {
-      "key": "488c1",
-      "songName": "Fur:trash - Parasite",
-      "hash": "a390e8267b58bf957e62b02967502515e84748b9",
-      "levelid": "custom_level_a390e8267b58bf957e62b02967502515e84748b9"
+      "key": "46657",
+      "songName": "[BSWC 2025] AJR - Let the Games Begin [V3]",
+      "hash": "4b5890ee41b74571237b568d204acd87c97c6915",
+      "levelid": "custom_level_4b5890ee41b74571237b568d204acd87c97c6915"
     },
     {
-      "key": "488c0",
-      "songName": "Nami to nagi no hasama de",
-      "hash": "47a1aff50c0f0a976ae6fb9ef84d773ef382160b",
-      "levelid": "custom_level_47a1aff50c0f0a976ae6fb9ef84d773ef382160b"
+      "key": "48945",
+      "songName": "the prom",
+      "hash": "b16cf5fd79433e9065a6f4c88f39c1901512eac4",
+      "levelid": "custom_level_b16cf5fd79433e9065a6f4c88f39c1901512eac4"
     },
     {
-      "key": "488bf",
-      "songName": "Hatatagami Software - Kou! & KASOKUKI:Collective",
-      "hash": "28c0e358bd03a04e42de2ba88f6a4938b916b030",
-      "levelid": "custom_level_28c0e358bd03a04e42de2ba88f6a4938b916b030"
+      "key": "48940",
+      "songName": "Retribution",
+      "hash": "8e2ac1e6b27a7c8b0283e6733ce9440a7524fcd3",
+      "levelid": "custom_level_8e2ac1e6b27a7c8b0283e6733ce9440a7524fcd3"
     },
     {
-      "key": "488be",
-      "songName": "Planecrash - GARNISH",
-      "hash": "16ce1ce1aa974f645b2ef380f3a87d7abd4dbadf",
-      "levelid": "custom_level_16ce1ce1aa974f645b2ef380f3a87d7abd4dbadf"
+      "key": "4893f",
+      "songName": "I'm Gonna Come - Wurne",
+      "hash": "30dca623b683f9a010bcc0dd703b0f67e525a646",
+      "levelid": "custom_level_30dca623b683f9a010bcc0dd703b0f67e525a646"
     },
     {
-      "key": "488bc",
-      "songName": "Breakcore WTF!? (xxxlolxxx Paranoid Bootleg)",
-      "hash": "b639534d6976bf7fb499133c2d8d54e5a2bdbe0c",
-      "levelid": "custom_level_b639534d6976bf7fb499133c2d8d54e5a2bdbe0c"
+      "key": "4893e",
+      "songName": "Nobody's Fault / Accept My Own",
+      "hash": "4a99810e686fd26e15627e40d2078b3cf48018b3",
+      "levelid": "custom_level_4a99810e686fd26e15627e40d2078b3cf48018b3"
     },
     {
-      "key": "488bb",
-      "songName": "neji117jr core (season 1 episode 1",
-      "hash": "cf1f44abe1dcfd48976997145d71a4d7d07be9c3",
-      "levelid": "custom_level_cf1f44abe1dcfd48976997145d71a4d7d07be9c3"
+      "key": "4893d",
+      "songName": "Laur - Dangerous Slot",
+      "hash": "3bc42d92d3e8ad53b26f24e4df0f4bcb6bee8776",
+      "levelid": "custom_level_3bc42d92d3e8ad53b26f24e4df0f4bcb6bee8776"
     },
     {
-      "key": "488b9",
-      "songName": "Yellow tape",
-      "hash": "d8ec23836202587d99dff9a72ff1b40dbc5ea476",
-      "levelid": "custom_level_d8ec23836202587d99dff9a72ff1b40dbc5ea476"
+      "key": "4893b",
+      "songName": "403-Southern Cross",
+      "hash": "492f7e03b320a14a3d487ab13aa23b1c74d5a627",
+      "levelid": "custom_level_492f7e03b320a14a3d487ab13aa23b1c74d5a627"
     },
     {
-      "key": "488b8",
-      "songName": "Odetari - YOU'RE TOO SLOW",
-      "hash": "e40e31ef04a22007b06720630b8cd4b78f47db5f",
-      "levelid": "custom_level_e40e31ef04a22007b06720630b8cd4b78f47db5f"
+      "key": "48851",
+      "songName": "Thunderstruck - AC/DC",
+      "hash": "2a9bdb26d6e4c9e935d067a727be3a32f5e0cce8",
+      "levelid": "custom_level_2a9bdb26d6e4c9e935d067a727be3a32f5e0cce8"
     },
     {
-      "key": "488b7",
-      "songName": "niKu - チャイホ",
-      "hash": "278a63908e1b03ae4b094127e065da6dba52c87c",
-      "levelid": "custom_level_278a63908e1b03ae4b094127e065da6dba52c87c"
+      "key": "4893a",
+      "songName": "WORLD ABLAZE",
+      "hash": "0ab371908d1bd37225ce1618dd8131ee2b87262f",
+      "levelid": "custom_level_0ab371908d1bd37225ce1618dd8131ee2b87262f"
     },
     {
-      "key": "488b6",
-      "songName": "On The Way by AiNA THE END",
-      "hash": "29711984f506fe7e9207d727c0ecad5f727506d3",
-      "levelid": "custom_level_29711984f506fe7e9207d727c0ecad5f727506d3"
+      "key": "48938",
+      "songName": "kuro - a truth seeker -Communication with Utopia will be lost-",
+      "hash": "90aa5f8bb51c722b4c3e6f641e23606151f40f34",
+      "levelid": "custom_level_90aa5f8bb51c722b4c3e6f641e23606151f40f34"
     },
     {
-      "key": "488b4",
-      "songName": "Disco Fries - U Make Me (Asketa & Natan Chaim Remix)",
-      "hash": "e4dabf95fb9a5bb2b4e140886efcafd9ca919c6a",
-      "levelid": "custom_level_e4dabf95fb9a5bb2b4e140886efcafd9ca919c6a"
+      "key": "48936",
+      "songName": "[V3] On The Way (TV Size) [Dandadan Season 2 Opening] - AiNA",
+      "hash": "26f8f0871207433cbb4a4fbc59c7997a73c40d8a",
+      "levelid": "custom_level_26f8f0871207433cbb4a4fbc59c7997a73c40d8a"
     },
     {
-      "key": "488b3",
-      "songName": "OBLITERATE",
-      "hash": "8b69bcd2ccec89d686ce6f23b3fd5d7b5e31afbf",
-      "levelid": "custom_level_8b69bcd2ccec89d686ce6f23b3fd5d7b5e31afbf"
+      "key": "48937",
+      "songName": "im so crazy for you </3",
+      "hash": "43670b315ce49401a118519c14dba8824329c086",
+      "levelid": "custom_level_43670b315ce49401a118519c14dba8824329c086"
     },
     {
-      "key": "488ae",
-      "songName": "Mou Ii Kai?",
-      "hash": "fa255286b2d7d5428312af38583ebf64a998beb1",
-      "levelid": "custom_level_fa255286b2d7d5428312af38583ebf64a998beb1"
+      "key": "48933",
+      "songName": "Frederik - Ladyboy",
+      "hash": "e1ebf8fc98318dd9d03784acc5e5dca78304b8d1",
+      "levelid": "custom_level_e1ebf8fc98318dd9d03784acc5e5dca78304b8d1"
     },
     {
-      "key": "48868",
-      "songName": "汐れいら -「味噌汁とバター」アニメ(日々は過ぎれど飯うまし)",
-      "hash": "392f983ad59c13273e9bb90a7d8933161531c3b3",
-      "levelid": "custom_level_392f983ad59c13273e9bb90a7d8933161531c3b3"
+      "key": "48931",
+      "songName": "Heart - LVNX",
+      "hash": "dfa0ae464bad3a949d2a5e04f7213f63ba516c7a",
+      "levelid": "custom_level_dfa0ae464bad3a949d2a5e04f7213f63ba516c7a"
     },
     {
-      "key": "488aa",
-      "songName": "Power Of The Saber Blade (buffed)",
-      "hash": "479d11c28dd8ac692f30fd238a7b4a696a6a53f6",
-      "levelid": "custom_level_479d11c28dd8ac692f30fd238a7b4a696a6a53f6"
+      "key": "4892f",
+      "songName": "Connie Franic ( House of paper remix) - Pretty Little Baby",
+      "hash": "ce794908f23a5d05e9636b46df0f630a711d25dd",
+      "levelid": "custom_level_ce794908f23a5d05e9636b46df0f630a711d25dd"
     },
     {
-      "key": "488a9",
-      "songName": "tidal wave",
-      "hash": "e59d6ca88258bff136671a092ba2946b80a50f56",
-      "levelid": "custom_level_e59d6ca88258bff136671a092ba2946b80a50f56"
+      "key": "4892e",
+      "songName": "FLO - In My Bag (No Rap Verse)",
+      "hash": "12a1c39540e9f4ca9567e952952e5bf1e5750cf0",
+      "levelid": "custom_level_12a1c39540e9f4ca9567e952952e5bf1e5750cf0"
     },
     {
-      "key": "488a5",
-      "songName": "HAPPY SONG- RAY VOLPE",
-      "hash": "8530d3223fb47d89cc836d195235f3abfefb99ad",
-      "levelid": "custom_level_8530d3223fb47d89cc836d195235f3abfefb99ad"
+      "key": "48916",
+      "songName": "eastin roar",
+      "hash": "2d05c83d6db0b0a2ae2758d942b149abb54e79cc",
+      "levelid": "custom_level_2d05c83d6db0b0a2ae2758d942b149abb54e79cc"
     },
     {
-      "key": "488a4",
-      "songName": "salvia palth - i was all over her",
-      "hash": "55cfaa0e0e4c5d1beb0f4848cfdeb90a602ebcc8",
-      "levelid": "custom_level_55cfaa0e0e4c5d1beb0f4848cfdeb90a602ebcc8"
+      "key": "48913",
+      "songName": "gladde paling - boodschap!!",
+      "hash": "26780018a707132c7f4003816216050765b26284",
+      "levelid": "custom_level_26780018a707132c7f4003816216050765b26284"
     },
     {
-      "key": "488a0",
-      "songName": "||Where?||",
-      "hash": "8914b175aa2d50bcf189859aa15a4e894ccc578c",
-      "levelid": "custom_level_8914b175aa2d50bcf189859aa15a4e894ccc578c"
+      "key": "48912",
+      "songName": "[Fitbeat] bbno$ - 1-800 (ft. ironmouse)",
+      "hash": "26c247f0f0b0c735f8838b0a2fa248a6f294fa6e",
+      "levelid": "custom_level_26c247f0f0b0c735f8838b0a2fa248a6f294fa6e"
     },
     {
-      "key": "4889e",
-      "songName": "Boots and Blush",
-      "hash": "f70d96e5e3151d417cd558a6eb2a377023710b50",
-      "levelid": "custom_level_f70d96e5e3151d417cd558a6eb2a377023710b50"
+      "key": "48910",
+      "songName": "Sunrise over Snaktooth Island",
+      "hash": "dc2eae42146687490478f489f9bfe8f163f60a25",
+      "levelid": "custom_level_dc2eae42146687490478f489f9bfe8f163f60a25"
     },
     {
-      "key": "4886f",
-      "songName": "PinkPantheress - Illegal",
-      "hash": "4b12ac940c9f90b03a6899fd315139a4c26eb051",
-      "levelid": "custom_level_4b12ac940c9f90b03a6899fd315139a4c26eb051"
+      "key": "48907",
+      "songName": "Ylvis - The Fox (What Does The Fox Say?)",
+      "hash": "90de2d20079e8946a2b2947d9ed43dac58eb2eed",
+      "levelid": "custom_level_90de2d20079e8946a2b2947d9ed43dac58eb2eed"
     },
     {
-      "key": "4889d",
-      "songName": "banana tragedy",
-      "hash": "a4c79d7f74584fc40f083c802876b221fd63df78",
-      "levelid": "custom_level_a4c79d7f74584fc40f083c802876b221fd63df78"
+      "key": "48903",
+      "songName": "Chinese gong",
+      "hash": "80baaa97cbb1c94a94ed2a5070dbc50f22c27d1b",
+      "levelid": "custom_level_80baaa97cbb1c94a94ed2a5070dbc50f22c27d1b"
     },
     {
-      "key": "48898",
-      "songName": "Connor Spiotto, Molly Pease - The Villain I Appear to Be",
-      "hash": "16f03da8f07e4a4a4a9a4d286b11bda042b652de",
-      "levelid": "custom_level_16f03da8f07e4a4a4a9a4d286b11bda042b652de"
+      "key": "48901",
+      "songName": "Various Artists - Field Battle (Zelda: Breath of the Wild)",
+      "hash": "b137e106e2b7c2e23e6e39d6e7aeef4c9afacc7a",
+      "levelid": "custom_level_b137e106e2b7c2e23e6e39d6e7aeef4c9afacc7a"
     },
     {
-      "key": "48897",
-      "songName": "iKON - LOVE SCENARIO",
-      "hash": "4033ce4b6c8398f0a0f89ab7812b52e516876e22",
-      "levelid": "custom_level_4033ce4b6c8398f0a0f89ab7812b52e516876e22"
+      "key": "488fd",
+      "songName": "Tiktok compilation part 3",
+      "hash": "61a3e7b348c08f29a0f511840bffa833eba5f411",
+      "levelid": "custom_level_61a3e7b348c08f29a0f511840bffa833eba5f411"
     },
     {
-      "key": "48893",
-      "songName": "Gnarly x Gangnam Style",
-      "hash": "f29d2fd2adb044d6f218c8fa2bfc2843e2fb4cd8",
-      "levelid": "custom_level_f29d2fd2adb044d6f218c8fa2bfc2843e2fb4cd8"
+      "key": "488fb",
+      "songName": "Odetari - HYPNOTIC DATA V3",
+      "hash": "3a21e272234720573e639bbf02f2c67b52e44bcd",
+      "levelid": "custom_level_3a21e272234720573e639bbf02f2c67b52e44bcd"
     },
     {
-      "key": "48891",
-      "songName": "XBXRX - Comfort",
-      "hash": "c68bab28f94008d45374aecf3a14c89178a24b89",
-      "levelid": "custom_level_c68bab28f94008d45374aecf3a14c89178a24b89"
+      "key": "488fc",
+      "songName": "REVERSE - Upside Down",
+      "hash": "f5d20d0634564036715f7d11326e20c11a010218",
+      "levelid": "custom_level_f5d20d0634564036715f7d11326e20c11a010218"
     },
     {
-      "key": "4888e",
-      "songName": "Tiktok Compilation Part two",
-      "hash": "1c9f4c2e50f8ffd51f82db2bd7fe5d16900b9868",
-      "levelid": "custom_level_1c9f4c2e50f8ffd51f82db2bd7fe5d16900b9868"
+      "key": "488fa",
+      "songName": "Laur- Symphony Op.1 -CHAOS-",
+      "hash": "89b93a5177eb056e1915c82410e218dd94db703f",
+      "levelid": "custom_level_89b93a5177eb056e1915c82410e218dd94db703f"
     },
     {
-      "key": "4888c",
-      "songName": "wasted",
-      "hash": "befeb6b45c46717ae4b3527c0e42e2e9c06eec36",
-      "levelid": "custom_level_befeb6b45c46717ae4b3527c0e42e2e9c06eec36"
+      "key": "488f9",
+      "songName": "Spellbound - Dirty palm, Bad Reputation",
+      "hash": "936b24c79c1e1bb61d5c1bca1c752240acd0159d",
+      "levelid": "custom_level_936b24c79c1e1bb61d5c1bca1c752240acd0159d"
     },
     {
-      "key": "48885",
-      "songName": "Paranoid",
-      "hash": "6adfdb6ace4fa951ceea106884f6e722057b7fd3",
-      "levelid": "custom_level_6adfdb6ace4fa951ceea106884f6e722057b7fd3"
+      "key": "488f7",
+      "songName": "MrKoolTrix - Ring-A-Ding!",
+      "hash": "2a2a137aea7723946cfdd24b52d337dea503c10c",
+      "levelid": "custom_level_2a2a137aea7723946cfdd24b52d337dea503c10c"
     },
     {
-      "key": "48884",
-      "songName": "Asgore Drunk Driving",
-      "hash": "c9d0e8c8f5c985445cb62c2f9fe3b5bb6671dc08",
-      "levelid": "custom_level_c9d0e8c8f5c985445cb62c2f9fe3b5bb6671dc08"
+      "key": "487d6",
+      "songName": "[BSWC 2025] Jenna Davis - FBI",
+      "hash": "9ca2b38adffc65cc1f47ff358662482af11e76f1",
+      "levelid": "custom_level_9ca2b38adffc65cc1f47ff358662482af11e76f1"
     },
     {
-      "key": "48883",
-      "songName": "Origami Angel - Dr. Fondoom",
-      "hash": "91fb6bfdf80b29b994272a7301a6b5d99aad0ba6",
-      "levelid": "custom_level_91fb6bfdf80b29b994272a7301a6b5d99aad0ba6"
+      "key": "488f6",
+      "songName": "QUATTUORUX",
+      "hash": "709e6250951fa7b1c09a66821db5ee7bfc5f3a36",
+      "levelid": "custom_level_709e6250951fa7b1c09a66821db5ee7bfc5f3a36"
     },
     {
-      "key": "4887f",
-      "songName": "Nick & Simon - Te Jong [Koelka Frenchcore Remix]",
-      "hash": "5e876166f6fecc201f85d2460f20c1c5e287c4d0",
-      "levelid": "custom_level_5e876166f6fecc201f85d2460f20c1c5e287c4d0"
+      "key": "488f5",
+      "songName": "Target Flight - HAL Laboratory [Kirby Air Ride]",
+      "hash": "7159945e379ad9fe57cd2bfdc79cb3ecb60fdf2c",
+      "levelid": "custom_level_7159945e379ad9fe57cd2bfdc79cb3ecb60fdf2c"
     },
     {
-      "key": "48880",
-      "songName": "Atlas, Rise!",
-      "hash": "01cdbbdfbbc386e6a4343f69d4af24f98fad42cb",
-      "levelid": "custom_level_01cdbbdfbbc386e6a4343f69d4af24f98fad42cb"
+      "key": "488f4",
+      "songName": "Air Glider - HAL Laboratory [Kirby Air Ride]",
+      "hash": "209dc085ad038be062b369fc333be573881cbe83",
+      "levelid": "custom_level_209dc085ad038be062b369fc333be573881cbe83"
     },
     {
-      "key": "4887c",
-      "songName": "The Chattering Lack of Common Sense - GHOST",
-      "hash": "7651c3df8ed9a214f0b047c55eed61f39983c0b5",
-      "levelid": "custom_level_7651c3df8ed9a214f0b047c55eed61f39983c0b5"
+      "key": "488f3",
+      "songName": "Drag Race - HAL Laboratory [Kirby Air Ride]",
+      "hash": "7fd812809450b1d09578dcdc0e7aa63c32262313",
+      "levelid": "custom_level_7fd812809450b1d09578dcdc0e7aa63c32262313"
     },
     {
-      "key": "4887e",
-      "songName": "Ayuri - Sovereign Of The Scarlet Veil",
-      "hash": "93a95a6f35cd1d80a068b08310e64b727dd69701",
-      "levelid": "custom_level_93a95a6f35cd1d80a068b08310e64b727dd69701"
+      "key": "488f2",
+      "songName": "Properties Graph(Short Ver.) - HAL Laboratory [Kirby Air Ride]",
+      "hash": "1e1c04d1e85f043e0892677160c8bbac7dde32d9",
+      "levelid": "custom_level_1e1c04d1e85f043e0892677160c8bbac7dde32d9"
     },
     {
-      "key": "4887d",
-      "songName": "Kill Eva, ENCASSATOR - Psycho Dreams [Hardstyle Sped Up Remix]",
-      "hash": "c9e68051ba2f04119356f4e5fcd1c66b5929edbc",
-      "levelid": "custom_level_c9e68051ba2f04119356f4e5fcd1c66b5929edbc"
+      "key": "488ed",
+      "songName": "Legendary Air Ride Machine - HAL Laboratory [Kirby Air Ride] [Poodles]",
+      "hash": "0c67f87f24a8597b758e8097a6b26a5ab820e78b",
+      "levelid": "custom_level_0c67f87f24a8597b758e8097a6b26a5ab820e78b"
     },
     {
-      "key": "4887b",
-      "songName": "Lynzz - MOVEMENT",
-      "hash": "49bc5c1e5f5d1bb52978f629543b17f63e3ffc06",
-      "levelid": "custom_level_49bc5c1e5f5d1bb52978f629543b17f63e3ffc06"
+      "key": "488ec",
+      "songName": "Item Bounce - HAL Laboratory [Kirby Air Ride]",
+      "hash": "d1b897e16ef8cd9d305fa6ac6c1cb36d8afe4ec4",
+      "levelid": "custom_level_d1b897e16ef8cd9d305fa6ac6c1cb36d8afe4ec4"
     },
     {
-      "key": "4887a",
-      "songName": "Victoria Justice and Elizabeth Gillies - Take a Hint [Nightcore cut ver.]",
-      "hash": "c93129af909f8133b6c8874bcb03d49f91f2ff2b",
-      "levelid": "custom_level_c93129af909f8133b6c8874bcb03d49f91f2ff2b"
+      "key": "488eb",
+      "songName": "Rowdy Charge Tank - HAL Laboratory [Kirby Air Ride]",
+      "hash": "ce8ed3b4812c536238651ac315ed8aaae39d1718",
+      "levelid": "custom_level_ce8ed3b4812c536238651ac315ed8aaae39d1718"
     },
     {
-      "key": "48879",
-      "songName": "Tropey McTropeFace - Phineas and Ferb",
-      "hash": "b9b8b74b494ef485dd7206372dda6c0ec7c18510",
-      "levelid": "custom_level_b9b8b74b494ef485dd7206372dda6c0ec7c18510"
+      "key": "488ea",
+      "songName": "The Lighthouse Light Burns - Akira Miyagawa [Kirby Air Ride]",
+      "hash": "3dae1960019b886cbbccc46d75523cb671e77fa3",
+      "levelid": "custom_level_3dae1960019b886cbbccc46d75523cb671e77fa3"
     },
     {
-      "key": "48878",
-      "songName": "No One Understands Me - Phineas and Ferb",
-      "hash": "a50805411435e0d18ae53adb3c0f10807e1bf3b0",
-      "levelid": "custom_level_a50805411435e0d18ae53adb3c0f10807e1bf3b0"
+      "key": "488e9",
+      "songName": "What's in the Box - Akira Miyagawa [Kirby Air Ride]",
+      "hash": "13723e6c62286d01ff2ee0935421ad763ec1976d",
+      "levelid": "custom_level_13723e6c62286d01ff2ee0935421ad763ec1976d"
     },
     {
-      "key": "48876",
-      "songName": "tiktok compilation part 1",
-      "hash": "62c39ef4944a05ddf9a98f4717341a5bde146a11",
-      "levelid": "custom_level_62c39ef4944a05ddf9a98f4717341a5bde146a11"
+      "key": "488e7",
+      "songName": "Station Fire - HAL Laboratory [Kirby Air Ride]",
+      "hash": "829ab0f79fec0d584e902b589ec6d3bd5edc7bb6",
+      "levelid": "custom_level_829ab0f79fec0d584e902b589ec6d3bd5edc7bb6"
     },
     {
-      "key": "48875",
-      "songName": "License To Bust - Phineas and Ferb",
-      "hash": "f32af75aec6756c298791d89c41c6d7aa16f6abf",
-      "levelid": "custom_level_f32af75aec6756c298791d89c41c6d7aa16f6abf"
+      "key": "488e4",
+      "songName": "Huge Pillar - HAL Laboratory [Kirby Air Ride]",
+      "hash": "b329f2e18853cc22080c4ac29c62f3ae0bd2f1d1",
+      "levelid": "custom_level_b329f2e18853cc22080c4ac29c62f3ae0bd2f1d1"
     },
     {
-      "key": "48872",
-      "songName": "virginity rockstar",
-      "hash": "da9f9f12c7aa6cdf2b8a7ac1af7de3a8a7814630",
-      "levelid": "custom_level_da9f9f12c7aa6cdf2b8a7ac1af7de3a8a7814630"
+      "key": "488e3",
+      "songName": "Flying Meteor - HAL Laboratory [Kirby Air Ride]",
+      "hash": "f595025600419d4e321d8d11d34bb9884ca4b844",
+      "levelid": "custom_level_f595025600419d4e321d8d11d34bb9884ca4b844"
     },
     {
-      "key": "48871",
-      "songName": "American Dad Theme",
-      "hash": "48e89b4448692d143996535c9648efcd3a3929a5",
-      "levelid": "custom_level_48e89b4448692d143996535c9648efcd3a3929a5"
+      "key": "488e2",
+      "songName": "Tac Challenge - Akira Miyagawa [Kirby Air Ride]",
+      "hash": "ebf87f8b7f55f6a3cd70da2d1493661ece147220",
+      "levelid": "custom_level_ebf87f8b7f55f6a3cd70da2d1493661ece147220"
     },
     {
-      "key": "4886c",
-      "songName": "Marilii - Nautin elämästä",
-      "hash": "4dd3235210b016970eb14a868726e3aa46ca9b05",
-      "levelid": "custom_level_4dd3235210b016970eb14a868726e3aa46ca9b05"
+      "key": "488e1",
+      "songName": "Dyna Blade Intro - HAL Laboratory [Kirby Air Ride]",
+      "hash": "a32c3afc52260ef6ede94dc0aa2f00acacb7a2d7",
+      "levelid": "custom_level_a32c3afc52260ef6ede94dc0aa2f00acacb7a2d7"
     },
     {
-      "key": "48867",
-      "songName": "Klerotte - Again",
-      "hash": "9458addcb2d85cf5fc9d85d81943259c405f50d8",
-      "levelid": "custom_level_9458addcb2d85cf5fc9d85d81943259c405f50d8"
+      "key": "488e0",
+      "songName": "City Trial (Backside) - Hirokazu Ando [Kirby Air Ride]",
+      "hash": "925ab907345b60914aae3e0ad09a0b446227ca1d",
+      "levelid": "custom_level_925ab907345b60914aae3e0ad09a0b446227ca1d"
     },
     {
-      "key": "4885f",
-      "songName": " Klerotte - A_Choice",
-      "hash": "984ae08a331c75ad35adef619b757b998cdc1b04",
-      "levelid": "custom_level_984ae08a331c75ad35adef619b757b998cdc1b04"
+      "key": "488df",
+      "songName": "City Trial (Normal + Time Running Out) - Hirokazu Ando [Kirby Air Ride]",
+      "hash": "e494cbadeb39601a7cc95b82dc90c104b15fc422",
+      "levelid": "custom_level_e494cbadeb39601a7cc95b82dc90c104b15fc422"
+    },
+    {
+      "key": "488de",
+      "songName": "Top Ride - Results Screen - HAL Laboratory [Kirby Air Ride]",
+      "hash": "eec592cadd2fd78597789a0c2b930f2113ada0ad",
+      "levelid": "custom_level_eec592cadd2fd78597789a0c2b930f2113ada0ad"
+    },
+    {
+      "key": "488dd",
+      "songName": "Air Ride - Results Screen - HAL Laboratory [Kirby Air Ride]",
+      "hash": "a75e24bd3ffa2cd185ec11dac32ef32b4ce6c815",
+      "levelid": "custom_level_a75e24bd3ffa2cd185ec11dac32ef32b4ce6c815"
+    },
+    {
+      "key": "488dc",
+      "songName": "Play Methods - HAL Laboratory [Kirby Air Ride]",
+      "hash": "6d99d9c6bd9884e08d538f4e8cc2b42c6b887322",
+      "levelid": "custom_level_6d99d9c6bd9884e08d538f4e8cc2b42c6b887322"
+    },
+    {
+      "key": "488db",
+      "songName": "Nothing Beats a Jet2holiday",
+      "hash": "dca6293b668793e6ceca7c35916712e5f947614c",
+      "levelid": "custom_level_dca6293b668793e6ceca7c35916712e5f947614c"
+    },
+    {
+      "key": "488da",
+      "songName": "Superkota - плов ты рыгнул",
+      "hash": "fac6ad6132eb3fd542326078058a1623d93b072a",
+      "levelid": "custom_level_fac6ad6132eb3fd542326078058a1623d93b072a"
+    },
+    {
+      "key": "488d9",
+      "songName": "Cities On Fire - Reuben",
+      "hash": "36c44e510e1f60cdef4699c650d4d2e94202c427",
+      "levelid": "custom_level_36c44e510e1f60cdef4699c650d4d2e94202c427"
     }
   ],
   "image": ""
