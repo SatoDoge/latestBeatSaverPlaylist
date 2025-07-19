@@ -1,244 +1,316 @@
 {
-  "playlistTitle": "2025-07-17T15:18:49.277Z~2025-07-18T15:18:49.277Z",
+  "playlistTitle": "2025-07-18T15:18:48.385Z~2025-07-19T15:18:48.385Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-07-17T15:18:49.277Z and 2025-07-18T15:18:49.277Z",
+  "discripstion": "Maps published between 2025-07-18T15:18:48.385Z and 2025-07-19T15:18:48.385Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "48b64",
+      "songName": "GAYLE - abcdefu (angrier)",
+      "hash": "bd0a6c79e978f65ced4dea969d2bb4afb2e7d1ff",
+      "levelid": "custom_level_bd0a6c79e978f65ced4dea969d2bb4afb2e7d1ff"
+    },
+    {
+      "key": "48b62",
+      "songName": "[B.B.K.K.B.K.K. 10TH ANNIVERSARY PACK]nora2r - B.B.K.K.B.K.K. (RISHChoko Remix)",
+      "hash": "78037f8b2ab839fd62d3da28b4139ea5830bc867",
+      "levelid": "custom_level_78037f8b2ab839fd62d3da28b4139ea5830bc867"
+    },
+    {
+      "key": "48aa9",
+      "songName": "[B.B.K.K.B.K.K. 10TH ANNIVERSARY PACK] nora2r - B.B.K.K.B.K.K. (Hexacube vs Xeudo Code Remix)",
+      "hash": "10c8072a80eac27414fc1abe699a2d328f439227",
+      "levelid": "custom_level_10c8072a80eac27414fc1abe699a2d328f439227"
+    },
+    {
+      "key": "48b58",
+      "songName": "[B.B.K.K.B.K.K. 10TH ANNIVERSARY PACK]nora2r - B.B.K.K.B.K.K.(Yuta Imai & anubasu-anubasu Remix)",
+      "hash": "2690a87c24b57a19f8269111eb936eae3712894c",
+      "levelid": "custom_level_2690a87c24b57a19f8269111eb936eae3712894c"
+    },
+    {
+      "key": "48b57",
+      "songName": "[B.B.K.K.B.K.K. 10TH ANNIVERSARY PACK] nora2r - B.B.K.K.B.K.K. (影虎。& siqlo PsyReMix)",
+      "hash": "a5fc23e6290e5b6616bd619336cf1b362f2616e2",
+      "levelid": "custom_level_a5fc23e6290e5b6616bd619336cf1b362f2616e2"
+    },
+    {
+      "key": "48b56",
+      "songName": "[B.B.K.K.B.K.K. 10TH ANNIVERSARY PACK] nora2r - B.B.K.K.B.K.K. (Tsushimada Remix)",
+      "hash": "0d4f5b74e1dae90b46f3e81a930bc7b8946be967",
+      "levelid": "custom_level_0d4f5b74e1dae90b46f3e81a930bc7b8946be967"
+    },
+    {
+      "key": "48b2f",
+      "songName": "[B.B.K.K.B.K.K. 10TH ANNIVERSARY PACK] nora2r - B.B.K.K.B.K.K. (BlackY Remix)",
+      "hash": "fb480d5922ed610b90c599ce76b0a73b6e150379",
+      "levelid": "custom_level_fb480d5922ed610b90c599ce76b0a73b6e150379"
+    },
+    {
+      "key": "45c48",
+      "songName": "[B.B.K.K.B.K.K. 10TH ANNIVERSARY PACK] [Chroma] nora2r - B.B.K.K.B.K.K. (2023 Remake)",
+      "hash": "42764274c1febf6f41b0ac1653ae4738f3ae6268",
+      "levelid": "custom_level_42764274c1febf6f41b0ac1653ae4738f3ae6268"
+    },
+    {
+      "key": "48b60",
+      "songName": "EMIRI feat. Hatsune Miku - Dreamer",
+      "hash": "b0294e128b4b7405f9a28c6df36b357fd66e834a",
+      "levelid": "custom_level_b0294e128b4b7405f9a28c6df36b357fd66e834a"
+    },
+    {
+      "key": "48b61",
+      "songName": "Olson",
+      "hash": "6987c9aa4098548c61c1b03a9a6660968b1606f7",
+      "levelid": "custom_level_6987c9aa4098548c61c1b03a9a6660968b1606f7"
+    },
+    {
+      "key": "48b28",
+      "songName": "WE LOVE ALFRED",
+      "hash": "5fd3f60daf4ead43c0fda1c4d22e752467caf22e",
+      "levelid": "custom_level_5fd3f60daf4ead43c0fda1c4d22e752467caf22e"
+    },
+    {
+      "key": "48b5a",
+      "songName": "Paul Elstak - The Promised Land",
+      "hash": "9137e2f8b81d7b161e73787833b7843c2be0307a",
+      "levelid": "custom_level_9137e2f8b81d7b161e73787833b7843c2be0307a"
+    },
+    {
+      "key": "48b59",
+      "songName": "PathFinder",
+      "hash": "83e42576879f9aec3ae827d6a293fab11d48ed11",
+      "levelid": "custom_level_83e42576879f9aec3ae827d6a293fab11d48ed11"
+    },
+    {
+      "key": "48b3f",
+      "songName": "[Cinema] QUIX - Grenade",
+      "hash": "828ec530978896d226526188a4fb681ea033b352",
+      "levelid": "custom_level_828ec530978896d226526188a4fb681ea033b352"
+    },
+    {
+      "key": "48556",
+      "songName": "Rise up feat.初音ミク - *Luna",
+      "hash": "a7183a91157b106fcb027362434c876e6526c47a",
+      "levelid": "custom_level_a7183a91157b106fcb027362434c876e6526c47a"
+    },
+    {
+      "key": "48b54",
+      "songName": "LeaF - neo tinnitus (SP-# Remixed dy LeaF)",
+      "hash": "dd66b5662bc323c2ec6a69cdf387a37ba328143b",
+      "levelid": "custom_level_dd66b5662bc323c2ec6a69cdf387a37ba328143b"
+    },
+    {
+      "key": "48b53",
+      "songName": "Booyaka 3.0 (Toumi Ustempo Flip)",
+      "hash": "acd3073c5f39dba11e38ac0fb8a02134e64c0794",
+      "levelid": "custom_level_acd3073c5f39dba11e38ac0fb8a02134e64c0794"
+    },
+    {
+      "key": "48b52",
+      "songName": "[V4] Manazashi wa Hikari (TV Size) [The Fragrant Flower Blooms With Dignity Opening] - Tatsuya Kitani",
+      "hash": "fa97468b973f4ecb2e4bfaa3c080a0c35785b794",
+      "levelid": "custom_level_fa97468b973f4ecb2e4bfaa3c080a0c35785b794"
+    },
+    {
+      "key": "48b48",
+      "songName": "Lektrique, MIDNIGHT CVLT - Full Throttle (V3)",
+      "hash": "c37e1a667359ebdfe013087aefc8df43f52b7e69",
+      "levelid": "custom_level_c37e1a667359ebdfe013087aefc8df43f52b7e69"
+    },
+    {
+      "key": "48b47",
+      "songName": "Tsumiki no Ningyou (rnb mix by Toku feat. Pagodes) - wowaka",
+      "hash": "fc6929bcd34bcb51a78a045b9a967fd6a73e9dad",
+      "levelid": "custom_level_fc6929bcd34bcb51a78a045b9a967fd6a73e9dad"
+    },
+    {
+      "key": "48b46",
+      "songName": "Lovesong for a Deadman",
+      "hash": "f7785f47e7dd970d8aa3309f48d39a6e7d5cf850",
+      "levelid": "custom_level_f7785f47e7dd970d8aa3309f48d39a6e7d5cf850"
+    },
+    {
+      "key": "48b45",
+      "songName": "squidward yell 2",
+      "hash": "125abc436acc1b0a63eb9929b12b04e59bc81238",
+      "levelid": "custom_level_125abc436acc1b0a63eb9929b12b04e59bc81238"
+    },
+    {
+      "key": "48b44",
+      "songName": "Crunchie Wunchies",
+      "hash": "50f60f494f609fcb4dca9b512aa4b2df82ff6b10",
+      "levelid": "custom_level_50f60f494f609fcb4dca9b512aa4b2df82ff6b10"
+    },
+    {
+      "key": "48b43",
+      "songName": "I Never Lie - Zach Top",
+      "hash": "4879e98c5fc6c0f7fbfdd4d9fe2a41bfb4240aa5",
+      "levelid": "custom_level_4879e98c5fc6c0f7fbfdd4d9fe2a41bfb4240aa5"
+    },
+    {
+      "key": "48b3e",
+      "songName": "Anywhere I Go",
+      "hash": "ab4e7b78e28907b666a5cb3f0981528a84944d3a",
+      "levelid": "custom_level_ab4e7b78e28907b666a5cb3f0981528a84944d3a"
+    },
+    {
+      "key": "489c8",
+      "songName": "[V4] Dexy Midnight Runners - Come On Eileen (Single Edit)",
+      "hash": "ab63a9ebe37063d4640566fe4991b7ee631ee7f0",
+      "levelid": "custom_level_ab63a9ebe37063d4640566fe4991b7ee631ee7f0"
+    },
+    {
+      "key": "48b3d",
+      "songName": "Funny android alarm ",
+      "hash": "8b1ecd00a61644d05cf3cf3e8d77197da6c00ce6",
+      "levelid": "custom_level_8b1ecd00a61644d05cf3cf3e8d77197da6c00ce6"
+    },
+    {
+      "key": "48b3c",
+      "songName": "The Cranberries - Zombie",
+      "hash": "ce7a1fc47b0cb62ba058e90e8625bc433672abca",
+      "levelid": "custom_level_ce7a1fc47b0cb62ba058e90e8625bc433672abca"
+    },
+    {
+      "key": "48b35",
+      "songName": "Kobaryo - Start Of The Determination",
+      "hash": "a8fd3244c492d598e722976ca3a484017fc65011",
+      "levelid": "custom_level_a8fd3244c492d598e722976ca3a484017fc65011"
+    },
+    {
+      "key": "48b32",
+      "songName": "Nyquist! - Lovely Drug (feat. Koharu Rikka)",
+      "hash": "03fdd39602fbb257924bf783b0eb133d66354804",
+      "levelid": "custom_level_03fdd39602fbb257924bf783b0eb133d66354804"
+    },
+    {
+      "key": "48b2e",
+      "songName": "MiatriSs - Carousel",
+      "hash": "b6a391c9de59a48a05d777a94acf474bbc1d3515",
+      "levelid": "custom_level_b6a391c9de59a48a05d777a94acf474bbc1d3515"
+    },
+    {
+      "key": "48b2b",
+      "songName": "New Mexico INTRO",
+      "hash": "50c71e5be419ca194251cc3495d3bfe5a12130b5",
+      "levelid": "custom_level_50c71e5be419ca194251cc3495d3bfe5a12130b5"
+    },
+    {
+      "key": "48b27",
+      "songName": "Toby Fox - KEYGEN [[CREDITS]]",
+      "hash": "02ff1d23ce79009eed2597ba3b9622cf5201faa8",
+      "levelid": "custom_level_02ff1d23ce79009eed2597ba3b9622cf5201faa8"
+    },
+    {
+      "key": "48b26",
+      "songName": "drowning",
+      "hash": "c983a1a8b536358a3018b170afeb153de27192f9",
+      "levelid": "custom_level_c983a1a8b536358a3018b170afeb153de27192f9"
+    },
+    {
+      "key": "48b24",
+      "songName": "Forsaken - Vanity Jason LMS",
+      "hash": "a5e3282eb52a5fb0796d89f2a36d95e708e17d18",
+      "levelid": "custom_level_a5e3282eb52a5fb0796d89f2a36d95e708e17d18"
+    },
+    {
+      "key": "48b23",
+      "songName": "Magic City Hippies - Queen",
+      "hash": "3e410ddc4975e39462dfc5409027c2e7caf2e27d",
+      "levelid": "custom_level_3e410ddc4975e39462dfc5409027c2e7caf2e27d"
+    },
+    {
+      "key": "48b22",
+      "songName": "Im A Miner (wallmap)",
+      "hash": "6518f1fa4650e54cc19ec6f62fba521677486339",
+      "levelid": "custom_level_6518f1fa4650e54cc19ec6f62fba521677486339"
+    },
+    {
+      "key": "48b21",
+      "songName": "tmxy - ethereal",
+      "hash": "04fc5b2a28c030c26910039ec94890d6bd143c17",
+      "levelid": "custom_level_04fc5b2a28c030c26910039ec94890d6bd143c17"
+    },
+    {
+      "key": "48b20",
+      "songName": "Yotowhooh Annoying Songs (The First)",
+      "hash": "66df44cc53b1e8011ac84c1aa31557554437aa86",
+      "levelid": "custom_level_66df44cc53b1e8011ac84c1aa31557554437aa86"
+    },
+    {
+      "key": "48b19",
+      "songName": "theres a stranger",
+      "hash": "4b28c05a8be098c557a56541b9a58187420a964e",
+      "levelid": "custom_level_4b28c05a8be098c557a56541b9a58187420a964e"
+    },
+    {
+      "key": "48b18",
+      "songName": "lancer yippe",
+      "hash": "63aa2ee04ff93441b033408ddfe381a6ae3f9655",
+      "levelid": "custom_level_63aa2ee04ff93441b033408ddfe381a6ae3f9655"
+    },
+    {
+      "key": "48b14",
+      "songName": "CHRYSTAL - The Days (Notion Remix)",
+      "hash": "54967eef1aac1d5791d3286c8331826cdf16815d",
+      "levelid": "custom_level_54967eef1aac1d5791d3286c8331826cdf16815d"
+    },
+    {
+      "key": "48b11",
+      "songName": "On My Mind - by Slenderino, Tatsunoshin",
+      "hash": "4344e4731a4500637adae6dd17b3007387ad5bae",
+      "levelid": "custom_level_4344e4731a4500637adae6dd17b3007387ad5bae"
+    },
+    {
+      "key": "48b0f",
+      "songName": "TAK - Bavaroa",
+      "hash": "0cf07cbc24a6c245e0242c7458b900b8bdbb335f",
+      "levelid": "custom_level_0cf07cbc24a6c245e0242c7458b900b8bdbb335f"
+    },
+    {
+      "key": "48b0b",
+      "songName": "STUNTMAN -Tyler, The Creator feat. Vince Staples [1.29.4+]",
+      "hash": "68007c510a9d9e5b547662f1fcd92b9136963a53",
+      "levelid": "custom_level_68007c510a9d9e5b547662f1fcd92b9136963a53"
+    },
+    {
+      "key": "48b0d",
+      "songName": "ATEEZ - Castle",
+      "hash": "1d3f62323c4b5cf9c921c719241e2a791bff31be",
+      "levelid": "custom_level_1d3f62323c4b5cf9c921c719241e2a791bff31be"
+    },
+    {
+      "key": "48b0a",
+      "songName": "Let’s Bang - Shaka Ponk",
+      "hash": "a400b9571d9b60f859b76827298f705c675ea0fe",
+      "levelid": "custom_level_a400b9571d9b60f859b76827298f705c675ea0fe"
+    },
+    {
+      "key": "48b05",
+      "songName": "Torn - Natalie Imbruglia (Chroma+)",
+      "hash": "14754aabde07285c206425f75fe677bd0a3b5401",
+      "levelid": "custom_level_14754aabde07285c206425f75fe677bd0a3b5401"
+    },
+    {
+      "key": "48b04",
+      "songName": "[Chroma+] Falling In Reverse - ZOMBIFIED",
+      "hash": "66e915cb025ff3186f2f5124fa6e780b4661ebca",
+      "levelid": "custom_level_66e915cb025ff3186f2f5124fa6e780b4661ebca"
+    },
+    {
       "key": "48af9",
       "songName": "Calm Down",
-      "hash": "9af0ab4367c9b95dd70f521bcbb2a979c6ae8803",
-      "levelid": "custom_level_9af0ab4367c9b95dd70f521bcbb2a979c6ae8803"
+      "hash": "5c34780ddc12020ad069d84bddfe0751f0c8952b",
+      "levelid": "custom_level_5c34780ddc12020ad069d84bddfe0751f0c8952b"
     },
     {
       "key": "48af7",
-      "songName": "「AURORA : You Can’t Run From Yourself  (Kaiju No. 8 Season 2 (怪獣8号))",
-      "hash": "5ab791afe63000e6e68be01ff220fbba5a04c23a",
-      "levelid": "custom_level_5ab791afe63000e6e68be01ff220fbba5a04c23a"
-    },
-    {
-      "key": "48af5",
-      "songName": "Steck 'ne Banane in dein Ohr!",
-      "hash": "b686ce32223bdd29b2a11ca8459695651976374c",
-      "levelid": "custom_level_b686ce32223bdd29b2a11ca8459695651976374c"
-    },
-    {
-      "key": "48af3",
-      "songName": "I am a CAVE MAN! - Life Force",
-      "hash": "8e29a2d9c8c86352ff212554c0dd32b31a9dd246",
-      "levelid": "custom_level_8e29a2d9c8c86352ff212554c0dd32b31a9dd246"
-    },
-    {
-      "key": "48ab6",
-      "songName": "Kohaku Nene - Utakata",
-      "hash": "e440b6d401552a4f24094bf5dd3433142bdbdf20",
-      "levelid": "custom_level_e440b6d401552a4f24094bf5dd3433142bdbdf20"
-    },
-    {
-      "key": "48aee",
-      "songName": "Tidal Wave",
-      "hash": "12d0d4af41624feb7c81db4e4c0395dde99db423",
-      "levelid": "custom_level_12d0d4af41624feb7c81db4e4c0395dde99db423"
-    },
-    {
-      "key": "48aeb",
-      "songName": "A Ram Sam Sam - Chiki Toons",
-      "hash": "bcb6f1f6038f98c9e1157558326abb98abc26501",
-      "levelid": "custom_level_bcb6f1f6038f98c9e1157558326abb98abc26501"
-    },
-    {
-      "key": "48ae7",
-      "songName": "Bicycle - Shota Kageyama [Pokemon X & Y]",
-      "hash": "cbde5ee1cfb631e1f17f7c96575ff0d945bb7aa7",
-      "levelid": "custom_level_cbde5ee1cfb631e1f17f7c96575ff0d945bb7aa7"
-    },
-    {
-      "key": "488ba",
-      "songName": "とんがり帽子のメモル (tongari boushi no Memole)",
-      "hash": "125002d005f900012c7b55199fffa9377bb402df",
-      "levelid": "custom_level_125002d005f900012c7b55199fffa9377bb402df"
-    },
-    {
-      "key": "489ca",
-      "songName": "Stigmata",
-      "hash": "936dd350725c4242e19c93a092c99f37eab38950",
-      "levelid": "custom_level_936dd350725c4242e19c93a092c99f37eab38950"
-    },
-    {
-      "key": "48ade",
-      "songName": "interlaced",
-      "hash": "623f11287f34e9782faf2d8b7bdd81b046323405",
-      "levelid": "custom_level_623f11287f34e9782faf2d8b7bdd81b046323405"
-    },
-    {
-      "key": "48adb",
-      "songName": "dfdf",
-      "hash": "c33e88d904b9624ac20208120cbc6878bd03e186",
-      "levelid": "custom_level_c33e88d904b9624ac20208120cbc6878bd03e186"
-    },
-    {
-      "key": "48ada",
-      "songName": "Hip Shop",
-      "hash": "918b11b35804d7ad9518062974b248133e288572",
-      "levelid": "custom_level_918b11b35804d7ad9518062974b248133e288572"
-    },
-    {
-      "key": "48ad9",
-      "songName": "lynU - Raise Up Your Bat",
-      "hash": "9536437099323adea8496ee05e381dfef87aa90f",
-      "levelid": "custom_level_9536437099323adea8496ee05e381dfef87aa90f"
-    },
-    {
-      "key": "48ad8",
-      "songName": "YonKaGor - Linger in the Rain",
-      "hash": "87cf9e530f6e5bd9a5fa13204f20f3d2d3a82be8",
-      "levelid": "custom_level_87cf9e530f6e5bd9a5fa13204f20f3d2d3a82be8"
-    },
-    {
-      "key": "48ad6",
-      "songName": "Mili - TIAN TIAN [Limbus Company]",
-      "hash": "491a9057c4fab86b886e634343600b9574d5cdd3",
-      "levelid": "custom_level_491a9057c4fab86b886e634343600b9574d5cdd3"
-    },
-    {
-      "key": "48ad5",
-      "songName": "P.J INLAND - さよなら",
-      "hash": "30326b30f567626bafa643a43ee0e3ede326d877",
-      "levelid": "custom_level_30326b30f567626bafa643a43ee0e3ede326d877"
-    },
-    {
-      "key": "48ad4",
-      "songName": "Aspertia City - Pokemon Black & White 2",
-      "hash": "866e2145b84495e5c94fc5801d7d596a8ed5e441",
-      "levelid": "custom_level_866e2145b84495e5c94fc5801d7d596a8ed5e441"
-    },
-    {
-      "key": "48acf",
-      "songName": "ANGUISH, ПОЧТИСЧАСТЛИВ, ily - Glaza",
-      "hash": "f892711b3782265299fbd58b400eacf88a82db69",
-      "levelid": "custom_level_f892711b3782265299fbd58b400eacf88a82db69"
-    },
-    {
-      "key": "48ace",
-      "songName": "ovine hall - huh",
-      "hash": "d32637f13b5d7d6ee69691231c79c925553a0380",
-      "levelid": "custom_level_d32637f13b5d7d6ee69691231c79c925553a0380"
-    },
-    {
-      "key": "48ad3",
-      "songName": "theres a stranger",
-      "hash": "1aed378e55f3eecc9c94add0ac933e6a0522ba98",
-      "levelid": "custom_level_1aed378e55f3eecc9c94add0ac933e6a0522ba98"
-    },
-    {
-      "key": "48ad1",
-      "songName": "ta1lsd0ll - ta1lsd003",
-      "hash": "79b75cf9ab2ffccffbb2ffeb542ef7b13ce5cce5",
-      "levelid": "custom_level_79b75cf9ab2ffccffbb2ffeb542ef7b13ce5cce5"
-    },
-    {
-      "key": "48ad0",
-      "songName": "Fly Me To The Moon - Squid Game 2",
-      "hash": "4328e682aa5d243afb21d81f6a200a7b45ebb81a",
-      "levelid": "custom_level_4328e682aa5d243afb21d81f6a200a7b45ebb81a"
-    },
-    {
-      "key": "48aca",
-      "songName": "pardon me",
-      "hash": "f4f306ee17e3546cff91b4b40450f957d0c1fb0c",
-      "levelid": "custom_level_f4f306ee17e3546cff91b4b40450f957d0c1fb0c"
-    },
-    {
-      "key": "48ac6",
-      "songName": "ZAH1DE - Zahide Did It Better",
-      "hash": "908da60eca4da85dfc4767a2b45090e2a840389d",
-      "levelid": "custom_level_908da60eca4da85dfc4767a2b45090e2a840389d"
-    },
-    {
-      "key": "48ac3",
-      "songName": "Exodia - Celestia",
-      "hash": "bdd4aaa6f94d76168a2392d051e2e35db599622b",
-      "levelid": "custom_level_bdd4aaa6f94d76168a2392d051e2e35db599622b"
-    },
-    {
-      "key": "48ac1",
-      "songName": "Asgore runs over dess with lyrics",
-      "hash": "0b483ebea15e50d9af13f82eb84a11a7f1b6e26f",
-      "levelid": "custom_level_0b483ebea15e50d9af13f82eb84a11a7f1b6e26f"
-    },
-    {
-      "key": "48abc",
-      "songName": "WLD U HOLD IT AGAINST ME ? TURN. UP. THE. BASS -Part_117 - xaev, yax03",
-      "hash": "b45b9bab9f3a5f929d468862b601349ea758bee1",
-      "levelid": "custom_level_b45b9bab9f3a5f929d468862b601349ea758bee1"
-    },
-    {
-      "key": "482ce",
-      "songName": "ROAR - Poor Grammar (Live at Valley Bar)",
-      "hash": "ef3b5851ae0d3b46699e00fdc6f02b0ce6c316fe",
-      "levelid": "custom_level_ef3b5851ae0d3b46699e00fdc6f02b0ce6c316fe"
-    },
-    {
-      "key": "48190",
-      "songName": "ROAR - Truck Stop Tiger",
-      "hash": "67695b372e33f2919b426aec5a909336f5d46715",
-      "levelid": "custom_level_67695b372e33f2919b426aec5a909336f5d46715"
-    },
-    {
-      "key": "48aba",
-      "songName": "Killshot",
-      "hash": "f47c7f95ba2be30a03e120ecafcd06371bbc6d93",
-      "levelid": "custom_level_f47c7f95ba2be30a03e120ecafcd06371bbc6d93"
-    },
-    {
-      "key": "48ab8",
-      "songName": "I Will Not Bow",
-      "hash": "2815bf3be86e61b72440d92c5eacdd8674570824",
-      "levelid": "custom_level_2815bf3be86e61b72440d92c5eacdd8674570824"
-    },
-    {
-      "key": "48ab7",
-      "songName": "Shorties lore",
-      "hash": "9beb24f2373ac859d4db7a9eb69ae93046f041b9",
-      "levelid": "custom_level_9beb24f2373ac859d4db7a9eb69ae93046f041b9"
-    },
-    {
-      "key": "48ab4",
-      "songName": "Through It All",
-      "hash": "69cc8b844dd8b0bb3794e8ae0b819029fd15ccf9",
-      "levelid": "custom_level_69cc8b844dd8b0bb3794e8ae0b819029fd15ccf9"
-    },
-    {
-      "key": "48ab3",
-      "songName": "snowfall...",
-      "hash": "d5b21fa3d95eb37f9c28d72332b4267cf937b271",
-      "levelid": "custom_level_d5b21fa3d95eb37f9c28d72332b4267cf937b271"
-    },
-    {
-      "key": "48ab1",
-      "songName": "Frederik - Ladyboy",
-      "hash": "5389abff369af056cb9417e154a1fb4ec9431077",
-      "levelid": "custom_level_5389abff369af056cb9417e154a1fb4ec9431077"
-    },
-    {
-      "key": "48aae",
-      "songName": "「Zzz」 Ukinami Yuzuha EP - Wonderland Trickery  Zenless Zone Zero",
-      "hash": "11dbfb7bba643693ed105124e99d176eda6e9329",
-      "levelid": "custom_level_11dbfb7bba643693ed105124e99d176eda6e9329"
-    },
-    {
-      "key": "48aac",
-      "songName": "Delta rune trailer",
-      "hash": "052fc203901f70c5cb54f96f3ed07a4e85b54aae",
-      "levelid": "custom_level_052fc203901f70c5cb54f96f3ed07a4e85b54aae"
-    },
-    {
-      "key": "48aa2",
-      "songName": "星涙哀歌 feat. Miku - MIMI",
-      "hash": "ec47412fbbe8cd9d7d4210256ec464d5caa45d2d",
-      "levelid": "custom_level_ec47412fbbe8cd9d7d4210256ec464d5caa45d2d"
+      "songName": "「AURORA : You Can’t Run From Yourself」  (Kaiju No. 8 Season 2 (怪獣8号))",
+      "hash": "17c3b66f0b327ac4b6d3697d741c58595160b02b",
+      "levelid": "custom_level_17c3b66f0b327ac4b6d3697d741c58595160b02b"
     }
   ],
   "image": ""
