@@ -1,238 +1,310 @@
 {
-  "playlistTitle": "2025-08-03T15:18:48.461Z~2025-08-04T15:18:48.461Z",
+  "playlistTitle": "2025-08-04T15:18:51.274Z~2025-08-05T15:18:51.274Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-08-03T15:18:48.461Z and 2025-08-04T15:18:48.461Z",
+  "discripstion": "Maps published between 2025-08-04T15:18:51.274Z and 2025-08-05T15:18:51.274Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "49269",
-      "songName": "Run2Me",
-      "hash": "8200cfc237a5cd2e6f38e1924c36d23203c64b49",
-      "levelid": "custom_level_8200cfc237a5cd2e6f38e1924c36d23203c64b49"
+      "key": "492d5",
+      "songName": "Hazy Moon Jumpstyle",
+      "hash": "447676fc5422fe81fec842d208473f62cd7458fc",
+      "levelid": "custom_level_447676fc5422fe81fec842d208473f62cd7458fc"
     },
     {
-      "key": "4926a",
-      "songName": "The Birthday Massacre - Two Hearts",
-      "hash": "06ab4cbd6a88da036bd3a132fd96092db97bb10b",
-      "levelid": "custom_level_06ab4cbd6a88da036bd3a132fd96092db97bb10b"
+      "key": "492d4",
+      "songName": "[Super ONGEKI Music Pack] Final Flash Light",
+      "hash": "dd2650d2fc2f644f7ed5f186bcc6d11dad10f942",
+      "levelid": "custom_level_dd2650d2fc2f644f7ed5f186bcc6d11dad10f942"
     },
     {
-      "key": "49267",
-      "songName": "Relic Castle - Shota Kageyama [Pokémon Black and White]",
-      "hash": "dee3ba59e02b2848024ac5e94ad88a518ea862fc",
-      "levelid": "custom_level_dee3ba59e02b2848024ac5e94ad88a518ea862fc"
-    },
-    {
-      "key": "49263",
-      "songName": "underscores - Stupid (Can't run from the urge)",
-      "hash": "c457ffef6d7461e261bb2c21e72966c9b42931c0",
-      "levelid": "custom_level_c457ffef6d7461e261bb2c21e72966c9b42931c0"
-    },
-    {
-      "key": "49262",
-      "songName": "Dorothy - Unholy Water",
-      "hash": "fe7ce33b3fea94e2981100ac74d61c19488f563d",
-      "levelid": "custom_level_fe7ce33b3fea94e2981100ac74d61c19488f563d"
-    },
-    {
-      "key": "49260",
-      "songName": "I Like Ya Cut G",
-      "hash": "f77897f1d50ab54d10bf5e9f0f44d7590afb6f9d",
-      "levelid": "custom_level_f77897f1d50ab54d10bf5e9f0f44d7590afb6f9d"
-    },
-    {
-      "key": "4925f",
-      "songName": "\"Mope Mope\" by wakia without noodle",
-      "hash": "db0a55cce861a5960e06d65c82bf25ee14fa2d66",
-      "levelid": "custom_level_db0a55cce861a5960e06d65c82bf25ee14fa2d66"
-    },
-    {
-      "key": "491ff",
-      "songName": "Laur - Absolute Queen",
-      "hash": "e41239895b52a3604ba9a49b8002ee163f6bb1ad",
-      "levelid": "custom_level_e41239895b52a3604ba9a49b8002ee163f6bb1ad"
-    },
-    {
-      "key": "49250",
-      "songName": "AYAKAKI - Murisugi Otakuheart",
-      "hash": "3fda2c11aba9288cad36c7b76cef7eb1b0436ff6",
-      "levelid": "custom_level_3fda2c11aba9288cad36c7b76cef7eb1b0436ff6"
-    },
-    {
-      "key": "4924f",
-      "songName": "Crown Him With Many Crowns",
-      "hash": "9b49dd677d335dd65246901e5ef710f8adaf415c",
-      "levelid": "custom_level_9b49dd677d335dd65246901e5ef710f8adaf415c"
-    },
-    {
-      "key": "4924c",
-      "songName": "Jess Glynne  - Hold My Hand",
-      "hash": "d902000ca10a336f280ce88ed25a41ea8a69976c",
-      "levelid": "custom_level_d902000ca10a336f280ce88ed25a41ea8a69976c"
-    },
-    {
-      "key": "49249",
-      "songName": "Disturbia (7_7 Bootleg) [Sped Up Ver.]",
-      "hash": "cd709f56926df93ea9e17e606bb3cfd914fa9afb",
-      "levelid": "custom_level_cd709f56926df93ea9e17e606bb3cfd914fa9afb"
-    },
-    {
-      "key": "49248",
-      "songName": "Marlon and I NEED to be nerfed💔🥀",
-      "hash": "41a120933aaefc98351f3d4cd83a11edfa60b217",
-      "levelid": "custom_level_41a120933aaefc98351f3d4cd83a11edfa60b217"
-    },
-    {
-      "key": "49236",
-      "songName": "Lunatic set 09 ～ 遥か38万キロのボヤージュ (Faraway Voyage of 380,000 Kilometers)",
-      "hash": "eadd1ec66c74b9a91a59b717f66bc2c814dc134d",
-      "levelid": "custom_level_eadd1ec66c74b9a91a59b717f66bc2c814dc134d"
-    },
-    {
-      "key": "49235",
-      "songName": "Lunatic set 08 ～ 逆転するホイールオブフォーチュン (Reversed Wheel of Fortune)",
-      "hash": "61ac1a58e1dc9d1a87eeefb3932360f070ce1f1a",
-      "levelid": "custom_level_61ac1a58e1dc9d1a87eeefb3932360f070ce1f1a"
-    },
-    {
-      "key": "49234",
-      "songName": "Lunatic set 07 ～ 凍り付いた永遠の都 (The Frozen Eternal Capital)",
-      "hash": "bc51c468d030d6730429a6e68def2dddf20c51d2",
-      "levelid": "custom_level_bc51c468d030d6730429a6e68def2dddf20c51d2"
-    },
-    {
-      "key": "49233",
-      "songName": "Lunatic set 06 ～ 永遠の春夢 (Eternal Spring Dream)",
-      "hash": "dbcd81e51385ea4d4ee334072ba0406055f03e7f",
-      "levelid": "custom_level_dbcd81e51385ea4d4ee334072ba0406055f03e7f"
-    },
-    {
-      "key": "49232",
-      "songName": "acloudyskye - Float",
-      "hash": "69ca586668d17d42ec84e5408297ad114dbc8a41",
-      "levelid": "custom_level_69ca586668d17d42ec84e5408297ad114dbc8a41"
-    },
-    {
-      "key": "49231",
-      "songName": "Lunatic set 05 ～ 宇宙を飛ぶ不思議な巫女 (The Mysterious Shrine Maiden Flying Through Space)",
-      "hash": "1e5acdfa043656cc0fa86ca09247eca2eed97c0c",
-      "levelid": "custom_level_1e5acdfa043656cc0fa86ca09247eca2eed97c0c"
-    },
-    {
-      "key": "49230",
-      "songName": "Lunatic set 04 ～ 九月のパンプキン (September Pumpkin)",
-      "hash": "ce0d08a6cca77b7cc97e62a6ecf3289422009105",
-      "levelid": "custom_level_ce0d08a6cca77b7cc97e62a6ecf3289422009105"
-    },
-    {
-      "key": "4922e",
+      "key": "492d2",
       "songName": "FLAVOR FOLEY - Spoken For ft. Kasane Teto",
-      "hash": "6ccff7773c9c76f040f97a0e1e9063594c7e9238",
-      "levelid": "custom_level_6ccff7773c9c76f040f97a0e1e9063594c7e9238"
+      "hash": "1ca3b161a457b45208b048755332bdf2e9df00e1",
+      "levelid": "custom_level_1ca3b161a457b45208b048755332bdf2e9df00e1"
     },
     {
-      "key": "4922f",
-      "songName": "The Weeknd - The Hills ",
-      "hash": "b58156241d2f39a58c54e603e8af3042a3f88163",
-      "levelid": "custom_level_b58156241d2f39a58c54e603e8af3042a3f88163"
+      "key": "492d0",
+      "songName": "アシタハアタシノカゼガフク",
+      "hash": "238e9ece7a0f5382e4cf7043448e79c449eb74e7",
+      "levelid": "custom_level_238e9ece7a0f5382e4cf7043448e79c449eb74e7"
     },
     {
-      "key": "4922b",
-      "songName": "Camellia - Crystallized (smol bolz remix)",
-      "hash": "703570f7c0a8028d1bdcde6ea28c665c188845de",
-      "levelid": "custom_level_703570f7c0a8028d1bdcde6ea28c665c188845de"
+      "key": "492cc",
+      "songName": "Fierce Battle? No Way (Ogre Theme) [Under Night In-Birth II Sys:Celes OST] - Raito",
+      "hash": "089703b971d0ec794fc66200e001de12405c52c5",
+      "levelid": "custom_level_089703b971d0ec794fc66200e001de12405c52c5"
     },
     {
-      "key": "49220",
-      "songName": "Other Drugs - Brick + Mortar",
-      "hash": "b25ca84f0f06a5192042a8035c4006de3872c613",
-      "levelid": "custom_level_b25ca84f0f06a5192042a8035c4006de3872c613"
+      "key": "492cb",
+      "songName": "你携风月来",
+      "hash": "4f4cc510888bea2f094a1085b2335941df95f4b6",
+      "levelid": "custom_level_4f4cc510888bea2f094a1085b2335941df95f4b6"
     },
     {
-      "key": "4921b",
-      "songName": "Gloryhammer - On a Quest for Aberdeen",
-      "hash": "acbaf9254be22c05c3dae4b0a1426ad12ec3aca6",
-      "levelid": "custom_level_acbaf9254be22c05c3dae4b0a1426ad12ec3aca6"
+      "key": "492ba",
+      "songName": "Me and the three primary colors - Kessoku Band",
+      "hash": "d6143673fc0c406450346c5d11c6a6834b8a509d",
+      "levelid": "custom_level_d6143673fc0c406450346c5d11c6a6834b8a509d"
     },
     {
-      "key": "49219",
-      "songName": "Let You Down",
-      "hash": "6ec14172ceebd4bab07b7eccded14d9ad2195717",
-      "levelid": "custom_level_6ec14172ceebd4bab07b7eccded14d9ad2195717"
+      "key": "492c5",
+      "songName": "happysad - Zanim Pójdę",
+      "hash": "d2dacd26b19a645e236653f69c950d2377785767",
+      "levelid": "custom_level_d2dacd26b19a645e236653f69c950d2377785767"
     },
     {
-      "key": "49216",
-      "songName": "OUTRAGE & Newmanzrl - Hyperdrive",
-      "hash": "441fd6a0a866dbc15748abb7ce68ffaa346772e2",
-      "levelid": "custom_level_441fd6a0a866dbc15748abb7ce68ffaa346772e2"
+      "key": "492bd",
+      "songName": "Not like us",
+      "hash": "6f1071cbced42d46aab9fd5315e0cf2c7b822a0a",
+      "levelid": "custom_level_6f1071cbced42d46aab9fd5315e0cf2c7b822a0a"
     },
     {
-      "key": "48fd3",
-      "songName": "Tremor - Unlike Pluto",
-      "hash": "4e0248d119cf25ad201fc0a890ce411c872e88aa",
-      "levelid": "custom_level_4e0248d119cf25ad201fc0a890ce411c872e88aa"
+      "key": "492bb",
+      "songName": "Enej - Skrzydlate Rece",
+      "hash": "f2174abbd5aa505e4b7d5f36202db7781fb219ed",
+      "levelid": "custom_level_f2174abbd5aa505e4b7d5f36202db7781fb219ed"
     },
     {
-      "key": "49215",
-      "songName": "Hottest Take Machine",
-      "hash": "523a0a10916afb91c18ebfea504eae5bab972437",
-      "levelid": "custom_level_523a0a10916afb91c18ebfea504eae5bab972437"
+      "key": "492b8",
+      "songName": "トピック（聞人聽書_ -） - 虞兮叹",
+      "hash": "09d099276c7d80657d18febd423bd7747dbef492",
+      "levelid": "custom_level_09d099276c7d80657d18febd423bd7747dbef492"
     },
     {
-      "key": "49213",
-      "songName": "ROAR, Carol Cleveland Sings - But You See (Live at Twisted Branch Tea Bazaar)",
-      "hash": "11c47bdaa5ef52047899b628e34a2f7673745d88",
-      "levelid": "custom_level_11c47bdaa5ef52047899b628e34a2f7673745d88"
+      "key": "492b7",
+      "songName": "Hito Mania",
+      "hash": "e2e2c103a039257adf45aea33210b14b3b1c4fd3",
+      "levelid": "custom_level_e2e2c103a039257adf45aea33210b14b3b1c4fd3"
     },
     {
-      "key": "491fa",
-      "songName": "Hyperclocked",
-      "hash": "263436d3eed7f754cd99df38103e791eac304621",
-      "levelid": "custom_level_263436d3eed7f754cd99df38103e791eac304621"
+      "key": "492b5",
+      "songName": "inabakumori - Harunanshiki ",
+      "hash": "a66df1dc628058388765f32d476bddd167e14fe4",
+      "levelid": "custom_level_a66df1dc628058388765f32d476bddd167e14fe4"
     },
     {
-      "key": "4920f",
-      "songName": "\"Blossom\" - Porter Robinson",
-      "hash": "aa0f5c481927f88daab8d6b171567c0f699be011",
-      "levelid": "custom_level_aa0f5c481927f88daab8d6b171567c0f699be011"
+      "key": "492b3",
+      "songName": "Gretel",
+      "hash": "f2d02696f058d746b960311670076994ff68e68b",
+      "levelid": "custom_level_f2d02696f058d746b960311670076994ff68e68b"
     },
     {
-      "key": "49205",
-      "songName": "[V3] Twenty One Pilots - Guns For Hands",
-      "hash": "729c8b4ed5c4c5417ec0b40505400d7fa13ca5cb",
-      "levelid": "custom_level_729c8b4ed5c4c5417ec0b40505400d7fa13ca5cb"
+      "key": "492b0",
+      "songName": "iyowa - Kyu-kurarin (Game Ver.) (Hinomori Shizuku Alt. cover) (CV: 本泉莉奈)",
+      "hash": "e7a94998f96c164b393616fe25eeca7186429fad",
+      "levelid": "custom_level_e7a94998f96c164b393616fe25eeca7186429fad"
     },
     {
-      "key": "49204",
-      "songName": "is your baby crying? i'll make them stop!",
-      "hash": "823e1a6a43ff591027b879e6f062d05e53bc3a7b",
-      "levelid": "custom_level_823e1a6a43ff591027b879e6f062d05e53bc3a7b"
+      "key": "492ae",
+      "songName": "King Kunta",
+      "hash": "bfbd856f1735ed09b3746e0a9ec2f6b0acdb45d8",
+      "levelid": "custom_level_bfbd856f1735ed09b3746e0a9ec2f6b0acdb45d8"
     },
     {
-      "key": "49187",
-      "songName": "Baby DONT Cry - F Girl",
-      "hash": "e8b7870734de4c9db96640e96e4991b123ec46e3",
-      "levelid": "custom_level_e8b7870734de4c9db96640e96e4991b123ec46e3"
+      "key": "492ad",
+      "songName": "viktor_bob - Zapadniy Kanal (XBRO Funny Remix)",
+      "hash": "5fe9eeec9e18c8db366067d5932ee45ee59126de",
+      "levelid": "custom_level_5fe9eeec9e18c8db366067d5932ee45ee59126de"
     },
     {
-      "key": "49203",
-      "songName": "Earthmover - Have A Nice Life",
-      "hash": "c7acf26bdb6ce78c2a293e223e790b91208f040e",
-      "levelid": "custom_level_c7acf26bdb6ce78c2a293e223e790b91208f040e"
+      "key": "4927e",
+      "songName": "Porter Robinson & Totally Enormous Extinct Dinosaurs - Unfold",
+      "hash": "0019e9ad70e507fc3db7892e603235826c18bdfc",
+      "levelid": "custom_level_0019e9ad70e507fc3db7892e603235826c18bdfc"
     },
     {
-      "key": "49202",
-      "songName": "mogobe",
-      "hash": "0e1939c3c0c2f97cc98c7c805fba3c5a95407726",
-      "levelid": "custom_level_0e1939c3c0c2f97cc98c7c805fba3c5a95407726"
+      "key": "492ac",
+      "songName": "I Prevail - VIOLENT NATURE",
+      "hash": "566d2a05f832d789285256b76e7bb71e8aa7e7d5",
+      "levelid": "custom_level_566d2a05f832d789285256b76e7bb71e8aa7e7d5"
     },
     {
-      "key": "49201",
-      "songName": "Grafix - Body Language",
-      "hash": "2ce64cbfa03edeb00d1a753bfa6001ff540f6156",
-      "levelid": "custom_level_2ce64cbfa03edeb00d1a753bfa6001ff540f6156"
+      "key": "492a5",
+      "songName": "Super Mario Bros. 3 - Athletic Theme - Qumu Remix",
+      "hash": "815d24626f25b182f19319167c0583d953c604ee",
+      "levelid": "custom_level_815d24626f25b182f19319167c0583d953c604ee"
+    },
+    {
+      "key": "492a4",
+      "songName": "Mr. Skullbones",
+      "hash": "fe75b424012430b151539d82c73c54f1ef4a3239",
+      "levelid": "custom_level_fe75b424012430b151539d82c73c54f1ef4a3239"
+    },
+    {
+      "key": "492a3",
+      "songName": "ROAR - I'm Not Here to Make Friends EP",
+      "hash": "66d42ebc5a8697ec8fef76209d95bf172a7a8a48",
+      "levelid": "custom_level_66d42ebc5a8697ec8fef76209d95bf172a7a8a48"
+    },
+    {
+      "key": "49297",
+      "songName": "Lemon Demon - The Ultimate Showdown Of Ultimate Destiny",
+      "hash": "3ed043af4ec611c8e2f13ea6c749432c2e5afc64",
+      "levelid": "custom_level_3ed043af4ec611c8e2f13ea6c749432c2e5afc64"
+    },
+    {
+      "key": "492a2",
+      "songName": "son i love ya so kuch v2",
+      "hash": "091fcaed93b4ea3911696542886489f469912761",
+      "levelid": "custom_level_091fcaed93b4ea3911696542886489f469912761"
+    },
+    {
+      "key": "4929e",
+      "songName": "whats up danger (Bud Mix)",
+      "hash": "397b9ce7a4532c96a376c757b5ec2773e56d526a",
+      "levelid": "custom_level_397b9ce7a4532c96a376c757b5ec2773e56d526a"
+    },
+    {
+      "key": "492a1",
+      "songName": "son i love ya so kuch",
+      "hash": "c6dc75a3c78940f7e07d702ff6c1b0d22551fcc7",
+      "levelid": "custom_level_c6dc75a3c78940f7e07d702ff6c1b0d22551fcc7"
+    },
+    {
+      "key": "4929d",
+      "songName": "Jet2 Holiday",
+      "hash": "60b678e300fc6fcaf7667587ec1dc35b3053daac",
+      "levelid": "custom_level_60b678e300fc6fcaf7667587ec1dc35b3053daac"
+    },
+    {
+      "key": "49299",
+      "songName": "Balloonbear - Forever Online",
+      "hash": "9aa14d4f5efacec63b722a9c29b75cc5d7f03ec2",
+      "levelid": "custom_level_9aa14d4f5efacec63b722a9c29b75cc5d7f03ec2"
+    },
+    {
+      "key": "49298",
+      "songName": "Secret Admirer ",
+      "hash": "a6c22ab077f355c2ab72fbea764afe0980423d55",
+      "levelid": "custom_level_a6c22ab077f355c2ab72fbea764afe0980423d55"
+    },
+    {
+      "key": "49295",
+      "songName": "Strike The Earth!",
+      "hash": "2e5005aaa38d625f08d5d9e92da93e099a9c5893",
+      "levelid": "custom_level_2e5005aaa38d625f08d5d9e92da93e099a9c5893"
+    },
+    {
+      "key": "49294",
+      "songName": "Saul goodman",
+      "hash": "b24e23ce8af5deed9822047aa5951073d96e704a",
+      "levelid": "custom_level_b24e23ce8af5deed9822047aa5951073d96e704a"
+    },
+    {
+      "key": "49293",
+      "songName": "straweed compilation part 1",
+      "hash": "c1b19dc80f992c6bae1d58ce6db24c3d07928266",
+      "levelid": "custom_level_c1b19dc80f992c6bae1d58ce6db24c3d07928266"
+    },
+    {
+      "key": "4928f",
+      "songName": "Hostage Drama - Diabarha",
+      "hash": "f43a6ef37794dbd40b9b071c750ff16db51bf416",
+      "levelid": "custom_level_f43a6ef37794dbd40b9b071c750ff16db51bf416"
+    },
+    {
+      "key": "4928b",
+      "songName": "i like ya cut g",
+      "hash": "03901f9d9e5914a64df096da6f6f321aabcf4429",
+      "levelid": "custom_level_03901f9d9e5914a64df096da6f6f321aabcf4429"
+    },
+    {
+      "key": "49289",
+      "songName": " Theatore Creatore [From CHUNITHM] ",
+      "hash": "268f0bd3daf7869308471b4b7367329904f797e3",
+      "levelid": "custom_level_268f0bd3daf7869308471b4b7367329904f797e3"
+    },
+    {
+      "key": "49287",
+      "songName": "Zar Paulo - Telefonperson",
+      "hash": "8eed869b7a8a2e3520a19918688620bd0a1d49d6",
+      "levelid": "custom_level_8eed869b7a8a2e3520a19918688620bd0a1d49d6"
+    },
+    {
+      "key": "49284",
+      "songName": "Mirage's Tutorial on How to hit Palm Up",
+      "hash": "f4a622916aef435715054dd32f6e96b068e1231d",
+      "levelid": "custom_level_f4a622916aef435715054dd32f6e96b068e1231d"
+    },
+    {
+      "key": "49283",
+      "songName": "Dear Agony",
+      "hash": "7eddf82ed284cc69eb9a75c4a0c03e874599bfc3",
+      "levelid": "custom_level_7eddf82ed284cc69eb9a75c4a0c03e874599bfc3"
+    },
+    {
+      "key": "49275",
+      "songName": "His Throne",
+      "hash": "fc8973fa69140aa331976ed20876ac4e9066e520",
+      "levelid": "custom_level_fc8973fa69140aa331976ed20876ac4e9066e520"
+    },
+    {
+      "key": "4927f",
+      "songName": "Screecho Beat",
+      "hash": "dd8c019c3164a733c8e2aade36870fbabf30e3e3",
+      "levelid": "custom_level_dd8c019c3164a733c8e2aade36870fbabf30e3e3"
+    },
+    {
+      "key": "4927d",
+      "songName": "\"Houdini\" - Eminem",
+      "hash": "5167610887112cc60a9b7d0e4365ea7a298de7de",
+      "levelid": "custom_level_5167610887112cc60a9b7d0e4365ea7a298de7de"
+    },
+    {
+      "key": "4927c",
+      "songName": "Gareth Emery & Annabel - Without U (Alternate Version)",
+      "hash": "05044592d9c5ecd0cfaa15235628978205f01ec8",
+      "levelid": "custom_level_05044592d9c5ecd0cfaa15235628978205f01ec8"
+    },
+    {
+      "key": "4927b",
+      "songName": "Space Beetles",
+      "hash": "cc5e6bc498483a5e03755a1167aaf3d39de02e2d",
+      "levelid": "custom_level_cc5e6bc498483a5e03755a1167aaf3d39de02e2d"
+    },
+    {
+      "key": "49278",
+      "songName": "TUNG TUNG TUNG SAHUR",
+      "hash": "f25141b0909b5a0a4ca4d9d497a65a08ad8d359b",
+      "levelid": "custom_level_f25141b0909b5a0a4ca4d9d497a65a08ad8d359b"
+    },
+    {
+      "key": "49276",
+      "songName": "MOMOLAND - BBoom BBoom",
+      "hash": "e816d49eee2cde6b203940d9286c4e21342d3cfc",
+      "levelid": "custom_level_e816d49eee2cde6b203940d9286c4e21342d3cfc"
+    },
+    {
+      "key": "49274",
+      "songName": "4EVE - hot2hot",
+      "hash": "fc27ec7f85e1a7bbe361b7a82783f77065e85b40",
+      "levelid": "custom_level_fc27ec7f85e1a7bbe361b7a82783f77065e85b40"
+    },
+    {
+      "key": "49273",
+      "songName": "torr - gum!",
+      "hash": "6b7b6d3f09ab37e5697c943da64008ee0f8a217c",
+      "levelid": "custom_level_6b7b6d3f09ab37e5697c943da64008ee0f8a217c"
+    },
+    {
+      "key": "49272",
+      "songName": "Justice - by Remzcore (Poodles)",
+      "hash": "37944477efabe2ccdaa3f9cf4908763831eca4af",
+      "levelid": "custom_level_37944477efabe2ccdaa3f9cf4908763831eca4af"
+    },
+    {
+      "key": "4926c",
+      "songName": "Bluey Theme",
+      "hash": "36b114f998e14852310a373de2c75a54432cced7",
+      "levelid": "custom_level_36b114f998e14852310a373de2c75a54432cced7"
+    },
+    {
+      "key": "4924b",
+      "songName": "Brave Girls - RED SUN",
+      "hash": "9309a6af0703d63f132058c4cf774e8e324d924c",
+      "levelid": "custom_level_9309a6af0703d63f132058c4cf774e8e324d924c"
     }
   ],
   "image": ""
