@@ -1,244 +1,214 @@
 {
-  "playlistTitle": "2025-08-12T15:18:48.456Z~2025-08-13T15:18:48.456Z",
+  "playlistTitle": "2025-08-13T15:18:48.526Z~2025-08-14T15:18:48.526Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-08-12T15:18:48.456Z and 2025-08-13T15:18:48.456Z",
+  "discripstion": "Maps published between 2025-08-13T15:18:48.526Z and 2025-08-14T15:18:48.526Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "496b1",
+      "songName": "Cash Cash - Overtime (Short Ver.)",
+      "hash": "3b78ac78f7d1943d8606188f78c46164feef5b1e",
+      "levelid": "custom_level_3b78ac78f7d1943d8606188f78c46164feef5b1e"
+    },
+    {
+      "key": "496af",
+      "songName": "if snakes in the wall was on crack",
+      "hash": "20efbab39ee8feb44712d2799869c6300da4df4f",
+      "levelid": "custom_level_20efbab39ee8feb44712d2799869c6300da4df4f"
+    },
+    {
+      "key": "496a5",
+      "songName": "Warmup",
+      "hash": "9983e0ee404e2d17ca9df1f42ab60b4cf7d6b0b0",
+      "levelid": "custom_level_9983e0ee404e2d17ca9df1f42ab60b4cf7d6b0b0"
+    },
+    {
+      "key": "496a4",
+      "songName": "Que la detengan",
+      "hash": "46a13d72e8aef6ed26f771759a7cf803a4cad2c1",
+      "levelid": "custom_level_46a13d72e8aef6ed26f771759a7cf803a4cad2c1"
+    },
+    {
+      "key": "496a1",
+      "songName": "Psyco - Casey Lowry",
+      "hash": "d6737607f8ea5f2de36dc66cd5a7c52f02cd20a4",
+      "levelid": "custom_level_d6737607f8ea5f2de36dc66cd5a7c52f02cd20a4"
+    },
+    {
+      "key": "4969f",
+      "songName": "Young Girl A",
+      "hash": "e71206abf255b2c9e4d15e06606a398a39752d04",
+      "levelid": "custom_level_e71206abf255b2c9e4d15e06606a398a39752d04"
+    },
+    {
+      "key": "49644",
+      "songName": "MIMI -「遠く夢の奥」feat. 初音ミク",
+      "hash": "acdcfc7b9f7d46297f88d1b994ee99dbc670a32d",
+      "levelid": "custom_level_acdcfc7b9f7d46297f88d1b994ee99dbc670a32d"
+    },
+    {
+      "key": "49691",
+      "songName": "ULTRA SYNERGY MATRIX (Celtix Remix)",
+      "hash": "a0d891ad468da421ed1988c4a8e10c011f80cf3e",
+      "levelid": "custom_level_a0d891ad468da421ed1988c4a8e10c011f80cf3e"
+    },
+    {
+      "key": "49690",
+      "songName": "IN THE WALLS",
+      "hash": "752c56f80b372a1e0907d3f73a80a1baf4e5487b",
+      "levelid": "custom_level_752c56f80b372a1e0907d3f73a80a1baf4e5487b"
+    },
+    {
+      "key": "4968f",
+      "songName": "Love Like You",
+      "hash": "41211acec3520a68b2f2c0bbc2b7f654a57c73ea",
+      "levelid": "custom_level_41211acec3520a68b2f2c0bbc2b7f654a57c73ea"
+    },
+    {
+      "key": "4968a",
+      "songName": "swamp",
+      "hash": "2e9f56a13444277bd184911540975f21d10f0e37",
+      "levelid": "custom_level_2e9f56a13444277bd184911540975f21d10f0e37"
+    },
+    {
+      "key": "49684",
+      "songName": "[GD Mash Pack II] Camellia - Light it up",
+      "hash": "02c2bcc3c2c4f9f092f93172bef731c97b5486ca",
+      "levelid": "custom_level_02c2bcc3c2c4f9f092f93172bef731c97b5486ca"
+    },
+    {
+      "key": "49683",
+      "songName": "Doushite Kou Natta",
+      "hash": "3a5dab66954443a37c1d6b25977e6fce34153053",
+      "levelid": "custom_level_3a5dab66954443a37c1d6b25977e6fce34153053"
+    },
+    {
+      "key": "49682",
+      "songName": "joz - I Swear I'll Be Just Fine",
+      "hash": "b71cdce06b23c9484348a2eb65affa0c38187776",
+      "levelid": "custom_level_b71cdce06b23c9484348a2eb65affa0c38187776"
+    },
+    {
+      "key": "49681",
+      "songName": "Six impala - GOOD MORNING",
+      "hash": "7027d17ee1c28009397bb5a25a2136fb02bdb8bc",
+      "levelid": "custom_level_7027d17ee1c28009397bb5a25a2136fb02bdb8bc"
+    },
+    {
+      "key": "49680",
+      "songName": "Hupper",
+      "hash": "649a438a9eb4065fa29b5578769c03c38c634d2e",
+      "levelid": "custom_level_649a438a9eb4065fa29b5578769c03c38c634d2e"
+    },
+    {
+      "key": "4967d",
+      "songName": "Lolita Sigmold",
+      "hash": "e886b478cac8ec793673bc36fd6b5454f1cebb7f",
+      "levelid": "custom_level_e886b478cac8ec793673bc36fd6b5454f1cebb7f"
+    },
+    {
+      "key": "49676",
+      "songName": "rot",
+      "hash": "bd42630a29ef2143ee65100f761e0e6fd4cd7218",
+      "levelid": "custom_level_bd42630a29ef2143ee65100f761e0e6fd4cd7218"
+    },
+    {
+      "key": "49675",
+      "songName": "Find the miku",
+      "hash": "065fb347308b8fe3d6776c45da9bbb9aa03835d4",
+      "levelid": "custom_level_065fb347308b8fe3d6776c45da9bbb9aa03835d4"
+    },
+    {
+      "key": "49672",
+      "songName": "Flew",
+      "hash": "e0fe3dc61d2a1e3851d34144cb3d0064d9ec39cb",
+      "levelid": "custom_level_e0fe3dc61d2a1e3851d34144cb3d0064d9ec39cb"
+    },
+    {
+      "key": "49670",
+      "songName": "Snow Strippers - Just Your Doll",
+      "hash": "c9c6fb994a5e99be33dd488420d68b4ef8e97a9a",
+      "levelid": "custom_level_c9c6fb994a5e99be33dd488420d68b4ef8e97a9a"
+    },
+    {
+      "key": "4966e",
+      "songName": "Front to Back - Baku",
+      "hash": "c2099ce162c79ee55d4c24d77e674c46cb2e911e",
+      "levelid": "custom_level_c2099ce162c79ee55d4c24d77e674c46cb2e911e"
+    },
+    {
+      "key": "4966c",
+      "songName": "Haunt You - Clubhouse V2",
+      "hash": "39712d34ac874112d01a33f0b3333cd0399e28aa",
+      "levelid": "custom_level_39712d34ac874112d01a33f0b3333cd0399e28aa"
+    },
+    {
+      "key": "4966b",
+      "songName": "CAMKILL",
+      "hash": "ffc26a3ae8920fbf709e667ac62f1a37c6101168",
+      "levelid": "custom_level_ffc26a3ae8920fbf709e667ac62f1a37c6101168"
+    },
+    {
+      "key": "4966a",
+      "songName": "Minori Suzuki - Dame Wa Dame",
+      "hash": "2d53791d97c6b8a91fda45d5cba15df56979cd60",
+      "levelid": "custom_level_2d53791d97c6b8a91fda45d5cba15df56979cd60"
+    },
+    {
+      "key": "491eb",
+      "songName": "Twinkle Twinkle Little Star (Smule Magic Piano Version)",
+      "hash": "dd93798f431765a0aec431731632057b28d7060b",
+      "levelid": "custom_level_dd93798f431765a0aec431731632057b28d7060b"
+    },
+    {
+      "key": "49666",
+      "songName": "SmallHum - FivFiv Gaster Theme",
+      "hash": "6d61f30974c9afce73a6f7e91b40f6a32717101d",
+      "levelid": "custom_level_6d61f30974c9afce73a6f7e91b40f6a32717101d"
+    },
+    {
+      "key": "49664",
+      "songName": "INFX - Lucky Star (feat. Miori Celesta)",
+      "hash": "22a99212eaaf8fa9aee680c00adcd870d14250b9",
+      "levelid": "custom_level_22a99212eaaf8fa9aee680c00adcd870d14250b9"
+    },
+    {
+      "key": "49663",
+      "songName": "Toby Fox - From Now On",
+      "hash": "734e9a55283885a667e3be1f0cf10793e346ee22",
+      "levelid": "custom_level_734e9a55283885a667e3be1f0cf10793e346ee22"
+    },
+    {
+      "key": "49661",
+      "songName": "Master Kohga Battle - Manaka Kataoka [The Legend of Zelda: Tears of the Kingdom]",
+      "hash": "8046019e3fd55c126babdc981d17eb268a67d5dd",
+      "levelid": "custom_level_8046019e3fd55c126babdc981d17eb268a67d5dd"
+    },
+    {
+      "key": "49660",
+      "songName": "rain god",
+      "hash": "da9ff639414fd89eca6ac3e48d384ad677a8b8e5",
+      "levelid": "custom_level_da9ff639414fd89eca6ac3e48d384ad677a8b8e5"
+    },
+    {
+      "key": "49609",
+      "songName": "Baby DONT Cry - Bet You'll Regret It ('지금을 놓치면 분명 너 후회할 거야')",
+      "hash": "d1219bf6ed4f518d298b43c4eb4211cb9c1248d0",
+      "levelid": "custom_level_d1219bf6ed4f518d298b43c4eb4211cb9c1248d0"
+    },
+    {
+      "key": "49659",
+      "songName": "Kocchi no Kento - Hai Yorokonde",
+      "hash": "6e0d71b69c58ff627d8197077bc4f3cb7c4cb16e",
+      "levelid": "custom_level_6e0d71b69c58ff627d8197077bc4f3cb7c4cb16e"
+    },
+    {
       "key": "49657",
       "songName": "Xyris - RETROFIRE",
-      "hash": "3ab5f774925f86759728aa5ec0344c9bef2c8362",
-      "levelid": "custom_level_3ab5f774925f86759728aa5ec0344c9bef2c8362"
-    },
-    {
-      "key": "49654",
-      "songName": "[Yorushika Pack2] Martian",
-      "hash": "972d612900aba9a22a44ad2594f41261bac87f15",
-      "levelid": "custom_level_972d612900aba9a22a44ad2594f41261bac87f15"
-    },
-    {
-      "key": "49655",
-      "songName": "Animals - Neon Trees (UNFINISHED)",
-      "hash": "3b25fe1bd5a650c3dcc7bb34738f1d3ad4a14126",
-      "levelid": "custom_level_3b25fe1bd5a650c3dcc7bb34738f1d3ad4a14126"
-    },
-    {
-      "key": "49652",
-      "songName": "Raise Up Your Bat",
-      "hash": "df11c6705e2c1246e06e3fcfa88fe09a6ed35345",
-      "levelid": "custom_level_df11c6705e2c1246e06e3fcfa88fe09a6ed35345"
-    },
-    {
-      "key": "49651",
-      "songName": "Dende's Territory",
-      "hash": "a7a3cdf74370cb38dd2ca2bfc62eef3d8f8a722a",
-      "levelid": "custom_level_a7a3cdf74370cb38dd2ca2bfc62eef3d8f8a722a"
-    },
-    {
-      "key": "4964e",
-      "songName": "Bunch of Parasites - JENNY TALIA ",
-      "hash": "33bf6177d7d800ada7fc07f7b4085786883c6ae1",
-      "levelid": "custom_level_33bf6177d7d800ada7fc07f7b4085786883c6ae1"
-    },
-    {
-      "key": "4964d",
-      "songName": "R Sound Design - Forward / Vivid BAD SQUAD × Hatsune Miku",
-      "hash": "5613c73862ba8f9cfc7b701102fb60bcd4a37018",
-      "levelid": "custom_level_5613c73862ba8f9cfc7b701102fb60bcd4a37018"
-    },
-    {
-      "key": "49643",
-      "songName": "Toby Fox - From Now On",
-      "hash": "58b3d17ba7f0bdff3ad1fb62c24298f208510a4d",
-      "levelid": "custom_level_58b3d17ba7f0bdff3ad1fb62c24298f208510a4d"
-    },
-    {
-      "key": "4963f",
-      "songName": "Blue Bands",
-      "hash": "38e2470547ed226c256ac995e63344ebf73dd3a2",
-      "levelid": "custom_level_38e2470547ed226c256ac995e63344ebf73dd3a2"
-    },
-    {
-      "key": "4963d",
-      "songName": "OTIKA - CHIDARUMA (ft. 初音ミク)",
-      "hash": "33dcb977b184e4be6a200fb7a33c4f811916b0b2",
-      "levelid": "custom_level_33dcb977b184e4be6a200fb7a33c4f811916b0b2"
-    },
-    {
-      "key": "4963b",
-      "songName": "BLUECOATS (fixed)",
-      "hash": "8c72eb4189e35cc8069b8429f17acf9ecaa61a57",
-      "levelid": "custom_level_8c72eb4189e35cc8069b8429f17acf9ecaa61a57"
-    },
-    {
-      "key": "49638",
-      "songName": "BLUECOATS",
-      "hash": "f904159f5d77d45ea10083dd21cf6de50a0a335f",
-      "levelid": "custom_level_f904159f5d77d45ea10083dd21cf6de50a0a335f"
-    },
-    {
-      "key": "49637",
-      "songName": "N0LI'S_0N-TH3_RUN",
-      "hash": "084676420bcb7b89763ed79d0ebe2064be202ae2",
-      "levelid": "custom_level_084676420bcb7b89763ed79d0ebe2064be202ae2"
-    },
-    {
-      "key": "49636",
-      "songName": "Laur - SYSTEM ERROR",
-      "hash": "80912aaf501aa9556a540abedf6e4f9704fd8c6b",
-      "levelid": "custom_level_80912aaf501aa9556a540abedf6e4f9704fd8c6b"
-    },
-    {
-      "key": "49635",
-      "songName": "Donald Trump Please Save Me",
-      "hash": "2906cc57f610646eae9a779517b2d7489275df50",
-      "levelid": "custom_level_2906cc57f610646eae9a779517b2d7489275df50"
-    },
-    {
-      "key": "49634",
-      "songName": "Gwen Stefani, Johnny Vulture - Bubble Pop Electric",
-      "hash": "04569495c77910b30be2ebbc3c6c1fe31099ff90",
-      "levelid": "custom_level_04569495c77910b30be2ebbc3c6c1fe31099ff90"
-    },
-    {
-      "key": "49633",
-      "songName": "Crystal Sirens - this release is so good you have to listen to it by a volume that divides by 3",
-      "hash": "a7613cf9ef02fa52d7d6c219d331cea692f78238",
-      "levelid": "custom_level_a7613cf9ef02fa52d7d6c219d331cea692f78238"
-    },
-    {
-      "key": "49632",
-      "songName": "Even Though I Loved You",
-      "hash": "5a8d66afd0a2cd4cb36a84c0d4ac7e8e0b391722",
-      "levelid": "custom_level_5a8d66afd0a2cd4cb36a84c0d4ac7e8e0b391722"
-    },
-    {
-      "key": "49631",
-      "songName": "Wooden - FLASHH!",
-      "hash": "69960959386108c83dbdc4ba8d6c8a34aa6db30c",
-      "levelid": "custom_level_69960959386108c83dbdc4ba8d6c8a34aa6db30c"
-    },
-    {
-      "key": "49622",
-      "songName": " [V4] Twenty One Pilots - Stressed Out",
-      "hash": "eca038d8a365c0f5df04b776bcbc32c592bf1886",
-      "levelid": "custom_level_eca038d8a365c0f5df04b776bcbc32c592bf1886"
-    },
-    {
-      "key": "49621",
-      "songName": "Lean on Me - Club Nouveau",
-      "hash": "78bdad1a8b53176f7238612fe70001913592345c",
-      "levelid": "custom_level_78bdad1a8b53176f7238612fe70001913592345c"
-    },
-    {
-      "key": "49620",
-      "songName": "Dimension Hacker",
-      "hash": "f1408955cf99ba0350fe729739e32ae8be2e5486",
-      "levelid": "custom_level_f1408955cf99ba0350fe729739e32ae8be2e5486"
-    },
-    {
-      "key": "4961e",
-      "songName": "Life Sux",
-      "hash": "71c9ce7007c5252eb7e57a30d48c834d4455ec8d",
-      "levelid": "custom_level_71c9ce7007c5252eb7e57a30d48c834d4455ec8d"
-    },
-    {
-      "key": "4961f",
-      "songName": "Cheeki Breeki: S.T.A.L.K.E.R. 2 feat. Lenich & Kirya- The Chalkeaters",
-      "hash": "18d8036a9e061995a9d0106f6a1967d4690ab90b",
-      "levelid": "custom_level_18d8036a9e061995a9d0106f6a1967d4690ab90b"
-    },
-    {
-      "key": "4961d",
-      "songName": "[chroma]twiststep - pa's lam system ",
-      "hash": "6131cd84c2aeb69da8c2def9374a0e06500761fb",
-      "levelid": "custom_level_6131cd84c2aeb69da8c2def9374a0e06500761fb"
-    },
-    {
-      "key": "4961c",
-      "songName": "Austin Giorgio - Petals and Thorns",
-      "hash": "8165c6a92f1aa289d81d6555af63d0a4f11aa99e",
-      "levelid": "custom_level_8165c6a92f1aa289d81d6555af63d0a4f11aa99e"
-    },
-    {
-      "key": "4961b",
-      "songName": "Stray Kids - S-Class",
-      "hash": "ca091f6cc53363bed743bddc8c779b86cec6e993",
-      "levelid": "custom_level_ca091f6cc53363bed743bddc8c779b86cec6e993"
-    },
-    {
-      "key": "49619",
-      "songName": "your new home",
-      "hash": "aa486275f2e3e128a8b9bba540e36f6f18765cdd",
-      "levelid": "custom_level_aa486275f2e3e128a8b9bba540e36f6f18765cdd"
-    },
-    {
-      "key": "49617",
-      "songName": "Quiet Water (not ranked)",
-      "hash": "347e53471f0e206629cb7f8c5b8a355b4244e485",
-      "levelid": "custom_level_347e53471f0e206629cb7f8c5b8a355b4244e485"
-    },
-    {
-      "key": "4960f",
-      "songName": "feins spongebob pattern test",
-      "hash": "d60c07573ec1d5515c156fe500ee554ba168d895",
-      "levelid": "custom_level_d60c07573ec1d5515c156fe500ee554ba168d895"
-    },
-    {
-      "key": "4960e",
-      "songName": "[Feetsaber]Fake illness",
-      "hash": "f9f4b73f3be377390e884d95b1968a65d642b9de",
-      "levelid": "custom_level_f9f4b73f3be377390e884d95b1968a65d642b9de"
-    },
-    {
-      "key": "4960d",
-      "songName": "Love Me Not",
-      "hash": "c86dee5345332626be4a1d7b748c8da320639aae",
-      "levelid": "custom_level_c86dee5345332626be4a1d7b748c8da320639aae"
-    },
-    {
-      "key": "4960b",
-      "songName": "[Feetsaber]brain power",
-      "hash": "dd272f81d1b99c9e627178857d55fb71d199e3fa",
-      "levelid": "custom_level_dd272f81d1b99c9e627178857d55fb71d199e3fa"
-    },
-    {
-      "key": "4960a",
-      "songName": "My Dark Disquiet",
-      "hash": "cd57b4b1999e89da19bf796313b09b583608a1b9",
-      "levelid": "custom_level_cd57b4b1999e89da19bf796313b09b583608a1b9"
-    },
-    {
-      "key": "49607",
-      "songName": "watching everything burn right in front of me",
-      "hash": "da9b021e01d2027f4cc18ce0add12c13fe43c353",
-      "levelid": "custom_level_da9b021e01d2027f4cc18ce0add12c13fe43c353"
-    },
-    {
-      "key": "49606",
-      "songName": "[Feetsaber]強風オールバック _ Cover_ ななひら",
-      "hash": "13c266f8498543fd1bf1e7f52033f323b6d38911",
-      "levelid": "custom_level_13c266f8498543fd1bf1e7f52033f323b6d38911"
-    },
-    {
-      "key": "49605",
-      "songName": "een auto",
-      "hash": "fed724362e2e547dd755d6005fa66206e6a57169",
-      "levelid": "custom_level_fed724362e2e547dd755d6005fa66206e6a57169"
-    },
-    {
-      "key": "49602",
-      "songName": "SLAVE.V-V-R - MAdEaR MAdEaR",
-      "hash": "99f943e489bfb4ec5687b63be0ce4e358052dc6f",
-      "levelid": "custom_level_99f943e489bfb4ec5687b63be0ce4e358052dc6f"
-    },
-    {
-      "key": "49603",
-      "songName": "YUQI - Radio (Dum-Dum)",
-      "hash": "50b9399a16a3a5f926f1e38e8cb4c0f66597543d",
-      "levelid": "custom_level_50b9399a16a3a5f926f1e38e8cb4c0f66597543d"
+      "hash": "49dfe525326d36f92965dda6fc2002eef55d203e",
+      "levelid": "custom_level_49dfe525326d36f92965dda6fc2002eef55d203e"
     }
   ],
   "image": ""
