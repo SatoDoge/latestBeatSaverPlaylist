@@ -1,220 +1,250 @@
 {
-  "playlistTitle": "2025-08-17T15:18:48.450Z~2025-08-18T15:18:48.450Z",
+  "playlistTitle": "2025-08-18T15:18:52.649Z~2025-08-19T15:18:52.649Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-08-17T15:18:48.450Z and 2025-08-18T15:18:48.450Z",
+  "discripstion": "Maps published between 2025-08-18T15:18:52.649Z and 2025-08-19T15:18:52.649Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "49a7a",
+      "songName": "Yuri - USHIROJIKAN",
+      "hash": "3077c0abd829c371e1439d0a40e6a9ac0e09076b",
+      "levelid": "custom_level_3077c0abd829c371e1439d0a40e6a9ac0e09076b"
+    },
+    {
+      "key": "49a79",
+      "songName": "Shadow Hat",
+      "hash": "305dd27bff1044184635b1fc2e0da8d33ce14f04",
+      "levelid": "custom_level_305dd27bff1044184635b1fc2e0da8d33ce14f04"
+    },
+    {
+      "key": "49a69",
+      "songName": "Chartreuse Green",
+      "hash": "4bda69ea1eef9328dd64b9ae401bf8887a32574e",
+      "levelid": "custom_level_4bda69ea1eef9328dd64b9ae401bf8887a32574e"
+    },
+    {
+      "key": "49a77",
+      "songName": "What in the WORLD are they listening to in Africa😭",
+      "hash": "cd35fadfc85bdbd30449ffb26c24015686fcdd60",
+      "levelid": "custom_level_cd35fadfc85bdbd30449ffb26c24015686fcdd60"
+    },
+    {
+      "key": "49a60",
+      "songName": "Hashimero - Tokihanate!",
+      "hash": "5956b5c700dd2fd32040f68b31600937bd0954cb",
+      "levelid": "custom_level_5956b5c700dd2fd32040f68b31600937bd0954cb"
+    },
+    {
+      "key": "49a62",
+      "songName": "AD Infinitum - From The Ashes",
+      "hash": "56381a947dbd039fef7149095bcedcb7c4b2a2e9",
+      "levelid": "custom_level_56381a947dbd039fef7149095bcedcb7c4b2a2e9"
+    },
+    {
+      "key": "49a51",
+      "songName": "Infected Rain - Fighter",
+      "hash": "1914b2013d30eb274cac9f5d9bfd08710aee364a",
+      "levelid": "custom_level_1914b2013d30eb274cac9f5d9bfd08710aee364a"
+    },
+    {
+      "key": "49a4a",
+      "songName": "Blame - Korn",
+      "hash": "e8663b6e52ac1f00fc7b0d3d24fe6c99b62c7f2b",
+      "levelid": "custom_level_e8663b6e52ac1f00fc7b0d3d24fe6c99b62c7f2b"
+    },
+    {
+      "key": "49a3d",
+      "songName": "OOOOOOOOOOUUUUUUUUUUUUUUUUUUUUUUUHHHHH",
+      "hash": "6ca764f75230c068b0d39567998784e3fe198843",
+      "levelid": "custom_level_6ca764f75230c068b0d39567998784e3fe198843"
+    },
+    {
+      "key": "49a38",
+      "songName": "gmtn. - trappola bewitching",
+      "hash": "c4c400a851175144a00edd0213471585c7591c14",
+      "levelid": "custom_level_c4c400a851175144a00edd0213471585c7591c14"
+    },
+    {
+      "key": "49a37",
+      "songName": "What would you do if I abstracted tmrw",
+      "hash": "ff6e6e244039623fa894fe3f3a6331c653528f8e",
+      "levelid": "custom_level_ff6e6e244039623fa894fe3f3a6331c653528f8e"
+    },
+    {
+      "key": "49a36",
+      "songName": "Daisy Bell TDC",
+      "hash": "3336b40ea37ac294186acc1d0892eeb8b5d045fd",
+      "levelid": "custom_level_3336b40ea37ac294186acc1d0892eeb8b5d045fd"
+    },
+    {
+      "key": "49a2b",
+      "songName": "beware of the blud that speaks in mustard",
+      "hash": "4ec125d26112fd0a5e2d53325a0a500690712320",
+      "levelid": "custom_level_4ec125d26112fd0a5e2d53325a0a500690712320"
+    },
+    {
+      "key": "49a2a",
+      "songName": "DEEZL - AEON (NXC)",
+      "hash": "258c94d533530ed7d583300db095ccf646d70fb4",
+      "levelid": "custom_level_258c94d533530ed7d583300db095ccf646d70fb4"
+    },
+    {
+      "key": "49a29",
+      "songName": "Minstrelix - Runaway Faraway",
+      "hash": "0e803698710a3826e4ea1988c90d5873805b6c42",
+      "levelid": "custom_level_0e803698710a3826e4ea1988c90d5873805b6c42"
+    },
+    {
+      "key": "49a25",
+      "songName": "808'S",
+      "hash": "1f44728ce6bfa1f6a2a94e17c4e9cbfe04d36918",
+      "levelid": "custom_level_1f44728ce6bfa1f6a2a94e17c4e9cbfe04d36918"
+    },
+    {
+      "key": "49a24",
+      "songName": "flow - creo",
+      "hash": "036821a526f61eba0be510680c77e753eb8e3110",
+      "levelid": "custom_level_036821a526f61eba0be510680c77e753eb8e3110"
+    },
+    {
+      "key": "49a22",
+      "songName": "3 thick men.",
+      "hash": "6dc830b3d579bff3fdd5bc8161180de79c98445e",
+      "levelid": "custom_level_6dc830b3d579bff3fdd5bc8161180de79c98445e"
+    },
+    {
+      "key": "49a21",
+      "songName": "niganiga phonk",
+      "hash": "447b9c2376d9e3c85b42f410c5b0109ae489f7dc",
+      "levelid": "custom_level_447b9c2376d9e3c85b42f410c5b0109ae489f7dc"
+    },
+    {
+      "key": "49a1f",
+      "songName": "Cant slow me down",
+      "hash": "e56665226f1d667d669c18730036a3ac5bbbd39c",
+      "levelid": "custom_level_e56665226f1d667d669c18730036a3ac5bbbd39c"
+    },
+    {
+      "key": "49a1e",
+      "songName": "Billiummoto - Amethyst Aurora",
+      "hash": "3cfd8d54a561a069b294b5d0b14c7fd63eed59d1",
+      "levelid": "custom_level_3cfd8d54a561a069b294b5d0b14c7fd63eed59d1"
+    },
+    {
+      "key": "49a1d",
+      "songName": "Fin Callender-Make Me Feel",
+      "hash": "7ffd6f48d875085629eb5c0d3c9308ed22c71e70",
+      "levelid": "custom_level_7ffd6f48d875085629eb5c0d3c9308ed22c71e70"
+    },
+    {
+      "key": "49a1c",
+      "songName": "[V4] Porter Robinson - Lionhearted [Radio Edit]",
+      "hash": "c040c3391bcedee5e843a2c7b808915c6a7801e0",
+      "levelid": "custom_level_c040c3391bcedee5e843a2c7b808915c6a7801e0"
+    },
+    {
+      "key": "49a1a",
+      "songName": "Illusion of Choice",
+      "hash": "b60885abdf0fbb1d2c8e8347011cc785cf7585c3",
+      "levelid": "custom_level_b60885abdf0fbb1d2c8e8347011cc785cf7585c3"
+    },
+    {
+      "key": "49a19",
+      "songName": "にゃんだふる！",
+      "hash": "09c74da265fef6437cc21dd7d7cc32863e8fac06",
+      "levelid": "custom_level_09c74da265fef6437cc21dd7d7cc32863e8fac06"
+    },
+    {
+      "key": "49a17",
+      "songName": "Ok",
+      "hash": "cff6e37dc6325bd7ec052739133ee9ac7973ccdf",
+      "levelid": "custom_level_cff6e37dc6325bd7ec052739133ee9ac7973ccdf"
+    },
+    {
+      "key": "49a15",
+      "songName": "Blind - Korn",
+      "hash": "11b61c5e1563f2eceff671080e52ea1cf589cbfc",
+      "levelid": "custom_level_11b61c5e1563f2eceff671080e52ea1cf589cbfc"
+    },
+    {
+      "key": "49a14",
+      "songName": "assadist pussy got me actin strange but bad",
+      "hash": "8ea08ca733473bf37993e558653ade9db91f5429",
+      "levelid": "custom_level_8ea08ca733473bf37993e558653ade9db91f5429"
+    },
+    {
+      "key": "49a13",
+      "songName": "spiralスパイラル",
+      "hash": "f0b0ad6d205d20c93ddb3026a91d329186e8be0f",
+      "levelid": "custom_level_f0b0ad6d205d20c93ddb3026a91d329186e8be0f"
+    },
+    {
+      "key": "49a10",
+      "songName": "joz - I Can't See",
+      "hash": "e016658c3bf90997d94f4d5b720972937076994d",
+      "levelid": "custom_level_e016658c3bf90997d94f4d5b720972937076994d"
+    },
+    {
+      "key": "49a0f",
+      "songName": "here it comes",
+      "hash": "9e2aa63854f6478f153c10a46f0899ae05495ca0",
+      "levelid": "custom_level_9e2aa63854f6478f153c10a46f0899ae05495ca0"
+    },
+    {
+      "key": "49a0e",
+      "songName": "iron does the car frequency challenge",
+      "hash": "dd41e508579c73063acef36b54acaae205f1a3e0",
+      "levelid": "custom_level_dd41e508579c73063acef36b54acaae205f1a3e0"
+    },
+    {
+      "key": "49a05",
+      "songName": "a thank you note, pt.1 - xójira {Modchart}",
+      "hash": "f507e933124c2600f2376b10621e891d51e55df9",
+      "levelid": "custom_level_f507e933124c2600f2376b10621e891d51e55df9"
+    },
+    {
+      "key": "49a01",
+      "songName": "GROUND UP - 7038634357",
+      "hash": "797e3407950ca99c44f059e5e05cf5b95a18ac75",
+      "levelid": "custom_level_797e3407950ca99c44f059e5e05cf5b95a18ac75"
+    },
+    {
+      "key": "499fa",
+      "songName": "Stray Kids - JJAM",
+      "hash": "012636a0a358462013791036402db1016c5f417e",
+      "levelid": "custom_level_012636a0a358462013791036402db1016c5f417e"
+    },
+    {
+      "key": "499ce",
+      "songName": "Kobaryo - Magical Sanctuary",
+      "hash": "d85c6162825c6c95df7a1dd8ec3d9c807468fbf2",
+      "levelid": "custom_level_d85c6162825c6c95df7a1dd8ec3d9c807468fbf2"
+    },
+    {
+      "key": "499cb",
+      "songName": "KARDI - Havin' a Good Time",
+      "hash": "c1bd8f15b9e52445007715e250b3faea7798baa5",
+      "levelid": "custom_level_c1bd8f15b9e52445007715e250b3faea7798baa5"
+    },
+    {
+      "key": "499cc",
+      "songName": "600 BPM",
+      "hash": "f66b38ba308c717a3227bb763e795dd6c34d0f1c",
+      "levelid": "custom_level_f66b38ba308c717a3227bb763e795dd6c34d0f1c"
+    },
+    {
       "key": "499c6",
       "songName": "Requiem of the Beyond · Wuthering Waves",
-      "hash": "f6ecc78088315f9f11e8565675964d941da607f6",
-      "levelid": "custom_level_f6ecc78088315f9f11e8565675964d941da607f6"
+      "hash": "f7f1f226ffbf070353479959cd41c3700c43f547",
+      "levelid": "custom_level_f7f1f226ffbf070353479959cd41c3700c43f547"
     },
     {
       "key": "499c5",
       "songName": "I like the way you kiss me",
-      "hash": "8d815537121ffcf918881900edea1d07ffdb2ef8",
-      "levelid": "custom_level_8d815537121ffcf918881900edea1d07ffdb2ef8"
-    },
-    {
-      "key": "49985",
-      "songName": "electroCUTEd! - Glitch Cat",
-      "hash": "06180a5e76e68d5cb0904a06f1418dab7ebf8423",
-      "levelid": "custom_level_06180a5e76e68d5cb0904a06f1418dab7ebf8423"
-    },
-    {
-      "key": "499bf",
-      "songName": "Macaw Spammer 3000 450 BPM",
-      "hash": "8b7bdbf64752487242518f7e77e82933248030bc",
-      "levelid": "custom_level_8b7bdbf64752487242518f7e77e82933248030bc"
-    },
-    {
-      "key": "499be",
-      "songName": "SAY MY NAME - ShaLala",
-      "hash": "676c62397ebc6c65a77a91582dba079a9802775e",
-      "levelid": "custom_level_676c62397ebc6c65a77a91582dba079a9802775e"
-    },
-    {
-      "key": "499b8",
-      "songName": "Forever Now - Green Day [100th Map]",
-      "hash": "30f6f4653234289d3579884454245389bae7c3c8",
-      "levelid": "custom_level_30f6f4653234289d3579884454245389bae7c3c8"
-    },
-    {
-      "key": "4971e",
-      "songName": "Dreams of Mandalay",
-      "hash": "b3051cb9234f58e9963e3c5db6ec00dc7fdbc957",
-      "levelid": "custom_level_b3051cb9234f58e9963e3c5db6ec00dc7fdbc957"
-    },
-    {
-      "key": "499b7",
-      "songName": "Shawty like a melody meme",
-      "hash": "2a41ff9d85230780e83f995d5543afcc053c3f48",
-      "levelid": "custom_level_2a41ff9d85230780e83f995d5543afcc053c3f48"
-    },
-    {
-      "key": "49981",
-      "songName": "FFⅩ エース・オブ・ザ・ブリッツ",
-      "hash": "8b8a0c367d50ce86dca8244f1255d7fb129af057",
-      "levelid": "custom_level_8b8a0c367d50ce86dca8244f1255d7fb129af057"
-    },
-    {
-      "key": "499b4",
-      "songName": "Ascension- Ray Volpe (V3) (VNJS)",
-      "hash": "f4100653bcc518f5729eaf5635bb25431a6fdaba",
-      "levelid": "custom_level_f4100653bcc518f5729eaf5635bb25431a6fdaba"
-    },
-    {
-      "key": "499b5",
-      "songName": "500 bpm compilation",
-      "hash": "c32a7500fcbb6b307bcff3cf5f288dfd52a0ccb1",
-      "levelid": "custom_level_c32a7500fcbb6b307bcff3cf5f288dfd52a0ccb1"
-    },
-    {
-      "key": "499b1",
-      "songName": "Aline [Clair Obscur: Expedition 33 Soundtrack] - Lorien Testard ft. Alice Duport-Percier",
-      "hash": "9c93ba3f4ae299cbb23d7acd4b272671d611d0a3",
-      "levelid": "custom_level_9c93ba3f4ae299cbb23d7acd4b272671d611d0a3"
-    },
-    {
-      "key": "499a9",
-      "songName": "Ergot",
-      "hash": "2a975d22070a44357e4875cad567514144225790",
-      "levelid": "custom_level_2a975d22070a44357e4875cad567514144225790"
-    },
-    {
-      "key": "499a0",
-      "songName": "Sirene - Poeme d'Amour (Short Ver.) [Clair Obscur: Expedition 33 Soundtrack] - Lorien Testard ft. Alice Duport-Percier ",
-      "hash": "dc2618357db2f52a05481320467ff60df5f91c8f",
-      "levelid": "custom_level_dc2618357db2f52a05481320467ff60df5f91c8f"
-    },
-    {
-      "key": "4999e",
-      "songName": "Blind - Korn",
-      "hash": "000918feaaf7c3ff1023de7db8ba8a0e7e341851",
-      "levelid": "custom_level_000918feaaf7c3ff1023de7db8ba8a0e7e341851"
-    },
-    {
-      "key": "4999d",
-      "songName": "Authentic - Rise of the Northstar",
-      "hash": "11a4ddf8afda62452f4d117d85c8712bff357d95",
-      "levelid": "custom_level_11a4ddf8afda62452f4d117d85c8712bff357d95"
-    },
-    {
-      "key": "4999b",
-      "songName": "MOMOLAND - BANANA CHACHA",
-      "hash": "08ea1f797c0879d6c9ba301ec855474ff5da5c27",
-      "levelid": "custom_level_08ea1f797c0879d6c9ba301ec855474ff5da5c27"
-    },
-    {
-      "key": "49991",
-      "songName": "Won't Stop - Reyer Remix - JIMMY ROCK, Reyer, Fern, Steven Malcolm",
-      "hash": "4465828ae4c1a0bbabb43cc5b0ae925bbe700d4a",
-      "levelid": "custom_level_4465828ae4c1a0bbabb43cc5b0ae925bbe700d4a"
-    },
-    {
-      "key": "49990",
-      "songName": "Inoqx - Collar of Truth",
-      "hash": "2e4246982302962251a59c2eb0c01bfc2e33725b",
-      "levelid": "custom_level_2e4246982302962251a59c2eb0c01bfc2e33725b"
-    },
-    {
-      "key": "4998f",
-      "songName": "Eastin golden cover",
-      "hash": "9196545b5114fe99d7afeb7ba9897539dc5b72ce",
-      "levelid": "custom_level_9196545b5114fe99d7afeb7ba9897539dc5b72ce"
-    },
-    {
-      "key": "4998e",
-      "songName": "SLAVE.V-V-R - MAdEaR MAdEaR",
-      "hash": "16aae3a9302596134b792fcddc169fcb6cedaeb0",
-      "levelid": "custom_level_16aae3a9302596134b792fcddc169fcb6cedaeb0"
-    },
-    {
-      "key": "4998d",
-      "songName": "forwards beckon rebound",
-      "hash": "d045720f668fce56aa60be1b7a724b7abea9e2c8",
-      "levelid": "custom_level_d045720f668fce56aa60be1b7a724b7abea9e2c8"
-    },
-    {
-      "key": "4998b",
-      "songName": "MacawMaps BPM",
-      "hash": "0c13664bd198cc4e61f60a09ad5e4d8f60a5abe0",
-      "levelid": "custom_level_0c13664bd198cc4e61f60a09ad5e4d8f60a5abe0"
-    },
-    {
-      "key": "49989",
-      "songName": "Nice Things-Jordy",
-      "hash": "1dab45995cf8c52e3b46f7c51a4890957545ec90",
-      "levelid": "custom_level_1dab45995cf8c52e3b46f7c51a4890957545ec90"
-    },
-    {
-      "key": "49986",
-      "songName": "The Way - Jeon Somi",
-      "hash": "7f279191d5916ecd15f898416c4e3728f4a8aa2b",
-      "levelid": "custom_level_7f279191d5916ecd15f898416c4e3728f4a8aa2b"
-    },
-    {
-      "key": "4985d",
-      "songName": "Alexander Stewart - Life at First Sight",
-      "hash": "4fa3acec8d863276169d410a687508ed0d608439",
-      "levelid": "custom_level_4fa3acec8d863276169d410a687508ed0d608439"
-    },
-    {
-      "key": "49982",
-      "songName": "DJ Toenail Highlights",
-      "hash": "a99af5bd63642681e7af65047047f21229cbc50b",
-      "levelid": "custom_level_a99af5bd63642681e7af65047047f21229cbc50b"
-    },
-    {
-      "key": "4997f",
-      "songName": "[GD Mash Pack II] 1nf1n1ty - Dark Matter Suite (w/ hyquo)",
-      "hash": "ea6e61d07aeaadd6b4d54c8df074882934f0c00b",
-      "levelid": "custom_level_ea6e61d07aeaadd6b4d54c8df074882934f0c00b"
-    },
-    {
-      "key": "4997e",
-      "songName": "𝟷𝟿 𝒹𝑜𝓁𝓁𝒶𝓇 𝒻𝑜𝓇𝓉𝓃𝒾𝓉𝑒 𝒸𝒶𝓇𝒹",
-      "hash": "e3dff3bf676e539c7bc007d8105339539fcf560f",
-      "levelid": "custom_level_e3dff3bf676e539c7bc007d8105339539fcf560f"
-    },
-    {
-      "key": "4997a",
-      "songName": "Perfume - Lovefool (30秒Ver.)",
-      "hash": "1a4647d79476e012f96e0838417f291554739d31",
-      "levelid": "custom_level_1a4647d79476e012f96e0838417f291554739d31"
-    },
-    {
-      "key": "49976",
-      "songName": "VEM NO PIQUE",
-      "hash": "fe0a95010a6bc83dada0658e25f3be23403655b1",
-      "levelid": "custom_level_fe0a95010a6bc83dada0658e25f3be23403655b1"
-    },
-    {
-      "key": "49973",
-      "songName": "Rotteen - VECTLEGGENDARIA",
-      "hash": "32d6592b27e58fcd7869c1cbfb6c3b45d263bc09",
-      "levelid": "custom_level_32d6592b27e58fcd7869c1cbfb6c3b45d263bc09"
-    },
-    {
-      "key": "4996f",
-      "songName": "ᵒⁿ ᵈⁱˢᵖˡᵃʸ ᵃᵗ ²⁰ ⁰⁰⁰ ᵇᵖᵐ ",
-      "hash": "dcb6c94f2f64e9afbc3ca6bd866feca5ffba58f9",
-      "levelid": "custom_level_dcb6c94f2f64e9afbc3ca6bd866feca5ffba58f9"
-    },
-    {
-      "key": "49960",
-      "songName": "TWICE - Be as ONE",
-      "hash": "b1e0d07ae3182e59a0ccfd5aae278b78a032b4f0",
-      "levelid": "custom_level_b1e0d07ae3182e59a0ccfd5aae278b78a032b4f0"
-    },
-    {
-      "key": "49945",
-      "songName": "TWICE - THIS IS FOR",
-      "hash": "07937daaaa63861cf91154e9b71da4f05d2df081",
-      "levelid": "custom_level_07937daaaa63861cf91154e9b71da4f05d2df081"
+      "hash": "9c0223feb76524d5ed2addd4ad6018cebc2e3425",
+      "levelid": "custom_level_9c0223feb76524d5ed2addd4ad6018cebc2e3425"
     }
   ],
   "image": ""
