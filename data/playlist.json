@@ -1,250 +1,328 @@
 {
-  "playlistTitle": "2025-08-18T15:18:52.649Z~2025-08-19T15:18:52.649Z",
+  "playlistTitle": "2025-08-19T15:18:49.668Z~2025-08-20T15:18:49.668Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-08-18T15:18:52.649Z and 2025-08-19T15:18:52.649Z",
+  "discripstion": "Maps published between 2025-08-19T15:18:49.668Z and 2025-08-20T15:18:49.668Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "49b08",
+      "songName": "Power Rangers: Jungle Fury Main Theme",
+      "hash": "c1f33dcdd480527ce57d489bffa2cfc9dfef8ad8",
+      "levelid": "custom_level_c1f33dcdd480527ce57d489bffa2cfc9dfef8ad8"
+    },
+    {
+      "key": "49a8f",
+      "songName": "namigroove-NojaLolic のじゃロリック",
+      "hash": "63b7cc149f78e17b879594fa3991db90d646d7f4",
+      "levelid": "custom_level_63b7cc149f78e17b879594fa3991db90d646d7f4"
+    },
+    {
+      "key": "49b06",
+      "songName": "Guiding Lights",
+      "hash": "c3d8a9521eb44833eeecda96e812d74da6ae5c31",
+      "levelid": "custom_level_c3d8a9521eb44833eeecda96e812d74da6ae5c31"
+    },
+    {
+      "key": "49b05",
+      "songName": "The Devil Went Down to Georgia - The Charlie Daniels Band",
+      "hash": "8aa2cef89aade6f0b4453599b62e36f47a3d88f7",
+      "levelid": "custom_level_8aa2cef89aade6f0b4453599b62e36f47a3d88f7"
+    },
+    {
+      "key": "49b03",
+      "songName": "[Feetsaber]Life Will Change",
+      "hash": "3277401ea34f26ca3df0c9efda36d40b0d3a02e7",
+      "levelid": "custom_level_3277401ea34f26ca3df0c9efda36d40b0d3a02e7"
+    },
+    {
+      "key": "49b04",
+      "songName": "Mo Falk & MADZI - Let's Go",
+      "hash": "d93451340ee2938a679a272d1409f539a1d7ad16",
+      "levelid": "custom_level_d93451340ee2938a679a272d1409f539a1d7ad16"
+    },
+    {
+      "key": "49b01",
+      "songName": "keep out!",
+      "hash": "23fbdf9d9699b5b8a894a6325e78fcd09b283783",
+      "levelid": "custom_level_23fbdf9d9699b5b8a894a6325e78fcd09b283783"
+    },
+    {
+      "key": "49afa",
+      "songName": "Asian Hideout - Error 403: paradise x paradigm",
+      "hash": "0d3d3a876bf0d0244e8446bac157db915828cac3",
+      "levelid": "custom_level_0d3d3a876bf0d0244e8446bac157db915828cac3"
+    },
+    {
+      "key": "49af9",
+      "songName": "The Wolverine Doll - Almighty Tevin Fights Mr. Gout (ft. The Wolverine Doll)",
+      "hash": "522ae0109dc7e4039796cc6c73fb80b6e18f87a6",
+      "levelid": "custom_level_522ae0109dc7e4039796cc6c73fb80b6e18f87a6"
+    },
+    {
+      "key": "49af7",
+      "songName": "GOT7 - PYTHON",
+      "hash": "a92d75135e6598195819f73bf71ddd9b211addcb",
+      "levelid": "custom_level_a92d75135e6598195819f73bf71ddd9b211addcb"
+    },
+    {
+      "key": "49af4",
+      "songName": "Sosiska v teste",
+      "hash": "9c0f7436ed19e5f3c8667806f3d7bab67f82594d",
+      "levelid": "custom_level_9c0f7436ed19e5f3c8667806f3d7bab67f82594d"
+    },
+    {
+      "key": "49adf",
+      "songName": "Don't Let Her Cry 1 - Various Authors [One Piece: Pirate Warriors]",
+      "hash": "6c4e7a53dd10c6b5af13489897d6002b04995f3d",
+      "levelid": "custom_level_6c4e7a53dd10c6b5af13489897d6002b04995f3d"
+    },
+    {
+      "key": "49ada",
+      "songName": "Tanger-bike_test",
+      "hash": "312b3581a490f1e216160e0492ac4d59b51ffe64",
+      "levelid": "custom_level_312b3581a490f1e216160e0492ac4d59b51ffe64"
+    },
+    {
+      "key": "49a39",
+      "songName": "5opka, Mellsher- XXL ",
+      "hash": "95741467d3ea4eb58d15d3fedb4a7c55834c6e05",
+      "levelid": "custom_level_95741467d3ea4eb58d15d3fedb4a7c55834c6e05"
+    },
+    {
+      "key": "49ad7",
+      "songName": "Drytoph core:",
+      "hash": "2ba088ddc1558d9e42502c88515b6a123113d671",
+      "levelid": "custom_level_2ba088ddc1558d9e42502c88515b6a123113d671"
+    },
+    {
+      "key": "49ad6",
+      "songName": "So Damn Easy, NOTSOBAD, Gaullin, NOËP - Hold On (Poodles)",
+      "hash": "362542fa9ddb963755021d12769fce4abdaac55b",
+      "levelid": "custom_level_362542fa9ddb963755021d12769fce4abdaac55b"
+    },
+    {
+      "key": "49ad5",
+      "songName": "Sword",
+      "hash": "a2dbcbf77f55b392f87973450fae3fe0cb2c8918",
+      "levelid": "custom_level_a2dbcbf77f55b392f87973450fae3fe0cb2c8918"
+    },
+    {
+      "key": "49ad4",
+      "songName": "charlie xcx - party 4 u (varrapa remix)",
+      "hash": "6715f71bb527101eadf74594aaa0a1e7ad81bc35",
+      "levelid": "custom_level_6715f71bb527101eadf74594aaa0a1e7ad81bc35"
+    },
+    {
+      "key": "49ad3",
+      "songName": "Mystical Magical (Preview Edit)",
+      "hash": "4cbaa463e76f52dcc902321cc0fc54c92a406e59",
+      "levelid": "custom_level_4cbaa463e76f52dcc902321cc0fc54c92a406e59"
+    },
+    {
+      "key": "49ad2",
+      "songName": "2hollis - FORFEIT",
+      "hash": "02001782635f426f107807aaf770bec9af1e5783",
+      "levelid": "custom_level_02001782635f426f107807aaf770bec9af1e5783"
+    },
+    {
+      "key": "49ad1",
+      "songName": "canes dish",
+      "hash": "dc4ad734451a38d35d4196fde786247eb25cbdb5",
+      "levelid": "custom_level_dc4ad734451a38d35d4196fde786247eb25cbdb5"
+    },
+    {
+      "key": "49ad0",
+      "songName": "Me Myself & I - 5 Seconds of Summer",
+      "hash": "69671723f12c09ee783a0da2e2122c58ff32ce0a",
+      "levelid": "custom_level_69671723f12c09ee783a0da2e2122c58ff32ce0a"
+    },
+    {
+      "key": "49acf",
+      "songName": "Hard Times X Lizard",
+      "hash": "d30ef27d00d32e1a8f98aa462e4e77569a5bd4bc",
+      "levelid": "custom_level_d30ef27d00d32e1a8f98aa462e4e77569a5bd4bc"
+    },
+    {
+      "key": "49ace",
+      "songName": "jealous",
+      "hash": "d27de337d82af10158fa91db6700668f368fd579",
+      "levelid": "custom_level_d27de337d82af10158fa91db6700668f368fd579"
+    },
+    {
+      "key": "49ac9",
+      "songName": "Irene Cara - The Dream (Hold On To Your Dream)",
+      "hash": "4413ae46e14cfbc4de2ec03ed3b917f76599ebc9",
+      "levelid": "custom_level_4413ae46e14cfbc4de2ec03ed3b917f76599ebc9"
+    },
+    {
+      "key": "49ac8",
+      "songName": "Irene Cara - Fame",
+      "hash": "58ade1b853139ed111df9835d198dd02f43ef185",
+      "levelid": "custom_level_58ade1b853139ed111df9835d198dd02f43ef185"
+    },
+    {
+      "key": "49ac5",
+      "songName": "FELT - Rendezvous",
+      "hash": "350a7d4713aecfa0ffaa638ad9435922f36e077d",
+      "levelid": "custom_level_350a7d4713aecfa0ffaa638ad9435922f36e077d"
+    },
+    {
+      "key": "49ac4",
+      "songName": "CARNIVAL",
+      "hash": "32bda647dca5d7e4748f0cec1f53411300a44eea",
+      "levelid": "custom_level_32bda647dca5d7e4748f0cec1f53411300a44eea"
+    },
+    {
+      "key": "49ac3",
+      "songName": "Hellokittybalahcurrihellokitty美味しい",
+      "hash": "1f2be72571084b727aec1b604352cf31f5b561b4",
+      "levelid": "custom_level_1f2be72571084b727aec1b604352cf31f5b561b4"
+    },
+    {
+      "key": "49ac1",
+      "songName": "LilDeuceDeuce - Everybody Do The Flop",
+      "hash": "9a5d15487fc65dd383400e524e68aeebd96f3342",
+      "levelid": "custom_level_9a5d15487fc65dd383400e524e68aeebd96f3342"
+    },
+    {
+      "key": "49abf",
+      "songName": "BOOM BOOM BOOM",
+      "hash": "bfb99f0897d8166bbd7c87021db2bf6ed3124f74",
+      "levelid": "custom_level_bfb99f0897d8166bbd7c87021db2bf6ed3124f74"
+    },
+    {
+      "key": "49abe",
+      "songName": "Busy town",
+      "hash": "616ca340834a62e61ac20e26f906d9106443861c",
+      "levelid": "custom_level_616ca340834a62e61ac20e26f906d9106443861c"
+    },
+    {
+      "key": "49abd",
+      "songName": "[Lightshow] Game Grumps - Choose A Dessert (Sbassbear Remix)",
+      "hash": "eb7606101b1b461e4aaf2db4695ae6dd9451dc36",
+      "levelid": "custom_level_eb7606101b1b461e4aaf2db4695ae6dd9451dc36"
+    },
+    {
+      "key": "49abc",
+      "songName": "t+pazolite - Tempestissimo",
+      "hash": "d5beb25f45ebca4a537261e01b25489497f2e926",
+      "levelid": "custom_level_d5beb25f45ebca4a537261e01b25489497f2e926"
+    },
+    {
+      "key": "49abb",
+      "songName": "Negative XP - Put Your Head On My Shoulder",
+      "hash": "38853283db015178a72ed71792edc2e0c1c65ed3",
+      "levelid": "custom_level_38853283db015178a72ed71792edc2e0c1c65ed3"
+    },
+    {
+      "key": "49aba",
+      "songName": "Respect 100%",
+      "hash": "90db8ec7e7cec460227935495a8b49e99057b454",
+      "levelid": "custom_level_90db8ec7e7cec460227935495a8b49e99057b454"
+    },
+    {
+      "key": "49ab9",
+      "songName": "Grandpa's wheelchair",
+      "hash": "aeacf0727f365cb08c9cbf44c656431aea686495",
+      "levelid": "custom_level_aeacf0727f365cb08c9cbf44c656431aea686495"
+    },
+    {
+      "key": "49ab6",
+      "songName": "不可说",
+      "hash": "554624efe18c0e771408e6e86cececc4fe107755",
+      "levelid": "custom_level_554624efe18c0e771408e6e86cececc4fe107755"
+    },
+    {
+      "key": "49ab5",
+      "songName": "Unwelcome School (t+pazolite Remix)",
+      "hash": "3b40e52f7e1cf428d86f5d5da48f27714b30e9fd",
+      "levelid": "custom_level_3b40e52f7e1cf428d86f5d5da48f27714b30e9fd"
+    },
+    {
+      "key": "49ab4",
+      "songName": "THE DAY I DIE - Daughtry",
+      "hash": "91ca675dc311f9c2f44337b576d9290f3386f105",
+      "levelid": "custom_level_91ca675dc311f9c2f44337b576d9290f3386f105"
+    },
+    {
+      "key": "49ab2",
+      "songName": "griffnjoz - idontwannaknowyou",
+      "hash": "ea7a69809d2491ee02de64390ab3bf05d240dabc",
+      "levelid": "custom_level_ea7a69809d2491ee02de64390ab3bf05d240dabc"
+    },
+    {
+      "key": "49ab0",
+      "songName": "viktor_bob - INTERNET YAMERO",
+      "hash": "0fa04dbf09b78649f9abd0e5fb5fb65c7ad43a05",
+      "levelid": "custom_level_0fa04dbf09b78649f9abd0e5fb5fb65c7ad43a05"
+    },
+    {
+      "key": "49aaf",
+      "songName": "[GD Mash Pack II] Camellia - Flamewall",
+      "hash": "7a7cf98d0e10d917230e8b6ec4d79375ff17599f",
+      "levelid": "custom_level_7a7cf98d0e10d917230e8b6ec4d79375ff17599f"
+    },
+    {
+      "key": "49a9e",
+      "songName": "I Can't Handle Change",
+      "hash": "de399ba2c9056d487ac514a3b7e320b457f6762a",
+      "levelid": "custom_level_de399ba2c9056d487ac514a3b7e320b457f6762a"
+    },
+    {
+      "key": "49a9d",
+      "songName": "Yak Ja Kot Thoe Nan Nan (HAVE A GOOD TIME) - BLVCKHEART",
+      "hash": "97d70c57f47eb2989e38c961e1973daa21dba04c",
+      "levelid": "custom_level_97d70c57f47eb2989e38c961e1973daa21dba04c"
+    },
+    {
+      "key": "49a9c",
+      "songName": "Phu Bao Suea Pui - Did Kitty",
+      "hash": "72bc30c7d762b69faebb4716866552d4c684cf86",
+      "levelid": "custom_level_72bc30c7d762b69faebb4716866552d4c684cf86"
+    },
+    {
+      "key": "49a95",
+      "songName": "Paramore - Hard Times",
+      "hash": "36514b96f2e08baac972a0492a215b1dc5be08c0",
+      "levelid": "custom_level_36514b96f2e08baac972a0492a215b1dc5be08c0"
+    },
+    {
+      "key": "49a94",
+      "songName": "BOA - Eat You Up",
+      "hash": "7f193c56570cdb6f63b4c871a34338035a327f77",
+      "levelid": "custom_level_7f193c56570cdb6f63b4c871a34338035a327f77"
+    },
+    {
+      "key": "49a90",
+      "songName": "Utsu-P - Ga (KAF Cover)",
+      "hash": "9e95a89e0bae5d47ecb09c02105bedc527184566",
+      "levelid": "custom_level_9e95a89e0bae5d47ecb09c02105bedc527184566"
+    },
+    {
+      "key": "49a91",
+      "songName": "Sharkuh - burned out",
+      "hash": "013a1ada24b6a63fba35a21a9218904c3b8738c0",
+      "levelid": "custom_level_013a1ada24b6a63fba35a21a9218904c3b8738c0"
+    },
+    {
+      "key": "49a88",
+      "songName": "Toby Fox - GUARDIAN",
+      "hash": "9e7932630b154964eea968ac005ec426963ea803",
+      "levelid": "custom_level_9e7932630b154964eea968ac005ec426963ea803"
+    },
+    {
+      "key": "49a11",
+      "songName": "KiiiKiii - DANCING ALONE",
+      "hash": "2447784198df2db539e40f868f92cbd30ee21aaa",
+      "levelid": "custom_level_2447784198df2db539e40f868f92cbd30ee21aaa"
+    },
+    {
       "key": "49a7a",
       "songName": "Yuri - USHIROJIKAN",
-      "hash": "3077c0abd829c371e1439d0a40e6a9ac0e09076b",
-      "levelid": "custom_level_3077c0abd829c371e1439d0a40e6a9ac0e09076b"
-    },
-    {
-      "key": "49a79",
-      "songName": "Shadow Hat",
-      "hash": "305dd27bff1044184635b1fc2e0da8d33ce14f04",
-      "levelid": "custom_level_305dd27bff1044184635b1fc2e0da8d33ce14f04"
-    },
-    {
-      "key": "49a69",
-      "songName": "Chartreuse Green",
-      "hash": "4bda69ea1eef9328dd64b9ae401bf8887a32574e",
-      "levelid": "custom_level_4bda69ea1eef9328dd64b9ae401bf8887a32574e"
-    },
-    {
-      "key": "49a77",
-      "songName": "What in the WORLD are they listening to in Africa😭",
-      "hash": "cd35fadfc85bdbd30449ffb26c24015686fcdd60",
-      "levelid": "custom_level_cd35fadfc85bdbd30449ffb26c24015686fcdd60"
-    },
-    {
-      "key": "49a60",
-      "songName": "Hashimero - Tokihanate!",
-      "hash": "5956b5c700dd2fd32040f68b31600937bd0954cb",
-      "levelid": "custom_level_5956b5c700dd2fd32040f68b31600937bd0954cb"
-    },
-    {
-      "key": "49a62",
-      "songName": "AD Infinitum - From The Ashes",
-      "hash": "56381a947dbd039fef7149095bcedcb7c4b2a2e9",
-      "levelid": "custom_level_56381a947dbd039fef7149095bcedcb7c4b2a2e9"
-    },
-    {
-      "key": "49a51",
-      "songName": "Infected Rain - Fighter",
-      "hash": "1914b2013d30eb274cac9f5d9bfd08710aee364a",
-      "levelid": "custom_level_1914b2013d30eb274cac9f5d9bfd08710aee364a"
-    },
-    {
-      "key": "49a4a",
-      "songName": "Blame - Korn",
-      "hash": "e8663b6e52ac1f00fc7b0d3d24fe6c99b62c7f2b",
-      "levelid": "custom_level_e8663b6e52ac1f00fc7b0d3d24fe6c99b62c7f2b"
-    },
-    {
-      "key": "49a3d",
-      "songName": "OOOOOOOOOOUUUUUUUUUUUUUUUUUUUUUUUHHHHH",
-      "hash": "6ca764f75230c068b0d39567998784e3fe198843",
-      "levelid": "custom_level_6ca764f75230c068b0d39567998784e3fe198843"
-    },
-    {
-      "key": "49a38",
-      "songName": "gmtn. - trappola bewitching",
-      "hash": "c4c400a851175144a00edd0213471585c7591c14",
-      "levelid": "custom_level_c4c400a851175144a00edd0213471585c7591c14"
-    },
-    {
-      "key": "49a37",
-      "songName": "What would you do if I abstracted tmrw",
-      "hash": "ff6e6e244039623fa894fe3f3a6331c653528f8e",
-      "levelid": "custom_level_ff6e6e244039623fa894fe3f3a6331c653528f8e"
-    },
-    {
-      "key": "49a36",
-      "songName": "Daisy Bell TDC",
-      "hash": "3336b40ea37ac294186acc1d0892eeb8b5d045fd",
-      "levelid": "custom_level_3336b40ea37ac294186acc1d0892eeb8b5d045fd"
-    },
-    {
-      "key": "49a2b",
-      "songName": "beware of the blud that speaks in mustard",
-      "hash": "4ec125d26112fd0a5e2d53325a0a500690712320",
-      "levelid": "custom_level_4ec125d26112fd0a5e2d53325a0a500690712320"
-    },
-    {
-      "key": "49a2a",
-      "songName": "DEEZL - AEON (NXC)",
-      "hash": "258c94d533530ed7d583300db095ccf646d70fb4",
-      "levelid": "custom_level_258c94d533530ed7d583300db095ccf646d70fb4"
-    },
-    {
-      "key": "49a29",
-      "songName": "Minstrelix - Runaway Faraway",
-      "hash": "0e803698710a3826e4ea1988c90d5873805b6c42",
-      "levelid": "custom_level_0e803698710a3826e4ea1988c90d5873805b6c42"
-    },
-    {
-      "key": "49a25",
-      "songName": "808'S",
-      "hash": "1f44728ce6bfa1f6a2a94e17c4e9cbfe04d36918",
-      "levelid": "custom_level_1f44728ce6bfa1f6a2a94e17c4e9cbfe04d36918"
-    },
-    {
-      "key": "49a24",
-      "songName": "flow - creo",
-      "hash": "036821a526f61eba0be510680c77e753eb8e3110",
-      "levelid": "custom_level_036821a526f61eba0be510680c77e753eb8e3110"
-    },
-    {
-      "key": "49a22",
-      "songName": "3 thick men.",
-      "hash": "6dc830b3d579bff3fdd5bc8161180de79c98445e",
-      "levelid": "custom_level_6dc830b3d579bff3fdd5bc8161180de79c98445e"
-    },
-    {
-      "key": "49a21",
-      "songName": "niganiga phonk",
-      "hash": "447b9c2376d9e3c85b42f410c5b0109ae489f7dc",
-      "levelid": "custom_level_447b9c2376d9e3c85b42f410c5b0109ae489f7dc"
-    },
-    {
-      "key": "49a1f",
-      "songName": "Cant slow me down",
-      "hash": "e56665226f1d667d669c18730036a3ac5bbbd39c",
-      "levelid": "custom_level_e56665226f1d667d669c18730036a3ac5bbbd39c"
-    },
-    {
-      "key": "49a1e",
-      "songName": "Billiummoto - Amethyst Aurora",
-      "hash": "3cfd8d54a561a069b294b5d0b14c7fd63eed59d1",
-      "levelid": "custom_level_3cfd8d54a561a069b294b5d0b14c7fd63eed59d1"
-    },
-    {
-      "key": "49a1d",
-      "songName": "Fin Callender-Make Me Feel",
-      "hash": "7ffd6f48d875085629eb5c0d3c9308ed22c71e70",
-      "levelid": "custom_level_7ffd6f48d875085629eb5c0d3c9308ed22c71e70"
-    },
-    {
-      "key": "49a1c",
-      "songName": "[V4] Porter Robinson - Lionhearted [Radio Edit]",
-      "hash": "c040c3391bcedee5e843a2c7b808915c6a7801e0",
-      "levelid": "custom_level_c040c3391bcedee5e843a2c7b808915c6a7801e0"
-    },
-    {
-      "key": "49a1a",
-      "songName": "Illusion of Choice",
-      "hash": "b60885abdf0fbb1d2c8e8347011cc785cf7585c3",
-      "levelid": "custom_level_b60885abdf0fbb1d2c8e8347011cc785cf7585c3"
-    },
-    {
-      "key": "49a19",
-      "songName": "にゃんだふる！",
-      "hash": "09c74da265fef6437cc21dd7d7cc32863e8fac06",
-      "levelid": "custom_level_09c74da265fef6437cc21dd7d7cc32863e8fac06"
-    },
-    {
-      "key": "49a17",
-      "songName": "Ok",
-      "hash": "cff6e37dc6325bd7ec052739133ee9ac7973ccdf",
-      "levelid": "custom_level_cff6e37dc6325bd7ec052739133ee9ac7973ccdf"
-    },
-    {
-      "key": "49a15",
-      "songName": "Blind - Korn",
-      "hash": "11b61c5e1563f2eceff671080e52ea1cf589cbfc",
-      "levelid": "custom_level_11b61c5e1563f2eceff671080e52ea1cf589cbfc"
-    },
-    {
-      "key": "49a14",
-      "songName": "assadist pussy got me actin strange but bad",
-      "hash": "8ea08ca733473bf37993e558653ade9db91f5429",
-      "levelid": "custom_level_8ea08ca733473bf37993e558653ade9db91f5429"
-    },
-    {
-      "key": "49a13",
-      "songName": "spiralスパイラル",
-      "hash": "f0b0ad6d205d20c93ddb3026a91d329186e8be0f",
-      "levelid": "custom_level_f0b0ad6d205d20c93ddb3026a91d329186e8be0f"
-    },
-    {
-      "key": "49a10",
-      "songName": "joz - I Can't See",
-      "hash": "e016658c3bf90997d94f4d5b720972937076994d",
-      "levelid": "custom_level_e016658c3bf90997d94f4d5b720972937076994d"
-    },
-    {
-      "key": "49a0f",
-      "songName": "here it comes",
-      "hash": "9e2aa63854f6478f153c10a46f0899ae05495ca0",
-      "levelid": "custom_level_9e2aa63854f6478f153c10a46f0899ae05495ca0"
-    },
-    {
-      "key": "49a0e",
-      "songName": "iron does the car frequency challenge",
-      "hash": "dd41e508579c73063acef36b54acaae205f1a3e0",
-      "levelid": "custom_level_dd41e508579c73063acef36b54acaae205f1a3e0"
-    },
-    {
-      "key": "49a05",
-      "songName": "a thank you note, pt.1 - xójira {Modchart}",
-      "hash": "f507e933124c2600f2376b10621e891d51e55df9",
-      "levelid": "custom_level_f507e933124c2600f2376b10621e891d51e55df9"
-    },
-    {
-      "key": "49a01",
-      "songName": "GROUND UP - 7038634357",
-      "hash": "797e3407950ca99c44f059e5e05cf5b95a18ac75",
-      "levelid": "custom_level_797e3407950ca99c44f059e5e05cf5b95a18ac75"
-    },
-    {
-      "key": "499fa",
-      "songName": "Stray Kids - JJAM",
-      "hash": "012636a0a358462013791036402db1016c5f417e",
-      "levelid": "custom_level_012636a0a358462013791036402db1016c5f417e"
-    },
-    {
-      "key": "499ce",
-      "songName": "Kobaryo - Magical Sanctuary",
-      "hash": "d85c6162825c6c95df7a1dd8ec3d9c807468fbf2",
-      "levelid": "custom_level_d85c6162825c6c95df7a1dd8ec3d9c807468fbf2"
-    },
-    {
-      "key": "499cb",
-      "songName": "KARDI - Havin' a Good Time",
-      "hash": "c1bd8f15b9e52445007715e250b3faea7798baa5",
-      "levelid": "custom_level_c1bd8f15b9e52445007715e250b3faea7798baa5"
-    },
-    {
-      "key": "499cc",
-      "songName": "600 BPM",
-      "hash": "f66b38ba308c717a3227bb763e795dd6c34d0f1c",
-      "levelid": "custom_level_f66b38ba308c717a3227bb763e795dd6c34d0f1c"
-    },
-    {
-      "key": "499c6",
-      "songName": "Requiem of the Beyond · Wuthering Waves",
-      "hash": "f7f1f226ffbf070353479959cd41c3700c43f547",
-      "levelid": "custom_level_f7f1f226ffbf070353479959cd41c3700c43f547"
-    },
-    {
-      "key": "499c5",
-      "songName": "I like the way you kiss me",
-      "hash": "9c0223feb76524d5ed2addd4ad6018cebc2e3425",
-      "levelid": "custom_level_9c0223feb76524d5ed2addd4ad6018cebc2e3425"
+      "hash": "392dc95741437df366708b5f1fd604255e79d78c",
+      "levelid": "custom_level_392dc95741437df366708b5f1fd604255e79d78c"
     }
   ],
   "image": ""
