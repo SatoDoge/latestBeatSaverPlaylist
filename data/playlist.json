@@ -1,208 +1,256 @@
 {
-  "playlistTitle": "2025-08-20T15:18:52.090Z~2025-08-21T15:18:52.090Z",
+  "playlistTitle": "2025-08-21T15:18:48.521Z~2025-08-22T15:18:48.521Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-08-20T15:18:52.090Z and 2025-08-21T15:18:52.090Z",
+  "discripstion": "Maps published between 2025-08-21T15:18:48.521Z and 2025-08-22T15:18:48.521Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "49b6b",
-      "songName": "RiceBubs - One Bad Gloop",
-      "hash": "7e7c496d66a6ab856f745104d527c018cb9c683e",
-      "levelid": "custom_level_7e7c496d66a6ab856f745104d527c018cb9c683e"
+      "key": "49c18",
+      "songName": "CG5 - 4get",
+      "hash": "c911c07006851ae7cf5aa20ef0eb28c1f23065c9",
+      "levelid": "custom_level_c911c07006851ae7cf5aa20ef0eb28c1f23065c9"
     },
     {
-      "key": "49b6a",
-      "songName": "Toby Fox - From Now On (Battle 2)",
-      "hash": "6cec9c16ac3ace423ad49ced54adefd92d630def",
-      "levelid": "custom_level_6cec9c16ac3ace423ad49ced54adefd92d630def"
+      "key": "49c17",
+      "songName": "CG5 - MINION",
+      "hash": "7e81e976d760b25b7f65d697b9bf4b0bb786fcb3",
+      "levelid": "custom_level_7e81e976d760b25b7f65d697b9bf4b0bb786fcb3"
     },
     {
-      "key": "49b61",
-      "songName": "imaha iindayo - covered by Minato Aqua",
-      "hash": "48a2174d66fe91b131e6ec8d73ffaffc89d0a943",
-      "levelid": "custom_level_48a2174d66fe91b131e6ec8d73ffaffc89d0a943"
+      "key": "49b63",
+      "songName": "LamazeP - おちゃめ機能",
+      "hash": "8946e33109943e09025fde814eb2d4ce75e2796c",
+      "levelid": "custom_level_8946e33109943e09025fde814eb2d4ce75e2796c"
     },
     {
-      "key": "49b5f",
-      "songName": "VTORNIK - Джони Вонкер",
-      "hash": "68d1a1a9aefe661b125c1cd46dc610c7b4f898d0",
-      "levelid": "custom_level_68d1a1a9aefe661b125c1cd46dc610c7b4f898d0"
+      "key": "49c15",
+      "songName": "Camellia - finorza",
+      "hash": "0bb9540b8f49a8cb815b8be4b4012a0b9e0265fd",
+      "levelid": "custom_level_0bb9540b8f49a8cb815b8be4b4012a0b9e0265fd"
     },
     {
-      "key": "49b53",
-      "songName": "Let It Happen-Tame Impala",
-      "hash": "a55486b1e93425cc8434f0542f4b177ad671dfd8",
-      "levelid": "custom_level_a55486b1e93425cc8434f0542f4b177ad671dfd8"
+      "key": "49c13",
+      "songName": "jodi - if you do",
+      "hash": "192d734fbeaabd28dc0eb94616bbc89f7d98acb4",
+      "levelid": "custom_level_192d734fbeaabd28dc0eb94616bbc89f7d98acb4"
     },
     {
-      "key": "49b52",
-      "songName": "130224",
-      "hash": "891aefeea8574d4f0277d4a253b8d0a751c52115",
-      "levelid": "custom_level_891aefeea8574d4f0277d4a253b8d0a751c52115"
+      "key": "49c12",
+      "songName": "AmaLee - Backlight (From ”One Piece Film: Red”)",
+      "hash": "5159109a708d7e7898aa65bd344da5db02715d3e",
+      "levelid": "custom_level_5159109a708d7e7898aa65bd344da5db02715d3e"
     },
     {
-      "key": "49b51",
-      "songName": "YAMINABE ! ! ! !",
-      "hash": "5549318b1eaf0eb18496791e62f1021f7c2460fc",
-      "levelid": "custom_level_5549318b1eaf0eb18496791e62f1021f7c2460fc"
+      "key": "49c11",
+      "songName": "LilyPichu - Into Dust",
+      "hash": "5637e1ef2e9cf734dce9d3eb6e40246f0caf8425",
+      "levelid": "custom_level_5637e1ef2e9cf734dce9d3eb6e40246f0caf8425"
     },
     {
-      "key": "49b50",
-      "songName": "Kou! - ZiWEiYUAN",
-      "hash": "73726db1303da5ac32fff13758c91281cee97ace",
-      "levelid": "custom_level_73726db1303da5ac32fff13758c91281cee97ace"
+      "key": "49c10",
+      "songName": "Super Shy (Remix)",
+      "hash": "fe5970f5227a7646ef3a2942c0e2508c5ed296d8",
+      "levelid": "custom_level_fe5970f5227a7646ef3a2942c0e2508c5ed296d8"
     },
     {
-      "key": "49b48",
-      "songName": "Patrick Has the Play-doh!",
-      "hash": "9d1473de7bc1ef6a3b2a72560a6ba9f483a7df98",
-      "levelid": "custom_level_9d1473de7bc1ef6a3b2a72560a6ba9f483a7df98"
+      "key": "49be7",
+      "songName": "Mitsukiyo - Morose Dreamer",
+      "hash": "50947fce886f938dbe74c61ca4995dc722cab496",
+      "levelid": "custom_level_50947fce886f938dbe74c61ca4995dc722cab496"
     },
     {
-      "key": "49b46",
-      "songName": "valiess first fl project",
-      "hash": "9c27d442843facfc8e46eab91efd645c12a53ca1",
-      "levelid": "custom_level_9c27d442843facfc8e46eab91efd645c12a53ca1"
+      "key": "49c04",
+      "songName": "Ironmouse - Time To Feast",
+      "hash": "46f49ba7099c188fe9461e19e8909fce680754d6",
+      "levelid": "custom_level_46f49ba7099c188fe9461e19e8909fce680754d6"
     },
     {
-      "key": "49b45",
-      "songName": "Dirty Secrets - d4vd  (Poodle)",
-      "hash": "6b41957f05370f27fb9453c8383a5aae4fe142ff",
-      "levelid": "custom_level_6b41957f05370f27fb9453c8383a5aae4fe142ff"
+      "key": "49c01",
+      "songName": "Gateway Galaxy (OST) - Mahito Yokota [Super Mario Galaxy]",
+      "hash": "8c91fb422b5d847ccef716e14239ab51cd81c06e",
+      "levelid": "custom_level_8c91fb422b5d847ccef716e14239ab51cd81c06e"
     },
     {
-      "key": "49b43",
-      "songName": "Missed Connections (Chase Icon)",
-      "hash": "38d0ec1020a13e8d60428b87c33c33e67d3ff9c3",
-      "levelid": "custom_level_38d0ec1020a13e8d60428b87c33c33e67d3ff9c3"
+      "key": "49bfe",
+      "songName": "The Star Festival - Mahito Yokota [Super Mario Galaxy]",
+      "hash": "7c70f4baffb12d641d76ed9fe278b53178583354",
+      "levelid": "custom_level_7c70f4baffb12d641d76ed9fe278b53178583354"
     },
     {
-      "key": "49b41",
-      "songName": "Mika beating you with a frying pan",
-      "hash": "2ded0be983ed0267fcc588520269759748c6cc2c",
-      "levelid": "custom_level_2ded0be983ed0267fcc588520269759748c6cc2c"
+      "key": "49bfa",
+      "songName": "File Select (OST) - Mahito Yokota [Super Mario Galaxy]",
+      "hash": "bf83f0384dee9f6f84a3abcf923f19ea0d53f119",
+      "levelid": "custom_level_bf83f0384dee9f6f84a3abcf923f19ea0d53f119"
     },
     {
-      "key": "49b40",
-      "songName": "eltinonno - Pelos en el cul0",
-      "hash": "bd61ccd1fd3da47e8d761afe9a21e2d0998289cf",
-      "levelid": "custom_level_bd61ccd1fd3da47e8d761afe9a21e2d0998289cf"
+      "key": "49bfc",
+      "songName": "Luma - Mahito Yokota [Super Mario Galaxy]",
+      "hash": "256843614689fde42e44727845f8a00da85a4a87",
+      "levelid": "custom_level_256843614689fde42e44727845f8a00da85a4a87"
     },
     {
-      "key": "49b3f",
-      "songName": "Doja Cat - Woman",
-      "hash": "93ce54c6c144a5d4d9c414fd70c997e55f0cc009",
-      "levelid": "custom_level_93ce54c6c144a5d4d9c414fd70c997e55f0cc009"
+      "key": "49bf6",
+      "songName": "Overture - Mahito Yokota [Super Mario Galaxy]",
+      "hash": "068aa792e6bab438b763d8c97b1c59351601becb",
+      "levelid": "custom_level_068aa792e6bab438b763d8c97b1c59351601becb"
     },
     {
-      "key": "49b3e",
-      "songName": " Glue Monkey - fur:trash",
-      "hash": "cdfb384979651d7e94e6b3d47250b766f1c0dbda",
-      "levelid": "custom_level_cdfb384979651d7e94e6b3d47250b766f1c0dbda"
+      "key": "49bfd",
+      "songName": "Calm Down",
+      "hash": "88ca8415f2c7aaef21f13ed98909fa3a7c981a44",
+      "levelid": "custom_level_88ca8415f2c7aaef21f13ed98909fa3a7c981a44"
     },
     {
-      "key": "49b3a",
-      "songName": "Madeon - Love you back",
-      "hash": "2020c05b3004d8333b9d966bd185734905f4c085",
-      "levelid": "custom_level_2020c05b3004d8333b9d966bd185734905f4c085"
+      "key": "49bf3",
+      "songName": "Kurwastyle Project - Lost in Society",
+      "hash": "4af4f34ad09c40e0ffce7c7e4e45f61f80586fac",
+      "levelid": "custom_level_4af4f34ad09c40e0ffce7c7e4e45f61f80586fac"
     },
     {
-      "key": "49b38",
-      "songName": "[Feetsaber]Constant Moderato",
-      "hash": "8df5d60e18865fe6ab334e0f082006827287059c",
-      "levelid": "custom_level_8df5d60e18865fe6ab334e0f082006827287059c"
+      "key": "49bf2",
+      "songName": "Golden",
+      "hash": "83bae1697fe3650d723779b90f4a39afc961f291",
+      "levelid": "custom_level_83bae1697fe3650d723779b90f4a39afc961f291"
     },
     {
-      "key": "49b33",
-      "songName": "Moon Age",
-      "hash": "84e1a41aedac103085cc6c76f6612d945c0688cc",
-      "levelid": "custom_level_84e1a41aedac103085cc6c76f6612d945c0688cc"
+      "key": "49bf1",
+      "songName": "Wind",
+      "hash": "be1acfe6e7a1598e6c53c9111c01b134953bca06",
+      "levelid": "custom_level_be1acfe6e7a1598e6c53c9111c01b134953bca06"
     },
     {
-      "key": "49b30",
-      "songName": "Vishnevaya Semerka",
-      "hash": "afd73191921518ea4ab8ab68a75b1ba4acc96c42",
-      "levelid": "custom_level_afd73191921518ea4ab8ab68a75b1ba4acc96c42"
+      "key": "49b66",
+      "songName": "羊文学 -「mild days」(サイレント・ウィッチ 沈黙の魔女の隠しごと)",
+      "hash": "262e5cbfcddb4c531ecf221f7f07b3c8ae9c623d",
+      "levelid": "custom_level_262e5cbfcddb4c531ecf221f7f07b3c8ae9c623d"
     },
     {
-      "key": "49b2e",
-      "songName": "Don't Look Down - Ellie_Minibot",
-      "hash": "4f5f73dc7abc3e51b7f0149db9893f20efaeb7b7",
-      "levelid": "custom_level_4f5f73dc7abc3e51b7f0149db9893f20efaeb7b7"
+      "key": "491a9",
+      "songName": "スイミン不足 (suimin busoku)",
+      "hash": "c435ebfed27d75b6b4705fa595d345205cc0d0a4",
+      "levelid": "custom_level_c435ebfed27d75b6b4705fa595d345205cc0d0a4"
     },
     {
-      "key": "49ac6",
-      "songName": "Señorita - Shawn Mendes & Camila Cabello",
-      "hash": "09aa836e2f444096f3d0579b736b01c6ff367ec8",
-      "levelid": "custom_level_09aa836e2f444096f3d0579b736b01c6ff367ec8"
+      "key": "49bf0",
+      "songName": "Leah Culver, LeKtriQue, Virtual Riot - Neon Angels ",
+      "hash": "a68167adcf1e70003dadd7747e6e5bcbc738e9a2",
+      "levelid": "custom_level_a68167adcf1e70003dadd7747e6e5bcbc738e9a2"
     },
     {
-      "key": "49b2c",
-      "songName": "Check (Hatsune Miku)",
-      "hash": "1ef6e92f0f3b4d94c8a7343c0ab80ecb11f3a9e0",
-      "levelid": "custom_level_1ef6e92f0f3b4d94c8a7343c0ab80ecb11f3a9e0"
+      "key": "49bef",
+      "songName": "YEJI (ITZY) - Crown On My Head",
+      "hash": "dc96c22d5bf31080b6511445e238f330b7364a6e",
+      "levelid": "custom_level_dc96c22d5bf31080b6511445e238f330b7364a6e"
     },
     {
-      "key": "49b2d",
-      "songName": "O FILA",
-      "hash": "ca953f6b22fe23c9cb26727aea4a2d1cce4b551a",
-      "levelid": "custom_level_ca953f6b22fe23c9cb26727aea4a2d1cce4b551a"
+      "key": "49bee",
+      "songName": "mystline",
+      "hash": "1f72e81b5d9115067553b248dfb08f0ecd9affe1",
+      "levelid": "custom_level_1f72e81b5d9115067553b248dfb08f0ecd9affe1"
     },
     {
-      "key": "49b2b",
-      "songName": "[Latin Dembow] Bad Bunny-NuevaYol",
-      "hash": "7b633cc240318a79a248d5ffebd3a3f0d56d5c5e",
-      "levelid": "custom_level_7b633cc240318a79a248d5ffebd3a3f0d56d5c5e"
+      "key": "49bed",
+      "songName": "Ich tu dir weh - Rammstein",
+      "hash": "34aed467403e28c592f6323a066d663b4cdbc52f",
+      "levelid": "custom_level_34aed467403e28c592f6323a066d663b4cdbc52f"
     },
     {
-      "key": "49b2a",
-      "songName": "Hell",
-      "hash": "a7dcc284eceea991e592210cb618df7796208c37",
-      "levelid": "custom_level_a7dcc284eceea991e592210cb618df7796208c37"
+      "key": "49bec",
+      "songName": "Doom Slayer - Alex Terrible",
+      "hash": "bc0f14c2c67a203f9ae9b814249670cbe5e11769",
+      "levelid": "custom_level_bc0f14c2c67a203f9ae9b814249670cbe5e11769"
     },
     {
-      "key": "49b29",
-      "songName": "Blank Fairy - Akira Yamaoka",
-      "hash": "ea07ccea5798b8537ee69bd55768689c24d87446",
-      "levelid": "custom_level_ea07ccea5798b8537ee69bd55768689c24d87446"
+      "key": "49be9",
+      "songName": "Runner Up - Lontalius",
+      "hash": "b7fbc4bf6e77a49e23609f311059d6ec9570d646",
+      "levelid": "custom_level_b7fbc4bf6e77a49e23609f311059d6ec9570d646"
     },
     {
-      "key": "49b28",
-      "songName": "Sherlock Theame Song",
-      "hash": "875b7813a78d7a735d7807ee44207d54e6053236",
-      "levelid": "custom_level_875b7813a78d7a735d7807ee44207d54e6053236"
+      "key": "49be8",
+      "songName": "Hot",
+      "hash": "b06374ea4cb5dc994c636bc86f43c28e6dd8facb",
+      "levelid": "custom_level_b06374ea4cb5dc994c636bc86f43c28e6dd8facb"
     },
     {
-      "key": "49b19",
-      "songName": "USAO-Quick Charge",
-      "hash": "c62ce7b538b9e6dc2c67f6cfdd5a381c1c4bbd89",
-      "levelid": "custom_level_c62ce7b538b9e6dc2c67f6cfdd5a381c1c4bbd89"
+      "key": "49be6",
+      "songName": "PASSO BEM SOLTO",
+      "hash": "36383bd1a90ec2f2799609717adeee5604f49d0f",
+      "levelid": "custom_level_36383bd1a90ec2f2799609717adeee5604f49d0f"
     },
     {
-      "key": "49ac2",
-      "songName": "Austin Giorgio - Drip Off",
-      "hash": "66b66198ce51ba76e2ea0ea56ae5a885d3a8a4b6",
-      "levelid": "custom_level_66b66198ce51ba76e2ea0ea56ae5a885d3a8a4b6"
+      "key": "49be2",
+      "songName": "HOYO-MiX, Reol - No Dazzle, No Break",
+      "hash": "a0f5c3e220bc873429af40c219742aa46a7e2e9d",
+      "levelid": "custom_level_a0f5c3e220bc873429af40c219742aa46a7e2e9d"
     },
     {
-      "key": "49b12",
-      "songName": "ACELERADA!",
-      "hash": "0d4c52d8e04bdaae69e70e65983de1431d7adadc",
-      "levelid": "custom_level_0d4c52d8e04bdaae69e70e65983de1431d7adadc"
+      "key": "49be0",
+      "songName": "I like the way you kiss me (Harddope remix)",
+      "hash": "0e7c46a67f132478fca0ef1903900cc22d7269fe",
+      "levelid": "custom_level_0e7c46a67f132478fca0ef1903900cc22d7269fe"
     },
     {
-      "key": "49b11",
-      "songName": "Ghost Fight",
-      "hash": "b0ccd9678f0516bf8aca60da648eb7d823edcc66",
-      "levelid": "custom_level_b0ccd9678f0516bf8aca60da648eb7d823edcc66"
+      "key": "49bd8",
+      "songName": "Lida - Dura i pridurok",
+      "hash": "eb004172619d8a6404b4eab2f07098d5abc40e92",
+      "levelid": "custom_level_eb004172619d8a6404b4eab2f07098d5abc40e92"
     },
     {
-      "key": "49b0a",
-      "songName": "CHUU - Strawberry Rush (Nightcore & Cut Ver.)",
-      "hash": "2c028b58fb71051423482b1e845fa7bfa9b462f7",
-      "levelid": "custom_level_2c028b58fb71051423482b1e845fa7bfa9b462f7"
+      "key": "49bd5",
+      "songName": "Overdrive - Yuuni",
+      "hash": "9dd4a51ade1ba07997e795f5cdd2244dc556a28e",
+      "levelid": "custom_level_9dd4a51ade1ba07997e795f5cdd2244dc556a28e"
+    },
+    {
+      "key": "49bcc",
+      "songName": "messing with my shitpost",
+      "hash": "a058765bb5920c61eec69b5495e7bfd523a7fe9b",
+      "levelid": "custom_level_a058765bb5920c61eec69b5495e7bfd523a7fe9b"
+    },
+    {
+      "key": "49bbd",
+      "songName": "takehirotei - 敗北のAltra Vita[Haiboku no Altra Vita]",
+      "hash": "11efcb316867e2f0ce532bc1f3ea61091af53441",
+      "levelid": "custom_level_11efcb316867e2f0ce532bc1f3ea61091af53441"
+    },
+    {
+      "key": "49b90",
+      "songName": "Kep1er - sync-love",
+      "hash": "747701b3e31549b2a4abed80bc2ea67f4a271f6d",
+      "levelid": "custom_level_747701b3e31549b2a4abed80bc2ea67f4a271f6d"
+    },
+    {
+      "key": "49b8e",
+      "songName": "Against The Current - The Fuss",
+      "hash": "59c4c20aa349681ffafa7fb9e43e56326c1a276e",
+      "levelid": "custom_level_59c4c20aa349681ffafa7fb9e43e56326c1a276e"
+    },
+    {
+      "key": "49b84",
+      "songName": "KING",
+      "hash": "06d39f013aa980c8686149aaecdd2bf0c156cfbc",
+      "levelid": "custom_level_06d39f013aa980c8686149aaecdd2bf0c156cfbc"
+    },
+    {
+      "key": "49b26",
+      "songName": "[Fitbeat] XG - IS THIS LOVE",
+      "hash": "16bb26a40224207fe57687bdb3808e59327519e3",
+      "levelid": "custom_level_16bb26a40224207fe57687bdb3808e59327519e3"
+    },
+    {
+      "key": "49b77",
+      "songName": "There She Goes",
+      "hash": "e5a0e10bbc5fd1250a327c929b3b5589da56ebbb",
+      "levelid": "custom_level_e5a0e10bbc5fd1250a327c929b3b5589da56ebbb"
+    },
+    {
+      "key": "49b6d",
+      "songName": "sheaskedwhatmylifeislike",
+      "hash": "332a7837c7362476acb320c8ded661e4ed0a2cbf",
+      "levelid": "custom_level_332a7837c7362476acb320c8ded661e4ed0a2cbf"
     }
   ],
   "image": ""
