@@ -1,226 +1,178 @@
 {
-  "playlistTitle": "2025-08-26T15:18:48.788Z~2025-08-27T15:18:48.788Z",
+  "playlistTitle": "2025-08-27T15:18:53.814Z~2025-08-28T15:18:53.814Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-08-26T15:18:48.788Z and 2025-08-27T15:18:48.788Z",
+  "discripstion": "Maps published between 2025-08-27T15:18:53.814Z and 2025-08-28T15:18:53.814Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "49f14",
+      "songName": "Во дворе - mzlff",
+      "hash": "36d8b5f4f6043674b01fed7959bf534411f8bfce",
+      "levelid": "custom_level_36d8b5f4f6043674b01fed7959bf534411f8bfce"
+    },
+    {
+      "key": "49f10",
+      "songName": "ANOTHER HIM",
+      "hash": "05df70008a0daddefe161d36062283b61bc9d5aa",
+      "levelid": "custom_level_05df70008a0daddefe161d36062283b61bc9d5aa"
+    },
+    {
+      "key": "49f0e",
+      "songName": "bad romance",
+      "hash": "9f5e1b17f64e825f2e75d520bd05668b5bd67daa",
+      "levelid": "custom_level_9f5e1b17f64e825f2e75d520bd05668b5bd67daa"
+    },
+    {
+      "key": "49f0d",
+      "songName": "Feel The Power",
+      "hash": "fe3826141974e30ae8f9470eb713ec405e6244e3",
+      "levelid": "custom_level_fe3826141974e30ae8f9470eb713ec405e6244e3"
+    },
+    {
+      "key": "49f0b",
+      "songName": "Forver",
+      "hash": "35991ab54cb71dcc12a3236cb55b79400a4ffb59",
+      "levelid": "custom_level_35991ab54cb71dcc12a3236cb55b79400a4ffb59"
+    },
+    {
+      "key": "49f0a",
+      "songName": "坐忘道",
+      "hash": "bbee03b93cb5ff77d514919250eb403e15583caf",
+      "levelid": "custom_level_bbee03b93cb5ff77d514919250eb403e15583caf"
+    },
+    {
+      "key": "49f04",
+      "songName": "Gucha Gucha Nurupo",
+      "hash": "9a4028002f2cd6b3172c68d54a40c83fb117c5dc",
+      "levelid": "custom_level_9a4028002f2cd6b3172c68d54a40c83fb117c5dc"
+    },
+    {
+      "key": "49f02",
+      "songName": "Xyris - Eviternity [OMT 2025]",
+      "hash": "97e544306a1d500064dee431059017894c809a09",
+      "levelid": "custom_level_97e544306a1d500064dee431059017894c809a09"
+    },
+    {
+      "key": "49f00",
+      "songName": "Teminite and Chime - Duckstep ",
+      "hash": "4e290573fbea24fbad148c738ed6b9bc4dba3dac",
+      "levelid": "custom_level_4e290573fbea24fbad148c738ed6b9bc4dba3dac"
+    },
+    {
+      "key": "49efd",
+      "songName": "Unnamed N'Djamena Radio Ndarason International 107.1 FM Snippet",
+      "hash": "62a8a590b1d14298f19bdeeedd13131e048dd1cb",
+      "levelid": "custom_level_62a8a590b1d14298f19bdeeedd13131e048dd1cb"
+    },
+    {
+      "key": "49efb",
+      "songName": "Nightfall - Remzcore",
+      "hash": "9dd4f1b6727d76dc5b5b826ea5460796b5c61c2d",
+      "levelid": "custom_level_9dd4f1b6727d76dc5b5b826ea5460796b5c61c2d"
+    },
+    {
+      "key": "49ef9",
+      "songName": "I Knew You Were Trouble",
+      "hash": "4048436a0e253a5a5ab5553db92deaa59ea3eb55",
+      "levelid": "custom_level_4048436a0e253a5a5ab5553db92deaa59ea3eb55"
+    },
+    {
+      "key": "49ef8",
+      "songName": "SDIYBT",
+      "hash": "02e680de0a3567a9e97df66ef418ae694dbccf79",
+      "levelid": "custom_level_02e680de0a3567a9e97df66ef418ae694dbccf79"
+    },
+    {
+      "key": "49ef6",
+      "songName": "cluli - S2 E2 oh my fault...",
+      "hash": "a428bf76fddc70cc7f63d3e9dc7b9e9a2e98f093",
+      "levelid": "custom_level_a428bf76fddc70cc7f63d3e9dc7b9e9a2e98f093"
+    },
+    {
+      "key": "49ef5",
+      "songName": "say it again - 2hollis",
+      "hash": "4df3c457ff1e756752225ff3624460206a43f67c",
+      "levelid": "custom_level_4df3c457ff1e756752225ff3624460206a43f67c"
+    },
+    {
+      "key": "49ef0",
+      "songName": "[Fitbeat] AKB48 - Sugar Rush (From \"Wreck-It Ralph\"/Soundtrack Version)",
+      "hash": "25b3575c7d94563290d75217467e886a18528f58",
+      "levelid": "custom_level_25b3575c7d94563290d75217467e886a18528f58"
+    },
+    {
+      "key": "49eef",
+      "songName": "Hyper Potions - Time Trials",
+      "hash": "f36327e607d095b4a806cffad4ba225d3efd9c7d",
+      "levelid": "custom_level_f36327e607d095b4a806cffad4ba225d3efd9c7d"
+    },
+    {
+      "key": "49eed",
+      "songName": "busy town metronomes",
+      "hash": "1029903fd61a6bb990fee1585aa5616a779ab9a7",
+      "levelid": "custom_level_1029903fd61a6bb990fee1585aa5616a779ab9a7"
+    },
+    {
+      "key": "49eea",
+      "songName": " gold bar v8",
+      "hash": "5602267c888cab5a2dd46fbeb8fd8cc0a5c741d9",
+      "levelid": "custom_level_5602267c888cab5a2dd46fbeb8fd8cc0a5c741d9"
+    },
+    {
+      "key": "49ee8",
+      "songName": "Last Friday Night",
+      "hash": "86f24f485697dd3b98e66355da8d90f310ac024e",
+      "levelid": "custom_level_86f24f485697dd3b98e66355da8d90f310ac024e"
+    },
+    {
+      "key": "49ee3",
+      "songName": "Cyn Sings Daisy Bell",
+      "hash": "431d269f840dd645c5772b6be322f50bdc853254",
+      "levelid": "custom_level_431d269f840dd645c5772b6be322f50bdc853254"
+    },
+    {
+      "key": "49ed6",
+      "songName": "[GD Mash Pack II] TRAELMYX - MORE STITCHES (Short Edit)",
+      "hash": "951dbf9a72c44226ca421ae243d1d13b75ee1a86",
+      "levelid": "custom_level_951dbf9a72c44226ca421ae243d1d13b75ee1a86"
+    },
+    {
+      "key": "49ed4",
+      "songName": "Death By Glamour feat.初音ミク",
+      "hash": "e6a16316040f7a8b803cc2459fdb04370b4a59ab",
+      "levelid": "custom_level_e6a16316040f7a8b803cc2459fdb04370b4a59ab"
+    },
+    {
+      "key": "49ed2",
+      "songName": "Beginner Treasures - Yuki Shimooka [Kirby and the Forgotten Land]",
+      "hash": "80363dac238e75cc35239aaf7995dbda77aa2663",
+      "levelid": "custom_level_80363dac238e75cc35239aaf7995dbda77aa2663"
+    },
+    {
+      "key": "49ed3",
+      "songName": "Running Through the New World - Yuuta Ogasawara [Kirby and the Forgotten Land]",
+      "hash": "f576a962746534d5521a5a210a9589d5e7cd7768",
+      "levelid": "custom_level_f576a962746534d5521a5a210a9589d5e7cd7768"
+    },
+    {
+      "key": "49b39",
+      "songName": "ifeye - r u ok?",
+      "hash": "df3cfc6591a86ff33e440b238978da31de0cec4f",
+      "levelid": "custom_level_df3cfc6591a86ff33e440b238978da31de0cec4f"
+    },
+    {
+      "key": "49ece",
+      "songName": "Amber 311",
+      "hash": "53c5a630fb1ecaa52b45f1efd606fcbcb41b5249",
+      "levelid": "custom_level_53c5a630fb1ecaa52b45f1efd606fcbcb41b5249"
+    },
+    {
       "key": "49ec7",
       "songName": " [Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.)) Pack] STAYC - Bubble (Sped Up) (English Ver.) (﻿Bubble (Sped Up) (English Ver.))",
-      "hash": "bb731987121c01f447d6da985adf92c5e44b0772",
-      "levelid": "custom_level_bb731987121c01f447d6da985adf92c5e44b0772"
-    },
-    {
-      "key": "49ec3",
-      "songName": "L.E.D. feat. Sana - THE SHINING POLARIS -kors k mix-",
-      "hash": "82e822bb1da8e7ffe36244dfd4856807d862e1b6",
-      "levelid": "custom_level_82e822bb1da8e7ffe36244dfd4856807d862e1b6"
-    },
-    {
-      "key": "49ebf",
-      "songName": "Wndrwll - Neil Cicierega [V3]",
-      "hash": "fe9d7bafca307a8d6f272dff03b1c6b67dfe07e9",
-      "levelid": "custom_level_fe9d7bafca307a8d6f272dff03b1c6b67dfe07e9"
-    },
-    {
-      "key": "49eba",
-      "songName": "Super Limit Buster - ¿?shimon",
-      "hash": "a364f4ed09d5af2312b18731491b1e736f687502",
-      "levelid": "custom_level_a364f4ed09d5af2312b18731491b1e736f687502"
-    },
-    {
-      "key": "49e30",
-      "songName": " Cartagena",
-      "hash": "e7d774f0e496e350f132ae3cf25d5aaa5fa2f422",
-      "levelid": "custom_level_e7d774f0e496e350f132ae3cf25d5aaa5fa2f422"
-    },
-    {
-      "key": "49e2f",
-      "songName": "Archangel",
-      "hash": "479e8d5de5aa96b02b16736c689e6216ae5afd3e",
-      "levelid": "custom_level_479e8d5de5aa96b02b16736c689e6216ae5afd3e"
-    },
-    {
-      "key": "49eac",
-      "songName": "かてらざわ - 大盛り無料なんだから大盛り頼め",
-      "hash": "c3607437cf0b05ae172a4d3ed9c2c3395d9542f7",
-      "levelid": "custom_level_c3607437cf0b05ae172a4d3ed9c2c3395d9542f7"
-    },
-    {
-      "key": "49eaa",
-      "songName": "kashiimoimi - Makeup covered by purple/Haze",
-      "hash": "38ca646742c04b44cda21fd7a1f3be96d93a892a",
-      "levelid": "custom_level_38ca646742c04b44cda21fd7a1f3be96d93a892a"
-    },
-    {
-      "key": "49ea4",
-      "songName": "ぐちゃぐちゃぬるぽ",
-      "hash": "4113da61114c3a9f3efeb511221bea909fb46ac5",
-      "levelid": "custom_level_4113da61114c3a9f3efeb511221bea909fb46ac5"
-    },
-    {
-      "key": "49e9c",
-      "songName": "Survive - Lewis Capaldi",
-      "hash": "4344f41a8af1dc13a6e5461f9722ed6dc2e3b353",
-      "levelid": "custom_level_4344f41a8af1dc13a6e5461f9722ed6dc2e3b353"
-    },
-    {
-      "key": "49e99",
-      "songName": "Toby Fox - Chaos King",
-      "hash": "654cb95ce0ede9655ecc510d2d2249ed7590ed5e",
-      "levelid": "custom_level_654cb95ce0ede9655ecc510d2d2249ed7590ed5e"
-    },
-    {
-      "key": "49e98",
-      "songName": "FARAWAY199X-TAPE 2 - six impala",
-      "hash": "51810c1bab9ef6a156959d0e22d200748f1e57a0",
-      "levelid": "custom_level_51810c1bab9ef6a156959d0e22d200748f1e57a0"
-    },
-    {
-      "key": "49e94",
-      "songName": "Banana Bowserana!",
-      "hash": "b732ea9a0d1b35cf4dbdca01415915e10ba4092a",
-      "levelid": "custom_level_b732ea9a0d1b35cf4dbdca01415915e10ba4092a"
-    },
-    {
-      "key": "49e92",
-      "songName": "見たい",
-      "hash": "5be3d58c94a67c0036b71fe147cf8eebfdfae3e0",
-      "levelid": "custom_level_5be3d58c94a67c0036b71fe147cf8eebfdfae3e0"
-    },
-    {
-      "key": "49e91",
-      "songName": "Nice and Comfy",
-      "hash": "221a198d85c4dd2af5a283ac21fac9149b429875",
-      "levelid": "custom_level_221a198d85c4dd2af5a283ac21fac9149b429875"
-    },
-    {
-      "key": "49e90",
-      "songName": "ROAR - The Comfort of a Laugh Track",
-      "hash": "0fddba816b175fb4c6a09197788fe70eafaaa84f",
-      "levelid": "custom_level_0fddba816b175fb4c6a09197788fe70eafaaa84f"
-    },
-    {
-      "key": "49e86",
-      "songName": "{Chroma} Higher",
-      "hash": "aaa54786ac1ede9b4680acef4a6e21a1c9a5b7c7",
-      "levelid": "custom_level_aaa54786ac1ede9b4680acef4a6e21a1c9a5b7c7"
-    },
-    {
-      "key": "49e85",
-      "songName": "luminescent",
-      "hash": "1850fcabe36ea38df0da7ac308cef7e9f698a670",
-      "levelid": "custom_level_1850fcabe36ea38df0da7ac308cef7e9f698a670"
-    },
-    {
-      "key": "49e84",
-      "songName": "Teminite & Skybreak - Accelerate",
-      "hash": "f770ff8638117758c7a3b12dd114a02c169e530c",
-      "levelid": "custom_level_f770ff8638117758c7a3b12dd114a02c169e530c"
-    },
-    {
-      "key": "49e82",
-      "songName": "Microwave Exploding",
-      "hash": "c550c692f7895ba538feb404ff5f28a60a16b5cc",
-      "levelid": "custom_level_c550c692f7895ba538feb404ff5f28a60a16b5cc"
-    },
-    {
-      "key": "49e81",
-      "songName": "Billy Joel - A Matter Of Trust",
-      "hash": "6ec5be684999165aab89128acf2805e49882507f",
-      "levelid": "custom_level_6ec5be684999165aab89128acf2805e49882507f"
-    },
-    {
-      "key": "49e7e",
-      "songName": "Billy  Joel - Pressure",
-      "hash": "f45458efa6c45d0f5a3f51b6b0bb8df323e09f32",
-      "levelid": "custom_level_f45458efa6c45d0f5a3f51b6b0bb8df323e09f32"
-    },
-    {
-      "key": "49e80",
-      "songName": "Lady Gaga - Zombieboy",
-      "hash": "fef1098271bcdf08ae5af17c8fb29ba9582bbb1f",
-      "levelid": "custom_level_fef1098271bcdf08ae5af17c8fb29ba9582bbb1f"
-    },
-    {
-      "key": "49e7f",
-      "songName": "Naeleck & Hige Driver - Final Boss",
-      "hash": "c7a5ba54fb62bceaa6b0c3e70500d8d104c86c23",
-      "levelid": "custom_level_c7a5ba54fb62bceaa6b0c3e70500d8d104c86c23"
-    },
-    {
-      "key": "49e77",
-      "songName": "Jane Remover - can you tell?",
-      "hash": "3575f46cfe0e5a1846efd14d7cd00110204af448",
-      "levelid": "custom_level_3575f46cfe0e5a1846efd14d7cd00110204af448"
-    },
-    {
-      "key": "49e6b",
-      "songName": "Vampire Bat - Glass Animals",
-      "hash": "34e32eed8a148ec704cafb75ef23bbf3d823230e",
-      "levelid": "custom_level_34e32eed8a148ec704cafb75ef23bbf3d823230e"
-    },
-    {
-      "key": "49e2d",
-      "songName": "Ericzin's Crazy Speed Jumps Challenge",
-      "hash": "435012059f88d15f5b3f0de01ada87c7600a65ed",
-      "levelid": "custom_level_435012059f88d15f5b3f0de01ada87c7600a65ed"
-    },
-    {
-      "key": "49e29",
-      "songName": "Немноговова - He has no friends",
-      "hash": "51109a2d4ba263b83368c901862d326ccd375b87",
-      "levelid": "custom_level_51109a2d4ba263b83368c901862d326ccd375b87"
-    },
-    {
-      "key": "49e24",
-      "songName": "Lovesong (The way) - Charlie Burg",
-      "hash": "f944d8f4e974ca3e42f82b38e7417fa569273dee",
-      "levelid": "custom_level_f944d8f4e974ca3e42f82b38e7417fa569273dee"
-    },
-    {
-      "key": "49e26",
-      "songName": "TAK x Sobrem - DIE IN",
-      "hash": "cdd4d9d9ca10621469be682eb3443bbf3b0e4ee6",
-      "levelid": "custom_level_cdd4d9d9ca10621469be682eb3443bbf3b0e4ee6"
-    },
-    {
-      "key": "49e23",
-      "songName": "Anti Gravity",
-      "hash": "21cf857417fdea350e9be903b0d07db4801384a5",
-      "levelid": "custom_level_21cf857417fdea350e9be903b0d07db4801384a5"
-    },
-    {
-      "key": "49e1c",
-      "songName": "Pegboard Nerds - Flying Purple People Eater",
-      "hash": "491377812533e9d9ae7adca6a2c93de2d4a058e1",
-      "levelid": "custom_level_491377812533e9d9ae7adca6a2c93de2d4a058e1"
-    },
-    {
-      "key": "49e1a",
-      "songName": "Rebirthing",
-      "hash": "507d1c4c8a6ae24fc194da2a1657ac090b1da120",
-      "levelid": "custom_level_507d1c4c8a6ae24fc194da2a1657ac090b1da120"
-    },
-    {
-      "key": "49b36",
-      "songName": "ifeye - ifeye (interlude)",
-      "hash": "bed8dbbf5e048162a1f23d103eed4f99373fc300",
-      "levelid": "custom_level_bed8dbbf5e048162a1f23d103eed4f99373fc300"
-    },
-    {
-      "key": "49e19",
-      "songName": "my arms again",
-      "hash": "2788adb7e7a1dc3238581dcbb29e3efed2e60d61",
-      "levelid": "custom_level_2788adb7e7a1dc3238581dcbb29e3efed2e60d61"
-    },
-    {
-      "key": "49dbc",
-      "songName": "Whenthe laundry is done and you have a samsung machine and a piano in the laundry room.",
-      "hash": "f8e3cae69fb6e31e1b05baa8a5b41dd5f2248223",
-      "levelid": "custom_level_f8e3cae69fb6e31e1b05baa8a5b41dd5f2248223"
+      "hash": "9b6a7d6c132ee7fec3e254d0e41725101f53765a",
+      "levelid": "custom_level_9b6a7d6c132ee7fec3e254d0e41725101f53765a"
     }
   ],
   "image": ""
