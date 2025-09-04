@@ -1,184 +1,196 @@
 {
-  "playlistTitle": "2025-09-02T15:18:48.376Z~2025-09-03T15:18:48.376Z",
+  "playlistTitle": "2025-09-03T15:18:48.522Z~2025-09-04T15:18:48.522Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-09-02T15:18:48.376Z and 2025-09-03T15:18:48.376Z",
+  "discripstion": "Maps published between 2025-09-03T15:18:48.522Z and 2025-09-04T15:18:48.522Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4a1e2",
-      "songName": "1000 SCHRITTE",
-      "hash": "ac80c447878356626e28bca2e759e6725be21e97",
-      "levelid": "custom_level_ac80c447878356626e28bca2e759e6725be21e97"
+      "key": "4a245",
+      "songName": "Vau Boy x S3RL - Break The Music",
+      "hash": "2a99f86d32c3fe5a40a3d866e501525ae82b5889",
+      "levelid": "custom_level_2a99f86d32c3fe5a40a3d866e501525ae82b5889"
     },
     {
-      "key": "4a1e1",
-      "songName": "Bruises",
-      "hash": "2359ebe72357ff9c9a5a943939efe06456e79398",
-      "levelid": "custom_level_2359ebe72357ff9c9a5a943939efe06456e79398"
+      "key": "4a246",
+      "songName": "MOLLY featuring ketsfoureki by asteria",
+      "hash": "dd4a060de10df3d0661d4602e62392984e0d06a3",
+      "levelid": "custom_level_dd4a060de10df3d0661d4602e62392984e0d06a3"
     },
     {
-      "key": "4a1e0",
-      "songName": "FLY'N TO YOUR SOUL [Bust A Move Soundtrack] - US-TOM ft. Donna ",
-      "hash": "ab1544fc6ddc0075e49cd53ebb1fe4dd403f4a9f",
-      "levelid": "custom_level_ab1544fc6ddc0075e49cd53ebb1fe4dd403f4a9f"
+      "key": "4a242",
+      "songName": "どっちにするの？ / 初音ミク・重音テト",
+      "hash": "ca83165f38b180870539af92d681e8bdb3834ecf",
+      "levelid": "custom_level_ca83165f38b180870539af92d681e8bdb3834ecf"
     },
     {
-      "key": "49e33",
-      "songName": "Moottorisaha",
-      "hash": "c3c9908487df8f414d9fc14f96242e8c8a02c33b",
-      "levelid": "custom_level_c3c9908487df8f414d9fc14f96242e8c8a02c33b"
+      "key": "4a240",
+      "songName": "The Noise Inside My Head",
+      "hash": "0fc9cacc7550df26cd876441579ff0af615a7f57",
+      "levelid": "custom_level_0fc9cacc7550df26cd876441579ff0af615a7f57"
     },
     {
-      "key": "49e31",
-      "songName": "Death Note",
-      "hash": "daec7f8debe2b35620a718418c5bc85c74fc1635",
-      "levelid": "custom_level_daec7f8debe2b35620a718418c5bc85c74fc1635"
+      "key": "4a23e",
+      "songName": "Dress Code Violation (pressure)",
+      "hash": "e8215521d1cbf49b405cba4b451d36af20e4c645",
+      "levelid": "custom_level_e8215521d1cbf49b405cba4b451d36af20e4c645"
     },
     {
-      "key": "4a1c0",
-      "songName": "moimoi",
-      "hash": "cbe1961a24c58b4bb10272bca199f51a2f83754b",
-      "levelid": "custom_level_cbe1961a24c58b4bb10272bca199f51a2f83754b"
+      "key": "4a137",
+      "songName": "joz - Im Just Speaking To Myself",
+      "hash": "33cab12882e438cc1a8aaa0f29c86e6b429bce90",
+      "levelid": "custom_level_33cab12882e438cc1a8aaa0f29c86e6b429bce90"
     },
     {
-      "key": "4a1bf",
-      "songName": "Falling Down",
-      "hash": "810b17ae17f21bfdffbf6d418953125d4e3986d5",
-      "levelid": "custom_level_810b17ae17f21bfdffbf6d418953125d4e3986d5"
+      "key": "4a23b",
+      "songName": "VALKYRIE ASSAULT",
+      "hash": "736f9a098fb5f7a96b9cb9dd37509df3e3ea7b78",
+      "levelid": "custom_level_736f9a098fb5f7a96b9cb9dd37509df3e3ea7b78"
     },
     {
-      "key": "4a1be",
-      "songName": " Our Drafts Collides [Clair Obscur: Expedition 33 Soundtrack] - Lorien Testard ft. Alice Duport-Percier",
-      "hash": "0fc00cd33aa39828ae9da981faeb50e28ab34f04",
-      "levelid": "custom_level_0fc00cd33aa39828ae9da981faeb50e28ab34f04"
+      "key": "4a228",
+      "songName": "EVERYBODY! EVERYBODY! (TV Size)",
+      "hash": "eb8295ffcd553bd815e0c758eb6d79a51182fc97",
+      "levelid": "custom_level_eb8295ffcd553bd815e0c758eb6d79a51182fc97"
     },
     {
-      "key": "4a1bd",
-      "songName": "Venomous Firefly by Camellia",
-      "hash": "b63c538bc455a7b08434c010836304b1fbc206c6",
-      "levelid": "custom_level_b63c538bc455a7b08434c010836304b1fbc206c6"
+      "key": "4a225",
+      "songName": "Too Late",
+      "hash": "f194e05c7808aa95abd515a7e1978a4ec5eaaa01",
+      "levelid": "custom_level_f194e05c7808aa95abd515a7e1978a4ec5eaaa01"
     },
     {
-      "key": "4a1ba",
-      "songName": "get in your car duud",
-      "hash": "2834d6606eb127b8561122ca79b180bb0cc679fd",
-      "levelid": "custom_level_2834d6606eb127b8561122ca79b180bb0cc679fd"
+      "key": "4a226",
+      "songName": "Across the Line",
+      "hash": "31620a311569fff70345aff81ded2919b9697828",
+      "levelid": "custom_level_31620a311569fff70345aff81ded2919b9697828"
     },
     {
-      "key": "4a1b8",
-      "songName": "削除- Cryptarithm",
-      "hash": "7173febb72d0b1797bd1003891169d094f3136a9",
-      "levelid": "custom_level_7173febb72d0b1797bd1003891169d094f3136a9"
+      "key": "4a227",
+      "songName": "Yukitoki (TV Size)",
+      "hash": "d8a8e6ce50928c13fb9e7de844baa16abb210268",
+      "levelid": "custom_level_d8a8e6ce50928c13fb9e7de844baa16abb210268"
     },
     {
-      "key": "4a1b3",
-      "songName": "Affinity - Monolith",
-      "hash": "5c443dc59b55d2738a3fd4091e4a0c1380ba420e",
-      "levelid": "custom_level_5c443dc59b55d2738a3fd4091e4a0c1380ba420e"
+      "key": "4a223",
+      "songName": "TUNG SAHUR FUNK",
+      "hash": "38fd17e5d6627fa1cd243bc8d4e289c633fc9fa6",
+      "levelid": "custom_level_38fd17e5d6627fa1cd243bc8d4e289c633fc9fa6"
     },
     {
-      "key": "4a1b2",
-      "songName": "Montagem Supersonic ",
-      "hash": "bbbbcd61054d12b2fadbd31bdec6150610f44281",
-      "levelid": "custom_level_bbbbcd61054d12b2fadbd31bdec6150610f44281"
+      "key": "4a222",
+      "songName": "[QUEUE] DJ Noriken - Enjoy This Time feat. Yukacco",
+      "hash": "9191c595d9e56c39fc140d6916b122dacce5f0c1",
+      "levelid": "custom_level_9191c595d9e56c39fc140d6916b122dacce5f0c1"
     },
     {
-      "key": "4a0fb",
-      "songName": "Fashionably Late",
-      "hash": "366e05717630ac2fc74c2e0828299156e125aaa9",
-      "levelid": "custom_level_366e05717630ac2fc74c2e0828299156e125aaa9"
+      "key": "4a220",
+      "songName": "LaVI-Babellabion (Full ver.) - SLAVE.V-V-R",
+      "hash": "08c569fadc0fa7d46b075f0862d92d7ed1e87d9a",
+      "levelid": "custom_level_08c569fadc0fa7d46b075f0862d92d7ed1e87d9a"
     },
     {
-      "key": "4a1b1",
-      "songName": "Creedence Clearwater Revival - Proud Mary",
-      "hash": "6d32c48e006654d7251c8cb45ab4dbb3d58df559",
-      "levelid": "custom_level_6d32c48e006654d7251c8cb45ab4dbb3d58df559"
+      "key": "4a21c",
+      "songName": "Alba Sera -  Messiah ",
+      "hash": "b093bdaadf85fd8cc1f42c15945369f7ee0a3a82",
+      "levelid": "custom_level_b093bdaadf85fd8cc1f42c15945369f7ee0a3a82"
     },
     {
-      "key": "4a1b0",
-      "songName": "kanro - terrors",
-      "hash": "bf8424d68437b57933a8b05136ddd10d47f1a3f4",
-      "levelid": "custom_level_bf8424d68437b57933a8b05136ddd10d47f1a3f4"
+      "key": "4a21b",
+      "songName": "if snakes in the wall was on crack",
+      "hash": "2c6da315ebcd75838a0fd9db8520d75c8fb7d4b6",
+      "levelid": "custom_level_2c6da315ebcd75838a0fd9db8520d75c8fb7d4b6"
     },
     {
-      "key": "4a1ae",
-      "songName": "Camellia - magical, very magical world",
-      "hash": "5ed8432108be76441d92ba645b79b210a0426dd9",
-      "levelid": "custom_level_5ed8432108be76441d92ba645b79b210a0426dd9"
+      "key": "4a219",
+      "songName": "cYsmix - Classic Pursuit \"La Poursuite\" Version",
+      "hash": "6e65227563b476d68307e1f07e5b70f9bf64353b",
+      "levelid": "custom_level_6e65227563b476d68307e1f07e5b70f9bf64353b"
     },
     {
-      "key": "4a1ad",
-      "songName": "Romanceplanet 〄 - FALL FROM THE SKY PT.2",
-      "hash": "5fafe6f83095cf7e7d53fa0831409c5125055b37",
-      "levelid": "custom_level_5fafe6f83095cf7e7d53fa0831409c5125055b37"
+      "key": "4a218",
+      "songName": "[Super ONGEKI Music Pack ] History X Breaker",
+      "hash": "8fa900fca488876b875a5f69564e49878c055bc4",
+      "levelid": "custom_level_8fa900fca488876b875a5f69564e49878c055bc4"
     },
     {
-      "key": "4a1ac",
-      "songName": "Bruno Mars - Treasure",
-      "hash": "fba1563ac1450575b92f7cc80f54d9033fec3edc",
-      "levelid": "custom_level_fba1563ac1450575b92f7cc80f54d9033fec3edc"
+      "key": "4a217",
+      "songName": "peanut butter jelly time",
+      "hash": "5ad11e66eb621ca9db6e7929bb795568987d657f",
+      "levelid": "custom_level_5ad11e66eb621ca9db6e7929bb795568987d657f"
     },
     {
-      "key": "4a1ab",
-      "songName": "Gorillaz - On Melancholy Hill",
-      "hash": "81a07613121c77bd8975a1bdf2f3cd55f7aa79bf",
-      "levelid": "custom_level_81a07613121c77bd8975a1bdf2f3cd55f7aa79bf"
+      "key": "4a216",
+      "songName": "Ceremony Stray Kids",
+      "hash": "64762d683c63af3a02d6c05576f9aa6aa4714759",
+      "levelid": "custom_level_64762d683c63af3a02d6c05576f9aa6aa4714759"
     },
     {
-      "key": "4a1a9",
-      "songName": "snsdpwoaENMASD IN THWE Wal ",
-      "hash": "a97a1e6dc47539e1545843d08617743707fff330",
-      "levelid": "custom_level_a97a1e6dc47539e1545843d08617743707fff330"
+      "key": "4a214",
+      "songName": "Travis Birds - Mis Aires ",
+      "hash": "c73f62316b16d3bd21f6f92ab713fe406223e171",
+      "levelid": "custom_level_c73f62316b16d3bd21f6f92ab713fe406223e171"
     },
     {
-      "key": "4a1a6",
-      "songName": "DARLING HOLD MY 41 PHONK (ultra slowed + reverb)😔😔😔💔",
-      "hash": "38e3d3399d580e352d169b9d1cdb91298d4ab44a",
-      "levelid": "custom_level_38e3d3399d580e352d169b9d1cdb91298d4ab44a"
+      "key": "4a213",
+      "songName": "Purple Velvet Curtains, Dirty Palm - To The Back",
+      "hash": "7cbbbf4238f3de028fa1f627212dd04bb1d79105",
+      "levelid": "custom_level_7cbbbf4238f3de028fa1f627212dd04bb1d79105"
     },
     {
-      "key": "4a1a4",
-      "songName": "Les Rallizes Dénudés - The Night, Assassin's Night (Full ver.)",
-      "hash": "3e1741c6381d3d2cfb3c028857784863e8cffdfc",
-      "levelid": "custom_level_3e1741c6381d3d2cfb3c028857784863e8cffdfc"
+      "key": "4a1b9",
+      "songName": "Android52 - Ultra Groove",
+      "hash": "161f8f662e60365b224fd2ceddad1560a1a9f1d5",
+      "levelid": "custom_level_161f8f662e60365b224fd2ceddad1560a1a9f1d5"
     },
     {
-      "key": "4a1a5",
-      "songName": "fries bitch",
-      "hash": "c67325f1edaf01e44a77ea14e4d1e1c6d60b8edc",
-      "levelid": "custom_level_c67325f1edaf01e44a77ea14e4d1e1c6d60b8edc"
+      "key": "4a208",
+      "songName": "compramostucoche.es",
+      "hash": "f36937a08e3041c9187b6e64ac8d70fb51ed13db",
+      "levelid": "custom_level_f36937a08e3041c9187b6e64ac8d70fb51ed13db"
     },
     {
-      "key": "4a1a3",
-      "songName": "Credits",
-      "hash": "12954d7290454e8f3982a39a7e2ae122e82945b3",
-      "levelid": "custom_level_12954d7290454e8f3982a39a7e2ae122e82945b3"
+      "key": "4a204",
+      "songName": " h3R3-还是会想你",
+      "hash": "1869173eaa39a08be93eb88f79efc3462d74eaf0",
+      "levelid": "custom_level_1869173eaa39a08be93eb88f79efc3462d74eaf0"
     },
     {
-      "key": "4a1a2",
-      "songName": "All The Way Jack Septic Eye",
-      "hash": "3d3bb2d018e5fab87b0f9d8c583995c10a53a742",
-      "levelid": "custom_level_3d3bb2d018e5fab87b0f9d8c583995c10a53a742"
+      "key": "4a202",
+      "songName": "I Feel Good BOYNEXTDOOR",
+      "hash": "fa832b1f40388b932738a0d53884ce0b442ef994",
+      "levelid": "custom_level_fa832b1f40388b932738a0d53884ce0b442ef994"
     },
     {
-      "key": "4a1a1",
-      "songName": "ONE OK ROCK - Vandalize",
-      "hash": "abb7d10d54358139f38be6a3585b71c23e5f81ca",
-      "levelid": "custom_level_abb7d10d54358139f38be6a3585b71c23e5f81ca"
+      "key": "4a1fb",
+      "songName": "Thrills at night - Various Artists [Paper Mario: The Origami King]",
+      "hash": "a6e33309464270a397e3a5ff9e8ceacfc544e737",
+      "levelid": "custom_level_a6e33309464270a397e3a5ff9e8ceacfc544e737"
     },
     {
-      "key": "4a19b",
-      "songName": "r-906 - Catchy !? (DAZBEE Cover) | ダズビー COVER",
-      "hash": "c3364b97b053878518a862c067bf387c889afcfb",
-      "levelid": "custom_level_c3364b97b053878518a862c067bf387c889afcfb"
+      "key": "4a1fa",
+      "songName": "Вова Солодков - Барабулька {S}",
+      "hash": "64cc717d6a4f5d8c3437a68948203799a5c3036a",
+      "levelid": "custom_level_64cc717d6a4f5d8c3437a68948203799a5c3036a"
     },
     {
-      "key": "4a177",
-      "songName": "eero - 20 Again",
-      "hash": "6219050ddc9357fe8a4d6faba355b9e34469c0d9",
-      "levelid": "custom_level_6219050ddc9357fe8a4d6faba355b9e34469c0d9"
+      "key": "4a1de",
+      "songName": "リトルシスター feat.彩澄しゅお,彩澄りりせ - 40mP",
+      "hash": "d9854cf31783983169adf60c5286e5a88b5e0793",
+      "levelid": "custom_level_d9854cf31783983169adf60c5286e5a88b5e0793"
+    },
+    {
+      "key": "4a1f3",
+      "songName": "Disturbed - Decadence",
+      "hash": "13ef4972d233aeda0c0df2c4ab1bbd91d599b74b",
+      "levelid": "custom_level_13ef4972d233aeda0c0df2c4ab1bbd91d599b74b"
+    },
+    {
+      "key": "4a18c",
+      "songName": "Cherry Bullet - KKa KKa",
+      "hash": "0ade3a0bdee1dfef16dc5333263dd0cf646c435a",
+      "levelid": "custom_level_0ade3a0bdee1dfef16dc5333263dd0cf646c435a"
     }
   ],
   "image": ""
