@@ -1,202 +1,262 @@
 {
-  "playlistTitle": "2025-09-04T15:18:48.342Z~2025-09-05T15:18:48.342Z",
+  "playlistTitle": "2025-09-05T15:18:48.397Z~2025-09-06T15:18:48.397Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-09-04T15:18:48.342Z and 2025-09-05T15:18:48.342Z",
+  "discripstion": "Maps published between 2025-09-05T15:18:48.397Z and 2025-09-06T15:18:48.397Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4a296",
+      "key": "4a329",
+      "songName": "HowToBasic - How To Skin And Debone A Fish",
+      "hash": "74eeb965bba9af743ec47b17caab4f1d2f648c2a",
+      "levelid": "custom_level_74eeb965bba9af743ec47b17caab4f1d2f648c2a"
+    },
+    {
+      "key": "4a326",
+      "songName": " Fowler 100 % sincero.....??.xD ",
+      "hash": "3250b0590c783ace28a7c91144a039c054dcd58c",
+      "levelid": "custom_level_3250b0590c783ace28a7c91144a039c054dcd58c"
+    },
+    {
+      "key": "4a324",
+      "songName": "BANGARANG - Killeddy",
+      "hash": "8dbf0fc9296ba1ccc64e08e3e11ec93bb00ebb17",
+      "levelid": "custom_level_8dbf0fc9296ba1ccc64e08e3e11ec93bb00ebb17"
+    },
+    {
+      "key": "4a321",
+      "songName": "Killer",
+      "hash": "c78ad9b34970c4d2be0811fe3d85db2cf6fe3821",
+      "levelid": "custom_level_c78ad9b34970c4d2be0811fe3d85db2cf6fe3821"
+    },
+    {
+      "key": "4a316",
+      "songName": "Fake Face",
+      "hash": "a36764864fb995e5a25a120c04840831580ea0e6",
+      "levelid": "custom_level_a36764864fb995e5a25a120c04840831580ea0e6"
+    },
+    {
+      "key": "4a30e",
+      "songName": "crafter2011 - loading terrain",
+      "hash": "b6b6bff4b6ed12ca2862b4a3e45ecb45c6db35b4",
+      "levelid": "custom_level_b6b6bff4b6ed12ca2862b4a3e45ecb45c6db35b4"
+    },
+    {
+      "key": "4a30c",
+      "songName": "ノラ・ヒーローズ (feat. 初音ミク, Cassie Wei, 山田らむね, ミツキヨ & 半田翼) - RAKUGAKI STUDIO",
+      "hash": "8b3ffce55f95ecd8bba724f3455f46fd7ef51971",
+      "levelid": "custom_level_8b3ffce55f95ecd8bba724f3455f46fd7ef51971"
+    },
+    {
+      "key": "4a30b",
+      "songName": "「ZZZ HoYoFair」Ellen Joe エレン・ジョ Zenless Zone Zero",
+      "hash": "b50e5f60e7c76d1d6a430cb4758abed6cb66c9c7",
+      "levelid": "custom_level_b50e5f60e7c76d1d6a430cb4758abed6cb66c9c7"
+    },
+    {
+      "key": "4a30a",
+      "songName": "phonk.me - GHOST!",
+      "hash": "06025fccfc6592089598385cd71221d9a8fa0808",
+      "levelid": "custom_level_06025fccfc6592089598385cd71221d9a8fa0808"
+    },
+    {
+      "key": "4a301",
+      "songName": "死别",
+      "hash": "46f9e1484bc9f632d70402c34cab39dc4842b091",
+      "levelid": "custom_level_46f9e1484bc9f632d70402c34cab39dc4842b091"
+    },
+    {
+      "key": "4a2f5",
+      "songName": "Raon - ♡Like Like♡ (Prod. Giga & TAK)",
+      "hash": "cbb2d6549cf7eb7473298c0717e7ba5abc3f38e3",
+      "levelid": "custom_level_cbb2d6549cf7eb7473298c0717e7ba5abc3f38e3"
+    },
+    {
+      "key": "4a2f1",
+      "songName": "Tree On The Hill",
+      "hash": "50701b6374917092235d2c825e512a6e8ee91e7a",
+      "levelid": "custom_level_50701b6374917092235d2c825e512a6e8ee91e7a"
+    },
+    {
+      "key": "4a2ed",
+      "songName": "Bo0t up",
+      "hash": "4059136ad3f47682531c45e4ebaf8d5d10588265",
+      "levelid": "custom_level_4059136ad3f47682531c45e4ebaf8d5d10588265"
+    },
+    {
+      "key": "4a2e5",
+      "songName": "Crush 40 - I Am... All Of Me",
+      "hash": "f265ddb41993282c1739c8c449dbc88cde4dc8e8",
+      "levelid": "custom_level_f265ddb41993282c1739c8c449dbc88cde4dc8e8"
+    },
+    {
+      "key": "4a2e4",
+      "songName": "{Chroma+} Step on me",
+      "hash": "425ca2d10ccd1ddf13141fd5494976bd0e30dbff",
+      "levelid": "custom_level_425ca2d10ccd1ddf13141fd5494976bd0e30dbff"
+    },
+    {
+      "key": "4a2e3",
+      "songName": "Controller Setting Map",
+      "hash": "620bfdb0507d11e98c8b47d47be5bd672328094f",
+      "levelid": "custom_level_620bfdb0507d11e98c8b47d47be5bd672328094f"
+    },
+    {
+      "key": "4a2e2",
+      "songName": "OMAJINAI",
+      "hash": "fdf8ea8a7c5e2e1af948f602777ef0af2b458820",
+      "levelid": "custom_level_fdf8ea8a7c5e2e1af948f602777ef0af2b458820"
+    },
+    {
+      "key": "4a2e1",
+      "songName": "Kid Smoko - Tommy Boy",
+      "hash": "c8516fbf7591d59bb90c2bebf018deff8a0c8d4f",
+      "levelid": "custom_level_c8516fbf7591d59bb90c2bebf018deff8a0c8d4f"
+    },
+    {
+      "key": "4a2e0",
+      "songName": "破云来",
+      "hash": "7c11ad87d99db5381a857df7c05a4cfcbca91063",
+      "levelid": "custom_level_7c11ad87d99db5381a857df7c05a4cfcbca91063"
+    },
+    {
+      "key": "4a2df",
+      "songName": "Playboi Carti - vamp anthem",
+      "hash": "ea1aeca4c8a89727f213ea7f89b8b9a7db466558",
+      "levelid": "custom_level_ea1aeca4c8a89727f213ea7f89b8b9a7db466558"
+    },
+    {
+      "key": "4a2de",
+      "songName": "Sullivan King - On & On",
+      "hash": "496c7949651db9c43d0c0d87fd11e6a9ef1a0808",
+      "levelid": "custom_level_496c7949651db9c43d0c0d87fd11e6a9ef1a0808"
+    },
+    {
+      "key": "4a2dd",
+      "songName": "Judgement",
+      "hash": "a1372ea6cb66e690af85c830b50ada5cdc690c88",
+      "levelid": "custom_level_a1372ea6cb66e690af85c830b50ada5cdc690c88"
+    },
+    {
+      "key": "4a2dc",
+      "songName": "pastel ghost - Dark beach",
+      "hash": "d33a17b1b2bc851eeaeb57b77ea1c95c071e153b",
+      "levelid": "custom_level_d33a17b1b2bc851eeaeb57b77ea1c95c071e153b"
+    },
+    {
+      "key": "4a2da",
+      "songName": "On The Run (Shachimu Cover)",
+      "hash": "98e0270764188df035ee469d68a9e6deaef7dac2",
+      "levelid": "custom_level_98e0270764188df035ee469d68a9e6deaef7dac2"
+    },
+    {
+      "key": "4a2d9",
+      "songName": "Selena Gomez -- Don't take It Personally",
+      "hash": "7693f0d71a11d216c0dd52ad618a1c928eadec00",
+      "levelid": "custom_level_7693f0d71a11d216c0dd52ad618a1c928eadec00"
+    },
+    {
+      "key": "4a2d4",
+      "songName": "Gracie Abrams - Mess It Up",
+      "hash": "604aa5e419015c0e0b4b27c5130f01b5afdb42de",
+      "levelid": "custom_level_604aa5e419015c0e0b4b27c5130f01b5afdb42de"
+    },
+    {
+      "key": "4a2d3",
+      "songName": "Ame Iro Rondo",
+      "hash": "34c70287703d75c900521fcc2833a1428757a8d4",
+      "levelid": "custom_level_34c70287703d75c900521fcc2833a1428757a8d4"
+    },
+    {
+      "key": "4a2c9",
+      "songName": "OneRepublic - Counting Stars",
+      "hash": "5b5ef6c26b5e4f4a781a36d5ed4ac738d5af7bd4",
+      "levelid": "custom_level_5b5ef6c26b5e4f4a781a36d5ed4ac738d5af7bd4"
+    },
+    {
+      "key": "4a2c7",
       "songName": "if snakes in the wall was on crack",
-      "hash": "3dd20d53aa57c27371fdae1415290cd18a6c3594",
-      "levelid": "custom_level_3dd20d53aa57c27371fdae1415290cd18a6c3594"
+      "hash": "f0b8eb11779e55cade9c0cd3ebfa7680ffc8c65d",
+      "levelid": "custom_level_f0b8eb11779e55cade9c0cd3ebfa7680ffc8c65d"
     },
     {
-      "key": "4a293",
-      "songName": "Music - underscores",
-      "hash": "05f8180bc2be360210b77f37089847cb49c13596",
-      "levelid": "custom_level_05f8180bc2be360210b77f37089847cb49c13596"
+      "key": "4a2bf",
+      "songName": "David Shane & STVW - Colors",
+      "hash": "17c21716198025a1d27967ae317ac44cec75eb51",
+      "levelid": "custom_level_17c21716198025a1d27967ae317ac44cec75eb51"
     },
     {
-      "key": "49408",
-      "songName": "Meghan Trainor - Like I'm Gonna Lose You ft. John Legend",
-      "hash": "b5c93d2e0699707203a87293c3c6c6a0eb72eb0c",
-      "levelid": "custom_level_b5c93d2e0699707203a87293c3c6c6a0eb72eb0c"
+      "key": "4a2bc",
+      "songName": "thirsty",
+      "hash": "63cf5219958069a62dd7dbe54d4248ed9d852d66",
+      "levelid": "custom_level_63cf5219958069a62dd7dbe54d4248ed9d852d66"
     },
     {
-      "key": "49409",
-      "songName": "Kelsey Hart - Life With You",
-      "hash": "cec94db8f77d724b4475a0b70e269cfa4106eba7",
-      "levelid": "custom_level_cec94db8f77d724b4475a0b70e269cfa4106eba7"
+      "key": "4a2b3",
+      "songName": "[Vivify] Turret Opera (Cara Mia Addio) - Portal 2",
+      "hash": "3a2a0fead6eb8a8ab325aa54efdfb84bd4220375",
+      "levelid": "custom_level_3a2a0fead6eb8a8ab325aa54efdfb84bd4220375"
     },
     {
-      "key": "4a1dd",
-      "songName": "Lauv - Steal The Show (From \"Elemental\")",
-      "hash": "9ec8954a599ecd9b5853fb8119eab7fbdc6ced25",
-      "levelid": "custom_level_9ec8954a599ecd9b5853fb8119eab7fbdc6ced25"
+      "key": "4a2b8",
+      "songName": ".NET RUN - Fuck That Bass",
+      "hash": "e0aac14882001dd2b26f07540c758c9b88c61859",
+      "levelid": "custom_level_e0aac14882001dd2b26f07540c758c9b88c61859"
     },
     {
-      "key": "4a284",
-      "songName": "晴れのちハレ",
-      "hash": "cb299d34b3dff886f15f5c3ef687d3f35c46db35",
-      "levelid": "custom_level_cb299d34b3dff886f15f5c3ef687d3f35c46db35"
+      "key": "4a2b4",
+      "songName": "The Wrecks - Favorite Liar",
+      "hash": "51f63908d68a5e7b240b4dea3a70f09bcbbc74ea",
+      "levelid": "custom_level_51f63908d68a5e7b240b4dea3a70f09bcbbc74ea"
     },
     {
-      "key": "4a243",
-      "songName": "The World of Curiosity",
-      "hash": "a5670a3e85ffd9b2575cb93df5668f9f38727365",
-      "levelid": "custom_level_a5670a3e85ffd9b2575cb93df5668f9f38727365"
+      "key": "4a2b2",
+      "songName": "I Wanna Dance_Torso Alternating SHORT",
+      "hash": "d8c244543bc629b0529955228ffcf3d7bb004145",
+      "levelid": "custom_level_d8c244543bc629b0529955228ffcf3d7bb004145"
     },
     {
-      "key": "4a283",
-      "songName": "Haraguchi Sasuke-Medicine",
-      "hash": "0b5e1e2d62a478f61ec75c75270dd9c5ec88ae46",
-      "levelid": "custom_level_0b5e1e2d62a478f61ec75c75270dd9c5ec88ae46"
+      "key": "4a2b1",
+      "songName": "Celestial_Arcs SHORT",
+      "hash": "1775cb65e15600a5f39a124fe2aca05ef5cab26d",
+      "levelid": "custom_level_1775cb65e15600a5f39a124fe2aca05ef5cab26d"
     },
     {
-      "key": "4a281",
-      "songName": "Kimi ni Aeta kara",
-      "hash": "95344776af34545af972e79fd307875d0efecc02",
-      "levelid": "custom_level_95344776af34545af972e79fd307875d0efecc02"
+      "key": "4a2b0",
+      "songName": "Can't Stop the Feeling_Fast Alternating SHORT",
+      "hash": "9f036520f24fd4d062465b518aa7150af96fa723",
+      "levelid": "custom_level_9f036520f24fd4d062465b518aa7150af96fa723"
     },
     {
-      "key": "49e1b",
-      "songName": "神頼み(kami danomi)",
-      "hash": "865e06846f91fb6c9c0e07860bcde08202cc7115",
-      "levelid": "custom_level_865e06846f91fb6c9c0e07860bcde08202cc7115"
+      "key": "4a2af",
+      "songName": "Believer_Paired Pacing SHORT",
+      "hash": "3d086b424b168a486bf7092c4987d4844f864baa",
+      "levelid": "custom_level_3d086b424b168a486bf7092c4987d4844f864baa"
     },
     {
-      "key": "4a278",
-      "songName": "glaive - ik",
-      "hash": "6f57171a704a5a6c9b2a95e54f967011821bc547",
-      "levelid": "custom_level_6f57171a704a5a6c9b2a95e54f967011821bc547"
+      "key": "4a2aa",
+      "songName": "BoyWithUke - Gaslight ",
+      "hash": "c1edc31b1cd3c2d70a205716f3895974d3f81a02",
+      "levelid": "custom_level_c1edc31b1cd3c2d70a205716f3895974d3f81a02"
     },
     {
-      "key": "4a276",
-      "songName": "i can fly in the ludicrous speed",
-      "hash": "22f163998ccc74a61b68fa2e249bea0525752fc8",
-      "levelid": "custom_level_22f163998ccc74a61b68fa2e249bea0525752fc8"
+      "key": "4a2a9",
+      "songName": "Rothy - Burning",
+      "hash": "95acbb190678d1fdde71ed8063cdae70bc27468c",
+      "levelid": "custom_level_95acbb190678d1fdde71ed8063cdae70bc27468c"
     },
     {
-      "key": "4a275",
-      "songName": "Super Mario Bros Theme (Modhcart)",
-      "hash": "a0a98f7a5d44708e8aefec1d23149a029d0fead9",
-      "levelid": "custom_level_a0a98f7a5d44708e8aefec1d23149a029d0fead9"
+      "key": "4a2a8",
+      "songName": "Tom Anello- Hedgerow Cycling (Live)",
+      "hash": "691acb109b2696bc1fafdfdb73a5d7380fd43bf0",
+      "levelid": "custom_level_691acb109b2696bc1fafdfdb73a5d7380fd43bf0"
     },
     {
-      "key": "4a272",
-      "songName": "OMG - Halv -",
-      "hash": "2cc58be31f0bf29d657ac3e6bab2d55bc4274489",
-      "levelid": "custom_level_2cc58be31f0bf29d657ac3e6bab2d55bc4274489"
-    },
-    {
-      "key": "4a267",
-      "songName": "Loreloli",
-      "hash": "a951828688ed40661ac4e72b78183c1bf074705b",
-      "levelid": "custom_level_a951828688ed40661ac4e72b78183c1bf074705b"
-    },
-    {
-      "key": "4a266",
-      "songName": "Homicide",
-      "hash": "24c0aaff4de71047a95db2ed962903b0ebaffc65",
-      "levelid": "custom_level_24c0aaff4de71047a95db2ed962903b0ebaffc65"
-    },
-    {
-      "key": "4a265",
-      "songName": "Deeper (pressure)",
-      "hash": "c471c2f8ce6873607ef234b7daaf21deffcf86e7",
-      "levelid": "custom_level_c471c2f8ce6873607ef234b7daaf21deffcf86e7"
-    },
-    {
-      "key": "4a261",
-      "songName": " t+pazolite - Unwelcome School",
-      "hash": "8fbae106561bf9668a63f6a1ed4f96aff5ea6b08",
-      "levelid": "custom_level_8fbae106561bf9668a63f6a1ed4f96aff5ea6b08"
-    },
-    {
-      "key": "4a25e",
-      "songName": "asteria - MOVE YOUR BODY (Sped Up) ",
-      "hash": "4552012b0c6edca08c7033bbd165380f53ca8549",
-      "levelid": "custom_level_4552012b0c6edca08c7033bbd165380f53ca8549"
-    },
-    {
-      "key": "4a25d",
-      "songName": "When I grow up",
-      "hash": "fd6b807f6af8105c63df83bf7f8d9d7cb90f41ad",
-      "levelid": "custom_level_fd6b807f6af8105c63df83bf7f8d9d7cb90f41ad"
-    },
-    {
-      "key": "4a25c",
-      "songName": "katagiri wa Denki Kitsune no Yume o Miru ka?",
-      "hash": "3f9ab38b998eea1ebe0dc0379779d5416521da19",
-      "levelid": "custom_level_3f9ab38b998eea1ebe0dc0379779d5416521da19"
-    },
-    {
-      "key": "4a25b",
-      "songName": "i didn't need you anyway - asteria",
-      "hash": "f0b20ffbab910a47c4f5b2e0d4cde23d9bb58567",
-      "levelid": "custom_level_f0b20ffbab910a47c4f5b2e0d4cde23d9bb58567"
-    },
-    {
-      "key": "4a25a",
-      "songName": "Nope your too late i already died (960bpm)",
-      "hash": "303b2689b0bbfd8853c1f925a367eb40f2492ba7",
-      "levelid": "custom_level_303b2689b0bbfd8853c1f925a367eb40f2492ba7"
-    },
-    {
-      "key": "4a259",
-      "songName": "少年時代/Shōnen jidai/Shonen jidai",
-      "hash": "314278f8d8039b5cfd367677ae832977f66d9fe4",
-      "levelid": "custom_level_314278f8d8039b5cfd367677ae832977f66d9fe4"
-    },
-    {
-      "key": "4a251",
-      "songName": "if snakes in the wall was on crack",
-      "hash": "9cc1d8603cad2768a57c17677be0ae6eec85b167",
-      "levelid": "custom_level_9cc1d8603cad2768a57c17677be0ae6eec85b167"
-    },
-    {
-      "key": "4a250",
-      "songName": "[Feetsaber]TURNDOWN",
-      "hash": "2b19625458adf5bc95d6293fce2e45567e80b8b3",
-      "levelid": "custom_level_2b19625458adf5bc95d6293fce2e45567e80b8b3"
-    },
-    {
-      "key": "4a24f",
-      "songName": "Welcome, Queen of Fiction",
-      "hash": "497c8c91707809224e90fe66b8737770430c325b",
-      "levelid": "custom_level_497c8c91707809224e90fe66b8737770430c325b"
-    },
-    {
-      "key": "4a24d",
-      "songName": "where they at tho ",
-      "hash": "e0fc46c66de89b3da301a8f1d74078922b7b1106",
-      "levelid": "custom_level_e0fc46c66de89b3da301a8f1d74078922b7b1106"
-    },
-    {
-      "key": "4a24b",
-      "songName": "White boyz",
-      "hash": "feb575fae66d31260c3f6bb7a0ddea618c69bb56",
-      "levelid": "custom_level_feb575fae66d31260c3f6bb7a0ddea618c69bb56"
-    },
-    {
-      "key": "4a24a",
-      "songName": "Masquerade II (dante's inferno)",
-      "hash": "142e5e9197b3e460514a96c9e3e37be88163c876",
-      "levelid": "custom_level_142e5e9197b3e460514a96c9e3e37be88163c876"
-    },
-    {
-      "key": "4a181",
-      "songName": "Rocket Punch - Lilac",
-      "hash": "f4da3942734d128cb53e4e1eef8096a901991125",
-      "levelid": "custom_level_f4da3942734d128cb53e4e1eef8096a901991125"
-    },
-    {
-      "key": "4a248",
-      "songName": "Fire - EXID",
-      "hash": "deb66ed9e12ea4b50172441d7c26ab02435c8870",
-      "levelid": "custom_level_deb66ed9e12ea4b50172441d7c26ab02435c8870"
+      "key": "4a185",
+      "songName": "Wonder Girls - Why So Lonely",
+      "hash": "938806ef8c4b479947454909e952ed33008924c0",
+      "levelid": "custom_level_938806ef8c4b479947454909e952ed33008924c0"
     }
   ],
   "image": ""
