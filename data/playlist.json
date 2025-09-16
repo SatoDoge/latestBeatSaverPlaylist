@@ -1,238 +1,202 @@
 {
-  "playlistTitle": "2025-09-14T15:18:48.271Z~2025-09-15T15:18:48.271Z",
+  "playlistTitle": "2025-09-15T15:18:49.493Z~2025-09-16T15:18:49.493Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-09-14T15:18:48.271Z and 2025-09-15T15:18:48.271Z",
+  "discripstion": "Maps published between 2025-09-15T15:18:49.493Z and 2025-09-16T15:18:49.493Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4a6c1",
-      "songName": "Gomenne",
-      "hash": "730a9e726d9e0e1c7465dc3697507bc867dea645",
-      "levelid": "custom_level_730a9e726d9e0e1c7465dc3697507bc867dea645"
+      "key": "4a721",
+      "songName": "Mark Governor - Stadium Rave",
+      "hash": "063fdccd966761864f5261f0c07b0f914b578f47",
+      "levelid": "custom_level_063fdccd966761864f5261f0c07b0f914b578f47"
     },
     {
-      "key": "4a6c0",
-      "songName": "UnFair Stray Kids",
-      "hash": "634fd33fec98fdb434fcb868d43519d0e237319b",
-      "levelid": "custom_level_634fd33fec98fdb434fcb868d43519d0e237319b"
+      "key": "4a720",
+      "songName": "fart fart fart egg egg",
+      "hash": "3dfcb76e1c85f41a64f0774611f3b5c0e7354f8f",
+      "levelid": "custom_level_3dfcb76e1c85f41a64f0774611f3b5c0e7354f8f"
     },
     {
-      "key": "4a6bf",
-      "songName": "FNF Stray Kids",
-      "hash": "9adada9867b96395886c10226e533d8c67d5911f",
-      "levelid": "custom_level_9adada9867b96395886c10226e533d8c67d5911f"
+      "key": "4a714",
+      "songName": "Realize",
+      "hash": "c2027e223fb3264fcb92d3aea32bd8fe97cc15fc",
+      "levelid": "custom_level_c2027e223fb3264fcb92d3aea32bd8fe97cc15fc"
     },
     {
-      "key": "4a6bd",
-      "songName": "Special Surprise",
-      "hash": "9cd2e2226ee06d46db0854a0dfa0326224c29db2",
-      "levelid": "custom_level_9cd2e2226ee06d46db0854a0dfa0326224c29db2"
+      "key": "4a710",
+      "songName": "[Feetsaber]Girly Cupid",
+      "hash": "dce1af4dc882a6134f6dcced0749f56d3e3b3b1f",
+      "levelid": "custom_level_dce1af4dc882a6134f6dcced0749f56d3e3b3b1f"
     },
     {
-      "key": "4a6bc",
-      "songName": "bowling in real life",
-      "hash": "c69d7dab35e8cf3a0a4dbf98f43d5a8af5ccdbc7",
-      "levelid": "custom_level_c69d7dab35e8cf3a0a4dbf98f43d5a8af5ccdbc7"
+      "key": "4a70d",
+      "songName": "奈良瀬 - ファンデーション [feat.初音ミク]",
+      "hash": "fa657fa78a8266961bc762a1defd751867646272",
+      "levelid": "custom_level_fa657fa78a8266961bc762a1defd751867646272"
     },
     {
-      "key": "4a6ae",
-      "songName": "Mabataki (TV Size)",
-      "hash": "48d11873c06b055d57884abf018d0a387b6dc252",
-      "levelid": "custom_level_48d11873c06b055d57884abf018d0a387b6dc252"
+      "key": "4a70b",
+      "songName": "Dead Pixels",
+      "hash": "7f757d5888abc9e61ca77a27651027c83c3bd8e9",
+      "levelid": "custom_level_7f757d5888abc9e61ca77a27651027c83c3bd8e9"
     },
     {
-      "key": "4a6b0",
-      "songName": "ZIG-ZAG",
-      "hash": "0d1c2ea0edf9b57a41e9be27d56b006cca2cea67",
-      "levelid": "custom_level_0d1c2ea0edf9b57a41e9be27d56b006cca2cea67"
+      "key": "4a70a",
+      "songName": "Srezcat - Silent Echochamber (feat. blaxervant & Kobaryo)",
+      "hash": "3e282ce2d28359933b8935c72d7f24e5f169271c",
+      "levelid": "custom_level_3e282ce2d28359933b8935c72d7f24e5f169271c"
     },
     {
-      "key": "4a6ad",
-      "songName": "Elektyczne Gitary - Dzieci Wybiegły",
-      "hash": "38c6e5f396fef35a1b31670e6c39932e61990598",
-      "levelid": "custom_level_38c6e5f396fef35a1b31670e6c39932e61990598"
+      "key": "4a706",
+      "songName": "ギターと孤独と蒼い惑星 / Guitar to Kodoku to Aoi wakusei / Guitar to kodoku to aoi hoshi",
+      "hash": "d0f461406142cd2eb0395dd807ed9d7b27962a96",
+      "levelid": "custom_level_d0f461406142cd2eb0395dd807ed9d7b27962a96"
     },
     {
-      "key": "4a6ab",
-      "songName": "[Modchart] Poparzeni Kawa Trzy - Byłaś Dla Mnie Wszystkim (Bylas Dla Mnie Wszystkim)",
-      "hash": "d8d90624a2b72b2567c3c5022d8f083487cd6266",
-      "levelid": "custom_level_d8d90624a2b72b2567c3c5022d8f083487cd6266"
+      "key": "4a705",
+      "songName": "Hate - Mushmellow",
+      "hash": "c940e25d6ff6f2445726c19e09623657bb78ead6",
+      "levelid": "custom_level_c940e25d6ff6f2445726c19e09623657bb78ead6"
     },
     {
-      "key": "4a6ac",
-      "songName": "Wilki - Bohema",
-      "hash": "a4acca927ce7b7a3196d2c43e6ad7ffb2a8541f8",
-      "levelid": "custom_level_a4acca927ce7b7a3196d2c43e6ad7ffb2a8541f8"
+      "key": "4a704",
+      "songName": "i dont know what to call this",
+      "hash": "fed8aea732a6017a16fd426687bf63d70026cb10",
+      "levelid": "custom_level_fed8aea732a6017a16fd426687bf63d70026cb10"
     },
     {
-      "key": "4a6a9",
-      "songName": "Bike Day",
-      "hash": "2ec7517a1d8efb15116622c0c018b71504ce1e9a",
-      "levelid": "custom_level_2ec7517a1d8efb15116622c0c018b71504ce1e9a"
+      "key": "4a703",
+      "songName": "[Lightshow] HOYO-MiX, Yang Lee - The Nocturnal Firmament's Luster (from \"Genshin Impact\")",
+      "hash": "6535e359724a50556e0e757d9e9a12922e92c5c8",
+      "levelid": "custom_level_6535e359724a50556e0e757d9e9a12922e92c5c8"
     },
     {
-      "key": "4a694",
-      "songName": "Chezzkids OST - May Rock Music #3",
-      "hash": "6a202a99bdfa2abe3a8074b33f267e2d92de102c",
-      "levelid": "custom_level_6a202a99bdfa2abe3a8074b33f267e2d92de102c"
+      "key": "4a702",
+      "songName": "Lonely",
+      "hash": "5fc85a40b2c64ce92493b7b344a824babbb0eae8",
+      "levelid": "custom_level_5fc85a40b2c64ce92493b7b344a824babbb0eae8"
     },
     {
-      "key": "4a693",
-      "songName": "SILOS -by- STARSET",
-      "hash": "af44e3a5ebd34c98d24cf741b834f0e9427de6ce",
-      "levelid": "custom_level_af44e3a5ebd34c98d24cf741b834f0e9427de6ce"
+      "key": "4a6ff",
+      "songName": "Chase Atlantic - FACEDOWN",
+      "hash": "23895868249d0d8a62555996b925b85acacd25e4",
+      "levelid": "custom_level_23895868249d0d8a62555996b925b85acacd25e4"
     },
     {
-      "key": "4a68c",
-      "songName": "Lil Tracy-Beautiful Nightmare  (Poodle) ",
-      "hash": "db0bdb6d35b93d8b4517d58e738a01818cc47860",
-      "levelid": "custom_level_db0bdb6d35b93d8b4517d58e738a01818cc47860"
+      "key": "4a6fd",
+      "songName": "Meme Sounds Compilation I",
+      "hash": "570f12c7c3533cce185d9c8d13e527e30048b20b",
+      "levelid": "custom_level_570f12c7c3533cce185d9c8d13e527e30048b20b"
     },
     {
-      "key": "4a688",
-      "songName": "Edison Cole - Crazy",
-      "hash": "c9c4eb8848543ec120cba834a4f3bf66b8532ae7",
-      "levelid": "custom_level_c9c4eb8848543ec120cba834a4f3bf66b8532ae7"
+      "key": "4a6f5",
+      "songName": "Camellia - 999",
+      "hash": "902395eed3601d20c12f0803f021b66a002e6e42",
+      "levelid": "custom_level_902395eed3601d20c12f0803f021b66a002e6e42"
     },
     {
-      "key": "4a68b",
-      "songName": "[V3] SawanoHiroyuki[nZk], Rei - INERTIA",
-      "hash": "c3d7726b01ae91815f4d5f03c4ba3dfc182ae86c",
-      "levelid": "custom_level_c3d7726b01ae91815f4d5f03c4ba3dfc182ae86c"
+      "key": "4a6f2",
+      "songName": "what was the last thing u said",
+      "hash": "e2b0f3fa6e87c25b308aba606feef721542515a9",
+      "levelid": "custom_level_e2b0f3fa6e87c25b308aba606feef721542515a9"
     },
     {
-      "key": "4a68a",
-      "songName": "[V4] Sawano Hiroyuki - PARAGON",
-      "hash": "a98ff47b487a62fb0ee965e57cf8a5d632b08b9c",
-      "levelid": "custom_level_a98ff47b487a62fb0ee965e57cf8a5d632b08b9c"
+      "key": "4a6ef",
+      "songName": "Poster Boy (Cut)",
+      "hash": "25f1a99552799e2b418dc8b0ee368e3e984051fe",
+      "levelid": "custom_level_25f1a99552799e2b418dc8b0ee368e3e984051fe"
     },
     {
-      "key": "4a689",
-      "songName": "*W Speed*",
-      "hash": "57a50cdf85bfbad31d4dc1f67ae5d713ab1fe7eb",
-      "levelid": "custom_level_57a50cdf85bfbad31d4dc1f67ae5d713ab1fe7eb"
+      "key": "4a6e9",
+      "songName": "Dream Sweet in Sea Major",
+      "hash": "c8d906823dd97692fec475912a0d9ecbab114356",
+      "levelid": "custom_level_c8d906823dd97692fec475912a0d9ecbab114356"
     },
     {
-      "key": "4a687",
-      "songName": "W SPEED❤️‍🩹",
-      "hash": "dc193b7dc3a2c6a9b1304c1830e12ff34ae24178",
-      "levelid": "custom_level_dc193b7dc3a2c6a9b1304c1830e12ff34ae24178"
+      "key": "4a6e5",
+      "songName": "save these 2 pls",
+      "hash": "7d443641aef84dba318c85a53c49b740aea92b5c",
+      "levelid": "custom_level_7d443641aef84dba318c85a53c49b740aea92b5c"
     },
     {
-      "key": "4a686",
-      "songName": "Camellia - The Muzzle Facing",
-      "hash": "6ecd1ae006240d79251593cd2d06425b23f5e8d1",
-      "levelid": "custom_level_6ecd1ae006240d79251593cd2d06425b23f5e8d1"
+      "key": "4a6e4",
+      "songName": "Stellar",
+      "hash": "911088d92f675c79f30d09832b4192da6408cc1c",
+      "levelid": "custom_level_911088d92f675c79f30d09832b4192da6408cc1c"
     },
     {
-      "key": "4a683",
-      "songName": "sibid otle subrice mivrfunty",
-      "hash": "7e1d38067fb942b49c8136401f0aef6839c48c87",
-      "levelid": "custom_level_7e1d38067fb942b49c8136401f0aef6839c48c87"
+      "key": "4a6e3",
+      "songName": "cute speedrun",
+      "hash": "08d10ba31780f57ada30158ae44f9028edad47ce",
+      "levelid": "custom_level_08d10ba31780f57ada30158ae44f9028edad47ce"
     },
     {
-      "key": "4a682",
-      "songName": "Galaxy Destruction",
-      "hash": "e17d09c76542be9531a2764d6100476e86ac395e",
-      "levelid": "custom_level_e17d09c76542be9531a2764d6100476e86ac395e"
+      "key": "4a6e2",
+      "songName": "Faceless",
+      "hash": "9784a16af09936586ab120cb9b4bc86599a84dc6",
+      "levelid": "custom_level_9784a16af09936586ab120cb9b4bc86599a84dc6"
     },
     {
-      "key": "4a681",
-      "songName": "Alexandra Stan - Mr. Saxobeat",
-      "hash": "fd9b97864f57ab9c93a7d31a8daf9372a116f729",
-      "levelid": "custom_level_fd9b97864f57ab9c93a7d31a8daf9372a116f729"
+      "key": "4a6e0",
+      "songName": "cuz im into u",
+      "hash": "6d3772c22047aa22cbcc6ffa3e8b45b88783fd51",
+      "levelid": "custom_level_6d3772c22047aa22cbcc6ffa3e8b45b88783fd51"
     },
     {
-      "key": "4a680",
-      "songName": "Send The Pain Below",
-      "hash": "a7e79a77746f6c20564ebcf6d3d92146983c1e62",
-      "levelid": "custom_level_a7e79a77746f6c20564ebcf6d3d92146983c1e62"
+      "key": "4a6df",
+      "songName": "One of Us",
+      "hash": "211a2e92307988bec2304adf7c116378d7c510e8",
+      "levelid": "custom_level_211a2e92307988bec2304adf7c116378d7c510e8"
     },
     {
-      "key": "4a67b",
-      "songName": "Это не мой вайб",
-      "hash": "bca7a4249b4a6591c08c2939adc40b267a00648e",
-      "levelid": "custom_level_bca7a4249b4a6591c08c2939adc40b267a00648e"
+      "key": "4a6dd",
+      "songName": "ASSASSIN'S WEED RAP!!",
+      "hash": "7a38fee05e7bc3e62adbd3c41c1979d0aa85d863",
+      "levelid": "custom_level_7a38fee05e7bc3e62adbd3c41c1979d0aa85d863"
     },
     {
-      "key": "4a67a",
-      "songName": "RoughSketch, Nahahira - 777 (Vocal Ver.)",
-      "hash": "9d3e0235711dbefc8b53facaebecb210ebeb07c1",
-      "levelid": "custom_level_9d3e0235711dbefc8b53facaebecb210ebeb07c1"
+      "key": "4a6db",
+      "songName": "Between Two Worlds (Let's Lament)",
+      "hash": "86355048b2ad3bae9ef79a2b2c1feac8e9c7f3f9",
+      "levelid": "custom_level_86355048b2ad3bae9ef79a2b2c1feac8e9c7f3f9"
     },
     {
-      "key": "4a676",
-      "songName": "IRIS OUT [Chainsaw Man - The Movie: Reze Arc Opening] - Kenshi Yonezu",
-      "hash": "284358b5acd707529a061190d5f4d0e5742c5e90",
-      "levelid": "custom_level_284358b5acd707529a061190d5f4d0e5742c5e90"
+      "key": "4a6d8",
+      "songName": "Raon - Kitsueno Mado (Queen Fox)",
+      "hash": "b04ca6228186024f0ac2ae74771b2a5ab6473491",
+      "levelid": "custom_level_b04ca6228186024f0ac2ae74771b2a5ab6473491"
     },
     {
-      "key": "4a673",
-      "songName": "Demo1",
-      "hash": "c6a0d98c4b85b9571909635d6d5624a49204b321",
-      "levelid": "custom_level_c6a0d98c4b85b9571909635d6d5624a49204b321"
+      "key": "4a6d7",
+      "songName": "Muzik Overload",
+      "hash": "5efb2b799c91cb29185d21966d96d9a4b31ed69f",
+      "levelid": "custom_level_5efb2b799c91cb29185d21966d96d9a4b31ed69f"
     },
     {
-      "key": "4a671",
-      "songName": "Headlock",
-      "hash": "dc03c6de16517026e89874cba7f7e0973be2a606",
-      "levelid": "custom_level_dc03c6de16517026e89874cba7f7e0973be2a606"
+      "key": "4a6d2",
+      "songName": "Breezer - Extended To 4 Minutes ( W.I.P )",
+      "hash": "0c8b37480334ca52b07b4cb5a376118a0b1976cd",
+      "levelid": "custom_level_0c8b37480334ca52b07b4cb5a376118a0b1976cd"
     },
     {
-      "key": "4a670",
-      "songName": "Camellia - Light it up",
-      "hash": "9513749768770632fec6bea8c9c513fbe78e9fd9",
-      "levelid": "custom_level_9513749768770632fec6bea8c9c513fbe78e9fd9"
+      "key": "4a6cc",
+      "songName": "Camellia - magical, very magical world",
+      "hash": "a1aa969ae2b73bf051dca0aee510255227078371",
+      "levelid": "custom_level_a1aa969ae2b73bf051dca0aee510255227078371"
     },
     {
-      "key": "4a66d",
-      "songName": "Shipwrecked - Alestorm",
-      "hash": "6099338718df3b74d6f4adad8eb5dc058a6c1a5c",
-      "levelid": "custom_level_6099338718df3b74d6f4adad8eb5dc058a6c1a5c"
+      "key": "4a6cb",
+      "songName": "totr❤️",
+      "hash": "d1e8d5ddc8fa48af46206e83a4282333d8e9d1da",
+      "levelid": "custom_level_d1e8d5ddc8fa48af46206e83a4282333d8e9d1da"
     },
     {
-      "key": "4a66c",
-      "songName": "SANITY KRUSH",
-      "hash": "bf6fa3b45229e19116b49a705af70b7074a093c6",
-      "levelid": "custom_level_bf6fa3b45229e19116b49a705af70b7074a093c6"
-    },
-    {
-      "key": "4a667",
-      "songName": " BANZAI - Todoroki Hajime",
-      "hash": "ce06c97733ab445358b30ec30da19c7573501f5a",
-      "levelid": "custom_level_ce06c97733ab445358b30ec30da19c7573501f5a"
-    },
-    {
-      "key": "4a668",
-      "songName": "Parousia - Ace Aura",
-      "hash": "65e94fc3d67eebca51175d68246b8d08b8b29fc8",
-      "levelid": "custom_level_65e94fc3d67eebca51175d68246b8d08b8b29fc8"
-    },
-    {
-      "key": "4a19a",
-      "songName": "MIRANI - Kiss Me Now",
-      "hash": "59758b46d395c66e7fb3c26ef3b0c211467df8e1",
-      "levelid": "custom_level_59758b46d395c66e7fb3c26ef3b0c211467df8e1"
-    },
-    {
-      "key": "4a663",
-      "songName": "Call Me, Beep Me! [Kim Possible Theme Song] - Christina Milian",
-      "hash": "711c246e91f92fe57552dfe82f7250da50b4f3ec",
-      "levelid": "custom_level_711c246e91f92fe57552dfe82f7250da50b4f3ec"
-    },
-    {
-      "key": "4a601",
-      "songName": "ヘイロー feat. Kafu - Maneki",
-      "hash": "6abc750b2073f3ef99665d08a272b99f18cf9148",
-      "levelid": "custom_level_6abc750b2073f3ef99665d08a272b99f18cf9148"
-    },
-    {
-      "key": "4a662",
-      "songName": "google classroom",
-      "hash": "b117d5c9526e16ed953719cc6909e241f21e2137",
-      "levelid": "custom_level_b117d5c9526e16ed953719cc6909e241f21e2137"
+      "key": "4a179",
+      "songName": "miss A - Hush",
+      "hash": "9e95e18d459e10080b6dddda2492de647d18f633",
+      "levelid": "custom_level_9e95e18d459e10080b6dddda2492de647d18f633"
     }
   ],
   "image": ""
