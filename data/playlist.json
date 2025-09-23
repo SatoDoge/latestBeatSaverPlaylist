@@ -1,268 +1,232 @@
 {
-  "playlistTitle": "2025-09-21T15:18:48.522Z~2025-09-22T15:18:48.522Z",
+  "playlistTitle": "2025-09-22T15:18:49.378Z~2025-09-23T15:18:49.378Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-09-21T15:18:48.522Z and 2025-09-22T15:18:48.522Z",
+  "discripstion": "Maps published between 2025-09-22T15:18:49.378Z and 2025-09-23T15:18:49.378Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4a9eb",
-      "songName": "DECO*27 - Cherry Pop feat. Hatsune Miku",
-      "hash": "3ebc787ca48794afb4bf19e2d7aa3476213a4c38",
-      "levelid": "custom_level_3ebc787ca48794afb4bf19e2d7aa3476213a4c38"
+      "key": "4aa51",
+      "songName": "家の裏でマンボウが死んでるP - 西日暮里の踊り",
+      "hash": "771e5cda79806e36c5cd0b244a04720aa0233285",
+      "levelid": "custom_level_771e5cda79806e36c5cd0b244a04720aa0233285"
     },
     {
-      "key": "4a9e9",
-      "songName": "BamBam - Dancing By Myself (Feat. TIMETHAI)",
-      "hash": "f0d1ff76a08c255922f60b82cb17151223cfff1c",
-      "levelid": "custom_level_f0d1ff76a08c255922f60b82cb17151223cfff1c"
+      "key": "4aa50",
+      "songName": "『シャル・ウィ・ダンス？』ReoNa (Shadows House - OP 2)",
+      "hash": "cd431e6a06bb965d3697bc1cc8d92fa8c6d13a4e",
+      "levelid": "custom_level_cd431e6a06bb965d3697bc1cc8d92fa8c6d13a4e"
     },
     {
-      "key": "4a9e7",
-      "songName": "Together Till Infinity [Infinity Nikki Opening] - Jessie J",
-      "hash": "c197c6bb448b456abdeefacb95796dd2e219d048",
-      "levelid": "custom_level_c197c6bb448b456abdeefacb95796dd2e219d048"
+      "key": "4aa4f",
+      "songName": "Hell Is Forever - Alex Brightman, Erika Henningsen, Andrew Underberg, Sam Haft",
+      "hash": "e5ea7b194a25836c9191e3a013559ee79ba5c9bc",
+      "levelid": "custom_level_e5ea7b194a25836c9191e3a013559ee79ba5c9bc"
     },
     {
-      "key": "4a9e5",
-      "songName": "667",
-      "hash": "70a1619d8746b0f6c1d775a46474fc96628b0622",
-      "levelid": "custom_level_70a1619d8746b0f6c1d775a46474fc96628b0622"
+      "key": "4aa4e",
+      "songName": "愛の残滓(藍月なくる)",
+      "hash": "7bb06bb0f146c5222c69424ff356919044e540ab",
+      "levelid": "custom_level_7bb06bb0f146c5222c69424ff356919044e540ab"
     },
     {
-      "key": "4a9e4",
-      "songName": "Rrhar'il",
-      "hash": "b933414f5fed528abb7a763fa157451db703143c",
-      "levelid": "custom_level_b933414f5fed528abb7a763fa157451db703143c"
+      "key": "4aa46",
+      "songName": "過去に黒百合を",
+      "hash": "d56a06dfb2ae1d82a650d81d99694972661add2f",
+      "levelid": "custom_level_d56a06dfb2ae1d82a650d81d99694972661add2f"
     },
     {
-      "key": "4a9e0",
-      "songName": "今はいいんだよ feat. saewool",
-      "hash": "e94b82c7e1ecd32ab9f95c524955b73ae888d217",
-      "levelid": "custom_level_e94b82c7e1ecd32ab9f95c524955b73ae888d217"
+      "key": "4aa3a",
+      "songName": "Бемон, Ksenon - 2Debila",
+      "hash": "c16eeda7e81b7390334cd853995c2328e8433456",
+      "levelid": "custom_level_c16eeda7e81b7390334cd853995c2328e8433456"
     },
     {
-      "key": "4a9de",
-      "songName": "kanemiko - Ruin in Cascade",
-      "hash": "feab02d199fb680fed4d0a2dacfdbb7c7c4ea93c",
-      "levelid": "custom_level_feab02d199fb680fed4d0a2dacfdbb7c7c4ea93c"
+      "key": "4aa34",
+      "songName": "Juggernaut.-Eclypze",
+      "hash": "f996f9501b16d926ac8844e0720787528727155f",
+      "levelid": "custom_level_f996f9501b16d926ac8844e0720787528727155f"
     },
     {
-      "key": "4a9dc",
-      "songName": "Eliminate & Virtual Riot - Aura Farming",
-      "hash": "62120c95f9b876b16caa0869a4d68bb1772f532b",
-      "levelid": "custom_level_62120c95f9b876b16caa0869a4d68bb1772f532b"
+      "key": "4aa31",
+      "songName": "we're such idiots !!",
+      "hash": "f53cdd0c476a9dadb5840a0231949ae07c61c0d8",
+      "levelid": "custom_level_f53cdd0c476a9dadb5840a0231949ae07c61c0d8"
     },
     {
-      "key": "4a9db",
-      "songName": "[Fitbeat] Miike Snow - Genghis Khan",
-      "hash": "36df379f6dee140a4c17dff3e856c1f1658f44ae",
-      "levelid": "custom_level_36df379f6dee140a4c17dff3e856c1f1658f44ae"
+      "key": "4aa30",
+      "songName": "DA Games - Get Out",
+      "hash": "02de1ca69f2314dd0f6fb2695f99cd7a826010ad",
+      "levelid": "custom_level_02de1ca69f2314dd0f6fb2695f99cd7a826010ad"
     },
     {
-      "key": "4a9d9",
-      "songName": "Skibidi",
-      "hash": "fcda6d2bdc74e749565fbaa1d775c66171e5b985",
-      "levelid": "custom_level_fcda6d2bdc74e749565fbaa1d775c66171e5b985"
+      "key": "4aa2f",
+      "songName": "epres",
+      "hash": "4a7c88950fc4691d5b14d782e871b74e8d57e95a",
+      "levelid": "custom_level_4a7c88950fc4691d5b14d782e871b74e8d57e95a"
     },
     {
-      "key": "4a9d8",
-      "songName": "busy town",
-      "hash": "dae0161f67369c4e1e137d94ec6f86dc3d3005f4",
-      "levelid": "custom_level_dae0161f67369c4e1e137d94ec6f86dc3d3005f4"
+      "key": "4aa2a",
+      "songName": "HowToBasic - How To Make A Smash Burger",
+      "hash": "d8f12a3deff214a52c9adda7b00df31b9a61af51",
+      "levelid": "custom_level_d8f12a3deff214a52c9adda7b00df31b9a61af51"
     },
     {
-      "key": "4a9d6",
-      "songName": "recording(2)",
-      "hash": "e91c008039eade2bd4155d7bc6041b812315f2a9",
-      "levelid": "custom_level_e91c008039eade2bd4155d7bc6041b812315f2a9"
+      "key": "4aa29",
+      "songName": "Muri Muri Evolution",
+      "hash": "62a3943d5cd83d08bbe6ee02a71b6f7f95238828",
+      "levelid": "custom_level_62a3943d5cd83d08bbe6ee02a71b6f7f95238828"
     },
     {
-      "key": "4a9d5",
-      "songName": "Skrillex - Rock n' Roll (Will Take You to the Mountain)",
-      "hash": "5166bb86b3f6d189c2e1a4c26215549293a75333",
-      "levelid": "custom_level_5166bb86b3f6d189c2e1a4c26215549293a75333"
+      "key": "4aa21",
+      "songName": "[V4] t+pazolite - DELUSION",
+      "hash": "906e30c6ee1e90eafb43bf4eb6ddc6d60b470005",
+      "levelid": "custom_level_906e30c6ee1e90eafb43bf4eb6ddc6d60b470005"
     },
     {
-      "key": "4a9d4",
-      "songName": "Roughsketch - 666",
-      "hash": "9a92a919e2127b28e32bfd9e550fa5230d096554",
-      "levelid": "custom_level_9a92a919e2127b28e32bfd9e550fa5230d096554"
+      "key": "4aa24",
+      "songName": "Hiroshi Kitadani - We Are!",
+      "hash": "eec4c663d0a37e9ebfff145c036b2179c7662fb1",
+      "levelid": "custom_level_eec4c663d0a37e9ebfff145c036b2179c7662fb1"
     },
     {
-      "key": "4a9d3",
-      "songName": "Symholic - Towa no Yakusoku to Nanika",
-      "hash": "791cb8235fd0959c8906c55c834ec61a5d856180",
-      "levelid": "custom_level_791cb8235fd0959c8906c55c834ec61a5d856180"
+      "key": "4aa20",
+      "songName": "greazy boi and slippy eel",
+      "hash": "c2c15f99cb6b90a21cf189920cf2d955dcdc6143",
+      "levelid": "custom_level_c2c15f99cb6b90a21cf189920cf2d955dcdc6143"
     },
     {
-      "key": "4a9d2",
-      "songName": "Corn on the Cob",
-      "hash": "c0b8778b28e1b430bc1284f70e588f44b7fac72a",
-      "levelid": "custom_level_c0b8778b28e1b430bc1284f70e588f44b7fac72a"
+      "key": "4aa1f",
+      "songName": "Alleycvt - Fucking Love You",
+      "hash": "bb18455fda1a28fa1003b7626f8f6876071ab472",
+      "levelid": "custom_level_bb18455fda1a28fa1003b7626f8f6876071ab472"
     },
     {
-      "key": "4a9d1",
-      "songName": "display",
-      "hash": "d6f62ce5cdab28cdc7544f0e0c7d33f9ba114c06",
-      "levelid": "custom_level_d6f62ce5cdab28cdc7544f0e0c7d33f9ba114c06"
+      "key": "4aa1c",
+      "songName": "Little Einsteins Theme Song",
+      "hash": "d4addaa46f97aef1578acb6e89d0d98ec6f179ed",
+      "levelid": "custom_level_d4addaa46f97aef1578acb6e89d0d98ec6f179ed"
     },
     {
-      "key": "4a9cd",
-      "songName": "Girls Like You ♡",
-      "hash": "b3bd9f27f656f1d4677b62191d40960457de1f0a",
-      "levelid": "custom_level_b3bd9f27f656f1d4677b62191d40960457de1f0a"
+      "key": "4aa1a",
+      "songName": "Lil Tracy-Beautiful Nightmare (Poodle) ",
+      "hash": "8e6b59de460514ad26493b3d1a9563b92cf3fce7",
+      "levelid": "custom_level_8e6b59de460514ad26493b3d1a9563b92cf3fce7"
     },
     {
-      "key": "4a9ca",
-      "songName": "Billie Eilish, Khalid - lovely",
-      "hash": "1cb27b8d55648666f38d83999e0ae8dee6e98b45",
-      "levelid": "custom_level_1cb27b8d55648666f38d83999e0ae8dee6e98b45"
+      "key": "4aa11",
+      "songName": "Alone Intelligence",
+      "hash": "8cfe3f5de444bf23f212796256bc06820dc59853",
+      "levelid": "custom_level_8cfe3f5de444bf23f212796256bc06820dc59853"
     },
     {
-      "key": "4a9c9",
-      "songName": "Fromtheheart (feat. brakence, kmoe, glaive, ericdoa, osquinn, & Valentine)  - Losin' It",
-      "hash": "5ed1a6b40c8e1251fd242508ef9199a60ef3c749",
-      "levelid": "custom_level_5ed1a6b40c8e1251fd242508ef9199a60ef3c749"
+      "key": "4aa0c",
+      "songName": "Tempo Katana (Unfinished Lights)",
+      "hash": "c5424c87ca13154d134d82338c2d869492124fc3",
+      "levelid": "custom_level_c5424c87ca13154d134d82338c2d869492124fc3"
     },
     {
-      "key": "4a9c8",
-      "songName": "eastin sings When Can I See You Again",
-      "hash": "4bd275787a8edec10c0e644668f1f29a3020be75",
-      "levelid": "custom_level_4bd275787a8edec10c0e644668f1f29a3020be75"
+      "key": "4aa0b",
+      "songName": "Heinous Яeaper",
+      "hash": "e71d1273d9e0dfd46d9f8237622b4a6fa9a81868",
+      "levelid": "custom_level_e71d1273d9e0dfd46d9f8237622b4a6fa9a81868"
     },
     {
-      "key": "4a9c7",
-      "songName": "Power Of The Saber Blade",
-      "hash": "5e90c6085e5949d4dbb36a95a05d87dc20f2d1f4",
-      "levelid": "custom_level_5e90c6085e5949d4dbb36a95a05d87dc20f2d1f4"
+      "key": "4aa08",
+      "songName": "Parry Gripp - Fun Fun Fun Fun Fun Fun",
+      "hash": "cb1702da64068a76ca539c525265554e0af0a416",
+      "levelid": "custom_level_cb1702da64068a76ca539c525265554e0af0a416"
     },
     {
-      "key": "4a9c6",
-      "songName": "surrender",
-      "hash": "92f9dc592b10fcdf9658b7e322e77e23ebfc3f38",
-      "levelid": "custom_level_92f9dc592b10fcdf9658b7e322e77e23ebfc3f38"
+      "key": "4a9ea",
+      "songName": "stasis v2",
+      "hash": "f536bf3ac0ca820c23c7dff41d0307d81c6a642c",
+      "levelid": "custom_level_f536bf3ac0ca820c23c7dff41d0307d81c6a642c"
     },
     {
-      "key": "4a9c5",
-      "songName": "gladde paling - what a feeling",
-      "hash": "cd63f9fc057835579343f4f01122cb77318e55d6",
-      "levelid": "custom_level_cd63f9fc057835579343f4f01122cb77318e55d6"
+      "key": "4aa06",
+      "songName": "BPM",
+      "hash": "a952afbb546159fcfdf202cd55d5eb809b8abe0c",
+      "levelid": "custom_level_a952afbb546159fcfdf202cd55d5eb809b8abe0c"
     },
     {
-      "key": "4a9c3",
-      "songName": "Soulless 7-- (fanmade)",
-      "hash": "85d7f429396a5a29059f0211d150ff5ef64c6eaf",
-      "levelid": "custom_level_85d7f429396a5a29059f0211d150ff5ef64c6eaf"
+      "key": "4aa05",
+      "songName": "Klerotte - Barcode_label_sticker",
+      "hash": "26d1249c6d7aeb57f8429e700cc09a2f33f4d709",
+      "levelid": "custom_level_26d1249c6d7aeb57f8429e700cc09a2f33f4d709"
     },
     {
-      "key": "4a9c1",
-      "songName": "your idol",
-      "hash": "6ee1c392d582b1a80a5c249c9f75f7f43667e9c1",
-      "levelid": "custom_level_6ee1c392d582b1a80a5c249c9f75f7f43667e9c1"
+      "key": "4aa04",
+      "songName": "[Feetsaber]Plug and Play",
+      "hash": "eba130acbb0e32db80ce3e6d02c6a827ae7d4f8f",
+      "levelid": "custom_level_eba130acbb0e32db80ce3e6d02c6a827ae7d4f8f"
     },
     {
-      "key": "4a9be",
-      "songName": "Jack Stauber's Micropop - Cupid",
-      "hash": "3404ef32f74299192c49f298d231a2aa98628419",
-      "levelid": "custom_level_3404ef32f74299192c49f298d231a2aa98628419"
+      "key": "4a9fe",
+      "songName": "Song of Storms - Koji Kondo [The Legend of Zelda: Ocarina of Time]",
+      "hash": "5d5de054b0922f8410b94071f54f312c58bd0b8d",
+      "levelid": "custom_level_5d5de054b0922f8410b94071f54f312c58bd0b8d"
     },
     {
-      "key": "4a9bc",
-      "songName": "bros got milk",
-      "hash": "69a780a1e28efcf26ccf133477d3f7572a8f3dc4",
-      "levelid": "custom_level_69a780a1e28efcf26ccf133477d3f7572a8f3dc4"
+      "key": "4a9fa",
+      "songName": "Saria's Song - Koji Kondo [The Legend of Zelda: Ocarina of Time]",
+      "hash": "d8548189ceed5199d1a977477b02f4e890a8114f",
+      "levelid": "custom_level_d8548189ceed5199d1a977477b02f4e890a8114f"
     },
     {
-      "key": "4a9ba",
-      "songName": "kid using outdoor voice 2 ",
-      "hash": "a676d2aa087cfc4a0a10e0ae3074bba379aa5c9a",
-      "levelid": "custom_level_a676d2aa087cfc4a0a10e0ae3074bba379aa5c9a"
+      "key": "4a9f3",
+      "songName": "Epona's Song - Koji Kondo [The Legend of Zelda: Ocarina of Time]",
+      "hash": "c865d394c08d9493e5900ce2fc85dcab830ce866",
+      "levelid": "custom_level_c865d394c08d9493e5900ce2fc85dcab830ce866"
     },
     {
-      "key": "4a9b9",
-      "songName": "burp",
-      "hash": "2be20229eb497f0f0a8f233a9c5b086c292ddd4a",
-      "levelid": "custom_level_2be20229eb497f0f0a8f233a9c5b086c292ddd4a"
+      "key": "4a9ff",
+      "songName": "Minuet of Forest - Koji Kondo [The Legend of Zelda: Ocarina of Time]",
+      "hash": "3ac26f390ab47ac737ae0e337d67009e263ac2ba",
+      "levelid": "custom_level_3ac26f390ab47ac737ae0e337d67009e263ac2ba"
     },
     {
-      "key": "4a9b8",
-      "songName": "Cani Barroco",
-      "hash": "69944929885f2f91f3b1f4765970340a4bffeb64",
-      "levelid": "custom_level_69944929885f2f91f3b1f4765970340a4bffeb64"
+      "key": "4a9fd",
+      "songName": "Song of Time - Koji Kondo [The Legend of Zelda: Ocarina of Time]",
+      "hash": "c5457f5272ec716e27d382ecc123715cc495125c",
+      "levelid": "custom_level_c5457f5272ec716e27d382ecc123715cc495125c"
     },
     {
-      "key": "4a9b6",
-      "songName": "ExileLord - Soulless 4",
-      "hash": "d0eeb5be646b32b26d32bbfc944378c4e017fb3e",
-      "levelid": "custom_level_d0eeb5be646b32b26d32bbfc944378c4e017fb3e"
+      "key": "4a9fc",
+      "songName": "Sun's Song - Koji Kondo [The Legend of Zelda: Ocarina of Time]",
+      "hash": "1caab28a608c43e40cec52a8ca2f8e77da439351",
+      "levelid": "custom_level_1caab28a608c43e40cec52a8ca2f8e77da439351"
     },
     {
-      "key": "4a9b7",
-      "songName": "this is what it sounds like",
-      "hash": "e78d3ea6502994414477e1f2b235574a66614437",
-      "levelid": "custom_level_e78d3ea6502994414477e1f2b235574a66614437"
+      "key": "4a9f2",
+      "songName": "Zelda's Lullaby - Koji Kondo [The Legend of Zelda: Ocarina of Time]",
+      "hash": "f90a04b550ec2a45fa2630aae7a1df78e065304d",
+      "levelid": "custom_level_f90a04b550ec2a45fa2630aae7a1df78e065304d"
     },
     {
-      "key": "4a9b5",
-      "songName": "Crazy Frog - Axel F",
-      "hash": "ff3250ac88b18a92cddbe01ee35f31d243443199",
-      "levelid": "custom_level_ff3250ac88b18a92cddbe01ee35f31d243443199"
+      "key": "4aa00",
+      "songName": "Bolero of Fire - Koji Kondo [The Legend of Zelda: Ocarina of Time]",
+      "hash": "66d20b7173457011cfdd9036fbbee492d5829197",
+      "levelid": "custom_level_66d20b7173457011cfdd9036fbbee492d5829197"
     },
     {
-      "key": "4a9b3",
-      "songName": "fucking mimic",
-      "hash": "6c4e6c650aae6ba6b8d110c551b2d28df7b5fe9a",
-      "levelid": "custom_level_6c4e6c650aae6ba6b8d110c551b2d28df7b5fe9a"
+      "key": "4a9f1",
+      "songName": "Tokyo Manaka - Doomer feat. Kasane Teto",
+      "hash": "0caac6f7fa3d8cba6fbecf34ed98326b2049c676",
+      "levelid": "custom_level_0caac6f7fa3d8cba6fbecf34ed98326b2049c676"
     },
     {
-      "key": "4a9a9",
-      "songName": "Psychoboost feat. Danny Brown - Jane Remover, Danny Brown",
-      "hash": "5179524802b2149da0d14f0dfeb592da62e62b4d",
-      "levelid": "custom_level_5179524802b2149da0d14f0dfeb592da62e62b4d"
+      "key": "4a9ed",
+      "songName": " EJAE & Andrew Choi - Free",
+      "hash": "fc38c23890ef66d44f9e470e3ac82e672633d9e3",
+      "levelid": "custom_level_fc38c23890ef66d44f9e470e3ac82e672633d9e3"
     },
     {
-      "key": "4a9a8",
-      "songName": "Dr. Fondoom",
-      "hash": "f2fa752b21ea09853ca95fa55ab65f3e8224fa10",
-      "levelid": "custom_level_f2fa752b21ea09853ca95fa55ab65f3e8224fa10"
-    },
-    {
-      "key": "4a9a0",
-      "songName": "oh my god bouta cuhhh",
-      "hash": "441c1329ed9433de7a8a3ca831856a30f093fdf2",
-      "levelid": "custom_level_441c1329ed9433de7a8a3ca831856a30f093fdf2"
-    },
-    {
-      "key": "4a99e",
-      "songName": "Everything Black :)",
-      "hash": "694627336f7ed8d13f095c44e92b8b9300f62ea1",
-      "levelid": "custom_level_694627336f7ed8d13f095c44e92b8b9300f62ea1"
-    },
-    {
-      "key": "4a762",
-      "songName": "UNIS - Datin’ Myself",
-      "hash": "0434f012cc6bbf3ad4516b3816410fc8c6f51e82",
-      "levelid": "custom_level_0434f012cc6bbf3ad4516b3816410fc8c6f51e82"
-    },
-    {
-      "key": "4a99c",
-      "songName": "Shoujo Fractal - Traumerei",
-      "hash": "ab73ab6af02790ae1f3bd2868b983052fd12fabf",
-      "levelid": "custom_level_ab73ab6af02790ae1f3bd2868b983052fd12fabf"
-    },
-    {
-      "key": "4a99a",
-      "songName": "HUNTR/X - Golden",
-      "hash": "00218d8f55cba971a3e4158e38e88f27f9d1ff49",
-      "levelid": "custom_level_00218d8f55cba971a3e4158e38e88f27f9d1ff49"
-    },
-    {
-      "key": "4a999",
-      "songName": "The Strom",
-      "hash": "9f33d048f36a1785b831a53c539655b19b6fdb23",
-      "levelid": "custom_level_9f33d048f36a1785b831a53c539655b19b6fdb23"
+      "key": "4a763",
+      "songName": "MAJORS - Giddy Up",
+      "hash": "29a1664679dca3d6a5365ba0414b98fdf0a1349d",
+      "levelid": "custom_level_29a1664679dca3d6a5365ba0414b98fdf0a1349d"
     }
   ],
   "image": ""
