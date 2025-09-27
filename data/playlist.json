@@ -1,220 +1,196 @@
 {
-  "playlistTitle": "2025-09-25T15:18:48.311Z~2025-09-26T15:18:48.311Z",
+  "playlistTitle": "2025-09-26T15:18:48.009Z~2025-09-27T15:18:48.009Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-09-25T15:18:48.311Z and 2025-09-26T15:18:48.311Z",
+  "discripstion": "Maps published between 2025-09-26T15:18:48.009Z and 2025-09-27T15:18:48.009Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4ab9b",
-      "songName": "Montagem Xonada (WIP READ DESC)",
-      "hash": "8f48830b5b6d1c94b5605553f85ba2598df4fd59",
-      "levelid": "custom_level_8f48830b5b6d1c94b5605553f85ba2598df4fd59"
+      "key": "4ac17",
+      "songName": "Restlessness - Sewerslvt",
+      "hash": "19300acd2a6f71a2f1a8732674661a369549c070",
+      "levelid": "custom_level_19300acd2a6f71a2f1a8732674661a369549c070"
     },
     {
-      "key": "4aba8",
-      "songName": "for testplay only",
-      "hash": "492e410a72b5541d9ce968c39163fe46ece09095",
-      "levelid": "custom_level_492e410a72b5541d9ce968c39163fe46ece09095"
+      "key": "4ac15",
+      "songName": "Паралич",
+      "hash": "3ad3b9937942a0f35a41201a20e3cecfdb3167f7",
+      "levelid": "custom_level_3ad3b9937942a0f35a41201a20e3cecfdb3167f7"
     },
     {
-      "key": "4aba9",
-      "songName": "Eye - Reflection Fire",
-      "hash": "fa57a02c64fa5d6b64b10246165cf89330c7db20",
-      "levelid": "custom_level_fa57a02c64fa5d6b64b10246165cf89330c7db20"
+      "key": "4ac16",
+      "songName": "Camellia - POLYBIUS GB SPEEDRUN",
+      "hash": "5870d49ffbadf1ca2be604b304ce3e3c8f261e37",
+      "levelid": "custom_level_5870d49ffbadf1ca2be604b304ce3e3c8f261e37"
     },
     {
-      "key": "4ab87",
-      "songName": "[Gone EP Pack] SWARM - Consumed (Instrumental)",
-      "hash": "5d0be5317ed25df172b160270aa6e6d5d8aad78d",
-      "levelid": "custom_level_5d0be5317ed25df172b160270aa6e6d5d8aad78d"
+      "key": "4ac14",
+      "songName": "Escape☆彡",
+      "hash": "67efbc20ffa1ce1678d6de799ad526bbfa6b2b11",
+      "levelid": "custom_level_67efbc20ffa1ce1678d6de799ad526bbfa6b2b11"
     },
     {
-      "key": "4ab82",
-      "songName": "[Gone EP Pack] SWARM, MORIS BLAK - Gone (Instrumental)",
-      "hash": "c8e4e7650adf4f91f7136e221dfd7d7f3d61ccdd",
-      "levelid": "custom_level_c8e4e7650adf4f91f7136e221dfd7d7f3d61ccdd"
+      "key": "4ac13",
+      "songName": "Never Give Up",
+      "hash": "78882eef58b7ccbab979f660e2ae02ccc5ca69aa",
+      "levelid": "custom_level_78882eef58b7ccbab979f660e2ae02ccc5ca69aa"
     },
     {
-      "key": "4a9d7",
-      "songName": "[Gone EP Pack] Never Ending Night (Instrumental) - SWARM",
-      "hash": "95aa8851e746a0857d525356c62817bbe1ff3027",
-      "levelid": "custom_level_95aa8851e746a0857d525356c62817bbe1ff3027"
+      "key": "4abdc",
+      "songName": "あかね家 - 前から歩きスマホ",
+      "hash": "a2e3cedde06f5a8d740e0aaf1c88515af0dd4a03",
+      "levelid": "custom_level_a2e3cedde06f5a8d740e0aaf1c88515af0dd4a03"
     },
     {
-      "key": "4a9f0",
-      "songName": "[Gone EP Pack] SWARM - No Salvation (Instrumental)",
-      "hash": "7462a3ab67e03d6531e5f25527a967265e8a8dfe",
-      "levelid": "custom_level_7462a3ab67e03d6531e5f25527a967265e8a8dfe"
+      "key": "4ac0e",
+      "songName": "Kanako Itou - COSMIC LOOPER (Game Size) (Steins;Gate Elite VN Opening)",
+      "hash": "429fe12ff072eb2c4f4a22881f53603792a9c308",
+      "levelid": "custom_level_429fe12ff072eb2c4f4a22881f53603792a9c308"
     },
     {
-      "key": "4aba7",
-      "songName": "nskq - piel (WIP, unfinished)",
-      "hash": "fe1b6f79b1e8bcfca5d6ce2a9bb603c5e1e0761b",
-      "levelid": "custom_level_fe1b6f79b1e8bcfca5d6ce2a9bb603c5e1e0761b"
+      "key": "4ac0d",
+      "songName": "【V3 MAP】司花令（si hua ling）- 小爱的妈（Xiao Ai De Ma）",
+      "hash": "30277d4f2a5bee9d67276759be2e2b2e5815e751",
+      "levelid": "custom_level_30277d4f2a5bee9d67276759be2e2b2e5815e751"
     },
     {
-      "key": "4aba4",
-      "songName": "Remzcore - Hakken Go",
-      "hash": "e93c87b0b6b45930ba9053d5d1877f20d7fdc423",
-      "levelid": "custom_level_e93c87b0b6b45930ba9053d5d1877f20d7fdc423"
+      "key": "4ac0b",
+      "songName": "Zombie (Extended Mix)",
+      "hash": "b0a6217abc843f970a62081c5ff7218448f977fa",
+      "levelid": "custom_level_b0a6217abc843f970a62081c5ff7218448f977fa"
     },
     {
-      "key": "4aba2",
-      "songName": "Interim WIP",
-      "hash": "df62e786e236f58cf24436770e22cf879bd727df",
-      "levelid": "custom_level_df62e786e236f58cf24436770e22cf879bd727df"
+      "key": "4ac08",
+      "songName": "SOLO",
+      "hash": "9501324ffd782d5eafdc14333c2a899b6717b421",
+      "levelid": "custom_level_9501324ffd782d5eafdc14333c2a899b6717b421"
     },
     {
-      "key": "4aba1",
-      "songName": "声なき魚",
-      "hash": "54b03c55375c7a4558f92c43579fabdb36286edb",
-      "levelid": "custom_level_54b03c55375c7a4558f92c43579fabdb36286edb"
+      "key": "4ac07",
+      "songName": "キッカイケッタイ",
+      "hash": "10a3edd4078d08bd187c7d575b11aff5dfcba165",
+      "levelid": "custom_level_10a3edd4078d08bd187c7d575b11aff5dfcba165"
     },
     {
-      "key": "4ab9d",
-      "songName": "Stupid Little Love Song - Fefe Dobson",
-      "hash": "6d24c5dc42be45edeb479f03a4536295bd7f3c86",
-      "levelid": "custom_level_6d24c5dc42be45edeb479f03a4536295bd7f3c86"
+      "key": "4abfd",
+      "songName": "Gameboy",
+      "hash": "74f3b47cace5957007b0af7d65671918c50f4e69",
+      "levelid": "custom_level_74f3b47cace5957007b0af7d65671918c50f4e69"
     },
     {
-      "key": "4ab9e",
-      "songName": "SilvaGunner - Circus (Sigma Rizz Mode Final Arc Ultra Edition)",
-      "hash": "d0e2c310e6be2f31e424b7f56c231268c71e1f8b",
-      "levelid": "custom_level_d0e2c310e6be2f31e424b7f56c231268c71e1f8b"
+      "key": "4abf8",
+      "songName": "Bobby Raps & Corbin - Frozen Tundra",
+      "hash": "d11aa174592b7b7a565cbfc7e046928a7c7d2249",
+      "levelid": "custom_level_d11aa174592b7b7a565cbfc7e046928a7c7d2249"
     },
     {
-      "key": "4ab9c",
-      "songName": "You, who are gentle and go at your own pace - Koi no Koe",
-      "hash": "7861f047bf54dfff5014bb14a050b5cd4c8ad07e",
-      "levelid": "custom_level_7861f047bf54dfff5014bb14a050b5cd4c8ad07e"
+      "key": "4abf5",
+      "songName": "FRUITS ZIPPER - PiPoPaPo",
+      "hash": "15edba563b776d1fa4bf6330a611b33d815552f9",
+      "levelid": "custom_level_15edba563b776d1fa4bf6330a611b33d815552f9"
     },
     {
-      "key": "4ab99",
-      "songName": "505",
-      "hash": "045bf227b19f11d7d29e426fe6457e2f156ea60f",
-      "levelid": "custom_level_045bf227b19f11d7d29e426fe6457e2f156ea60f"
+      "key": "4abde",
+      "songName": "Six Feet Under",
+      "hash": "b0789f3412c25fb0b6f79760bc6fadfbe921f175",
+      "levelid": "custom_level_b0789f3412c25fb0b6f79760bc6fadfbe921f175"
     },
     {
-      "key": "4ab98",
-      "songName": "IRIS OUT",
-      "hash": "93997b7ac9e27de8c2b3ee481aa9be1a5c272ac9",
-      "levelid": "custom_level_93997b7ac9e27de8c2b3ee481aa9be1a5c272ac9"
+      "key": "4abda",
+      "songName": "red card",
+      "hash": "edae81e3aaca6e3e1a3f597ab7e400ee17c9d639",
+      "levelid": "custom_level_edae81e3aaca6e3e1a3f597ab7e400ee17c9d639"
     },
     {
-      "key": "4ab96",
-      "songName": "[Feetsaber]ルーマー/ Vivid BAD SQUAD",
-      "hash": "e6fe7e9cc2f97603fd9d776fdb9ebe893c43d7ae",
-      "levelid": "custom_level_e6fe7e9cc2f97603fd9d776fdb9ebe893c43d7ae"
+      "key": "4abd9",
+      "songName": "Hypa Hypa - Electric Callboy",
+      "hash": "bdfca818e638fa59ebdd62b9e5ce698aaace6f77",
+      "levelid": "custom_level_bdfca818e638fa59ebdd62b9e5ce698aaace6f77"
     },
     {
-      "key": "4ab8f",
-      "songName": "Reek - Eruthria, The Goddess Of The Blood Moon Part II - A Game Of Life And Death - {FINALE}",
-      "hash": "06844d61629e6a03f70a2b50452535e563ea8c03",
-      "levelid": "custom_level_06844d61629e6a03f70a2b50452535e563ea8c03"
+      "key": "4abd0",
+      "songName": "Mahito Yokota - The Toad Brigade",
+      "hash": "8f539c025a30cee598c2280f58cda25b82cb823c",
+      "levelid": "custom_level_8f539c025a30cee598c2280f58cda25b82cb823c"
     },
     {
-      "key": "4aaf5",
-      "songName": "ReeK - Eruthria, The Goddess Of The Blood Moon Part I - An Exposition",
-      "hash": "7962602ace43c82cee2883bfe820b56e3ac96c36",
-      "levelid": "custom_level_7962602ace43c82cee2883bfe820b56e3ac96c36"
+      "key": "4abcd",
+      "songName": "Stir and Mix",
+      "hash": "698b89c1dbcf8d83eb835595c23b79adc83602da",
+      "levelid": "custom_level_698b89c1dbcf8d83eb835595c23b79adc83602da"
     },
     {
-      "key": "4ab95",
-      "songName": "Possessed By Disease [NieR:Automata Soundtrack] - Keiichi Okabe",
-      "hash": "e818c2f2cedfaecbc732ded3f0da0429c702afac",
-      "levelid": "custom_level_e818c2f2cedfaecbc732ded3f0da0429c702afac"
+      "key": "4abcc",
+      "songName": "Apartments",
+      "hash": "be78b4be5d663b71ef74d7b3ab015a7d667da2f6",
+      "levelid": "custom_level_be78b4be5d663b71ef74d7b3ab015a7d667da2f6"
     },
     {
-      "key": "4ab94",
-      "songName": "Rumors - Storm",
-      "hash": "4ac4df387b10adc50fd402136d5fb9c360d1bb81",
-      "levelid": "custom_level_4ac4df387b10adc50fd402136d5fb9c360d1bb81"
+      "key": "4abc8",
+      "songName": "[GD Mash Pack II] Boom Kitty - Deo Volente",
+      "hash": "e12be95eddf7db714a5201c4b2d046f814688317",
+      "levelid": "custom_level_e12be95eddf7db714a5201c4b2d046f814688317"
     },
     {
-      "key": "4ab93",
-      "songName": "Spin Eternally",
-      "hash": "2fd17b8b8c3331b837e376f3fe2317868ca83075",
-      "levelid": "custom_level_2fd17b8b8c3331b837e376f3fe2317868ca83075"
+      "key": "4abc6",
+      "songName": "Jane Remover - Professional Vengeance (Short Edit)",
+      "hash": "3b0582c46f10027e86d425503d234f53ef2a66ff",
+      "levelid": "custom_level_3b0582c46f10027e86d425503d234f53ef2a66ff"
     },
     {
-      "key": "4ab91",
-      "songName": "next to you",
-      "hash": "9d6db1db5bfb8708e2d44cde8495a8257d891cb7",
-      "levelid": "custom_level_9d6db1db5bfb8708e2d44cde8495a8257d891cb7"
+      "key": "4abc1",
+      "songName": "The Toad Brigade  - Mahito Yokota [Super Mario Galaxy]",
+      "hash": "08676fadea6337b114537ab899636c5a71b771fb",
+      "levelid": "custom_level_08676fadea6337b114537ab899636c5a71b771fb"
     },
     {
-      "key": "4ab90",
-      "songName": "Hot Limit(Eurobeat) - John Desire",
-      "hash": "202dd1e9e0b642ce45c7b33cd6600b65c5fbd929",
-      "levelid": "custom_level_202dd1e9e0b642ce45c7b33cd6600b65c5fbd929"
+      "key": "4aa0a",
+      "songName": "In Flames - Take This Life",
+      "hash": "3e343aec35341d90734a18dd4484c598f0d7362b",
+      "levelid": "custom_level_3e343aec35341d90734a18dd4484c598f0d7362b"
     },
     {
-      "key": "4ab8c",
-      "songName": "memeしい/重音テト",
-      "hash": "65ad0032406d9ababfcc62b387c8276d2f80744b",
-      "levelid": "custom_level_65ad0032406d9ababfcc62b387c8276d2f80744b"
+      "key": "4abb2",
+      "songName": "The Cave - Mumford & Sons (Chroma+)",
+      "hash": "2294b6dad8de14a91e470f2519aab6a11b29f403",
+      "levelid": "custom_level_2294b6dad8de14a91e470f2519aab6a11b29f403"
     },
     {
-      "key": "4ab8b",
-      "songName": "Spin Eternally",
-      "hash": "8b301ddddc10ed3ed5b610c387d4ddc41954f5ce",
-      "levelid": "custom_level_8b301ddddc10ed3ed5b610c387d4ddc41954f5ce"
+      "key": "4abb1",
+      "songName": "wotaku - Snooze feat. SHIKI",
+      "hash": "902aa7b5526493f32da47beec7e9a2f116607f34",
+      "levelid": "custom_level_902aa7b5526493f32da47beec7e9a2f116607f34"
     },
     {
-      "key": "4ab88",
-      "songName": "The Clincher",
-      "hash": "d4999e64d9aaf29208a1dbc2302da25c6c2940ea",
-      "levelid": "custom_level_d4999e64d9aaf29208a1dbc2302da25c6c2940ea"
+      "key": "4abad",
+      "songName": "MTD - CRACK (Remaster Version)",
+      "hash": "5ff11bb0a62650c7642218ad33c93759da65edcd",
+      "levelid": "custom_level_5ff11bb0a62650c7642218ad33c93759da65edcd"
     },
     {
-      "key": "4ab85",
-      "songName": "BRAINROT GIGACHADS DRILL",
-      "hash": "c252dff012d8fdea4eb8fb43a4104a3bb927bc85",
-      "levelid": "custom_level_c252dff012d8fdea4eb8fb43a4104a3bb927bc85"
+      "key": "4a96b",
+      "songName": "NMIXX - BEAT BEAT",
+      "hash": "42e687b45f53e44cca402c7513e5ed28c7c2ca00",
+      "levelid": "custom_level_42e687b45f53e44cca402c7513e5ed28c7c2ca00"
     },
     {
-      "key": "4ab84",
-      "songName": "Kyutatsuki - Dimension Wars vs FINAL PHASE (mashup by V1PEX7)",
-      "hash": "52835fc80a1a4c010029528562b2e74e4c31e6a7",
-      "levelid": "custom_level_52835fc80a1a4c010029528562b2e74e4c31e6a7"
+      "key": "4abac",
+      "songName": "Mulher Gorda (short length)",
+      "hash": "dae2222154ddf7313f84d3df85e4560ad298116e",
+      "levelid": "custom_level_dae2222154ddf7313f84d3df85e4560ad298116e"
     },
     {
-      "key": "4ab7d",
-      "songName": "Mike Geno - Zavodila",
-      "hash": "cf433b3a043bbd03fc54cbdee139288a203622ab",
-      "levelid": "custom_level_cf433b3a043bbd03fc54cbdee139288a203622ab"
+      "key": "4aba6",
+      "songName": "忘れてやる！ - esoragoto",
+      "hash": "8df69c92100559fc734000de0f044c45dd7f7898",
+      "levelid": "custom_level_8df69c92100559fc734000de0f044c45dd7f7898"
     },
     {
-      "key": "4ab75",
-      "songName": "Cat loving ",
-      "hash": "92a6c8c7ac6a767072ec26e51116b030780f3652",
-      "levelid": "custom_level_92a6c8c7ac6a767072ec26e51116b030780f3652"
-    },
-    {
-      "key": "4ab66",
-      "songName": "Race Results - Sonic Racing CrossWorlds OST",
-      "hash": "768fc71b66b8ccb4e318effc09eea19a26a29e99",
-      "levelid": "custom_level_768fc71b66b8ccb4e318effc09eea19a26a29e99"
-    },
-    {
-      "key": "4ab46",
-      "songName": "Shake - IShowSpeed",
-      "hash": "56856fc48ef9547bb78b5332fc0cebf0f685cc15",
-      "levelid": "custom_level_56856fc48ef9547bb78b5332fc0cebf0f685cc15"
-    },
-    {
-      "key": "4a8cf",
-      "songName": "QWER - Fake Idol",
-      "hash": "bed9699f1f3a02478138d41c3a8a06c7322e9f2c",
-      "levelid": "custom_level_bed9699f1f3a02478138d41c3a8a06c7322e9f2c"
-    },
-    {
-      "key": "4ab37",
-      "songName": "愛の残滓 - 藍月なくる(Ai no Zanshi - Nakuru Aitsuki)",
-      "hash": "aee9f25b934d6422d5436d57baf76edae862ac06",
-      "levelid": "custom_level_aee9f25b934d6422d5436d57baf76edae862ac06"
+      "key": "4abaa",
+      "songName": "IMANU, Rhode - All Too Late",
+      "hash": "2e21bf42394ec0bfe2e8878eae81042bfbb9255e",
+      "levelid": "custom_level_2e21bf42394ec0bfe2e8878eae81042bfbb9255e"
     }
   ],
   "image": ""
