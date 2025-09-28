@@ -1,196 +1,208 @@
 {
-  "playlistTitle": "2025-09-26T15:18:48.009Z~2025-09-27T15:18:48.009Z",
+  "playlistTitle": "2025-09-27T15:18:48.194Z~2025-09-28T15:18:48.194Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-09-26T15:18:48.009Z and 2025-09-27T15:18:48.009Z",
+  "discripstion": "Maps published between 2025-09-27T15:18:48.194Z and 2025-09-28T15:18:48.194Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "4ac79",
+      "songName": "im gonnA BROWNNNNNNNNN",
+      "hash": "705d6a7fabba081b405984ca89b194157f39f624",
+      "levelid": "custom_level_705d6a7fabba081b405984ca89b194157f39f624"
+    },
+    {
+      "key": "4ac6a",
+      "songName": "PEANUT BUTTER JELLY TIMEE",
+      "hash": "1863cab3d5b3fb85de4028c5054c2387e49e4647",
+      "levelid": "custom_level_1863cab3d5b3fb85de4028c5054c2387e49e4647"
+    },
+    {
+      "key": "4ac65",
+      "songName": "Mashinomi - Pawmi Pawmo Pawmot!",
+      "hash": "f4e14d3657c415041b9a26b4893674e1739602cc",
+      "levelid": "custom_level_f4e14d3657c415041b9a26b4893674e1739602cc"
+    },
+    {
+      "key": "4ac5c",
+      "songName": "legalize nuclear bombs",
+      "hash": "44ca1145a770a8d63cdfd18b7ecd5160dbac6d5d",
+      "levelid": "custom_level_44ca1145a770a8d63cdfd18b7ecd5160dbac6d5d"
+    },
+    {
+      "key": "4ac5b",
+      "songName": "falling apart",
+      "hash": "f5942e29210124f234131540ec8dde3e76a7508c",
+      "levelid": "custom_level_f5942e29210124f234131540ec8dde3e76a7508c"
+    },
+    {
+      "key": "4ac5a",
+      "songName": "WFLYTD (GOOD MORNING)",
+      "hash": "fe41ba9f33d820bceac923b3fc15a5fc60ff78f3",
+      "levelid": "custom_level_fe41ba9f33d820bceac923b3fc15a5fc60ff78f3"
+    },
+    {
+      "key": "4ac59",
+      "songName": "Ian & Shonci - XXL Freestyle (Trap Remix)",
+      "hash": "ade365b6403ab2cda7673bb7d7e5dc8b260e2371",
+      "levelid": "custom_level_ade365b6403ab2cda7673bb7d7e5dc8b260e2371"
+    },
+    {
+      "key": "4ac50",
+      "songName": "Carmina Burana (O Fortuna) (Live) [Blasterjaxx Bootleg] - Blasterjaxx",
+      "hash": "1701b68f798c846bf1eb0619d7fe0ef4483c44e1",
+      "levelid": "custom_level_1701b68f798c846bf1eb0619d7fe0ef4483c44e1"
+    },
+    {
+      "key": "4ac4f",
+      "songName": "You Broke My Heart So I Burned Down Your Farm - שברת לי את הלב אז פוצצתי את החווה",
+      "hash": "65d545346eb6998ef9ff384ab5c905f3586a0d03",
+      "levelid": "custom_level_65d545346eb6998ef9ff384ab5c905f3586a0d03"
+    },
+    {
+      "key": "4ac4e",
+      "songName": "Do Re Mi Fa So LAAAAAA",
+      "hash": "8aaffd385eea2281205f31706b5b308bbb359bd8",
+      "levelid": "custom_level_8aaffd385eea2281205f31706b5b308bbb359bd8"
+    },
+    {
+      "key": "4ac4d",
+      "songName": "GLOG GLOG GLOG GLOG GLOG by djpanthe",
+      "hash": "e74d7f422c30ff8b992596e616f17ad59945d504",
+      "levelid": "custom_level_e74d7f422c30ff8b992596e616f17ad59945d504"
+    },
+    {
+      "key": "4ac4b",
+      "songName": "i can't feel at all",
+      "hash": "530cb9de05e577c7b3503b653950770a282cb200",
+      "levelid": "custom_level_530cb9de05e577c7b3503b653950770a282cb200"
+    },
+    {
+      "key": "4ac4a",
+      "songName": "Loveit? / biz×ZERA feat LOLUET",
+      "hash": "50225c69be651c60d32693fa3d1ab4dd20812cf6",
+      "levelid": "custom_level_50225c69be651c60d32693fa3d1ab4dd20812cf6"
+    },
+    {
+      "key": "4ac49",
+      "songName": "BTS - A BRAND NEW DAY",
+      "hash": "a7f67f0af0db1d082238c35a1c3137608671c225",
+      "levelid": "custom_level_a7f67f0af0db1d082238c35a1c3137608671c225"
+    },
+    {
+      "key": "4ac48",
+      "songName": "Chaos Time the DARK!",
+      "hash": "a3836232f56558e615643a3109afb8c4b6b7f458",
+      "levelid": "custom_level_a3836232f56558e615643a3109afb8c4b6b7f458"
+    },
+    {
+      "key": "4ac47",
+      "songName": "SHADOW ARG - Arcade Machine (Ft. Nuka)",
+      "hash": "8aa3b050af614316b3654689567489fb59a8e8a3",
+      "levelid": "custom_level_8aa3b050af614316b3654689567489fb59a8e8a3"
+    },
+    {
+      "key": "4ac46",
+      "songName": "The World Of LSD User",
+      "hash": "8e2d49420793cbb439e49818f5aca844874f69eb",
+      "levelid": "custom_level_8e2d49420793cbb439e49818f5aca844874f69eb"
+    },
+    {
+      "key": "4ac44",
+      "songName": "thursday song  (星期四之歌）",
+      "hash": "e0c0ce6eed3f2a88295187c807f6ff9ee1255414",
+      "levelid": "custom_level_e0c0ce6eed3f2a88295187c807f6ff9ee1255414"
+    },
+    {
+      "key": "4ac3b",
+      "songName": "Tarmac",
+      "hash": "8d0402c4f9d827ea243ae60dbd8c928176947946",
+      "levelid": "custom_level_8d0402c4f9d827ea243ae60dbd8c928176947946"
+    },
+    {
+      "key": "4ac39",
+      "songName": "ScratchProject#1",
+      "hash": "ce11ad53aaa45ffe968d6da1d5345bbc3263d7ed",
+      "levelid": "custom_level_ce11ad53aaa45ffe968d6da1d5345bbc3263d7ed"
+    },
+    {
+      "key": "4ac38",
+      "songName": "Switchfoot - Let It Happen",
+      "hash": "1d898d99dc0a70516217a7c4d5bcd3d1c1799c53",
+      "levelid": "custom_level_1d898d99dc0a70516217a7c4d5bcd3d1c1799c53"
+    },
+    {
+      "key": "4ac36",
+      "songName": "Jax Toy",
+      "hash": "6e75f0c04034ae2bb57570cde5e2391c90248c99",
+      "levelid": "custom_level_6e75f0c04034ae2bb57570cde5e2391c90248c99"
+    },
+    {
+      "key": "4ac2e",
+      "songName": "[V4] lovelytheband - take me to the moon",
+      "hash": "2b86c29c0a40c50adafd50f02b281c0b92adca40",
+      "levelid": "custom_level_2b86c29c0a40c50adafd50f02b281c0b92adca40"
+    },
+    {
+      "key": "4ac2d",
+      "songName": "Mo Falk - Rise & Shine",
+      "hash": "6e42dbe2d25a118e9a948c8516e8c9d94b96326b",
+      "levelid": "custom_level_6e42dbe2d25a118e9a948c8516e8c9d94b96326b"
+    },
+    {
+      "key": "4ac2a",
+      "songName": "har har har",
+      "hash": "333d338c5376760a47ff65942becc29edeb0cc31",
+      "levelid": "custom_level_333d338c5376760a47ff65942becc29edeb0cc31"
+    },
+    {
+      "key": "4ac29",
+      "songName": "HandHeld",
+      "hash": "7c514cac559cdeae543c29d2a41b31cc0b2c26a9",
+      "levelid": "custom_level_7c514cac559cdeae543c29d2a41b31cc0b2c26a9"
+    },
+    {
+      "key": "4ac22",
+      "songName": "Jax Toy!",
+      "hash": "b9b197afdc0b015995735047a484429dbe4dbc91",
+      "levelid": "custom_level_b9b197afdc0b015995735047a484429dbe4dbc91"
+    },
+    {
+      "key": "4ac20",
+      "songName": "My Man on Willpower",
+      "hash": "d8f8d7c1fa4c028473c03cf09704c3e023ba62ef",
+      "levelid": "custom_level_d8f8d7c1fa4c028473c03cf09704c3e023ba62ef"
+    },
+    {
+      "key": "4ac1c",
+      "songName": "Cjbeards - Vampire (feat. Scarlett)",
+      "hash": "8af3344db13eede0694fec180ef71c0b761c5efa",
+      "levelid": "custom_level_8af3344db13eede0694fec180ef71c0b761c5efa"
+    },
+    {
+      "key": "4ac1b",
+      "songName": "Jady - Shed My Skin",
+      "hash": "a6d7f20c0c213da055241a6778089f0e06167764",
+      "levelid": "custom_level_a6d7f20c0c213da055241a6778089f0e06167764"
+    },
+    {
+      "key": "4a77a",
+      "songName": "Hearts2Hearts - Butterflies",
+      "hash": "9164ee959fca2fd898984c5e0929edabd16f8942",
+      "levelid": "custom_level_9164ee959fca2fd898984c5e0929edabd16f8942"
+    },
+    {
+      "key": "4ac19",
+      "songName": "Kenshi Yonezu - Iris Out",
+      "hash": "112034fe96b5389e0c594e779a8551e0f76e432a",
+      "levelid": "custom_level_112034fe96b5389e0c594e779a8551e0f76e432a"
+    },
+    {
       "key": "4ac17",
       "songName": "Restlessness - Sewerslvt",
-      "hash": "19300acd2a6f71a2f1a8732674661a369549c070",
-      "levelid": "custom_level_19300acd2a6f71a2f1a8732674661a369549c070"
-    },
-    {
-      "key": "4ac15",
-      "songName": "Паралич",
-      "hash": "3ad3b9937942a0f35a41201a20e3cecfdb3167f7",
-      "levelid": "custom_level_3ad3b9937942a0f35a41201a20e3cecfdb3167f7"
-    },
-    {
-      "key": "4ac16",
-      "songName": "Camellia - POLYBIUS GB SPEEDRUN",
-      "hash": "5870d49ffbadf1ca2be604b304ce3e3c8f261e37",
-      "levelid": "custom_level_5870d49ffbadf1ca2be604b304ce3e3c8f261e37"
-    },
-    {
-      "key": "4ac14",
-      "songName": "Escape☆彡",
-      "hash": "67efbc20ffa1ce1678d6de799ad526bbfa6b2b11",
-      "levelid": "custom_level_67efbc20ffa1ce1678d6de799ad526bbfa6b2b11"
-    },
-    {
-      "key": "4ac13",
-      "songName": "Never Give Up",
-      "hash": "78882eef58b7ccbab979f660e2ae02ccc5ca69aa",
-      "levelid": "custom_level_78882eef58b7ccbab979f660e2ae02ccc5ca69aa"
-    },
-    {
-      "key": "4abdc",
-      "songName": "あかね家 - 前から歩きスマホ",
-      "hash": "a2e3cedde06f5a8d740e0aaf1c88515af0dd4a03",
-      "levelid": "custom_level_a2e3cedde06f5a8d740e0aaf1c88515af0dd4a03"
-    },
-    {
-      "key": "4ac0e",
-      "songName": "Kanako Itou - COSMIC LOOPER (Game Size) (Steins;Gate Elite VN Opening)",
-      "hash": "429fe12ff072eb2c4f4a22881f53603792a9c308",
-      "levelid": "custom_level_429fe12ff072eb2c4f4a22881f53603792a9c308"
-    },
-    {
-      "key": "4ac0d",
-      "songName": "【V3 MAP】司花令（si hua ling）- 小爱的妈（Xiao Ai De Ma）",
-      "hash": "30277d4f2a5bee9d67276759be2e2b2e5815e751",
-      "levelid": "custom_level_30277d4f2a5bee9d67276759be2e2b2e5815e751"
-    },
-    {
-      "key": "4ac0b",
-      "songName": "Zombie (Extended Mix)",
-      "hash": "b0a6217abc843f970a62081c5ff7218448f977fa",
-      "levelid": "custom_level_b0a6217abc843f970a62081c5ff7218448f977fa"
-    },
-    {
-      "key": "4ac08",
-      "songName": "SOLO",
-      "hash": "9501324ffd782d5eafdc14333c2a899b6717b421",
-      "levelid": "custom_level_9501324ffd782d5eafdc14333c2a899b6717b421"
-    },
-    {
-      "key": "4ac07",
-      "songName": "キッカイケッタイ",
-      "hash": "10a3edd4078d08bd187c7d575b11aff5dfcba165",
-      "levelid": "custom_level_10a3edd4078d08bd187c7d575b11aff5dfcba165"
-    },
-    {
-      "key": "4abfd",
-      "songName": "Gameboy",
-      "hash": "74f3b47cace5957007b0af7d65671918c50f4e69",
-      "levelid": "custom_level_74f3b47cace5957007b0af7d65671918c50f4e69"
-    },
-    {
-      "key": "4abf8",
-      "songName": "Bobby Raps & Corbin - Frozen Tundra",
-      "hash": "d11aa174592b7b7a565cbfc7e046928a7c7d2249",
-      "levelid": "custom_level_d11aa174592b7b7a565cbfc7e046928a7c7d2249"
-    },
-    {
-      "key": "4abf5",
-      "songName": "FRUITS ZIPPER - PiPoPaPo",
-      "hash": "15edba563b776d1fa4bf6330a611b33d815552f9",
-      "levelid": "custom_level_15edba563b776d1fa4bf6330a611b33d815552f9"
-    },
-    {
-      "key": "4abde",
-      "songName": "Six Feet Under",
-      "hash": "b0789f3412c25fb0b6f79760bc6fadfbe921f175",
-      "levelid": "custom_level_b0789f3412c25fb0b6f79760bc6fadfbe921f175"
-    },
-    {
-      "key": "4abda",
-      "songName": "red card",
-      "hash": "edae81e3aaca6e3e1a3f597ab7e400ee17c9d639",
-      "levelid": "custom_level_edae81e3aaca6e3e1a3f597ab7e400ee17c9d639"
-    },
-    {
-      "key": "4abd9",
-      "songName": "Hypa Hypa - Electric Callboy",
-      "hash": "bdfca818e638fa59ebdd62b9e5ce698aaace6f77",
-      "levelid": "custom_level_bdfca818e638fa59ebdd62b9e5ce698aaace6f77"
-    },
-    {
-      "key": "4abd0",
-      "songName": "Mahito Yokota - The Toad Brigade",
-      "hash": "8f539c025a30cee598c2280f58cda25b82cb823c",
-      "levelid": "custom_level_8f539c025a30cee598c2280f58cda25b82cb823c"
-    },
-    {
-      "key": "4abcd",
-      "songName": "Stir and Mix",
-      "hash": "698b89c1dbcf8d83eb835595c23b79adc83602da",
-      "levelid": "custom_level_698b89c1dbcf8d83eb835595c23b79adc83602da"
-    },
-    {
-      "key": "4abcc",
-      "songName": "Apartments",
-      "hash": "be78b4be5d663b71ef74d7b3ab015a7d667da2f6",
-      "levelid": "custom_level_be78b4be5d663b71ef74d7b3ab015a7d667da2f6"
-    },
-    {
-      "key": "4abc8",
-      "songName": "[GD Mash Pack II] Boom Kitty - Deo Volente",
-      "hash": "e12be95eddf7db714a5201c4b2d046f814688317",
-      "levelid": "custom_level_e12be95eddf7db714a5201c4b2d046f814688317"
-    },
-    {
-      "key": "4abc6",
-      "songName": "Jane Remover - Professional Vengeance (Short Edit)",
-      "hash": "3b0582c46f10027e86d425503d234f53ef2a66ff",
-      "levelid": "custom_level_3b0582c46f10027e86d425503d234f53ef2a66ff"
-    },
-    {
-      "key": "4abc1",
-      "songName": "The Toad Brigade  - Mahito Yokota [Super Mario Galaxy]",
-      "hash": "08676fadea6337b114537ab899636c5a71b771fb",
-      "levelid": "custom_level_08676fadea6337b114537ab899636c5a71b771fb"
-    },
-    {
-      "key": "4aa0a",
-      "songName": "In Flames - Take This Life",
-      "hash": "3e343aec35341d90734a18dd4484c598f0d7362b",
-      "levelid": "custom_level_3e343aec35341d90734a18dd4484c598f0d7362b"
-    },
-    {
-      "key": "4abb2",
-      "songName": "The Cave - Mumford & Sons (Chroma+)",
-      "hash": "2294b6dad8de14a91e470f2519aab6a11b29f403",
-      "levelid": "custom_level_2294b6dad8de14a91e470f2519aab6a11b29f403"
-    },
-    {
-      "key": "4abb1",
-      "songName": "wotaku - Snooze feat. SHIKI",
-      "hash": "902aa7b5526493f32da47beec7e9a2f116607f34",
-      "levelid": "custom_level_902aa7b5526493f32da47beec7e9a2f116607f34"
-    },
-    {
-      "key": "4abad",
-      "songName": "MTD - CRACK (Remaster Version)",
-      "hash": "5ff11bb0a62650c7642218ad33c93759da65edcd",
-      "levelid": "custom_level_5ff11bb0a62650c7642218ad33c93759da65edcd"
-    },
-    {
-      "key": "4a96b",
-      "songName": "NMIXX - BEAT BEAT",
-      "hash": "42e687b45f53e44cca402c7513e5ed28c7c2ca00",
-      "levelid": "custom_level_42e687b45f53e44cca402c7513e5ed28c7c2ca00"
-    },
-    {
-      "key": "4abac",
-      "songName": "Mulher Gorda (short length)",
-      "hash": "dae2222154ddf7313f84d3df85e4560ad298116e",
-      "levelid": "custom_level_dae2222154ddf7313f84d3df85e4560ad298116e"
-    },
-    {
-      "key": "4aba6",
-      "songName": "忘れてやる！ - esoragoto",
-      "hash": "8df69c92100559fc734000de0f044c45dd7f7898",
-      "levelid": "custom_level_8df69c92100559fc734000de0f044c45dd7f7898"
-    },
-    {
-      "key": "4abaa",
-      "songName": "IMANU, Rhode - All Too Late",
-      "hash": "2e21bf42394ec0bfe2e8878eae81042bfbb9255e",
-      "levelid": "custom_level_2e21bf42394ec0bfe2e8878eae81042bfbb9255e"
+      "hash": "ef4710be8bfb000d6b31490e53375bb8858f9657",
+      "levelid": "custom_level_ef4710be8bfb000d6b31490e53375bb8858f9657"
     }
   ],
   "image": ""
