@@ -1,214 +1,220 @@
 {
-  "playlistTitle": "2025-10-07T15:18:49.656Z~2025-10-08T15:18:49.656Z",
+  "playlistTitle": "2025-10-08T15:18:48.426Z~2025-10-09T15:18:48.426Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-10-07T15:18:49.656Z and 2025-10-08T15:18:49.656Z",
+  "discripstion": "Maps published between 2025-10-08T15:18:48.426Z and 2025-10-09T15:18:48.426Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "4b174",
+      "songName": "piri & tommy - on & on",
+      "hash": "de57078c9a3b9e22c4c5e6ac12de439d846feae2",
+      "levelid": "custom_level_de57078c9a3b9e22c4c5e6ac12de439d846feae2"
+    },
+    {
+      "key": "4a911",
+      "songName": "[ADOvent Calendar] Natori - Overdose (covered by Ado)",
+      "hash": "0901401f822780455b3b5c9bc19e0e4fb5db052d",
+      "levelid": "custom_level_0901401f822780455b3b5c9bc19e0e4fb5db052d"
+    },
+    {
+      "key": "4b171",
+      "songName": "pro green ",
+      "hash": "7f09c783057185ed9a9eafa90b1e7409ab6792e2",
+      "levelid": "custom_level_7f09c783057185ed9a9eafa90b1e7409ab6792e2"
+    },
+    {
+      "key": "4b170",
+      "songName": "(Shangri-la Frontier - Opening 2) 「FZMZ - Danger Danger」",
+      "hash": "63fe03fe12a46b3d9c27a43ad413c278eee6427d",
+      "levelid": "custom_level_63fe03fe12a46b3d9c27a43ad413c278eee6427d"
+    },
+    {
+      "key": "4b16e",
+      "songName": "Glaive - Nouveau Riche ",
+      "hash": "8b0c586834c8ec97e9d656a1165f697db51ce22f",
+      "levelid": "custom_level_8b0c586834c8ec97e9d656a1165f697db51ce22f"
+    },
+    {
+      "key": "4b16b",
+      "songName": "The Empress",
+      "hash": "734931e432bf34c357511f3c037c934a8ba5fa5e",
+      "levelid": "custom_level_734931e432bf34c357511f3c037c934a8ba5fa5e"
+    },
+    {
+      "key": "4b15f",
+      "songName": "Ghostbusters",
+      "hash": "a6c0da482f24d7c982d82f0111e720cb65737537",
+      "levelid": "custom_level_a6c0da482f24d7c982d82f0111e720cb65737537"
+    },
+    {
+      "key": "4b167",
+      "songName": "Innerlijke Kracht",
+      "hash": "39f59f9221c63122e0583f08ebe0b6106841769f",
+      "levelid": "custom_level_39f59f9221c63122e0583f08ebe0b6106841769f"
+    },
+    {
+      "key": "4b161",
+      "songName": "!NOT! if snakes in the wall was on crack",
+      "hash": "76f344d37db32181c5cb506a5c1a028a33d2af88",
+      "levelid": "custom_level_76f344d37db32181c5cb506a5c1a028a33d2af88"
+    },
+    {
+      "key": "4b160",
+      "songName": "Resonance [Soul Eater Opening] - TM Revolution",
+      "hash": "250fa892e2ae7d4a7e97406eb3059623ee513e13",
+      "levelid": "custom_level_250fa892e2ae7d4a7e97406eb3059623ee513e13"
+    },
+    {
+      "key": "4b15e",
+      "songName": "Dream Funk Vibro -Requested by my friend",
+      "hash": "1ee7b1a7355ac23388d56885be9cc9a616081169",
+      "levelid": "custom_level_1ee7b1a7355ac23388d56885be9cc9a616081169"
+    },
+    {
+      "key": "4b15b",
+      "songName": "HITECH NINJA - Modelista",
+      "hash": "cb3907c01c3ca2ed2284b26e42ba1e61acdb4ba4",
+      "levelid": "custom_level_cb3907c01c3ca2ed2284b26e42ba1e61acdb4ba4"
+    },
+    {
+      "key": "4b158",
+      "songName": "Here - Alessia Cara",
+      "hash": "1cd5789d26e224fe88a13c6e5cdaf001a6c164f5",
+      "levelid": "custom_level_1cd5789d26e224fe88a13c6e5cdaf001a6c164f5"
+    },
+    {
+      "key": "4b157",
+      "songName": "Brainrot Gigachad Drill",
+      "hash": "8a6186e433bbc3b3bb49fbb6e4046f41c057156b",
+      "levelid": "custom_level_8a6186e433bbc3b3bb49fbb6e4046f41c057156b"
+    },
+    {
+      "key": "4b156",
+      "songName": "Hello Halloween",
+      "hash": "d7d5e68d0e60b66585b480a99d7ff50a9d3260f1",
+      "levelid": "custom_level_d7d5e68d0e60b66585b480a99d7ff50a9d3260f1"
+    },
+    {
+      "key": "4b154",
+      "songName": "Falling Apart",
+      "hash": "d537ae8ac71e49e843d5ae2fccb540d5a7bc6752",
+      "levelid": "custom_level_d537ae8ac71e49e843d5ae2fccb540d5a7bc6752"
+    },
+    {
+      "key": "4b14b",
+      "songName": "S3RL - Don't Stop (short edit)",
+      "hash": "dc711519d1d3f6598d1f305774ea15021764b690",
+      "levelid": "custom_level_dc711519d1d3f6598d1f305774ea15021764b690"
+    },
+    {
+      "key": "4b142",
+      "songName": "the ant song",
+      "hash": "230ec9a22358009d0ef7d4f77cf3e14c4b6412f1",
+      "levelid": "custom_level_230ec9a22358009d0ef7d4f77cf3e14c4b6412f1"
+    },
+    {
+      "key": "4b123",
+      "songName": "Count down 321",
+      "hash": "f09ba5f3d2109b66529593ffb590deebbe0dcd52",
+      "levelid": "custom_level_f09ba5f3d2109b66529593ffb590deebbe0dcd52"
+    },
+    {
+      "key": "4b122",
+      "songName": "Astrothunder",
+      "hash": "0c6f1b24f748cc4a252ca1cfa416b49031c42fc4",
+      "levelid": "custom_level_0c6f1b24f748cc4a252ca1cfa416b49031c42fc4"
+    },
+    {
+      "key": "4b121",
+      "songName": "Undone",
+      "hash": "6d28953266c0fcd626cb918a733e9c058650209f",
+      "levelid": "custom_level_6d28953266c0fcd626cb918a733e9c058650209f"
+    },
+    {
+      "key": "4b11c",
+      "songName": "Memes",
+      "hash": "68caf9b2c307c56c0d799c0862f26998a18cde2b",
+      "levelid": "custom_level_68caf9b2c307c56c0d799c0862f26998a18cde2b"
+    },
+    {
+      "key": "4b117",
+      "songName": "West Ivar & GLOBBY - Bring Back The Dance",
+      "hash": "593f119048cb411069dcb41b00b82441824d8a92",
+      "levelid": "custom_level_593f119048cb411069dcb41b00b82441824d8a92"
+    },
+    {
+      "key": "4b115",
+      "songName": "PILOT - Tyler, The Creator",
+      "hash": "9de5328d57539790862d66167f62231dc12999e2",
+      "levelid": "custom_level_9de5328d57539790862d66167f62231dc12999e2"
+    },
+    {
+      "key": "4b114",
+      "songName": "Last Sahur ",
+      "hash": "564325663cfae3c47c9d26e18d9ca71bc9e0617f",
+      "levelid": "custom_level_564325663cfae3c47c9d26e18d9ca71bc9e0617f"
+    },
+    {
+      "key": "4b10c",
+      "songName": "The Wrecks - Always, Everytime",
+      "hash": "64a8b8c0d8632fc56fed6ddf29f20f5d4b611704",
+      "levelid": "custom_level_64a8b8c0d8632fc56fed6ddf29f20f5d4b611704"
+    },
+    {
+      "key": "4b107",
+      "songName": "[Noodle] Bôa - Duvet",
+      "hash": "800b1fb0faeded2af7311ead97cc4bb526178f81",
+      "levelid": "custom_level_800b1fb0faeded2af7311ead97cc4bb526178f81"
+    },
+    {
+      "key": "4b106",
+      "songName": "Lazytown - Playtime",
+      "hash": "f34d6221f86e352854c54b0f065c72da91e082bb",
+      "levelid": "custom_level_f34d6221f86e352854c54b0f065c72da91e082bb"
+    },
+    {
+      "key": "4b102",
+      "songName": "幽閉サテライト / 孤独月 (yuuhei sateraito / kodoku tsuki) senya",
+      "hash": "77fba08ef547d2a7611cedbee96122b236b6c2b4",
+      "levelid": "custom_level_77fba08ef547d2a7611cedbee96122b236b6c2b4"
+    },
+    {
+      "key": "4b0fd",
+      "songName": "[V4.1] Charlie Puth - Light Switch (Short Ver.)",
+      "hash": "2c916fdcbf9f97f9c83a2cfd44002473188268fe",
+      "levelid": "custom_level_2c916fdcbf9f97f9c83a2cfd44002473188268fe"
+    },
+    {
+      "key": "4b0f3",
+      "songName": "bomb the rave ",
+      "hash": "3ad670b9c417c430ceec3d51ef769fd4e5ed738b",
+      "levelid": "custom_level_3ad670b9c417c430ceec3d51ef769fd4e5ed738b"
+    },
+    {
+      "key": "4b07d",
+      "songName": "ヒトガタ(HITOGATA) no lighting   Some dance-like notes",
+      "hash": "ecdaf3edef967ff9921c5f58311be65fc11f0654",
+      "levelid": "custom_level_ecdaf3edef967ff9921c5f58311be65fc11f0654"
+    },
+    {
+      "key": "4aeff",
+      "songName": "LIGHTSUM - Vanilla",
+      "hash": "4329c08a61381f4135eea7d138a3cd85080d14f9",
+      "levelid": "custom_level_4329c08a61381f4135eea7d138a3cd85080d14f9"
+    },
+    {
+      "key": "4b0ef",
+      "songName": "Welcome to the club",
+      "hash": "a6fb0eb6bb406c7aa77d209e7976f12e8b47e2cf",
+      "levelid": "custom_level_a6fb0eb6bb406c7aa77d209e7976f12e8b47e2cf"
+    },
+    {
       "key": "4aedc",
       "songName": "[ADOvent Calendar] Ado - Rebellion",
-      "hash": "25217958002713a446fc41fd90b7ad0de0cfee67",
-      "levelid": "custom_level_25217958002713a446fc41fd90b7ad0de0cfee67"
-    },
-    {
-      "key": "4b0d8",
-      "songName": "SEGA SOUND TEAM, James Bourne - Cross The Worlds (Opening ver.)",
-      "hash": "3fd8852530c13224e0e292fcca0a1d3a77346036",
-      "levelid": "custom_level_3fd8852530c13224e0e292fcca0a1d3a77346036"
-    },
-    {
-      "key": "4b0d9",
-      "songName": "CHAKS, Kyst Cortez - OZEMPIC ",
-      "hash": "afb194c6124acf77bb3d81f2cea183c01dc2af19",
-      "levelid": "custom_level_afb194c6124acf77bb3d81f2cea183c01dc2af19"
-    },
-    {
-      "key": "4b0d7",
-      "songName": "nominomu - against cacophony (feat. Mai)",
-      "hash": "72731e859aff79f9f36bd11240b06462590c3292",
-      "levelid": "custom_level_72731e859aff79f9f36bd11240b06462590c3292"
-    },
-    {
-      "key": "4b0d6",
-      "songName": "DISDAIN",
-      "hash": "00d1032955486c5ebf64e33af7d0fccd1005d97f",
-      "levelid": "custom_level_00d1032955486c5ebf64e33af7d0fccd1005d97f"
-    },
-    {
-      "key": "4add9",
-      "songName": "zukio - Guardian [救国のスネジンカ/Snezhinka: Sentinel Girls 2]",
-      "hash": "5d4d89816277ec1f3a037002e2f8251a22b46370",
-      "levelid": "custom_level_5d4d89816277ec1f3a037002e2f8251a22b46370"
-    },
-    {
-      "key": "4b0d5",
-      "songName": "George Ezra - Budapest (V3)",
-      "hash": "9e2a6f6973fe6d22ecdb295e5a0bdbd855b83f3a",
-      "levelid": "custom_level_9e2a6f6973fe6d22ecdb295e5a0bdbd855b83f3a"
-    },
-    {
-      "key": "4b0d4",
-      "songName": "t+pazolite - You are the Miserable (Uncut Edition)",
-      "hash": "454e67ac3345afb078d54ceeb9649b3e2ee08e2e",
-      "levelid": "custom_level_454e67ac3345afb078d54ceeb9649b3e2ee08e2e"
-    },
-    {
-      "key": "4b0d0",
-      "songName": "montagem lunar diamente 2 (satire test)",
-      "hash": "9b795872d9f25cf8583ccf08302dc8744a9a77de",
-      "levelid": "custom_level_9b795872d9f25cf8583ccf08302dc8744a9a77de"
-    },
-    {
-      "key": "4b0cd",
-      "songName": "GuruGuru WASH! Coin Laundry Disco",
-      "hash": "b2c6e2f437a55f1570201f5d483d661bc0413888",
-      "levelid": "custom_level_b2c6e2f437a55f1570201f5d483d661bc0413888"
-    },
-    {
-      "key": "4b0ca",
-      "songName": "Kairikibear - SAI LOVE JINSEI RUNNER feat. Hatsune Miku",
-      "hash": "bd985671b84dae52c42694e9f94af5c55840b214",
-      "levelid": "custom_level_bd985671b84dae52c42694e9f94af5c55840b214"
-    },
-    {
-      "key": "4b0c9",
-      "songName": "it boy",
-      "hash": "763a6bf3e4329af602ba6b517734084c86197101",
-      "levelid": "custom_level_763a6bf3e4329af602ba6b517734084c86197101"
-    },
-    {
-      "key": "4b0c7",
-      "songName": "why are da oranges called oranges?!",
-      "hash": "7783c20a4d5ae6aa6993591ea503703dda37dd8d",
-      "levelid": "custom_level_7783c20a4d5ae6aa6993591ea503703dda37dd8d"
-    },
-    {
-      "key": "4b0c2",
-      "songName": "Underscores - Stupid (Can't run from the urge)",
-      "hash": "7184e698f3fab9ec02feef9866fd7b76d931d6d0",
-      "levelid": "custom_level_7184e698f3fab9ec02feef9866fd7b76d931d6d0"
-    },
-    {
-      "key": "4b0c0",
-      "songName": "Dance With The Dead- March of the Dead",
-      "hash": "853963bf5fc3cb7206e1f34b31dcb45602ce1668",
-      "levelid": "custom_level_853963bf5fc3cb7206e1f34b31dcb45602ce1668"
-    },
-    {
-      "key": "4b0b8",
-      "songName": "Metronome Test",
-      "hash": "7eb6fc3dbac49650e1dfd669754288214d5ed538",
-      "levelid": "custom_level_7eb6fc3dbac49650e1dfd669754288214d5ed538"
-    },
-    {
-      "key": "4b0b6",
-      "songName": "Delaney Kai - Facetime Unavailable",
-      "hash": "4a015e5651b8c02075f074451f9f9542598ed6e2",
-      "levelid": "custom_level_4a015e5651b8c02075f074451f9f9542598ed6e2"
-    },
-    {
-      "key": "4b09e",
-      "songName": "Running in the Night",
-      "hash": "85223272f93f5dd80e806fad3f3255fe2f15ae00",
-      "levelid": "custom_level_85223272f93f5dd80e806fad3f3255fe2f15ae00"
-    },
-    {
-      "key": "4b09d",
-      "songName": "Kobaryo - True Hero (Original UN(partially)cut Version) ",
-      "hash": "3ed843da24f4ad3e24e1269ce7b97adf28ccfbc4",
-      "levelid": "custom_level_3ed843da24f4ad3e24e1269ce7b97adf28ccfbc4"
-    },
-    {
-      "key": "4b099",
-      "songName": "Dumb Song For Virgins To Cry To",
-      "hash": "842052532d3254ea443411756f21368d09234648",
-      "levelid": "custom_level_842052532d3254ea443411756f21368d09234648"
-    },
-    {
-      "key": "4b097",
-      "songName": "ball hard",
-      "hash": "440b79abe73576ad504008f945b48124118fd786",
-      "levelid": "custom_level_440b79abe73576ad504008f945b48124118fd786"
-    },
-    {
-      "key": "4b096",
-      "songName": "ミーナのおやしき（太鼓の達人）（ハロウィン）/miina no oyashiki（taikonotatujin）（Halloween）",
-      "hash": "75f41a973337e2033f4c42ef72d0f03d7864bb62",
-      "levelid": "custom_level_75f41a973337e2033f4c42ef72d0f03d7864bb62"
-    },
-    {
-      "key": "4b094",
-      "songName": "Moms Credit Card!",
-      "hash": "c9f9acd50e779b8133021a6ef3f9b87dcd6eb8fa",
-      "levelid": "custom_level_c9f9acd50e779b8133021a6ef3f9b87dcd6eb8fa"
-    },
-    {
-      "key": "4b093",
-      "songName": "Elton John - Crocodile Rock",
-      "hash": "ea80d9c79845d4fe4998b456be2ad00f0a19d6b1",
-      "levelid": "custom_level_ea80d9c79845d4fe4998b456be2ad00f0a19d6b1"
-    },
-    {
-      "key": "4aa7a",
-      "songName": "Camellia - Final-Boss-Chan",
-      "hash": "78f0f71659f7b0bf9ba558e1c52ad41cc17f910e",
-      "levelid": "custom_level_78f0f71659f7b0bf9ba558e1c52ad41cc17f910e"
-    },
-    {
-      "key": "4b08f",
-      "songName": "Extra Credit on the Extratone Test! VICTORY ROYALE!!! - Fvrwvrd ",
-      "hash": "cda2f7dca2a2f0e6a1a10264c673a2d73c6b1811",
-      "levelid": "custom_level_cda2f7dca2a2f0e6a1a10264c673a2d73c6b1811"
-    },
-    {
-      "key": "4b089",
-      "songName": "DPR IAN - So beautiful ",
-      "hash": "505a64f0c47ef34f6d8b7c3abf555ab9103e5a09",
-      "levelid": "custom_level_505a64f0c47ef34f6d8b7c3abf555ab9103e5a09"
-    },
-    {
-      "key": "4b088",
-      "songName": "Les Rallizes Dénudés - Flame of Ice (Volcanic Performance | Disc 1)",
-      "hash": "c244b5dff5f27014275ccf77d16695149144ea7b",
-      "levelid": "custom_level_c244b5dff5f27014275ccf77d16695149144ea7b"
-    },
-    {
-      "key": "4b082",
-      "songName": " Eternal Horizons(DOOM CROSSING)",
-      "hash": "6a2c656dda5e5c5654d679950315c6accc65149b",
-      "levelid": "custom_level_6a2c656dda5e5c5654d679950315c6accc65149b"
-    },
-    {
-      "key": "4b080",
-      "songName": "Guinea Pig Olympics",
-      "hash": "c2ec9665c1166c8d955cca8f99a59ad2d870eebc",
-      "levelid": "custom_level_c2ec9665c1166c8d955cca8f99a59ad2d870eebc"
-    },
-    {
-      "key": "4af1e",
-      "songName": "Nine Jack - まんぼう二等兵",
-      "hash": "c4b3a0aae9c2b0f7d93a5b81935ec8210bd3ca47",
-      "levelid": "custom_level_c4b3a0aae9c2b0f7d93a5b81935ec8210bd3ca47"
-    },
-    {
-      "key": "4ad14",
-      "songName": "[Fitbeat BLACKPINK Pack] BLACKPINK - Hope Not",
-      "hash": "944d7d9f2f1f88d8ff4b2e2f58f473f4a63466eb",
-      "levelid": "custom_level_944d7d9f2f1f88d8ff4b2e2f58f473f4a63466eb"
-    },
-    {
-      "key": "4b07f",
-      "songName": "QZKago Requiem(Single Version) - SEGA Sound Team",
-      "hash": "a0459877ac772a1685249562745f7110783be5de",
-      "levelid": "custom_level_a0459877ac772a1685249562745f7110783be5de"
-    },
-    {
-      "key": "4b07c",
-      "songName": "Bad Apple!! (feat.nomico) (Camellia's \"Bad Psy\" Remix)",
-      "hash": "cabf00c668d214f54ce2c0813f856e7e247cf20c",
-      "levelid": "custom_level_cabf00c668d214f54ce2c0813f856e7e247cf20c"
+      "hash": "48dba30f2cffe1ace69fdb80e9579b7ad5bb2ff3",
+      "levelid": "custom_level_48dba30f2cffe1ace69fdb80e9579b7ad5bb2ff3"
     }
   ],
   "image": ""
