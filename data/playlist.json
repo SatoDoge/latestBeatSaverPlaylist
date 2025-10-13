@@ -1,316 +1,238 @@
 {
-  "playlistTitle": "2025-10-11T15:18:48.227Z~2025-10-12T15:18:48.227Z",
+  "playlistTitle": "2025-10-12T15:18:48.563Z~2025-10-13T15:18:48.563Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-10-11T15:18:48.227Z and 2025-10-12T15:18:48.227Z",
+  "discripstion": "Maps published between 2025-10-12T15:18:48.563Z and 2025-10-13T15:18:48.563Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4b2eb",
-      "songName": "[ADOvent Calendar] Ado - Kura Kura",
-      "hash": "9411a02cba8566aa762c4d31c3229c5bd164311a",
-      "levelid": "custom_level_9411a02cba8566aa762c4d31c3229c5bd164311a"
+      "key": "4b0f1",
+      "songName": "[ADOvent Calendar] Ado - All Night Radio",
+      "hash": "503f97dc30566eaa454a463132533d8463550a56",
+      "levelid": "custom_level_503f97dc30566eaa454a463132533d8463550a56"
     },
     {
-      "key": "4b316",
-      "songName": "crafter2011 - keep out!",
-      "hash": "1c9fa6fad9d21c26155dff5c4240986540c86e09",
-      "levelid": "custom_level_1c9fa6fad9d21c26155dff5c4240986540c86e09"
+      "key": "4b39c",
+      "songName": "LazyTown - Piratenlied",
+      "hash": "69d1d0ab818016edd36904f4058eb18311026168",
+      "levelid": "custom_level_69d1d0ab818016edd36904f4058eb18311026168"
     },
     {
-      "key": "4b315",
-      "songName": "Doukashiteru (どうかしてる)",
-      "hash": "b4af527d4f7e3b6021f220852153c585ae33d662",
-      "levelid": "custom_level_b4af527d4f7e3b6021f220852153c585ae33d662"
+      "key": "4b392",
+      "songName": "LazyTown - Gemüse",
+      "hash": "a4705bef70f3d2f2592f000dd081da419e2fdc00",
+      "levelid": "custom_level_a4705bef70f3d2f2592f000dd081da419e2fdc00"
     },
     {
-      "key": "4b314",
-      "songName": "Mili - THROUGH PATCHES OF VIOLET (Forsaken LMS Remix)",
-      "hash": "7aedd704f77f24fbdd988e3898230a2d330b43e6",
-      "levelid": "custom_level_7aedd704f77f24fbdd988e3898230a2d330b43e6"
+      "key": "4b387",
+      "songName": "███ In A █████ World",
+      "hash": "9197285a4e15164ce5b16ad359d7357124c3042d",
+      "levelid": "custom_level_9197285a4e15164ce5b16ad359d7357124c3042d"
     },
     {
-      "key": "4b313",
-      "songName": "(V3) Butterfly Twist - Yooh",
-      "hash": "ecb282a0b70413b3feed52632f8aced4cfb1433f",
-      "levelid": "custom_level_ecb282a0b70413b3feed52632f8aced4cfb1433f"
+      "key": "4b351",
+      "songName": "[Genres of Halloween (Vol. 2)] The Musical Ghost - Undertale Electro Swing Mix (5th Anniversary Special)",
+      "hash": "c35feba811bdb7a482fa126b0c26c10e785fc43b",
+      "levelid": "custom_level_c35feba811bdb7a482fa126b0c26c10e785fc43b"
     },
     {
-      "key": "4b312",
-      "songName": "rodents kingdom",
-      "hash": "6f51d9c996c9bfe232a0a3fb8273a2465e21b647",
-      "levelid": "custom_level_6f51d9c996c9bfe232a0a3fb8273a2465e21b647"
+      "key": "4b36f",
+      "songName": "Ghostbusters",
+      "hash": "ccdde59f26e7a6b6919d701c17916cc6d6942f52",
+      "levelid": "custom_level_ccdde59f26e7a6b6919d701c17916cc6d6942f52"
     },
     {
-      "key": "4b310",
-      "songName": "End Time(Mai Mai ver.)",
-      "hash": "b5014c0375352b9305952e7b24aa148440f00eb6",
-      "levelid": "custom_level_b5014c0375352b9305952e7b24aa148440f00eb6"
+      "key": "4b36e",
+      "songName": "American Girls",
+      "hash": "67571ae4f0ab85a9295e92c74df4fbe713f87e48",
+      "levelid": "custom_level_67571ae4f0ab85a9295e92c74df4fbe713f87e48"
     },
     {
-      "key": "4b30e",
-      "songName": "the Hole - r-906",
-      "hash": "76d3a7bc81c51337720c3db74e50a6e0546f5fdf",
-      "levelid": "custom_level_76d3a7bc81c51337720c3db74e50a6e0546f5fdf"
+      "key": "4b36d",
+      "songName": "fall at the same time",
+      "hash": "a2440683a91c0244ed2ca8e607c8e54899ca62e7",
+      "levelid": "custom_level_a2440683a91c0244ed2ca8e607c8e54899ca62e7"
     },
     {
-      "key": "4b30d",
-      "songName": "Tetanospasmin 17000 BPM",
-      "hash": "d02954533146fe0c728987617b59c5a5306edf8f",
-      "levelid": "custom_level_d02954533146fe0c728987617b59c5a5306edf8f"
+      "key": "4b365",
+      "songName": "Loosey [Burst Angel Opening] - The Stripes",
+      "hash": "d22cb66bf912a89ec786564a168d84e75ab75424",
+      "levelid": "custom_level_d22cb66bf912a89ec786564a168d84e75ab75424"
     },
     {
-      "key": "4b30c",
-      "songName": "Camellia as \"menaXe inXonnu\" - Xronial Xero",
-      "hash": "6fa2a770969093d9cbbb645fe4c915914f05790c",
-      "levelid": "custom_level_6fa2a770969093d9cbbb645fe4c915914f05790c"
+      "key": "4b362",
+      "songName": "dog silent - flew",
+      "hash": "c02890beb28a2cf9d103da80e917cfce2076b041",
+      "levelid": "custom_level_c02890beb28a2cf9d103da80e917cfce2076b041"
     },
     {
-      "key": "4b30a",
-      "songName": "D-D-Dice - Welcome, Queen of Fiction.",
-      "hash": "c9975d462f22f1c2dbd06d396d6299ec5b606528",
-      "levelid": "custom_level_c9975d462f22f1c2dbd06d396d6299ec5b606528"
+      "key": "4b361",
+      "songName": "YOASOBI - Idol (RUS Cover by Sati Akura)",
+      "hash": "9caf5c4b1b6cb64d1c8eb75248743aa22a3c0778",
+      "levelid": "custom_level_9caf5c4b1b6cb64d1c8eb75248743aa22a3c0778"
     },
     {
-      "key": "4b307",
-      "songName": "Intergalactic Bound",
-      "hash": "fed1b19f81371dfeda8305cc07d9a93f193dea2b",
-      "levelid": "custom_level_fed1b19f81371dfeda8305cc07d9a93f193dea2b"
+      "key": "4b360",
+      "songName": "Sugar Talking",
+      "hash": "ff90ee4c43ddb6f16a5bd867306ef3af1e57f1c0",
+      "levelid": "custom_level_ff90ee4c43ddb6f16a5bd867306ef3af1e57f1c0"
     },
     {
-      "key": "4b2e7",
-      "songName": "MiMi Cry - 幸祜",
-      "hash": "d63527a75f25b236de87e2076cb0007a75f793a0",
-      "levelid": "custom_level_d63527a75f25b236de87e2076cb0007a75f793a0"
+      "key": "4b35e",
+      "songName": "Ctrl V",
+      "hash": "bdbebecd3dc8f5e18bf0f1f7568d1453688a1a5a",
+      "levelid": "custom_level_bdbebecd3dc8f5e18bf0f1f7568d1453688a1a5a"
     },
     {
-      "key": "4b2e6",
-      "songName": "Lullaby - 幸祜",
-      "hash": "c6f84032ab4dd5b1e1db11182ca8a29fe450ee04",
-      "levelid": "custom_level_c6f84032ab4dd5b1e1db11182ca8a29fe450ee04"
+      "key": "4b35d",
+      "songName": "Fall Out Boy - Growing Up",
+      "hash": "f53a5d1365f192026f7019cc2f7deb0ea16a5477",
+      "levelid": "custom_level_f53a5d1365f192026f7019cc2f7deb0ea16a5477"
     },
     {
-      "key": "4b2e5",
-      "songName": "ANTINOMY  - 幸祜",
-      "hash": "ce0d5d08ac4a070328cf84feab919a25e2c90d46",
-      "levelid": "custom_level_ce0d5d08ac4a070328cf84feab919a25e2c90d46"
+      "key": "4b35a",
+      "songName": "Simulation (VIP) ",
+      "hash": "c16623a990ac02b7319882ca0f79ede52e0f325f",
+      "levelid": "custom_level_c16623a990ac02b7319882ca0f79ede52e0f325f"
     },
     {
-      "key": "4b2e4",
-      "songName": "Revy  - 幸祜",
-      "hash": "c0e2722955ebaff4070e5c3dd21ff8122be5a6e3",
-      "levelid": "custom_level_c0e2722955ebaff4070e5c3dd21ff8122be5a6e3"
+      "key": "4b355",
+      "songName": "Electronic or Treat!",
+      "hash": "1550df79537ecdffaa6bbe3ab13e093a530cb1b0",
+      "levelid": "custom_level_1550df79537ecdffaa6bbe3ab13e093a530cb1b0"
     },
     {
-      "key": "4b306",
-      "songName": "Fubuki Shirakami - SUPERNOVA",
-      "hash": "e28db2d1cdc10bf861961898c11ada302aef2077",
-      "levelid": "custom_level_e28db2d1cdc10bf861961898c11ada302aef2077"
+      "key": "4b354",
+      "songName": "Foot on the Gaxxxx",
+      "hash": "ad80a0a0565f93b1cfb9f0c18255722d91420712",
+      "levelid": "custom_level_ad80a0a0565f93b1cfb9f0c18255722d91420712"
     },
     {
-      "key": "4b301",
-      "songName": "Rainy, rainy days (Dankagu Edit) - SOUND HOLIC ",
-      "hash": "c38a1af5a2dc89286d1ac69e286c33e87bfb2133",
-      "levelid": "custom_level_c38a1af5a2dc89286d1ac69e286c33e87bfb2133"
+      "key": "4b353",
+      "songName": "Trolls: The Beat Goes On! | Opening Credits | Netflix Jr",
+      "hash": "bf8a7ed2ed74321641d16498fc4a7c83dfd31b2a",
+      "levelid": "custom_level_bf8a7ed2ed74321641d16498fc4a7c83dfd31b2a"
     },
     {
-      "key": "4b302",
-      "songName": "Camellia - Συζυγία (Syzygía)",
-      "hash": "dfcbd77295868bf9fbdf97146a71f77afd954bf5",
-      "levelid": "custom_level_dfcbd77295868bf9fbdf97146a71f77afd954bf5"
+      "key": "4b352",
+      "songName": "(Chroma+) Surface - acloudyskye [There Must Be Something Here]",
+      "hash": "c139b48d2b9fbeb8ce7ca8475b66e44ba128095c",
+      "levelid": "custom_level_c139b48d2b9fbeb8ce7ca8475b66e44ba128095c"
     },
     {
-      "key": "4b300",
-      "songName": "W●RK(coverd by HoshimachiSuisei x Kuzuha) -MILLENNIUM PARADE xSheenaRingo ",
-      "hash": "a036e6fe1b88c9b8eabf90ca2629528ff58a01b8",
-      "levelid": "custom_level_a036e6fe1b88c9b8eabf90ca2629528ff58a01b8"
+      "key": "4b34c",
+      "songName": "idk what this is but please play this father eastin",
+      "hash": "bb6cd04bb1f9efa760d4bb2152e85d11b2464149",
+      "levelid": "custom_level_bb6cd04bb1f9efa760d4bb2152e85d11b2464149"
     },
     {
-      "key": "4b2f9",
-      "songName": "Green",
-      "hash": "a7fc1af9a617995a89fbe5690d58de847d69105c",
-      "levelid": "custom_level_a7fc1af9a617995a89fbe5690d58de847d69105c"
+      "key": "4b34b",
+      "songName": "Fall out boy - West coast smoker",
+      "hash": "6d709598c0fa85c22ce0e5df6b0f8d2f9c4ead5a",
+      "levelid": "custom_level_6d709598c0fa85c22ce0e5df6b0f8d2f9c4ead5a"
     },
     {
-      "key": "4b2f6",
-      "songName": "john pork (v2)",
-      "hash": "c1713d5ed25ecd0e2f67c7cde8de200074dd4b67",
-      "levelid": "custom_level_c1713d5ed25ecd0e2f67c7cde8de200074dd4b67"
+      "key": "4b347",
+      "songName": "Day And Night- Billie Piper",
+      "hash": "a4f2dcb716fefe50945f609cbe81a859f85eadd1",
+      "levelid": "custom_level_a4f2dcb716fefe50945f609cbe81a859f85eadd1"
     },
     {
-      "key": "4b2f5",
-      "songName": "Onus Regulus",
-      "hash": "102bf7bd6c808dd2290ffcf76ef7fef2dbe280de",
-      "levelid": "custom_level_102bf7bd6c808dd2290ffcf76ef7fef2dbe280de"
+      "key": "4b346",
+      "songName": "Ferrari",
+      "hash": "48f38b1969624b992da8b83f8fa9025a83a9e846",
+      "levelid": "custom_level_48f38b1969624b992da8b83f8fa9025a83a9e846"
     },
     {
-      "key": "4b2f3",
-      "songName": "The Distance",
-      "hash": "e15e33bd0b6695c323e57ff85910346605ae8ad4",
-      "levelid": "custom_level_e15e33bd0b6695c323e57ff85910346605ae8ad4"
+      "key": "4b345",
+      "songName": "Traceco - One Last Goodbye",
+      "hash": "37068e4f3f649bd4772112cdae0e03ca7bfba0d0",
+      "levelid": "custom_level_37068e4f3f649bd4772112cdae0e03ca7bfba0d0"
     },
     {
-      "key": "4b2f0",
-      "songName": "勇気りんりん Easy",
-      "hash": "d309c1d843cdeff2456a8c7e09efa7ca494aa169",
-      "levelid": "custom_level_d309c1d843cdeff2456a8c7e09efa7ca494aa169"
+      "key": "4b344",
+      "songName": "Moves Like Jagger",
+      "hash": "1331b819c3d170bce59e21ebdba06dc96a0a8255",
+      "levelid": "custom_level_1331b819c3d170bce59e21ebdba06dc96a0a8255"
     },
     {
-      "key": "4b2ef",
-      "songName": "アンパンマンたいそう(Easy)",
-      "hash": "1423518a9fa946058a622f75b7a0058b362c1d20",
-      "levelid": "custom_level_1423518a9fa946058a622f75b7a0058b362c1d20"
+      "key": "4b341",
+      "songName": "Wood",
+      "hash": "8056cd1c875f4100ee6e173b6725e244bbbbab25",
+      "levelid": "custom_level_8056cd1c875f4100ee6e173b6725e244bbbbab25"
     },
     {
-      "key": "4b2ee",
-      "songName": "The Maze Of Mayonnaise (remapped)",
-      "hash": "fa226f645e096c1035d3ee3b4a41d19b140aa5f8",
-      "levelid": "custom_level_fa226f645e096c1035d3ee3b4a41d19b140aa5f8"
+      "key": "4b33e",
+      "songName": "n-buna-ウミユリ海底譚",
+      "hash": "05aff7219cff39ebb3f8fb140a9fac5fa7f48b06",
+      "levelid": "custom_level_05aff7219cff39ebb3f8fb140a9fac5fa7f48b06"
     },
     {
-      "key": "4b2ed",
-      "songName": "アンパンマンマーチ　Easy",
-      "hash": "1caf88f4d3336099a7027fd7fbb3f49bf3f9d32b",
-      "levelid": "custom_level_1caf88f4d3336099a7027fd7fbb3f49bf3f9d32b"
+      "key": "4b33d",
+      "songName": "NEENJA JOURNEY",
+      "hash": "9fb2ed099e138ed7a37773e85871e741abea5726",
+      "levelid": "custom_level_9fb2ed099e138ed7a37773e85871e741abea5726"
     },
     {
-      "key": "4b2ea",
-      "songName": "john pork",
-      "hash": "475d264c4b565ca4bb13c8e7c2b972a9634c411d",
-      "levelid": "custom_level_475d264c4b565ca4bb13c8e7c2b972a9634c411d"
+      "key": "4b337",
+      "songName": "__XYBERR//DRACOO__",
+      "hash": "6d796d90eda7cd875203f312295e9c64b454d590",
+      "levelid": "custom_level_6d796d90eda7cd875203f312295e9c64b454d590"
     },
     {
-      "key": "4b2e1",
-      "songName": "Laura Les - Haunted",
-      "hash": "d47081e4a1ebcb63d2d5425f0b0e482c1bfc8bf0",
-      "levelid": "custom_level_d47081e4a1ebcb63d2d5425f0b0e482c1bfc8bf0"
+      "key": "4ae9b",
+      "songName": "[PokéSaber 2] Garyou Tensei - xi",
+      "hash": "e511945c7710c0eabbb7d7965bd357be57c0a794",
+      "levelid": "custom_level_e511945c7710c0eabbb7d7965bd357be57c0a794"
     },
     {
-      "key": "4b2dd",
-      "songName": "[Poodles] Roaring 20s - Panic! At The Disco",
-      "hash": "e88fb75f680faafad39f0c3089f936de6566c078",
-      "levelid": "custom_level_e88fb75f680faafad39f0c3089f936de6566c078"
+      "key": "4b33a",
+      "songName": "Du Hast - Rammstein",
+      "hash": "a0215de8ee49ccb0c3b0ef06bd0a8341343bbf27",
+      "levelid": "custom_level_a0215de8ee49ccb0c3b0ef06bd0a8341343bbf27"
     },
     {
-      "key": "4b2dc",
-      "songName": "[Feetsaber]LiftOff",
-      "hash": "b796a1617f9b21e65124c96f0890a58b764276a0",
-      "levelid": "custom_level_b796a1617f9b21e65124c96f0890a58b764276a0"
+      "key": "4b339",
+      "songName": "Telenox Stream Funny Map",
+      "hash": "f7bc4fbba5867d7e7d49eed96896e2097b9f5089",
+      "levelid": "custom_level_f7bc4fbba5867d7e7d49eed96896e2097b9f5089"
     },
     {
-      "key": "4b2da",
-      "songName": "PASTEL GHOST - SHADOWS (Mr.Kitty Remix)",
-      "hash": "d50959632bcd262192dfba89a8aab42a29f45372",
-      "levelid": "custom_level_d50959632bcd262192dfba89a8aab42a29f45372"
+      "key": "4b338",
+      "songName": "My Man on Willpower",
+      "hash": "4400badfd41ca5773334f4b2a78f0b7acbe18fd8",
+      "levelid": "custom_level_4400badfd41ca5773334f4b2a78f0b7acbe18fd8"
     },
     {
-      "key": "4b2db",
-      "songName": "notion",
-      "hash": "b87044f14e56bc2deff29e658991413537d94e27",
-      "levelid": "custom_level_b87044f14e56bc2deff29e658991413537d94e27"
+      "key": "4b322",
+      "songName": "Tilly Louise - Join the Club",
+      "hash": "8d3459018e25542c877fea8dff0fc4d19fc73300",
+      "levelid": "custom_level_8d3459018e25542c877fea8dff0fc4d19fc73300"
     },
     {
-      "key": "4b2d9",
-      "songName": "{Alternative Psycho Pack} Layto - someone i'm not",
-      "hash": "0eb3015e751164234b44dae592d5fa7215522e26",
-      "levelid": "custom_level_0eb3015e751164234b44dae592d5fa7215522e26"
+      "key": "4b321",
+      "songName": "Tiësto & Swimming Paul - VHS RAVE",
+      "hash": "7e59807e19ef6830bd59dd10f301e6a69d4281ab",
+      "levelid": "custom_level_7e59807e19ef6830bd59dd10f301e6a69d4281ab"
     },
     {
-      "key": "4b2d8",
-      "songName": "Release The Kraken",
-      "hash": "57f29f70f4917d762259294c57d5c7d20b1b3c85",
-      "levelid": "custom_level_57f29f70f4917d762259294c57d5c7d20b1b3c85"
+      "key": "4b31f",
+      "songName": "バイバイレイニー - 星街すいせい",
+      "hash": "44f7788c2529610790a01d33cbc67572d9494653",
+      "levelid": "custom_level_44f7788c2529610790a01d33cbc67572d9494653"
     },
     {
-      "key": "4b2ca",
-      "songName": "Guilt Trip",
-      "hash": "7e579a62def8c40faf502417122fd39ff94c849b",
-      "levelid": "custom_level_7e579a62def8c40faf502417122fd39ff94c849b"
+      "key": "4b2fe",
+      "songName": "PPPP - TAK [Chroma, Cinema]",
+      "hash": "66d87edb02696ab359d7a1bbd4d113f40a1dd15b",
+      "levelid": "custom_level_66d87edb02696ab359d7a1bbd4d113f40a1dd15b"
     },
     {
-      "key": "4b2bd",
-      "songName": "Waiting For Love",
-      "hash": "93b7d5cc66d2c7fab3ebe089aa0e9931d9ab62e3",
-      "levelid": "custom_level_93b7d5cc66d2c7fab3ebe089aa0e9931d9ab62e3"
-    },
-    {
-      "key": "4b2bc",
-      "songName": "Top 4 Movements (im sorry)",
-      "hash": "6da71f8ad6252ef7e290b2fe00b5332da65ab28f",
-      "levelid": "custom_level_6da71f8ad6252ef7e290b2fe00b5332da65ab28f"
-    },
-    {
-      "key": "4b2b5",
-      "songName": "Jsme herci na internetu",
-      "hash": "3cd3d3129be0ba1e640ee297d940db08954d641e",
-      "levelid": "custom_level_3cd3d3129be0ba1e640ee297d940db08954d641e"
-    },
-    {
-      "key": "4b2b3",
-      "songName": " eltinonno - ¿Quién te preguntó?",
-      "hash": "71a18442a943725709300d1bc7ab91923d5247b5",
-      "levelid": "custom_level_71a18442a943725709300d1bc7ab91923d5247b5"
-    },
-    {
-      "key": "4b2af",
-      "songName": "MONTAGEM XONADA",
-      "hash": "6daa7cd755586b3a937e77c773d66b7fc942ace4",
-      "levelid": "custom_level_6daa7cd755586b3a937e77c773d66b7fc942ace4"
-    },
-    {
-      "key": "455c5",
-      "songName": "Spagna - Every Girl And Boy (1988)",
-      "hash": "e405e648d41ab589103dcddacf189da00cabd022",
-      "levelid": "custom_level_e405e648d41ab589103dcddacf189da00cabd022"
-    },
-    {
-      "key": "4b2ab",
-      "songName": "Aura Farming Simulator",
-      "hash": "dc9689be329381c1f015fd0da026a1281b534be6",
-      "levelid": "custom_level_dc9689be329381c1f015fd0da026a1281b534be6"
-    },
-    {
-      "key": "4b2a7",
-      "songName": "one note ",
-      "hash": "3b0e2d1757121838a22328ca2032f8d04d4e370b",
-      "levelid": "custom_level_3b0e2d1757121838a22328ca2032f8d04d4e370b"
-    },
-    {
-      "key": "4b2a4",
-      "songName": "Boris with Merzbow - Just Abandoned My-self \"Live\" Nerf",
-      "hash": "fc3717ba63156736a1206fbcd6b9d8c9bea716e9",
-      "levelid": "custom_level_fc3717ba63156736a1206fbcd6b9d8c9bea716e9"
-    },
-    {
-      "key": "4b28d",
-      "songName": "[Genres of Halloween (Vol. 2)] FREE.99 - EVAPORATE",
-      "hash": "643a5dcc601e41d587cdd14a493d6f07015d9086",
-      "levelid": "custom_level_643a5dcc601e41d587cdd14a493d6f07015d9086"
-    },
-    {
-      "key": "4b1cf",
-      "songName": "Look-A-Like [From Sonic the Hedgehog OVA] ",
-      "hash": "7d7fbf2bc2cbda036f4857554622df2245c4c42a",
-      "levelid": "custom_level_7d7fbf2bc2cbda036f4857554622df2245c4c42a"
-    },
-    {
-      "key": "4b24c",
-      "songName": "ARRAN - PUZZLE",
-      "hash": "fc25e4723499f8095dcde14e3675b0ae19df1371",
-      "levelid": "custom_level_fc25e4723499f8095dcde14e3675b0ae19df1371"
-    },
-    {
-      "key": "4b2a2",
-      "songName": "Ultimate Stream Challenge",
-      "hash": "b5a946cb1861528ef4a199d2d3ac2143d358bb22",
-      "levelid": "custom_level_b5a946cb1861528ef4a199d2d3ac2143d358bb22"
-    },
-    {
-      "key": "4b2a1",
-      "songName": "Energy",
-      "hash": "a27f6bb73bcb5f5a6ce0b6e96624b299f592c41e",
-      "levelid": "custom_level_a27f6bb73bcb5f5a6ce0b6e96624b299f592c41e"
+      "key": "4b176",
+      "songName": "i-dle - All Night",
+      "hash": "352e7fe551447794c9588ae35e09fdb1911777a8",
+      "levelid": "custom_level_352e7fe551447794c9588ae35e09fdb1911777a8"
     }
   ],
   "image": ""
