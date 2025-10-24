@@ -1,208 +1,316 @@
 {
-  "playlistTitle": "2025-10-22T15:18:49.617Z~2025-10-23T15:18:49.617Z",
+  "playlistTitle": "2025-10-23T15:20:40.408Z~2025-10-24T15:20:40.408Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-10-22T15:18:49.617Z and 2025-10-23T15:18:49.617Z",
+  "discripstion": "Maps published between 2025-10-23T15:20:40.408Z and 2025-10-24T15:20:40.408Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4a8ff",
-      "songName": "[ADOvent Calendar] Ado - Shoka / 初夏 (Kry.exe Remix)",
-      "hash": "9eed367ba90dfb98af9cca8a0dd5eb775a751bb8",
-      "levelid": "custom_level_9eed367ba90dfb98af9cca8a0dd5eb775a751bb8"
+      "key": "4b823",
+      "songName": "surii - Ego Rock (Ado Cover)",
+      "hash": "d98e98fd70ef84650604dff4d88e65dddade2929",
+      "levelid": "custom_level_d98e98fd70ef84650604dff4d88e65dddade2929"
     },
     {
-      "key": "4b7ec",
-      "songName": "Life Force",
-      "hash": "7974ce0e1dc8ffcba878fa993a6d0f1f56e5a219",
-      "levelid": "custom_level_7974ce0e1dc8ffcba878fa993a6d0f1f56e5a219"
+      "key": "4a8fe",
+      "songName": "[ADOvent Calendar] Ado - Odo (e_ku bootleg)",
+      "hash": "0f482781736ab0a012dfc0f5b7461fa7e1ce6581",
+      "levelid": "custom_level_0f482781736ab0a012dfc0f5b7461fa7e1ce6581"
     },
     {
-      "key": "4b7ea",
-      "songName": "Revery",
-      "hash": "222bc205df2ebf1963a68e2b7f019fb92d752efc",
-      "levelid": "custom_level_222bc205df2ebf1963a68e2b7f019fb92d752efc"
+      "key": "4b862",
+      "songName": "Radio Tapok - Vysota 776",
+      "hash": "09b027ed6e796dae667e0a5f239317b6d1cd8e85",
+      "levelid": "custom_level_09b027ed6e796dae667e0a5f239317b6d1cd8e85"
     },
     {
-      "key": "4b7e8",
-      "songName": "Funk大混杂（Funk Mashup）",
-      "hash": "25cef780ea652e08e009c5d648a357a885ceb07c",
-      "levelid": "custom_level_25cef780ea652e08e009c5d648a357a885ceb07c"
+      "key": "4b85f",
+      "songName": "NASTYWERKKKK",
+      "hash": "3b195d9a80e06546f73289bfd11211d07b4e936c",
+      "levelid": "custom_level_3b195d9a80e06546f73289bfd11211d07b4e936c"
     },
     {
-      "key": "4af05",
-      "songName": "The Lion Sleeps Tonight (Wimoweh)",
-      "hash": "984ecf3843d86d17a6b05da8988090db25933445",
-      "levelid": "custom_level_984ecf3843d86d17a6b05da8988090db25933445"
+      "key": "4b85d",
+      "songName": "[Vivify]A Faint Signal",
+      "hash": "7330b896a9954614aed99b1ef04e37705fc064eb",
+      "levelid": "custom_level_7330b896a9954614aed99b1ef04e37705fc064eb"
     },
     {
-      "key": "4b7df",
-      "songName": "hololive IDOL PROJECT - Halloween Night, Tonight! (Shirakami Fubuki Cover)",
-      "hash": "c1c8c230e8e8f6bddcc303c7d4f19f14afa12c7d",
-      "levelid": "custom_level_c1c8c230e8e8f6bddcc303c7d4f19f14afa12c7d"
+      "key": "4b85c",
+      "songName": "I LOVE FIDGET SPINNERS",
+      "hash": "042a5322a7ef65ea526b939aabf5ff1b4c5c036a",
+      "levelid": "custom_level_042a5322a7ef65ea526b939aabf5ff1b4c5c036a"
     },
     {
-      "key": "4b7dd",
-      "songName": "Orbits - PIKASONIC & 4*",
-      "hash": "fac9143fb5473938bec2e1097adec219bde1d784",
-      "levelid": "custom_level_fac9143fb5473938bec2e1097adec219bde1d784"
+      "key": "4b85a",
+      "songName": "TWICE - The Story Begins",
+      "hash": "9d788fcccc1496e2886e87f1ef98991b8faa71b6",
+      "levelid": "custom_level_9d788fcccc1496e2886e87f1ef98991b8faa71b6"
     },
     {
-      "key": "4b79a",
+      "key": "4b859",
+      "songName": "eill - 77(feat. LUSS)",
+      "hash": "2c81afb7fdc4e097daff88dd375d69830312014b",
+      "levelid": "custom_level_2c81afb7fdc4e097daff88dd375d69830312014b"
+    },
+    {
+      "key": "4b858",
+      "songName": "Laufey - Tough Luck ",
+      "hash": "65e9a1d58c55799bc267d4ed2b31c71ef508591a",
+      "levelid": "custom_level_65e9a1d58c55799bc267d4ed2b31c71ef508591a"
+    },
+    {
+      "key": "4b853",
+      "songName": "МЯСО - Chernoburkv, CREEPYMANE",
+      "hash": "db9145beaf8354aee3852a5b8ba318037d9c62db",
+      "levelid": "custom_level_db9145beaf8354aee3852a5b8ba318037d9c62db"
+    },
+    {
+      "key": "4b852",
+      "songName": "Silly Steve",
+      "hash": "d211cadcaf75d8ee42b736e4794b8e81e0e9b3a7",
+      "levelid": "custom_level_d211cadcaf75d8ee42b736e4794b8e81e0e9b3a7"
+    },
+    {
+      "key": "4b850",
+      "songName": "The Last Of Us Part 2 Ellies Full Story Part 2 ",
+      "hash": "a09af6ae1dc6cd1ffa4d174795ccac1cd9d9e454",
+      "levelid": "custom_level_a09af6ae1dc6cd1ffa4d174795ccac1cd9d9e454"
+    },
+    {
+      "key": "4b84e",
+      "songName": "Love Song",
+      "hash": "9f2bd66253538c6517f4a1cfeec7db3484efafea",
+      "levelid": "custom_level_9f2bd66253538c6517f4a1cfeec7db3484efafea"
+    },
+    {
+      "key": "4b849",
+      "songName": "RULE ONE",
+      "hash": "cd7548b2f380a09c9056a36a546622c41e8cb587",
+      "levelid": "custom_level_cd7548b2f380a09c9056a36a546622c41e8cb587"
+    },
+    {
+      "key": "4b848",
+      "songName": "Pimpin ( CAFE DISCO ) Tian and Styliztic ",
+      "hash": "e85666fdf31ffd309f29e885be61f5e36014433a",
+      "levelid": "custom_level_e85666fdf31ffd309f29e885be61f5e36014433a"
+    },
+    {
+      "key": "4b845",
+      "songName": "Stay ~ Post Malone",
+      "hash": "f0c0fbbce52ed08de36a67a9177031a43f9a991e",
+      "levelid": "custom_level_f0c0fbbce52ed08de36a67a9177031a43f9a991e"
+    },
+    {
+      "key": "4b844",
+      "songName": "Ding Dong, Eat It Up",
+      "hash": "e1f37ed9d09cf6b9caa711e5ef70e13b102fa7ab",
+      "levelid": "custom_level_e1f37ed9d09cf6b9caa711e5ef70e13b102fa7ab"
+    },
+    {
+      "key": "4b843",
+      "songName": "Camellia - [UDSW 2025] Operation: Zenithfall",
+      "hash": "40d23da3c39ca5d318ca6ed66204c588938dff37",
+      "levelid": "custom_level_40d23da3c39ca5d318ca6ed66204c588938dff37"
+    },
+    {
+      "key": "4b842",
+      "songName": "Not Allowed",
+      "hash": "ef91e83c1c4947f431eb82445ea7953a61579a11",
+      "levelid": "custom_level_ef91e83c1c4947f431eb82445ea7953a61579a11"
+    },
+    {
+      "key": "4b840",
+      "songName": "Funk大混杂【Funk Mashup（包括Montagem等歌曲共9首歌）】",
+      "hash": "5f6e61826ca3370a13b61ca658252acc70f92f99",
+      "levelid": "custom_level_5f6e61826ca3370a13b61ca658252acc70f92f99"
+    },
+    {
+      "key": "4b83f",
+      "songName": "Breaking 1 Block for EVERY View... pls dont go viral 😭 #minecraft #shorts #gaming",
+      "hash": "44eb7e63a572b3d0c5d546ffd15a7176de60d5cc",
+      "levelid": "custom_level_44eb7e63a572b3d0c5d546ffd15a7176de60d5cc"
+    },
+    {
+      "key": "4b83d",
+      "songName": "Jerma & Kevin MacLeod - Rats Birthday Mixtape",
+      "hash": "6c066fa2a43bc701dd2d275285ea22f724a6b103",
+      "levelid": "custom_level_6c066fa2a43bc701dd2d275285ea22f724a6b103"
+    },
+    {
+      "key": "4b838",
+      "songName": "Orion Drift THE MAINFRAME UPDATE Official Trailer",
+      "hash": "6c903f6eae50cb6945a910ad52a94cd60d28ce63",
+      "levelid": "custom_level_6c903f6eae50cb6945a910ad52a94cd60d28ce63"
+    },
+    {
+      "key": "4b837",
+      "songName": "How does the Netherlands sound?",
+      "hash": "0c7cae53a5132c5bc15be36268afbc15240fa536",
+      "levelid": "custom_level_0c7cae53a5132c5bc15be36268afbc15240fa536"
+    },
+    {
+      "key": "4b836",
+      "songName": "Viking Arena",
+      "hash": "68474fed6aae069b62b8696fcb1bb984cc4fec47",
+      "levelid": "custom_level_68474fed6aae069b62b8696fcb1bb984cc4fec47"
+    },
+    {
+      "key": "4b835",
+      "songName": "Cyberfantasia",
+      "hash": "59c5e3dfcf258507b552f0550ca4245d3f1c191c",
+      "levelid": "custom_level_59c5e3dfcf258507b552f0550ca4245d3f1c191c"
+    },
+    {
+      "key": "4b834",
+      "songName": "hope -rouri404 {NE Challenge 400BPM Modchart}",
+      "hash": "83ef8ca628343dbbac8c1b4e07ba02fce27632bf",
+      "levelid": "custom_level_83ef8ca628343dbbac8c1b4e07ba02fce27632bf"
+    },
+    {
+      "key": "4b833",
+      "songName": "Back & Fourth",
+      "hash": "93c91e7661cd8e1c89a5195fa331146a2c6a2185",
+      "levelid": "custom_level_93c91e7661cd8e1c89a5195fa331146a2c6a2185"
+    },
+    {
+      "key": "4b831",
+      "songName": "Dame un grrr",
+      "hash": "8b452325229a1b36bfbb5590034044c839520d8b",
+      "levelid": "custom_level_8b452325229a1b36bfbb5590034044c839520d8b"
+    },
+    {
+      "key": "4b830",
+      "songName": "Kairiki Bear - Yamiaka Steroid (feat. Hatsune Miku)",
+      "hash": "22ef1663898da5dfede58652757b764f7e3d3c48",
+      "levelid": "custom_level_22ef1663898da5dfede58652757b764f7e3d3c48"
+    },
+    {
+      "key": "4b82e",
+      "songName": "\"Trying to feel alive\" - Porter Robinson",
+      "hash": "f16899e7436be5e54978e69dc741baf2580ea8bd",
+      "levelid": "custom_level_f16899e7436be5e54978e69dc741baf2580ea8bd"
+    },
+    {
+      "key": "4b82d",
+      "songName": "\"Justified & Ancient\" - The KLF",
+      "hash": "0fe43a67610642aeec1ca153df5c85c5f572382a",
+      "levelid": "custom_level_0fe43a67610642aeec1ca153df5c85c5f572382a"
+    },
+    {
+      "key": "4b82c",
+      "songName": "\"Mona Lisa\" - Porter Robinson (FT. Frost Children)",
+      "hash": "e9b3847913cbd12577768a250536677ac0af5c4e",
+      "levelid": "custom_level_e9b3847913cbd12577768a250536677ac0af5c4e"
+    },
+    {
+      "key": "4b82a",
+      "songName": "orchids but like barely sped up",
+      "hash": "be0f2b22b73e37e26db15448e8329dc448d7c058",
+      "levelid": "custom_level_be0f2b22b73e37e26db15448e8329dc448d7c058"
+    },
+    {
+      "key": "4b828",
+      "songName": "Grains Of Sand",
+      "hash": "84f5f1514734a8a5501d57b22765b2f8ccd964b0",
+      "levelid": "custom_level_84f5f1514734a8a5501d57b22765b2f8ccd964b0"
+    },
+    {
+      "key": "4b824",
+      "songName": "Boomx4 Reggie’s Room",
+      "hash": "0928813610a644c85a84e8d8a90b3005e043756b",
+      "levelid": "custom_level_0928813610a644c85a84e8d8a90b3005e043756b"
+    },
+    {
+      "key": "4b821",
+      "songName": "Last Of Saints - The Future",
+      "hash": "72f23778b9ce922c4ac583ed2a1d0cfa6f358b19",
+      "levelid": "custom_level_72f23778b9ce922c4ac583ed2a1d0cfa6f358b19"
+    },
+    {
+      "key": "4b820",
+      "songName": "haunt - do it all again !!",
+      "hash": "f6b6d1f37508fd7d0c2adce8034583419decdbff",
+      "levelid": "custom_level_f6b6d1f37508fd7d0c2adce8034583419decdbff"
+    },
+    {
+      "key": "4b80f",
+      "songName": "DeathbyRomy - City Of Angels",
+      "hash": "e6a2bcf76cccaee02b684a9f2805be470c9a0332",
+      "levelid": "custom_level_e6a2bcf76cccaee02b684a9f2805be470c9a0332"
+    },
+    {
+      "key": "4b80d",
+      "songName": "THE 67 SONG",
+      "hash": "0469ce18ff32b9a95920e380fc88b86f44300ae4",
+      "levelid": "custom_level_0469ce18ff32b9a95920e380fc88b86f44300ae4"
+    },
+    {
+      "key": "4b80c",
+      "songName": "[CINEMA] TAK - PPPP (feat. Hatsune Miku, Kasane Teto)",
+      "hash": "f3872bb4f966ac2cc648ed7182c662dc0ea9b22d",
+      "levelid": "custom_level_f3872bb4f966ac2cc648ed7182c662dc0ea9b22d"
+    },
+    {
+      "key": "4b80b",
+      "songName": "TAK - glory MAX -to the MAXimum- (DJMAX)",
+      "hash": "b8ff5dd90a2e1a1b87eaa70aa236981f94f2c54b",
+      "levelid": "custom_level_b8ff5dd90a2e1a1b87eaa70aa236981f94f2c54b"
+    },
+    {
+      "key": "4b809",
+      "songName": "Makeout City - 21",
+      "hash": "2fc2b19bee5dcc37fd5f8994f0c4ee0bee63001c",
+      "levelid": "custom_level_2fc2b19bee5dcc37fd5f8994f0c4ee0bee63001c"
+    },
+    {
+      "key": "4b80a",
+      "songName": "DeathbyRomy - XXXHIBITIONIST",
+      "hash": "630e5a705cd9296fcacdb3a2fee44b48acab2ebf",
+      "levelid": "custom_level_630e5a705cd9296fcacdb3a2fee44b48acab2ebf"
+    },
+    {
+      "key": "4b808",
+      "songName": "Network Machine - Super Bear Adventure",
+      "hash": "3c270a876c38d668f321f04f630f716f88a7d98c",
+      "levelid": "custom_level_3c270a876c38d668f321f04f630f716f88a7d98c"
+    },
+    {
+      "key": "4b801",
+      "songName": "Radiohead - Nude",
+      "hash": "6a4981907f7796330a292770a0dc98f98733cbbf",
+      "levelid": "custom_level_6a4981907f7796330a292770a0dc98f98733cbbf"
+    },
+    {
+      "key": "4adb4",
+      "songName": "fool - melt down into ...U",
+      "hash": "53b15db833797e219bf74e375f57bbe050ca977e",
+      "levelid": "custom_level_53b15db833797e219bf74e375f57bbe050ca977e"
+    },
+    {
+      "key": "4b7fc",
+      "songName": "Everybody Talks",
+      "hash": "03e73a6eef4380425705a68cfbfe212af0f1ce1c",
+      "levelid": "custom_level_03e73a6eef4380425705a68cfbfe212af0f1ce1c"
+    },
+    {
+      "key": "4b7fb",
+      "songName": "Sunaniuo Kiwa",
+      "hash": "3cc08d21dce62bc6618ab40d4e8dbef8c026ddcf",
+      "levelid": "custom_level_3cc08d21dce62bc6618ab40d4e8dbef8c026ddcf"
+    },
+    {
+      "key": "4b7e1",
+      "songName": "Hearts2Hearts - Apple Pie",
+      "hash": "3d2a1d7691b0da897224eb8bc075c9abbf76b05f",
+      "levelid": "custom_level_3d2a1d7691b0da897224eb8bc075c9abbf76b05f"
+    },
+    {
+      "key": "4b7ef",
       "songName": "[1YMA] S3RL & Atef - One More (ft. hannahfortune & lowstatic)",
-      "hash": "51f07395ce8bdd53b4d12a817944cb08ae841147",
-      "levelid": "custom_level_51f07395ce8bdd53b4d12a817944cb08ae841147"
-    },
-    {
-      "key": "4b6c8",
-      "songName": "[1YMA] Lilyisthatyou - NO FAVORS",
-      "hash": "2ea1060a1b148e05ac0ce8f3286276a7ce5c7aa8",
-      "levelid": "custom_level_2ea1060a1b148e05ac0ce8f3286276a7ce5c7aa8"
-    },
-    {
-      "key": "4b4cb",
-      "songName": "[1YMA] Lin Manuel Miranda - Running Out Of Time (From Vivo)",
-      "hash": "1b78b2472ad83783e508ac991fa5e8a45fe95263",
-      "levelid": "custom_level_1b78b2472ad83783e508ac991fa5e8a45fe95263"
-    },
-    {
-      "key": "4b7da",
-      "songName": "Perseverance",
-      "hash": "2477aaa34d9bfda1547d7c24a0046eab13401daa",
-      "levelid": "custom_level_2477aaa34d9bfda1547d7c24a0046eab13401daa"
-    },
-    {
-      "key": "4b7d9",
-      "songName": "When I'm Gone",
-      "hash": "2a0624dab240e6ed876da8724dd68a422877d5e9",
-      "levelid": "custom_level_2a0624dab240e6ed876da8724dd68a422877d5e9"
-    },
-    {
-      "key": "4b7d6",
-      "songName": " Bubble Gum - Kep1er",
-      "hash": "a72c2769e7fb8a11c7bbd0c4b3a42d19a6c879f0",
-      "levelid": "custom_level_a72c2769e7fb8a11c7bbd0c4b3a42d19a6c879f0"
-    },
-    {
-      "key": "4b7d5",
-      "songName": "Lover Girl - Laufey",
-      "hash": "91d7f7f9cd5c2946179eedb7662e0553b7608981",
-      "levelid": "custom_level_91d7f7f9cd5c2946179eedb7662e0553b7608981"
-    },
-    {
-      "key": "4b7d3",
-      "songName": "Every Rookie At event's Orion drift VR",
-      "hash": "33e94b6c9391057631c1a2ba9cc6a3e08a59a2e8",
-      "levelid": "custom_level_33e94b6c9391057631c1a2ba9cc6a3e08a59a2e8"
-    },
-    {
-      "key": "4b7d1",
-      "songName": "PPPP - (feat Hatsune Miku, Kasane Teto)",
-      "hash": "22a8f7a103d46368e778b176d66dc389911b78b1",
-      "levelid": "custom_level_22a8f7a103d46368e778b176d66dc389911b78b1"
-    },
-    {
-      "key": "4b7d0",
-      "songName": "没出息",
-      "hash": "63ae741f5b90ea09316af6e17395f3f8a1034050",
-      "levelid": "custom_level_63ae741f5b90ea09316af6e17395f3f8a1034050"
-    },
-    {
-      "key": "4b7ca",
-      "songName": "LEMON MELON COOKIE covered by ヰ世界情緒 - TAK",
-      "hash": "04f51248427c1fb905aba7413f12cb3d743f3afb",
-      "levelid": "custom_level_04f51248427c1fb905aba7413f12cb3d743f3afb"
-    },
-    {
-      "key": "4b7cf",
-      "songName": "About 10 Hours Being Tifu",
-      "hash": "185247b05307bee351eaaaaec575534a4ed4fd9e",
-      "levelid": "custom_level_185247b05307bee351eaaaaec575534a4ed4fd9e"
-    },
-    {
-      "key": "4b350",
-      "songName": "Your Idol",
-      "hash": "b7f9ae517b1860335c679aba45647a1de7adbb22",
-      "levelid": "custom_level_b7f9ae517b1860335c679aba45647a1de7adbb22"
-    },
-    {
-      "key": "4b7cb",
-      "songName": "Horse on Keta",
-      "hash": "67a4b3d4c63da895e634c7b101d9a9bb179de3e7",
-      "levelid": "custom_level_67a4b3d4c63da895e634c7b101d9a9bb179de3e7"
-    },
-    {
-      "key": "4b7c9",
-      "songName": "glaive - Nouveau Riche",
-      "hash": "db412c64d449528d99c48e4582ba3ce01706e8dd",
-      "levelid": "custom_level_db412c64d449528d99c48e4582ba3ce01706e8dd"
-    },
-    {
-      "key": "4b7c8",
-      "songName": "Flamingo Drive",
-      "hash": "f9b7e7ef5b777f1daa53258d2582e907fa3574b0",
-      "levelid": "custom_level_f9b7e7ef5b777f1daa53258d2582e907fa3574b0"
-    },
-    {
-      "key": "4b7c4",
-      "songName": "Sakazuki",
-      "hash": "06cc92c7d534dff389f44220bf8bdb8573ef6a17",
-      "levelid": "custom_level_06cc92c7d534dff389f44220bf8bdb8573ef6a17"
-    },
-    {
-      "key": "4b7c3",
-      "songName": "666",
-      "hash": "c7e03e8dc902b69e5518d012b650a83dfcc06619",
-      "levelid": "custom_level_c7e03e8dc902b69e5518d012b650a83dfcc06619"
-    },
-    {
-      "key": "4b7b4",
-      "songName": "How blurrryOD fell about 67OrionDriftVR",
-      "hash": "c2fce42d0e8cae1d098784a099e47b44f8429e49",
-      "levelid": "custom_level_c2fce42d0e8cae1d098784a099e47b44f8429e49"
-    },
-    {
-      "key": "4b7b3",
-      "songName": "The Marías - Hush",
-      "hash": "24543c8d55e582f117e780e275ff384c1ca2d60c",
-      "levelid": "custom_level_24543c8d55e582f117e780e275ff384c1ca2d60c"
-    },
-    {
-      "key": "4b78b",
-      "songName": "[MV] TAK - PPPP feat. 初音ミク重音テト",
-      "hash": "593de3f08a89c873b5c045009cf3c566de3adc96",
-      "levelid": "custom_level_593de3f08a89c873b5c045009cf3c566de3adc96"
-    },
-    {
-      "key": "4b7a9",
-      "songName": "Twenty One Pilots - Center Mass (V3)",
-      "hash": "a41f90c02063ab9028a8c4c5a9fcc6ac85d561ef",
-      "levelid": "custom_level_a41f90c02063ab9028a8c4c5a9fcc6ac85d561ef"
-    },
-    {
-      "key": "4b7a7",
-      "songName": "amala - Lie (feat. Kasane Teto)",
-      "hash": "b0e99b23d0fe1bbb4c3bad85b5090f9f5545cd8f",
-      "levelid": "custom_level_b0e99b23d0fe1bbb4c3bad85b5090f9f5545cd8f"
-    },
-    {
-      "key": "4b7a6",
-      "songName": "IShowSpeed-Headshot-223",
-      "hash": "a910805b02d6e31d5d59e0407e3003f8e9398356",
-      "levelid": "custom_level_a910805b02d6e31d5d59e0407e3003f8e9398356"
-    },
-    {
-      "key": "4af00",
-      "songName": "LIGHTSUM - Not My Style",
-      "hash": "24ddc8e65bc2db29bb5d79c343b885053ee34914",
-      "levelid": "custom_level_24ddc8e65bc2db29bb5d79c343b885053ee34914"
-    },
-    {
-      "key": "4b799",
-      "songName": "Jisoo X Zayn - Eyes Closed ",
-      "hash": "3f8952d84022822fafc88127338be394b2e8fb16",
-      "levelid": "custom_level_3f8952d84022822fafc88127338be394b2e8fb16"
+      "hash": "760dc1458edaca056d9a93daf596cf8e0332e805",
+      "levelid": "custom_level_760dc1458edaca056d9a93daf596cf8e0332e805"
     }
   ],
   "image": ""
