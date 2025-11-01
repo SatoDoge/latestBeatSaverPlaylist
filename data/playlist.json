@@ -1,376 +1,610 @@
 {
-  "playlistTitle": "2025-10-30T15:18:48.647Z~2025-10-31T15:18:48.647Z",
+  "playlistTitle": "2025-10-31T15:18:48.404Z~2025-11-01T15:18:48.404Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-10-30T15:18:48.647Z and 2025-10-31T15:18:48.647Z",
+  "discripstion": "Maps published between 2025-10-31T15:18:48.404Z and 2025-11-01T15:18:48.404Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4bb1f",
-      "songName": "Blinding Lights_Arcs",
-      "hash": "ae6dbc9baf0b2d6ac66d23568a75ffafbd4ff511",
-      "levelid": "custom_level_ae6dbc9baf0b2d6ac66d23568a75ffafbd4ff511"
+      "key": "4bbea",
+      "songName": "Markul - Осадки",
+      "hash": "ed327d3874b91a8d1bcd451ee656b0fded59cfec",
+      "levelid": "custom_level_ed327d3874b91a8d1bcd451ee656b0fded59cfec"
     },
     {
-      "key": "4bb1d",
-      "songName": "DESTROYER OF WORLD - AARON HIBELL",
-      "hash": "5b5de711ae072a6e2a9aef5daf537c4e68b4ba26",
-      "levelid": "custom_level_5b5de711ae072a6e2a9aef5daf537c4e68b4ba26"
+      "key": "4bbe9",
+      "songName": "LOCK ME OUT - Johnny Huynh",
+      "hash": "f7f5861a1e119abb5909414983b94e39e1cc109b",
+      "levelid": "custom_level_f7f5861a1e119abb5909414983b94e39e1cc109b"
     },
     {
-      "key": "4bb1c",
-      "songName": "Koji Kondo - Merry-Go-Round (Qumu Remix)",
-      "hash": "5ef13e466cd9b881af129a85e82117dd7f00c604",
-      "levelid": "custom_level_5ef13e466cd9b881af129a85e82117dd7f00c604"
+      "key": "4bbe7",
+      "songName": "**** hater 3000",
+      "hash": "5d07d289c40f956a21d47108ab8914b0f71142fd",
+      "levelid": "custom_level_5d07d289c40f956a21d47108ab8914b0f71142fd"
     },
     {
-      "key": "4bb02",
-      "songName": "GG!Underfell - Eye For An Eye",
-      "hash": "4220a7bffb472272e627b77932caf5644675f8c9",
-      "levelid": "custom_level_4220a7bffb472272e627b77932caf5644675f8c9"
+      "key": "4bbe5",
+      "songName": "[GD Mash Pack II] Frums - Wavetapper",
+      "hash": "124318aa9b3180b8fad3a7c1690d281008192622",
+      "levelid": "custom_level_124318aa9b3180b8fad3a7c1690d281008192622"
     },
     {
-      "key": "4bb1b",
-      "songName": "DREAMCATCHER (드림캐쳐) - SAHARA",
-      "hash": "4b6ed9f5daf36b30b58dd0d79926d9087dc7b209",
-      "levelid": "custom_level_4b6ed9f5daf36b30b58dd0d79926d9087dc7b209"
+      "key": "4bbe3",
+      "songName": "Tek It (Sped Up)",
+      "hash": "59506ab56b0c29ae6c9bce3583bf53b92ade2e8a",
+      "levelid": "custom_level_59506ab56b0c29ae6c9bce3583bf53b92ade2e8a"
     },
     {
-      "key": "4bb19",
+      "key": "4bbe2",
+      "songName": "a 对面的女孩看过来-任贤齐",
+      "hash": "171fb63ed9c1eaded156237e29716270d79fe9ae",
+      "levelid": "custom_level_171fb63ed9c1eaded156237e29716270d79fe9ae"
+    },
+    {
+      "key": "4bbe0",
+      "songName": "｢ガチアクタ -GACHIAKUTA-｣ DUSTCELL - 灯火  TOMOSHIBI",
+      "hash": "ddd2098399b068120665f5dc4b3596ca43697c0a",
+      "levelid": "custom_level_ddd2098399b068120665f5dc4b3596ca43697c0a"
+    },
+    {
+      "key": "4bbde",
+      "songName": "Pineapple Princess",
+      "hash": "a90db9399e3fe8eb37bb66da437e7886dadc0a07",
+      "levelid": "custom_level_a90db9399e3fe8eb37bb66da437e7886dadc0a07"
+    },
+    {
+      "key": "4bbdb",
+      "songName": "CHOJO TAIKEN / 超常体験 - NAKISO / なきそ",
+      "hash": "d0a6017f7cae546ba75e3074eff5e7172d8e719c",
+      "levelid": "custom_level_d0a6017f7cae546ba75e3074eff5e7172d8e719c"
+    },
+    {
+      "key": "4bbce",
+      "songName": "DEAREST WORLD (remake) Magical Halloween 7",
+      "hash": "2728bdc6d78604088518ce0426b933180e7813d3",
+      "levelid": "custom_level_2728bdc6d78604088518ce0426b933180e7813d3"
+    },
+    {
+      "key": "4bbcd",
+      "songName": "星の翼(remake)　Magical Halloween TOT",
+      "hash": "08f77e3bd466e7b6a910a88894f62655b6637b51",
+      "levelid": "custom_level_08f77e3bd466e7b6a910a88894f62655b6637b51"
+    },
+    {
+      "key": "4bbcc",
+      "songName": "月歌（remake)　Magical Halloween 2",
+      "hash": "e9b8051fa780734f66b69c497d0fc983a639a434",
+      "levelid": "custom_level_e9b8051fa780734f66b69c497d0fc983a639a434"
+    },
+    {
+      "key": "4bbc8",
+      "songName": "The Last Of Us Part 2 Ellies Full Story Part 3",
+      "hash": "9ea6089ae505066c44c8e1cd4adbb640b29eeb64",
+      "levelid": "custom_level_9ea6089ae505066c44c8e1cd4adbb640b29eeb64"
+    },
+    {
+      "key": "4bbc7",
+      "songName": "[Lightshow] Brian H. Kim, Kevin John Quinn - Fade",
+      "hash": "f9853e4088ed2e1822115bfa728640cc577c7511",
+      "levelid": "custom_level_f9853e4088ed2e1822115bfa728640cc577c7511"
+    },
+    {
+      "key": "4bbc4",
       "songName": "glaive - Appalachia",
-      "hash": "d75b8ff20ce16f3234acd5586b6098278a2ad92f",
-      "levelid": "custom_level_d75b8ff20ce16f3234acd5586b6098278a2ad92f"
+      "hash": "263d89a93e960fa5d6f149f6b26adeae0dddf037",
+      "levelid": "custom_level_263d89a93e960fa5d6f149f6b26adeae0dddf037"
     },
     {
-      "key": "4bb18",
-      "songName": "Fujiwo - Selfish Princess (Wonderlands x Showtime)",
-      "hash": "b0b88248b657c834674519831d6b644a3fafc32f",
-      "levelid": "custom_level_b0b88248b657c834674519831d6b644a3fafc32f"
+      "key": "4bbc3",
+      "songName": "Dylan Wyatt Gordon Beats - Squidward Yell",
+      "hash": "ed6af07d19ef7a2759c272fc1ad2a590abefee4f",
+      "levelid": "custom_level_ed6af07d19ef7a2759c272fc1ad2a590abefee4f"
     },
     {
-      "key": "4bb17",
-      "songName": "[Vivify] Huntress",
-      "hash": "d705145aff818c375050f27726cb0ddcf66052b2",
-      "levelid": "custom_level_d705145aff818c375050f27726cb0ddcf66052b2"
+      "key": "4bbc2",
+      "songName": "FUR12",
+      "hash": "eac0bd8bf7fb7132af7e9e4a27761aa13a47449b",
+      "levelid": "custom_level_eac0bd8bf7fb7132af7e9e4a27761aa13a47449b"
     },
     {
-      "key": "4bb16",
-      "songName": "Pumpkin Party - Various Artists [Super Mario Bros. Wonder]",
-      "hash": "dc7768221745bf915e6c95bab1a2d0d97b12a8ba",
-      "levelid": "custom_level_dc7768221745bf915e6c95bab1a2d0d97b12a8ba"
+      "key": "4bbc1",
+      "songName": "dripeesha",
+      "hash": "c42083bcec21c6f65f6ba8c61aa1496bec517388",
+      "levelid": "custom_level_c42083bcec21c6f65f6ba8c61aa1496bec517388"
     },
     {
-      "key": "4bb15",
-      "songName": "Halcyon Days(十三機兵防衛圏 13 Sentinels Aegis Rim)",
-      "hash": "f574441b4c9e7890ce9666f8812f2edb4b1d59f1",
-      "levelid": "custom_level_f574441b4c9e7890ce9666f8812f2edb4b1d59f1"
+      "key": "4bbbf",
+      "songName": "Crankdat & void(0) - Poppin ",
+      "hash": "06e2a9b0e9815dbd414725af90dbc96513f69193",
+      "levelid": "custom_level_06e2a9b0e9815dbd414725af90dbc96513f69193"
     },
     {
-      "key": "4bb13",
-      "songName": "Monster",
-      "hash": "bc15e02609633fcb3b689837792c4b982a4d78ae",
-      "levelid": "custom_level_bc15e02609633fcb3b689837792c4b982a4d78ae"
+      "key": "4b8d9",
+      "songName": "Altair and Vega - MindaRyn",
+      "hash": "d79185fd469b994a9e85ca317ef06ec27f725ae0",
+      "levelid": "custom_level_d79185fd469b994a9e85ca317ef06ec27f725ae0"
     },
     {
-      "key": "4b359",
-      "songName": "ピュアストーン (pure stone)",
-      "hash": "aa727a3f389e3710f165a6f521f7b9df5a9bdbf4",
-      "levelid": "custom_level_aa727a3f389e3710f165a6f521f7b9df5a9bdbf4"
+      "key": "4bbbc",
+      "songName": "Crimson Galaxies",
+      "hash": "b0370008a7e8fdd1e00821e922a240e90a454b87",
+      "levelid": "custom_level_b0370008a7e8fdd1e00821e922a240e90a454b87"
     },
     {
-      "key": "4bb0e",
-      "songName": "-Grief",
-      "hash": "f5ebbaa2bb1b1685b1d6b4ea8ecf8bea0947be65",
-      "levelid": "custom_level_f5ebbaa2bb1b1685b1d6b4ea8ecf8bea0947be65"
+      "key": "4bbb4",
+      "songName": "some bp song",
+      "hash": "aa2d614f89b6e0aee88956404f866807c7c983ae",
+      "levelid": "custom_level_aa2d614f89b6e0aee88956404f866807c7c983ae"
     },
     {
-      "key": "4bb04",
-      "songName": "TAK - PPPP (Feat. Hatsune Miku, Kasane Teto)",
-      "hash": "93ca4e12077ceba1743d568470a5ca2c845e9adf",
-      "levelid": "custom_level_93ca4e12077ceba1743d568470a5ca2c845e9adf"
+      "key": "4bbb2",
+      "songName": "Magnolia - Camellia",
+      "hash": "b675d808bf453a942cf6a4dfa817c89fb340e5cc",
+      "levelid": "custom_level_b675d808bf453a942cf6a4dfa817c89fb340e5cc"
     },
     {
-      "key": "4bb03",
-      "songName": "intermezzo",
-      "hash": "230c94f9c7d790efcb535ea868d0078905380340",
-      "levelid": "custom_level_230c94f9c7d790efcb535ea868d0078905380340"
+      "key": "4bbaf",
+      "songName": "KAERRA - ORB POWER",
+      "hash": "a8acc99c76adc4b385355868a6878744ad094bdf",
+      "levelid": "custom_level_a8acc99c76adc4b385355868a6878744ad094bdf"
     },
     {
-      "key": "4bb01",
-      "songName": "Misfortune",
-      "hash": "78b7a94294f9833e67a69f9a92019f89d64c3e80",
-      "levelid": "custom_level_78b7a94294f9833e67a69f9a92019f89d64c3e80"
+      "key": "4bbae",
+      "songName": "GHOST (2020 Halloween+++++++++ VIP) - camellia ",
+      "hash": "68100d7faf590bb77f377c90cc44691ed18600fa",
+      "levelid": "custom_level_68100d7faf590bb77f377c90cc44691ed18600fa"
     },
     {
-      "key": "4bafe",
-      "songName": "2894532",
-      "hash": "46360f00142e84261a36e2600e64d1d625c00ff4",
-      "levelid": "custom_level_46360f00142e84261a36e2600e64d1d625c00ff4"
+      "key": "4bbad",
+      "songName": "I LOVE YOU HOE",
+      "hash": "bcdd68d92475fecefc79415b719427b52581a279",
+      "levelid": "custom_level_bcdd68d92475fecefc79415b719427b52581a279"
     },
     {
-      "key": "4baf8",
-      "songName": "[Fitbeat] Two Time",
-      "hash": "630a1e6a7d8a88cac80adfde18acf78fd2f59882",
-      "levelid": "custom_level_630a1e6a7d8a88cac80adfde18acf78fd2f59882"
+      "key": "4bba2",
+      "songName": "[BLOCKHEAD]",
+      "hash": "89fac5751ce3a63dbbf7261103d846c8a619cc4b",
+      "levelid": "custom_level_89fac5751ce3a63dbbf7261103d846c8a619cc4b"
     },
     {
-      "key": "4baf7",
-      "songName": "Can You Feel the Sunshine? (From \"Sonic R.\")",
-      "hash": "6eef93649b76e74ac155aa1c29439a06a318c54f",
-      "levelid": "custom_level_6eef93649b76e74ac155aa1c29439a06a318c54f"
+      "key": "4bba0",
+      "songName": "MIN_NOIG_2",
+      "hash": "f0df4f8cb5faa05a86320c5bc0a78a16f1c08a20",
+      "levelid": "custom_level_f0df4f8cb5faa05a86320c5bc0a78a16f1c08a20"
     },
     {
-      "key": "4baf6",
-      "songName": "Moana - You're Welcome",
-      "hash": "43111b502edb0da5ede0c8dfdaf655889b013e77",
-      "levelid": "custom_level_43111b502edb0da5ede0c8dfdaf655889b013e77"
+      "key": "4bb9f",
+      "songName": "I don't care - Violent Vira",
+      "hash": "6b0571666a257f40d2eb1e7d9bb7857dd6a6ff7b",
+      "levelid": "custom_level_6b0571666a257f40d2eb1e7d9bb7857dd6a6ff7b"
     },
     {
-      "key": "4baf2",
-      "songName": "gummy",
-      "hash": "d7487bf42c9597bbc1701eb0c27fa243e01d3cf3",
-      "levelid": "custom_level_d7487bf42c9597bbc1701eb0c27fa243e01d3cf3"
+      "key": "4bb9d",
+      "songName": "glaive & ericdoa - cloak n dagger",
+      "hash": "6c54cf2cb6c7af1652538e98626388229139bc76",
+      "levelid": "custom_level_6c54cf2cb6c7af1652538e98626388229139bc76"
     },
     {
-      "key": "4baf0",
-      "songName": "Clarity-Mashup | WHY ARE YOU MY REMEDY",
-      "hash": "19e20a67f7c8321cbe04984ead6435ac3320eb4e",
-      "levelid": "custom_level_19e20a67f7c8321cbe04984ead6435ac3320eb4e"
+      "key": "4bb9e",
+      "songName": "almost monday - only wanna dance",
+      "hash": "d1003cc470eaff38ccb466f1a29cb799f5a576e7",
+      "levelid": "custom_level_d1003cc470eaff38ccb466f1a29cb799f5a576e7"
     },
     {
-      "key": "4baef",
-      "songName": "birds of the feather",
-      "hash": "926362a4626152da7f126f94bdd3408149d4393d",
-      "levelid": "custom_level_926362a4626152da7f126f94bdd3408149d4393d"
+      "key": "4bb95",
+      "songName": "Möbius Chicken Strip - Origami Angel",
+      "hash": "bdf999dba88565003fb1a1e0d5743c3bc01f8584",
+      "levelid": "custom_level_bdf999dba88565003fb1a1e0d5743c3bc01f8584"
     },
     {
-      "key": "4af06",
-      "songName": "Campa timoyetzticah, Cempaxochitl? (Genshin Impact)",
-      "hash": "0d8590361d0cb9dac28daadab6310291363a2c71",
-      "levelid": "custom_level_0d8590361d0cb9dac28daadab6310291363a2c71"
+      "key": "4bb8b",
+      "songName": "Look What You Made Me Do_Shoulder_Elevation_ROM",
+      "hash": "82e2b1b615225388c1ed0cc5caf61914d651ec27",
+      "levelid": "custom_level_82e2b1b615225388c1ed0cc5caf61914d651ec27"
     },
     {
-      "key": "4bac6",
-      "songName": "American Girl - Tiffany Day (hyperpop)",
-      "hash": "e74befd8402e7f6d9d7dcffcfc035687f33e0c2e",
-      "levelid": "custom_level_e74befd8402e7f6d9d7dcffcfc035687f33e0c2e"
+      "key": "4bb8a",
+      "songName": "New Divide_Shoulder_Elevation_ROM",
+      "hash": "d87140596cb1508850f437fb78fb1ebe73350af7",
+      "levelid": "custom_level_d87140596cb1508850f437fb78fb1ebe73350af7"
     },
     {
-      "key": "4bac2",
-      "songName": "Lil Tecca - Fell In Love ft. Ken Carson",
-      "hash": "f2a4bf61e980ba7f1de4ff54e10c023c1d61e3e8",
-      "levelid": "custom_level_f2a4bf61e980ba7f1de4ff54e10c023c1d61e3e8"
+      "key": "4bb89",
+      "songName": "Shake It Off_Sagittal_Wrist_ROM",
+      "hash": "dcb09d5135cc21760da5aa43b080c06fffcd96ff",
+      "levelid": "custom_level_dcb09d5135cc21760da5aa43b080c06fffcd96ff"
     },
     {
-      "key": "4bac0",
-      "songName": "Hazbin Hotel-Gravity  (Poodle)",
-      "hash": "a8f193e914b9dcff15e88a67f41251b88106d3f7",
-      "levelid": "custom_level_a8f193e914b9dcff15e88a67f41251b88106d3f7"
+      "key": "4bb88",
+      "songName": "I Like To Move It_Sagittal_Wrist_ROM",
+      "hash": "354a3894e5eff6de32d05613f0e44f39574c8330",
+      "levelid": "custom_level_354a3894e5eff6de32d05613f0e44f39574c8330"
     },
     {
-      "key": "4babf",
-      "songName": "dive to the heart - trust",
-      "hash": "bbdb49f2da7048e4419e67b9565b31598d1553af",
-      "levelid": "custom_level_bbdb49f2da7048e4419e67b9565b31598d1553af"
+      "key": "4bb87",
+      "songName": "Can't Stop the Feeling_Sagittal_Wrist_ROM",
+      "hash": "8938ab98b7ad7c169e073c77f83ecc8a7efbf798",
+      "levelid": "custom_level_8938ab98b7ad7c169e073c77f83ecc8a7efbf798"
     },
     {
-      "key": "4babc",
-      "songName": "Dead Silence Jingle [JustCree Edit]",
-      "hash": "067def0c317dbff2dfb256cd161306b4cb6bbb97",
-      "levelid": "custom_level_067def0c317dbff2dfb256cd161306b4cb6bbb97"
+      "key": "4bb85",
+      "songName": "Blinding Lights_Sagittal_Wrist_ROM",
+      "hash": "24df2c923cee47130e42a4ab67d22f85d36bfb19",
+      "levelid": "custom_level_24df2c923cee47130e42a4ab67d22f85d36bfb19"
     },
     {
-      "key": "4babb",
-      "songName": "Camellia - MAMBO COMBO",
-      "hash": "4884740b7db109308fb49dd0c772763c4c7e6f7c",
-      "levelid": "custom_level_4884740b7db109308fb49dd0c772763c4c7e6f7c"
+      "key": "4bb86",
+      "songName": "Just Dance_Shoulder_Elevation_ROM",
+      "hash": "ab58c75923d0d94a20f63178124ebebcffdfbaf2",
+      "levelid": "custom_level_ab58c75923d0d94a20f63178124ebebcffdfbaf2"
     },
     {
-      "key": "4ba9f",
-      "songName": "The Dead Dance - Lady Gaga",
-      "hash": "05009461668b3813b72847fe11a2d4d273592451",
-      "levelid": "custom_level_05009461668b3813b72847fe11a2d4d273592451"
+      "key": "4bb84",
+      "songName": "Shut up and Dance_Shoulder_Elevation_ROM",
+      "hash": "ce5655462904463045f42b5ad7dd295ac5167adb",
+      "levelid": "custom_level_ce5655462904463045f42b5ad7dd295ac5167adb"
     },
     {
-      "key": "4ba9a",
-      "songName": "[90s Rock Pack] Pantera - Cowboys from Hell",
-      "hash": "21983a5a0d27d0e59b64db0d37bae657eea6bb5d",
-      "levelid": "custom_level_21983a5a0d27d0e59b64db0d37bae657eea6bb5d"
+      "key": "4bb83",
+      "songName": "Sugar_Horizontal_Adduction_ROM",
+      "hash": "ed26b0bd2e827ff93c3c230f1dcc0e69044ed52e",
+      "levelid": "custom_level_ed26b0bd2e827ff93c3c230f1dcc0e69044ed52e"
     },
     {
-      "key": "4ba56",
-      "songName": "[90s Rock Pack] Something More (Augustine's Confession) - Switchfoot",
-      "hash": "1a26af4a990ee97f163d338d9f1d044c05a71dac",
-      "levelid": "custom_level_1a26af4a990ee97f163d338d9f1d044c05a71dac"
+      "key": "4bb82",
+      "songName": "Look What You Made Me Do_Horizontal_Adduction_ROM",
+      "hash": "4a5d57c9eba4d2ed198212a0f146e7f02ae76236",
+      "levelid": "custom_level_4a5d57c9eba4d2ed198212a0f146e7f02ae76236"
     },
     {
-      "key": "4baa1",
-      "songName": "[90s Rock Pack] Green Day - Brain Stew (v4)",
-      "hash": "87c3df321b2b759473e61e05d6f593f53c45f5b8",
-      "levelid": "custom_level_87c3df321b2b759473e61e05d6f593f53c45f5b8"
+      "key": "4bb81",
+      "songName": "Hey Brother_Horizontal_Adduction_ROM",
+      "hash": "751f9a7bc583cf3859d9ab570e5b224b44be52e2",
+      "levelid": "custom_level_751f9a7bc583cf3859d9ab570e5b224b44be52e2"
     },
     {
-      "key": "4ba50",
-      "songName": "[90s Rock Pack] Superunknown - Soundgarden (Superunknown) [Balanced]",
-      "hash": "cf4b81259bec9c25219269db5dcf1ace7e73db69",
-      "levelid": "custom_level_cf4b81259bec9c25219269db5dcf1ace7e73db69"
+      "key": "4bb80",
+      "songName": "Final Countdown_EnduranceHorizontal",
+      "hash": "c94f31dd3b8c49d522aa3f107ea084f235c59a27",
+      "levelid": "custom_level_c94f31dd3b8c49d522aa3f107ea084f235c59a27"
     },
     {
-      "key": "4ba17",
-      "songName": "[90s Rock Pack] Guerrilla Radio - Rage Against The Machine (The Battle Of Los Angeles) [Balanced]",
-      "hash": "e894a0c71d68b645f145153fd4fc5faa67b9b9a6",
-      "levelid": "custom_level_e894a0c71d68b645f145153fd4fc5faa67b9b9a6"
+      "key": "4bb7f",
+      "songName": "Believer_Horizontal_Adduction_ROM",
+      "hash": "e4d0ed06c46a759142d8cd7ba7c0da224a28b1ef",
+      "levelid": "custom_level_e4d0ed06c46a759142d8cd7ba7c0da224a28b1ef"
     },
     {
-      "key": "4ba34",
-      "songName": "[90s Rock Pack] Black Hole Sun - Soundgarden (Superunknown) [Low Tech & Balanced]",
-      "hash": "e24128c1da482caaa9771e24c9c6b4371def66c1",
-      "levelid": "custom_level_e24128c1da482caaa9771e24c9c6b4371def66c1"
+      "key": "4bb7d",
+      "songName": "Dracula - Tame Impala",
+      "hash": "49135e727575907c69c84f7f8769b7c3e20450b7",
+      "levelid": "custom_level_49135e727575907c69c84f7f8769b7c3e20450b7"
     },
     {
-      "key": "4ba0d",
-      "songName": "[90s Rock Pack] Radiohead - Exit Music (For A Film)",
-      "hash": "8662ab66b56bc898464ee10dfb34a3df444eb289",
-      "levelid": "custom_level_8662ab66b56bc898464ee10dfb34a3df444eb289"
+      "key": "4bb7e",
+      "songName": "Uptown Funk_EnduranceHorizontal",
+      "hash": "ac6ab73e130be0569ab498870f041a858603f71b",
+      "levelid": "custom_level_ac6ab73e130be0569ab498870f041a858603f71b"
     },
     {
-      "key": "4b95d",
-      "songName": "[90s Rock Pack] Ironic - Alanis Morissette",
-      "hash": "1cac169ecc7a29395c1af5bdcde27f4d407a330a",
-      "levelid": "custom_level_1cac169ecc7a29395c1af5bdcde27f4d407a330a"
+      "key": "4bb7c",
+      "songName": "Shake It Off_EnduranceHorizontal",
+      "hash": "556460a6f232dad781ad7a04b303bb7400a69dd0",
+      "levelid": "custom_level_556460a6f232dad781ad7a04b303bb7400a69dd0"
     },
     {
-      "key": "4b95e",
-      "songName": "[90s Rock Pack] Iris - Goo Goo Dolls",
-      "hash": "095e052baa5910a4ed530572692cef3010deda46",
-      "levelid": "custom_level_095e052baa5910a4ed530572692cef3010deda46"
+      "key": "4bb7b",
+      "songName": "Too Sweet_Shoulder_Elevation_Peak",
+      "hash": "b3537438af02b559667ec3c64fea339037115398",
+      "levelid": "custom_level_b3537438af02b559667ec3c64fea339037115398"
     },
     {
-      "key": "4b966",
-      "songName": "[90s Rock Pack] Good - Better Than Ezra",
-      "hash": "6e504023c80144979c54c2c433ce9471c6cdd4bc",
-      "levelid": "custom_level_6e504023c80144979c54c2c433ce9471c6cdd4bc"
+      "key": "4bb7a",
+      "songName": "Safe and Sound_Shoulder_Elevation_Peak",
+      "hash": "ca80a010a4533e27344c2bbaed937b913c2709d0",
+      "levelid": "custom_level_ca80a010a4533e27344c2bbaed937b913c2709d0"
     },
     {
-      "key": "4b5b3",
-      "songName": "[90s Rock Pack] Song 2 - Blur [Tech & Balanced] [Gimmick] ",
-      "hash": "086605db21e12463cc5c27454e86401d152c8fd2",
-      "levelid": "custom_level_086605db21e12463cc5c27454e86401d152c8fd2"
+      "key": "4bb77",
+      "songName": "Gotta Feeling_EnduranceHorizontal",
+      "hash": "0b730be1e9f10bc9cd53269d70b518298554a3a4",
+      "levelid": "custom_level_0b730be1e9f10bc9cd53269d70b518298554a3a4"
     },
     {
-      "key": "4b7c2",
-      "songName": "[90s Rock Pack] Do The Evolution - Pearl Jam",
-      "hash": "2d26bc7b021d0eaeca248318e427ca551475c55b",
-      "levelid": "custom_level_2d26bc7b021d0eaeca248318e427ca551475c55b"
+      "key": "4bb79",
+      "songName": "Final Countdown_Shoulder_Elevation_Peak",
+      "hash": "60627799cdf6e3dc2bdb324c00cf39a275ddd0f5",
+      "levelid": "custom_level_60627799cdf6e3dc2bdb324c00cf39a275ddd0f5"
     },
     {
-      "key": "4b69f",
-      "songName": "[90s Rock Pack] Evenflow - Pearl Jam (Rearviewmirror) [Balanced]",
-      "hash": "ae54dff2b109bfd2c542d5d2411734e0eaf05b5e",
-      "levelid": "custom_level_ae54dff2b109bfd2c542d5d2411734e0eaf05b5e"
+      "key": "4bb78",
+      "songName": "Centuries_Shoulder_Elevation_Peak",
+      "hash": "95e76496822b810a978be20e3e4771e6f00af122",
+      "levelid": "custom_level_95e76496822b810a978be20e3e4771e6f00af122"
     },
     {
-      "key": "4b6a0",
-      "songName": "[90s Rock Pack] Trippin' On A Hole In A Paper Heart - Stone Temple Pilots (Tiny Music) [Balanced]",
-      "hash": "0e96c95d3148ad4dd1bdd83875f4f3d3fb9c75e4",
-      "levelid": "custom_level_0e96c95d3148ad4dd1bdd83875f4f3d3fb9c75e4"
+      "key": "4bb76",
+      "songName": "Uptown Funk_Wrist_ROM",
+      "hash": "5708d9c29be3717cf9cd77d5ec508cac4f1c7918",
+      "levelid": "custom_level_5708d9c29be3717cf9cd77d5ec508cac4f1c7918"
     },
     {
-      "key": "4b5bc",
-      "songName": "[90s Rock Pack] Spoonman - Soundgarden (Superunknown) [Balanced Midspeed]",
-      "hash": "0fc93abf3ac3b37796adb1bbc210c92a7a0708d2",
-      "levelid": "custom_level_0fc93abf3ac3b37796adb1bbc210c92a7a0708d2"
+      "key": "4bb75",
+      "songName": "Shake It Off_Wrist_ROM",
+      "hash": "54a125a689c1da89943ef6b5ed00e1456acc2d76",
+      "levelid": "custom_level_54a125a689c1da89943ef6b5ed00e1456acc2d76"
     },
     {
-      "key": "4b68d",
-      "songName": "[90s Rock Pack] KoRn - Freak on a Leash",
-      "hash": "1da29cea1af5da0a768fea0524900ce4087c5e27",
-      "levelid": "custom_level_1da29cea1af5da0a768fea0524900ce4087c5e27"
+      "key": "4bb74",
+      "songName": "I Like To Move It_Wrist_ROM",
+      "hash": "d83f9e7645622604bbb6accfbc2fe0a9308bd392",
+      "levelid": "custom_level_d83f9e7645622604bbb6accfbc2fe0a9308bd392"
     },
     {
-      "key": "4b61d",
-      "songName": "[90s Rock Pack] Hunger Strike - Temple Of The Dog [Balanced]",
-      "hash": "7bd93829c72eee1335903632ce8d440f92751116",
-      "levelid": "custom_level_7bd93829c72eee1335903632ce8d440f92751116"
+      "key": "4bb73",
+      "songName": "Cowboy Casanova_Wrist_ROM",
+      "hash": "aca0e8cef9eb9191a336cadd463102fa7723a132",
+      "levelid": "custom_level_aca0e8cef9eb9191a336cadd463102fa7723a132"
     },
     {
-      "key": "4b61c",
-      "songName": "[90s Rock Pack] Shine - Collective Soul (Hints Allegations and Things Left Unsaid) [Balanced]",
-      "hash": "3d45aedc1ae2f1c591cce9ec7d40904d867013b2",
-      "levelid": "custom_level_3d45aedc1ae2f1c591cce9ec7d40904d867013b2"
+      "key": "4bb72",
+      "songName": "Too Sweet_TorsoEndurance",
+      "hash": "c386ca4541482a72aa15d092cbf7aa458a3e56c7",
+      "levelid": "custom_level_c386ca4541482a72aa15d092cbf7aa458a3e56c7"
     },
     {
-      "key": "4b5b9",
-      "songName": "[90s Rock Pack] Give It Away - Red Hot Chili Peppers (Blood Sugar Sex Magic) [Techy Midspeed]",
-      "hash": "35f121b187a330f624209668fec69be43e96b7a7",
-      "levelid": "custom_level_35f121b187a330f624209668fec69be43e96b7a7"
+      "key": "4bb71",
+      "songName": "Look What You Made Me Do_TorsoEndurance",
+      "hash": "a6e9ce8ea567140701d366aa84b3b6396bdce5f3",
+      "levelid": "custom_level_a6e9ce8ea567140701d366aa84b3b6396bdce5f3"
     },
     {
-      "key": "4b5b8",
-      "songName": "[90s Rock Pack] Man in the Box - Alice in Chains (Facelift) [Balanced]",
-      "hash": "5c7b387b0cb474b1a13f54f2a41c8dc938a5fdc6",
-      "levelid": "custom_level_5c7b387b0cb474b1a13f54f2a41c8dc938a5fdc6"
+      "key": "4bb70",
+      "songName": "I'm Good (Blue)_TorsoEndurance",
+      "hash": "25bc99e46974ef7a3279ab28c157596582ce9131",
+      "levelid": "custom_level_25bc99e46974ef7a3279ab28c157596582ce9131"
     },
     {
-      "key": "4b5b4",
-      "songName": "[90s Rock Pack] Mind Riot - Soundgarden (Badmotorfinger) [Balanced]",
-      "hash": "244cd492f86e8d07c1441fb100984efde24e7ac6",
-      "levelid": "custom_level_244cd492f86e8d07c1441fb100984efde24e7ac6"
+      "key": "4bb6f",
+      "songName": "Blinding Lights_TorsoEndurance",
+      "hash": "11ec2d36c3600368d78ca9e7662edeff4682e8ec",
+      "levelid": "custom_level_11ec2d36c3600368d78ca9e7662edeff4682e8ec"
     },
     {
-      "key": "4b5b6",
-      "songName": "[90s Rock Pack] Nirvana - Come As You Are  (Nevermind) [Balanced]",
-      "hash": "12c4f5fad3cb42b86a28ab43d0cb9915d47ff12c",
-      "levelid": "custom_level_12c4f5fad3cb42b86a28ab43d0cb9915d47ff12c"
+      "key": "4bb6e",
+      "songName": "Safe and Sound_TorsoAlternating",
+      "hash": "e6dea7a30c9528024e03d464722c3f1bd94abb93",
+      "levelid": "custom_level_e6dea7a30c9528024e03d464722c3f1bd94abb93"
     },
     {
-      "key": "4b4ca",
-      "songName": "[90s Rock Pack] Veruca Salt-Volcano Girls",
-      "hash": "066fbadca395f6732f22c5284f7f8ec590b0211a",
-      "levelid": "custom_level_066fbadca395f6732f22c5284f7f8ec590b0211a"
+      "key": "4bb6d",
+      "songName": "New Divide_TorsoAlternating",
+      "hash": "697306e89036d1db21e83b044b74920dd99cafc3",
+      "levelid": "custom_level_697306e89036d1db21e83b044b74920dd99cafc3"
     },
     {
-      "key": "4b48f",
-      "songName": "[90s Rock Pack] DDevil - System of a Down",
-      "hash": "d09e0a4d4047e83b332f782a8d7b6d6c1761f7c2",
-      "levelid": "custom_level_d09e0a4d4047e83b332f782a8d7b6d6c1761f7c2"
+      "key": "4bb6c",
+      "songName": "Gotta Feeling_TorsoAlternating",
+      "hash": "137c7e7c4b5300d95474b8d40f81097994da08f8",
+      "levelid": "custom_level_137c7e7c4b5300d95474b8d40f81097994da08f8"
     },
     {
-      "key": "4b48e",
-      "songName": "[90s Rock Pack] Chump - Green Day (v4)",
-      "hash": "1fb21f0cacf046cad46a93ff16832ac70c570027",
-      "levelid": "custom_level_1fb21f0cacf046cad46a93ff16832ac70c570027"
+      "key": "4bb6b",
+      "songName": "Cake by the Ocean_TorsoAlternating",
+      "hash": "5c12119dfd2d2f5766aa0d6a3a02dda7604906c0",
+      "levelid": "custom_level_5c12119dfd2d2f5766aa0d6a3a02dda7604906c0"
     },
     {
-      "key": "4baa9",
-      "songName": "GDFR",
-      "hash": "d3d430e64b456686799a7215773b3fb65550bf40",
-      "levelid": "custom_level_d3d430e64b456686799a7215773b3fb65550bf40"
+      "key": "4bb6a",
+      "songName": "Don't Start Now_PairedPacing",
+      "hash": "d1e842a975f08d1549fbf826a5b65e16aa5247e8",
+      "levelid": "custom_level_d1e842a975f08d1549fbf826a5b65e16aa5247e8"
     },
     {
-      "key": "4baa7",
-      "songName": "Lift Me Up - Maverick City Music",
-      "hash": "cf31a3fa3a15e89ff974f34dec239bfcddbfaa13",
-      "levelid": "custom_level_cf31a3fa3a15e89ff974f34dec239bfcddbfaa13"
+      "key": "4bb69",
+      "songName": "Best Day of My Life_PairedPacing",
+      "hash": "d4ac25dcdfcb2da7ee4b6ffeff582769dfed02ae",
+      "levelid": "custom_level_d4ac25dcdfcb2da7ee4b6ffeff582769dfed02ae"
     },
     {
-      "key": "4baa6",
-      "songName": "Stay (If You Wanna Dance) - Myles Smith",
-      "hash": "a98c693095a13e41f620da30af7a16d974190c75",
-      "levelid": "custom_level_a98c693095a13e41f620da30af7a16d974190c75"
+      "key": "4bb68",
+      "songName": "Bad Dreams_PairedPacing",
+      "hash": "962bd5788f536fafc67139b3ff53d9ce8567f924",
+      "levelid": "custom_level_962bd5788f536fafc67139b3ff53d9ce8567f924"
     },
     {
-      "key": "4ba8a",
-      "songName": "I.O.I - Whatta Man (Good man)",
-      "hash": "a5de0ae09aff3b2c48dd8cdedd53f7135f6c05ac",
-      "levelid": "custom_level_a5de0ae09aff3b2c48dd8cdedd53f7135f6c05ac"
+      "key": "4bb67",
+      "songName": "Beautiful People_PairedPacing",
+      "hash": "81db344c48de319e68b2dcfa2c1db024b5e01e84",
+      "levelid": "custom_level_81db344c48de319e68b2dcfa2c1db024b5e01e84"
     },
     {
-      "key": "4ba98",
-      "songName": "DOECHII - NOSEBLEEDS (ELIMINATE REMIX)",
-      "hash": "d7a007f2f5826347c5c3b693f79f4d3b468ad2aa",
-      "levelid": "custom_level_d7a007f2f5826347c5c3b693f79f4d3b468ad2aa"
+      "key": "4bb66",
+      "songName": "Hey Brother_Elbow_ROM",
+      "hash": "80c8a330183ddf20f39196b890547e19837c3b37",
+      "levelid": "custom_level_80c8a330183ddf20f39196b890547e19837c3b37"
+    },
+    {
+      "key": "4bb65",
+      "songName": "Final Countdown_Elbow_ROM",
+      "hash": "5efb78407083f4d7fb203c826c9be50062ea0087",
+      "levelid": "custom_level_5efb78407083f4d7fb203c826c9be50062ea0087"
+    },
+    {
+      "key": "4bb64",
+      "songName": "Cowboy Casanova_Elbow_ROM",
+      "hash": "9c81898ca519b4dce132f602c14dba2f8d5b359e",
+      "levelid": "custom_level_9c81898ca519b4dce132f602c14dba2f8d5b359e"
+    },
+    {
+      "key": "4bb63",
+      "songName": "Can't Stop the Feeling_Elbow_ROM",
+      "hash": "dc6590a7f15736c9532dd9d6f386e8bc8f3e8499",
+      "levelid": "custom_level_dc6590a7f15736c9532dd9d6f386e8bc8f3e8499"
+    },
+    {
+      "key": "4bb62",
+      "songName": "Shake It Off_Shoulder_ROM",
+      "hash": "87973bd3d2d0b8de38f57782be20911c36eee477",
+      "levelid": "custom_level_87973bd3d2d0b8de38f57782be20911c36eee477"
+    },
+    {
+      "key": "4bb61",
+      "songName": "Just Dance_Shoulder_ROM",
+      "hash": "c438f1bbbaf217837e034e8308b181c80e752202",
+      "levelid": "custom_level_c438f1bbbaf217837e034e8308b181c80e752202"
+    },
+    {
+      "key": "4bb60",
+      "songName": "Centuries_Shoulder_ROM",
+      "hash": "974c8362eb08ea480ae292320353b4f4055d9c3f",
+      "levelid": "custom_level_974c8362eb08ea480ae292320353b4f4055d9c3f"
+    },
+    {
+      "key": "4bb5f",
+      "songName": "Believer_Shoulder_ROM",
+      "hash": "caf400aad09eb2c6aca5e6b6d501c82d19ad881f",
+      "levelid": "custom_level_caf400aad09eb2c6aca5e6b6d501c82d19ad881f"
+    },
+    {
+      "key": "4bb5e",
+      "songName": "Teenage Dream_PathLength",
+      "hash": "2d1efa448393a655da4a3d8bde72bda69de4b1de",
+      "levelid": "custom_level_2d1efa448393a655da4a3d8bde72bda69de4b1de"
+    },
+    {
+      "key": "4bb5d",
+      "songName": "Sugar_PathLength",
+      "hash": "1a9034a47667fb454b178f80676823baba4ac32c",
+      "levelid": "custom_level_1a9034a47667fb454b178f80676823baba4ac32c"
+    },
+    {
+      "key": "4bb5c",
+      "songName": "Shut up and Dance_PathLength",
+      "hash": "9adc8f8f40228b458facd64cd9390467a812b789",
+      "levelid": "custom_level_9adc8f8f40228b458facd64cd9390467a812b789"
+    },
+    {
+      "key": "4bb5b",
+      "songName": "Love Runs Out_PathLength",
+      "hash": "ab5c99e414eb3b2df3d4b26c7a042a1ed4ff91c8",
+      "levelid": "custom_level_ab5c99e414eb3b2df3d4b26c7a042a1ed4ff91c8"
+    },
+    {
+      "key": "4bb5a",
+      "songName": "What Ive Done_MirroredFastAlternating",
+      "hash": "e928c7158773fa0430516b1f69e5c421efec0a2a",
+      "levelid": "custom_level_e928c7158773fa0430516b1f69e5c421efec0a2a"
+    },
+    {
+      "key": "4bb59",
+      "songName": "I'm Good (Blue)_MirroredFastAlternating",
+      "hash": "5bb8a1c420315dd9acebc2060ac6cfacb471d52d",
+      "levelid": "custom_level_5bb8a1c420315dd9acebc2060ac6cfacb471d52d"
+    },
+    {
+      "key": "4bb58",
+      "songName": "Happy_MirroredFastAlternating",
+      "hash": "642f589de5537e6d398c0256033b8cd0c3102f46",
+      "levelid": "custom_level_642f589de5537e6d398c0256033b8cd0c3102f46"
+    },
+    {
+      "key": "4bb57",
+      "songName": "Blinding Lights_MirroredFastAlternating",
+      "hash": "f547bca996caedd8b1f40e607183dffcf7fdc9aa",
+      "levelid": "custom_level_f547bca996caedd8b1f40e607183dffcf7fdc9aa"
+    },
+    {
+      "key": "4baba",
+      "songName": "Artemas - Eat me alive",
+      "hash": "bdeb5980cf1f8b73f3a70b35614c8775b5471a0f",
+      "levelid": "custom_level_bdeb5980cf1f8b73f3a70b35614c8775b5471a0f"
+    },
+    {
+      "key": "4bb56",
+      "songName": "West Coast_FastAlternating",
+      "hash": "aacaf22ecd12ebacc03593678fe7192c100efe26",
+      "levelid": "custom_level_aacaf22ecd12ebacc03593678fe7192c100efe26"
+    },
+    {
+      "key": "4bb55",
+      "songName": "I Like To Move It_FastAlternating",
+      "hash": "4d3b08e386884994db34f0d85b88f71856133783",
+      "levelid": "custom_level_4d3b08e386884994db34f0d85b88f71856133783"
+    },
+    {
+      "key": "4bb54",
+      "songName": "Klaypex - Shotgun",
+      "hash": "bb562e161fe5bcfefd5c126d7888ed7ac77d7af0",
+      "levelid": "custom_level_bb562e161fe5bcfefd5c126d7888ed7ac77d7af0"
+    },
+    {
+      "key": "4bb53",
+      "songName": "Call Me Maybe_FastAlternating",
+      "hash": "d01bd5da49a52ff7de6b35aa52b63d8fe23abcdc",
+      "levelid": "custom_level_d01bd5da49a52ff7de6b35aa52b63d8fe23abcdc"
+    },
+    {
+      "key": "4bb52",
+      "songName": "1985_FastAlternating",
+      "hash": "3a617a3f545441c438d23eaf299c1bf436c80148",
+      "levelid": "custom_level_3a617a3f545441c438d23eaf299c1bf436c80148"
+    },
+    {
+      "key": "4bb50",
+      "songName": "hot dog in the trash",
+      "hash": "b84b19452679437bf4edad9aff8c58cd43b8e872",
+      "levelid": "custom_level_b84b19452679437bf4edad9aff8c58cd43b8e872"
+    },
+    {
+      "key": "4bb4e",
+      "songName": "Uptown Funk_MidlineCrossing",
+      "hash": "836eab4b3989256c45d8264e1274dbc0a22ffa3f",
+      "levelid": "custom_level_836eab4b3989256c45d8264e1274dbc0a22ffa3f"
+    },
+    {
+      "key": "4bb4f",
+      "songName": "New Divide_MidlineCrossing",
+      "hash": "2a36f2889ca34b2eb2b98d5c3e29be741b495660",
+      "levelid": "custom_level_2a36f2889ca34b2eb2b98d5c3e29be741b495660"
+    },
+    {
+      "key": "4bb4d",
+      "songName": "Gotta Feeling_MidlineCrossing",
+      "hash": "2763158d979d1110e2ef67bbdc36d019d32cd657",
+      "levelid": "custom_level_2763158d979d1110e2ef67bbdc36d019d32cd657"
+    },
+    {
+      "key": "4bb4c",
+      "songName": "Cake by the Ocean_MidlineCrossing",
+      "hash": "8dd56e5147af84b16a5ce8d550e71c421ce02495",
+      "levelid": "custom_level_8dd56e5147af84b16a5ce8d550e71c421ce02495"
+    },
+    {
+      "key": "4bb4b",
+      "songName": "Alya (CV Uesaka Sumire) - Ichiban Kagayaku Hoshi (TV Size)",
+      "hash": "fa000115e79decb2026831e676ae9d8db4e8ea23",
+      "levelid": "custom_level_fa000115e79decb2026831e676ae9d8db4e8ea23"
+    },
+    {
+      "key": "4bb49",
+      "songName": "Just Dance_Endurance (Any Direction)",
+      "hash": "50d875de89f675e0b9c770e5b72502202ba41381",
+      "levelid": "custom_level_50d875de89f675e0b9c770e5b72502202ba41381"
+    },
+    {
+      "key": "4bb48",
+      "songName": "I'm Good (Blue)_Endurance (Any Direction)",
+      "hash": "20f69cddbd41bad80e1d63cbd0088ff5051dbb51",
+      "levelid": "custom_level_20f69cddbd41bad80e1d63cbd0088ff5051dbb51"
+    },
+    {
+      "key": "4bb47",
+      "songName": "I Like To Move It_Endurance (Any Direction)",
+      "hash": "256ea6d4ba22811770d9f48fea2d597d20a7f1b0",
+      "levelid": "custom_level_256ea6d4ba22811770d9f48fea2d597d20a7f1b0"
     }
   ],
   "image": ""
