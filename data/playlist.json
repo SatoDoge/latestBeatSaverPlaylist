@@ -1,202 +1,196 @@
 {
-  "playlistTitle": "2025-11-04T15:18:52.114Z~2025-11-05T15:18:52.114Z",
+  "playlistTitle": "2025-11-05T15:18:48.690Z~2025-11-06T15:18:48.690Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-11-04T15:18:52.114Z and 2025-11-05T15:18:52.114Z",
+  "discripstion": "Maps published between 2025-11-05T15:18:48.690Z and 2025-11-06T15:18:48.690Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4be09",
-      "songName": "astrid",
-      "hash": "c51c480113c2ce5fabb7e9edeb50f8b3b6a69b7d",
-      "levelid": "custom_level_c51c480113c2ce5fabb7e9edeb50f8b3b6a69b7d"
+      "key": "4be52",
+      "songName": "What Ive Done_FastAlternating",
+      "hash": "230563299bb95f6a845dd175132b0c7dc580fd2a",
+      "levelid": "custom_level_230563299bb95f6a845dd175132b0c7dc580fd2a"
     },
     {
-      "key": "4be07",
-      "songName": "未见花开",
-      "hash": "5e5cd3208a16b41677021882cc74258a20007b89",
-      "levelid": "custom_level_5e5cd3208a16b41677021882cc74258a20007b89"
+      "key": "4be51",
+      "songName": "Beautiful People_FastAlternating",
+      "hash": "0c6e42ccc01686be4e5c7ed79f101f6d846d3fde",
+      "levelid": "custom_level_0c6e42ccc01686be4e5c7ed79f101f6d846d3fde"
     },
     {
-      "key": "4be03",
-      "songName": "Diabarha - At Night (full version) [2A - Inside Me]",
-      "hash": "0b056dd1e453adb8ff7e69f5a56695a913bbf069",
-      "levelid": "custom_level_0b056dd1e453adb8ff7e69f5a56695a913bbf069"
+      "key": "4be4c",
+      "songName": "まかせろり (maka-celery)",
+      "hash": "c1eca591913101ab8a399d28da65a8c4405ee97f",
+      "levelid": "custom_level_c1eca591913101ab8a399d28da65a8c4405ee97f"
     },
     {
-      "key": "4bdff",
-      "songName": "復讐を求めて(OCTOPATH TRAVELER 2)",
-      "hash": "71cb4b3c69e4c46c1bc3c7ee6f502f73236d6924",
-      "levelid": "custom_level_71cb4b3c69e4c46c1bc3c7ee6f502f73236d6924"
+      "key": "4be4b",
+      "songName": "wides",
+      "hash": "75890c22f834d6cb05d54d1a49cce2fa5c81b0ea",
+      "levelid": "custom_level_75890c22f834d6cb05d54d1a49cce2fa5c81b0ea"
     },
     {
-      "key": "4bdfd",
-      "songName": "春を告げる(haru wo tsugeru) -yama- 11/5 完全ReTake",
-      "hash": "f5d6cce49e756b0df7f3eb201b57a3d8005b4d30",
-      "levelid": "custom_level_f5d6cce49e756b0df7f3eb201b57a3d8005b4d30"
+      "key": "4af07",
+      "songName": "Rhymes of Vales (Genshin Impact - Sumeru Battle Theme)",
+      "hash": "7ecaf80a0bc0bd09cd96eb5ca54ca1d57c35b18e",
+      "levelid": "custom_level_7ecaf80a0bc0bd09cd96eb5ca54ca1d57c35b18e"
     },
     {
-      "key": "4bde0",
-      "songName": "nevele (twelve)",
-      "hash": "d00e8e49e8fe245e98afc0f64e932136f5d391e3",
-      "levelid": "custom_level_d00e8e49e8fe245e98afc0f64e932136f5d391e3"
+      "key": "4be46",
+      "songName": "Onlyfan",
+      "hash": "e06da2e849061359db869acdfe7cd0efb740d9b1",
+      "levelid": "custom_level_e06da2e849061359db869acdfe7cd0efb740d9b1"
     },
     {
-      "key": "4bddf",
-      "songName": "Crankdat (Feat. Hyro The Hero) - Monster",
-      "hash": "47fda87fb168f04eeebdb2cf955c517bdb78c746",
-      "levelid": "custom_level_47fda87fb168f04eeebdb2cf955c517bdb78c746"
+      "key": "4be3f",
+      "songName": "Clean It Up!",
+      "hash": "7e1ce674511b5a7d187c23ee8cba5989206f04b3",
+      "levelid": "custom_level_7e1ce674511b5a7d187c23ee8cba5989206f04b3"
     },
     {
-      "key": "4bdde",
-      "songName": "Affiliate Requiem ",
-      "hash": "3353ff44db4b832cd9deec85d7659bd66a0dca57",
-      "levelid": "custom_level_3353ff44db4b832cd9deec85d7659bd66a0dca57"
+      "key": "4be3c",
+      "songName": "Mark 'oh - Words",
+      "hash": "60be7c09b81590343b4194ca32b718634329cb2a",
+      "levelid": "custom_level_60be7c09b81590343b4194ca32b718634329cb2a"
     },
     {
-      "key": "4bddd",
-      "songName": "【哈基米FM】啊↑~~~(原曲：おはなばたけ (花田))",
-      "hash": "b6f4c7bb18db55677e28260c5605e766d9adb6c3",
-      "levelid": "custom_level_b6f4c7bb18db55677e28260c5605e766d9adb6c3"
+      "key": "4be31",
+      "songName": "Stormrage riff",
+      "hash": "dbc002fd727e7d481e929db3dfb01279171a23ce",
+      "levelid": "custom_level_dbc002fd727e7d481e929db3dfb01279171a23ce"
     },
     {
-      "key": "4bddc",
-      "songName": "Caught In Time, So Far Away",
-      "hash": "3fd4772d9b8101fdf3090b2969be60580c287e30",
-      "levelid": "custom_level_3fd4772d9b8101fdf3090b2969be60580c287e30"
+      "key": "4be30",
+      "songName": "Tokyo Machine, Guy Arthur-Stitches",
+      "hash": "361f3ee0014be3109acc78e9324822413a11197c",
+      "levelid": "custom_level_361f3ee0014be3109acc78e9324822413a11197c"
     },
     {
-      "key": "4bdda",
-      "songName": "huh",
-      "hash": "87be65b3bb34d23d31269b6fc74753881a58e224",
-      "levelid": "custom_level_87be65b3bb34d23d31269b6fc74753881a58e224"
+      "key": "4be2f",
+      "songName": "記憶を求めて(OCTOPATH TRAVELER 2)",
+      "hash": "ee91d644de04f8daed01d603105b39425ff4b290",
+      "levelid": "custom_level_ee91d644de04f8daed01d603105b39425ff4b290"
     },
     {
-      "key": "4bdd9",
-      "songName": "i hope this song pisses you off",
-      "hash": "57687b5151ea69211aed017748725ca83d49aa96",
-      "levelid": "custom_level_57687b5151ea69211aed017748725ca83d49aa96"
+      "key": "4be2d",
+      "songName": " Lieless - 911",
+      "hash": "496c0977db44125b07590ead2ceb672d56a29866",
+      "levelid": "custom_level_496c0977db44125b07590ead2ceb672d56a29866"
     },
     {
-      "key": "4bdd5",
-      "songName": "Kenshi Yonezu - IRIS OUT",
-      "hash": "0e303ac5900a30b7d001ed7661c08e353bba755f",
-      "levelid": "custom_level_0e303ac5900a30b7d001ed7661c08e353bba755f"
+      "key": "4be28",
+      "songName": "momone - the dearest person i've ever met [HYPERFLIP OVERTURE]",
+      "hash": "19579a14543f880a7eb7a0c53eb7d5d09615cf12",
+      "levelid": "custom_level_19579a14543f880a7eb7a0c53eb7d5d09615cf12"
     },
     {
-      "key": "4bdd2",
-      "songName": "dj toenail back on the grind #music #xqc #flstudio #producer",
-      "hash": "53ec5ee62c5aefb65e9c743394902b775ed7ab8c",
-      "levelid": "custom_level_53ec5ee62c5aefb65e9c743394902b775ed7ab8c"
+      "key": "4be27",
+      "songName": "Aphasia",
+      "hash": "1a9786d2faba7a1b93e95fcd87e84fb62f908c9a",
+      "levelid": "custom_level_1a9786d2faba7a1b93e95fcd87e84fb62f908c9a"
     },
     {
-      "key": "4bdd1",
-      "songName": "НАУЧИ ПЛОХОМУ",
-      "hash": "4910b7397a9620d7b4cee86777bb12a49ad79a52",
-      "levelid": "custom_level_4910b7397a9620d7b4cee86777bb12a49ad79a52"
+      "key": "4be25",
+      "songName": "Super Mario Odyssey - Jump Up, Super Star!",
+      "hash": "e468dffc122e2d3e30c7b7f0ae2ef679271acedb",
+      "levelid": "custom_level_e468dffc122e2d3e30c7b7f0ae2ef679271acedb"
     },
     {
-      "key": "4bdd0",
-      "songName": "Jamal Smith - Whack",
-      "hash": "62c26e51243fd74d304f0d0d9654b3019d8dd86b",
-      "levelid": "custom_level_62c26e51243fd74d304f0d0d9654b3019d8dd86b"
+      "key": "4be24",
+      "songName": "SUPER BEATSABER INCEPTION",
+      "hash": "2988fde1ca52952df154de5b21f94c1cef836239",
+      "levelid": "custom_level_2988fde1ca52952df154de5b21f94c1cef836239"
     },
     {
-      "key": "4bdcf",
-      "songName": "Modern Day Miracle - Falling In A Dream",
-      "hash": "b61c2adbbacdbe16b34c5471b84dbed37c8cd215",
-      "levelid": "custom_level_b61c2adbbacdbe16b34c5471b84dbed37c8cd215"
+      "key": "4be22",
+      "songName": "undercover martyn",
+      "hash": "325f285586883ad7fe42e6b73a97a5cf321fc823",
+      "levelid": "custom_level_325f285586883ad7fe42e6b73a97a5cf321fc823"
     },
     {
-      "key": "4bdcc",
-      "songName": "Diabarha - At Night (full version) [1A - The Train]",
-      "hash": "b883ddeadffd45843674058a62ad27d7ea367bc2",
-      "levelid": "custom_level_b883ddeadffd45843674058a62ad27d7ea367bc2"
+      "key": "4be21",
+      "songName": "HYPER4ID (cut ver.) - t+pazolite",
+      "hash": "c1ea4d5b05104a368f3424bf08a584f7083ff865",
+      "levelid": "custom_level_c1ea4d5b05104a368f3424bf08a584f7083ff865"
     },
     {
-      "key": "4bdcb",
-      "songName": "Diabarha - At Night (full version) [14A - At the Bottom Stars]",
-      "hash": "2fd4c4ac60eb57d726346fedc39c3a282fad2487",
-      "levelid": "custom_level_2fd4c4ac60eb57d726346fedc39c3a282fad2487"
+      "key": "4be20",
+      "songName": "21st century but is a challenge map ahh ",
+      "hash": "18d038abdc198ac25155fe5ca6369376091bf3d4",
+      "levelid": "custom_level_18d038abdc198ac25155fe5ca6369376091bf3d4"
     },
     {
-      "key": "4bdca",
-      "songName": "WHERE IS MY HUSBAND!",
-      "hash": "cbc7ff22c6db693b9a3a90874b2903ff178e0143",
-      "levelid": "custom_level_cbc7ff22c6db693b9a3a90874b2903ff178e0143"
+      "key": "4be1f",
+      "songName": "FALL FROM THE SKY",
+      "hash": "0d76ee0b7b0f2500e3a0eb683a2fe5f765f866ba",
+      "levelid": "custom_level_0d76ee0b7b0f2500e3a0eb683a2fe5f765f866ba"
     },
     {
-      "key": "4bdc9",
-      "songName": "Diabarha - At Night (full version) [14B - Everywhere and Anytime]",
-      "hash": "5ac6498dc1358e7858430dffdba84c22b4188912",
-      "levelid": "custom_level_5ac6498dc1358e7858430dffdba84c22b4188912"
+      "key": "4be1e",
+      "songName": "Welcome to Baldi’s Basics",
+      "hash": "763e90af8ba5472b742019f76f75527f83355077",
+      "levelid": "custom_level_763e90af8ba5472b742019f76f75527f83355077"
     },
     {
-      "key": "4bdc7",
-      "songName": "Diabarha - At Night (full version) [3B - Surrounded by Unknown]",
-      "hash": "930327084611c2ee651ff22dd2bbf685b94da25d",
-      "levelid": "custom_level_930327084611c2ee651ff22dd2bbf685b94da25d"
+      "key": "4be1a",
+      "songName": "DONT TALK TO ME!!",
+      "hash": "4a2fd5f3e8c7b21890e8811c5f38441a2362d598",
+      "levelid": "custom_level_4a2fd5f3e8c7b21890e8811c5f38441a2362d598"
     },
     {
-      "key": "4bdc5",
-      "songName": "Diabarha - At Night (full version) [6A - Room]",
-      "hash": "33a3fada4aef8a1b8afd5766747245413330662a",
-      "levelid": "custom_level_33a3fada4aef8a1b8afd5766747245413330662a"
+      "key": "4be16",
+      "songName": "Neon Moon",
+      "hash": "bac30700d9332758fde44e3760d94e94ae0f9f2e",
+      "levelid": "custom_level_bac30700d9332758fde44e3760d94e94ae0f9f2e"
     },
     {
-      "key": "4bdc4",
-      "songName": "Diabarha - At Night (full version) [1B - Right Decision]",
-      "hash": "bf18bedd159b126f2096fb5a7e53ee4cca398468",
-      "levelid": "custom_level_bf18bedd159b126f2096fb5a7e53ee4cca398468"
+      "key": "4be15",
+      "songName": "ULTRA FM #voiceacting #ultrakill",
+      "hash": "58b47ec854af136ce12b427ee9deec689fce7229",
+      "levelid": "custom_level_58b47ec854af136ce12b427ee9deec689fce7229"
     },
     {
-      "key": "4bdc2",
-      "songName": "Diabarha - At Night (full version) [14C - Your Majesty]",
-      "hash": "8788a63b2e66410c34b0a06841cdb281ff6ed7c1",
-      "levelid": "custom_level_8788a63b2e66410c34b0a06841cdb281ff6ed7c1"
+      "key": "4be12",
+      "songName": "Anime Kei - Many Nights [Itachi's theme]",
+      "hash": "9ac276c7d548d12559ab9131a4e4c3d6024d30cb",
+      "levelid": "custom_level_9ac276c7d548d12559ab9131a4e4c3d6024d30cb"
     },
     {
-      "key": "4bdb3",
-      "songName": "[GD Mash Pack II] Camellia - Backbeat Revenge ",
-      "hash": "2c9dcec9f36cb68e21ee4b3caac9d948a2515431",
-      "levelid": "custom_level_2c9dcec9f36cb68e21ee4b3caac9d948a2515431"
+      "key": "4bda5",
+      "songName": "MIMI - 痛いの痛いの飛んでいけっ[feat. saewool]",
+      "hash": "324440ce8875c1ca3a688995962df10e5df4f1d8",
+      "levelid": "custom_level_324440ce8875c1ca3a688995962df10e5df4f1d8"
     },
     {
-      "key": "4bdab",
-      "songName": "CS4W - Ex-ris (Chroma)",
-      "hash": "a102b38fedb671d6d799a5cc01032690ad538556",
-      "levelid": "custom_level_a102b38fedb671d6d799a5cc01032690ad538556"
+      "key": "4bd1a",
+      "songName": "THOT SQUAD - POUND CAKE",
+      "hash": "0494777d41423fc1079f7f5ac47d105356a55aea",
+      "levelid": "custom_level_0494777d41423fc1079f7f5ac47d105356a55aea"
     },
     {
-      "key": "4b84c",
-      "songName": "UNIS - Watchu Need",
-      "hash": "7b52094d9e7b57687e23b14515d6dde5269efecc",
-      "levelid": "custom_level_7b52094d9e7b57687e23b14515d6dde5269efecc"
+      "key": "4b84b",
+      "songName": "UNIS - See you in my dream",
+      "hash": "a20ab06885254cb8e2141adbf2de31f6fb7f3ff7",
+      "levelid": "custom_level_a20ab06885254cb8e2141adbf2de31f6fb7f3ff7"
     },
     {
-      "key": "4bda8",
-      "songName": "XH - kawaii speedcore 654 [UNNERFED]",
-      "hash": "313d23ec8a7f0591f100572a82b54115b8334484",
-      "levelid": "custom_level_313d23ec8a7f0591f100572a82b54115b8334484"
+      "key": "4be0c",
+      "songName": "Sanrio - あの子はキティ",
+      "hash": "95ad3894e24a39fbb26f41e6a3787134075a75bd",
+      "levelid": "custom_level_95ad3894e24a39fbb26f41e6a3787134075a75bd"
     },
     {
-      "key": "4bda0",
-      "songName": "kirk",
-      "hash": "d924ee18249eb9cf8d534698870cbf1c5e397e74",
-      "levelid": "custom_level_d924ee18249eb9cf8d534698870cbf1c5e397e74"
+      "key": "4be0b",
+      "songName": "I'm Good (Blue)_Shoulder_ROM",
+      "hash": "54ca53b60f4f5e95dcbcc50e04b5b300e7979a8a",
+      "levelid": "custom_level_54ca53b60f4f5e95dcbcc50e04b5b300e7979a8a"
     },
     {
-      "key": "4bd9f",
-      "songName": "琴葉 茜 - サワーチェリーが輝いたから",
-      "hash": "1cc22e3c0c709cb6e0a9ce40fbe5cfa6aa899020",
-      "levelid": "custom_level_1cc22e3c0c709cb6e0a9ce40fbe5cfa6aa899020"
-    },
-    {
-      "key": "4bd9e",
-      "songName": "HATSUBOSHI GAKUEN - Hakusen",
-      "hash": "bf156eafd9766affbfd36aea0b0ca85075b94b2c",
-      "levelid": "custom_level_bf156eafd9766affbfd36aea0b0ca85075b94b2c"
+      "key": "4be0a",
+      "songName": "U96 - A Night to Remember",
+      "hash": "ccfec8d706a79acf2e06438472f15b0a32ff5e17",
+      "levelid": "custom_level_ccfec8d706a79acf2e06438472f15b0a32ff5e17"
     }
   ],
   "image": ""
