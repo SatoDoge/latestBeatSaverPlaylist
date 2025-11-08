@@ -1,220 +1,280 @@
 {
-  "playlistTitle": "2025-11-06T15:18:48.791Z~2025-11-07T15:18:48.791Z",
+  "playlistTitle": "2025-11-07T15:18:48.067Z~2025-11-08T15:18:48.067Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-11-06T15:18:48.791Z and 2025-11-07T15:18:48.791Z",
+  "discripstion": "Maps published between 2025-11-07T15:18:48.067Z and 2025-11-08T15:18:48.067Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4beb0",
-      "songName": "Oh My Little Baby Boy - Babe",
-      "hash": "bc4fa2f9897affcf18420d2640004b3cc227afd6",
-      "levelid": "custom_level_bc4fa2f9897affcf18420d2640004b3cc227afd6"
+      "key": "4bf22",
+      "songName": "ちっちゃな私",
+      "hash": "ce58f9a4c4417240217491a74501e9928a675818",
+      "levelid": "custom_level_ce58f9a4c4417240217491a74501e9928a675818"
     },
     {
-      "key": "4beaf",
-      "songName": "Blossom of Ashes - Ludicin",
-      "hash": "a867ee4be398d3eec56ce26dc8741b84c368adbd",
-      "levelid": "custom_level_a867ee4be398d3eec56ce26dc8741b84c368adbd"
+      "key": "4bf1f",
+      "songName": "TriSync Diss",
+      "hash": "28a8997afc092c9d1d6ec407af1aae6bbbe9556c",
+      "levelid": "custom_level_28a8997afc092c9d1d6ec407af1aae6bbbe9556c"
     },
     {
-      "key": "4bea8",
-      "songName": " [Eurovision 2025 Pack] ICH KOMME - Erika Vikman",
-      "hash": "9a49610373cef414762a963e9daf4016c342ae07",
-      "levelid": "custom_level_9a49610373cef414762a963e9daf4016c342ae07"
+      "key": "4bf1e",
+      "songName": "[Eurovision 2025 Pack] [V3] Abor & Tynna - Baller ",
+      "hash": "8929811f12e3e1af120289f9dad550842ebf80f7",
+      "levelid": "custom_level_8929811f12e3e1af120289f9dad550842ebf80f7"
     },
     {
-      "key": "4beae",
-      "songName": "Shot - Blade and Bath",
-      "hash": "2beb30464c4142bedb2950d50bfca9a5c6183636",
-      "levelid": "custom_level_2beb30464c4142bedb2950d50bfca9a5c6183636"
+      "key": "4bf1c",
+      "songName": "The \"\"\"\" Song",
+      "hash": "3c3c48e1759902bfd3f8c4e09ba370d06776248a",
+      "levelid": "custom_level_3c3c48e1759902bfd3f8c4e09ba370d06776248a"
     },
     {
-      "key": "4bead",
-      "songName": "Vanessa Carlton - A Thousand Miles (V3)",
-      "hash": "64c3eab02277a5449c10e246b44ac85cb65f06e7",
-      "levelid": "custom_level_64c3eab02277a5449c10e246b44ac85cb65f06e7"
+      "key": "4bf1b",
+      "songName": "ryo (supercell) - Melt (Cillia's V3 Cover)",
+      "hash": "4604d4c1a0d41986dc3a3bc6da06b09e24b4d451",
+      "levelid": "custom_level_4604d4c1a0d41986dc3a3bc6da06b09e24b4d451"
     },
     {
-      "key": "4b303",
-      "songName": "Soichi Terada - Mount Amazing 2 [サルゲッチュ3/Ape Escape 3]",
-      "hash": "20b4b34043409caabec3643fdc76d46d88283882",
-      "levelid": "custom_level_20b4b34043409caabec3643fdc76d46d88283882"
+      "key": "4bf17",
+      "songName": "sister - venturing",
+      "hash": "8117ccbaed4dc7f86e7c0e542364f8445f274fb2",
+      "levelid": "custom_level_8117ccbaed4dc7f86e7c0e542364f8445f274fb2"
     },
     {
-      "key": "4bea4",
-      "songName": "Sanxion7 - Gargoyle (2009 Remaster) (Fitbeat)",
-      "hash": "763e549dd45e0065806922fdcc31266f9812b4ae",
-      "levelid": "custom_level_763e549dd45e0065806922fdcc31266f9812b4ae"
+      "key": "4bf16",
+      "songName": "Mo Falk - Deeper",
+      "hash": "78f233d6393cfe2d852bbf049a469e323d3c5f42",
+      "levelid": "custom_level_78f233d6393cfe2d852bbf049a469e323d3c5f42"
     },
     {
-      "key": "4b85e",
-      "songName": "夢の狩人 (Yume no kariudo)",
-      "hash": "b8da67715051614baa4353603560684c826c2d2d",
-      "levelid": "custom_level_b8da67715051614baa4353603560684c826c2d2d"
+      "key": "4bf15",
+      "songName": "Basement Castration - Fucked Beyond Recognition",
+      "hash": "6cf461dc62abace4d0d2c9d3d846c2e854b9d151",
+      "levelid": "custom_level_6cf461dc62abace4d0d2c9d3d846c2e854b9d151"
     },
     {
-      "key": "4a505",
-      "songName": "[Eurovision 2025 Pack] KAJ - Bara Bada Bastu",
-      "hash": "dda9a7764e0f835ae5c6574d89e21d77015ad532",
-      "levelid": "custom_level_dda9a7764e0f835ae5c6574d89e21d77015ad532"
+      "key": "4bf14",
+      "songName": "Dead or Alive - You Spin Me Round (Like a Record)",
+      "hash": "46d460d0800f623b5865ac25f3a3d99d6b7748fc",
+      "levelid": "custom_level_46d460d0800f623b5865ac25f3a3d99d6b7748fc"
     },
     {
-      "key": "4be71",
-      "songName": "[Eurovision 2025 Pack] Justyna Steczkowska - Gaja",
-      "hash": "d2645dde954f7d0ef1aba67001af7f453f6237d6",
-      "levelid": "custom_level_d2645dde954f7d0ef1aba67001af7f453f6237d6"
+      "key": "4bf13",
+      "songName": "BABYMETAL - Distortion",
+      "hash": "0e7c28c7d44c25aef98512ea580878caa5dc9cd0",
+      "levelid": "custom_level_0e7c28c7d44c25aef98512ea580878caa5dc9cd0"
     },
     {
-      "key": "4bea2",
-      "songName": "greyscale",
-      "hash": "1e403a7bc1adc1e234d0b63ff9a356262c3bdf46",
-      "levelid": "custom_level_1e403a7bc1adc1e234d0b63ff9a356262c3bdf46"
+      "key": "4bf11",
+      "songName": "Chiharu Kaneko vs. t+pazolite - UROSOUSETSU (雨露霜雪)",
+      "hash": "80b8b5a166de539ea052d7892f2fe66614ad84ba",
+      "levelid": "custom_level_80b8b5a166de539ea052d7892f2fe66614ad84ba"
     },
     {
-      "key": "4bea0",
-      "songName": "Fortnite Better Give Me My Kids Back - Fgteev",
-      "hash": "d2654d082dcf1ab5770d469128d3dc903a52e536",
-      "levelid": "custom_level_d2654d082dcf1ab5770d469128d3dc903a52e536"
+      "key": "4bf10",
+      "songName": "Xtrullor and Panda Party - Sheol (Fitbeat Cut) (Fitbeat Map)",
+      "hash": "4a09cbcc3523fe995e2b18856920775aba1ed7ac",
+      "levelid": "custom_level_4a09cbcc3523fe995e2b18856920775aba1ed7ac"
     },
     {
-      "key": "4be9a",
-      "songName": "Celtic Music 2018 - The Trees Say -",
-      "hash": "3458c346fab79b3c633b147e7d0c8f6c3fe09ae8",
-      "levelid": "custom_level_3458c346fab79b3c633b147e7d0c8f6c3fe09ae8"
+      "key": "4bf0e",
+      "songName": "Rave Teacher [NCS Released]",
+      "hash": "bc328e8f1dde61620901142f9fd5451bd3755622",
+      "levelid": "custom_level_bc328e8f1dde61620901142f9fd5451bd3755622"
     },
     {
-      "key": "4be98",
-      "songName": "Kobaryo - NEUTRON SANDBOX",
-      "hash": "92004ce1a441ec750081237588cbc44dd5142cbc",
-      "levelid": "custom_level_92004ce1a441ec750081237588cbc44dd5142cbc"
+      "key": "4bf0d",
+      "songName": "Affinity - Y2Z (Fitbeat Map)",
+      "hash": "ab8466b5a3d85f6e74f9d7513c43f3ba1b4bc255",
+      "levelid": "custom_level_ab8466b5a3d85f6e74f9d7513c43f3ba1b4bc255"
     },
     {
-      "key": "4be95",
-      "songName": "underscores - Do It",
-      "hash": "7c99edf0337c1fdbf9ef703d0dd0183634bb2f8c",
-      "levelid": "custom_level_7c99edf0337c1fdbf9ef703d0dd0183634bb2f8c"
+      "key": "4bf0a",
+      "songName": "Nonfiction",
+      "hash": "eafcfb5abd0056f57399527e6dfdc78380d09ba4",
+      "levelid": "custom_level_eafcfb5abd0056f57399527e6dfdc78380d09ba4"
     },
     {
-      "key": "4be94",
-      "songName": "Le Tour de France en Dilligence",
-      "hash": "6ddfd12049636ed6ab26eb95d5fb80be304ca4c2",
-      "levelid": "custom_level_6ddfd12049636ed6ab26eb95d5fb80be304ca4c2"
+      "key": "4bf0b",
+      "songName": "t+pazolite - RAVE-O-LUTION 456",
+      "hash": "a7fb85e10263fbab643b6520a10fb21847fb7e05",
+      "levelid": "custom_level_a7fb85e10263fbab643b6520a10fb21847fb7e05"
     },
     {
-      "key": "4be5c",
-      "songName": "07-02 逃离灰色地带-星瞳",
-      "hash": "98f62caea1c0877c92d3c53a1615398799adc17e",
-      "levelid": "custom_level_98f62caea1c0877c92d3c53a1615398799adc17e"
+      "key": "4bf06",
+      "songName": "Arctic Monkeys - 505",
+      "hash": "c267563a3d88a5b4929484504553e5cd3b329a80",
+      "levelid": "custom_level_c267563a3d88a5b4929484504553e5cd3b329a80"
     },
     {
-      "key": "4be92",
-      "songName": "End Of Line.",
-      "hash": "747a412bbe3208fecc0ff158710227d890d43037",
-      "levelid": "custom_level_747a412bbe3208fecc0ff158710227d890d43037"
+      "key": "4bf02",
+      "songName": "Powersnake - Brothers of Metal",
+      "hash": "6dc6ef4d4cc143171a4afea3341f0927c333bf3f",
+      "levelid": "custom_level_6dc6ef4d4cc143171a4afea3341f0927c333bf3f"
     },
     {
-      "key": "4be8b",
-      "songName": "Naughty Boy - La La La",
-      "hash": "45c79af8da6cae54c2442b1fdeec342dcb751635",
-      "levelid": "custom_level_45c79af8da6cae54c2442b1fdeec342dcb751635"
+      "key": "4bf01",
+      "songName": "What's The Move - Henry Fong x Knock2 (ft. General Degree)",
+      "hash": "64a88788637ed01ecfd17a7574818650bd5ee399",
+      "levelid": "custom_level_64a88788637ed01ecfd17a7574818650bd5ee399"
     },
     {
-      "key": "4be89",
-      "songName": "litmus* - Rush-Down",
-      "hash": "cc81676d4481df0cb4fb6b0a9a5289a0d8c2fcca",
-      "levelid": "custom_level_cc81676d4481df0cb4fb6b0a9a5289a0d8c2fcca"
+      "key": "4befd",
+      "songName": "Jack in the box zombie BGM(Plants vs Zombie)",
+      "hash": "f2c11ac7ae3834735e3dd23d67cf69da637b0f8b",
+      "levelid": "custom_level_f2c11ac7ae3834735e3dd23d67cf69da637b0f8b"
     },
     {
-      "key": "4be86",
-      "songName": "Laur - Vindex Tenebarum",
-      "hash": "18e3a449559607a6952475bbd4c3b294d47a0f65",
-      "levelid": "custom_level_18e3a449559607a6952475bbd4c3b294d47a0f65"
+      "key": "4beec",
+      "songName": "Isolation^3",
+      "hash": "731e715f83d510c80ad11391c6a8cb3c49ce7b8f",
+      "levelid": "custom_level_731e715f83d510c80ad11391c6a8cb3c49ce7b8f"
     },
     {
-      "key": "4be80",
-      "songName": "OMEGA - STEREO DIVE FOUNDATION [Moriarty the Patriot ED2]",
-      "hash": "e3844d9f80b7b39dd0f0f211ec1c700bf820e25e",
-      "levelid": "custom_level_e3844d9f80b7b39dd0f0f211ec1c700bf820e25e"
+      "key": "4bee9",
+      "songName": "crispy fries",
+      "hash": "793b6a1a240ee071541c2bf800c840bdb8495232",
+      "levelid": "custom_level_793b6a1a240ee071541c2bf800c840bdb8495232"
     },
     {
-      "key": "4be78",
-      "songName": "Discord Halloween 2025 Call Theme",
-      "hash": "35141db7a44791061d087ad65adb3bbb390ca149",
-      "levelid": "custom_level_35141db7a44791061d087ad65adb3bbb390ca149"
+      "key": "4bee8",
+      "songName": "What is this Diddy blud doin ( Einstein ) - teren5432",
+      "hash": "5d85c3631b529448245be71c2ec16435b3a0f947",
+      "levelid": "custom_level_5d85c3631b529448245be71c2ec16435b3a0f947"
     },
     {
-      "key": "4be77",
-      "songName": "REQUiRE - Buggin'",
-      "hash": "c48f360ca2ab487022cf8040f3f309df689c6ab5",
-      "levelid": "custom_level_c48f360ca2ab487022cf8040f3f309df689c6ab5"
+      "key": "4bee7",
+      "songName": "let the world burn",
+      "hash": "f735c10d30df98c6567af5fd6d06fa8f243e240f",
+      "levelid": "custom_level_f735c10d30df98c6567af5fd6d06fa8f243e240f"
     },
     {
-      "key": "4be76",
-      "songName": "We'll Meet Again",
-      "hash": "52358d25dc67c35e0d404426b32348c7eddb04b6",
-      "levelid": "custom_level_52358d25dc67c35e0d404426b32348c7eddb04b6"
+      "key": "4bee5",
+      "songName": "RedOgre - Extratongue",
+      "hash": "2d049eae19cd74b5ce7166e348551d68a7956579",
+      "levelid": "custom_level_2d049eae19cd74b5ce7166e348551d68a7956579"
     },
     {
-      "key": "4be75",
-      "songName": "M-Project & Signal - Party Girl",
-      "hash": "c7834b36669251c1fcf6a40c9e496bc1693303a7",
-      "levelid": "custom_level_c7834b36669251c1fcf6a40c9e496bc1693303a7"
+      "key": "4bedf",
+      "songName": "owl*tree - Paqqin",
+      "hash": "d4cbb60fc546e534d3641bbb3c3bd4e59294ec52",
+      "levelid": "custom_level_d4cbb60fc546e534d3641bbb3c3bd4e59294ec52"
     },
     {
-      "key": "4be73",
-      "songName": "lost in time",
-      "hash": "dd9f812e18b8108ab5dde8e53254a8d38b2ca463",
-      "levelid": "custom_level_dd9f812e18b8108ab5dde8e53254a8d38b2ca463"
+      "key": "4beda",
+      "songName": "Brain Power (t+pazolite remix)",
+      "hash": "dd5d8a77c860817fe2d4bbd2e618fb67e584fa6d",
+      "levelid": "custom_level_dd5d8a77c860817fe2d4bbd2e618fb67e584fa6d"
     },
     {
-      "key": "4be70",
-      "songName": "PIBBLE ",
-      "hash": "092b789481fca818f1ce71ead7f62055594cfb26",
-      "levelid": "custom_level_092b789481fca818f1ce71ead7f62055594cfb26"
+      "key": "4bed9",
+      "songName": "Freethinker",
+      "hash": "44895a0fd86036d412ec254881c149bdfa6a4f8f",
+      "levelid": "custom_level_44895a0fd86036d412ec254881c149bdfa6a4f8f"
     },
     {
-      "key": "4be6e",
-      "songName": "Camelot - Monty Python & The Holy Grail [V3 Lighting]",
-      "hash": "2ce65ce3cc684e1884a971efe642f8067deb6888",
-      "levelid": "custom_level_2ce65ce3cc684e1884a971efe642f8067deb6888"
+      "key": "4bed7",
+      "songName": "BERNELLS FIRST MAP LONELINESS ",
+      "hash": "293f7b60ee0e213e0e1e54093972c9a1ad25bc73",
+      "levelid": "custom_level_293f7b60ee0e213e0e1e54093972c9a1ad25bc73"
     },
     {
-      "key": "4be6d",
-      "songName": "Jinja Jinja aa ee aa (German Miku Parody)",
-      "hash": "5e81c095196e699db70361bcb8781d56e0305f3b",
-      "levelid": "custom_level_5e81c095196e699db70361bcb8781d56e0305f3b"
+      "key": "4bed5",
+      "songName": "Gerechtigkeit",
+      "hash": "d498cb2c14efdbcea333db8bdfc30a32a3f73cea",
+      "levelid": "custom_level_d498cb2c14efdbcea333db8bdfc30a32a3f73cea"
     },
     {
-      "key": "4be6b",
-      "songName": "(Chroma) - Bang Bang",
-      "hash": "5a49657358cbc44c18f479fb357e08f04f03e28e",
-      "levelid": "custom_level_5a49657358cbc44c18f479fb357e08f04f03e28e"
+      "key": "4bed4",
+      "songName": "up down up down 💔💔💔",
+      "hash": "f1a0e876c63d2431b8d9eb3c7dc13c31b1c49423",
+      "levelid": "custom_level_f1a0e876c63d2431b8d9eb3c7dc13c31b1c49423"
     },
     {
-      "key": "4be69",
-      "songName": "I Love Fidget Spinners",
-      "hash": "c2fdfb7dc585820f33bf90bfe491bacf230cc2ea",
-      "levelid": "custom_level_c2fdfb7dc585820f33bf90bfe491bacf230cc2ea"
+      "key": "4bed0",
+      "songName": "[Feetsaber]不屈のファンファーレ",
+      "hash": "71b58c223eb34eddc65238cba62503309a865f03",
+      "levelid": "custom_level_71b58c223eb34eddc65238cba62503309a865f03"
     },
     {
-      "key": "4be29",
-      "songName": "SUNMI - CYNICAL",
-      "hash": "3edd9b0a4310f4a48e0b3da8c12b0fb108d7bfe3",
-      "levelid": "custom_level_3edd9b0a4310f4a48e0b3da8c12b0fb108d7bfe3"
+      "key": "4becf",
+      "songName": "impossible",
+      "hash": "1b2c846d71fefa59dd5ef70562810fd76e836989",
+      "levelid": "custom_level_1b2c846d71fefa59dd5ef70562810fd76e836989"
     },
     {
-      "key": "4be60",
-      "songName": "LET THE WORLD BURN (hoodtrap)",
-      "hash": "a26e4588b651f0cbba653cd4a7b983a935f2f8b5",
-      "levelid": "custom_level_a26e4588b651f0cbba653cd4a7b983a935f2f8b5"
+      "key": "4bece",
+      "songName": "James Marriott - Don't Blame Me",
+      "hash": "2c99b7319d39e55b941189a637c04fb8c605b209",
+      "levelid": "custom_level_2c99b7319d39e55b941189a637c04fb8c605b209"
     },
     {
-      "key": "4be5e",
-      "songName": "Soda pop - Kpop Demon hunters",
-      "hash": "bd4eb4e885a3b055d7b7eacdd61882946e39e0c4",
-      "levelid": "custom_level_bd4eb4e885a3b055d7b7eacdd61882946e39e0c4"
+      "key": "4becd",
+      "songName": "Slash Inferno",
+      "hash": "12e11b59743914beb58c133e562e48995f4c1d2a",
+      "levelid": "custom_level_12e11b59743914beb58c133e562e48995f4c1d2a"
+    },
+    {
+      "key": "4beca",
+      "songName": "Diabarha - At Night (full version) [12A - Scarcity]",
+      "hash": "625c557f96ac746d3a7108ea05d26173a57c1736",
+      "levelid": "custom_level_625c557f96ac746d3a7108ea05d26173a57c1736"
+    },
+    {
+      "key": "4bec8",
+      "songName": "Joji - Ew",
+      "hash": "3d4d08b1ec9efac7a95492345d355c6542f9b7b1",
+      "levelid": "custom_level_3d4d08b1ec9efac7a95492345d355c6542f9b7b1"
+    },
+    {
+      "key": "4bec3",
+      "songName": "Terrible Map Name",
+      "hash": "594c361dee8576ad8015e26a7d686238dfea3f86",
+      "levelid": "custom_level_594c361dee8576ad8015e26a7d686238dfea3f86"
+    },
+    {
+      "key": "4bebf",
+      "songName": "Laur - Toxic Graffiti",
+      "hash": "99b12921cb8a241f618c622203c08c00571b739f",
+      "levelid": "custom_level_99b12921cb8a241f618c622203c08c00571b739f"
+    },
+    {
+      "key": "4bebe",
+      "songName": "Miles Away",
+      "hash": "22ccd3b126f9a8df0cbe4175a5c81e747aa39161",
+      "levelid": "custom_level_22ccd3b126f9a8df0cbe4175a5c81e747aa39161"
+    },
+    {
+      "key": "4b910",
+      "songName": "NMIXX - Game Face",
+      "hash": "f87f761e14fed4ba2b3c4347fad28633140eb5dd",
+      "levelid": "custom_level_f87f761e14fed4ba2b3c4347fad28633140eb5dd"
+    },
+    {
+      "key": "4bd97",
+      "songName": "ハイホーホー - harha",
+      "hash": "16e12a3aa0dc1e2433723b1a5d35842c70c3541a",
+      "levelid": "custom_level_16e12a3aa0dc1e2433723b1a5d35842c70c3541a"
+    },
+    {
+      "key": "4bebb",
+      "songName": "Karma Police - Radiohead (Chroma+)",
+      "hash": "e1d15e63b8474b0267858b40bdc4f9b7f6f0fb65",
+      "levelid": "custom_level_e1d15e63b8474b0267858b40bdc4f9b7f6f0fb65"
+    },
+    {
+      "key": "4beb9",
+      "songName": "Asuka Ota and Ryo Nagamatsu - Wario's Gold Mine (Mario Kart Wii) (JP Ver.)",
+      "hash": "70afcd16a0531293380e8aaf7192405929effa74",
+      "levelid": "custom_level_70afcd16a0531293380e8aaf7192405929effa74"
+    },
+    {
+      "key": "4beb4",
+      "songName": "03-09 森林之子中文版-为星瞳而配",
+      "hash": "9bb44ee5c71c4a1b252b192f50cb06bd6174d0a9",
+      "levelid": "custom_level_9bb44ee5c71c4a1b252b192f50cb06bd6174d0a9"
     }
   ],
   "image": ""
