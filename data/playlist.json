@@ -1,268 +1,256 @@
 {
-  "playlistTitle": "2025-11-17T15:18:48.825Z~2025-11-18T15:18:48.825Z",
+  "playlistTitle": "2025-11-18T15:18:48.166Z~2025-11-19T15:18:48.166Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-11-17T15:18:48.825Z and 2025-11-18T15:18:48.825Z",
+  "discripstion": "Maps published between 2025-11-18T15:18:48.166Z and 2025-11-19T15:18:48.166Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4c3f4",
-      "songName": "Ano Hi No Mama No Bokura",
-      "hash": "86aab1b3d62e87feebe272defdbdf187ebab41b5",
-      "levelid": "custom_level_86aab1b3d62e87feebe272defdbdf187ebab41b5"
+      "key": "4c465",
+      "songName": "wow",
+      "hash": "91fe5d631d84356f2d7ec42ba659b56ed30cbaae",
+      "levelid": "custom_level_91fe5d631d84356f2d7ec42ba659b56ed30cbaae"
     },
     {
-      "key": "481cf",
-      "songName": "Chubby Checker - Lets Twist Again (1961)",
-      "hash": "da061213c1351a06688e61218fd1c55e91139420",
-      "levelid": "custom_level_da061213c1351a06688e61218fd1c55e91139420"
+      "key": "4c464",
+      "songName": "WHISKEY RAIN",
+      "hash": "b3866daacf1943eed23fbc779ec47391f0181642",
+      "levelid": "custom_level_b3866daacf1943eed23fbc779ec47391f0181642"
     },
     {
-      "key": "4c3f3",
-      "songName": "[GD Mash Pack II] six impala - the city with no wind",
-      "hash": "0a8a47e6c39155d3d849450b310f5bd017a80572",
-      "levelid": "custom_level_0a8a47e6c39155d3d849450b310f5bd017a80572"
+      "key": "4c432",
+      "songName": "TANZNEID - Electric Callboy (Fitbeat)",
+      "hash": "895be2cc3e518f1fc14c395b58016a127f94bab4",
+      "levelid": "custom_level_895be2cc3e518f1fc14c395b58016a127f94bab4"
     },
     {
-      "key": "4c3f2",
+      "key": "4c462",
+      "songName": "Da Mama ",
+      "hash": "45aa9a06465ccfd0f8d596d3526fa2736bfca2f1",
+      "levelid": "custom_level_45aa9a06465ccfd0f8d596d3526fa2736bfca2f1"
+    },
+    {
+      "key": "4c45d",
+      "songName": "Caravan Palace - Mirrors",
+      "hash": "d4146ebd0ec64c1bff85d40fb15fc03dad93ee43",
+      "levelid": "custom_level_d4146ebd0ec64c1bff85d40fb15fc03dad93ee43"
+    },
+    {
+      "key": "4c461",
+      "songName": "Wall - Good Kid",
+      "hash": "0171bfb711ff39cc8faf46368b1316f2bdb803b7",
+      "levelid": "custom_level_0171bfb711ff39cc8faf46368b1316f2bdb803b7"
+    },
+    {
+      "key": "4c45f",
+      "songName": "Kikai No Tsubasa",
+      "hash": "a685d14e3e11e130a8849955c133d89eeb84661e",
+      "levelid": "custom_level_a685d14e3e11e130a8849955c133d89eeb84661e"
+    },
+    {
+      "key": "4c460",
+      "songName": "八嘎（バカ）FUNK",
+      "hash": "0750b81cd1e7a8e51097a853601661e2dca339c1",
+      "levelid": "custom_level_0750b81cd1e7a8e51097a853601661e2dca339c1"
+    },
+    {
+      "key": "4c45e",
+      "songName": "Promiscuous",
+      "hash": "fc29d295fc0b5a84e0635ec9a9b1ca53008bd649",
+      "levelid": "custom_level_fc29d295fc0b5a84e0635ec9a9b1ca53008bd649"
+    },
+    {
+      "key": "4c456",
+      "songName": "loser monologue",
+      "hash": "1de5e5ede1991569186fcac0fd07575d36337d03",
+      "levelid": "custom_level_1de5e5ede1991569186fcac0fd07575d36337d03"
+    },
+    {
+      "key": "4c454",
+      "songName": "Camellia - False Amber",
+      "hash": "09b83720b379cd6dd7a59f43418661352c02614c",
+      "levelid": "custom_level_09b83720b379cd6dd7a59f43418661352c02614c"
+    },
+    {
+      "key": "4c452",
+      "songName": "ta1lsd016",
+      "hash": "457d7264bbe468aa7e52c0c966629f48fce150b2",
+      "levelid": "custom_level_457d7264bbe468aa7e52c0c966629f48fce150b2"
+    },
+    {
+      "key": "4c450",
+      "songName": "six impala - !¡! find the answer ¡!¡",
+      "hash": "6bc1d4c1a445317cdd51170e202956c3ac3988ee",
+      "levelid": "custom_level_6bc1d4c1a445317cdd51170e202956c3ac3988ee"
+    },
+    {
+      "key": "4c44f",
+      "songName": "You Got This - Skindred",
+      "hash": "3972b528d40606ebb7f217ff1a34c43094e38736",
+      "levelid": "custom_level_3972b528d40606ebb7f217ff1a34c43094e38736"
+    },
+    {
+      "key": "4c44c",
+      "songName": "Sin So Sweet",
+      "hash": "9e6f75ad3f2ae9a1aac329ccbe0135e6f1f9c1c9",
+      "levelid": "custom_level_9e6f75ad3f2ae9a1aac329ccbe0135e6f1f9c1c9"
+    },
+    {
+      "key": "4c44b",
+      "songName": "-Drake - One Dance Wizkid & Kyla-",
+      "hash": "983b5597d46538f2b1d94ffaa36c9c61eec865d7",
+      "levelid": "custom_level_983b5597d46538f2b1d94ffaa36c9c61eec865d7"
+    },
+    {
+      "key": "4c44a",
+      "songName": "Ryu✰ - CRITICAL LINE",
+      "hash": "45550364819252ea3c568ca9067c802afa82ebcc",
+      "levelid": "custom_level_45550364819252ea3c568ca9067c802afa82ebcc"
+    },
+    {
+      "key": "4c448",
+      "songName": "Turn Me On",
+      "hash": "466ead44ab81318def693b7de73d2248bfe927fb",
+      "levelid": "custom_level_466ead44ab81318def693b7de73d2248bfe927fb"
+    },
+    {
+      "key": "4c447",
+      "songName": "Extra Terra- Alternate Universe",
+      "hash": "00c5488098e14de7c4b352ae3d191b9ed6b1fe16",
+      "levelid": "custom_level_00c5488098e14de7c4b352ae3d191b9ed6b1fe16"
+    },
+    {
+      "key": "4c446",
+      "songName": "Woof Logik - NUKE (Nightcore Mix)",
+      "hash": "57e045728f627967a7fe5cfa1520f1b7052bce8f",
+      "levelid": "custom_level_57e045728f627967a7fe5cfa1520f1b7052bce8f"
+    },
+    {
+      "key": "4c445",
+      "songName": "results.ogg",
+      "hash": "8c0d350363925f532fcdb5e9000c7f443421fe96",
+      "levelid": "custom_level_8c0d350363925f532fcdb5e9000c7f443421fe96"
+    },
+    {
+      "key": "4c43b",
+      "songName": " PILOT - Tyler, The Creator",
+      "hash": "c86754f7daf3c63856f670acc383aa78296fbb8e",
+      "levelid": "custom_level_c86754f7daf3c63856f670acc383aa78296fbb8e"
+    },
+    {
+      "key": "4c435",
+      "songName": "Mice On Venus",
+      "hash": "2a10fd54800750d90a9afe8c2e3082a1560258a1",
+      "levelid": "custom_level_2a10fd54800750d90a9afe8c2e3082a1560258a1"
+    },
+    {
+      "key": "4c433",
+      "songName": "Cycle",
+      "hash": "7d91c279a5ad289730541dcf3006ad5d54c676af",
+      "levelid": "custom_level_7d91c279a5ad289730541dcf3006ad5d54c676af"
+    },
+    {
+      "key": "4c430",
+      "songName": "Dancing with your eyes closed",
+      "hash": "ab6f765289a34a5b746ca1db70821d358376d764",
+      "levelid": "custom_level_ab6f765289a34a5b746ca1db70821d358376d764"
+    },
+    {
+      "key": "4c42d",
       "songName": "1&Only - Xlov",
-      "hash": "c59d825086a359e64b1bff8e3c46dca981c304ce",
-      "levelid": "custom_level_c59d825086a359e64b1bff8e3c46dca981c304ce"
+      "hash": "5c2bcbd0115aca2222bff56a946fba52443ad250",
+      "levelid": "custom_level_5c2bcbd0115aca2222bff56a946fba52443ad250"
     },
     {
-      "key": "4c3f0",
-      "songName": "Evacuate The Moshpit",
-      "hash": "e185bcda9b2ca99fb20aa1cc7503d4ddb250ad0d",
-      "levelid": "custom_level_e185bcda9b2ca99fb20aa1cc7503d4ddb250ad0d"
+      "key": "4c422",
+      "songName": "MONTAGEM VE VE",
+      "hash": "be452d835a52682f4952ec4d0ce14a068e72ff2e",
+      "levelid": "custom_level_be452d835a52682f4952ec4d0ce14a068e72ff2e"
     },
     {
-      "key": "4c3ef",
-      "songName": " 42 but i got 42 hoes",
-      "hash": "b51f4b2d2333de03c2b1274a436ae51c09e35057",
-      "levelid": "custom_level_b51f4b2d2333de03c2b1274a436ae51c09e35057"
+      "key": "4c420",
+      "songName": "THE GREAT COMEBACK",
+      "hash": "b82de0ea262ec4fb61c99b3d99a3b305cdda4e13",
+      "levelid": "custom_level_b82de0ea262ec4fb61c99b3d99a3b305cdda4e13"
     },
     {
-      "key": "4c3ee",
-      "songName": "Easy - Hazbin Hotel",
-      "hash": "888f7d0ca4cba484e13b640e2b194838d5e8907b",
-      "levelid": "custom_level_888f7d0ca4cba484e13b640e2b194838d5e8907b"
+      "key": "4c41b",
+      "songName": "Yuta Imai & rejection - TWISTED FATE (feat. rejection)",
+      "hash": "8957b9f26e7128e7198a75cb4ecefed02934c8db",
+      "levelid": "custom_level_8957b9f26e7128e7198a75cb4ecefed02934c8db"
     },
     {
-      "key": "4c3e7",
-      "songName": "Eminem X Evanescence - Kill My Pain",
-      "hash": "18f988b8886eb7a59f14cbc5e456123b7777e59a",
-      "levelid": "custom_level_18f988b8886eb7a59f14cbc5e456123b7777e59a"
+      "key": "4c419",
+      "songName": "Beethoven - Moonlight Sonata (2017 Meganeko Remix)",
+      "hash": "cb263bb10c1fc2b17f9359235b7e6302b3ae9579",
+      "levelid": "custom_level_cb263bb10c1fc2b17f9359235b7e6302b3ae9579"
     },
     {
-      "key": "4c3df",
-      "songName": "Bassquake",
-      "hash": "9c6169c87aa548d65dd9e1b5f846ba2f3f341c4b",
-      "levelid": "custom_level_9c6169c87aa548d65dd9e1b5f846ba2f3f341c4b"
+      "key": "4c40e",
+      "songName": "AldosWorld TV - DONT WATCH SCARY DAME TU COSITA VIDEOS AT 3AM OR DAME TU COSITA.EXE WILL APPEAR!",
+      "hash": "11ecc294174f5506376eada7e2faa768f2a9e856",
+      "levelid": "custom_level_11ecc294174f5506376eada7e2faa768f2a9e856"
     },
     {
-      "key": "4c3da",
-      "songName": "Break it off - PinkPantheress",
-      "hash": "4993a7c8173420adbfc9b2c3d0f7baf4339ee065",
-      "levelid": "custom_level_4993a7c8173420adbfc9b2c3d0f7baf4339ee065"
+      "key": "4c40d",
+      "songName": "[Eurovision 2025 Pack] [V4] Sissal - Hallucination",
+      "hash": "9764236479398be59cbb720a6b16c6082863ef22",
+      "levelid": "custom_level_9764236479398be59cbb720a6b16c6082863ef22"
     },
     {
-      "key": "4c3d9",
-      "songName": "The best cheeseburger recipe",
-      "hash": "27ddc44fc78557aeadc093c78cce8c6f80d96dd4",
-      "levelid": "custom_level_27ddc44fc78557aeadc093c78cce8c6f80d96dd4"
+      "key": "4c40a",
+      "songName": "skebob v2",
+      "hash": "5610f5a5f216862d076a8dcb0f207274f7e8eff2",
+      "levelid": "custom_level_5610f5a5f216862d076a8dcb0f207274f7e8eff2"
     },
     {
-      "key": "4c3d7",
-      "songName": "妄语人间",
-      "hash": "45f706f91fc94560bd960c5bce740b124e004375",
-      "levelid": "custom_level_45f706f91fc94560bd960c5bce740b124e004375"
+      "key": "4c408",
+      "songName": "DMMA - JustmineNika",
+      "hash": "c55b95e8de828434c0f670e622cdde41f8fd019e",
+      "levelid": "custom_level_c55b95e8de828434c0f670e622cdde41f8fd019e"
     },
     {
-      "key": "4c3d6",
-      "songName": "こっち向いてほい",
-      "hash": "a4a7a0b940bc96687443e4f9ddc76acca3c11bc9",
-      "levelid": "custom_level_a4a7a0b940bc96687443e4f9ddc76acca3c11bc9"
+      "key": "4c407",
+      "songName": "Ti Phan Ma Khob Jai Jing Jing - LITTLE JOHN",
+      "hash": "dbbbde453c0055163960be075717bc96cf36e6dd",
+      "levelid": "custom_level_dbbbde453c0055163960be075717bc96cf36e6dd"
     },
     {
-      "key": "4c3d5",
-      "songName": "speedcore ha",
-      "hash": "2f05c18296afb3691c05e14f9989767bffcd1379",
-      "levelid": "custom_level_2f05c18296afb3691c05e14f9989767bffcd1379"
+      "key": "4c406",
+      "songName": "Love for you - loveli lori [UNFINISHED]",
+      "hash": "71e5c32072136dcaea25d768c861b99c732155d0",
+      "levelid": "custom_level_71e5c32072136dcaea25d768c861b99c732155d0"
     },
     {
-      "key": "4c3cf",
-      "songName": "Stagestruck",
-      "hash": "1d2bbad09a0565217577a395ed8f71fc34bc8616",
-      "levelid": "custom_level_1d2bbad09a0565217577a395ed8f71fc34bc8616"
+      "key": "4c405",
+      "songName": "Love for you - loveli lori",
+      "hash": "d1b7c2f66352479855e2bf738614b465d909601b",
+      "levelid": "custom_level_d1b7c2f66352479855e2bf738614b465d909601b"
     },
     {
-      "key": "4c3cd",
-      "songName": "Boss Baby Netflix Show Official Intro (HD) 2020",
-      "hash": "27c86f00ac1b373bb9a512c301f852d7e632fb69",
-      "levelid": "custom_level_27c86f00ac1b373bb9a512c301f852d7e632fb69"
+      "key": "4c404",
+      "songName": "OH MY PC!!!!",
+      "hash": "2d3b845f4f7fa51015fd05b2edd923e390c97eee",
+      "levelid": "custom_level_2d3b845f4f7fa51015fd05b2edd923e390c97eee"
     },
     {
-      "key": "4c3cc",
-      "songName": "piri & tommy - 99%",
-      "hash": "ad21bf711612687b669e1226c53d60ee9b554d7e",
-      "levelid": "custom_level_ad21bf711612687b669e1226c53d60ee9b554d7e"
+      "key": "4c3fd",
+      "songName": "Snakywine - Bitterbit",
+      "hash": "6cb8c6a64fe80b636e85b93c4151bab66487fab6",
+      "levelid": "custom_level_6cb8c6a64fe80b636e85b93c4151bab66487fab6"
     },
     {
-      "key": "4c3c9",
-      "songName": "Wenn jemand fragt - hab damit nichts zu tun (meme)",
-      "hash": "fa59eea17741f7065f33b350dd713416720541bb",
-      "levelid": "custom_level_fa59eea17741f7065f33b350dd713416720541bb"
+      "key": "4c1af",
+      "songName": "ICHILLIN' - ON MY LIPS",
+      "hash": "782d2b4099325d39679bf711de20465be79e3e28",
+      "levelid": "custom_level_782d2b4099325d39679bf711de20465be79e3e28"
     },
     {
-      "key": "4c3c0",
-      "songName": "glaive - cause they just like meeee",
-      "hash": "f475225648a7cbdd28493e7be386da232cb5ebaa",
-      "levelid": "custom_level_f475225648a7cbdd28493e7be386da232cb5ebaa"
-    },
-    {
-      "key": "4c3bf",
-      "songName": "Anthony Kannon - Kannon's Corner",
-      "hash": "302cd9d86a0f34aa95905ee6528e6d49acb556e9",
-      "levelid": "custom_level_302cd9d86a0f34aa95905ee6528e6d49acb556e9"
-    },
-    {
-      "key": "4c14b",
-      "songName": "t+pazolite - Tempestissimo",
-      "hash": "8fcfad24d41c653e71558a9670f34b32200f3a1c",
-      "levelid": "custom_level_8fcfad24d41c653e71558a9670f34b32200f3a1c"
-    },
-    {
-      "key": "4c3bc",
-      "songName": "Up with the birds",
-      "hash": "98b33bdd5c476ff8d0e753a324226745f7d52d81",
-      "levelid": "custom_level_98b33bdd5c476ff8d0e753a324226745f7d52d81"
-    },
-    {
-      "key": "4c3b4",
-      "songName": "[GD Mash Pack II] Fairydust - NightKilla aka Rukkus",
-      "hash": "388ff90f7615c2f811cbcddc916daa22ec748656",
-      "levelid": "custom_level_388ff90f7615c2f811cbcddc916daa22ec748656"
-    },
-    {
-      "key": "4c3b3",
-      "songName": "under your spell",
-      "hash": "e6d08af36634d47cd86b324dfdb2ab230bb4b740",
-      "levelid": "custom_level_e6d08af36634d47cd86b324dfdb2ab230bb4b740"
-    },
-    {
-      "key": "4c3b2",
-      "songName": "[GD Mash Pack II] (VNJS) Fingerbang - MDK",
-      "hash": "1537701f2869884fcfe518cfe62e671cef01071e",
-      "levelid": "custom_level_1537701f2869884fcfe518cfe62e671cef01071e"
-    },
-    {
-      "key": "4c3ac",
-      "songName": "Feel Like A Monster - John Michael Howell",
-      "hash": "4be83f99fca0aa54a42a7fef1ece3942a58775e5",
-      "levelid": "custom_level_4be83f99fca0aa54a42a7fef1ece3942a58775e5"
-    },
-    {
-      "key": "4c3a0",
-      "songName": "RedOgre - Extratongue (Cut)",
-      "hash": "774ba18f429f3c026ce881101e26bb580136ceda",
-      "levelid": "custom_level_774ba18f429f3c026ce881101e26bb580136ceda"
-    },
-    {
-      "key": "4c399",
-      "songName": "Killing Butterflies - Lewis Blissett",
-      "hash": "ab18dbe664ae29f0b9866c079d977825bb1e29c5",
-      "levelid": "custom_level_ab18dbe664ae29f0b9866c079d977825bb1e29c5"
-    },
-    {
-      "key": "4c398",
-      "songName": "OH MY PC!!?!",
-      "hash": "28dd6c7224a88dfc0f65e5002780a206bce1df36",
-      "levelid": "custom_level_28dd6c7224a88dfc0f65e5002780a206bce1df36"
-    },
-    {
-      "key": "4c396",
-      "songName": "skebob",
-      "hash": "4a0966c06a48d71cd97df46005ec56a182494be2",
-      "levelid": "custom_level_4a0966c06a48d71cd97df46005ec56a182494be2"
-    },
-    {
-      "key": "4c395",
-      "songName": "quandale dingle jingle",
-      "hash": "d7b7f03d425b0aee34f1dcbff89a860de554a8f0",
-      "levelid": "custom_level_d7b7f03d425b0aee34f1dcbff89a860de554a8f0"
-    },
-    {
-      "key": "4c393",
-      "songName": "Extra Terra & Celina - Nephilim - EXTRA TERRA",
-      "hash": "42eee477705b42a2f1e25a4d815256292570e4c3",
-      "levelid": "custom_level_42eee477705b42a2f1e25a4d815256292570e4c3"
-    },
-    {
-      "key": "4c391",
-      "songName": "[GD Mash Pack II] Camellia - REX",
-      "hash": "421ac41786a88658b69f6c62b092e135a15b9e08",
-      "levelid": "custom_level_421ac41786a88658b69f6c62b092e135a15b9e08"
-    },
-    {
-      "key": "4c385",
-      "songName": " [Eurovision 2025 Pack] Espresso Macchiato - Tommy Cash",
-      "hash": "53220b8c527239763a1005b537423004d482bc1f",
-      "levelid": "custom_level_53220b8c527239763a1005b537423004d482bc1f"
-    },
-    {
-      "key": "4c284",
-      "songName": "Skrillex & ISOxo - Fuze",
-      "hash": "9c16f79d60a5a8e049e7bd4caa9dc540276dbdef",
-      "levelid": "custom_level_9c16f79d60a5a8e049e7bd4caa9dc540276dbdef"
-    },
-    {
-      "key": "4bf8b",
-      "songName": "AtHeart - Knew Me",
-      "hash": "0db1872cc1ee08611d22d78f60f4bb6b1d6a5b99",
-      "levelid": "custom_level_0db1872cc1ee08611d22d78f60f4bb6b1d6a5b99"
-    },
-    {
-      "key": "4c390",
-      "songName": "Camellia - Chimera Dragons",
-      "hash": "b2f02074d9568ae18d079cee6289f939cde91143",
-      "levelid": "custom_level_b2f02074d9568ae18d079cee6289f939cde91143"
-    },
-    {
-      "key": "4c38f",
-      "songName": "9Lana - BALALAIKA",
-      "hash": "a9e154c6b4f33cd487189a0832760983a8eb4065",
-      "levelid": "custom_level_a9e154c6b4f33cd487189a0832760983a8eb4065"
-    },
-    {
-      "key": "4c38e",
-      "songName": "Digital Resurrection",
-      "hash": "6dd01b3333f2395ffd275a316d19201ac2781d05",
-      "levelid": "custom_level_6dd01b3333f2395ffd275a316d19201ac2781d05"
-    },
-    {
-      "key": "4c38d",
-      "songName": "[Eurovision 2025 Pack]  Kyle Alessandro - Lighter ",
-      "hash": "de6a179f2dd5e50aacfcebd7a170df0072f2dfdf",
-      "levelid": "custom_level_de6a179f2dd5e50aacfcebd7a170df0072f2dfdf"
-    },
-    {
-      "key": "4c384",
-      "songName": "Safe and Sound_Shoulder_ROM",
-      "hash": "d812075c387296e5c9fab1a68e0392c75420ce7c",
-      "levelid": "custom_level_d812075c387296e5c9fab1a68e0392c75420ce7c"
-    },
-    {
-      "key": "4c383",
-      "songName": "Cowboy Casanova_Shoulder_ROM",
-      "hash": "e84e72959340b04e77ff34cf1b87e871871dee96",
-      "levelid": "custom_level_e84e72959340b04e77ff34cf1b87e871871dee96"
-    },
-    {
-      "key": "4c382",
-      "songName": "Sugar_MidlineCrossing",
-      "hash": "faeb11f797c15a959926bd35d6efdb8cab4d1922",
-      "levelid": "custom_level_faeb11f797c15a959926bd35d6efdb8cab4d1922"
+      "key": "496e9",
+      "songName": "Every Owen Wilson wow but its just the WOWs",
+      "hash": "ee2920125fb30754ba276f3b689e4bc32cee76ef",
+      "levelid": "custom_level_ee2920125fb30754ba276f3b689e4bc32cee76ef"
     }
   ],
   "image": ""
