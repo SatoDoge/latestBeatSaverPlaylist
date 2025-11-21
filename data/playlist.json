@@ -1,214 +1,226 @@
 {
-  "playlistTitle": "2025-11-19T15:18:49.008Z~2025-11-20T15:18:49.008Z",
+  "playlistTitle": "2025-11-20T15:18:48.490Z~2025-11-21T15:18:48.490Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-11-19T15:18:49.008Z and 2025-11-20T15:18:49.008Z",
+  "discripstion": "Maps published between 2025-11-20T15:18:48.490Z and 2025-11-21T15:18:48.490Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4c4d3",
-      "songName": "Ray Volpe - Battle of the Bros VIP",
-      "hash": "e9131ba9a1eecd4777e821b4bf58ac0b34f89607",
-      "levelid": "custom_level_e9131ba9a1eecd4777e821b4bf58ac0b34f89607"
+      "key": "4c525",
+      "songName": "Wildflower - Beach House",
+      "hash": "afa68eeab313cfab5e9af1c00cd91d06103fa0e9",
+      "levelid": "custom_level_afa68eeab313cfab5e9af1c00cd91d06103fa0e9"
     },
     {
-      "key": "4c4cf",
-      "songName": "Joy D - 9 to 5 (Fitbeat)",
-      "hash": "38e988574670b35b18d3b5075dccf5e73de9ba03",
-      "levelid": "custom_level_38e988574670b35b18d3b5075dccf5e73de9ba03"
+      "key": "4c524",
+      "songName": "Diggy Diggy Hole",
+      "hash": "54f26a3fc11c817f8455ed435cb27812a5a48d47",
+      "levelid": "custom_level_54f26a3fc11c817f8455ed435cb27812a5a48d47"
     },
     {
-      "key": "4c4cd",
-      "songName": "Terminal 11 - Unpleasant Experience",
-      "hash": "6af80faf4d577d5c31e3874a4ed2285a6f4c5a92",
-      "levelid": "custom_level_6af80faf4d577d5c31e3874a4ed2285a6f4c5a92"
+      "key": "4c520",
+      "songName": "ate up - dive to the heart & xulian",
+      "hash": "3b09a43c3dd33c32a45be2d8638a2a7684b1d32c",
+      "levelid": "custom_level_3b09a43c3dd33c32a45be2d8638a2a7684b1d32c"
     },
     {
-      "key": "4c4c9",
-      "songName": "Otonose Kanade - GREATEST",
-      "hash": "b9d7ac4d1efee1b3f6b6b3ab13cbd3d9560b49d1",
-      "levelid": "custom_level_b9d7ac4d1efee1b3f6b6b3ab13cbd3d9560b49d1"
+      "key": "4c51d",
+      "songName": "蘭音Reine×王子健 - 三萬天",
+      "hash": "c3c997f0af1183cc8d0508a3d6b8153fc936e959",
+      "levelid": "custom_level_c3c997f0af1183cc8d0508a3d6b8153fc936e959"
     },
     {
-      "key": "4c4c8",
-      "songName": "jon-YAKITORY - Trend Angelina (feat. Hatsune Miku)",
-      "hash": "33f2d5131c31555e4d1d3aa46ba6e5654629ada8",
-      "levelid": "custom_level_33f2d5131c31555e4d1d3aa46ba6e5654629ada8"
+      "key": "4c51e",
+      "songName": "ROSÉ - call it the end",
+      "hash": "1e1a350c46057add8df4b2e3963b1b764517c152",
+      "levelid": "custom_level_1e1a350c46057add8df4b2e3963b1b764517c152"
     },
     {
-      "key": "4c4c7",
-      "songName": "Azsagawa - MAJIKA!",
-      "hash": "69bae1a92198f978b1a5d7a11e63ac1226c98db4",
-      "levelid": "custom_level_69bae1a92198f978b1a5d7a11e63ac1226c98db4"
+      "key": "4c51a",
+      "songName": "Diabarha - At Night (full version) [17B - Reversed Battle]",
+      "hash": "957e597a472dd4fac201d21d8408dd6f4014054d",
+      "levelid": "custom_level_957e597a472dd4fac201d21d8408dd6f4014054d"
     },
     {
-      "key": "4c4cc",
-      "songName": "V.W.P - The Metamorphosis",
-      "hash": "2d7f212ddb601322dbe1f4d6ff50d5d76a669e4c",
-      "levelid": "custom_level_2d7f212ddb601322dbe1f4d6ff50d5d76a669e4c"
+      "key": "4b55b",
+      "songName": "Surii-Ego Rock（feat.Kagamine Len）",
+      "hash": "a4fed118ec3f40dd0fef2ccf990d0ddee6ec102c",
+      "levelid": "custom_level_a4fed118ec3f40dd0fef2ccf990d0ddee6ec102c"
     },
     {
-      "key": "4c4cb",
-      "songName": "Aooo - CRAZZZY",
-      "hash": "715df006df879f81854dbc57511ba8610d59c6ef",
-      "levelid": "custom_level_715df006df879f81854dbc57511ba8610d59c6ef"
+      "key": "4c518",
+      "songName": "Ado - Usseewa",
+      "hash": "cdbf672536f31df227903bbc9873df9a96ea18d5",
+      "levelid": "custom_level_cdbf672536f31df227903bbc9873df9a96ea18d5"
     },
     {
-      "key": "4c4c3",
-      "songName": "Mitsukiyo - Endless Carnival ~carmina deserta~ (quilt heron remix)",
-      "hash": "230c94f988ff8fba1cad09ba91387a7182890327",
-      "levelid": "custom_level_230c94f988ff8fba1cad09ba91387a7182890327"
+      "key": "4c516",
+      "songName": "The Black Eyed Peas - Let's Get It Started (Levity x Crankdat Remix)",
+      "hash": "5c86dc1a62fd4d9e71bb2eb0684c66752daa55e8",
+      "levelid": "custom_level_5c86dc1a62fd4d9e71bb2eb0684c66752daa55e8"
     },
     {
-      "key": "4c4c2",
-      "songName": "days of candy pattern test 1.2x",
-      "hash": "d0ddef3dd431d9023875dac3e4d3f968b710422e",
-      "levelid": "custom_level_d0ddef3dd431d9023875dac3e4d3f968b710422e"
+      "key": "4c46c",
+      "songName": "[V3 | Noodle] Heaven Pierce Her + Creepy Nuts - Requiem + Bling Bang Bang Born",
+      "hash": "e9cb63b21faa0264d92814f1bd43fc99421a3935",
+      "levelid": "custom_level_e9cb63b21faa0264d92814f1bd43fc99421a3935"
     },
     {
-      "key": "4c4c0",
-      "songName": "luxury -nightcore",
-      "hash": "bcfdd842612aceb7c09b3f6c45904320ea23102b",
-      "levelid": "custom_level_bcfdd842612aceb7c09b3f6c45904320ea23102b"
+      "key": "4bd3d",
+      "songName": "ELECTRICAL COMMUNICATION",
+      "hash": "d4320314519a831e34b5a4dad8b0277d82bc85ba",
+      "levelid": "custom_level_d4320314519a831e34b5a4dad8b0277d82bc85ba"
     },
     {
-      "key": "4c118",
-      "songName": "Ado - Readymade",
-      "hash": "6bdbc85bc0ad4ca8db1da438b6cde7a3cd24ffbf",
-      "levelid": "custom_level_6bdbc85bc0ad4ca8db1da438b6cde7a3cd24ffbf"
+      "key": "4c514",
+      "songName": "Bonji - Bonji Dubstep",
+      "hash": "4f038627f2da2312e964f34d58c33c1d81f09f4d",
+      "levelid": "custom_level_4f038627f2da2312e964f34d58c33c1d81f09f4d"
     },
     {
-      "key": "4c4bf",
-      "songName": "Vermilion - Kotori",
-      "hash": "6025e8e4f8841a949c390072bc46e07bea056309",
-      "levelid": "custom_level_6025e8e4f8841a949c390072bc46e07bea056309"
+      "key": "4c513",
+      "songName": "Gusty Garden Galaxy - Mahito Yokota [Super Mario Galaxy]",
+      "hash": "e0c6439314b380bc4b299302bc4b4a0378360615",
+      "levelid": "custom_level_e0c6439314b380bc4b299302bc4b4a0378360615"
     },
     {
-      "key": "4c4bd",
-      "songName": "bittersweet - Madion Beer",
-      "hash": "94bdaced75fa63c8023cf19db5c8dc1f2ba030e3",
-      "levelid": "custom_level_94bdaced75fa63c8023cf19db5c8dc1f2ba030e3"
+      "key": "4c512",
+      "songName": "video game lover vs. hydraulic press - c0ncernn",
+      "hash": "e96892fec70d4a4053fc46028dd3870d94d889a1",
+      "levelid": "custom_level_e96892fec70d4a4053fc46028dd3870d94d889a1"
     },
     {
-      "key": "4c4bc",
-      "songName": "Avenged Sevenfold | Natural Born Killer",
-      "hash": "1dd68082c5ee7c56c6f7eeea887f13e6a63210a6",
-      "levelid": "custom_level_1dd68082c5ee7c56c6f7eeea887f13e6a63210a6"
+      "key": "4c50c",
+      "songName": "Good Kid - Rift",
+      "hash": "301e08273f24f1b4db26188d15617119d271cc45",
+      "levelid": "custom_level_301e08273f24f1b4db26188d15617119d271cc45"
     },
     {
-      "key": "4c4bb",
-      "songName": "cupcakKe - Fist Me",
-      "hash": "9e496a67d26a8666943e325063b668238d42b948",
-      "levelid": "custom_level_9e496a67d26a8666943e325063b668238d42b948"
+      "key": "4c508",
+      "songName": "Vamos nena",
+      "hash": "7b14c954b5053a771100660064ccd41566ed0f90",
+      "levelid": "custom_level_7b14c954b5053a771100660064ccd41566ed0f90"
     },
     {
-      "key": "4c4b8",
-      "songName": "Losin' Streak - Hazbin Hotel, Blake Roman",
-      "hash": "6a0164597f95c1c534aa5a27458834cad0e95813",
-      "levelid": "custom_level_6a0164597f95c1c534aa5a27458834cad0e95813"
+      "key": "4c501",
+      "songName": "Sleep Phonk",
+      "hash": "266a8d19ea6e226e466314d4f2b0be22e8d0a637",
+      "levelid": "custom_level_266a8d19ea6e226e466314d4f2b0be22e8d0a637"
     },
     {
-      "key": "4c4b5",
-      "songName": "Annihilation",
-      "hash": "718514bf6f918d8976a56d677ab78cb4ec4ab9da",
-      "levelid": "custom_level_718514bf6f918d8976a56d677ab78cb4ec4ab9da"
+      "key": "4c4ff",
+      "songName": "Måns Zelmerlöw - Cara Mia",
+      "hash": "054c1722dd66d9aab19ee5d55ccef26182212b05",
+      "levelid": "custom_level_054c1722dd66d9aab19ee5d55ccef26182212b05"
     },
     {
-      "key": "4c4b4",
-      "songName": "{Alternative Psycho Pack} Layto - better off",
-      "hash": "8419531865477a1274b67820f548804f59d07628",
-      "levelid": "custom_level_8419531865477a1274b67820f548804f59d07628"
+      "key": "4c4fe",
+      "songName": "again&again - baby",
+      "hash": "b7bb5499218660179ef458d05b1347731955cdc8",
+      "levelid": "custom_level_b7bb5499218660179ef458d05b1347731955cdc8"
     },
     {
-      "key": "4c4b2",
-      "songName": "Nope Your Too Late I already Died",
-      "hash": "7efe4dbf8889651643f6bc149d990e0d0fdea12f",
-      "levelid": "custom_level_7efe4dbf8889651643f6bc149d990e0d0fdea12f"
+      "key": "4c4fd",
+      "songName": "To The Future",
+      "hash": "9ce27e4f52251a6d306b67add64590176ae75e50",
+      "levelid": "custom_level_9ce27e4f52251a6d306b67add64590176ae75e50"
     },
     {
-      "key": "4c4b1",
-      "songName": "wifiskeleton -lets sit and watch the world burn together (UPDATED)",
-      "hash": "8c684ff550971db47441c27a958feaa47cf58746",
-      "levelid": "custom_level_8c684ff550971db47441c27a958feaa47cf58746"
+      "key": "4c4fc",
+      "songName": "Love In A bottle",
+      "hash": "de9923ba917b4013fb4146a9c2c05d0fadfa1910",
+      "levelid": "custom_level_de9923ba917b4013fb4146a9c2c05d0fadfa1910"
     },
     {
-      "key": "4c4af",
-      "songName": "Who Was",
-      "hash": "5ac37d7a1222dfcd48792b03c56fbf7c11efbdbc",
-      "levelid": "custom_level_5ac37d7a1222dfcd48792b03c56fbf7c11efbdbc"
+      "key": "4c4fb",
+      "songName": "OST 8 Release Date Reveal Beat Saber",
+      "hash": "1a9b9c7ec292eb28ac4f235a7901e772c54e4aa5",
+      "levelid": "custom_level_1a9b9c7ec292eb28ac4f235a7901e772c54e4aa5"
     },
     {
-      "key": "4c4ae",
-      "songName": "wifiskeleton - lovefool - lets sit together and watch the world burn (OUTDATED ONLY CHROMA)",
-      "hash": "ec653dbc8c25bb9fa54377054ceaba93cc4ae94f",
-      "levelid": "custom_level_ec653dbc8c25bb9fa54377054ceaba93cc4ae94f"
+      "key": "4c4fa",
+      "songName": "Teto the 31st ",
+      "hash": "8260ba67eac30e99e6b8c085975f585554f90de6",
+      "levelid": "custom_level_8260ba67eac30e99e6b8c085975f585554f90de6"
     },
     {
-      "key": "4c4a7",
-      "songName": "Is She Gon Pop",
-      "hash": "d003d32ce4bdd120a0a3c66dccc04b5af83760a7",
-      "levelid": "custom_level_d003d32ce4bdd120a0a3c66dccc04b5af83760a7"
+      "key": "4c4f9",
+      "songName": "beep",
+      "hash": "7362b72666cc4e07349fed4b1f16279feece8a81",
+      "levelid": "custom_level_7362b72666cc4e07349fed4b1f16279feece8a81"
     },
     {
-      "key": "4c4a6",
-      "songName": "Soda pop",
-      "hash": "16ff441e45578f0e6719fbe9b0daea38994eae38",
-      "levelid": "custom_level_16ff441e45578f0e6719fbe9b0daea38994eae38"
+      "key": "4c4f8",
+      "songName": "DJ Raisei - せかいから____がきえるとき",
+      "hash": "602627b970feca23783c41a0852c63840bf91506",
+      "levelid": "custom_level_602627b970feca23783c41a0852c63840bf91506"
     },
     {
-      "key": "4c4a2",
-      "songName": "In Vein Caskets",
-      "hash": "400986b2d8c0d542653b5f983738abe068e23b9b",
-      "levelid": "custom_level_400986b2d8c0d542653b5f983738abe068e23b9b"
+      "key": "4c4f2",
+      "songName": "Desert Eagle",
+      "hash": "66033a8b77a55d2eeba74f1d37ecca91c29d196e",
+      "levelid": "custom_level_66033a8b77a55d2eeba74f1d37ecca91c29d196e"
     },
     {
-      "key": "4c49e",
-      "songName": "Soda pop",
-      "hash": "93d7fe7837fb511af2d18b9e18a5c8faf8bd72bf",
-      "levelid": "custom_level_93d7fe7837fb511af2d18b9e18a5c8faf8bd72bf"
+      "key": "4c4f0",
+      "songName": "SKEBOB FUNK",
+      "hash": "77c9e55716b9f26e25ed8e0594ffec80d1a0bdf3",
+      "levelid": "custom_level_77c9e55716b9f26e25ed8e0594ffec80d1a0bdf3"
     },
     {
-      "key": "4c49d",
-      "songName": "PinkPantheress - Stateside + Zara Larsson",
-      "hash": "eb02933a79a6ad956e7d25f2a8bee875761950a4",
-      "levelid": "custom_level_eb02933a79a6ad956e7d25f2a8bee875761950a4"
+      "key": "4c4ef",
+      "songName": "glaive - Foreigner",
+      "hash": "df33951d57a429abe22920eedc7ead50a2d152ad",
+      "levelid": "custom_level_df33951d57a429abe22920eedc7ead50a2d152ad"
     },
     {
-      "key": "4c495",
-      "songName": "I Run",
-      "hash": "32ee7939abc2d90b415475e3f191b14c458829e4",
-      "levelid": "custom_level_32ee7939abc2d90b415475e3f191b14c458829e4"
+      "key": "4c4ec",
+      "songName": "Bloody Mary (from KANKAN)",
+      "hash": "b02eeaa44231f571359b5ab9dc437d4156870c77",
+      "levelid": "custom_level_b02eeaa44231f571359b5ab9dc437d4156870c77"
     },
     {
-      "key": "4c443",
-      "songName": "Di Young - Pixel Pig",
-      "hash": "bd2234a5d3f5932a99501b19fe9c8c952dd19cea",
-      "levelid": "custom_level_bd2234a5d3f5932a99501b19fe9c8c952dd19cea"
+      "key": "4c4eb",
+      "songName": "Still Here (from League of Legends)",
+      "hash": "75f8acdd82d4bb81c2341f8a25110bea671fc066",
+      "levelid": "custom_level_75f8acdd82d4bb81c2341f8a25110bea671fc066"
     },
     {
-      "key": "4c494",
-      "songName": "GHOST SWEEPER",
-      "hash": "759174e7b0a9976e9ed9db8381796fcd22309ad2",
-      "levelid": "custom_level_759174e7b0a9976e9ed9db8381796fcd22309ad2"
+      "key": "4c4e8",
+      "songName": "Fontaines D.C. - Starburster",
+      "hash": "b6903c25fc9287c2acb44d6d2c1d4e4d645453e6",
+      "levelid": "custom_level_b6903c25fc9287c2acb44d6d2c1d4e4d645453e6"
     },
     {
-      "key": "4c46d",
-      "songName": "Glitch Cat - year of complextro",
-      "hash": "d165f29e51fe05a67a495867652c41a6549e0023",
-      "levelid": "custom_level_d165f29e51fe05a67a495867652c41a6549e0023"
+      "key": "4c289",
+      "songName": "CLC - Devil",
+      "hash": "797f365766d615f34539c0cd4bc714d949c221cc",
+      "levelid": "custom_level_797f365766d615f34539c0cd4bc714d949c221cc"
     },
     {
-      "key": "4c1b0",
-      "songName": "LOVEONE - LOVE HIGH",
-      "hash": "1623f8187c6a5c2ce1dd69c4d9fc41eb478f0079",
-      "levelid": "custom_level_1623f8187c6a5c2ce1dd69c4d9fc41eb478f0079"
+      "key": "4c4db",
+      "songName": "Billy Daniel Bunter & Jon Doe - Round a Round (Breeze & Styles Remix) (Fitbeat Cut) (Fitbeat Map)",
+      "hash": "645fcb136ec3d96485e1105fdf230eda403cccef",
+      "levelid": "custom_level_645fcb136ec3d96485e1105fdf230eda403cccef"
     },
     {
-      "key": "4c46b",
-      "songName": "\t See Through",
-      "hash": "e4a07493a9a112b5f3c01dc19917f3887cef27c7",
-      "levelid": "custom_level_e4a07493a9a112b5f3c01dc19917f3887cef27c7"
+      "key": "4c4da",
+      "songName": "Kobaryo - Tool-Assisted Speedcore",
+      "hash": "71dae4f9c2defd0f1c84ccb69298e925782759fe",
+      "levelid": "custom_level_71dae4f9c2defd0f1c84ccb69298e925782759fe"
+    },
+    {
+      "key": "4c4d9",
+      "songName": "OSTON - Wtf u want.",
+      "hash": "42b6609768efebfb0c242c8eaf9d8048f1192f0c",
+      "levelid": "custom_level_42b6609768efebfb0c242c8eaf9d8048f1192f0c"
+    },
+    {
+      "key": "4c4d8",
+      "songName": "演员",
+      "hash": "68492342f827625f933e7c55f867e9f4812bb7fd",
+      "levelid": "custom_level_68492342f827625f933e7c55f867e9f4812bb7fd"
     }
   ],
   "image": ""
