@@ -1,202 +1,178 @@
 {
-  "playlistTitle": "2025-12-03T15:18:55.631Z~2025-12-04T15:18:55.631Z",
+  "playlistTitle": "2025-12-04T15:18:50.164Z~2025-12-05T15:18:50.164Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-12-03T15:18:55.631Z and 2025-12-04T15:18:55.631Z",
+  "discripstion": "Maps published between 2025-12-04T15:18:50.164Z and 2025-12-05T15:18:50.164Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4cb67",
+      "key": "4cba9",
+      "songName": "位相 - アナルholdin' on移動",
+      "hash": "5bba89ea7702b764b717ae173a1c53585c6d50ef",
+      "levelid": "custom_level_5bba89ea7702b764b717ae173a1c53585c6d50ef"
+    },
+    {
+      "key": "4cba1",
+      "songName": "粉雪",
+      "hash": "43c30fd9b4ece430896a32fcf37aafad72c906fe",
+      "levelid": "custom_level_43c30fd9b4ece430896a32fcf37aafad72c906fe"
+    },
+    {
+      "key": "4cba6",
+      "songName": "NMIXX - RICO",
+      "hash": "6f66112c9e0f75e0149897362e2cd6e9f928c65f",
+      "levelid": "custom_level_6f66112c9e0f75e0149897362e2cd6e9f928c65f"
+    },
+    {
+      "key": "4cba5",
+      "songName": "DJ Construction Worker",
+      "hash": "068842a446d6610013eb78937e3a57b0d68d70f6",
+      "levelid": "custom_level_068842a446d6610013eb78937e3a57b0d68d70f6"
+    },
+    {
+      "key": "4cba4",
+      "songName": "アンスロポフォビア/Anthropophobia - ryhthmy ft. Hatsune Miku",
+      "hash": "0c1262d9ea55842c923331ecf3644f8dbcf8a707",
+      "levelid": "custom_level_0c1262d9ea55842c923331ecf3644f8dbcf8a707"
+    },
+    {
+      "key": "4cba3",
+      "songName": "билборды - в ноль",
+      "hash": "af8cc6c13709df56d235a02c6ea2c848b75376d7",
+      "levelid": "custom_level_af8cc6c13709df56d235a02c6ea2c848b75376d7"
+    },
+    {
+      "key": "4cba2",
+      "songName": "Splaexma - We Are Charlie Kirk",
+      "hash": "2b3940e8b8df01dc6af35163f08bbe4f3da68cd9",
+      "levelid": "custom_level_2b3940e8b8df01dc6af35163f08bbe4f3da68cd9"
+    },
+    {
+      "key": "4cb9f",
+      "songName": "Challenge II (V4)",
+      "hash": "e25a3bb80ef7e5d1d91d1eb77b05d0d097cf2690",
+      "levelid": "custom_level_e25a3bb80ef7e5d1d91d1eb77b05d0d097cf2690"
+    },
+    {
+      "key": "4cb9e",
+      "songName": "more like freddy BITCH bear",
+      "hash": "2359054f3abb115c56fb3e30b777379dd980a306",
+      "levelid": "custom_level_2359054f3abb115c56fb3e30b777379dd980a306"
+    },
+    {
+      "key": "4cb74",
+      "songName": "🎁VOLCANIX🎁 - (cut to drop) [volcanic - detro]",
+      "hash": "080b69e85c08b8bebedfac1a22732d07cdf884f3",
+      "levelid": "custom_level_080b69e85c08b8bebedfac1a22732d07cdf884f3"
+    },
+    {
+      "key": "4cb73",
+      "songName": "🎁VOLCANIX🎁 - HAPPY 18TH BIRTHDAY DEVON!!! [volcanic - detro]",
+      "hash": "a8ad85014d6fdc71fcbc509e0ce443a592ef15d2",
+      "levelid": "custom_level_a8ad85014d6fdc71fcbc509e0ce443a592ef15d2"
+    },
+    {
+      "key": "4cb9d",
+      "songName": "Neon",
+      "hash": "a6521f410c74bbe6c37c254487e46818a5819fed",
+      "levelid": "custom_level_a6521f410c74bbe6c37c254487e46818a5819fed"
+    },
+    {
+      "key": "4cb9c",
+      "songName": "AUGGHH AHHHHH",
+      "hash": "a55b0f5ef79f065a7376de2a56b03ac2b47878a3",
+      "levelid": "custom_level_a55b0f5ef79f065a7376de2a56b03ac2b47878a3"
+    },
+    {
+      "key": "4cb4c",
+      "songName": "Lindsey Stirling - Firefly Alley",
+      "hash": "60d11378e34c48910b63168c298db84d11c276ac",
+      "levelid": "custom_level_60d11378e34c48910b63168c298db84d11c276ac"
+    },
+    {
+      "key": "4cb98",
+      "songName": "MOMOLAND - RODEO",
+      "hash": "ef651fba27f96918f94319be9c7dd8f05a97ea07",
+      "levelid": "custom_level_ef651fba27f96918f94319be9c7dd8f05a97ea07"
+    },
+    {
+      "key": "4cb97",
+      "songName": "minecraft in a nutshell",
+      "hash": "762f1f2eeb4d1a2676c0da6d291aff7f6adb12b8",
+      "levelid": "custom_level_762f1f2eeb4d1a2676c0da6d291aff7f6adb12b8"
+    },
+    {
+      "key": "4cb96",
+      "songName": "Peaceful map :)",
+      "hash": "0fd3eb390678429363a3f9e05aafa981a4c23a86",
+      "levelid": "custom_level_0fd3eb390678429363a3f9e05aafa981a4c23a86"
+    },
+    {
+      "key": "4cb93",
+      "songName": "Domer (slowed)",
+      "hash": "27c3d786523f4e9cf9d08d618a0faa832b77ffb5",
+      "levelid": "custom_level_27c3d786523f4e9cf9d08d618a0faa832b77ffb5"
+    },
+    {
+      "key": "4cb92",
+      "songName": "YEAYEAYEAYEA - Osamason",
+      "hash": "4a3bdebb7602cb5ccae578467121b40ef0d5a413",
+      "levelid": "custom_level_4a3bdebb7602cb5ccae578467121b40ef0d5a413"
+    },
+    {
+      "key": "4cb8c",
+      "songName": "Spooktune",
+      "hash": "b81a24511d1cc841be0500b486a076ae1babde70",
+      "levelid": "custom_level_b81a24511d1cc841be0500b486a076ae1babde70"
+    },
+    {
+      "key": "4cb8a",
+      "songName": "my mom is kinda homeless",
+      "hash": "21bd42e7e96b53f3c53524cc9841d305eaa40ecb",
+      "levelid": "custom_level_21bd42e7e96b53f3c53524cc9841d305eaa40ecb"
+    },
+    {
+      "key": "4cb88",
+      "songName": "I'll See You Again (feat. Chi Chi)",
+      "hash": "db25fd4c07924065c855acc06c07674d1cf73942",
+      "levelid": "custom_level_db25fd4c07924065c855acc06c07674d1cf73942"
+    },
+    {
+      "key": "4cb7a",
+      "songName": "Mili-Compass",
+      "hash": "1681050e41eea6abf60b8eb8f54eddaf4668a9ab",
+      "levelid": "custom_level_1681050e41eea6abf60b8eb8f54eddaf4668a9ab"
+    },
+    {
+      "key": "4cb75",
       "songName": "Skyper - Hero",
-      "hash": "b45d3998274557c07228d335cbf8e2959822f92c",
-      "levelid": "custom_level_b45d3998274557c07228d335cbf8e2959822f92c"
+      "hash": "9a32144acc80fbe02adab9cf1708015fb4539c48",
+      "levelid": "custom_level_9a32144acc80fbe02adab9cf1708015fb4539c48"
     },
     {
-      "key": "4cb66",
-      "songName": "Diabarha - At Night (full version) [16B - Reflected Terror]",
-      "hash": "cea94017a040bf7f7f84cfd6ad934b29a757124b",
-      "levelid": "custom_level_cea94017a040bf7f7f84cfd6ad934b29a757124b"
+      "key": "4cb3e",
+      "songName": "Kudou Chitose - FOREST",
+      "hash": "0933e2732f31d13a0e7f71056d3f5e90218a1823",
+      "levelid": "custom_level_0933e2732f31d13a0e7f71056d3f5e90218a1823"
     },
     {
-      "key": "4cb65",
-      "songName": "SCARY MUSIC",
-      "hash": "e8a62d1a4279958cdfc19239d8031f3037d38625",
-      "levelid": "custom_level_e8a62d1a4279958cdfc19239d8031f3037d38625"
+      "key": "4cb6c",
+      "songName": "Duran Duran – INVISIBLE",
+      "hash": "8d7f4632a968c1d38d39d8857f9885b9dd0a5335",
+      "levelid": "custom_level_8d7f4632a968c1d38d39d8857f9885b9dd0a5335"
     },
     {
-      "key": "4cb64",
-      "songName": "僕らの記憶を掠わないで/不要掠夺我们的记忆",
-      "hash": "8e760503682381c092a7ed96a4108fc36613f09a",
-      "levelid": "custom_level_8e760503682381c092a7ed96a4108fc36613f09a"
+      "key": "4c960",
+      "songName": "HELLOVENUS - Walk Me Home",
+      "hash": "64370267771906b848413cf3b4b63027a33786f0",
+      "levelid": "custom_level_64370267771906b848413cf3b4b63027a33786f0"
     },
     {
-      "key": "4ca12",
-      "songName": "[CS New Years 2026 Countdown 🎁 ] Terminal 11 - Staple on Smile",
-      "hash": "66143eab829b92a0da284d376314587babd8becb",
-      "levelid": "custom_level_66143eab829b92a0da284d376314587babd8becb"
-    },
-    {
-      "key": "4cb5e",
-      "songName": "月光下的凤尾竹.葫芦丝纯音乐",
-      "hash": "29e3a103c323d3487552d9ab356b51d081b8339a",
-      "levelid": "custom_level_29e3a103c323d3487552d9ab356b51d081b8339a"
-    },
-    {
-      "key": "4cb5d",
-      "songName": "Bombs Away - Drunk Arcade (Noodlemap) V3",
-      "hash": "0089f7f2273bc524f1ecbe022b9279ddec7f1ede",
-      "levelid": "custom_level_0089f7f2273bc524f1ecbe022b9279ddec7f1ede"
-    },
-    {
-      "key": "4cb5c",
-      "songName": "Zemeth - MIREN (feat. nayuta)",
-      "hash": "1fa602fe147cd3cf46b4635c4b5f2da2db8f4b8c",
-      "levelid": "custom_level_1fa602fe147cd3cf46b4635c4b5f2da2db8f4b8c"
-    },
-    {
-      "key": "4cb5b",
-      "songName": "Berdly Rejected Concept",
-      "hash": "2548ccb016a1d757f8f25abc661d178a82b3415a",
-      "levelid": "custom_level_2548ccb016a1d757f8f25abc661d178a82b3415a"
-    },
-    {
-      "key": "4cb5a",
-      "songName": "[V4 Walls | VNJS] NEEDY GIRL OVERDOSE - Angel Falling (feat. Aiobahn +81)",
-      "hash": "7eadac36a928713b2dea5dddbb0214199821c5e8",
-      "levelid": "custom_level_7eadac36a928713b2dea5dddbb0214199821c5e8"
-    },
-    {
-      "key": "4cb58",
-      "songName": "status",
-      "hash": "a00909dde07358574706fbcb9319267e5c900498",
-      "levelid": "custom_level_a00909dde07358574706fbcb9319267e5c900498"
-    },
-    {
-      "key": "4cb50",
-      "songName": "Michael wyckoff - midnight void (boneworks ost)",
-      "hash": "54677121ebf0f31a9002fdd0392b89a74a7950c2",
-      "levelid": "custom_level_54677121ebf0f31a9002fdd0392b89a74a7950c2"
-    },
-    {
-      "key": "4c92d",
-      "songName": "DYES IWASAKI \"Meow Meow Shangri-La feat.Pmarusama\"",
-      "hash": "49d8f045dcc0e03082f7d2845b208cc955f6a1c4",
-      "levelid": "custom_level_49d8f045dcc0e03082f7d2845b208cc955f6a1c4"
-    },
-    {
-      "key": "4cb46",
-      "songName": "fembread - purgatory",
-      "hash": "5d9b19d3f5af22b3cfc004b11fe4e0a9fded31dc",
-      "levelid": "custom_level_5d9b19d3f5af22b3cfc004b11fe4e0a9fded31dc"
-    },
-    {
-      "key": "4cb44",
-      "songName": "Takanashi Kiara - MIRAGE",
-      "hash": "6c2c64348040c69d92d6fb1117d8686a7acb0378",
-      "levelid": "custom_level_6c2c64348040c69d92d6fb1117d8686a7acb0378"
-    },
-    {
-      "key": "4cb41",
-      "songName": "Kry.exe - IMPERIA",
-      "hash": "233c9291c972d192cd9633fb472aaaed7f7a8bca",
-      "levelid": "custom_level_233c9291c972d192cd9633fb472aaaed7f7a8bca"
-    },
-    {
-      "key": "4cb42",
-      "songName": "My Own Summer",
-      "hash": "051a7d4a7749d10b8de83a869cec8921d2348be9",
-      "levelid": "custom_level_051a7d4a7749d10b8de83a869cec8921d2348be9"
-    },
-    {
-      "key": "4cb3f",
-      "songName": "Theres monsters inside my head (tuff)",
-      "hash": "cabed237de9436b6cc3908b5bac20328d64a7106",
-      "levelid": "custom_level_cabed237de9436b6cc3908b5bac20328d64a7106"
-    },
-    {
-      "key": "4cb40",
-      "songName": "DON POLLO MANGO 67",
-      "hash": "8c25b734f9569579e2df53691f7e9e2364defb11",
-      "levelid": "custom_level_8c25b734f9569579e2df53691f7e9e2364defb11"
-    },
-    {
-      "key": "4cb3d",
-      "songName": "The Avalanches - Radio",
-      "hash": "0638641c84976205d8ca5085479547a31eb6d0bb",
-      "levelid": "custom_level_0638641c84976205d8ca5085479547a31eb6d0bb"
-    },
-    {
-      "key": "4cb2f",
-      "songName": "Bossfight - Warp",
-      "hash": "2e36871f4da05144df3922693c54c032d322674d",
-      "levelid": "custom_level_2e36871f4da05144df3922693c54c032d322674d"
-    },
-    {
-      "key": "4cb2d",
-      "songName": "Until Next Time",
-      "hash": "400222004c7b6f5814fa0ee1f3a24af755d77dce",
-      "levelid": "custom_level_400222004c7b6f5814fa0ee1f3a24af755d77dce"
-    },
-    {
-      "key": "4cb2c",
-      "songName": "Stroll",
-      "hash": "041ac4217bd3fcf3085ac505e87f4e3e08f3c16d",
-      "levelid": "custom_level_041ac4217bd3fcf3085ac505e87f4e3e08f3c16d"
-    },
-    {
-      "key": "4cb2b",
-      "songName": "BUNT., Elley Duhé - Lost My Mind (Wake Up)",
-      "hash": "c35e2ff6fd943a46ca818d81ab3cec5dadbc0dc2",
-      "levelid": "custom_level_c35e2ff6fd943a46ca818d81ab3cec5dadbc0dc2"
-    },
-    {
-      "key": "4cb29",
-      "songName": "61",
-      "hash": "210fff19d50a2756ec45c1911d1c2dc2b2c68dbf",
-      "levelid": "custom_level_210fff19d50a2756ec45c1911d1c2dc2b2c68dbf"
-    },
-    {
-      "key": "4cb28",
-      "songName": "HalaCG x Bloomgums - GOJO SONG - “Infinity”",
-      "hash": "73028a33b61f2485aadccbfdb8d6dd31d6c7d343",
-      "levelid": "custom_level_73028a33b61f2485aadccbfdb8d6dd31d6c7d343"
-    },
-    {
-      "key": "4cb26",
-      "songName": "Tera I/O",
-      "hash": "f4f6a4b70b51f802073cb84c4641a097a0c4940b",
-      "levelid": "custom_level_f4f6a4b70b51f802073cb84c4641a097a0c4940b"
-    },
-    {
-      "key": "4c9f3",
-      "songName": "[CS New Years 2026 Countdown 🎁] Yuno Miles - First Day Of Christmas",
-      "hash": "2bdeb69d756ad130a708fdddb06ccd5f438df0b9",
-      "levelid": "custom_level_2bdeb69d756ad130a708fdddb06ccd5f438df0b9"
-    },
-    {
-      "key": "4cb22",
-      "songName": "Afrospin - The Fate of Ophelia Afrobeats",
-      "hash": "67e890aa2b16710e2d68b607134b5f532f197053",
-      "levelid": "custom_level_67e890aa2b16710e2d68b607134b5f532f197053"
-    },
-    {
-      "key": "4cb21",
-      "songName": "BTS - I'm Fine",
-      "hash": "cf0a2ef7eafbc960cb78cc55838860b3a74f4470",
-      "levelid": "custom_level_cf0a2ef7eafbc960cb78cc55838860b3a74f4470"
-    },
-    {
-      "key": "4c95f",
-      "songName": "Rainbow - Aurora",
-      "hash": "81ffea9a0fafe7c617238286997b1c2966413ac8",
-      "levelid": "custom_level_81ffea9a0fafe7c617238286997b1c2966413ac8"
-    },
-    {
-      "key": "4cb20",
-      "songName": "Blade",
-      "hash": "4b3576656b137176084929467e0d442ceb5b1f70",
-      "levelid": "custom_level_4b3576656b137176084929467e0d442ceb5b1f70"
+      "key": "4cb68",
+      "songName": "Connor Kauffman - Close Enough",
+      "hash": "ce1fcc69edcb4dd5fb4f1f26829df71905bc6be4",
+      "levelid": "custom_level_ce1fcc69edcb4dd5fb4f1f26829df71905bc6be4"
     }
   ],
   "image": ""
