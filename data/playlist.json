@@ -1,280 +1,274 @@
 {
-  "playlistTitle": "2025-12-05T15:18:50.690Z~2025-12-06T15:18:50.690Z",
+  "playlistTitle": "2025-12-06T15:18:49.822Z~2025-12-07T15:18:49.822Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-12-05T15:18:50.690Z and 2025-12-06T15:18:50.690Z",
+  "discripstion": "Maps published between 2025-12-06T15:18:49.822Z and 2025-12-07T15:18:49.822Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4cc2a",
-      "songName": "Dragon Smash Goblin (OST 8 Backport)",
-      "hash": "e4cf22657c75bfcfe0a3ee92baed62e75ce2b431",
-      "levelid": "custom_level_e4cf22657c75bfcfe0a3ee92baed62e75ce2b431"
+      "key": "4cc7c",
+      "songName": "In The Darkness",
+      "hash": "eae459486191b1ef3face5da9cf21c7d3983daf3",
+      "levelid": "custom_level_eae459486191b1ef3face5da9cf21c7d3983daf3"
     },
     {
-      "key": "4cc14",
-      "songName": "Ihsahn - Pilgrimage To Oblivion",
-      "hash": "fd42e0c60415a46834fd176823b5ea69b55f53cb",
-      "levelid": "custom_level_fd42e0c60415a46834fd176823b5ea69b55f53cb"
+      "key": "4cc7b",
+      "songName": "the south east is what they say about...",
+      "hash": "bbeca4450a159add210d7b1185f20f11c1d9525b",
+      "levelid": "custom_level_bbeca4450a159add210d7b1185f20f11c1d9525b"
     },
     {
-      "key": "4cc19",
-      "songName": "Sirenia - Star-Crossed",
-      "hash": "fba5d9ff0a7db4f1c026ec85e20a346b0af74ddd",
-      "levelid": "custom_level_fba5d9ff0a7db4f1c026ec85e20a346b0af74ddd"
+      "key": "4ac78",
+      "songName": "im gonna brown",
+      "hash": "6e7db23692fcb1189d14713b37fcbc3862a5ad7a",
+      "levelid": "custom_level_6e7db23692fcb1189d14713b37fcbc3862a5ad7a"
     },
     {
-      "key": "4cc0e",
-      "songName": "Ihsahn - Frail",
-      "hash": "15b9a3622f4c8a2e6044a2ee98e0948370985436",
-      "levelid": "custom_level_15b9a3622f4c8a2e6044a2ee98e0948370985436"
+      "key": "4ac18",
+      "songName": "3000 bpm",
+      "hash": "190684a96b055bd6ae2d7aeb345855b771ef9687",
+      "levelid": "custom_level_190684a96b055bd6ae2d7aeb345855b771ef9687"
     },
     {
-      "key": "4cc0a",
-      "songName": "Mindless Self Indulgence - Lights Out",
-      "hash": "92f110a81a1408b11a782c89f23b81fa8210197c",
-      "levelid": "custom_level_92f110a81a1408b11a782c89f23b81fa8210197c"
+      "key": "4cc7a",
+      "songName": "PANDA EYES - DESPAIR",
+      "hash": "20e4f1548b6d4ddb1436b7e49bd69b30d11d750b",
+      "levelid": "custom_level_20e4f1548b6d4ddb1436b7e49bd69b30d11d750b"
     },
     {
-      "key": "4cc1c",
-      "songName": "Castlevania Portrait of Ruin - The Gears Go Awry",
-      "hash": "2753399770cad9abf682f57c687740f91bf7538b",
-      "levelid": "custom_level_2753399770cad9abf682f57c687740f91bf7538b"
+      "key": "4cc79",
+      "songName": "100,000,000,000,000,000,000,000 BPM",
+      "hash": "02f16ddb7edd1106388950cddaac138ecf295c91",
+      "levelid": "custom_level_02f16ddb7edd1106388950cddaac138ecf295c91"
     },
     {
-      "key": "4cc18",
-      "songName": "Monster Hunter World Iceborne - Yian Garuga",
-      "hash": "87ad38f9a9d57a533100fa64274777d897d8106b",
-      "levelid": "custom_level_87ad38f9a9d57a533100fa64274777d897d8106b"
+      "key": "4cc78",
+      "songName": "Basshunter - Jingle Bells (Bass)",
+      "hash": "c95c8f66834f46f67f95139b9a51806775869184",
+      "levelid": "custom_level_c95c8f66834f46f67f95139b9a51806775869184"
     },
     {
-      "key": "4cba7",
-      "songName": "[CS New Years 2026 Countdown 🎁 ] EL Uptempo - All I Want For Christmas Is Uptempo",
-      "hash": "f94bce2afa9b14ca72d8e1f9d7a65c9a7da8b70a",
-      "levelid": "custom_level_f94bce2afa9b14ca72d8e1f9d7a65c9a7da8b70a"
+      "key": "4cc76",
+      "songName": "HOYO-MiX, Airi Suzuki - Star Odyssey (Skirk's Character Trailer from Genshin Impact)",
+      "hash": "5b49b1a5cc64808777ec7475a40fe830fc135947",
+      "levelid": "custom_level_5b49b1a5cc64808777ec7475a40fe830fc135947"
     },
     {
-      "key": "4cc20",
-      "songName": "Just Right",
-      "hash": "903af5c7ae3b38dd2e6deddbced09d1cbc3854b5",
-      "levelid": "custom_level_903af5c7ae3b38dd2e6deddbced09d1cbc3854b5"
+      "key": "4cc71",
+      "songName": "Shinjitsu he no Requiem　(真実への鎮魂歌)　11eyes CrossOver OP / Tatsh / 彩音",
+      "hash": "fcff2d65e9289f3044e41b9586510947ae98eb01",
+      "levelid": "custom_level_fcff2d65e9289f3044e41b9586510947ae98eb01"
     },
     {
-      "key": "4cc1f",
-      "songName": "first song test",
-      "hash": "daf189478708abdc605ad9f482dbb31fc518b509",
-      "levelid": "custom_level_daf189478708abdc605ad9f482dbb31fc518b509"
+      "key": "4cc6f",
+      "songName": "Aussie's Vibro Practice S1 E1",
+      "hash": "fdb9c0595748ee906f8c606fdb8f26f9754f5e09",
+      "levelid": "custom_level_fdb9c0595748ee906f8c606fdb8f26f9754f5e09"
     },
     {
-      "key": "4cc1d",
-      "songName": "Longest name place in the world",
-      "hash": "5dc6d2f7af0c826aae39c38bbcb347807b083953",
-      "levelid": "custom_level_5dc6d2f7af0c826aae39c38bbcb347807b083953"
+      "key": "4cc6a",
+      "songName": "Hiiragi Subnetite - TE RI / Kasa Te S",
+      "hash": "acba7561d9cd972dd20ec914650ca1ae8db112b3",
+      "levelid": "custom_level_acba7561d9cd972dd20ec914650ca1ae8db112b3"
     },
     {
-      "key": "4cc12",
-      "songName": "Rip Me Apart (Envy Frenchcore Remix)",
-      "hash": "33891cebf6c0d6685861dd779892331876cb0335",
-      "levelid": "custom_level_33891cebf6c0d6685861dd779892331876cb0335"
+      "key": "4cc69",
+      "songName": "SPACE LACES - BOMB (ft. Marshmello)",
+      "hash": "55f9cd7d3ca9ace552f2536071370c2d2451c426",
+      "levelid": "custom_level_55f9cd7d3ca9ace552f2536071370c2d2451c426"
     },
     {
-      "key": "4cc02",
-      "songName": "Ksenon, MC POH - Gde to daleko",
-      "hash": "7a3b834b0420c4689639008acd11070b03a39519",
-      "levelid": "custom_level_7a3b834b0420c4689639008acd11070b03a39519"
+      "key": "4cc68",
+      "songName": "Here comes Santa Clause (Down Santa Clause lane)",
+      "hash": "39732eedd5943a4076107cb54c905ce69443713b",
+      "levelid": "custom_level_39732eedd5943a4076107cb54c905ce69443713b"
     },
     {
-      "key": "4cc00",
-      "songName": "Grozny",
-      "hash": "da20553326c294bab58bf4c94884e714c42b7bd2",
-      "levelid": "custom_level_da20553326c294bab58bf4c94884e714c42b7bd2"
+      "key": "4cc67",
+      "songName": "gladde paling - intermezzo",
+      "hash": "ba6432d3dbfb9b6c638591d036179a3868383b14",
+      "levelid": "custom_level_ba6432d3dbfb9b6c638591d036179a3868383b14"
     },
     {
-      "key": "4cbfe",
-      "songName": "ZEXSING - CRANK",
-      "hash": "c013919edd2fdbd39163caf7f43386e9bca746cf",
-      "levelid": "custom_level_c013919edd2fdbd39163caf7f43386e9bca746cf"
+      "key": "4cc63",
+      "songName": "[V4 | VNJS]LaVI-Babellabion (Game ver.) - SLAVE.V-V-R",
+      "hash": "1da6f01cc3dddae247e7ede617bcb645cda39052",
+      "levelid": "custom_level_1da6f01cc3dddae247e7ede617bcb645cda39052"
     },
     {
-      "key": "4cbf9",
-      "songName": "WHICH CASE ARE YOU OPENING?   Orion Drift VR",
-      "hash": "1546f686fb9726377203144fca8f0443c01d1748",
-      "levelid": "custom_level_1546f686fb9726377203144fca8f0443c01d1748"
+      "key": "4cc64",
+      "songName": "Discord by living tombstone",
+      "hash": "dffd9c9c332d279431b16620ecccb0109908cbc2",
+      "levelid": "custom_level_dffd9c9c332d279431b16620ecccb0109908cbc2"
     },
     {
-      "key": "4cbf6",
-      "songName": "A Miserable Life...",
-      "hash": "4e652748eccb98d7948104124b0a9b7eec1bd980",
-      "levelid": "custom_level_4e652748eccb98d7948104124b0a9b7eec1bd980"
+      "key": "4cc62",
+      "songName": "Crazy Robot Body - Evil Neuro",
+      "hash": "9574156d7697dcd1a19a655a878598f2d61f9e58",
+      "levelid": "custom_level_9574156d7697dcd1a19a655a878598f2d61f9e58"
     },
     {
-      "key": "4cbf2",
-      "songName": "OVERDRIVE- Extra Terra & RENESIS",
-      "hash": "ef39f181601bbcab37fb50723850a99a2fc9e5a7",
-      "levelid": "custom_level_ef39f181601bbcab37fb50723850a99a2fc9e5a7"
+      "key": "4cc61",
+      "songName": "Asuka Ohta and Ryo Nagamatsu - Coconut Mall (Mario Kart Wii)",
+      "hash": "8e243d4cda6638345eddfbf092803f91b649f352",
+      "levelid": "custom_level_8e243d4cda6638345eddfbf092803f91b649f352"
     },
     {
-      "key": "4cbee",
-      "songName": "most wonderful time of the year",
-      "hash": "a0cef7c55f829755bf07e8191211ce49dcc2655a",
-      "levelid": "custom_level_a0cef7c55f829755bf07e8191211ce49dcc2655a"
+      "key": "4cc60",
+      "songName": "Jingle bell rock",
+      "hash": "a1c077a2f4bb41c31c7b1a2af4049fad0f9987b4",
+      "levelid": "custom_level_a1c077a2f4bb41c31c7b1a2af4049fad0f9987b4"
     },
     {
-      "key": "4cbed",
-      "songName": "Am I Your Dad? - by Tedred Bootknocker",
-      "hash": "521526e1abd88bd2e31ceaef7cb90a24e4cf33a8",
-      "levelid": "custom_level_521526e1abd88bd2e31ceaef7cb90a24e4cf33a8"
+      "key": "4cc5d",
+      "songName": "Diva - Aiobahn, TAK, Hatsune Miku",
+      "hash": "7b0f32044c2618fa0d81fb797bd923e348cc28ed",
+      "levelid": "custom_level_7b0f32044c2618fa0d81fb797bd923e348cc28ed"
     },
     {
-      "key": "4cbec",
-      "songName": "Clips of my friend liveon (swedish)",
-      "hash": "318cc13764bee5f6deb97af301742cf4b859ff7f",
-      "levelid": "custom_level_318cc13764bee5f6deb97af301742cf4b859ff7f"
+      "key": "4cc5c",
+      "songName": "bunny jugg",
+      "hash": "b3ea0f6b8dd5310e85bd429a12ed8d521bce5ecc",
+      "levelid": "custom_level_b3ea0f6b8dd5310e85bd429a12ed8d521bce5ecc"
     },
     {
-      "key": "4cbeb",
-      "songName": "Dumbest Girl alive",
-      "hash": "4d1511a58b43700cac8f1eb5b74336adeb33a1b1",
-      "levelid": "custom_level_4d1511a58b43700cac8f1eb5b74336adeb33a1b1"
+      "key": "4cc5b",
+      "songName": "I dont think that's quite what he asked for...  Orion Drift VR",
+      "hash": "1628d4484fcb612cf429b5bba651f4f218cba6d3",
+      "levelid": "custom_level_1628d4484fcb612cf429b5bba651f4f218cba6d3"
     },
     {
-      "key": "4cbea",
-      "songName": "[QUEUE] an4rch - i just hope you tell me when you change your mind",
-      "hash": "6d38edb4ea67ecbee9c74bf0f44414a5533dd1ac",
-      "levelid": "custom_level_6d38edb4ea67ecbee9c74bf0f44414a5533dd1ac"
+      "key": "4cc5a",
+      "songName": "Hirokazu Ando - Welcome Back, Kirby (Kirby and the Forgotten Land)",
+      "hash": "97e7b6cfa075a6e6a03c644b544e9ff28554b707",
+      "levelid": "custom_level_97e7b6cfa075a6e6a03c644b544e9ff28554b707"
     },
     {
-      "key": "4cbe9",
-      "songName": "Inhuman - Blade and Bath",
-      "hash": "3ba726145f64351ecc07179d1bd9b80e69a9de8a",
-      "levelid": "custom_level_3ba726145f64351ecc07179d1bd9b80e69a9de8a"
+      "key": "4cc58",
+      "songName": "Runegon",
+      "hash": "6477ed4141e5184ca7a33e1093a5db3d318682d1",
+      "levelid": "custom_level_6477ed4141e5184ca7a33e1093a5db3d318682d1"
     },
     {
-      "key": "4cbe2",
-      "songName": "Exyl & Dalux - nice logo",
-      "hash": "888b93b0d8b16f15e9eab6e32a9fc1f0fb35d4ef",
-      "levelid": "custom_level_888b93b0d8b16f15e9eab6e32a9fc1f0fb35d4ef"
+      "key": "4cc54",
+      "songName": "CHICKEN DANCE",
+      "hash": "a54fa978c0ef03b21241267198a68db0b1e6f98f",
+      "levelid": "custom_level_a54fa978c0ef03b21241267198a68db0b1e6f98f"
     },
     {
-      "key": "4cbe1",
-      "songName": "Ding Dong",
-      "hash": "b5acba4ae68c0cabd556e3677c4c71748543522c",
-      "levelid": "custom_level_b5acba4ae68c0cabd556e3677c4c71748543522c"
+      "key": "4cc53",
+      "songName": "Teminite & Boom Kitty - The Master II: Blades of Chaos",
+      "hash": "b444a44b36baa0400e4599e649647c1c3884803c",
+      "levelid": "custom_level_b444a44b36baa0400e4599e649647c1c3884803c"
     },
     {
-      "key": "4cbe0",
-      "songName": "Anadrol",
-      "hash": "c3c0311da0620fc6c2a5b1a3c9cc798e666f9d4f",
-      "levelid": "custom_level_c3c0311da0620fc6c2a5b1a3c9cc798e666f9d4f"
+      "key": "4cc52",
+      "songName": "Old Spice",
+      "hash": "0693b2c93e719f8c08123603abd4a08054577dd0",
+      "levelid": "custom_level_0693b2c93e719f8c08123603abd4a08054577dd0"
     },
     {
-      "key": "4cbd9",
-      "songName": "BROTHER NOAH?",
-      "hash": "da8815a9f0f20fcfba09d63000a6a2b7ed7d0698",
-      "levelid": "custom_level_da8815a9f0f20fcfba09d63000a6a2b7ed7d0698"
+      "key": "4cc51",
+      "songName": "Scott Brown · M-Project · Krystal - Because of You (Original Mix)",
+      "hash": "78edc4b318b03f2e83e8c40de04446b1b595dd22",
+      "levelid": "custom_level_78edc4b318b03f2e83e8c40de04446b1b595dd22"
     },
     {
-      "key": "4cbd1",
-      "songName": "XG - GALA",
-      "hash": "938d49f5b4c3c8b4982223f73ab956e5e877e1c7",
-      "levelid": "custom_level_938d49f5b4c3c8b4982223f73ab956e5e877e1c7"
+      "key": "4cc4d",
+      "songName": "Otsukare Summer",
+      "hash": "6e56290da2c86d29777571b38e24f2eacd8ae5b9",
+      "levelid": "custom_level_6e56290da2c86d29777571b38e24f2eacd8ae5b9"
     },
     {
-      "key": "4c70f",
-      "songName": "Tommy heavenly6 - PAPERMOON",
-      "hash": "f69a515c4a920a87292f814d6946cf2168e8b374",
-      "levelid": "custom_level_f69a515c4a920a87292f814d6946cf2168e8b374"
+      "key": "4c6b8",
+      "songName": "Minorti & HAGISOPH - Cruciv",
+      "hash": "074d3c2a8f29ffdd0a2d8b4ac14d4ea1dc19b887",
+      "levelid": "custom_level_074d3c2a8f29ffdd0a2d8b4ac14d4ea1dc19b887"
     },
     {
-      "key": "4cbd0",
-      "songName": "Laur - Sound Chimera (Nyankovsky & Kobaryo Remix)",
-      "hash": "22279f62854047798f184aa5e7e9a3181e424618",
-      "levelid": "custom_level_22279f62854047798f184aa5e7e9a3181e424618"
+      "key": "4cc39",
+      "songName": "Marino - Crush",
+      "hash": "b297149ee56abe78afcaefe41300bf89dbd55379",
+      "levelid": "custom_level_b297149ee56abe78afcaefe41300bf89dbd55379"
     },
     {
-      "key": "4cbcf",
-      "songName": "The Veldt - Deadmau5 feat. Chris James (Cinema & Chroma+)",
-      "hash": "a4dd2143a037a9f3486647c57687d7f0ddd22bac",
-      "levelid": "custom_level_a4dd2143a037a9f3486647c57687d7f0ddd22bac"
+      "key": "4cc38",
+      "songName": "ElRubiusOMG - Minero (feat. Starkin)",
+      "hash": "5a97cdbcb615e2f1680d3c5c905c779a682bb826",
+      "levelid": "custom_level_5a97cdbcb615e2f1680d3c5c905c779a682bb826"
     },
     {
-      "key": "4cbcd",
-      "songName": "ericdoa - fantasize",
-      "hash": "64a43146727de6627d72e5bef114363a04835c16",
-      "levelid": "custom_level_64a43146727de6627d72e5bef114363a04835c16"
+      "key": "4cc37",
+      "songName": "Toxi$ - I GOT U",
+      "hash": "deb8627fc96a61f0e812866505f0d411196fa6a0",
+      "levelid": "custom_level_deb8627fc96a61f0e812866505f0d411196fa6a0"
     },
     {
-      "key": "4cbca",
-      "songName": "oh yeah mr krabs",
-      "hash": "0297c51beca05ca959a6f676bdb668449921d989",
-      "levelid": "custom_level_0297c51beca05ca959a6f676bdb668449921d989"
+      "key": "4cbfd",
+      "songName": "Kyutatsuki - GALAXY_FRAGMENTATION",
+      "hash": "de2b61208918a65477c7b9bb767c876f0c125519",
+      "levelid": "custom_level_de2b61208918a65477c7b9bb767c876f0c125519"
     },
     {
-      "key": "4cbc9",
-      "songName": "【東方】さわわ - 少女さとり ～satori crisis～",
-      "hash": "dbe340a34ef5dda119bb5718f2c230dc5988ada1",
-      "levelid": "custom_level_dbe340a34ef5dda119bb5718f2c230dc5988ada1"
+      "key": "4cc31",
+      "songName": "Veinlust",
+      "hash": "96c9f934e302949863ba303a163c002e4b160325",
+      "levelid": "custom_level_96c9f934e302949863ba303a163c002e4b160325"
     },
     {
-      "key": "4cbc8",
-      "songName": "Longest name place in the world",
-      "hash": "434cdbb397ff0cb6efeb8baf03956a8fde06d7fb",
-      "levelid": "custom_level_434cdbb397ff0cb6efeb8baf03956a8fde06d7fb"
+      "key": "4cc2d",
+      "songName": "don't make me commit a melony",
+      "hash": "cc35be8f7b9a0cb21522a7600134a9048a34ddb8",
+      "levelid": "custom_level_cc35be8f7b9a0cb21522a7600134a9048a34ddb8"
     },
     {
-      "key": "4cbba",
-      "songName": "[LIGHTSHOW] Catch Me - JVKE",
-      "hash": "f31c85846fa8af8a0df024a4e9a40440893132b4",
-      "levelid": "custom_level_f31c85846fa8af8a0df024a4e9a40440893132b4"
+      "key": "4cc2c",
+      "songName": "skibidikroski - training",
+      "hash": "8da74c2728307f8c22c5c900469529ee88d2ce12",
+      "levelid": "custom_level_8da74c2728307f8c22c5c900469529ee88d2ce12"
     },
     {
-      "key": "4cb72",
-      "songName": "[CS New Years 2026 Countdown 🎁 ]  Thank you, Merry Christmas! [メリークリスマス、そして良いお年をお迎えください！愛を込めて、エリー]",
-      "hash": "66b390af925b9d000235d1c46319f625e5bc2ac7",
-      "levelid": "custom_level_66b390af925b9d000235d1c46319f625e5bc2ac7"
+      "key": "4cbd4",
+      "songName": "Baby DONT Cry - I DONT CARE",
+      "hash": "25045bb628bc4895d6a7828ed141f78c33f0f447",
+      "levelid": "custom_level_25045bb628bc4895d6a7828ed141f78c33f0f447"
     },
     {
-      "key": "4cbb5",
-      "songName": "BURNING EYES",
-      "hash": "f27747ea1cf097b18804e25d5b99ffa915de06ff",
-      "levelid": "custom_level_f27747ea1cf097b18804e25d5b99ffa915de06ff"
+      "key": "4cb8b",
+      "songName": "Zekk - Burn",
+      "hash": "063e3e02a1cffa9fde5359db414e02d57fc2382c",
+      "levelid": "custom_level_063e3e02a1cffa9fde5359db414e02d57fc2382c"
     },
     {
-      "key": "4cbb3",
-      "songName": "Daniel Olsén & Jonathan Eng - Sayonara Wild Heart (feat. Linnea Olsson)",
-      "hash": "17b217943fdefd20d5d84e07616e264524ec2ddd",
-      "levelid": "custom_level_17b217943fdefd20d5d84e07616e264524ec2ddd"
+      "key": "4cb12",
+      "songName": "CloZee - Antares (The Funk Hunters Remix)",
+      "hash": "0040c6cf0c2d19108036fa942edc7eb1336da63b",
+      "levelid": "custom_level_0040c6cf0c2d19108036fa942edc7eb1336da63b"
     },
     {
-      "key": "4cbb1",
-      "songName": "Tap Water",
-      "hash": "6d8f83bdfc3b516ed524e11a8eb42b4b6ded816f",
-      "levelid": "custom_level_6d8f83bdfc3b516ed524e11a8eb42b4b6ded816f"
+      "key": "4c7af",
+      "songName": "WXRTNAX & MEZZIA - TRAJADAO",
+      "hash": "0ab4215997a706c4b0bbbc67640b137398b5a6e7",
+      "levelid": "custom_level_0ab4215997a706c4b0bbbc67640b137398b5a6e7"
     },
     {
-      "key": "4cbae",
-      "songName": "  [Vivify] Your Idol - Saja Boys",
-      "hash": "d29f79187231b653b9150b189036bf3564c8cc8a",
-      "levelid": "custom_level_d29f79187231b653b9150b189036bf3564c8cc8a"
+      "key": "4bfa3",
+      "songName": "NeLiME - Laniakea",
+      "hash": "d606790dcf98702c6bca82d50d88681090144459",
+      "levelid": "custom_level_d606790dcf98702c6bca82d50d88681090144459"
     },
     {
-      "key": "4c962",
-      "songName": "ADYA - Per",
-      "hash": "ae3550f383a3c385904e45c114195976834bdfbd",
-      "levelid": "custom_level_ae3550f383a3c385904e45c114195976834bdfbd"
+      "key": "4cc2b",
+      "songName": "Danger - Ray Volpe and TYnan",
+      "hash": "1b9f0095b560efb5548233467563a7cbd5b1ccbf",
+      "levelid": "custom_level_1b9f0095b560efb5548233467563a7cbd5b1ccbf"
     },
     {
-      "key": "4cbac",
-      "songName": "Toby Fox - Wrong Number Song (Camellia Remix)",
-      "hash": "e6c1486e5ec25fa560d47800d79e31a0bc1ad049",
-      "levelid": "custom_level_e6c1486e5ec25fa560d47800d79e31a0bc1ad049"
-    },
-    {
-      "key": "4cbad",
-      "songName": "黒龍戦(Zelda Tears Of The Kingdom )",
-      "hash": "a2c4feba8ab8fac56a29cb24c0c3546c0653d568",
-      "levelid": "custom_level_a2c4feba8ab8fac56a29cb24c0c3546c0653d568"
+      "key": "4cba8",
+      "songName": "Dream Fantasy - Andora",
+      "hash": "7a7750d51b55f546d16cdfa76c853af51650f717",
+      "levelid": "custom_level_7a7750d51b55f546d16cdfa76c853af51650f717"
     }
   ],
   "image": ""
