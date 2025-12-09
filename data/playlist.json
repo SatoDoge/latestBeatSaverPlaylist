@@ -1,244 +1,220 @@
 {
-  "playlistTitle": "2025-12-07T15:18:49.255Z~2025-12-08T15:18:49.255Z",
+  "playlistTitle": "2025-12-08T15:18:53.438Z~2025-12-09T15:18:53.438Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-12-07T15:18:49.255Z and 2025-12-08T15:18:49.255Z",
+  "discripstion": "Maps published between 2025-12-08T15:18:53.438Z and 2025-12-09T15:18:53.438Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "4cd31",
+      "songName": "[Welcome 2026] Camellia - ☆REX☆",
+      "hash": "6b738e58249834c35c417d6f1f3562c7c01ec5ec",
+      "levelid": "custom_level_6b738e58249834c35c417d6f1f3562c7c01ec5ec"
+    },
+    {
+      "key": "4cd2a",
+      "songName": "【再投稿】　Tanpopo / Butaotome / タンポポ -豚乙女-",
+      "hash": "a32a264eedcc9036ec7d55f556e664664c355702",
+      "levelid": "custom_level_a32a264eedcc9036ec7d55f556e664664c355702"
+    },
+    {
+      "key": "4cd29",
+      "songName": "[Cinema] EveryLunaEver - Sway!",
+      "hash": "e94b87699893980172fad0ef0c54a7bbd110fbc8",
+      "levelid": "custom_level_e94b87699893980172fad0ef0c54a7bbd110fbc8"
+    },
+    {
+      "key": "4cd28",
+      "songName": "DOMOTO - 愛のかたまり (Ai no Katamari)",
+      "hash": "1440874d9045aeb1d96e610032b3d4bac8639218",
+      "levelid": "custom_level_1440874d9045aeb1d96e610032b3d4bac8639218"
+    },
+    {
+      "key": "4cd26",
+      "songName": "All Day [Taxi Driver/모범택시 OST Part.4] - Cha Ji Yeon/차지연",
+      "hash": "500f43d14ad22bcac0f679c3674effcaf209c311",
+      "levelid": "custom_level_500f43d14ad22bcac0f679c3674effcaf209c311"
+    },
+    {
+      "key": "4cd25",
+      "songName": "Alison Wonderland - Run",
+      "hash": "37bd640472d8a964f774263f47d7f8e27e2ad88f",
+      "levelid": "custom_level_37bd640472d8a964f774263f47d7f8e27e2ad88f"
+    },
+    {
+      "key": "4cd24",
+      "songName": "pruple dumpet mivrfunty",
+      "hash": "3206b7a4fd1b3398c7af1ad336649660b9129fb4",
+      "levelid": "custom_level_3206b7a4fd1b3398c7af1ad336649660b9129fb4"
+    },
+    {
+      "key": "4cd23",
+      "songName": "I'm so fucked up please help me",
+      "hash": "d842225729196841e34f61d38d7f8bf87b67691e",
+      "levelid": "custom_level_d842225729196841e34f61d38d7f8bf87b67691e"
+    },
+    {
+      "key": "4cd22",
+      "songName": "WestyHexagonVR is gooning to..........☠️☠️ in Orion Drift VR",
+      "hash": "8975d56ea94b7e21278ca21ca4e2a95d8c9b90c8",
+      "levelid": "custom_level_8975d56ea94b7e21278ca21ca4e2a95d8c9b90c8"
+    },
+    {
+      "key": "4cd21",
+      "songName": "Ryan Shore - Spyhunter (Intro)",
+      "hash": "4959c8c49fc03047a2611ec4a8382b6284b6cf28",
+      "levelid": "custom_level_4959c8c49fc03047a2611ec4a8382b6284b6cf28"
+    },
+    {
+      "key": "4cd20",
+      "songName": "[Feetsaber]大东北我的家乡",
+      "hash": "dd560882f7ef1fee6d9ae9b6fbb03d823f022609",
+      "levelid": "custom_level_dd560882f7ef1fee6d9ae9b6fbb03d823f022609"
+    },
+    {
+      "key": "4cd1d",
+      "songName": "That Kid - Cobra",
+      "hash": "ab2906340fbbdb79fdf635841504e551fad5bed0",
+      "levelid": "custom_level_ab2906340fbbdb79fdf635841504e551fad5bed0"
+    },
+    {
+      "key": "4cd1c",
+      "songName": "Alternative Underground ",
+      "hash": "b4db01c4c5f9fcc5a4539268ce979250303ab0cf",
+      "levelid": "custom_level_b4db01c4c5f9fcc5a4539268ce979250303ab0cf"
+    },
+    {
+      "key": "4cd1b",
+      "songName": "2hollis - 3",
+      "hash": "106adde8d2c597b14e7578d72462b890773d27f4",
+      "levelid": "custom_level_106adde8d2c597b14e7578d72462b890773d27f4"
+    },
+    {
+      "key": "4cd1a",
+      "songName": "Poker Face",
+      "hash": "2779a40faedc5f67c7cf010994625175126fb5ed",
+      "levelid": "custom_level_2779a40faedc5f67c7cf010994625175126fb5ed"
+    },
+    {
+      "key": "4cd19",
+      "songName": "Первое свидание",
+      "hash": "4bbe15b0fafcde60630999f5cba81e006c78d06e",
+      "levelid": "custom_level_4bbe15b0fafcde60630999f5cba81e006c78d06e"
+    },
+    {
+      "key": "4cd18",
+      "songName": "Homecoming - Scott The Woz",
+      "hash": "70237eb4aa092b90e6a3870c3fef37ca092461d3",
+      "levelid": "custom_level_70237eb4aa092b90e6a3870c3fef37ca092461d3"
+    },
+    {
+      "key": "4cd14",
+      "songName": "Starships - Lil Texas",
+      "hash": "8fe66bfd9789895bb58875c2317f50f175257ec4",
+      "levelid": "custom_level_8fe66bfd9789895bb58875c2317f50f175257ec4"
+    },
+    {
+      "key": "4cd0d",
+      "songName": "C-Side - Now or Never!",
+      "hash": "df47e8006d4bcd3dd88be166b2882b19faa192fa",
+      "levelid": "custom_level_df47e8006d4bcd3dd88be166b2882b19faa192fa"
+    },
+    {
+      "key": "4cd0b",
+      "songName": "como fazer um estalinho gigante nuclear",
+      "hash": "01b41841860e285b60372931dbbc0b7b7500178c",
+      "levelid": "custom_level_01b41841860e285b60372931dbbc0b7b7500178c"
+    },
+    {
+      "key": "4ccfc",
+      "songName": "[V4 | VNJS] Rebzyyx - jealousy",
+      "hash": "4e3786ef3c6a190446d2b38b43f8ec477a3e0446",
+      "levelid": "custom_level_4e3786ef3c6a190446d2b38b43f8ec477a3e0446"
+    },
+    {
+      "key": "4cd0a",
+      "songName": "Densetsu☆MVPs - Densetsu.EXE",
+      "hash": "6ef6af1d405aa0f051b80e8236f403dfd253bff0",
+      "levelid": "custom_level_6ef6af1d405aa0f051b80e8236f403dfd253bff0"
+    },
+    {
+      "key": "4cd09",
+      "songName": "repo i love",
+      "hash": "caaf571b6e9190449b82d796241f11497e1d0f7e",
+      "levelid": "custom_level_caaf571b6e9190449b82d796241f11497e1d0f7e"
+    },
+    {
+      "key": "4cd07",
+      "songName": "Careless - CS Rap Mix",
+      "hash": "2419b87c7164087048caba8a84d1decdb4b2058b",
+      "levelid": "custom_level_2419b87c7164087048caba8a84d1decdb4b2058b"
+    },
+    {
+      "key": "4cd04",
+      "songName": "Boukistan",
+      "hash": "c0ab5f48350f40c823979fe2d2d7a4cef073ebd5",
+      "levelid": "custom_level_c0ab5f48350f40c823979fe2d2d7a4cef073ebd5"
+    },
+    {
+      "key": "4cd02",
+      "songName": "Diabarha - At Night (full version) [17A - Static Nightmare]",
+      "hash": "5ea1f4cdf72ed196a85662111d77c168310c440e",
+      "levelid": "custom_level_5ea1f4cdf72ed196a85662111d77c168310c440e"
+    },
+    {
+      "key": "4cd01",
+      "songName": "The disintegration loops | 1.1.4",
+      "hash": "06a14f66e7e6ea69e2b59db41cfcd6ec5697af78",
+      "levelid": "custom_level_06a14f66e7e6ea69e2b59db41cfcd6ec5697af78"
+    },
+    {
+      "key": "4ccfe",
+      "songName": "Archspire - Involuntary Doppelgänger",
+      "hash": "3b87d43e79c0277af56b00c7afaca10ac0f711b0",
+      "levelid": "custom_level_3b87d43e79c0277af56b00c7afaca10ac0f711b0"
+    },
+    {
+      "key": "4ccfd",
+      "songName": "Eli - Glitter",
+      "hash": "51c53374a245a459a8a77c02818e5705a1571b8b",
+      "levelid": "custom_level_51c53374a245a459a8a77c02818e5705a1571b8b"
+    },
+    {
+      "key": "4ccfb",
+      "songName": "fknsyd - Rain Simulator",
+      "hash": "9ba08fae7fc5a82b8e19d624ea6e573764895555",
+      "levelid": "custom_level_9ba08fae7fc5a82b8e19d624ea6e573764895555"
+    },
+    {
+      "key": "4ccf8",
+      "songName": "The Electric Dream (Jonathan Gering Remix)",
+      "hash": "10c9132b63c8caab1fc8c34b121cc986b039ca40",
+      "levelid": "custom_level_10c9132b63c8caab1fc8c34b121cc986b039ca40"
+    },
+    {
+      "key": "4ccf7",
+      "songName": "Little Bro Is Complaining About The Weekly Parkour in Orion Drift VR",
+      "hash": "9fc523188a12939ae24e38f278f0eca3a963d760",
+      "levelid": "custom_level_9fc523188a12939ae24e38f278f0eca3a963d760"
+    },
+    {
+      "key": "4cbd7",
+      "songName": "VVUP - INVESTED IN YOU",
+      "hash": "146411cf501b51637a2d8547e6248e319c62c17a",
+      "levelid": "custom_level_146411cf501b51637a2d8547e6248e319c62c17a"
+    },
+    {
+      "key": "4ccf3",
+      "songName": "Getter Jaani - Rockefeller Street",
+      "hash": "b2ea8d406aad7f5873e0eee44789f2ad2aed5cf7",
+      "levelid": "custom_level_b2ea8d406aad7f5873e0eee44789f2ad2aed5cf7"
+    },
+    {
       "key": "4ccf0",
       "songName": "Clover Day's suite6",
-      "hash": "c9e4933fda1b78d77e72f4be9f7f6472c7cbeb42",
-      "levelid": "custom_level_c9e4933fda1b78d77e72f4be9f7f6472c7cbeb42"
-    },
-    {
-      "key": "4ccef",
-      "songName": "Tanpopo / Butaotome / タンポポ -豚乙女- ",
-      "hash": "4b817e3ae8fa0dcc11dec76bc2faefcb0e4b93af",
-      "levelid": "custom_level_4b817e3ae8fa0dcc11dec76bc2faefcb0e4b93af"
-    },
-    {
-      "key": "4cceb",
-      "songName": "Feel The Fury - Sonic.EXE Outcome Memories",
-      "hash": "0554e560950a2885e54eb01dc069ccd5e6af3e38",
-      "levelid": "custom_level_0554e560950a2885e54eb01dc069ccd5e6af3e38"
-    },
-    {
-      "key": "4c6e7",
-      "songName": "[CS New Years 2026 Countdown 🎁] jxdn - CHRISTMAS SUCKS",
-      "hash": "ac34b47c76d5db5174ab98396de8e403c887a587",
-      "levelid": "custom_level_ac34b47c76d5db5174ab98396de8e403c887a587"
-    },
-    {
-      "key": "4cce7",
-      "songName": "Dragon Smash Goblin",
-      "hash": "d424203b86ed35b15c31726445f96ebecd1c53b6",
-      "levelid": "custom_level_d424203b86ed35b15c31726445f96ebecd1c53b6"
-    },
-    {
-      "key": "4cce6",
-      "songName": "PURIFIED",
-      "hash": "32f47332697ef720d89a9993e6da02619f5d1266",
-      "levelid": "custom_level_32f47332697ef720d89a9993e6da02619f5d1266"
-    },
-    {
-      "key": "4cce0",
-      "songName": "Stream Practice Patterns (Mono No Aware 1.4)",
-      "hash": "d08c09d72107da10104d66160db52cf6549f6fc3",
-      "levelid": "custom_level_d08c09d72107da10104d66160db52cf6549f6fc3"
-    },
-    {
-      "key": "4ccd0",
-      "songName": "3 prod jimy beny",
-      "hash": "9c3a726f9469ef1e540d6f1ac61b348b1c947006",
-      "levelid": "custom_level_9c3a726f9469ef1e540d6f1ac61b348b1c947006"
-    },
-    {
-      "key": "4cccf",
-      "songName": "HTML5 bytebeat sounds",
-      "hash": "2d9a3c1b64b547146611c9e22e70a9c438e76c2e",
-      "levelid": "custom_level_2d9a3c1b64b547146611c9e22e70a9c438e76c2e"
-    },
-    {
-      "key": "4ccce",
-      "songName": "blue devils 99 ",
-      "hash": "b56dfdec52fbe9a6be1dc63acb34f14914ed495e",
-      "levelid": "custom_level_b56dfdec52fbe9a6be1dc63acb34f14914ed495e"
-    },
-    {
-      "key": "4cccc",
-      "songName": "3L - MyonMyonMyonMyonMyonMyon!",
-      "hash": "a3125d74c974821adefdec129835a6974711084f",
-      "levelid": "custom_level_a3125d74c974821adefdec129835a6974711084f"
-    },
-    {
-      "key": "4cccb",
-      "songName": "Mindless Self Indulgence - Masturbates",
-      "hash": "2a2f58bcdf79868bedc1e80e3a8a61756eb141aa",
-      "levelid": "custom_level_2a2f58bcdf79868bedc1e80e3a8a61756eb141aa"
-    },
-    {
-      "key": "4ccca",
-      "songName": "The last sahur (remix)",
-      "hash": "eea64d24c7583d935faa889722eb768a89f0c3bb",
-      "levelid": "custom_level_eea64d24c7583d935faa889722eb768a89f0c3bb"
-    },
-    {
-      "key": "4ccc1",
-      "songName": "クリスマス・イブ - 花譜",
-      "hash": "a6f770aee4973219b60db667d3ed8422c15b6a89",
-      "levelid": "custom_level_a6f770aee4973219b60db667d3ed8422c15b6a89"
-    },
-    {
-      "key": "4ccc9",
-      "songName": "Labyrinth",
-      "hash": "dfc60ceced98fc306c8279bdf0f44d714d046369",
-      "levelid": "custom_level_dfc60ceced98fc306c8279bdf0f44d714d046369"
-    },
-    {
-      "key": "4ccc8",
-      "songName": "Asuka Ota and Ryo Nagamatsu - Luigi Circuit & Mario Circuit  (Mario Kart Wii)",
-      "hash": "79d3c0cb905236933824d677b1a6295ea32db507",
-      "levelid": "custom_level_79d3c0cb905236933824d677b1a6295ea32db507"
-    },
-    {
-      "key": "4ccc5",
-      "songName": "Halv - Concvssion",
-      "hash": "426bae6cfb4ae48f2ff1182d5d0ddf7d47b15982",
-      "levelid": "custom_level_426bae6cfb4ae48f2ff1182d5d0ddf7d47b15982"
-    },
-    {
-      "key": "4ccc6",
-      "songName": "femtanyl - BODY THE PISTOL",
-      "hash": "4115d42a91c5bb0a00f84888ccb4672ee4f49bda",
-      "levelid": "custom_level_4115d42a91c5bb0a00f84888ccb4672ee4f49bda"
-    },
-    {
-      "key": "4ccc4",
-      "songName": "Golden Trophy Combat",
-      "hash": "9ad4da6846df275d867a5a3fb61d92b0be6fa51b",
-      "levelid": "custom_level_9ad4da6846df275d867a5a3fb61d92b0be6fa51b"
-    },
-    {
-      "key": "4ccc2",
-      "songName": "Spider Dance Remix ",
-      "hash": "0be6d0759eb6ac726410840db0abf0a0c3237c21",
-      "levelid": "custom_level_0be6d0759eb6ac726410840db0abf0a0c3237c21"
-    },
-    {
-      "key": "4ccbb",
-      "songName": "Foreground Eclipse - Storytellers",
-      "hash": "861978543231691fac3ec92a9a43f5572c919676",
-      "levelid": "custom_level_861978543231691fac3ec92a9a43f5572c919676"
-    },
-    {
-      "key": "4ccad",
-      "songName": "화사 (HWASA) - Good Goodbye",
-      "hash": "92ff60412973b7e0e9fc2ad0b00afe3f840110ee",
-      "levelid": "custom_level_92ff60412973b7e0e9fc2ad0b00afe3f840110ee"
-    },
-    {
-      "key": "4ccaa",
-      "songName": "Cö shu Nie - Asphyxia  NOT COMPLETED!!",
-      "hash": "b79dd63b766d409e54d2d98bffd46300ecdebd7c",
-      "levelid": "custom_level_b79dd63b766d409e54d2d98bffd46300ecdebd7c"
-    },
-    {
-      "key": "4cca9",
-      "songName": "EXTRA TERRA -Neuromancer",
-      "hash": "cb65c4d41f980073bf03e18d297b260379db8e11",
-      "levelid": "custom_level_cb65c4d41f980073bf03e18d297b260379db8e11"
-    },
-    {
-      "key": "4cca7",
-      "songName": "CLUTCH",
-      "hash": "a7f06d17ee340ba39c7ec0ee57a6aa44561fce50",
-      "levelid": "custom_level_a7f06d17ee340ba39c7ec0ee57a6aa44561fce50"
-    },
-    {
-      "key": "4cca5",
-      "songName": "fall damage",
-      "hash": "ab1bd9c8c5d63d56ada6d82bd997c1dc83dbb4f4",
-      "levelid": "custom_level_ab1bd9c8c5d63d56ada6d82bd997c1dc83dbb4f4"
-    },
-    {
-      "key": "4cc95",
-      "songName": "[CS New Years 2026 Countdown 🎁 ] Jingle Bell Rock (Frxtil Cover)",
-      "hash": "c711acb6706e89902011e0673b05ca1eca1c2b13",
-      "levelid": "custom_level_c711acb6706e89902011e0673b05ca1eca1c2b13"
-    },
-    {
-      "key": "4cca4",
-      "songName": "The Master II : Blades Of Chaos",
-      "hash": "0727e76ce94be836742ff450450f5df1dda80046",
-      "levelid": "custom_level_0727e76ce94be836742ff450450f5df1dda80046"
-    },
-    {
-      "key": "4cca2",
-      "songName": "Something is wrong with my Wii Sports game",
-      "hash": "54933bc4d6232ffe0a86e431b9ee351545756ba7",
-      "levelid": "custom_level_54933bc4d6232ffe0a86e431b9ee351545756ba7"
-    },
-    {
-      "key": "4cca1",
-      "songName": "The Electric Dream (Jonathan Gering Remix)",
-      "hash": "bdb16263439fb1672c3b548446771add391ad618",
-      "levelid": "custom_level_bdb16263439fb1672c3b548446771add391ad618"
-    },
-    {
-      "key": "4cca0",
-      "songName": "WTH JUST HAPENED?",
-      "hash": "49f5fa31d712c397a9d61b6ed0a6e0ff931bb938",
-      "levelid": "custom_level_49f5fa31d712c397a9d61b6ed0a6e0ff931bb938"
-    },
-    {
-      "key": "4cc9f",
-      "songName": "Basshunter - Jingle Bells (Bass)",
-      "hash": "e1d48010b9e523616c072219c3e927a1e5a144aa",
-      "levelid": "custom_level_e1d48010b9e523616c072219c3e927a1e5a144aa"
-    },
-    {
-      "key": "4cc9d",
-      "songName": "Rockin around the Christmas tree",
-      "hash": "ee0029568d0412016b616b8c9e8657c1df179ab6",
-      "levelid": "custom_level_ee0029568d0412016b616b8c9e8657c1df179ab6"
-    },
-    {
-      "key": "4cc99",
-      "songName": "Sewer Creature",
-      "hash": "4c7e415ae138403554b9726688c6a8543e0cc963",
-      "levelid": "custom_level_4c7e415ae138403554b9726688c6a8543e0cc963"
-    },
-    {
-      "key": "4cc94",
-      "songName": "bella forgot where she left her portch",
-      "hash": "aec2398a16246b8e55f9d514aab8632678455211",
-      "levelid": "custom_level_aec2398a16246b8e55f9d514aab8632678455211"
-    },
-    {
-      "key": "4cc93",
-      "songName": "chicken",
-      "hash": "60b0b342d71cb7662893c3a7758c04d3911269a4",
-      "levelid": "custom_level_60b0b342d71cb7662893c3a7758c04d3911269a4"
-    },
-    {
-      "key": "4cbd6",
-      "songName": "FIFTY FIFTY - Oops, My Bad",
-      "hash": "9c75fd97886adf484e9069b5e6130803768157b5",
-      "levelid": "custom_level_9c75fd97886adf484e9069b5e6130803768157b5"
-    },
-    {
-      "key": "4cc7f",
-      "songName": "[Fitbeat] Yuri - Utchai",
-      "hash": "444f8dfa0866455e92c3f7827d57023b7efaf1c3",
-      "levelid": "custom_level_444f8dfa0866455e92c3f7827d57023b7efaf1c3"
-    },
-    {
-      "key": "4cc7d",
-      "songName": "Three Days Grace -Never Ordinary ",
-      "hash": "21dca89d4055abb7c5cbc66ff1b4d008e1bfc220",
-      "levelid": "custom_level_21dca89d4055abb7c5cbc66ff1b4d008e1bfc220"
+      "hash": "65085a3a8edb1c7041b5c6988e2011108dcc61de",
+      "levelid": "custom_level_65085a3a8edb1c7041b5c6988e2011108dcc61de"
     }
   ],
   "image": ""
