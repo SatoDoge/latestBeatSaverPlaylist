@@ -1,262 +1,214 @@
 {
-  "playlistTitle": "2025-12-09T15:18:51.067Z~2025-12-10T15:18:51.067Z",
+  "playlistTitle": "2025-12-10T15:18:48.587Z~2025-12-11T15:18:48.587Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-12-09T15:18:51.067Z and 2025-12-10T15:18:51.067Z",
+  "discripstion": "Maps published between 2025-12-10T15:18:48.587Z and 2025-12-11T15:18:48.587Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "4cdec",
+      "songName": "SML Movie Jeffy's Infinite Irida! - Shucks(lyrics)",
+      "hash": "f57f16ad66870e8a8223d37a04e61c36a2d58e22",
+      "levelid": "custom_level_f57f16ad66870e8a8223d37a04e61c36a2d58e22"
+    },
+    {
+      "key": "4cdea",
+      "songName": "St. Chroma",
+      "hash": "037623837f3f6752489bee43f0cc538de90fa7c1",
+      "levelid": "custom_level_037623837f3f6752489bee43f0cc538de90fa7c1"
+    },
+    {
+      "key": "4cde9",
+      "songName": "Drive Beyond Horizons - Watch Me V2",
+      "hash": "0aa60dbf91c3be3569d41aa4a3fdbe5d5b813ab1",
+      "levelid": "custom_level_0aa60dbf91c3be3569d41aa4a3fdbe5d5b813ab1"
+    },
+    {
+      "key": "4cde7",
+      "songName": "All I want for Christmas is You but for every chord change there is a metal pipe falling sound",
+      "hash": "29a39f7750101db6bc873e434b8372c7be1f1083",
+      "levelid": "custom_level_29a39f7750101db6bc873e434b8372c7be1f1083"
+    },
+    {
+      "key": "4cde6",
+      "songName": "ColdShadowsz Death Timer Clip",
+      "hash": "90fb4e4e344ba4c0d6ec6f760b6de28f9b98adc0",
+      "levelid": "custom_level_90fb4e4e344ba4c0d6ec6f760b6de28f9b98adc0"
+    },
+    {
+      "key": "4cde5",
+      "songName": "[Welcome 2026] DJ Raisei - ☆Submerged City☆",
+      "hash": "ecb55532ddfb79a6d6819abca97d43c19b491507",
+      "levelid": "custom_level_ecb55532ddfb79a6d6819abca97d43c19b491507"
+    },
+    {
+      "key": "4cde4",
+      "songName": "Agilion - LeaF",
+      "hash": "829b0a3540ca491d5ce039a21ba67cf5796f4e6b",
+      "levelid": "custom_level_829b0a3540ca491d5ce039a21ba67cf5796f4e6b"
+    },
+    {
+      "key": "4cdd4",
+      "songName": "The Beast I Worship V2",
+      "hash": "255c8e9d9a0fad6491ebb06969e790fa138b43e5",
+      "levelid": "custom_level_255c8e9d9a0fad6491ebb06969e790fa138b43e5"
+    },
+    {
+      "key": "4cdd2",
+      "songName": "Marshmello - Alone",
+      "hash": "7de09e82726402257d86e290173a1647e28e84d4",
+      "levelid": "custom_level_7de09e82726402257d86e290173a1647e28e84d4"
+    },
+    {
+      "key": "4cdd1",
+      "songName": "Never google your symptoms",
+      "hash": "dfd85f050d1aa98ca0bd608c41124a499b786ae1",
+      "levelid": "custom_level_dfd85f050d1aa98ca0bd608c41124a499b786ae1"
+    },
+    {
+      "key": "4cdd0",
+      "songName": "Windows 8 Startup Sound",
+      "hash": "7ea981ea1843102d9ada504c094a4b11b97348e4",
+      "levelid": "custom_level_7ea981ea1843102d9ada504c094a4b11b97348e4"
+    },
+    {
+      "key": "4cdc7",
+      "songName": "[Feetsaber]IRIS OUT",
+      "hash": "acb7459eb25520622d29eff2bf80390ba9b6882c",
+      "levelid": "custom_level_acb7459eb25520622d29eff2bf80390ba9b6882c"
+    },
+    {
+      "key": "4cdc4",
+      "songName": "The Slackademics - This Dance",
+      "hash": "6da86b4698da168b9bdf530e3026b7de234215e0",
+      "levelid": "custom_level_6da86b4698da168b9bdf530e3026b7de234215e0"
+    },
+    {
+      "key": "4cdb8",
+      "songName": "Flourish, Wither, Bye",
+      "hash": "a87b98d96d85d268fad52a1f4f45e14cbf41bf3e",
+      "levelid": "custom_level_a87b98d96d85d268fad52a1f4f45e14cbf41bf3e"
+    },
+    {
+      "key": "4cdbe",
+      "songName": "nearocker - damn.. geniunely so hooked",
+      "hash": "58f8ffea927137c6841cd57ae6d83a9e567d735c",
+      "levelid": "custom_level_58f8ffea927137c6841cd57ae6d83a9e567d735c"
+    },
+    {
+      "key": "4cdba",
+      "songName": "Underscore -sheaskedifilikespeedcore",
+      "hash": "9ec6135d704b7c4c4e9d1f2088c46a8bac3ba563",
+      "levelid": "custom_level_9ec6135d704b7c4c4e9d1f2088c46a8bac3ba563"
+    },
+    {
+      "key": "4cdb2",
+      "songName": "made in a dream - flyingfish (1.1x)",
+      "hash": "47e329974078a89858524d4a2ecee22faa379c23",
+      "levelid": "custom_level_47e329974078a89858524d4a2ecee22faa379c23"
+    },
+    {
+      "key": "4cdb0",
+      "songName": "Boys Dont Cry",
+      "hash": "09686974950b937cb38a1c011272cc3f5db14e5f",
+      "levelid": "custom_level_09686974950b937cb38a1c011272cc3f5db14e5f"
+    },
+    {
+      "key": "4cdae",
+      "songName": "\"Rainbow Gal\" - Cavetown",
+      "hash": "17e6d083726de3adc635bf61a246989012dd11c3",
+      "levelid": "custom_level_17e6d083726de3adc635bf61a246989012dd11c3"
+    },
+    {
+      "key": "4cdad",
+      "songName": "i made this just for ya",
+      "hash": "807308ff960357899bea2e4ab0ec7fc3f2500d3a",
+      "levelid": "custom_level_807308ff960357899bea2e4ab0ec7fc3f2500d3a"
+    },
+    {
+      "key": "4cda4",
+      "songName": "The ABSOLUTE LAST sahur",
+      "hash": "3b108c665da77015ec534ff87f27aee7544fb3b3",
+      "levelid": "custom_level_3b108c665da77015ec534ff87f27aee7544fb3b3"
+    },
+    {
+      "key": "4cda3",
+      "songName": "MURDED",
+      "hash": "8f9b8a3f17233b20c1eb6286f61801235ad1c8fd",
+      "levelid": "custom_level_8f9b8a3f17233b20c1eb6286f61801235ad1c8fd"
+    },
+    {
+      "key": "4cda2",
+      "songName": "Laserstraal",
+      "hash": "c81604a121edb7184f34d5eaf34749d616655ad2",
+      "levelid": "custom_level_c81604a121edb7184f34d5eaf34749d616655ad2"
+    },
+    {
+      "key": "4cda1",
+      "songName": "inclxx challenge (garageband type beat)",
+      "hash": "07863c9bae65695e166ce2e00c757fabb2aaaa25",
+      "levelid": "custom_level_07863c9bae65695e166ce2e00c757fabb2aaaa25"
+    },
+    {
+      "key": "4cd9e",
+      "songName": "Ticking Away - Grabbitz, bbno$ [V3]",
+      "hash": "a5f410bb9c25eed750bd1cf84730dd68358fc19b",
+      "levelid": "custom_level_a5f410bb9c25eed750bd1cf84730dd68358fc19b"
+    },
+    {
+      "key": "4cd9d",
+      "songName": "Ticking Away - Grabbitz, bbno$ (Variable NJS)[V3]",
+      "hash": "38f6daf931b1158ceb81c1126a5ac742e0689233",
+      "levelid": "custom_level_38f6daf931b1158ceb81c1126a5ac742e0689233"
+    },
+    {
+      "key": "4cd9c",
+      "songName": "7D",
+      "hash": "6e20d3cc9efe3fc94cfa9477dec4674166a0c9d4",
+      "levelid": "custom_level_6e20d3cc9efe3fc94cfa9477dec4674166a0c9d4"
+    },
+    {
+      "key": "4cd6b",
+      "songName": "Black Tiger Sex Machine & Lektrique - Religion (Erotic Cafe' Remix)",
+      "hash": "7775cea97f6c1f6a5bf0bf30b603f510f36f29e5",
+      "levelid": "custom_level_7775cea97f6c1f6a5bf0bf30b603f510f36f29e5"
+    },
+    {
+      "key": "4cd9a",
+      "songName": "An appalling picture",
+      "hash": "db7debf3c7945fdd94083e572189291558cf72da",
+      "levelid": "custom_level_db7debf3c7945fdd94083e572189291558cf72da"
+    },
+    {
+      "key": "4cd95",
+      "songName": "MONTAGEM RUGANDA - Hardstyle Remix - cape, JXNDRO, Sayfalse",
+      "hash": "06467e190291e005bed500c06cb3dac81b4c3f8c",
+      "levelid": "custom_level_06467e190291e005bed500c06cb3dac81b4c3f8c"
+    },
+    {
+      "key": "4cbd5",
+      "songName": "ALICE - JACKPOT",
+      "hash": "e4ba45d5bcfcebf7c5848f38d2b5c0231881b706",
+      "levelid": "custom_level_e4ba45d5bcfcebf7c5848f38d2b5c0231881b706"
+    },
+    {
+      "key": "4cd90",
+      "songName": "light mode on discord",
+      "hash": "e4b8c492e04826daa2dc0c6ad3439366c795fa5a",
+      "levelid": "custom_level_e4b8c492e04826daa2dc0c6ad3439366c795fa5a"
+    },
+    {
+      "key": "4cd8f",
+      "songName": "DEBUT KATSEY",
+      "hash": "58bfaaf37ef93682b9ddead280c199a265932e2f",
+      "levelid": "custom_level_58bfaaf37ef93682b9ddead280c199a265932e2f"
+    },
+    {
       "key": "4cd8a",
       "songName": "Indigo De Souza - Sleep Talking",
-      "hash": "46ba8d824657c87e62f428bec3dbdb837fd06b2c",
-      "levelid": "custom_level_46ba8d824657c87e62f428bec3dbdb837fd06b2c"
-    },
-    {
-      "key": "4c582",
-      "songName": "[CS New Years 2026 Countdown 🎁] Kelly Clarkson - Underneath the Tree",
-      "hash": "a8248317c4bb3f6bd65aaced2298124739406340",
-      "levelid": "custom_level_a8248317c4bb3f6bd65aaced2298124739406340"
-    },
-    {
-      "key": "4cd86",
-      "songName": "JUST SOME FROGS - Changeline and blxdesmith)",
-      "hash": "ed33bac54ef3ff95e7ee7286df92442211037b29",
-      "levelid": "custom_level_ed33bac54ef3ff95e7ee7286df92442211037b29"
-    },
-    {
-      "key": "4cd84",
-      "songName": "Drive-in Tori Commercial Jingle (Zombie Land Saga)",
-      "hash": "9a4a0cd7642af755eaeae6988b216685a5ddf82a",
-      "levelid": "custom_level_9a4a0cd7642af755eaeae6988b216685a5ddf82a"
-    },
-    {
-      "key": "4cd83",
-      "songName": "bbno$ - bag TF up",
-      "hash": "78b485d5df41c02c1412d04b07be01a76ef6c251",
-      "levelid": "custom_level_78b485d5df41c02c1412d04b07be01a76ef6c251"
-    },
-    {
-      "key": "4cd80",
-      "songName": "独りんぼエンヴィー - koyori feat 初音ミク",
-      "hash": "b77893cb96c3e79a712e314edfc55e21b58f8eda",
-      "levelid": "custom_level_b77893cb96c3e79a712e314edfc55e21b58f8eda"
-    },
-    {
-      "key": "4cd7f",
-      "songName": "Rosalina in the Observatory (Full Mix) - Koji Kondo",
-      "hash": "ce3ad7773866a19085a056fe76e7c604f076fab1",
-      "levelid": "custom_level_ce3ad7773866a19085a056fe76e7c604f076fab1"
-    },
-    {
-      "key": "4cd7a",
-      "songName": "Jasted, Foxa, Joellé - Show Me - Short Edit",
-      "hash": "eb5a23138d805895ea58fdd223cbd796344a5224",
-      "levelid": "custom_level_eb5a23138d805895ea58fdd223cbd796344a5224"
-    },
-    {
-      "key": "4cd77",
-      "songName": "Empty Stomach - c̈ / Consume",
-      "hash": "d7dd1394b2c13dac58cbea5840a1a198db6cd935",
-      "levelid": "custom_level_d7dd1394b2c13dac58cbea5840a1a198db6cd935"
-    },
-    {
-      "key": "4cd72",
-      "songName": "jeonghyeon, KDH & Lack D - Firestarter - Extended",
-      "hash": "4ba81b22a81853b357997b4cc106761847a7ba27",
-      "levelid": "custom_level_4ba81b22a81853b357997b4cc106761847a7ba27"
-    },
-    {
-      "key": "4cd71",
-      "songName": "Jacob Tillberg ft. Brima - Stay Young",
-      "hash": "afb09387a73c79ab2bd52ab54a8faf589f8b4ae9",
-      "levelid": "custom_level_afb09387a73c79ab2bd52ab54a8faf589f8b4ae9"
-    },
-    {
-      "key": "4cd70",
-      "songName": "Ramzoid - Electron | 2025 Remap",
-      "hash": "192ee847911185af977f810ff46a2d98a3c56a08",
-      "levelid": "custom_level_192ee847911185af977f810ff46a2d98a3c56a08"
-    },
-    {
-      "key": "4cd6e",
-      "songName": "no studying motivation left after this im pissed of",
-      "hash": "028f2991276b2c72dcd9ae06f3ef0156194e299a",
-      "levelid": "custom_level_028f2991276b2c72dcd9ae06f3ef0156194e299a"
-    },
-    {
-      "key": "4cd6d",
-      "songName": "[TGMG Christmas Mixtape] Xmas Time Of The Year - Green Day",
-      "hash": "e12deb40d449fcc5d927858f9b73b86a21902199",
-      "levelid": "custom_level_e12deb40d449fcc5d927858f9b73b86a21902199"
-    },
-    {
-      "key": "4cd6c",
-      "songName": "Phantom Sage - Far From Home",
-      "hash": "60a4eb4d2ec2d0d8b882a98cd09215b8c8a0fe4e",
-      "levelid": "custom_level_60a4eb4d2ec2d0d8b882a98cd09215b8c8a0fe4e"
-    },
-    {
-      "key": "4cbe3",
-      "songName": "Unwelcome School",
-      "hash": "7791131af84be286c0c32c674b539e2743d7231b",
-      "levelid": "custom_level_7791131af84be286c0c32c674b539e2743d7231b"
-    },
-    {
-      "key": "4cd69",
-      "songName": "YEPP VERY YUMMY GIRL OOOOOOH LALALALALA RJS MAP YOO",
-      "hash": "a4a4356d2d74462a494925dd498fcf619afd14cb",
-      "levelid": "custom_level_a4a4356d2d74462a494925dd498fcf619afd14cb"
-    },
-    {
-      "key": "4cd65",
-      "songName": "yep",
-      "hash": "41acf030e66200384253b51e7bdf880c112f96ec",
-      "levelid": "custom_level_41acf030e66200384253b51e7bdf880c112f96ec"
-    },
-    {
-      "key": "4cd64",
-      "songName": "Dalai Lama  (Poodle And bloqs) ",
-      "hash": "3c52d8b0fde5cf01978f70cfea8e50b1678898dd",
-      "levelid": "custom_level_3c52d8b0fde5cf01978f70cfea8e50b1678898dd"
-    },
-    {
-      "key": "4cd62",
-      "songName": "cute glitchy clip",
-      "hash": "0d90d67df6bff5dfd401a8631d0fa22da5717ba9",
-      "levelid": "custom_level_0d90d67df6bff5dfd401a8631d0fa22da5717ba9"
-    },
-    {
-      "key": "4cd5f",
-      "songName": "Elton John and Kiki Dee - Don't Go Breaking My Heart",
-      "hash": "93103096ab6e2236a3bb756e5cde56db74fcb927",
-      "levelid": "custom_level_93103096ab6e2236a3bb756e5cde56db74fcb927"
-    },
-    {
-      "key": "4cd5e",
-      "songName": "Elton John - Goodbye Yellow Brick Road",
-      "hash": "5b6311ffc80e70806218ceae7b660ba7998ce112",
-      "levelid": "custom_level_5b6311ffc80e70806218ceae7b660ba7998ce112"
-    },
-    {
-      "key": "4cd58",
-      "songName": "you gotta hit them with the BRRRREEEUUGH",
-      "hash": "4f66d19a11b51b1ddf69ce0c2f619975a99e155a",
-      "levelid": "custom_level_4f66d19a11b51b1ddf69ce0c2f619975a99e155a"
-    },
-    {
-      "key": "4cd53",
-      "songName": "Hope",
-      "hash": "e15b58a655dadddc2af32adadca549766fd1046d",
-      "levelid": "custom_level_e15b58a655dadddc2af32adadca549766fd1046d"
-    },
-    {
-      "key": "4cd52",
-      "songName": "Klaas - Wishing Well",
-      "hash": "89b6159e663bf1bf3ef02a7f4275092acb4db598",
-      "levelid": "custom_level_89b6159e663bf1bf3ef02a7f4275092acb4db598"
-    },
-    {
-      "key": "4cd51",
-      "songName": "Ultraviolence (Datsik Remix)",
-      "hash": "97920e78851f9fded01cec701f3924c7934988f8",
-      "levelid": "custom_level_97920e78851f9fded01cec701f3924c7934988f8"
-    },
-    {
-      "key": "4cd27",
-      "songName": "turn up the MUSIK",
-      "hash": "63e6e33305bcccbb8826a6098185e29f0aff3a46",
-      "levelid": "custom_level_63e6e33305bcccbb8826a6098185e29f0aff3a46"
-    },
-    {
-      "key": "4cd50",
-      "songName": "OHHH M    Y       P     CCCCCCCCCCCCCCCCCCCCCC",
-      "hash": "7f0530ae85dae09beb9a35b8080425bab455a023",
-      "levelid": "custom_level_7f0530ae85dae09beb9a35b8080425bab455a023"
-    },
-    {
-      "key": "4cd4e",
-      "songName": "ALLDAY PROJECT - FAMOUS",
-      "hash": "f5979c32fd78a1b64ff50adcf80a6cd39a59089a",
-      "levelid": "custom_level_f5979c32fd78a1b64ff50adcf80a6cd39a59089a"
-    },
-    {
-      "key": "4cd4d",
-      "songName": "BABYMONSTER - PSYCHO",
-      "hash": "592e5791ce034f9e0cd7779b762b685b76a75940",
-      "levelid": "custom_level_592e5791ce034f9e0cd7779b762b685b76a75940"
-    },
-    {
-      "key": "4cd4c",
-      "songName": "Reggie and the Full Effect - Take Me Home Please",
-      "hash": "9f99271559fbaff07842088ac40169b5d6160f0a",
-      "levelid": "custom_level_9f99271559fbaff07842088ac40169b5d6160f0a"
-    },
-    {
-      "key": "4cd4b",
-      "songName": "[Welcome UDON2026] Camellia - ☆REX☆",
-      "hash": "7b8eb5372255afaa4c03af304f384e7a2a144e29",
-      "levelid": "custom_level_7b8eb5372255afaa4c03af304f384e7a2a144e29"
-    },
-    {
-      "key": "4cd48",
-      "songName": "one hand",
-      "hash": "3c6ede0de127f7b0b753b47dab904a7f3ef0a4cc",
-      "levelid": "custom_level_3c6ede0de127f7b0b753b47dab904a7f3ef0a4cc"
-    },
-    {
-      "key": "4ccff",
-      "songName": " [CS New Years 2026 Countdown 🎁 ] Willy Rodriguez - snowing in las vegas",
-      "hash": "51de4c8f17a9639f865e7d2911fc513d04ca2ec5",
-      "levelid": "custom_level_51de4c8f17a9639f865e7d2911fc513d04ca2ec5"
-    },
-    {
-      "key": "4cd46",
-      "songName": "KSHMR - Take Me Home, Country Roads",
-      "hash": "5bbd6ea0f8766466370acd39ce40fa95eb0c5f57",
-      "levelid": "custom_level_5bbd6ea0f8766466370acd39ce40fa95eb0c5f57"
-    },
-    {
-      "key": "4cd45",
-      "songName": "KSHMR & Marnik - Bazaar (Official Sunburn Goa 2015 Anthem)",
-      "hash": "5a50474852958aac10533dc79622654c28697ed8",
-      "levelid": "custom_level_5a50474852958aac10533dc79622654c28697ed8"
-    },
-    {
-      "key": "4cd44",
-      "songName": "El Professor - Bella Ciao (HUGEL Remix)",
-      "hash": "5c257ac8121275990ac416a6bc88cfb8d9494f1a",
-      "levelid": "custom_level_5c257ac8121275990ac416a6bc88cfb8d9494f1a"
-    },
-    {
-      "key": "4cd43",
-      "songName": "ARMIN VAN BUUREN x VINI VICI x HILIGHT TRIBE - Great Spirit (Live at Transmission Prague 2016)",
-      "hash": "14df53d1dbc9decad1968388be4d3be582f78f2f",
-      "levelid": "custom_level_14df53d1dbc9decad1968388be4d3be582f78f2f"
-    },
-    {
-      "key": "4cd42",
-      "songName": "Groove Coverage - God Is A Girl (BEAUZ Hard Techno Remix)",
-      "hash": "d1962359a1d517fea53a04fe3e5f9ed0aea7ce3d",
-      "levelid": "custom_level_d1962359a1d517fea53a04fe3e5f9ed0aea7ce3d"
-    },
-    {
-      "key": "4cd41",
-      "songName": "The Empress (Visual)",
-      "hash": "2548db98edb4a7bd3f88230fcf19c47f82371b36",
-      "levelid": "custom_level_2548db98edb4a7bd3f88230fcf19c47f82371b36"
-    },
-    {
-      "key": "4c963",
-      "songName": "BerryGood - Angel",
-      "hash": "166e17a31c41a49dbdbbde3f70d152a89894a10a",
-      "levelid": "custom_level_166e17a31c41a49dbdbbde3f70d152a89894a10a"
-    },
-    {
-      "key": "4cd34",
-      "songName": "Sonic Racing Crossworlds: Pumpkin Mansion [First Lap]",
-      "hash": "00d8e48ad2bda2cd83d84290f798faa83730653d",
-      "levelid": "custom_level_00d8e48ad2bda2cd83d84290f798faa83730653d"
+      "hash": "0569e694661a3cd465b6c5d750b51b428f747ea7",
+      "levelid": "custom_level_0569e694661a3cd465b6c5d750b51b428f747ea7"
     }
   ],
   "image": ""
