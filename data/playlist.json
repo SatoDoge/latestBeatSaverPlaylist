@@ -1,178 +1,208 @@
 {
-  "playlistTitle": "2025-12-11T15:18:48.602Z~2025-12-12T15:18:48.602Z",
+  "playlistTitle": "2025-12-12T15:18:48.403Z~2025-12-13T15:18:48.403Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-12-11T15:18:48.602Z and 2025-12-12T15:18:48.602Z",
+  "discripstion": "Maps published between 2025-12-12T15:18:48.403Z and 2025-12-13T15:18:48.403Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4ce40",
-      "songName": "Chicos de Barrio - Mucha lucha",
-      "hash": "78e73f8b91daff2cd80a52557cce0f28f9158699",
-      "levelid": "custom_level_78e73f8b91daff2cd80a52557cce0f28f9158699"
+      "key": "4ce96",
+      "songName": "brutal tech",
+      "hash": "fe09d20b4d77749aef17ac8e2b031c96ff80221b",
+      "levelid": "custom_level_fe09d20b4d77749aef17ac8e2b031c96ff80221b"
     },
     {
-      "key": "4ce3d",
-      "songName": "Grin - HyuN",
-      "hash": "688d5f05d2d748fe678000ce2cba7f4851313dbe",
-      "levelid": "custom_level_688d5f05d2d748fe678000ce2cba7f4851313dbe"
+      "key": "4ce93",
+      "songName": "Shploink Overdose",
+      "hash": "1332c563e9200c592cb3b2456f58b163e6c5d722",
+      "levelid": "custom_level_1332c563e9200c592cb3b2456f58b163e6c5d722"
     },
     {
-      "key": "4ce3c",
-      "songName": "BAKENOKAWA",
-      "hash": "117e76990e396f11b16598a45a41f75391c5b72d",
-      "levelid": "custom_level_117e76990e396f11b16598a45a41f75391c5b72d"
+      "key": "4ce7d",
+      "songName": "Jack Stauber - $4.99",
+      "hash": "ccac9f503e5d368caef25344a4b94924fb19ae69",
+      "levelid": "custom_level_ccac9f503e5d368caef25344a4b94924fb19ae69"
     },
     {
-      "key": "4ce39",
-      "songName": "[Feetsaber]Overdose",
-      "hash": "14a43dfff2b0f66cb3cf753d602c089067ba9749",
-      "levelid": "custom_level_14a43dfff2b0f66cb3cf753d602c089067ba9749"
+      "key": "4ce7a",
+      "songName": "MUSE - Uprising (V3)",
+      "hash": "86d34aa21e360ed4acd24539d571e7e895e69121",
+      "levelid": "custom_level_86d34aa21e360ed4acd24539d571e7e895e69121"
     },
     {
-      "key": "4ce38",
-      "songName": "打火机",
-      "hash": "09e962a61276618d9a31b1570b5f32b4a42373dc",
-      "levelid": "custom_level_09e962a61276618d9a31b1570b5f32b4a42373dc"
+      "key": "4ce79",
+      "songName": "ギフト 可不-内緒のピアス",
+      "hash": "b94db8cd73f3e659d6a54b3d5f770c1157ee80e1",
+      "levelid": "custom_level_b94db8cd73f3e659d6a54b3d5f770c1157ee80e1"
     },
     {
-      "key": "4ce37",
-      "songName": "TORIENA - DOPING LIFE",
-      "hash": "87ed8f1cc11f45abdd5ad22c8fccf19c913d88e1",
-      "levelid": "custom_level_87ed8f1cc11f45abdd5ad22c8fccf19c913d88e1"
+      "key": "4ce78",
+      "songName": "Melted Eyes - Thanatophobia",
+      "hash": "3e3b7ac9f0912f8ee10c7a0e96bd06b97376b11d",
+      "levelid": "custom_level_3e3b7ac9f0912f8ee10c7a0e96bd06b97376b11d"
     },
     {
-      "key": "4ce2f",
-      "songName": "VS. Zero Two - Jun Ishikawa [Kirby Air Riders]",
-      "hash": "8202e4eebbfd0d7b2a5884d39c6276c1b1edc89d",
-      "levelid": "custom_level_8202e4eebbfd0d7b2a5884d39c6276c1b1edc89d"
+      "key": "4ce77",
+      "songName": "Kizuna-rezonance-",
+      "hash": "0455093f988e1c69b70edfb68db60ceb1e84c249",
+      "levelid": "custom_level_0455093f988e1c69b70edfb68db60ceb1e84c249"
     },
     {
-      "key": "4ce29",
-      "songName": "glaive - Handle That",
-      "hash": "8ed565101d8dde8de4ca384edcebfd5bd9f35f8b",
-      "levelid": "custom_level_8ed565101d8dde8de4ca384edcebfd5bd9f35f8b"
+      "key": "4ce75",
+      "songName": "Last Dinosaurs - Auto-Sabotage",
+      "hash": "b0bb44fab5a8bd3a2a27c4632b41f20940040152",
+      "levelid": "custom_level_b0bb44fab5a8bd3a2a27c4632b41f20940040152"
     },
     {
-      "key": "4ce28",
-      "songName": "am i red - 1 minute hold test",
-      "hash": "2e4758957087cad34cd0efdc869181318da390cb",
-      "levelid": "custom_level_2e4758957087cad34cd0efdc869181318da390cb"
+      "key": "4ce74",
+      "songName": "Ado - Balloon",
+      "hash": "059eabcab9865ce7dbca7008cf316d169b1eb464",
+      "levelid": "custom_level_059eabcab9865ce7dbca7008cf316d169b1eb464"
     },
     {
-      "key": "4ce24",
-      "songName": "what a shame",
-      "hash": "27861e5d48113a45ad27da194eb8c97eed8354bf",
-      "levelid": "custom_level_27861e5d48113a45ad27da194eb8c97eed8354bf"
+      "key": "4ce72",
+      "songName": " {Alternative Psycho Pack} Layto - save urself (runaway)",
+      "hash": "f1cb1ad6d1307d4f7ff6b6cd4422f2d1384a519d",
+      "levelid": "custom_level_f1cb1ad6d1307d4f7ff6b6cd4422f2d1384a519d"
     },
     {
-      "key": "4ce23",
-      "songName": "how the fuck do you make dariacore",
-      "hash": "07bdc0c0975049383c9079c14766843d9bb3077d",
-      "levelid": "custom_level_07bdc0c0975049383c9079c14766843d9bb3077d"
+      "key": "4ce26",
+      "songName": "至上主義アドトラック",
+      "hash": "3857c54439783901df327244de70a2711ee4df9e",
+      "levelid": "custom_level_3857c54439783901df327244de70a2711ee4df9e"
     },
     {
-      "key": "4ce22",
-      "songName": "Leah Kate - 10 Things I Hate About You (sped up vers.) ",
-      "hash": "ece4b9f5c52cddd38cf4a5533c7079198ed68f3c",
-      "levelid": "custom_level_ece4b9f5c52cddd38cf4a5533c7079198ed68f3c"
+      "key": "4ce71",
+      "songName": "Random Crashout Clips (swedish)",
+      "hash": "5ca14c4a83a181cced526e4eef1ef51deb2934a7",
+      "levelid": "custom_level_5ca14c4a83a181cced526e4eef1ef51deb2934a7"
     },
     {
-      "key": "4ce1f",
-      "songName": "Too Hot To Handl",
-      "hash": "faca496a6e4a09b1878cd042fd8dafc91f18b15f",
-      "levelid": "custom_level_faca496a6e4a09b1878cd042fd8dafc91f18b15f"
+      "key": "4ce6e",
+      "songName": "Geoxor - Stardust",
+      "hash": "fcce37da9ce30620892eda65553896045e1944c7",
+      "levelid": "custom_level_fcce37da9ce30620892eda65553896045e1944c7"
     },
     {
-      "key": "4ce1e",
-      "songName": "KANKAN - Romain & Vice",
-      "hash": "936d635d3fb9f62dafced811be6333edc11aa7b5",
-      "levelid": "custom_level_936d635d3fb9f62dafced811be6333edc11aa7b5"
+      "key": "4ce6c",
+      "songName": "evocationic",
+      "hash": "b6633d381dee0941c70439fdf566217541dd72d5",
+      "levelid": "custom_level_b6633d381dee0941c70439fdf566217541dd72d5"
     },
     {
-      "key": "4ce1d",
-      "songName": "AYUDA",
-      "hash": "9708129954dd28f95c00ab6085954119060423a8",
-      "levelid": "custom_level_9708129954dd28f95c00ab6085954119060423a8"
+      "key": "4ce67",
+      "songName": "Manapart - Red",
+      "hash": "268ac6e97a1c2ca83c1bc1d0de5e2bafc4e7c15b",
+      "levelid": "custom_level_268ac6e97a1c2ca83c1bc1d0de5e2bafc4e7c15b"
     },
     {
-      "key": "4ce18",
-      "songName": "I'm Blue - Eiffel 65",
-      "hash": "36cb2d7c828f22e3ee6ac89322335bd63cacd83f",
-      "levelid": "custom_level_36cb2d7c828f22e3ee6ac89322335bd63cacd83f"
+      "key": "4ce66",
+      "songName": "Rush Hour Juyen Sebulba, Lil Texas",
+      "hash": "69bf95bfd535e58e9620611b2931903b8936c736",
+      "levelid": "custom_level_69bf95bfd535e58e9620611b2931903b8936c736"
     },
     {
-      "key": "4ce17",
-      "songName": "Jace Bray - Macintosh Dreams",
-      "hash": "29ebf4f31087022f33f6f39d41a3e87d60e7e90d",
-      "levelid": "custom_level_29ebf4f31087022f33f6f39d41a3e87d60e7e90d"
+      "key": "4ce65",
+      "songName": "Command Prompt",
+      "hash": "63966628641cbf1d50203dd76ccf7a147d459088",
+      "levelid": "custom_level_63966628641cbf1d50203dd76ccf7a147d459088"
     },
     {
-      "key": "4ce14",
-      "songName": "Similar Outskirts - Ember Force",
-      "hash": "069b89ce1da2a079326d5ab72532d7957acd9993",
-      "levelid": "custom_level_069b89ce1da2a079326d5ab72532d7957acd9993"
+      "key": "4ce5d",
+      "songName": "クリスマス・イブ（山下達郎）/christmas eve（Yamashita Taturou）",
+      "hash": "c2c37aea9ff62ce4a15ab62c8f98cebd298bb317",
+      "levelid": "custom_level_c2c37aea9ff62ce4a15ab62c8f98cebd298bb317"
     },
     {
-      "key": "4ce13",
-      "songName": "sokoninaru - 最低 (Saitei)",
-      "hash": "bad1898724c500f97b33cd37aed6abdfbe880881",
-      "levelid": "custom_level_bad1898724c500f97b33cd37aed6abdfbe880881"
+      "key": "4ce5b",
+      "songName": "Pakistanskie Disco lata 70",
+      "hash": "ae0d9298c58df3126d85be9177ca2140ad6ccae1",
+      "levelid": "custom_level_ae0d9298c58df3126d85be9177ca2140ad6ccae1"
     },
     {
-      "key": "4ce12",
-      "songName": "Jane Remover - So What?",
-      "hash": "3e3a114316a13679d8372edbe1f1a5c85f478805",
-      "levelid": "custom_level_3e3a114316a13679d8372edbe1f1a5c85f478805"
+      "key": "4ce59",
+      "songName": "Darius Speed Challenge",
+      "hash": "f0593380daade23653ce66bec4f50e20ef333f23",
+      "levelid": "custom_level_f0593380daade23653ce66bec4f50e20ef333f23"
     },
     {
-      "key": "4ce0f",
-      "songName": "Vanished - Crystal Castles",
-      "hash": "a454e27a55ca6c652f8990e3ef0630988271443d",
-      "levelid": "custom_level_a454e27a55ca6c652f8990e3ef0630988271443d"
+      "key": "4ce57",
+      "songName": "UNI.T - I Mean",
+      "hash": "f8857c3e3a5808e3894692a5bdd4b253c4db1d57",
+      "levelid": "custom_level_f8857c3e3a5808e3894692a5bdd4b253c4db1d57"
     },
     {
-      "key": "4c717",
-      "songName": "[CS New Years 2026 Countdown 🎁] 100 gecs - sympathy 4 the grinch",
-      "hash": "71e21bf76cd1b49cb32d150af55bd033cd4a24c3",
-      "levelid": "custom_level_71e21bf76cd1b49cb32d150af55bd033cd4a24c3"
+      "key": "4ce56",
+      "songName": "8485 - 1:15",
+      "hash": "aae937c75d8c79e9db66fa4530568861e18dda47",
+      "levelid": "custom_level_aae937c75d8c79e9db66fa4530568861e18dda47"
     },
     {
-      "key": "4cde0",
-      "songName": " Ruwanga Samath - It's a Sonic Christmas [From Sonic the Hedgehog 3]",
-      "hash": "5a01aff890ff1e2478aea155d1084bdd88c82ba2",
-      "levelid": "custom_level_5a01aff890ff1e2478aea155d1084bdd88c82ba2"
+      "key": "4ce55",
+      "songName": "Im a tooth",
+      "hash": "6184cc8dc62ff094a5a617de3e211727ef2d2b0b",
+      "levelid": "custom_level_6184cc8dc62ff094a5a617de3e211727ef2d2b0b"
     },
     {
-      "key": "4ce01",
-      "songName": "Goreshit - Serial Experiments Lain -alternative op-",
-      "hash": "c553f04ae0db7a9a7429aa1bfe34d5532d67f876",
-      "levelid": "custom_level_c553f04ae0db7a9a7429aa1bfe34d5532d67f876"
+      "key": "4ce54",
+      "songName": "[Vivify] Comet Observatory - Super Mario Galaxy",
+      "hash": "ce094746fd9b7fa32316c8600ff099d5150e4605",
+      "levelid": "custom_level_ce094746fd9b7fa32316c8600ff099d5150e4605"
     },
     {
-      "key": "4cdff",
-      "songName": "Sanyosei SAY YA!!!",
-      "hash": "0a221d8a4761beb9c1d3ed68380fd97c7385f151",
-      "levelid": "custom_level_0a221d8a4761beb9c1d3ed68380fd97c7385f151"
+      "key": "4ce4d",
+      "songName": "Won't Go Home Without You - Maroon 5 (Cinema & Chroma+)",
+      "hash": "5a97fd8b7f9471ec79e4cc620805cc50df372db8",
+      "levelid": "custom_level_5a97fd8b7f9471ec79e4cc620805cc50df372db8"
     },
     {
-      "key": "4cbd8",
-      "songName": "UNI.T - No More",
-      "hash": "fd46a94768a379bab3c43f6f6bec8d3b8b05dd53",
-      "levelid": "custom_level_fd46a94768a379bab3c43f6f6bec8d3b8b05dd53"
+      "key": "4ce4f",
+      "songName": "Raise Up Your Bat",
+      "hash": "88d51f3201b358c16717bbfb36d8ffb23d35daa7",
+      "levelid": "custom_level_88d51f3201b358c16717bbfb36d8ffb23d35daa7"
     },
     {
-      "key": "4cdf0",
-      "songName": "TAK x Corbin - Tic! Tac! Toe!",
-      "hash": "bf43d332c8c897b20b64fb93757effaad3d2f6a2",
-      "levelid": "custom_level_bf43d332c8c897b20b64fb93757effaad3d2f6a2"
+      "key": "4ce4c",
+      "songName": "Aitch - 30 (V3)",
+      "hash": "d4b21c373b4396f2e6f9c3d62a6c0bc60ec23aef",
+      "levelid": "custom_level_d4b21c373b4396f2e6f9c3d62a6c0bc60ec23aef"
     },
     {
-      "key": "4cded",
-      "songName": "ALTÉGO - Lick (Fantasy)",
-      "hash": "aa28d6af8e908bb0fe684c64fe11f8f9f779c6f7",
-      "levelid": "custom_level_aa28d6af8e908bb0fe684c64fe11f8f9f779c6f7"
+      "key": "4cae6",
+      "songName": "[CS New Years 2026 Countdown 🎁 ] GPF - Jingle Bells",
+      "hash": "e6a7653677ccb7f0c4a449c39449623b0f682fb4",
+      "levelid": "custom_level_e6a7653677ccb7f0c4a449c39449623b0f682fb4"
+    },
+    {
+      "key": "4ce4b",
+      "songName": "Do I got a Lee Key-Bum",
+      "hash": "87823ec103bace15d8a444fadac46df793ea18f4",
+      "levelid": "custom_level_87823ec103bace15d8a444fadac46df793ea18f4"
+    },
+    {
+      "key": "4ce4a",
+      "songName": "hahaha DIE",
+      "hash": "513dc3aa47a1e8bcb28ac135a29fbad4b1827386",
+      "levelid": "custom_level_513dc3aa47a1e8bcb28ac135a29fbad4b1827386"
+    },
+    {
+      "key": "4cc4e",
+      "songName": "HITGS - CHARIZZMA",
+      "hash": "ec4a8e07e4cab905ea999961bf2eece0c6c6ab0f",
+      "levelid": "custom_level_ec4a8e07e4cab905ea999961bf2eece0c6c6ab0f"
+    },
+    {
+      "key": "4cde8",
+      "songName": "レコード・レド covered by LOLUET - shr",
+      "hash": "24d867ea65dfa6013074867120513fe745954b91",
+      "levelid": "custom_level_24d867ea65dfa6013074867120513fe745954b91"
+    },
+    {
+      "key": "4ce45",
+      "songName": "Ninajirachi - Fuck My Computer",
+      "hash": "bd13c1b51ae2509e1d8f5a1b9086eec72f20001b",
+      "levelid": "custom_level_bd13c1b51ae2509e1d8f5a1b9086eec72f20001b"
     }
   ],
   "image": ""
