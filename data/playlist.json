@@ -1,256 +1,370 @@
 {
-  "playlistTitle": "2025-12-19T15:18:48.031Z~2025-12-20T15:18:48.031Z",
+  "playlistTitle": "2025-12-20T15:18:48.423Z~2025-12-21T15:18:48.423Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-12-19T15:18:48.031Z and 2025-12-20T15:18:48.031Z",
+  "discripstion": "Maps published between 2025-12-20T15:18:48.423Z and 2025-12-21T15:18:48.423Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "4d211",
+      "songName": "Clock Work",
+      "hash": "033577ffeee8ea8f5b4ab755f77fd29d55e00273",
+      "levelid": "custom_level_033577ffeee8ea8f5b4ab755f77fd29d55e00273"
+    },
+    {
+      "key": "4d210",
+      "songName": "Schastlivy Vmeste (TV Size)",
+      "hash": "1be6b39318a40d0cd7a08ded721e61f37dc06ee2",
+      "levelid": "custom_level_1be6b39318a40d0cd7a08ded721e61f37dc06ee2"
+    },
+    {
+      "key": "4d20f",
+      "songName": "KYURO3 - ENOUGH",
+      "hash": "601fce8269c2b30d344e5bd7e8494ad2b38db5be",
+      "levelid": "custom_level_601fce8269c2b30d344e5bd7e8494ad2b38db5be"
+    },
+    {
+      "key": "4d20e",
+      "songName": " Camellia - magical, very magical world",
+      "hash": "01fce043305d820c277441c234fe17f4e2cb0bbf",
+      "levelid": "custom_level_01fce043305d820c277441c234fe17f4e2cb0bbf"
+    },
+    {
+      "key": "4d20c",
+      "songName": "Dancing in the Sky",
+      "hash": "853c572b1f039dc19f3c179d05af5a23df791401",
+      "levelid": "custom_level_853c572b1f039dc19f3c179d05af5a23df791401"
+    },
+    {
+      "key": "4cb80",
+      "songName": "[CS New Years 2026 Countdown 🎁 ] Basshunter - Jingle Bells - Bass",
+      "hash": "dcf04ec1a35c89d9647bb713ebc094d1e8f13b23",
+      "levelid": "custom_level_dcf04ec1a35c89d9647bb713ebc094d1e8f13b23"
+    },
+    {
+      "key": "4d205",
+      "songName": "Sad and Deep",
+      "hash": "04e85a7f2cac2a13bf357742c679732dc47c3d8e",
+      "levelid": "custom_level_04e85a7f2cac2a13bf357742c679732dc47c3d8e"
+    },
+    {
+      "key": "4d202",
+      "songName": "Mustafa (time to move you)",
+      "hash": "6382d06989e066f2296ce94147b44e79ca89dd68",
+      "levelid": "custom_level_6382d06989e066f2296ce94147b44e79ca89dd68"
+    },
+    {
+      "key": "4d149",
+      "songName": "Bijelo Dugme - Napile se ulice",
+      "hash": "8a5403a761267f6414ffde68b4362181a453379e",
+      "levelid": "custom_level_8a5403a761267f6414ffde68b4362181a453379e"
+    },
+    {
+      "key": "4d1fe",
+      "songName": "Roar - hope",
+      "hash": "70d3f72a4c4bd7d2132c6f2aedfa152c40ab5155",
+      "levelid": "custom_level_70d3f72a4c4bd7d2132c6f2aedfa152c40ab5155"
+    },
+    {
+      "key": "4d1fa",
+      "songName": "WHTFhfweefashbfeasfreahjENt",
+      "hash": "44d7a96e7b8d429a4375eeb8fb1e09e010c987ec",
+      "levelid": "custom_level_44d7a96e7b8d429a4375eeb8fb1e09e010c987ec"
+    },
+    {
+      "key": "4d1f9",
+      "songName": "Let It Snow! Let It Snow! Let It Snow! - jschlatt",
+      "hash": "6ec2d4cb11469d4fe5ee4b857cf3096045a4eb3c",
+      "levelid": "custom_level_6ec2d4cb11469d4fe5ee4b857cf3096045a4eb3c"
+    },
+    {
+      "key": "4d1f3",
+      "songName": "Daniel Caesar - Who Knows",
+      "hash": "01e2ee84b715e66bad1b33b16405264749e9e263",
+      "levelid": "custom_level_01e2ee84b715e66bad1b33b16405264749e9e263"
+    },
+    {
+      "key": "4d1f7",
+      "songName": "Ninajirachi - Fuck My Computer",
+      "hash": "16cc3deb24cf36cfdd22b756072ae275bd4c25d9",
+      "levelid": "custom_level_16cc3deb24cf36cfdd22b756072ae275bd4c25d9"
+    },
+    {
+      "key": "4d1f6",
+      "songName": "BAKENOKAWA",
+      "hash": "e274fc5a1301539f0399d6af3a78e9b444b6107e",
+      "levelid": "custom_level_e274fc5a1301539f0399d6af3a78e9b444b6107e"
+    },
+    {
+      "key": "4c369",
+      "songName": "Kohta Takahashi - SAMURAI ROCKET [RIDGE RACER V]",
+      "hash": "24cc816670d7237427bed9584eb71d902c4157cd",
+      "levelid": "custom_level_24cc816670d7237427bed9584eb71d902c4157cd"
+    },
+    {
+      "key": "4d1f5",
+      "songName": "Get Stickbugged",
+      "hash": "0def589cfffed57c286ba43083649fcf2bf008ca",
+      "levelid": "custom_level_0def589cfffed57c286ba43083649fcf2bf008ca"
+    },
+    {
+      "key": "4d1f4",
+      "songName": "Deep into the Vive by rejection",
+      "hash": "8022c595bb16ae9b369fa9e58430ac0bd4c92d96",
+      "levelid": "custom_level_8022c595bb16ae9b369fa9e58430ac0bd4c92d96"
+    },
+    {
+      "key": "4d1f0",
+      "songName": "Bazuru x Pazuru",
+      "hash": "2ff69d82fc43076b8515a61f9f8846babf18a163",
+      "levelid": "custom_level_2ff69d82fc43076b8515a61f9f8846babf18a163"
+    },
+    {
+      "key": "4d1f1",
+      "songName": "Camellia - [☆Tr.13☆] Kikai No Tsubasa（feat. 重音テト）",
+      "hash": "94b62e07263fa08c1c8128e9ea6fe8b66b63ee06",
+      "levelid": "custom_level_94b62e07263fa08c1c8128e9ea6fe8b66b63ee06"
+    },
+    {
+      "key": "4d1ef",
+      "songName": "High Performance (mandrill maze music)",
+      "hash": "02cd289477f930e45cd31abdd8715849fff98bfe",
+      "levelid": "custom_level_02cd289477f930e45cd31abdd8715849fff98bfe"
+    },
+    {
+      "key": "4d1ee",
+      "songName": "Enter this Earth's Atmosphere",
+      "hash": "5ae2a86f4f3b6a34e30c95cdd6fbffdc970f61e8",
+      "levelid": "custom_level_5ae2a86f4f3b6a34e30c95cdd6fbffdc970f61e8"
+    },
+    {
+      "key": "4d1e9",
+      "songName": "[TGMG Christmas Mixtape] [Fitbeat] Big Bad Voodoo Daddy - Mr. Heatmiser",
+      "hash": "657d160fc05f8f2a356df41503ed1b355935a2f3",
+      "levelid": "custom_level_657d160fc05f8f2a356df41503ed1b355935a2f3"
+    },
+    {
+      "key": "4d1e8",
+      "songName": "戦国乙女_薔薇色ノ人生 ～have a Shakin'×2 dance！～ハルルナver",
+      "hash": "000942c61c6fa0855583c25fb5a5e504f370b978",
+      "levelid": "custom_level_000942c61c6fa0855583c25fb5a5e504f370b978"
+    },
+    {
+      "key": "4d1e4",
+      "songName": "Spectre",
+      "hash": "5c312814dcdc76732a3eea7bd243b959c773b361",
+      "levelid": "custom_level_5c312814dcdc76732a3eea7bd243b959c773b361"
+    },
+    {
+      "key": "4d1d8",
+      "songName": "Кислотный дождь",
+      "hash": "453920a893ec7ee5b2db16d5f1d75f4f1e90f2b2",
+      "levelid": "custom_level_453920a893ec7ee5b2db16d5f1d75f4f1e90f2b2"
+    },
+    {
+      "key": "4d142",
+      "songName": "Flap&Clap - 棗いつき",
+      "hash": "8a539e7417dea373f5c6e9a47b002e2d407da708",
+      "levelid": "custom_level_8a539e7417dea373f5c6e9a47b002e2d407da708"
+    },
+    {
+      "key": "4d19d",
+      "songName": "Bad Apple!! feat. nomico (D.watt Remix)",
+      "hash": "5e5eaab0502f1d228a7da9b8cda6aee841bf5299",
+      "levelid": "custom_level_5e5eaab0502f1d228a7da9b8cda6aee841bf5299"
+    },
+    {
+      "key": "4d1d1",
+      "songName": "MR BOOMBASTIC",
+      "hash": "35d56891bee4f2757112f84dc362e7ab7c1b77e5",
+      "levelid": "custom_level_35d56891bee4f2757112f84dc362e7ab7c1b77e5"
+    },
+    {
+      "key": "4d1cf",
+      "songName": "[TGMG Christmas Mixtape] Trepak (Russian Dance) - Tchaikovsky (The Nutcracker) [Tech]",
+      "hash": "20a57533d80e15799c8a2f325539d421c5b1eff3",
+      "levelid": "custom_level_20a57533d80e15799c8a2f325539d421c5b1eff3"
+    },
+    {
+      "key": "4d1cd",
+      "songName": "[Feetsaber]Music is The Answer",
+      "hash": "f7e11c4ab882328734293cfd869264240e291d95",
+      "levelid": "custom_level_f7e11c4ab882328734293cfd869264240e291d95"
+    },
+    {
+      "key": "4d1cc",
+      "songName": "ICHILLIN' - XL",
+      "hash": "2f72b771d7ecd07bb95c285dc660190f2b8a4690",
+      "levelid": "custom_level_2f72b771d7ecd07bb95c285dc660190f2b8a4690"
+    },
+    {
+      "key": "4d1cb",
+      "songName": "Deck the Halls",
+      "hash": "d9114b26e13ce3c7107d5232511b958392153f6a",
+      "levelid": "custom_level_d9114b26e13ce3c7107d5232511b958392153f6a"
+    },
+    {
+      "key": "4d1c9",
+      "songName": "Заряженный",
+      "hash": "b03fc07da7580f0e065ea68445383ba5f859b5db",
+      "levelid": "custom_level_b03fc07da7580f0e065ea68445383ba5f859b5db"
+    },
+    {
+      "key": "4d1c8",
+      "songName": "Lobotomy Sound Effect",
+      "hash": "e5516698295bd95a4bd85a0048c7449aaf7066dd",
+      "levelid": "custom_level_e5516698295bd95a4bd85a0048c7449aaf7066dd"
+    },
+    {
+      "key": "4d1c6",
+      "songName": "gluten free apple",
+      "hash": "dc5e37954f2f434010d532167e7d1f0091843d47",
+      "levelid": "custom_level_dc5e37954f2f434010d532167e7d1f0091843d47"
+    },
+    {
+      "key": "4d1c5",
+      "songName": "White Ferrari (outro) - Frank Ocean",
+      "hash": "8bab0669445a70b0b97393d9b79dae9e55fb6172",
+      "levelid": "custom_level_8bab0669445a70b0b97393d9b79dae9e55fb6172"
+    },
+    {
+      "key": "4d1c4",
+      "songName": "[TGMG Christmas Mixtape] Carol Of The Bells - George Winston [Balanced]",
+      "hash": "ebe8eb21f171bd542dfb3d34035bad17ea99d670",
+      "levelid": "custom_level_ebe8eb21f171bd542dfb3d34035bad17ea99d670"
+    },
+    {
+      "key": "4d1c3",
+      "songName": "Epic Games - OG (Remix)",
+      "hash": "5be717539f3e42df11363fbfa755606f54fe22c9",
+      "levelid": "custom_level_5be717539f3e42df11363fbfa755606f54fe22c9"
+    },
+    {
+      "key": "4d1c1",
+      "songName": "Счастливы вместе - заставка",
+      "hash": "c6d8a35d74789e5c372821706c9788a795a32b13",
+      "levelid": "custom_level_c6d8a35d74789e5c372821706c9788a795a32b13"
+    },
+    {
+      "key": "4d1c2",
+      "songName": "596 Challenge",
+      "hash": "b39129ba7185eca2bee47274af41aa8dca3255fb",
+      "levelid": "custom_level_b39129ba7185eca2bee47274af41aa8dca3255fb"
+    },
+    {
+      "key": "4cd93",
+      "songName": "paranoia - ALASKA PUFFER",
+      "hash": "dff6fbc5bacad01fcbb8dbfc844d3aa3828c8213",
+      "levelid": "custom_level_dff6fbc5bacad01fcbb8dbfc844d3aa3828c8213"
+    },
+    {
+      "key": "4d1bd",
+      "songName": "Suno AI - ZOIO EU TE DESAFIO EXTENDED",
+      "hash": "a41643c9bafd5532ad793668c2f0d156a1a2dd29",
+      "levelid": "custom_level_a41643c9bafd5532ad793668c2f0d156a1a2dd29"
+    },
+    {
+      "key": "4d1be",
+      "songName": "Charli xcx - Von dutch",
+      "hash": "e3f01afaeb6fba60a594915f1bf90c358c91bdd5",
+      "levelid": "custom_level_e3f01afaeb6fba60a594915f1bf90c358c91bdd5"
+    },
+    {
+      "key": "4d1bc",
+      "songName": "norlore pdf",
+      "hash": "a53facac1fc3ff6dd95a76ca5e3b4f5a56949382",
+      "levelid": "custom_level_a53facac1fc3ff6dd95a76ca5e3b4f5a56949382"
+    },
+    {
+      "key": "4ce92",
+      "songName": "goodbye santa",
+      "hash": "45d6e4ae7321d6196a6f7aae2d3b90ed1f4d28dd",
+      "levelid": "custom_level_45d6e4ae7321d6196a6f7aae2d3b90ed1f4d28dd"
+    },
+    {
+      "key": "4d189",
+      "songName": "Good Kid - Nomu",
+      "hash": "fe19836541d2575ad79186deaffda067bb4d5ce5",
+      "levelid": "custom_level_fe19836541d2575ad79186deaffda067bb4d5ce5"
+    },
+    {
+      "key": "4d1b7",
+      "songName": "vbnd - Trying To forget",
+      "hash": "f10a7b16e9f0585d889010e612d6ff82d3e98e23",
+      "levelid": "custom_level_f10a7b16e9f0585d889010e612d6ff82d3e98e23"
+    },
+    {
+      "key": "4d1b3",
+      "songName": "MaelouX - Nuke Powder (Thinking Space II)",
+      "hash": "e0f14e33f5c5befd3ddfa45cff91c885f611aaae",
+      "levelid": "custom_level_e0f14e33f5c5befd3ddfa45cff91c885f611aaae"
+    },
+    {
+      "key": "4d1b2",
+      "songName": "The things I see on the road",
+      "hash": "5fb3106ea12d9e343e9d6a128040861e053947b6",
+      "levelid": "custom_level_5fb3106ea12d9e343e9d6a128040861e053947b6"
+    },
+    {
+      "key": "4d1b0",
+      "songName": "Laila Kinnunen - Petteri Punakuono",
+      "hash": "47eecb1df4af236919e72ca65ee9fcd252c1d429",
+      "levelid": "custom_level_47eecb1df4af236919e72ca65ee9fcd252c1d429"
+    },
+    {
+      "key": "4d096",
+      "songName": "ultimate ghost ghoul",
+      "hash": "6fa2ef8b106d7177b83944de44d921049ad37e3b",
+      "levelid": "custom_level_6fa2ef8b106d7177b83944de44d921049ad37e3b"
+    },
+    {
+      "key": "4d1af",
+      "songName": "fixed ghost ghoul",
+      "hash": "b5132be621879d3c2784dfba6ade293ffeb6382b",
+      "levelid": "custom_level_b5132be621879d3c2784dfba6ade293ffeb6382b"
+    },
+    {
+      "key": "4d1ae",
+      "songName": "Kairiki Bear - Nekuratune Circus",
+      "hash": "43870851aa5d74fdb1ce5eeadf4734bc1683e31c",
+      "levelid": "custom_level_43870851aa5d74fdb1ce5eeadf4734bc1683e31c"
+    },
+    {
+      "key": "4cede",
+      "songName": "Sistar19 - Ma Boy",
+      "hash": "a299ffa5126bb1a0a06388226cf9f016c7689a4c",
+      "levelid": "custom_level_a299ffa5126bb1a0a06388226cf9f016c7689a4c"
+    },
+    {
+      "key": "4d1a1",
+      "songName": "道標ない旅",
+      "hash": "3c30696e24a18e4cd8314fdf4900864de23cb2f0",
+      "levelid": "custom_level_3c30696e24a18e4cd8314fdf4900864de23cb2f0"
+    },
+    {
+      "key": "4d1ac",
+      "songName": "Kevian Kraemer - Jersey or Mars",
+      "hash": "ee7b18e53e56dcfc15a159d0ebdf83733e5fe60c",
+      "levelid": "custom_level_ee7b18e53e56dcfc15a159d0ebdf83733e5fe60c"
+    },
+    {
+      "key": "4d1a7",
+      "songName": "I'm The Problem",
+      "hash": "c1ca9527ebf5ddcaa3774425b327ab3bac766f11",
+      "levelid": "custom_level_c1ca9527ebf5ddcaa3774425b327ab3bac766f11"
+    },
+    {
+      "key": "4d1a3",
+      "songName": "UNIS - mwah...",
+      "hash": "7f84e34eafba063cdd677c4c6f2405bc048a93d0",
+      "levelid": "custom_level_7f84e34eafba063cdd677c4c6f2405bc048a93d0"
+    },
+    {
       "key": "4d1a2",
       "songName": "EBIMAYO - GOODRAGE (Extended)",
-      "hash": "ad42350fb4e3d4f968d410b430e16cd1ea1d28de",
-      "levelid": "custom_level_ad42350fb4e3d4f968d410b430e16cd1ea1d28de"
-    },
-    {
-      "key": "4d1a0",
-      "songName": "MacawMaps Goodbye",
-      "hash": "5a045f56870b37e1ffde0311465112c1d592f860",
-      "levelid": "custom_level_5a045f56870b37e1ffde0311465112c1d592f860"
-    },
-    {
-      "key": "4d19c",
-      "songName": "steej - i have a little fun",
-      "hash": "bdca139d162488bdd7ee86932ca6fb8a8614e97b",
-      "levelid": "custom_level_bdca139d162488bdd7ee86932ca6fb8a8614e97b"
-    },
-    {
-      "key": "4d19b",
-      "songName": "Twisted Thoughts (Chrono Ark OST)",
-      "hash": "1dd36c5e694072c063f073797bad3da5413c68ac",
-      "levelid": "custom_level_1dd36c5e694072c063f073797bad3da5413c68ac"
-    },
-    {
-      "key": "4d197",
-      "songName": "Ricky West - Lightspeed (Nightcore Ver.)",
-      "hash": "1d0f0236e615b8632543c5232ab56532decb0da7",
-      "levelid": "custom_level_1d0f0236e615b8632543c5232ab56532decb0da7"
-    },
-    {
-      "key": "4d196",
-      "songName": "agony",
-      "hash": "8f1bfe312288d49dd47a6f242437e8beba3b58a1",
-      "levelid": "custom_level_8f1bfe312288d49dd47a6f242437e8beba3b58a1"
-    },
-    {
-      "key": "4d195",
-      "songName": "Re-sublimity",
-      "hash": "4777a88e2e283226d3b202126279d5605db3f2c2",
-      "levelid": "custom_level_4777a88e2e283226d3b202126279d5605db3f2c2"
-    },
-    {
-      "key": "4d190",
-      "songName": "Bonde Do Brunao",
-      "hash": "8e62925b5cc5090e5f65f446ea02ab150f58aa0a",
-      "levelid": "custom_level_8e62925b5cc5090e5f65f446ea02ab150f58aa0a"
-    },
-    {
-      "key": "4d18c",
-      "songName": "EpikBeatz freestyle now with clarity",
-      "hash": "640e1c2b804fd6a18c826fc41c9717feb1043a3b",
-      "levelid": "custom_level_640e1c2b804fd6a18c826fc41c9717feb1043a3b"
-    },
-    {
-      "key": "4d18a",
-      "songName": "SKARS - Synthetic Lust",
-      "hash": "f91e92d600a3dc6a02aa1ee6dd84d26344b89039",
-      "levelid": "custom_level_f91e92d600a3dc6a02aa1ee6dd84d26344b89039"
-    },
-    {
-      "key": "4d184",
-      "songName": "Monster Withdrawal",
-      "hash": "a6fb6a959082a613f901b8c0ea53702ea03ea18b",
-      "levelid": "custom_level_a6fb6a959082a613f901b8c0ea53702ea03ea18b"
-    },
-    {
-      "key": "4d180",
-      "songName": "Fallen Symphony - Ludicin (Short Stamina Ver.)",
-      "hash": "fa80de953ae9b28533ff7ae8f2b1f1f115042f0a",
-      "levelid": "custom_level_fa80de953ae9b28533ff7ae8f2b1f1f115042f0a"
-    },
-    {
-      "key": "4d17d",
-      "songName": "HOLLOWDOOM",
-      "hash": "7091aeecfb0ca48c3dac9f962993b6d92645c5d6",
-      "levelid": "custom_level_7091aeecfb0ca48c3dac9f962993b6d92645c5d6"
-    },
-    {
-      "key": "4d17a",
-      "songName": "[FM2H] 2hollis - 3",
-      "hash": "06e9ceff62b2c805efc8fb253905faf885760d10",
-      "levelid": "custom_level_06e9ceff62b2c805efc8fb253905faf885760d10"
-    },
-    {
-      "key": "4d179",
-      "songName": "Mariah Carey - All I Want For Christmas Is You (Bongo Cat Remix)",
-      "hash": "e7ca05edc571473a1db0450dfe4508791245dadf",
-      "levelid": "custom_level_e7ca05edc571473a1db0450dfe4508791245dadf"
-    },
-    {
-      "key": "4d177",
-      "songName": "[FM2H] Kaneko Chiharu - iLLness LiLin",
-      "hash": "c32caa355d7f261efd2a02c55f84baf2610fce3a",
-      "levelid": "custom_level_c32caa355d7f261efd2a02c55f84baf2610fce3a"
-    },
-    {
-      "key": "4d178",
-      "songName": "[FM2H] Laur - Calamity of the Mystic Garden : Doom ",
-      "hash": "af2fd9acd3e0b16fb4f63d6837c9deaa5aa90af7",
-      "levelid": "custom_level_af2fd9acd3e0b16fb4f63d6837c9deaa5aa90af7"
-    },
-    {
-      "key": "4d173",
-      "songName": "[FM2H] Camellia - INSECTICIDE",
-      "hash": "05bf11483d09f577972c388b3e4db069eaba9ea3",
-      "levelid": "custom_level_05bf11483d09f577972c388b3e4db069eaba9ea3"
-    },
-    {
-      "key": "4d176",
-      "songName": "[FM2H] t+pazolite - Haunted Device",
-      "hash": "bf881fb68ebf03f1ad4a7f0eb2c1bb0adc1f5681",
-      "levelid": "custom_level_bf881fb68ebf03f1ad4a7f0eb2c1bb0adc1f5681"
-    },
-    {
-      "key": "4d175",
-      "songName": "[FM2H] awfulness meets Zekk - Waterfall",
-      "hash": "2cedd8ad5b9f9d4907485065dad733a0a48998c5",
-      "levelid": "custom_level_2cedd8ad5b9f9d4907485065dad733a0a48998c5"
-    },
-    {
-      "key": "4d171",
-      "songName": "Innapropriate Rave",
-      "hash": "f6d16cc8dd2122bec1bd6557e12090529ba539e4",
-      "levelid": "custom_level_f6d16cc8dd2122bec1bd6557e12090529ba539e4"
-    },
-    {
-      "key": "4d16e",
-      "songName": "Family mart Ryu☆ Remix",
-      "hash": "4c0bfc3f96f6f7aae83ae68330fe5026f7421538",
-      "levelid": "custom_level_4c0bfc3f96f6f7aae83ae68330fe5026f7421538"
-    },
-    {
-      "key": "4d16a",
-      "songName": "blimp",
-      "hash": "907b83e336244870613a67264e976a59b87bec8c",
-      "levelid": "custom_level_907b83e336244870613a67264e976a59b87bec8c"
-    },
-    {
-      "key": "4d169",
-      "songName": "First Day Of Christmas",
-      "hash": "24af3fbee643305c265ab60c3c0560f9d5cd0242",
-      "levelid": "custom_level_24af3fbee643305c265ab60c3c0560f9d5cd0242"
-    },
-    {
-      "key": "4d164",
-      "songName": "OMG SHAWTY - Shotgun Willy & TRAQULA",
-      "hash": "6b2c9835746abe5b2f7c9693a6bc02ff3f564319",
-      "levelid": "custom_level_6b2c9835746abe5b2f7c9693a6bc02ff3f564319"
-    },
-    {
-      "key": "4d161",
-      "songName": "[TGMG Christmas Mixtape] Lindsey Stirling-Carol Of The Bells",
-      "hash": "4df39afbd80d75a6eb6266a3fdecb754b0572a1b",
-      "levelid": "custom_level_4df39afbd80d75a6eb6266a3fdecb754b0572a1b"
-    },
-    {
-      "key": "4d160",
-      "songName": "Hearts2Hearts - FOCUS (Sped up Ver.)",
-      "hash": "4a3bccd01668fdfc028b6d2fad96cde426faee8a",
-      "levelid": "custom_level_4a3bccd01668fdfc028b6d2fad96cde426faee8a"
-    },
-    {
-      "key": "4d15f",
-      "songName": "Angel",
-      "hash": "adf523ef8d73e0483cf7d6a4afc2181e9892ef4b",
-      "levelid": "custom_level_adf523ef8d73e0483cf7d6a4afc2181e9892ef4b"
-    },
-    {
-      "key": "4d152",
-      "songName": " Bad Memories",
-      "hash": "1db936fa01bf99e307efbd6d2ab8ab89e544813c",
-      "levelid": "custom_level_1db936fa01bf99e307efbd6d2ab8ab89e544813c"
-    },
-    {
-      "key": "4d0cd",
-      "songName": "Orpheus - Mori Calliope",
-      "hash": "d426681ecf61b1655e3dfea4649de0b17934748d",
-      "levelid": "custom_level_d426681ecf61b1655e3dfea4649de0b17934748d"
-    },
-    {
-      "key": "4d14d",
-      "songName": "[TGMG Christmas Mixtape] Snail's House - Christmas of a Wandering Ghost [VNJS]",
-      "hash": "a2d4b02d50160cb1bb32503b75c0a4d31e5e731c",
-      "levelid": "custom_level_a2d4b02d50160cb1bb32503b75c0a4d31e5e731c"
-    },
-    {
-      "key": "4d14c",
-      "songName": "[CS New Years 2026 Countdown 🎁] Weatherday - Angel",
-      "hash": "629ade0788e5a19cce5e197b382e9c8e6550badb",
-      "levelid": "custom_level_629ade0788e5a19cce5e197b382e9c8e6550badb"
-    },
-    {
-      "key": "4d14b",
-      "songName": "alle märchen sind gelogen - jolle",
-      "hash": "d811076bcc446b984cc24f99fea9876872b16bec",
-      "levelid": "custom_level_d811076bcc446b984cc24f99fea9876872b16bec"
-    },
-    {
-      "key": "4c036",
-      "songName": "[Vivify] AJR - The Big Goodbye",
-      "hash": "96a867e77ab3e113ee3c07f2be92255973807fde",
-      "levelid": "custom_level_96a867e77ab3e113ee3c07f2be92255973807fde"
-    },
-    {
-      "key": "4d14a",
-      "songName": "Super Mario Bros. - Jump SFX",
-      "hash": "cf3419196224b9d1563bc8678cfeda1cc2b607df",
-      "levelid": "custom_level_cf3419196224b9d1563bc8678cfeda1cc2b607df"
-    },
-    {
-      "key": "4cfd0",
-      "songName": "KiiiKiii - GROUNDWORK",
-      "hash": "ff83bc8d8f6e4572ca517fc9b5c67f430918ae59",
-      "levelid": "custom_level_ff83bc8d8f6e4572ca517fc9b5c67f430918ae59"
-    },
-    {
-      "key": "4cedf",
-      "songName": "Mimi - Like You Love Me",
-      "hash": "930d1bdb4aef9c7eaa915cafce33c1eb77db8fd4",
-      "levelid": "custom_level_930d1bdb4aef9c7eaa915cafce33c1eb77db8fd4"
-    },
-    {
-      "key": "4d051",
-      "songName": "声の欠片 feat. 月 - MIMI",
-      "hash": "b3f91329801f429f92e1077d6e2243fe6ca8347d",
-      "levelid": "custom_level_b3f91329801f429f92e1077d6e2243fe6ca8347d"
-    },
-    {
-      "key": "4d130",
-      "songName": "Born Without a Heart - Faouzia",
-      "hash": "a7bbf6e4305d293b5865d9d4e5f6d12a6b913fde",
-      "levelid": "custom_level_a7bbf6e4305d293b5865d9d4e5f6d12a6b913fde"
-    },
-    {
-      "key": "4d140",
-      "songName": "That's So True",
-      "hash": "ec5517944900aff9bdfae1edc052c4bfa5266c11",
-      "levelid": "custom_level_ec5517944900aff9bdfae1edc052c4bfa5266c11"
-    },
-    {
-      "key": "4d13d",
-      "songName": "Here I Go Again",
-      "hash": "6a4ffa70c99d82fcd2402cbdbf437bb44a8ecfb8",
-      "levelid": "custom_level_6a4ffa70c99d82fcd2402cbdbf437bb44a8ecfb8"
+      "hash": "dcca78ce9d207f3281236c18f0ede5716bec19bc",
+      "levelid": "custom_level_dcca78ce9d207f3281236c18f0ede5716bec19bc"
     }
   ],
   "image": ""
