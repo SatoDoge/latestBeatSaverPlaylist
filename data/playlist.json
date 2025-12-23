@@ -1,268 +1,196 @@
 {
-  "playlistTitle": "2025-12-21T15:18:48.138Z~2025-12-22T15:18:48.138Z",
+  "playlistTitle": "2025-12-22T15:18:48.205Z~2025-12-23T15:18:48.205Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-12-21T15:18:48.138Z and 2025-12-22T15:18:48.138Z",
+  "discripstion": "Maps published between 2025-12-22T15:18:48.205Z and 2025-12-23T15:18:48.205Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4d277",
-      "songName": "who knows this with 10 notes",
-      "hash": "a0f689b33a3ac6c25a5ca075eecb05373d86fbec",
-      "levelid": "custom_level_a0f689b33a3ac6c25a5ca075eecb05373d86fbec"
+      "key": "4d2eb",
+      "songName": "In The Air Tonight",
+      "hash": "17e5badb8e977d02efe8b9237ac3c36b64b974ed",
+      "levelid": "custom_level_17e5badb8e977d02efe8b9237ac3c36b64b974ed"
     },
     {
-      "key": "4d275",
-      "songName": "Hot n Cold",
-      "hash": "0e8c939102019ba4d33f2fb32c3dfb429264c9c6",
-      "levelid": "custom_level_0e8c939102019ba4d33f2fb32c3dfb429264c9c6"
+      "key": "4d2e9",
+      "songName": "GRIMACE",
+      "hash": "75f6e757d3ea189d858c4f406003755c873e6658",
+      "levelid": "custom_level_75f6e757d3ea189d858c4f406003755c873e6658"
     },
     {
-      "key": "4d273",
-      "songName": "DAYOUNG - body",
-      "hash": "aaef83903e2deae4aa1b0b407378477fe5f64fe4",
-      "levelid": "custom_level_aaef83903e2deae4aa1b0b407378477fe5f64fe4"
+      "key": "4d2e0",
+      "songName": "Aitsuki Nakuru - Presenter☆",
+      "hash": "2bfaf18c8d28cc537fb2308993c12267782a737e",
+      "levelid": "custom_level_2bfaf18c8d28cc537fb2308993c12267782a737e"
     },
     {
-      "key": "4d26f",
-      "songName": "Xyris - ☆Flow of Wind☆（feat. 花隈千冬）",
-      "hash": "60ffde50cd0a9bd5c7f6a0ceeb24c5b0a116c98e",
-      "levelid": "custom_level_60ffde50cd0a9bd5c7f6a0ceeb24c5b0a116c98e"
+      "key": "4d2de",
+      "songName": "Supervillain Santa Claus",
+      "hash": "f789bc7735efdac7ec8aac9f8a45adf941a0f6d8",
+      "levelid": "custom_level_f789bc7735efdac7ec8aac9f8a45adf941a0f6d8"
     },
     {
-      "key": "4d26d",
-      "songName": "Kahoot!Wide",
-      "hash": "881b7282c26692430832b0fe443c04a8cc991fc4",
-      "levelid": "custom_level_881b7282c26692430832b0fe443c04a8cc991fc4"
+      "key": "4d2d9",
+      "songName": "Rock It",
+      "hash": "e96d5dbe823bb587370b5be68414c645df1e6d44",
+      "levelid": "custom_level_e96d5dbe823bb587370b5be68414c645df1e6d44"
     },
     {
-      "key": "4d26c",
-      "songName": "FreeCreditReport.com - F.R.E.E That Spells Free",
-      "hash": "e427a07123f9881399b403a660c01531e90469ea",
-      "levelid": "custom_level_e427a07123f9881399b403a660c01531e90469ea"
+      "key": "4d2c5",
+      "songName": "BEMANI Sound Team \"L.E.D. Sota F.\"& Starbitz - B.O.D.Y.",
+      "hash": "084d6fbf23703470ff6276231c21d99d5751a260",
+      "levelid": "custom_level_084d6fbf23703470ff6276231c21d99d5751a260"
     },
     {
-      "key": "4d267",
-      "songName": "back number - Christmas Song",
-      "hash": "527757434cb52584e9139f6e9f90e8944f2ea0d7",
-      "levelid": "custom_level_527757434cb52584e9139f6e9f90e8944f2ea0d7"
+      "key": "4d2c4",
+      "songName": "[TGMG Christmas Mixtape]  Gayla Peevey - I Want a Hippopotamus for Christmas",
+      "hash": "da334ed5e9b8d325254936622e7d2eb9d44bd986",
+      "levelid": "custom_level_da334ed5e9b8d325254936622e7d2eb9d44bd986"
     },
     {
-      "key": "4d266",
-      "songName": "Daoko - Boku dake no Photon",
-      "hash": "5e8d2bd542b176f2f072b7486ea475587138b5a3",
-      "levelid": "custom_level_5e8d2bd542b176f2f072b7486ea475587138b5a3"
+      "key": "4d2c3",
+      "songName": "If You Care (Slowed) - akiaura",
+      "hash": "3afd02e4e5df2fcacb876d89f464e1279eb41439",
+      "levelid": "custom_level_3afd02e4e5df2fcacb876d89f464e1279eb41439"
     },
     {
-      "key": "4d265",
-      "songName": "Yamajet - Sweets Holic (feat. haru*ama*nya)",
-      "hash": "fcfb20856073fea1f0c69464f2b830c415cecc2d",
-      "levelid": "custom_level_fcfb20856073fea1f0c69464f2b830c415cecc2d"
+      "key": "4d2c2",
+      "songName": "Zootah, Ga Suu, Petboy - Meant To Be (Nightcore Mix)",
+      "hash": "74de76270a3fe2c852b87f3e34f6d80174ce522a",
+      "levelid": "custom_level_74de76270a3fe2c852b87f3e34f6d80174ce522a"
     },
     {
-      "key": "4d268",
-      "songName": "DADADADA Of The Bumblebee",
-      "hash": "3a775c983a625c04cadaf34ae82f06053c76c87f",
-      "levelid": "custom_level_3a775c983a625c04cadaf34ae82f06053c76c87f"
+      "key": "4d2c1",
+      "songName": "Diabarha - Mariana Trench (Trench Point) (MTS-6)",
+      "hash": "a073feafbbeef3954fd5f850da2d2b7fc4f60a55",
+      "levelid": "custom_level_a073feafbbeef3954fd5f850da2d2b7fc4f60a55"
     },
     {
-      "key": "4d263",
-      "songName": "Cut Through",
-      "hash": "135d74aeb3e9ce3d6a652cb8f729db2f33231483",
-      "levelid": "custom_level_135d74aeb3e9ce3d6a652cb8f729db2f33231483"
+      "key": "4d2bf",
+      "songName": "Inferno",
+      "hash": "557a201ebc86036958cf683d6362d425b724a7b2",
+      "levelid": "custom_level_557a201ebc86036958cf683d6362d425b724a7b2"
     },
     {
-      "key": "4d261",
-      "songName": "come in!",
-      "hash": "62450a043fee1ef3861e515389a76c97832a978f",
-      "levelid": "custom_level_62450a043fee1ef3861e515389a76c97832a978f"
+      "key": "4d2be",
+      "songName": "bbno$ - 1-800 (ft. Ironmouse)",
+      "hash": "6b35c9b6bdf5efcafe18aaa63e125dead6ad0b47",
+      "levelid": "custom_level_6b35c9b6bdf5efcafe18aaa63e125dead6ad0b47"
     },
     {
-      "key": "4d25f",
-      "songName": "Halsey - Alone",
-      "hash": "9021fd0e3c5538995116df97a47c51b22682d2f1",
-      "levelid": "custom_level_9021fd0e3c5538995116df97a47c51b22682d2f1"
+      "key": "4d2bc",
+      "songName": "GREEn apple toilet phone",
+      "hash": "e6c9c683ae5ccf7f502d41a8296fabd326e05e3d",
+      "levelid": "custom_level_e6c9c683ae5ccf7f502d41a8296fabd326e05e3d"
     },
     {
-      "key": "4d24b",
-      "songName": " [CS New Years 2026 Countdown 🎁] aran & Kobaryo - はげしこの夜 -Psylent Crazy Night-",
-      "hash": "b24f6408f7a32714c842567e3102a53246575e9f",
-      "levelid": "custom_level_b24f6408f7a32714c842567e3102a53246575e9f"
+      "key": "4d2af",
+      "songName": "Walk Like Shawn - FGTEEV",
+      "hash": "13967c93b13b6e3fa24be0bea5f60f3fee077a44",
+      "levelid": "custom_level_13967c93b13b6e3fa24be0bea5f60f3fee077a44"
     },
     {
-      "key": "4d25e",
-      "songName": "ORION DRIFT VR  ADDED A TUTORIAL!",
-      "hash": "6cdbbd1e473d6f3473cf8173bc055973677b035b",
-      "levelid": "custom_level_6cdbbd1e473d6f3473cf8173bc055973677b035b"
+      "key": "4d2ae",
+      "songName": "xaev - i started the UTSC to dariacore pipeline",
+      "hash": "92a667de2e549ccef35ab91ab81f52a223a83ffd",
+      "levelid": "custom_level_92a667de2e549ccef35ab91ab81f52a223a83ffd"
     },
     {
-      "key": "4d25d",
-      "songName": "Did YOU Know About This Orion Drift Mechanic",
-      "hash": "b59b0c55959849c88d49ba8c41334b1c841bde3c",
-      "levelid": "custom_level_b59b0c55959849c88d49ba8c41334b1c841bde3c"
+      "key": "4d2aa",
+      "songName": "(vOid's Christmas REMAP 1/5) U-0 - Srezcat",
+      "hash": "693f5bcf1d0cc78a1db89de78738c8e1cca9ca4b",
+      "levelid": "custom_level_693f5bcf1d0cc78a1db89de78738c8e1cca9ca4b"
     },
     {
-      "key": "4d25c",
-      "songName": "Primal Concrete Sledge - Pantera",
-      "hash": "c41b4d5203676f29b41c666b2c328d5c05d0cc00",
-      "levelid": "custom_level_c41b4d5203676f29b41c666b2c328d5c05d0cc00"
+      "key": "4d2a8",
+      "songName": "small cuts",
+      "hash": "ea1440d56502c76a894e5351a6c635689e61c7ac",
+      "levelid": "custom_level_ea1440d56502c76a894e5351a6c635689e61c7ac"
     },
     {
-      "key": "4d25a",
-      "songName": "How can one scream this loud?",
-      "hash": "4235b647f87ece8d0b6d054aaedb3a4f28aad475",
-      "levelid": "custom_level_4235b647f87ece8d0b6d054aaedb3a4f28aad475"
+      "key": "4d2a5",
+      "songName": "[Feetsaber]Accents",
+      "hash": "155aae1d28c1d03caf7f45c218a04925e5d5f41e",
+      "levelid": "custom_level_155aae1d28c1d03caf7f45c218a04925e5d5f41e"
     },
     {
-      "key": "4d259",
-      "songName": "Frisbee Dog - Results Win (Unused)",
-      "hash": "b51d388df9250d1a6b91b78cb42a326c9f08c10d",
-      "levelid": "custom_level_b51d388df9250d1a6b91b78cb42a326c9f08c10d"
+      "key": "4d2a2",
+      "songName": "James Landino - Aresene's Bazaar",
+      "hash": "69aa94ebe06c972ce69c2476d1ff1311b8e6c755",
+      "levelid": "custom_level_69aa94ebe06c972ce69c2476d1ff1311b8e6c755"
     },
     {
-      "key": "4d258",
-      "songName": "QWER - Overdrive",
-      "hash": "b2c9267b710ad6979493ad2e603d3b39d2427618",
-      "levelid": "custom_level_b2c9267b710ad6979493ad2e603d3b39d2427618"
+      "key": "4d29f",
+      "songName": "Wish Coming True",
+      "hash": "4ab4b3f8de282868bf4c37c7405adf4be82d7d3a",
+      "levelid": "custom_level_4ab4b3f8de282868bf4c37c7405adf4be82d7d3a"
     },
     {
-      "key": "4d257",
-      "songName": "Festive Fortnite lobby music ",
-      "hash": "6ae1602ac2532a7592afcdc3600e653d41505cf6",
-      "levelid": "custom_level_6ae1602ac2532a7592afcdc3600e653d41505cf6"
+      "key": "4d29e",
+      "songName": "ANALYS",
+      "hash": "ddbfdab00b65758d3d84ed63f1c060ed176dfd5a",
+      "levelid": "custom_level_ddbfdab00b65758d3d84ed63f1c060ed176dfd5a"
     },
     {
-      "key": "4d256",
-      "songName": "Makkeroni - Can Can World",
-      "hash": "a495fe2f6e9730574bf94b877e7a980030464f1d",
-      "levelid": "custom_level_a495fe2f6e9730574bf94b877e7a980030464f1d"
+      "key": "4d29d",
+      "songName": "Peak Divide & Rachel Lake - Empty Diary",
+      "hash": "caec70314ef11a65a89a12d5f402a60ec3357e51",
+      "levelid": "custom_level_caec70314ef11a65a89a12d5f402a60ec3357e51"
     },
     {
-      "key": "4d13a",
-      "songName": "予感 - とた / Hope(Yokan) - Tota",
-      "hash": "a8f35fb38cfb2632a76fa5d96295cd32ce1aee41",
-      "levelid": "custom_level_a8f35fb38cfb2632a76fa5d96295cd32ce1aee41"
+      "key": "4d29b",
+      "songName": "おぎゃりないざ",
+      "hash": "7ed976678119628d52f398d4194a700a98467ecd",
+      "levelid": "custom_level_7ed976678119628d52f398d4194a700a98467ecd"
     },
     {
-      "key": "4d254",
-      "songName": "king of queens theme",
-      "hash": "79813824616ad6d05cbfce031ea4e9a70e8679e6",
-      "levelid": "custom_level_79813824616ad6d05cbfce031ea4e9a70e8679e6"
+      "key": "4d29a",
+      "songName": "END THIS GAME - Kobaryo",
+      "hash": "89c95a98814889150a18e39173c0e47f00e4a6f5",
+      "levelid": "custom_level_89c95a98814889150a18e39173c0e47f00e4a6f5"
     },
     {
-      "key": "4d255",
-      "songName": "new kind of love - Frau Frau",
-      "hash": "77aa450da017ca05ec1717ef1d29e8072a282500",
-      "levelid": "custom_level_77aa450da017ca05ec1717ef1d29e8072a282500"
+      "key": "4d295",
+      "songName": "MELO☆MELO MELTDOWN",
+      "hash": "afde6195b1bc79d98f6604f61b275047ec7cf454",
+      "levelid": "custom_level_afde6195b1bc79d98f6604f61b275047ec7cf454"
     },
     {
-      "key": "4d253",
-      "songName": "Overthinking",
-      "hash": "37e30d9912f52c0b2f63fceb3f4e0868989f96be",
-      "levelid": "custom_level_37e30d9912f52c0b2f63fceb3f4e0868989f96be"
+      "key": "4d292",
+      "songName": "Tsuyunoshi & 4cf - dissoluted",
+      "hash": "29db01f815140551ebea2c803a95bd8bfb0c874f",
+      "levelid": "custom_level_29db01f815140551ebea2c803a95bd8bfb0c874f"
     },
     {
-      "key": "4d252",
-      "songName": "...Is This Thing On?",
-      "hash": "49b84e95e1fac6a7c8d56ffa5e3e249efd136219",
-      "levelid": "custom_level_49b84e95e1fac6a7c8d56ffa5e3e249efd136219"
+      "key": "4d285",
+      "songName": "M83 - Outro",
+      "hash": "316d46ffeb95a289e6d0d1e3faacf5386e0646b1",
+      "levelid": "custom_level_316d46ffeb95a289e6d0d1e3faacf5386e0646b1"
     },
     {
-      "key": "4d24a",
-      "songName": "Washing Machine Heart",
-      "hash": "7fd5085f819eb2bada7e43575b97f1573e3e512a",
-      "levelid": "custom_level_7fd5085f819eb2bada7e43575b97f1573e3e512a"
+      "key": "4d274",
+      "songName": "Sober Heart",
+      "hash": "c16d9843ce96a0e6f3a09f4a8e35cb1b19448ab7",
+      "levelid": "custom_level_c16d9843ce96a0e6f3a09f4a8e35cb1b19448ab7"
     },
     {
-      "key": "4d250",
-      "songName": "ヤミナベ!!!!",
-      "hash": "bdbc5f75a2fa0dead33cd92db1f20a607a129932",
-      "levelid": "custom_level_bdbc5f75a2fa0dead33cd92db1f20a607a129932"
+      "key": "4cddf",
+      "songName": "T-ARA - Hide & Seek",
+      "hash": "5591f489a8f76fd1183b4edd4ef47c2197e55eb2",
+      "levelid": "custom_level_5591f489a8f76fd1183b4edd4ef47c2197e55eb2"
     },
     {
-      "key": "4d24f",
-      "songName": "Laufey - Christmas Magic",
-      "hash": "bef2f3b019a3c2cc47822c4f35a405fb0088efa0",
-      "levelid": "custom_level_bef2f3b019a3c2cc47822c4f35a405fb0088efa0"
+      "key": "4d27c",
+      "songName": "Sennen no kotowari(NOSTALGIA ver.)",
+      "hash": "e843d3c4d97b60cb2f246663e8629f4409c8a3bb",
+      "levelid": "custom_level_e843d3c4d97b60cb2f246663e8629f4409c8a3bb"
     },
     {
-      "key": "4d236",
-      "songName": "2019 Sigma Mashup #36",
-      "hash": "ef3442723f6bd11c7b2a0db645e51abdb5cc143d",
-      "levelid": "custom_level_ef3442723f6bd11c7b2a0db645e51abdb5cc143d"
-    },
-    {
-      "key": "4d24d",
-      "songName": "Grubhub/Bomba Estereo - Delivery Dance (Soy Yo)",
-      "hash": "ea52c03e6920356789d433d6d9007bb56338234d",
-      "levelid": "custom_level_ea52c03e6920356789d433d6d9007bb56338234d"
-    },
-    {
-      "key": "4d24c",
-      "songName": "NOT LIKE US",
-      "hash": "5275c75f0546ab87c48a44811824f1e724a96b25",
-      "levelid": "custom_level_5275c75f0546ab87c48a44811824f1e724a96b25"
-    },
-    {
-      "key": "4d23b",
-      "songName": "glaive - We Don't Leave the House",
-      "hash": "f17b00987377e466c1908bcda8ad595d544f94e6",
-      "levelid": "custom_level_f17b00987377e466c1908bcda8ad595d544f94e6"
-    },
-    {
-      "key": "4d23a",
-      "songName": "Zozo - jett2 brain melt",
-      "hash": "88573dbe8712c7af0badbb7bb14be13bb3f23ff5",
-      "levelid": "custom_level_88573dbe8712c7af0badbb7bb14be13bb3f23ff5"
-    },
-    {
-      "key": "4d235",
-      "songName": "Ground (Up)",
-      "hash": "488634c596014d89c0235bd6be175f60295d80a1",
-      "levelid": "custom_level_488634c596014d89c0235bd6be175f60295d80a1"
-    },
-    {
-      "key": "4d234",
-      "songName": "My Mother Wants Me Dead",
-      "hash": "d8285b00f56e99a87e1820a33faf595b517e68de",
-      "levelid": "custom_level_d8285b00f56e99a87e1820a33faf595b517e68de"
-    },
-    {
-      "key": "4d227",
-      "songName": "Move your body",
-      "hash": "3b58196deb1071218ae91104eca9f5fe1adeb6da",
-      "levelid": "custom_level_3b58196deb1071218ae91104eca9f5fe1adeb6da"
-    },
-    {
-      "key": "4d225",
-      "songName": "Everything is romantic",
-      "hash": "5b77163c8f31580debaeff6e105b772e6f3ce80c",
-      "levelid": "custom_level_5b77163c8f31580debaeff6e105b772e6f3ce80c"
-    },
-    {
-      "key": "4d21f",
-      "songName": "Various Artists - Sky Station Galaxy (Super Mario Galaxy 2) - (Mario Kart World OST)",
-      "hash": "894c96f91fbfd2ff0851ce6f07b24b61056f6c17",
-      "levelid": "custom_level_894c96f91fbfd2ff0851ce6f07b24b61056f6c17"
-    },
-    {
-      "key": "4d222",
-      "songName": "Whiskey Glasses",
-      "hash": "b9613e2e5478f4442caf38162d79ef169aced9ed",
-      "levelid": "custom_level_b9613e2e5478f4442caf38162d79ef169aced9ed"
-    },
-    {
-      "key": "4d223",
-      "songName": "Zoltraak (from Frieren OST) - Evan Call",
-      "hash": "3fe7e4435e6f9fc2ea9cf44607a48063a15ce7fe",
-      "levelid": "custom_level_3fe7e4435e6f9fc2ea9cf44607a48063a15ce7fe"
-    },
-    {
-      "key": "4ce36",
-      "songName": "NeonPunch - MOONLIGHT",
-      "hash": "c135a49a9c736e1155c89fa4c922d9151d2df5ff",
-      "levelid": "custom_level_c135a49a9c736e1155c89fa4c922d9151d2df5ff"
+      "key": "4d278",
+      "songName": "Love her sound effects lol",
+      "hash": "027e48d2c9f73b176c441a4bc3ea3d8ef4f7c8f3",
+      "levelid": "custom_level_027e48d2c9f73b176c441a4bc3ea3d8ef4f7c8f3"
     }
   ],
   "image": ""
