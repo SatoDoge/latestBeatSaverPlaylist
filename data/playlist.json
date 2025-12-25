@@ -1,340 +1,274 @@
 {
-  "playlistTitle": "2025-12-23T15:18:48.229Z~2025-12-24T15:18:48.229Z",
+  "playlistTitle": "2025-12-24T15:18:48.746Z~2025-12-25T15:18:48.746Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2025-12-23T15:18:48.229Z and 2025-12-24T15:18:48.229Z",
+  "discripstion": "Maps published between 2025-12-24T15:18:48.746Z and 2025-12-25T15:18:48.746Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4d366",
-      "songName": "Sussus Nuzzus",
-      "hash": "a175586172d1d8893f46c4f6e7fbcff18ea276c1",
-      "levelid": "custom_level_a175586172d1d8893f46c4f6e7fbcff18ea276c1"
+      "key": "4d3cb",
+      "songName": "[Chroma] KLYDIX - Dream Flower (夢幻の花)",
+      "hash": "3dd72fbd8b0d5410705c739c7f1103cb1bfc30d8",
+      "levelid": "custom_level_3dd72fbd8b0d5410705c739c7f1103cb1bfc30d8"
     },
     {
-      "key": "4d363",
-      "songName": "えへ^-^",
-      "hash": "243dcb9399e7542c4ee232e40b315d99611ae9c2",
-      "levelid": "custom_level_243dcb9399e7542c4ee232e40b315d99611ae9c2"
+      "key": "4d3c9",
+      "songName": "HUNTR/X - Golden",
+      "hash": "0c9c88c1631d7b396d70993bc672aa4568a1859a",
+      "levelid": "custom_level_0c9c88c1631d7b396d70993bc672aa4568a1859a"
     },
     {
-      "key": "4d362",
-      "songName": "Jingle Bells (Akina cover)",
-      "hash": "d1740ca5b707f7a14ecf82a61f9742c03f1ce238",
-      "levelid": "custom_level_d1740ca5b707f7a14ecf82a61f9742c03f1ce238"
+      "key": "4d3cc",
+      "songName": "my mother wants me dead",
+      "hash": "563d0c81b6e6a7b5900ebb60130cf177f245c399",
+      "levelid": "custom_level_563d0c81b6e6a7b5900ebb60130cf177f245c399"
     },
     {
-      "key": "4d361",
-      "songName": "Porter Robinson - Cheerleader (Isaa Cover)",
-      "hash": "ba7d4cd751e17c2bfb55821b914cb87a7a64dbe7",
-      "levelid": "custom_level_ba7d4cd751e17c2bfb55821b914cb87a7a64dbe7"
-    },
-    {
-      "key": "4d360",
-      "songName": "Prezioso x Vini Vici x Shibui - Drink And Shout",
-      "hash": "aad29d034df1f79945d7629078e44c0ab9897f78",
-      "levelid": "custom_level_aad29d034df1f79945d7629078e44c0ab9897f78"
-    },
-    {
-      "key": "4d35e",
-      "songName": "Cansol Bell Rock",
-      "hash": "4f60a17edf62b4b31413570627e8feb58394b905",
-      "levelid": "custom_level_4f60a17edf62b4b31413570627e8feb58394b905"
-    },
-    {
-      "key": "4d35d",
-      "songName": "TWICE - Magical",
-      "hash": "ce1bb7b3159b3ec607295a457aa0ba19891e6cd7",
-      "levelid": "custom_level_ce1bb7b3159b3ec607295a457aa0ba19891e6cd7"
-    },
-    {
-      "key": "4d358",
-      "songName": "Feliz Navidad",
-      "hash": "a6ab7fb7b80e69be3c18256ddf11c90071530db2",
-      "levelid": "custom_level_a6ab7fb7b80e69be3c18256ddf11c90071530db2"
-    },
-    {
-      "key": "4d136",
-      "songName": "Joululaulu - HurHur",
-      "hash": "3893f94855f427a1edba7872834bd75847f4194d",
-      "levelid": "custom_level_3893f94855f427a1edba7872834bd75847f4194d"
-    },
-    {
-      "key": "4d349",
-      "songName": "Yooh - Signal Waves",
-      "hash": "a975e82607f00f08df68a93ea6b2876cdefcbcd4",
-      "levelid": "custom_level_a975e82607f00f08df68a93ea6b2876cdefcbcd4"
-    },
-    {
-      "key": "4d34a",
-      "songName": "MARETU - Suck It Up",
-      "hash": "6ea85db8eea7dd8724790b1f0fff96c4f2a59e5c",
-      "levelid": "custom_level_6ea85db8eea7dd8724790b1f0fff96c4f2a59e5c"
-    },
-    {
-      "key": "4d348",
-      "songName": "Ploperin - Rainbug",
-      "hash": "b99990d76532c403939c0f45705fd3140a716387",
-      "levelid": "custom_level_b99990d76532c403939c0f45705fd3140a716387"
-    },
-    {
-      "key": "4d347",
-      "songName": "6th & Dischord - Outcast",
-      "hash": "2ee4a083c63a2216757a135cf8aa03aad9c53754",
-      "levelid": "custom_level_2ee4a083c63a2216757a135cf8aa03aad9c53754"
-    },
-    {
-      "key": "4d346",
-      "songName": "Siinamota - For Now Before You Are Gone",
-      "hash": "929552fc7e0511f142319f99c1f72c3e90949a05",
-      "levelid": "custom_level_929552fc7e0511f142319f99c1f72c3e90949a05"
-    },
-    {
-      "key": "4d345",
-      "songName": "Dasu - Calorie",
-      "hash": "910771bf27e39d8a896126ea1c1619fed09ce2a6",
-      "levelid": "custom_level_910771bf27e39d8a896126ea1c1619fed09ce2a6"
-    },
-    {
-      "key": "4d343",
-      "songName": "Appy - Sankaku",
-      "hash": "6035bcc36baa9dda9d86f1a19a23fea44f7298cc",
-      "levelid": "custom_level_6035bcc36baa9dda9d86f1a19a23fea44f7298cc"
-    },
-    {
-      "key": "4d34b",
-      "songName": "Moe Shop x Hentaidude - Superstar",
-      "hash": "9dab076b3f30960c515e66f37f18d761eac47227",
-      "levelid": "custom_level_9dab076b3f30960c515e66f37f18d761eac47227"
-    },
-    {
-      "key": "4d34d",
-      "songName": "Siinamota - Goodbye Everyone",
-      "hash": "f095478c6ec866df86c23b7e79a01beec96ec32b",
-      "levelid": "custom_level_f095478c6ec866df86c23b7e79a01beec96ec32b"
-    },
-    {
-      "key": "4d350",
-      "songName": "Green Day - Christian's Inferno",
-      "hash": "083136e52bc0f153f7e8e405807b8e0bc6ccb72d",
-      "levelid": "custom_level_083136e52bc0f153f7e8e405807b8e0bc6ccb72d"
-    },
-    {
-      "key": "4d34f",
-      "songName": "seatrus+kuro - ぼくらの物語 (Our Story) ≪Happycore Meteorshower II≫",
-      "hash": "49fd3dd7cfaf632ac9a98298f233dd1d25bb6394",
-      "levelid": "custom_level_49fd3dd7cfaf632ac9a98298f233dd1d25bb6394"
-    },
-    {
-      "key": "4d34e",
-      "songName": "GONE, GONE / THANK YOU",
-      "hash": "453541182f093deb3c95d62f3d2f9a461bda7a70",
-      "levelid": "custom_level_453541182f093deb3c95d62f3d2f9a461bda7a70"
-    },
-    {
-      "key": "4d34c",
-      "songName": "Powder - Seat Of My Pants",
-      "hash": "80419eb5450d003f21b21e4ec895b8953a2541ee",
-      "levelid": "custom_level_80419eb5450d003f21b21e4ec895b8953a2541ee"
-    },
-    {
-      "key": "4d344",
-      "songName": "Kobie Dee and Hellcat Speedracer - Maroubra Villain",
-      "hash": "53d6595783e6b08b2aedf6db5b891dcfd72ba0ae",
-      "levelid": "custom_level_53d6595783e6b08b2aedf6db5b891dcfd72ba0ae"
-    },
-    {
-      "key": "4d342",
-      "songName": "‎ ",
-      "hash": "d52732a4d04052807bf986d03af63b3cb3ed8427",
-      "levelid": "custom_level_d52732a4d04052807bf986d03af63b3cb3ed8427"
-    },
-    {
-      "key": "4d340",
-      "songName": "You are all my happy magic",
-      "hash": "73dd4cd4131c54bf801962228c8b5dd9dc1ff591",
-      "levelid": "custom_level_73dd4cd4131c54bf801962228c8b5dd9dc1ff591"
-    },
-    {
-      "key": "4d33e",
-      "songName": "Extratongue",
-      "hash": "6f901d5c40db2ca0764ef617f7aee6015ee976b7",
-      "levelid": "custom_level_6f901d5c40db2ca0764ef617f7aee6015ee976b7"
-    },
-    {
-      "key": "4d33a",
-      "songName": "Exyl - Discord Checkpoint",
-      "hash": "ddef9f84dac5ff2fd92a59f24de44bddc4666773",
-      "levelid": "custom_level_ddef9f84dac5ff2fd92a59f24de44bddc4666773"
-    },
-    {
-      "key": "4d339",
+      "key": "4d3c6",
       "songName": "This SpongeBob Big Guy Song is SO Catchy! 🧽🔥",
-      "hash": "52bd00ed9c8d7f986689ca61e0a06862ffb26d0f",
-      "levelid": "custom_level_52bd00ed9c8d7f986689ca61e0a06862ffb26d0f"
+      "hash": "3635b9bb44a390ddfd31ec687fc46347b587bd17",
+      "levelid": "custom_level_3635b9bb44a390ddfd31ec687fc46347b587bd17"
     },
     {
-      "key": "4d32d",
-      "songName": "Sasaki Sayaka - Distance",
-      "hash": "ee8c7ca563ba9f484741f0404a3b7074e03bae54",
-      "levelid": "custom_level_ee8c7ca563ba9f484741f0404a3b7074e03bae54"
+      "key": "4d3c3",
+      "songName": "Ben Chen - All I Want For Christmas Is DASHSTAR",
+      "hash": "e83caac52ca2047ef8ba93f93d266e528765e9ac",
+      "levelid": "custom_level_e83caac52ca2047ef8ba93f93d266e528765e9ac"
     },
     {
-      "key": "4d328",
-      "songName": "Cody Fry - What If",
-      "hash": "d4e346273d6dce9e86881b100b9d3f5c3b201fe2",
-      "levelid": "custom_level_d4e346273d6dce9e86881b100b9d3f5c3b201fe2"
+      "key": "4d3c2",
+      "songName": "Mitchie M - 好き！雪！本気マジック",
+      "hash": "0e404157fd37a8feb91c6ba52b29d2f38bd54b1b",
+      "levelid": "custom_level_0e404157fd37a8feb91c6ba52b29d2f38bd54b1b"
     },
     {
-      "key": "4d32c",
-      "songName": "Devil Is A Loser - Lordi",
-      "hash": "e2ec4a6785061133d64fa7a200a6ef73499d73c8",
-      "levelid": "custom_level_e2ec4a6785061133d64fa7a200a6ef73499d73c8"
+      "key": "4d042",
+      "songName": "grizlor & BlAck_vOid-1001 - All I want for Christmas is 8",
+      "hash": "bc3012b2df9d3f3614908bd14e3e50700acbf399",
+      "levelid": "custom_level_bc3012b2df9d3f3614908bd14e3e50700acbf399"
     },
     {
-      "key": "4d32b",
-      "songName": "[Chroma] Twenty One Pilots - Christmas Saves The Year",
-      "hash": "50ad23dc8d56e78d333e61b3212fc1facfa8d39c",
-      "levelid": "custom_level_50ad23dc8d56e78d333e61b3212fc1facfa8d39c"
+      "key": "4d3ac",
+      "songName": "DISEMBODIED TYRANT/SYNESTIA - THE POETIC EDDA",
+      "hash": "15bbed54acd3ec10662fbfd409ccd8902102bccc",
+      "levelid": "custom_level_15bbed54acd3ec10662fbfd409ccd8902102bccc"
     },
     {
-      "key": "4d32a",
-      "songName": "Big Time Rush",
-      "hash": "04308b4a3f4300e618f8a5df5c3c1505b6286244",
-      "levelid": "custom_level_04308b4a3f4300e618f8a5df5c3c1505b6286244"
+      "key": "4d3c1",
+      "songName": "lexycat - glitter (Cut Ver.)",
+      "hash": "0432267ed93e2f1b2975fda6df36c291aa771abb",
+      "levelid": "custom_level_0432267ed93e2f1b2975fda6df36c291aa771abb"
     },
     {
-      "key": "4d329",
-      "songName": "leeches",
-      "hash": "32190e7d44c60ba36811b4c93ad41653ca5544ed",
-      "levelid": "custom_level_32190e7d44c60ba36811b4c93ad41653ca5544ed"
+      "key": "4d395",
+      "songName": "zachy's alt - gay people's ultimatum",
+      "hash": "95e8d024c2ff7b8ce3cee7418c1fc9bd205dae11",
+      "levelid": "custom_level_95e8d024c2ff7b8ce3cee7418c1fc9bd205dae11"
     },
     {
-      "key": "4d327",
-      "songName": "Chroma - Walk In Silence",
-      "hash": "62d364e00f51dbc138f186d653fbcfbeb3dd749f",
-      "levelid": "custom_level_62d364e00f51dbc138f186d653fbcfbeb3dd749f"
+      "key": "4d3be",
+      "songName": "[Fitbeat] PURPLE KISS - My My",
+      "hash": "a7ac209a449fef938a8d6e80ed1095684e260540",
+      "levelid": "custom_level_a7ac209a449fef938a8d6e80ed1095684e260540"
     },
     {
-      "key": "4d326",
-      "songName": "Big Guy",
-      "hash": "c015e8ea0a62b9a560dfe0c3a3c2bad1b3e5f8b7",
-      "levelid": "custom_level_c015e8ea0a62b9a560dfe0c3a3c2bad1b3e5f8b7"
+      "key": "4cc77",
+      "songName": "PON☆PON☆PARADE(kinoshita)",
+      "hash": "81764663006d59a6dfe6f27f7666d217b29f02bc",
+      "levelid": "custom_level_81764663006d59a6dfe6f27f7666d217b29f02bc"
     },
     {
-      "key": "4d325",
-      "songName": "Take A Daytrip - SNOWFLAKE.001",
-      "hash": "917619cbf6fed0c2c47ab6df7510c70918534e6b",
-      "levelid": "custom_level_917619cbf6fed0c2c47ab6df7510c70918534e6b"
+      "key": "4d3b6",
+      "songName": "Dynamax - Your Love (M-Project Remix)",
+      "hash": "161e4eecf09c8e5c5b0655cd4521882d212d2544",
+      "levelid": "custom_level_161e4eecf09c8e5c5b0655cd4521882d212d2544"
     },
     {
-      "key": "4d31c",
-      "songName": "otuka - open your eyes",
-      "hash": "f60ef4a817992c68599c226753d4e88923553bba",
-      "levelid": "custom_level_f60ef4a817992c68599c226753d4e88923553bba"
+      "key": "4d3b5",
+      "songName": "Zekk - Headgrinder",
+      "hash": "c86a66eea1d442be1b6b1a25b5b2167e00e69f7d",
+      "levelid": "custom_level_c86a66eea1d442be1b6b1a25b5b2167e00e69f7d"
     },
     {
-      "key": "4d16d",
-      "songName": "this is what christmas feels like",
-      "hash": "bdbf2dce666c82663f7f259e823f6fedaa50211b",
-      "levelid": "custom_level_bdbf2dce666c82663f7f259e823f6fedaa50211b"
+      "key": "4d3b1",
+      "songName": "\"Merry Sinsmas\" - Helluva Boss, Sam Haft, & Yoav Landau",
+      "hash": "0287c7b114993a59559a62e7ab99647fa13c7ea5",
+      "levelid": "custom_level_0287c7b114993a59559a62e7ab99647fa13c7ea5"
     },
     {
-      "key": "4d314",
-      "songName": "Remzcore & M'Dezoen - Busy Town",
-      "hash": "c8fa24ae3f9a93e6396da278347ed2efddd102e4",
-      "levelid": "custom_level_c8fa24ae3f9a93e6396da278347ed2efddd102e4"
+      "key": "4d3ae",
+      "songName": "5 diez - Metanoya",
+      "hash": "b5791fa18e7cba18975ce3951512a2b98352b54c",
+      "levelid": "custom_level_b5791fa18e7cba18975ce3951512a2b98352b54c"
     },
     {
-      "key": "4d313",
-      "songName": "Kanye West & Ty Dolla $ign - Burn",
-      "hash": "e660953cb577e9f83a56ddb64d1d19dd443ba63b",
-      "levelid": "custom_level_e660953cb577e9f83a56ddb64d1d19dd443ba63b"
+      "key": "4d3ad",
+      "songName": "No. 1 Party Anthem",
+      "hash": "12d4d61ec911bf2b0e9b56952520ae1aff9caff0",
+      "levelid": "custom_level_12d4d61ec911bf2b0e9b56952520ae1aff9caff0"
     },
     {
-      "key": "4d312",
-      "songName": "wow so yummy ",
-      "hash": "679566873378dbdce7a0e35a3c4af100302db6f0",
-      "levelid": "custom_level_679566873378dbdce7a0e35a3c4af100302db6f0"
+      "key": "2c56f",
+      "songName": "Azahriah - 'FOUR MOODS'",
+      "hash": "0415f5f48cdde4731d989262d6bc445e499e2b2d",
+      "levelid": "custom_level_0415f5f48cdde4731d989262d6bc445e499e2b2d"
     },
     {
-      "key": "4d310",
-      "songName": "PRIME TIMES",
-      "hash": "24d802ea470bc1fd70363f979345b35469520dbd",
-      "levelid": "custom_level_24d802ea470bc1fd70363f979345b35469520dbd"
+      "key": "35654",
+      "songName": "Alle Farben - I Need To Know (feat. Flynn)",
+      "hash": "df9a20c7389dad6ca834ff7c366c711a7c763cad",
+      "levelid": "custom_level_df9a20c7389dad6ca834ff7c366c711a7c763cad"
     },
     {
-      "key": "4d30a",
-      "songName": "Hot and Cold (cyphfrix adlib version, yess its voiced by me)",
-      "hash": "e93fd37ad627216a75abb98634f5dcf86fa99c28",
-      "levelid": "custom_level_e93fd37ad627216a75abb98634f5dcf86fa99c28"
+      "key": "4d341",
+      "songName": "Reek/Asatsumei Mariah Carey Fucking Dies In A Multigenre Death Loop... ONE MORE TIME!",
+      "hash": "5a708e834a5b06a630df332c873fe85c632d0403",
+      "levelid": "custom_level_5a708e834a5b06a630df332c873fe85c632d0403"
     },
     {
-      "key": "4d2b0",
-      "songName": "[CS New Years 2026 Countdown 🎁] Fried by Fluoride - Dead 4 Christmas",
-      "hash": "5e63669f6f57964216c9bd9620447a53a1252e0d",
-      "levelid": "custom_level_5e63669f6f57964216c9bd9620447a53a1252e0d"
+      "key": "4d394",
+      "songName": "seatrus - Hoshifuru Yoru to Ichirin no Hana",
+      "hash": "8be3ad5c245626ad485080b73d4c87b891da7a2f",
+      "levelid": "custom_level_8be3ad5c245626ad485080b73d4c87b891da7a2f"
     },
     {
-      "key": "4d309",
-      "songName": "Hot and Cold",
-      "hash": "6fc32320e79d0afe34156a946bc0edca5ee42d60",
-      "levelid": "custom_level_6fc32320e79d0afe34156a946bc0edca5ee42d60"
+      "key": "4d3a0",
+      "songName": " v2",
+      "hash": "e1dd57b44d3f4be0afaaf31f95d9d1b017f21886",
+      "levelid": "custom_level_e1dd57b44d3f4be0afaaf31f95d9d1b017f21886"
     },
     {
-      "key": "4d308",
-      "songName": "The Squeeze - Cool For Cats",
-      "hash": "da7553be1faf306b6cd543358895a02ac83e811a",
-      "levelid": "custom_level_da7553be1faf306b6cd543358895a02ac83e811a"
+      "key": "4d39e",
+      "songName": "Tech Culture - Aethral",
+      "hash": "a0f95d7a8c6c454554be38b88610a8d0862faf44",
+      "levelid": "custom_level_a0f95d7a8c6c454554be38b88610a8d0862faf44"
     },
     {
-      "key": "4d305",
-      "songName": "Christmas Valentine - Jason Mraz and Ingrid Michaelson",
-      "hash": "068ab89f1f6263a23bd7078fe182b51889ee5951",
-      "levelid": "custom_level_068ab89f1f6263a23bd7078fe182b51889ee5951"
+      "key": "4d39d",
+      "songName": "Novogodnyaya Onedaysleep (REMIX)",
+      "hash": "835e27cbcaa98cdc0dd3e5f8388eecd1b6ec9403",
+      "levelid": "custom_level_835e27cbcaa98cdc0dd3e5f8388eecd1b6ec9403"
     },
     {
-      "key": "4d303",
-      "songName": "Sphere",
-      "hash": "77c6bc761723ef3ccad0e61b945348b8a83e84b3",
-      "levelid": "custom_level_77c6bc761723ef3ccad0e61b945348b8a83e84b3"
+      "key": "4d399",
+      "songName": "ooh wish i knew (shitpost)",
+      "hash": "0f3d00178c21de3d08c61e608602f16cfe7f481d",
+      "levelid": "custom_level_0f3d00178c21de3d08c61e608602f16cfe7f481d"
     },
     {
-      "key": "4d300",
-      "songName": "South Arcade - Riptide",
-      "hash": "07ec3ad0af1f6ac58fb4d5d43a1c6fd2bf30447d",
-      "levelid": "custom_level_07ec3ad0af1f6ac58fb4d5d43a1c6fd2bf30447d"
+      "key": "4d398",
+      "songName": "What is This Diddy Blud Doing Playing Dandys World (Shitpost)",
+      "hash": "b90ddfb9b43dde9de2f3f85acb65fdd1c7622cd6",
+      "levelid": "custom_level_b90ddfb9b43dde9de2f3f85acb65fdd1c7622cd6"
     },
     {
-      "key": "4cef0",
-      "songName": "Crystalline Fissure - Various Artists [Kirby Air Riders]",
-      "hash": "ed48c2e200566d43a751301f89b7e419ea54d553",
-      "levelid": "custom_level_ed48c2e200566d43a751301f89b7e419ea54d553"
+      "key": "4d392",
+      "songName": " 【SNOW MIKU 公式曲】",
+      "hash": "b4eb47b6cd23cbf612dd2976fdb64388781d6a52",
+      "levelid": "custom_level_b4eb47b6cd23cbf612dd2976fdb64388781d6a52"
     },
     {
-      "key": "4cfcf",
-      "songName": "RESCENE - Hello XO",
-      "hash": "d1d88cef6bb4ed369c842e3c2dc4df61f8d31e50",
-      "levelid": "custom_level_d1d88cef6bb4ed369c842e3c2dc4df61f8d31e50"
+      "key": "4ca95",
+      "songName": "Tanger - merry fucking christmas",
+      "hash": "4481d967829fbed968f3161c211eec5b64033667",
+      "levelid": "custom_level_4481d967829fbed968f3161c211eec5b64033667"
     },
     {
-      "key": "4d2fc",
-      "songName": "Bluebirds - glaive",
-      "hash": "99c29e87233f88373f9142504cb41ce4d76872e9",
-      "levelid": "custom_level_99c29e87233f88373f9142504cb41ce4d76872e9"
+      "key": "4d38f",
+      "songName": "Underneath the Mistletoe - Sia",
+      "hash": "c85f7fc2f39876da837d17b4135e83e59488e456",
+      "levelid": "custom_level_c85f7fc2f39876da837d17b4135e83e59488e456"
     },
     {
-      "key": "4d2f1",
-      "songName": "Ludvig Forssell - Pizza Time",
-      "hash": "2786f81813ac83ef1e51241a6365dbf0661aa44c",
-      "levelid": "custom_level_2786f81813ac83ef1e51241a6365dbf0661aa44c"
+      "key": "4d38e",
+      "songName": "Sigma",
+      "hash": "347c1f8d235f2dd31adcb76ab53ad165c2a2dfc3",
+      "levelid": "custom_level_347c1f8d235f2dd31adcb76ab53ad165c2a2dfc3"
     },
     {
-      "key": "4d2ec",
-      "songName": "lucidbeatz - Let U Go",
-      "hash": "da24e8a798b84fdc7cb15ed89c552b533117f697",
-      "levelid": "custom_level_da24e8a798b84fdc7cb15ed89c552b533117f697"
+      "key": "4d38d",
+      "songName": "irc - wth",
+      "hash": "2232f15be7b677cb60a11842d82eba059ccf28cd",
+      "levelid": "custom_level_2232f15be7b677cb60a11842d82eba059ccf28cd"
+    },
+    {
+      "key": "4d381",
+      "songName": "Christmas Eve Sarajevo",
+      "hash": "2d6be1f1a3db01c756d9c870fda2dbfc3d9324d1",
+      "levelid": "custom_level_2d6be1f1a3db01c756d9c870fda2dbfc3d9324d1"
+    },
+    {
+      "key": "4d379",
+      "songName": "[V3] [TGMG Christmas Mixtape] Jason Derulo - Closer To Christmas",
+      "hash": "5a8cf9e6d3ea02e34e505c1f8b95dd3d8e99d256",
+      "levelid": "custom_level_5a8cf9e6d3ea02e34e505c1f8b95dd3d8e99d256"
+    },
+    {
+      "key": "4d380",
+      "songName": "Waterfall - Dynazty",
+      "hash": "e445e7f747147f15cce81e06d31e24dd3acb46b0",
+      "levelid": "custom_level_e445e7f747147f15cce81e06d31e24dd3acb46b0"
+    },
+    {
+      "key": "4d37f",
+      "songName": "Don't Fear The Reaper ",
+      "hash": "0f10945686ef7f056bec81e811707ebfde906e68",
+      "levelid": "custom_level_0f10945686ef7f056bec81e811707ebfde906e68"
+    },
+    {
+      "key": "4d37c",
+      "songName": "[V3] [TGMG Christmas Mixtape] Jimmy Fallon - Wrap Me Up (Feat. Meghan Trainor)",
+      "hash": "d3e736b0ae34e4ea6ac8d2b65fa237e002f082fc",
+      "levelid": "custom_level_d3e736b0ae34e4ea6ac8d2b65fa237e002f082fc"
+    },
+    {
+      "key": "4d37b",
+      "songName": "lapix - Hello, Beautiful World!!",
+      "hash": "e3fa963d90b0b0ff65c613e41b21ce3d97de86b5",
+      "levelid": "custom_level_e3fa963d90b0b0ff65c613e41b21ce3d97de86b5"
+    },
+    {
+      "key": "4d37a",
+      "songName": "Equals - Bawldy",
+      "hash": "1c0134bce83fb607f2a744efec02f5639ea5b251",
+      "levelid": "custom_level_1c0134bce83fb607f2a744efec02f5639ea5b251"
+    },
+    {
+      "key": "4d375",
+      "songName": "Telephone",
+      "hash": "2222f38941cd190f97bc0295ce200482ae252518",
+      "levelid": "custom_level_2222f38941cd190f97bc0295ce200482ae252518"
+    },
+    {
+      "key": "4d373",
+      "songName": "Primal Concrete Sledge - Pantera",
+      "hash": "020ddeabad625d2b07802b62c70c60dfa01cc17f",
+      "levelid": "custom_level_020ddeabad625d2b07802b62c70c60dfa01cc17f"
+    },
+    {
+      "key": "4d36e",
+      "songName": "sheaskedifilikespeedcore",
+      "hash": "ec62ffab765cb1688e3bfcaf7b6c0236428c5bc3",
+      "levelid": "custom_level_ec62ffab765cb1688e3bfcaf7b6c0236428c5bc3"
+    },
+    {
+      "key": "4d06a",
+      "songName": "FIFTY FIFTY - Naughty or Nice",
+      "hash": "1bb4708540c55ecbf43c5a3427278f7c3e708e88",
+      "levelid": "custom_level_1bb4708540c55ecbf43c5a3427278f7c3e708e88"
+    },
+    {
+      "key": "4d36d",
+      "songName": "Mike Perry - Inside The Lines",
+      "hash": "ce8d58fba5e4e7fcbefd7b87c92e4ee33addd86d",
+      "levelid": "custom_level_ce8d58fba5e4e7fcbefd7b87c92e4ee33addd86d"
+    },
+    {
+      "key": "4d367",
+      "songName": "vine booms",
+      "hash": "d0f9cacc25c285a2de02f2e63346e34dc3e13a78",
+      "levelid": "custom_level_d0f9cacc25c285a2de02f2e63346e34dc3e13a78"
     }
   ],
   "image": ""
