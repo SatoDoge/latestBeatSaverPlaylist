@@ -1,262 +1,256 @@
 {
-  "playlistTitle": "2026-01-02T15:18:48.198Z~2026-01-03T15:18:48.198Z",
+  "playlistTitle": "2026-01-03T15:18:48.346Z~2026-01-04T15:18:48.346Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-01-02T15:18:48.198Z and 2026-01-03T15:18:48.198Z",
+  "discripstion": "Maps published between 2026-01-03T15:18:48.346Z and 2026-01-04T15:18:48.346Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4d85a",
-      "songName": "every seeyouspacecowboy song at once",
-      "hash": "0f66d1abe1253755a7bfdae513156c3c5e0fc9b5",
-      "levelid": "custom_level_0f66d1abe1253755a7bfdae513156c3c5e0fc9b5"
+      "key": "4d8bf",
+      "songName": "MIT ALLER MACHT ",
+      "hash": "79c6f8246ce7ad4cd87f7f77803c9d7943eb2251",
+      "levelid": "custom_level_79c6f8246ce7ad4cd87f7f77803c9d7943eb2251"
     },
     {
-      "key": "4d52e",
-      "songName": "RuLu-大黒天feat.よーい",
-      "hash": "1fcc644f417cc721f3f8bb7a7674dfbafb7a33a6",
-      "levelid": "custom_level_1fcc644f417cc721f3f8bb7a7674dfbafb7a33a6"
+      "key": "4d8bd",
+      "songName": "Dimitri Vegas & Like Mike & Tiësto & Dido & W&W - Thank You (Not So Bad)",
+      "hash": "6c26f1b7176d2172a40d093271f1a4525fe76fd8",
+      "levelid": "custom_level_6c26f1b7176d2172a40d093271f1a4525fe76fd8"
     },
     {
-      "key": "4d851",
-      "songName": "SUPER IDOl",
-      "hash": "f3fcd320115939c8128e21e00f0ac3a9b3681835",
-      "levelid": "custom_level_f3fcd320115939c8128e21e00f0ac3a9b3681835"
+      "key": "4d8bc",
+      "songName": "Huang Hun (WUKONG REMIX)",
+      "hash": "5bdcd2bac0cb76d35ecee9b687fb5d4fee02d9c3",
+      "levelid": "custom_level_5bdcd2bac0cb76d35ecee9b687fb5d4fee02d9c3"
     },
     {
-      "key": "4d84a",
-      "songName": "Крылатые Качели",
-      "hash": "7e52cb81a07c7fc251123f1739888070a72148ca",
-      "levelid": "custom_level_7e52cb81a07c7fc251123f1739888070a72148ca"
+      "key": "4d8bb",
+      "songName": "Jackie Chan, Kim Hee-sun - Endless Love (WUKONG REMIX)",
+      "hash": "824ef49531b1eb91b6938eb736849ef8602d2cce",
+      "levelid": "custom_level_824ef49531b1eb91b6938eb736849ef8602d2cce"
     },
     {
-      "key": "4d849",
-      "songName": "Три Белых Коня",
-      "hash": "3b56a2e9d507546c47eed7d96bac6b8578fc1f5e",
-      "levelid": "custom_level_3b56a2e9d507546c47eed7d96bac6b8578fc1f5e"
+      "key": "4d8ba",
+      "songName": "THE INFAMOUS - WO DE HAO XIONG DI (THE INFAMOUS REMIX)",
+      "hash": "b5230c81bf970c05e8ef4c39c3e86478eb299623",
+      "levelid": "custom_level_b5230c81bf970c05e8ef4c39c3e86478eb299623"
     },
     {
-      "key": "4d848",
-      "songName": "Baby Park (MarioKart World REMIX)",
-      "hash": "7814b80a623790b3b935903e5b8a006a9873833c",
-      "levelid": "custom_level_7814b80a623790b3b935903e5b8a006a9873833c"
+      "key": "4d8b9",
+      "songName": "ハナビラ音頭 [異種族レビュアーズ ED]",
+      "hash": "a8d97605c3bfcfe08fc0514932c7f1e2a9ea33be",
+      "levelid": "custom_level_a8d97605c3bfcfe08fc0514932c7f1e2a9ea33be"
     },
     {
-      "key": "4d847",
-      "songName": "Death by Cupid's Arrow",
-      "hash": "9e657a1bf5d1a392a3c477b5f5300b64bee45233",
-      "levelid": "custom_level_9e657a1bf5d1a392a3c477b5f5300b64bee45233"
+      "key": "4d8b8",
+      "songName": "opium bird",
+      "hash": "e915386f45b23023b82d37345e946b4b704c724c",
+      "levelid": "custom_level_e915386f45b23023b82d37345e946b4b704c724c"
     },
     {
-      "key": "4d844",
-      "songName": "loohcS emoclewnU",
-      "hash": "149037486c98b970717248fa4890cc224ab0ddb0",
-      "levelid": "custom_level_149037486c98b970717248fa4890cc224ab0ddb0"
+      "key": "4d8b4",
+      "songName": "RUQOA - Pastel",
+      "hash": "0248b70ef491e5399c4c6244f006510b4cc8da27",
+      "levelid": "custom_level_0248b70ef491e5399c4c6244f006510b4cc8da27"
     },
     {
-      "key": "4d842",
-      "songName": "euphoric field (TV Size)",
-      "hash": "798c8691bdc8218165288d21c9dddba2c71f9798",
-      "levelid": "custom_level_798c8691bdc8218165288d21c9dddba2c71f9798"
+      "key": "4d8b3",
+      "songName": "ebullient future (TV Size)",
+      "hash": "508c188ed0962f036883ac2c8141710b6b4e3251",
+      "levelid": "custom_level_508c188ed0962f036883ac2c8141710b6b4e3251"
     },
     {
-      "key": "4d840",
-      "songName": "Marnik - On The Run (Noodlemap)",
-      "hash": "a42fad1aaa1fb1135d73b1ab05767a4c931f7deb",
-      "levelid": "custom_level_a42fad1aaa1fb1135d73b1ab05767a4c931f7deb"
+      "key": "4d8b1",
+      "songName": "Win or Lose",
+      "hash": "0c1504a400135c6f8ee57abe43c397ebb687a953",
+      "levelid": "custom_level_0c1504a400135c6f8ee57abe43c397ebb687a953"
     },
     {
-      "key": "4d83d",
-      "songName": "Joji - If It Only Gets Better",
-      "hash": "add5a2dab049375331c14e8a2c100b79dd8432b7",
-      "levelid": "custom_level_add5a2dab049375331c14e8a2c100b79dd8432b7"
+      "key": "49255",
+      "songName": "[V2] Def Leopard - Pour Some Sugar On Me (1987)",
+      "hash": "d70ee40e5f58ab89d3474b2e0ca6ea4f35e3685b",
+      "levelid": "custom_level_d70ee40e5f58ab89d3474b2e0ca6ea4f35e3685b"
     },
     {
-      "key": "4d83a",
-      "songName": "Write My Voice - YuNi",
-      "hash": "d354a3e5ce15d596e42ad88c0af8b5a795812e1e",
-      "levelid": "custom_level_d354a3e5ce15d596e42ad88c0af8b5a795812e1e"
+      "key": "4d8a9",
+      "songName": "Neuro x Evil - NEVER",
+      "hash": "9912692945731e8e670b9908a93acc8732ce9930",
+      "levelid": "custom_level_9912692945731e8e670b9908a93acc8732ce9930"
     },
     {
-      "key": "4d838",
-      "songName": "show me ur willy?!",
-      "hash": "ca2b1612c58ec8b629098945dcc6552e28ec7d32",
-      "levelid": "custom_level_ca2b1612c58ec8b629098945dcc6552e28ec7d32"
+      "key": "4d8a3",
+      "songName": " TAK - PPPP",
+      "hash": "a59d407cf2fb45b0b229ae93fc0ec8b96d4b66ac",
+      "levelid": "custom_level_a59d407cf2fb45b0b229ae93fc0ec8b96d4b66ac"
     },
     {
-      "key": "4d835",
-      "songName": "Duster - Moon Age",
-      "hash": "4008ca9d58cdd8ec6cc8903ba8b16d49c49ecf8b",
-      "levelid": "custom_level_4008ca9d58cdd8ec6cc8903ba8b16d49c49ecf8b"
+      "key": "4d8a0",
+      "songName": "MARENYX",
+      "hash": "d189ce18a95849c66ddeacf197db8dd37f2891f4",
+      "levelid": "custom_level_d189ce18a95849c66ddeacf197db8dd37f2891f4"
     },
     {
-      "key": "4d830",
-      "songName": "ETIA. - Daisycutter",
-      "hash": "39abdfbe32dd1cb4abc5d8fd83027fa0c8eb5156",
-      "levelid": "custom_level_39abdfbe32dd1cb4abc5d8fd83027fa0c8eb5156"
+      "key": "4d89f",
+      "songName": "may the force be with you incident",
+      "hash": "6bb9410549dd5d139558d102e35ac9dcb4949618",
+      "levelid": "custom_level_6bb9410549dd5d139558d102e35ac9dcb4949618"
     },
     {
-      "key": "4d831",
-      "songName": "Clinozoisite",
-      "hash": "efb3d3fdd45cbe50f19d31a00d7dc01373779f1b",
-      "levelid": "custom_level_efb3d3fdd45cbe50f19d31a00d7dc01373779f1b"
+      "key": "4d89d",
+      "songName": "underscores - Stupid (Can't run from the urge)",
+      "hash": "e92dbf2073eb58167bbe60857fbb2feefd8da27e",
+      "levelid": "custom_level_e92dbf2073eb58167bbe60857fbb2feefd8da27e"
     },
     {
-      "key": "4d82c",
-      "songName": "Konton Boogie feat. 박디라 & 네링 & 아쿠루",
-      "hash": "832fdccd3e9647b835f6ae14424ec5e99da347fd",
-      "levelid": "custom_level_832fdccd3e9647b835f6ae14424ec5e99da347fd"
+      "key": "4d89c",
+      "songName": "The Less I Know The Better",
+      "hash": "572ce03a5710e40132808f43e4302c5c363ae5b1",
+      "levelid": "custom_level_572ce03a5710e40132808f43e4302c5c363ae5b1"
     },
     {
-      "key": "4d828",
-      "songName": "777 (Vocal ver.) [feat. ななひら]",
-      "hash": "7cb0a34796ec127c186b57fb4e5e211b83e36d4f",
-      "levelid": "custom_level_7cb0a34796ec127c186b57fb4e5e211b83e36d4f"
+      "key": "4d89b",
+      "songName": "ProleteR - April Showers",
+      "hash": "91abefa09ff439822ceee1a4805f256956429602",
+      "levelid": "custom_level_91abefa09ff439822ceee1a4805f256956429602"
     },
     {
-      "key": "4d81d",
-      "songName": "Eve - Dramaturgy (星乃一歌 & 初音ミク cover)",
-      "hash": "23002dd0ac83b9814bb69dd044cd24ca136fbb12",
-      "levelid": "custom_level_23002dd0ac83b9814bb69dd044cd24ca136fbb12"
+      "key": "4d89a",
+      "songName": "Великий сброс мемов",
+      "hash": "a05e1a9728419de6f95a80e8ea16ce678da61b05",
+      "levelid": "custom_level_a05e1a9728419de6f95a80e8ea16ce678da61b05"
     },
     {
-      "key": "4d815",
-      "songName": "Eve - Kaikai Kitan (TV Size) (from \"Jujutsu Kaisen\")",
-      "hash": "2224dd09af0b831659de07a4cef70cb0c4c0877d",
-      "levelid": "custom_level_2224dd09af0b831659de07a4cef70cb0c4c0877d"
+      "key": "4d895",
+      "songName": "Every Single Time (VIP)",
+      "hash": "0e840488a4a743b5106e0a10bb4cbb2092acb32f",
+      "levelid": "custom_level_0e840488a4a743b5106e0a10bb4cbb2092acb32f"
     },
     {
-      "key": "4d811",
-      "songName": "Dancing With Your Shadows - Phillip Phillips",
-      "hash": "80dce5743be78fee35643750efc8d12aa7d615a8",
-      "levelid": "custom_level_80dce5743be78fee35643750efc8d12aa7d615a8"
+      "key": "4d88e",
+      "songName": "СПАСИ И ПОТУСИ",
+      "hash": "eadbc52665f712d133d5d495af6c17091412f2e9",
+      "levelid": "custom_level_eadbc52665f712d133d5d495af6c17091412f2e9"
     },
     {
-      "key": "4d79d",
-      "songName": "Poppy - Play Destroy",
-      "hash": "e3d52cda53014bb1bcd65b07a1a35187d4874a0b",
-      "levelid": "custom_level_e3d52cda53014bb1bcd65b07a1a35187d4874a0b"
+      "key": "4d88d",
+      "songName": "oi oi oe oi a eye eye #omegle #ometv #fyp #firtana",
+      "hash": "afeff6fd37353cc81370765d2a85780492956822",
+      "levelid": "custom_level_afeff6fd37353cc81370765d2a85780492956822"
     },
     {
-      "key": "4d6a7",
-      "songName": "Mrs. GREEN APPLE - Dance Hall /  ダンスホール",
-      "hash": "09b02bb4ad17c239d3d8c89f32618fa7a7f34b32",
-      "levelid": "custom_level_09b02bb4ad17c239d3d8c89f32618fa7a7f34b32"
+      "key": "4d88b",
+      "songName": "BUH BUH BUH BUH",
+      "hash": "ebe63fabce1dd65b2e02315e31b90d7bea9139cd",
+      "levelid": "custom_level_ebe63fabce1dd65b2e02315e31b90d7bea9139cd"
     },
     {
-      "key": "4d801",
-      "songName": "Tokyo Machine - Flames",
-      "hash": "553f05cdd561a84700fa9b91495d2dcfcb7f8809",
-      "levelid": "custom_level_553f05cdd561a84700fa9b91495d2dcfcb7f8809"
+      "key": "4d88a",
+      "songName": "Beside You - Takahiro Eguchi",
+      "hash": "653c4c71f2a809f1721550ec2fc47d8a2d339b0e",
+      "levelid": "custom_level_653c4c71f2a809f1721550ec2fc47d8a2d339b0e"
     },
     {
-      "key": "4d800",
-      "songName": "BoyWithUke - Stranger",
-      "hash": "c15bba04d41ed1019018201edcdd7d5d06c3c74a",
-      "levelid": "custom_level_c15bba04d41ed1019018201edcdd7d5d06c3c74a"
+      "key": "4d888",
+      "songName": "Backseat Freestyle",
+      "hash": "2ebc3494ba41a577cc430ebab5d3f3ebfcd9a4a6",
+      "levelid": "custom_level_2ebc3494ba41a577cc430ebab5d3f3ebfcd9a4a6"
     },
     {
-      "key": "4d7ff",
-      "songName": "irondwaas ",
-      "hash": "e5b4bbf27916d804b4e5011fcb53ef2d782926ed",
-      "levelid": "custom_level_e5b4bbf27916d804b4e5011fcb53ef2d782926ed"
+      "key": "4d889",
+      "songName": "Terminal 11 - Fast Asleep",
+      "hash": "84af48d6251f79551c5c7f4cc49bb44c24799dc7",
+      "levelid": "custom_level_84af48d6251f79551c5c7f4cc49bb44c24799dc7"
     },
     {
-      "key": "4d7fa",
-      "songName": "The Equaliser (Not Alone) - The Midnight)",
-      "hash": "65e0240fedcf1b1fabaabb5965a2f51e6aae35b8",
-      "levelid": "custom_level_65e0240fedcf1b1fabaabb5965a2f51e6aae35b8"
+      "key": "4d875",
+      "songName": "Scorched Earth",
+      "hash": "dd91e6f8f02836ecf6af354bbbeac2341feaaebb",
+      "levelid": "custom_level_dd91e6f8f02836ecf6af354bbbeac2341feaaebb"
     },
     {
-      "key": "4d7f8",
-      "songName": "Racist balloon",
-      "hash": "1d28d832b07a82e4486b8f78324a3d631937277e",
-      "levelid": "custom_level_1d28d832b07a82e4486b8f78324a3d631937277e"
+      "key": "4d3f6",
+      "songName": "shadowraze - showdown",
+      "hash": "9cb607e217bde57cf6f8572a7a237b70c6a95484",
+      "levelid": "custom_level_9cb607e217bde57cf6f8572a7a237b70c6a95484"
     },
     {
-      "key": "4d7f7",
-      "songName": "Snafu - The Pibble Theme",
-      "hash": "9a2e64d8fcbfde0540ea5af9cba573f0e4700b0c",
-      "levelid": "custom_level_9a2e64d8fcbfde0540ea5af9cba573f0e4700b0c"
+      "key": "4d873",
+      "songName": "Hold On, We're Going Home",
+      "hash": "db7762de2e099d29008a8252a9d82c8b207ad598",
+      "levelid": "custom_level_db7762de2e099d29008a8252a9d82c8b207ad598"
     },
     {
-      "key": "4d7f6",
-      "songName": "[Feetsaber]potatoになっていく",
-      "hash": "9a6a932f292eafc90fef83c3559ade9971257645",
-      "levelid": "custom_level_9a6a932f292eafc90fef83c3559ade9971257645"
+      "key": "4d871",
+      "songName": "ke$ha - cannible (BATPIIICORE bootleg) [700bpm]",
+      "hash": "925020a2017815e91568522da6e1e06455c0c076",
+      "levelid": "custom_level_925020a2017815e91568522da6e1e06455c0c076"
     },
     {
-      "key": "4d7f5",
-      "songName": "Sunset -  The Midnight",
-      "hash": "c6ca7bd657b721502adea109c23a115894184b18",
-      "levelid": "custom_level_c6ca7bd657b721502adea109c23a115894184b18"
+      "key": "4d870",
+      "songName": "[Feetsaber]少年ハート（cover.Peaky P-key)",
+      "hash": "ec29ba5d78e9b8c988c9068df24469709f56f32b",
+      "levelid": "custom_level_ec29ba5d78e9b8c988c9068df24469709f56f32b"
     },
     {
-      "key": "4ce09",
-      "songName": "doug dimmadome",
-      "hash": "93c570e47577e88a1fda46c55912361803916ed8",
-      "levelid": "custom_level_93c570e47577e88a1fda46c55912361803916ed8"
+      "key": "4d86d",
+      "songName": "Wut Da Hell (Instagram Shitpost)",
+      "hash": "6d93bbcd025b9186869fd61d79b13d14e84e563d",
+      "levelid": "custom_level_6d93bbcd025b9186869fd61d79b13d14e84e563d"
     },
     {
-      "key": "4d7f3",
-      "songName": "Durr ChatGPT",
-      "hash": "84711545962ceb73d9dd4781985dbbe0789c0c3b",
-      "levelid": "custom_level_84711545962ceb73d9dd4781985dbbe0789c0c3b"
+      "key": "4d86c",
+      "songName": "south airlines",
+      "hash": "7ccb3c991764bc516b7dc40bad53dec367b9454d",
+      "levelid": "custom_level_7ccb3c991764bc516b7dc40bad53dec367b9454d"
     },
     {
-      "key": "4d7f1",
-      "songName": "Jim Legxacy - father",
-      "hash": "802b1529b22c60863a74879598758c6ca582bcf3",
-      "levelid": "custom_level_802b1529b22c60863a74879598758c6ca582bcf3"
+      "key": "4d76e",
+      "songName": "[Y5YMA 1/12] ned x PahNic - Checkmate",
+      "hash": "af8f09e2f5564cb2cf92018857d8a780d2ac7d58",
+      "levelid": "custom_level_af8f09e2f5564cb2cf92018857d8a780d2ac7d58"
     },
     {
-      "key": "4d7ed",
-      "songName": "K1MnO - REVROFPEELSSALLAF",
-      "hash": "1054bdfab1f45f5afbc252d016d0c5aa919148e3",
-      "levelid": "custom_level_1054bdfab1f45f5afbc252d016d0c5aa919148e3"
+      "key": "4d86b",
+      "songName": "OPEN YOUR 3RD EYE",
+      "hash": "179701cc608d99e3127bf7f6a6a66526bdbee40b",
+      "levelid": "custom_level_179701cc608d99e3127bf7f6a6a66526bdbee40b"
     },
     {
-      "key": "4d7ec",
-      "songName": "my neighbor charlie just beat his wife to death with a golf club",
-      "hash": "b92bcc404767e3fac0be476527254deb4bcb4958",
-      "levelid": "custom_level_b92bcc404767e3fac0be476527254deb4bcb4958"
+      "key": "4d83b",
+      "songName": "Girls' Generation - Gee",
+      "hash": "534060578b0d94f4ae2038155a2b74c81c09aef4",
+      "levelid": "custom_level_534060578b0d94f4ae2038155a2b74c81c09aef4"
     },
     {
-      "key": "4d7de",
-      "songName": "Baby Bash - Suga Suga",
-      "hash": "3e1004f93e13e04778f45b11a75c4107457dcf06",
-      "levelid": "custom_level_3e1004f93e13e04778f45b11a75c4107457dcf06"
+      "key": "4d868",
+      "songName": "Juggernaut. - Valhalla:0",
+      "hash": "0db21dfd2595a134e9c4a9b2d951915b48c2ce2d",
+      "levelid": "custom_level_0db21dfd2595a134e9c4a9b2d951915b48c2ce2d"
     },
     {
-      "key": "4d7dc",
-      "songName": "[V4.1] owl*tree - Fraq (Feat. Benza)",
-      "hash": "027c18b477833ab5a44d1f17c261e662cfab09da",
-      "levelid": "custom_level_027c18b477833ab5a44d1f17c261e662cfab09da"
+      "key": "4d863",
+      "songName": "NIJUUGO*A - Voices in My Head ft. Kasane Teto",
+      "hash": "17882926d0f0f185000bfd14fa2077168c4e6be6",
+      "levelid": "custom_level_17882926d0f0f185000bfd14fa2077168c4e6be6"
     },
     {
-      "key": "4d7da",
-      "songName": "Kids",
-      "hash": "c6dce17097773ebecda7d0b9abf8d37872493cb8",
-      "levelid": "custom_level_c6dce17097773ebecda7d0b9abf8d37872493cb8"
+      "key": "4d85d",
+      "songName": "Haywyre - Chromatically",
+      "hash": "458036004c08a5886e22f44b7d939a682c3eaee3",
+      "levelid": "custom_level_458036004c08a5886e22f44b7d939a682c3eaee3"
     },
     {
-      "key": "4d7c3",
-      "songName": "Nonfiction",
-      "hash": "367f6ae30afd90c04c48bc1694c11bbb0ba3eba2",
-      "levelid": "custom_level_367f6ae30afd90c04c48bc1694c11bbb0ba3eba2"
+      "key": "4d85c",
+      "songName": "Foozogz - Smile",
+      "hash": "efb7646f9f8039461fafeb6d61aa18dd9d2e4d8c",
+      "levelid": "custom_level_efb7646f9f8039461fafeb6d61aa18dd9d2e4d8c"
     },
     {
-      "key": "4d7d2",
-      "songName": "PYROMANIA",
-      "hash": "fffa6a922512296c3c97665ae079e2a2d195da8d",
-      "levelid": "custom_level_fffa6a922512296c3c97665ae079e2a2d195da8d"
-    },
-    {
-      "key": "4d7d1",
-      "songName": "Mrs. GREEN APPLE - On My MiND",
-      "hash": "4b56244e6dab39e3229da88b97a164d84e1060bf",
-      "levelid": "custom_level_4b56244e6dab39e3229da88b97a164d84e1060bf"
+      "key": "4d85b",
+      "songName": "Lily of the blood",
+      "hash": "2a75250b87e01bad686b6f173f0d71ac0c0c32df",
+      "levelid": "custom_level_2a75250b87e01bad686b6f173f0d71ac0c0c32df"
     }
   ],
   "image": ""
