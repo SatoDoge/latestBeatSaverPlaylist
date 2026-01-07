@@ -1,226 +1,202 @@
 {
-  "playlistTitle": "2026-01-05T15:18:48.374Z~2026-01-06T15:18:48.374Z",
+  "playlistTitle": "2026-01-06T15:18:48.171Z~2026-01-07T15:18:48.171Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-01-05T15:18:48.374Z and 2026-01-06T15:18:48.374Z",
+  "discripstion": "Maps published between 2026-01-06T15:18:48.171Z and 2026-01-07T15:18:48.171Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4ce1b",
-      "songName": "The Weeknd, Playboi Carti - Timeless (Shortened)",
-      "hash": "b6cefd3b8699d10f36c5e12492b76c73fb502ef0",
-      "levelid": "custom_level_b6cefd3b8699d10f36c5e12492b76c73fb502ef0"
+      "key": "4d9c0",
+      "songName": "God knows...",
+      "hash": "d96675c365c8dcc9c8dc8a26ee609d5cea1115d9",
+      "levelid": "custom_level_d96675c365c8dcc9c8dc8a26ee609d5cea1115d9"
     },
     {
-      "key": "4d960",
-      "songName": "Loveit? - biz×ZERA (feat LOLUET)",
-      "hash": "f4e86c4362c54e860721825596cb0efe01cd723a",
-      "levelid": "custom_level_f4e86c4362c54e860721825596cb0efe01cd723a"
+      "key": "4d9bd",
+      "songName": "Yoyuuyoku - ianabakumori",
+      "hash": "e5d2aa5efd0b3efc09c4a7c93dc820e6dcd3188b",
+      "levelid": "custom_level_e5d2aa5efd0b3efc09c4a7c93dc820e6dcd3188b"
     },
     {
-      "key": "4d95d",
-      "songName": "String Theory 2 Lil",
-      "hash": "5ab38bd3ff2608f6bcd8fa446f4226309007ee66",
-      "levelid": "custom_level_5ab38bd3ff2608f6bcd8fa446f4226309007ee66"
+      "key": "4d9ab",
+      "songName": "only one, No.1 (TV Size)",
+      "hash": "53c39a98537eba197879fb27895c9dd25f8ce6d1",
+      "levelid": "custom_level_53c39a98537eba197879fb27895c9dd25f8ce6d1"
     },
     {
-      "key": "4d95b",
-      "songName": "RYOQUCHA - Gravity Switcher",
-      "hash": "c73d257f6d54d5396baa84dacd3fa1980250b627",
-      "levelid": "custom_level_c73d257f6d54d5396baa84dacd3fa1980250b627"
+      "key": "4d9aa",
+      "songName": "Adust Rain - Imperfect Cherry Blossom",
+      "hash": "30ced7da8d7de224487f869f348a56afd2dd6fe9",
+      "levelid": "custom_level_30ced7da8d7de224487f869f348a56afd2dd6fe9"
     },
     {
-      "key": "4d958",
-      "songName": "心晴れて 夜も明けて / Kokoro Harete Yoru mo Akete  (TV Size)",
-      "hash": "dcb478dc06e14eb76849116feccafd859a80a18c",
-      "levelid": "custom_level_dcb478dc06e14eb76849116feccafd859a80a18c"
+      "key": "4d9a4",
+      "songName": "Yuuhei Satellite - Tsuki ni Murakumo Hana ni Kaze (月に叢雲花に風)",
+      "hash": "1c6d5fdc3e574b9776046fae66e9bf86690154d5",
+      "levelid": "custom_level_1c6d5fdc3e574b9776046fae66e9bf86690154d5"
     },
     {
-      "key": "4d957",
-      "songName": "Dancin' Doll (Sexy Mega Mix) [Bubblegum Crisis Soundtrack] - Tatsumi Yano",
-      "hash": "27716e0e6c9d336ecfddfa883bbc02fa71179ab8",
-      "levelid": "custom_level_27716e0e6c9d336ecfddfa883bbc02fa71179ab8"
+      "key": "4d9a7",
+      "songName": "Brutalismus 3000 - alleswirdgut",
+      "hash": "959b958295730564042ab03c27c783966cafe32f",
+      "levelid": "custom_level_959b958295730564042ab03c27c783966cafe32f"
     },
     {
-      "key": "4d952",
-      "songName": "(MRK) PrekrasnoeDaleko",
-      "hash": "4425ed3a0a3038f2d65096af96d4be9cf017dec6",
-      "levelid": "custom_level_4425ed3a0a3038f2d65096af96d4be9cf017dec6"
+      "key": "4d9a5",
+      "songName": "Calamity of the Mystic Garden",
+      "hash": "c6d2e6e9239fa6e67ae392350243175d18716935",
+      "levelid": "custom_level_c6d2e6e9239fa6e67ae392350243175d18716935"
     },
     {
-      "key": "4d951",
-      "songName": "勉強の歌",
-      "hash": "4f1001a8a19e455740135a174bb0b9f7df4fc4a0",
-      "levelid": "custom_level_4f1001a8a19e455740135a174bb0b9f7df4fc4a0"
+      "key": "4d9a3",
+      "songName": "Mic check - Hadouken!",
+      "hash": "bf98e6649b495755d1e137e9dd517c74a7568fa7",
+      "levelid": "custom_level_bf98e6649b495755d1e137e9dd517c74a7568fa7"
     },
     {
-      "key": "4d950",
-      "songName": "Losin' Streak",
-      "hash": "7625d6f92549f8417b4c470b7307580b03e900ed",
-      "levelid": "custom_level_7625d6f92549f8417b4c470b7307580b03e900ed"
+      "key": "4d9a1",
+      "songName": "wolfmagic - RAIN GOD",
+      "hash": "754c144a302a1d5b75eb7f0ed3249e7fe7c4d6c3",
+      "levelid": "custom_level_754c144a302a1d5b75eb7f0ed3249e7fe7c4d6c3"
     },
     {
-      "key": "4d94a",
-      "songName": "hash slingging slasher",
-      "hash": "e874e55642476a3b58fa27e0a0ba8134c13ca197",
-      "levelid": "custom_level_e874e55642476a3b58fa27e0a0ba8134c13ca197"
+      "key": "4d99c",
+      "songName": "c418 - alpha",
+      "hash": "ba66943cb31cd5904c905b389b0959348e6b52aa",
+      "levelid": "custom_level_ba66943cb31cd5904c905b389b0959348e6b52aa"
     },
     {
-      "key": "4d946",
-      "songName": "舉頭三尺天氣晴（举头三尺天气晴）",
-      "hash": "68b8e95547b73c928bc3e80d57658e797b988232",
-      "levelid": "custom_level_68b8e95547b73c928bc3e80d57658e797b988232"
+      "key": "4d99b",
+      "songName": "The Marías - Run Your Mouth",
+      "hash": "33a39cbd216bfd6a6c500d08d401866ed6f87c79",
+      "levelid": "custom_level_33a39cbd216bfd6a6c500d08d401866ed6f87c79"
     },
     {
-      "key": "4d942",
-      "songName": "Letter C Song",
-      "hash": "f7586031be49e7b227ebba7a9a77701bf56f9a60",
-      "levelid": "custom_level_f7586031be49e7b227ebba7a9a77701bf56f9a60"
+      "key": "4d99a",
+      "songName": "PORN - LIL BARNACLE feat. LIL LIMABEAN",
+      "hash": "1acf53011289c44fda48c02af9a74bd7e70d5453",
+      "levelid": "custom_level_1acf53011289c44fda48c02af9a74bd7e70d5453"
     },
     {
-      "key": "4d93b",
-      "songName": "Ultimate Funk Challenge - VHM4D",
-      "hash": "dc16faf81197b8709c45b44e250bd6eda1cdc6ed",
-      "levelid": "custom_level_dc16faf81197b8709c45b44e250bd6eda1cdc6ed"
+      "key": "4d999",
+      "songName": "Gumbarlzo!",
+      "hash": "88dedd3f9ae20e2522c260b8895c2cdeefd0c59e",
+      "levelid": "custom_level_88dedd3f9ae20e2522c260b8895c2cdeefd0c59e"
     },
     {
-      "key": "4d93a",
-      "songName": "Maps - Maroon5",
-      "hash": "ff0246be645b9102b3e4cc256721f406c93c7350",
-      "levelid": "custom_level_ff0246be645b9102b3e4cc256721f406c93c7350"
+      "key": "4d995",
+      "songName": "Heart. Lungs. Liver. Nerves.",
+      "hash": "5a5b0c0a85772e086aeab19fcd7ff75dbd895649",
+      "levelid": "custom_level_5a5b0c0a85772e086aeab19fcd7ff75dbd895649"
     },
     {
-      "key": "4d939",
-      "songName": "baby weapon  - Dr.LOVE (feat.Asuka.M) [FREESTYLE] [GROOVY]",
-      "hash": "20a5c0e468cfd026297b229a11ff7058e25d3729",
-      "levelid": "custom_level_20a5c0e468cfd026297b229a11ff7058e25d3729"
+      "key": "4d991",
+      "songName": "Ron Wasserman, Haim Saban & Shuki Levy - Go Go Power Rangers!",
+      "hash": "3ac7298eb94b5f3f6d8f318ead05c2d8208d8f24",
+      "levelid": "custom_level_3ac7298eb94b5f3f6d8f318ead05c2d8208d8f24"
     },
     {
-      "key": "4d938",
-      "songName": "[LAWLESS ONLY] Helicopter Showdown - Play for Blood",
-      "hash": "39b77797e3103d52b460ab2f265443d5ba26ea54",
-      "levelid": "custom_level_39b77797e3103d52b460ab2f265443d5ba26ea54"
+      "key": "4d98c",
+      "songName": "i live with rocahse",
+      "hash": "3eacbd1eb5ab81b91a4c0a430065152ed0dfc768",
+      "levelid": "custom_level_3eacbd1eb5ab81b91a4c0a430065152ed0dfc768"
     },
     {
-      "key": "4d937",
-      "songName": "Surround Sound",
-      "hash": "3d3ab6a316656ebf2e6434726f782a00f7b123bb",
-      "levelid": "custom_level_3d3ab6a316656ebf2e6434726f782a00f7b123bb"
+      "key": "4d98a",
+      "songName": "f i s h a r e b i r d s <loop>",
+      "hash": "9591197db87edaa0e953efd91df453ebf5243b06",
+      "levelid": "custom_level_9591197db87edaa0e953efd91df453ebf5243b06"
     },
     {
-      "key": "4d936",
-      "songName": "Smile",
-      "hash": "2ad27ee589775aef18184fe9c8ff8531b2233c5e",
-      "levelid": "custom_level_2ad27ee589775aef18184fe9c8ff8531b2233c5e"
+      "key": "4d97e",
+      "songName": "Sabrina Carpenter - Tears",
+      "hash": "d750318f8cd69f69d40d3cc13a5b6bd842951ef5",
+      "levelid": "custom_level_d750318f8cd69f69d40d3cc13a5b6bd842951ef5"
     },
     {
-      "key": "4d935",
-      "songName": "Eastinanddopey likes the balls",
-      "hash": "d1b19c2edd3c20fd9894bfcd89a00edcf55a6b20",
-      "levelid": "custom_level_d1b19c2edd3c20fd9894bfcd89a00edcf55a6b20"
+      "key": "4d97c",
+      "songName": "[Feetsaber]CH4NGE / Vivid BAD SQUAD",
+      "hash": "5e0c1e7cca57622a0fc9d684e6914f94b4c2ece1",
+      "levelid": "custom_level_5e0c1e7cca57622a0fc9d684e6914f94b4c2ece1"
     },
     {
-      "key": "4d933",
-      "songName": "Fushitsusha - Secret Black Box XI (cut)",
-      "hash": "18d858728ef718b3be743eb7aa541ff3a2b74393",
-      "levelid": "custom_level_18d858728ef718b3be743eb7aa541ff3a2b74393"
+      "key": "4d97b",
+      "songName": "raining tacos",
+      "hash": "daea323170a9705eeb2068aa75bd51bd145666ab",
+      "levelid": "custom_level_daea323170a9705eeb2068aa75bd51bd145666ab"
     },
     {
-      "key": "4d92e",
-      "songName": "Peter On Crack",
-      "hash": "35bd3df248e7bae8a6d3a5ec45ed0ba5483bd70e",
-      "levelid": "custom_level_35bd3df248e7bae8a6d3a5ec45ed0ba5483bd70e"
+      "key": "4d979",
+      "songName": "PinkPantheress - I must apologise",
+      "hash": "d3a176fe64c5da1a87da004c6b80183a452d2d97",
+      "levelid": "custom_level_d3a176fe64c5da1a87da004c6b80183a452d2d97"
     },
     {
-      "key": "4d92c",
-      "songName": "QUERO BEIJAR MEU AMIGO - Bocchi The Rapper",
-      "hash": "561f80912da7af9830327aeb4c9e1bf7027f4c9d",
-      "levelid": "custom_level_561f80912da7af9830327aeb4c9e1bf7027f4c9d"
+      "key": "4d978",
+      "songName": "Aphex Twin - Lichen",
+      "hash": "aef0c8d4e194a7aef8092e9d838774e0bb4d9a8d",
+      "levelid": "custom_level_aef0c8d4e194a7aef8092e9d838774e0bb4d9a8d"
     },
     {
-      "key": "4d92a",
-      "songName": "[820] Have A Party Time!",
-      "hash": "0d39f01e7a63cec2bebabac06c6470b941a5ad44",
-      "levelid": "custom_level_0d39f01e7a63cec2bebabac06c6470b941a5ad44"
+      "key": "4d977",
+      "songName": "Bülow - Revolver",
+      "hash": "d4642128946be47cc31ad087c35352de3e951693",
+      "levelid": "custom_level_d4642128946be47cc31ad087c35352de3e951693"
     },
     {
-      "key": "4d929",
-      "songName": "Letter B Song",
-      "hash": "57556ff3de1a88a7d4b901cafdf669681e81c3f6",
-      "levelid": "custom_level_57556ff3de1a88a7d4b901cafdf669681e81c3f6"
+      "key": "4d972",
+      "songName": "im a banana",
+      "hash": "2157ce4bcb416ba9079cb53ad49a3ce5fcb8b8ef",
+      "levelid": "custom_level_2157ce4bcb416ba9079cb53ad49a3ce5fcb8b8ef"
     },
     {
-      "key": "4d928",
-      "songName": "DETRO - Hurricanic",
-      "hash": "b388cec53cc04ded5d1d0a6f878f0736234e92e4",
-      "levelid": "custom_level_b388cec53cc04ded5d1d0a6f878f0736234e92e4"
+      "key": "4d971",
+      "songName": "Geezer - Doggy (feat. Love Spells & Truly Young)",
+      "hash": "60f59597026be37dc24f09d0073b1d6970e21dfe",
+      "levelid": "custom_level_60f59597026be37dc24f09d0073b1d6970e21dfe"
     },
     {
-      "key": "4d927",
-      "songName": "Chata - Dango Daikazoku (TV Size)",
-      "hash": "4fa72201fd55bb999c33f105fe1d5743cf7126e6",
-      "levelid": "custom_level_4fa72201fd55bb999c33f105fe1d5743cf7126e6"
+      "key": "4d970",
+      "songName": "Creator",
+      "hash": "1ff02a6a490098c690514a7dec98cc213a0e0a82",
+      "levelid": "custom_level_1ff02a6a490098c690514a7dec98cc213a0e0a82"
     },
     {
-      "key": "4d926",
-      "songName": "Letter A Song",
-      "hash": "a69bd7cb6d19d0ab85d120879d2b5d08038ae4b0",
-      "levelid": "custom_level_a69bd7cb6d19d0ab85d120879d2b5d08038ae4b0"
+      "key": "4d96f",
+      "songName": "Beggin'",
+      "hash": "262566ad483c7e0b6e777666bb6ff004574c9fc0",
+      "levelid": "custom_level_262566ad483c7e0b6e777666bb6ff004574c9fc0"
     },
     {
-      "key": "4d924",
-      "songName": "BREee - Voltage Rush",
-      "hash": "ebbfd57baa4c08d3e404749ffbacd12e6f969e84",
-      "levelid": "custom_level_ebbfd57baa4c08d3e404749ffbacd12e6f969e84"
+      "key": "4d96d",
+      "songName": "Goodnight by plenka (v1)",
+      "hash": "468f49d005eb165b681358840ac53751c8f0ca55",
+      "levelid": "custom_level_468f49d005eb165b681358840ac53751c8f0ca55"
     },
     {
-      "key": "4d923",
-      "songName": "Missing Piece - John Michael Howell",
-      "hash": "095a8bf3e5c3465cbf486be7c18e0042f233c5d5",
-      "levelid": "custom_level_095a8bf3e5c3465cbf486be7c18e0042f233c5d5"
+      "key": "4d96e",
+      "songName": "fur:trash - alone in this world",
+      "hash": "29e1170fce348000cd1e9c0ac50f6d44f9006ff3",
+      "levelid": "custom_level_29e1170fce348000cd1e9c0ac50f6d44f9006ff3"
     },
     {
-      "key": "4d920",
-      "songName": "Storyteller",
-      "hash": "b9340cada6070ac8fa46a68bd10c3d2c7d79d7b2",
-      "levelid": "custom_level_b9340cada6070ac8fa46a68bd10c3d2c7d79d7b2"
+      "key": "4d845",
+      "songName": "あっちゅうま - 7co",
+      "hash": "b556054f6f976a3f241b152324e326a34782851c",
+      "levelid": "custom_level_b556054f6f976a3f241b152324e326a34782851c"
     },
     {
-      "key": "4d91f",
-      "songName": "Выпускница",
-      "hash": "d6d8a69b6be08483ad1c7243ca2eb7fe5d7ce3c6",
-      "levelid": "custom_level_d6d8a69b6be08483ad1c7243ca2eb7fe5d7ce3c6"
+      "key": "4d969",
+      "songName": "『 DUET』 ZICO (지코), Lilas (YOASOBI’s ikura)",
+      "hash": "495f7b6646ce2b58d1aa7a54a12a33d19443c3e4",
+      "levelid": "custom_level_495f7b6646ce2b58d1aa7a54a12a33d19443c3e4"
     },
     {
-      "key": "4d91e",
-      "songName": "Tatsunoshin & Aira Arere - Eternal Return",
-      "hash": "fbfed157a21f92c8309579de7f8623526085a250",
-      "levelid": "custom_level_fbfed157a21f92c8309579de7f8623526085a250"
-    },
-    {
-      "key": "4d91b",
-      "songName": "Lose my mind ",
-      "hash": "f557ae2cb15dbe085f1c69963f23eaafd11d0d8e",
-      "levelid": "custom_level_f557ae2cb15dbe085f1c69963f23eaafd11d0d8e"
-    },
-    {
-      "key": "4d918",
-      "songName": "frums - We Want To Run",
-      "hash": "39e5c7c9e8886782a6d4fe78c29312fff39be8cc",
-      "levelid": "custom_level_39e5c7c9e8886782a6d4fe78c29312fff39be8cc"
-    },
-    {
-      "key": "4d917",
-      "songName": "Camellia - Following the Waving Wings",
-      "hash": "c818595f5f4174bee30a75e85ad96f0f1d73030d",
-      "levelid": "custom_level_c818595f5f4174bee30a75e85ad96f0f1d73030d"
-    },
-    {
-      "key": "4d916",
-      "songName": "[Super ONGEKI Music Pack] Take on the World",
-      "hash": "1a291ecf86d6e69d56ad0188fd5c49a52add5a0c",
-      "levelid": "custom_level_1a291ecf86d6e69d56ad0188fd5c49a52add5a0c"
+      "key": "4d961",
+      "songName": "\"Emperor\" Blackbeard Pirates - Kohei Tanaka [One Piece]",
+      "hash": "7505eb1cdc64d731cee5a15621ccee064bcf9ca6",
+      "levelid": "custom_level_7505eb1cdc64d731cee5a15621ccee064bcf9ca6"
     }
   ],
   "image": ""
