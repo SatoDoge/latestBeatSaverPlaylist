@@ -1,202 +1,214 @@
 {
-  "playlistTitle": "2026-01-06T15:18:48.171Z~2026-01-07T15:18:48.171Z",
+  "playlistTitle": "2026-01-07T15:18:47.972Z~2026-01-08T15:18:47.972Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-01-06T15:18:48.171Z and 2026-01-07T15:18:48.171Z",
+  "discripstion": "Maps published between 2026-01-07T15:18:47.972Z and 2026-01-08T15:18:47.972Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4d9c0",
-      "songName": "God knows...",
-      "hash": "d96675c365c8dcc9c8dc8a26ee609d5cea1115d9",
-      "levelid": "custom_level_d96675c365c8dcc9c8dc8a26ee609d5cea1115d9"
+      "key": "4da27",
+      "songName": "na ukraina vypal grad",
+      "hash": "9309b0556ac4ad1a58ec94cc0cff2b3101308576",
+      "levelid": "custom_level_9309b0556ac4ad1a58ec94cc0cff2b3101308576"
     },
     {
-      "key": "4d9bd",
-      "songName": "Yoyuuyoku - ianabakumori",
-      "hash": "e5d2aa5efd0b3efc09c4a7c93dc820e6dcd3188b",
-      "levelid": "custom_level_e5d2aa5efd0b3efc09c4a7c93dc820e6dcd3188b"
+      "key": "4d9d9",
+      "songName": "Camellia - Z:iRNiTRA",
+      "hash": "29e73d1befe400197f85859cd63d13b4f0922efc",
+      "levelid": "custom_level_29e73d1befe400197f85859cd63d13b4f0922efc"
     },
     {
-      "key": "4d9ab",
-      "songName": "only one, No.1 (TV Size)",
-      "hash": "53c39a98537eba197879fb27895c9dd25f8ce6d1",
-      "levelid": "custom_level_53c39a98537eba197879fb27895c9dd25f8ce6d1"
+      "key": "4da21",
+      "songName": "bird slap",
+      "hash": "882a34df066e006cc3487abafcb60f50aa80ab2f",
+      "levelid": "custom_level_882a34df066e006cc3487abafcb60f50aa80ab2f"
     },
     {
-      "key": "4d9aa",
-      "songName": "Adust Rain - Imperfect Cherry Blossom",
-      "hash": "30ced7da8d7de224487f869f348a56afd2dd6fe9",
-      "levelid": "custom_level_30ced7da8d7de224487f869f348a56afd2dd6fe9"
+      "key": "4da1e",
+      "songName": "365 featuring shygirl",
+      "hash": "877ed732a551dd250447d3172a7cb6116a29f7bd",
+      "levelid": "custom_level_877ed732a551dd250447d3172a7cb6116a29f7bd"
     },
     {
-      "key": "4d9a4",
-      "songName": "Yuuhei Satellite - Tsuki ni Murakumo Hana ni Kaze (月に叢雲花に風)",
-      "hash": "1c6d5fdc3e574b9776046fae66e9bf86690154d5",
-      "levelid": "custom_level_1c6d5fdc3e574b9776046fae66e9bf86690154d5"
+      "key": "4da1d",
+      "songName": "Going Hunting - Avatar",
+      "hash": "ccfb60e42c905ca1cf9f43fc1f5a2efe5414af73",
+      "levelid": "custom_level_ccfb60e42c905ca1cf9f43fc1f5a2efe5414af73"
     },
     {
-      "key": "4d9a7",
-      "songName": "Brutalismus 3000 - alleswirdgut",
-      "hash": "959b958295730564042ab03c27c783966cafe32f",
-      "levelid": "custom_level_959b958295730564042ab03c27c783966cafe32f"
+      "key": "4da1c",
+      "songName": "CUTIE (TV Size)",
+      "hash": "895cba314851507cba8789185a29ab8ed9be2514",
+      "levelid": "custom_level_895cba314851507cba8789185a29ab8ed9be2514"
     },
     {
-      "key": "4d9a5",
-      "songName": "Calamity of the Mystic Garden",
-      "hash": "c6d2e6e9239fa6e67ae392350243175d18716935",
-      "levelid": "custom_level_c6d2e6e9239fa6e67ae392350243175d18716935"
+      "key": "4da1a",
+      "songName": "bill nye THE science guy",
+      "hash": "0cbe4262d6efb63a9dc1810d4a608269bbb76f7d",
+      "levelid": "custom_level_0cbe4262d6efb63a9dc1810d4a608269bbb76f7d"
     },
     {
-      "key": "4d9a3",
-      "songName": "Mic check - Hadouken!",
-      "hash": "bf98e6649b495755d1e137e9dd517c74a7568fa7",
-      "levelid": "custom_level_bf98e6649b495755d1e137e9dd517c74a7568fa7"
+      "key": "4da19",
+      "songName": "EFD-Epstein f!cked diddy",
+      "hash": "5e19d9053a5a4c8e7a43f3492dd9c4ff62bc9523",
+      "levelid": "custom_level_5e19d9053a5a4c8e7a43f3492dd9c4ff62bc9523"
     },
     {
-      "key": "4d9a1",
-      "songName": "wolfmagic - RAIN GOD",
-      "hash": "754c144a302a1d5b75eb7f0ed3249e7fe7c4d6c3",
-      "levelid": "custom_level_754c144a302a1d5b75eb7f0ed3249e7fe7c4d6c3"
+      "key": "4da14",
+      "songName": "Letter D Song",
+      "hash": "186c4a0f7b615298a3e0b2b95a0ed24b70ff1f4a",
+      "levelid": "custom_level_186c4a0f7b615298a3e0b2b95a0ed24b70ff1f4a"
     },
     {
-      "key": "4d99c",
-      "songName": "c418 - alpha",
-      "hash": "ba66943cb31cd5904c905b389b0959348e6b52aa",
-      "levelid": "custom_level_ba66943cb31cd5904c905b389b0959348e6b52aa"
+      "key": "4da12",
+      "songName": "[Feetsaber]We Are Us",
+      "hash": "92c0bd1ce5f44836c6031f4049d34fb310302d96",
+      "levelid": "custom_level_92c0bd1ce5f44836c6031f4049d34fb310302d96"
     },
     {
-      "key": "4d99b",
-      "songName": "The Marías - Run Your Mouth",
-      "hash": "33a39cbd216bfd6a6c500d08d401866ed6f87c79",
-      "levelid": "custom_level_33a39cbd216bfd6a6c500d08d401866ed6f87c79"
+      "key": "4da11",
+      "songName": "Tutorial with Potato",
+      "hash": "e9f9dcbd738c5ecc876ab863bb0de174cdce95c6",
+      "levelid": "custom_level_e9f9dcbd738c5ecc876ab863bb0de174cdce95c6"
     },
     {
-      "key": "4d99a",
-      "songName": "PORN - LIL BARNACLE feat. LIL LIMABEAN",
-      "hash": "1acf53011289c44fda48c02af9a74bd7e70d5453",
-      "levelid": "custom_level_1acf53011289c44fda48c02af9a74bd7e70d5453"
+      "key": "4da10",
+      "songName": "Clödie - You Are The One (Fresh version)",
+      "hash": "931328e15921e0d4886589fc0ffd41b789e260d2",
+      "levelid": "custom_level_931328e15921e0d4886589fc0ffd41b789e260d2"
     },
     {
-      "key": "4d999",
-      "songName": "Gumbarlzo!",
-      "hash": "88dedd3f9ae20e2522c260b8895c2cdeefd0c59e",
-      "levelid": "custom_level_88dedd3f9ae20e2522c260b8895c2cdeefd0c59e"
+      "key": "4da0f",
+      "songName": "everytime",
+      "hash": "9090fb543f21c185d40988d05182dc0c9391ff8e",
+      "levelid": "custom_level_9090fb543f21c185d40988d05182dc0c9391ff8e"
     },
     {
-      "key": "4d995",
-      "songName": "Heart. Lungs. Liver. Nerves.",
-      "hash": "5a5b0c0a85772e086aeab19fcd7ff75dbd895649",
-      "levelid": "custom_level_5a5b0c0a85772e086aeab19fcd7ff75dbd895649"
+      "key": "4da0b",
+      "songName": "do ya?",
+      "hash": "a27c6e9cac20aadf0f735522bbb46a7fd46f678f",
+      "levelid": "custom_level_a27c6e9cac20aadf0f735522bbb46a7fd46f678f"
     },
     {
-      "key": "4d991",
-      "songName": "Ron Wasserman, Haim Saban & Shuki Levy - Go Go Power Rangers!",
-      "hash": "3ac7298eb94b5f3f6d8f318ead05c2d8208d8f24",
-      "levelid": "custom_level_3ac7298eb94b5f3f6d8f318ead05c2d8208d8f24"
+      "key": "4da08",
+      "songName": "Temptation - Heaven 17",
+      "hash": "d2822f976097332c5954b2b304a6a4fd82d863f2",
+      "levelid": "custom_level_d2822f976097332c5954b2b304a6a4fd82d863f2"
     },
     {
-      "key": "4d98c",
-      "songName": "i live with rocahse",
-      "hash": "3eacbd1eb5ab81b91a4c0a430065152ed0dfc768",
-      "levelid": "custom_level_3eacbd1eb5ab81b91a4c0a430065152ed0dfc768"
+      "key": "4da06",
+      "songName": "DOWN BUT YVSHCORE",
+      "hash": "e677daf020433b92b85ad9f8fbf225e496e12d20",
+      "levelid": "custom_level_e677daf020433b92b85ad9f8fbf225e496e12d20"
     },
     {
-      "key": "4d98a",
-      "songName": "f i s h a r e b i r d s <loop>",
-      "hash": "9591197db87edaa0e953efd91df453ebf5243b06",
-      "levelid": "custom_level_9591197db87edaa0e953efd91df453ebf5243b06"
+      "key": "4da00",
+      "songName": "Schwank - ETIQUETTE",
+      "hash": "7f2ec78faa01c6a27e77192938dad854e79488ab",
+      "levelid": "custom_level_7f2ec78faa01c6a27e77192938dad854e79488ab"
     },
     {
-      "key": "4d97e",
-      "songName": "Sabrina Carpenter - Tears",
-      "hash": "d750318f8cd69f69d40d3cc13a5b6bd842951ef5",
-      "levelid": "custom_level_d750318f8cd69f69d40d3cc13a5b6bd842951ef5"
+      "key": "4d9fc",
+      "songName": "AJR - Sober Up (ft. Rivers Cuomo)",
+      "hash": "b1d386784b4e20ce51e5005b1ed692dd3cd55e7b",
+      "levelid": "custom_level_b1d386784b4e20ce51e5005b1ed692dd3cd55e7b"
     },
     {
-      "key": "4d97c",
-      "songName": "[Feetsaber]CH4NGE / Vivid BAD SQUAD",
-      "hash": "5e0c1e7cca57622a0fc9d684e6914f94b4c2ece1",
-      "levelid": "custom_level_5e0c1e7cca57622a0fc9d684e6914f94b4c2ece1"
+      "key": "4d9fb",
+      "songName": "Souffle - Jayuff",
+      "hash": "914e2fc6380974015b5a4713bc97278d7946dd6b",
+      "levelid": "custom_level_914e2fc6380974015b5a4713bc97278d7946dd6b"
     },
     {
-      "key": "4d97b",
-      "songName": "raining tacos",
-      "hash": "daea323170a9705eeb2068aa75bd51bd145666ab",
-      "levelid": "custom_level_daea323170a9705eeb2068aa75bd51bd145666ab"
+      "key": "4d9f5",
+      "songName": "wanna break from the ads?",
+      "hash": "4c9cc2f3c65d6d729a7bb1f85ea5d82f3bb7b12e",
+      "levelid": "custom_level_4c9cc2f3c65d6d729a7bb1f85ea5d82f3bb7b12e"
     },
     {
-      "key": "4d979",
-      "songName": "PinkPantheress - I must apologise",
-      "hash": "d3a176fe64c5da1a87da004c6b80183a452d2d97",
-      "levelid": "custom_level_d3a176fe64c5da1a87da004c6b80183a452d2d97"
+      "key": "4d9f4",
+      "songName": "Flight of the Bumblebee",
+      "hash": "c9f50610881625af07c1bed8d76fb3d5ae5e5eef",
+      "levelid": "custom_level_c9f50610881625af07c1bed8d76fb3d5ae5e5eef"
     },
     {
-      "key": "4d978",
-      "songName": "Aphex Twin - Lichen",
-      "hash": "aef0c8d4e194a7aef8092e9d838774e0bb4d9a8d",
-      "levelid": "custom_level_aef0c8d4e194a7aef8092e9d838774e0bb4d9a8d"
+      "key": "4d9f3",
+      "songName": "Xystran - The Final Fast-Fast Song (終焉的朗徹速核曲)",
+      "hash": "4d6fea9b98c15191621891089d60485fa0fddaec",
+      "levelid": "custom_level_4d6fea9b98c15191621891089d60485fa0fddaec"
     },
     {
-      "key": "4d977",
-      "songName": "Bülow - Revolver",
-      "hash": "d4642128946be47cc31ad087c35352de3e951693",
-      "levelid": "custom_level_d4642128946be47cc31ad087c35352de3e951693"
+      "key": "4d98e",
+      "songName": "Still Alive - Portal",
+      "hash": "fc424573b27977c0323fc9cc2aaa32ee3ebbcb26",
+      "levelid": "custom_level_fc424573b27977c0323fc9cc2aaa32ee3ebbcb26"
     },
     {
-      "key": "4d972",
-      "songName": "im a banana",
-      "hash": "2157ce4bcb416ba9079cb53ad49a3ce5fcb8b8ef",
-      "levelid": "custom_level_2157ce4bcb416ba9079cb53ad49a3ce5fcb8b8ef"
+      "key": "4d9ee",
+      "songName": "Shiawase VIP - Dion Timmer  (Tidal Wave)",
+      "hash": "59d1ece1e26f693e818300a9fb913a00bbbab17f",
+      "levelid": "custom_level_59d1ece1e26f693e818300a9fb913a00bbbab17f"
     },
     {
-      "key": "4d971",
-      "songName": "Geezer - Doggy (feat. Love Spells & Truly Young)",
-      "hash": "60f59597026be37dc24f09d0073b1d6970e21dfe",
-      "levelid": "custom_level_60f59597026be37dc24f09d0073b1d6970e21dfe"
+      "key": "4d9ed",
+      "songName": "LinRae - You Can't Stop Me",
+      "hash": "7e570af3cda6380e9b3ad0280f324c75539019d5",
+      "levelid": "custom_level_7e570af3cda6380e9b3ad0280f324c75539019d5"
     },
     {
-      "key": "4d970",
-      "songName": "Creator",
-      "hash": "1ff02a6a490098c690514a7dec98cc213a0e0a82",
-      "levelid": "custom_level_1ff02a6a490098c690514a7dec98cc213a0e0a82"
+      "key": "4d9ec",
+      "songName": "winds horrible aids challenge",
+      "hash": "9c369b76a2bfd3b0e89eddadb2d092a2814ef9d4",
+      "levelid": "custom_level_9c369b76a2bfd3b0e89eddadb2d092a2814ef9d4"
     },
     {
-      "key": "4d96f",
-      "songName": "Beggin'",
-      "hash": "262566ad483c7e0b6e777666bb6ff004574c9fc0",
-      "levelid": "custom_level_262566ad483c7e0b6e777666bb6ff004574c9fc0"
+      "key": "4d9eb",
+      "songName": "what the heeeeeeeeeeeeeeeeeeeeeeeeeeeell",
+      "hash": "d598470cdae72598e207f58e13c8c864216f0587",
+      "levelid": "custom_level_d598470cdae72598e207f58e13c8c864216f0587"
     },
     {
-      "key": "4d96d",
-      "songName": "Goodnight by plenka (v1)",
-      "hash": "468f49d005eb165b681358840ac53751c8f0ca55",
-      "levelid": "custom_level_468f49d005eb165b681358840ac53751c8f0ca55"
+      "key": "4d9e6",
+      "songName": "(V4) Nessa Barrett - Dying On The Inside",
+      "hash": "dd582be4811acc786a631ddc9dc1af9c58a4db3f",
+      "levelid": "custom_level_dd582be4811acc786a631ddc9dc1af9c58a4db3f"
     },
     {
-      "key": "4d96e",
-      "songName": "fur:trash - alone in this world",
-      "hash": "29e1170fce348000cd1e9c0ac50f6d44f9006ff3",
-      "levelid": "custom_level_29e1170fce348000cd1e9c0ac50f6d44f9006ff3"
+      "key": "4d9e9",
+      "songName": "ruisno - Looping the Rooms feat. Hatsune Miku",
+      "hash": "9aec1fc6ffb09ed6875c1b02927e92b35123e9f1",
+      "levelid": "custom_level_9aec1fc6ffb09ed6875c1b02927e92b35123e9f1"
     },
     {
-      "key": "4d845",
-      "songName": "あっちゅうま - 7co",
-      "hash": "b556054f6f976a3f241b152324e326a34782851c",
-      "levelid": "custom_level_b556054f6f976a3f241b152324e326a34782851c"
+      "key": "4d9dc",
+      "songName": "that fucking bird that i hate",
+      "hash": "3376cf64c6af04e8e25d99d0550f110ab6e7d6b2",
+      "levelid": "custom_level_3376cf64c6af04e8e25d99d0550f110ab6e7d6b2"
     },
     {
-      "key": "4d969",
-      "songName": "『 DUET』 ZICO (지코), Lilas (YOASOBI’s ikura)",
-      "hash": "495f7b6646ce2b58d1aa7a54a12a33d19443c3e4",
-      "levelid": "custom_level_495f7b6646ce2b58d1aa7a54a12a33d19443c3e4"
+      "key": "4d9da",
+      "songName": "Srdcová dáma - Slza",
+      "hash": "bf1be54ac2ecb4f5153926f993305823749037bc",
+      "levelid": "custom_level_bf1be54ac2ecb4f5153926f993305823749037bc"
     },
     {
-      "key": "4d961",
-      "songName": "\"Emperor\" Blackbeard Pirates - Kohei Tanaka [One Piece]",
-      "hash": "7505eb1cdc64d731cee5a15621ccee064bcf9ca6",
-      "levelid": "custom_level_7505eb1cdc64d731cee5a15621ccee064bcf9ca6"
+      "key": "4d95a",
+      "songName": "AronChupa, Little Sis Nora - I'm an Albatraoz Again",
+      "hash": "67ab6b8227e2699c557aa593ddb446586199bf81",
+      "levelid": "custom_level_67ab6b8227e2699c557aa593ddb446586199bf81"
+    },
+    {
+      "key": "4d9cd",
+      "songName": "the world record sized poop i saw at target",
+      "hash": "e83bc5e42fedadf247bab62e32f3c9cea605f578",
+      "levelid": "custom_level_e83bc5e42fedadf247bab62e32f3c9cea605f578"
+    },
+    {
+      "key": "4d9d0",
+      "songName": "You Ruined It",
+      "hash": "b2ff3a26c06e199a1c847ac79c58696d2c24ee83",
+      "levelid": "custom_level_b2ff3a26c06e199a1c847ac79c58696d2c24ee83"
     }
   ],
   "image": ""
