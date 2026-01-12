@@ -1,286 +1,220 @@
 {
-  "playlistTitle": "2026-01-10T15:18:49.191Z~2026-01-11T15:18:49.191Z",
+  "playlistTitle": "2026-01-11T15:18:48.383Z~2026-01-12T15:18:48.383Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-01-10T15:18:49.191Z and 2026-01-11T15:18:49.191Z",
+  "discripstion": "Maps published between 2026-01-11T15:18:48.383Z and 2026-01-12T15:18:48.383Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4dbae",
-      "songName": "CALLING†",
-      "hash": "e870bca7719bf0360fe234838182710e63826c57",
-      "levelid": "custom_level_e870bca7719bf0360fe234838182710e63826c57"
+      "key": "4dc39",
+      "songName": "HEAVENLY JUMPSTYLE",
+      "hash": "976d96b1c5b0d134bf82b0f40195068466e25b39",
+      "levelid": "custom_level_976d96b1c5b0d134bf82b0f40195068466e25b39"
     },
     {
-      "key": "4db9c",
-      "songName": "Drop it",
-      "hash": "7d23a5dd9ddd9d30656d4e327157cc09ba8a90da",
-      "levelid": "custom_level_7d23a5dd9ddd9d30656d4e327157cc09ba8a90da"
+      "key": "4dc3e",
+      "songName": "Our Lady of Sorrows - My Chemical Romance",
+      "hash": "912ff5c536fb747c50af49960765288e0d2bd437",
+      "levelid": "custom_level_912ff5c536fb747c50af49960765288e0d2bd437"
     },
     {
-      "key": "4db94",
-      "songName": "Ну-ну-ну",
-      "hash": "30ce89f9a08416251dd75a99e77834a734cbe958",
-      "levelid": "custom_level_30ce89f9a08416251dd75a99e77834a734cbe958"
+      "key": "4dc36",
+      "songName": "輪舞-revolution / Rondo Revolution (TV Size)",
+      "hash": "c8359b2c8114b228f52fd0f2e4856beaf24cee6a",
+      "levelid": "custom_level_c8359b2c8114b228f52fd0f2e4856beaf24cee6a"
     },
     {
-      "key": "4db92",
-      "songName": "曖昧さ、幸福論 / Aimaisa, Koufukuron (TV Size)",
-      "hash": "0edbc2139532418cc12d612431af954914aa467b",
-      "levelid": "custom_level_0edbc2139532418cc12d612431af954914aa467b"
+      "key": "4dc35",
+      "songName": "Big Time Rush (TV Size)",
+      "hash": "7fcbd30540dc5611fae15d29b3e4eba43fab8af4",
+      "levelid": "custom_level_7fcbd30540dc5611fae15d29b3e4eba43fab8af4"
     },
     {
-      "key": "4c400",
-      "songName": "XXX",
-      "hash": "09379536c930be8d7bf8be040a16769446ed6859",
-      "levelid": "custom_level_09379536c930be8d7bf8be040a16769446ed6859"
+      "key": "4dc34",
+      "songName": "Stagestruck (nolanLMOA's \"Shooters in Detroit\" Bootleg) ",
+      "hash": "4a517981c33e28c04d2a8b1344fc6ce3bc8f66c2",
+      "levelid": "custom_level_4a517981c33e28c04d2a8b1344fc6ce3bc8f66c2"
     },
     {
-      "key": "4db8f",
-      "songName": "Connexio & Kou! - Caelestiveritas",
-      "hash": "62214a5d78a0ecf73d92d1cbbed57b463fb91b44",
-      "levelid": "custom_level_62214a5d78a0ecf73d92d1cbbed57b463fb91b44"
+      "key": "4dc33",
+      "songName": "MURAMASA",
+      "hash": "552bbe48d3bf2d484c7c695e0e4ccebc49c7c7f7",
+      "levelid": "custom_level_552bbe48d3bf2d484c7c695e0e4ccebc49c7c7f7"
     },
     {
-      "key": "4db8a",
-      "songName": "Jananto",
-      "hash": "9f84f76fa287d116d850c02f588d7c3e3e8636d1",
-      "levelid": "custom_level_9f84f76fa287d116d850c02f588d7c3e3e8636d1"
+      "key": "4dc32",
+      "songName": "NMIXX - Blue Valentine",
+      "hash": "f26bc24336ce13ac01b0e3653841adbdd18785d8",
+      "levelid": "custom_level_f26bc24336ce13ac01b0e3653841adbdd18785d8"
     },
     {
-      "key": "4db89",
-      "songName": "SHIAWASE FOR YOU!",
-      "hash": "9468c7e72bf3ad58648b5286243d4ee69508d5d7",
-      "levelid": "custom_level_9468c7e72bf3ad58648b5286243d4ee69508d5d7"
+      "key": "4dc31",
+      "songName": "platypus controlling me",
+      "hash": "6d313f9be62727fee88cc5201c876da112a2b0b2",
+      "levelid": "custom_level_6d313f9be62727fee88cc5201c876da112a2b0b2"
     },
     {
-      "key": "4db88",
-      "songName": "Bring The Beat Back",
-      "hash": "d39cfe597405d1e16bbb62d4170d07fbba1b0abe",
-      "levelid": "custom_level_d39cfe597405d1e16bbb62d4170d07fbba1b0abe"
+      "key": "4dc30",
+      "songName": "Nhato - Don't Stop The Music (feat. Kanae Asaba) [FREESTYLE]",
+      "hash": "69e15c3f88a644537ee0f166e35285a3c19e48d4",
+      "levelid": "custom_level_69e15c3f88a644537ee0f166e35285a3c19e48d4"
     },
     {
-      "key": "4db86",
-      "songName": "Радиоволны",
-      "hash": "9c1ca3d835614087f6878136b90d739d2f1a20ac",
-      "levelid": "custom_level_9c1ca3d835614087f6878136b90d739d2f1a20ac"
+      "key": "4dc2f",
+      "songName": "Tyler, The Creator - I'll Take Care Of You",
+      "hash": "e62baca045beb9fcf0e7a6c4888b8dec72b23b93",
+      "levelid": "custom_level_e62baca045beb9fcf0e7a6c4888b8dec72b23b93"
     },
     {
-      "key": "4db85",
-      "songName": "CALLING† 転生したら第七王子だったので、気ままに魔術を極めます 第2期 オープニング",
-      "hash": "d4c3f1f3bf4cb40e8450f537eef69a75a445fa7e",
-      "levelid": "custom_level_d4c3f1f3bf4cb40e8450f537eef69a75a445fa7e"
+      "key": "4dc2e",
+      "songName": "Tyler, The Creator - Tell Me What It Is",
+      "hash": "c1f77f0f535a32e1d410536f4e19b38b5587a8fe",
+      "levelid": "custom_level_c1f77f0f535a32e1d410536f4e19b38b5587a8fe"
     },
     {
-      "key": "4db7f",
-      "songName": "Obsidian Swing - Breathing My Last",
-      "hash": "ac9f08fa13cd1a9b82c25acdbd46d51419f11465",
-      "levelid": "custom_level_ac9f08fa13cd1a9b82c25acdbd46d51419f11465"
+      "key": "4dc2d",
+      "songName": "Tyler, The Creator - Domo23",
+      "hash": "e6a8175128c3b3248fef65bba8a5024923c286c8",
+      "levelid": "custom_level_e6a8175128c3b3248fef65bba8a5024923c286c8"
     },
     {
-      "key": "4db7e",
-      "songName": "ghost",
-      "hash": "0a1a743726bfdd44ffa2ea293bdb1d19a77bc1ce",
-      "levelid": "custom_level_0a1a743726bfdd44ffa2ea293bdb1d19a77bc1ce"
+      "key": "4dc2c",
+      "songName": "Nato - Silhouette Effect (SHORT CUT)",
+      "hash": "7a35e8b9244bb8aec9059f4c8be6bb7b7b0abcf6",
+      "levelid": "custom_level_7a35e8b9244bb8aec9059f4c8be6bb7b7b0abcf6"
     },
     {
-      "key": "4db7d",
-      "songName": "Jaron - Dominos",
-      "hash": "c367b5522933bdc185e0603fa3d1ec037f24b890",
-      "levelid": "custom_level_c367b5522933bdc185e0603fa3d1ec037f24b890"
+      "key": "4dc2b",
+      "songName": "booty",
+      "hash": "b110cd0b8a7db2c2661b29e80b9b5650c365782c",
+      "levelid": "custom_level_b110cd0b8a7db2c2661b29e80b9b5650c365782c"
     },
     {
-      "key": "4db7c",
-      "songName": "ROMANCEPLANET - FALL FROM THE SKY (PT.2)",
-      "hash": "a2e9ee94b9a24dd3155ea5bb376d47224725744a",
-      "levelid": "custom_level_a2e9ee94b9a24dd3155ea5bb376d47224725744a"
+      "key": "4dc29",
+      "songName": "TAROLIN - Magical Dendera Night",
+      "hash": "0d2b39df501e875cf05a25a22dc362b5ca3a1e6c",
+      "levelid": "custom_level_0d2b39df501e875cf05a25a22dc362b5ca3a1e6c"
     },
     {
-      "key": "4db78",
-      "songName": "Dry Hands",
-      "hash": "47dff489d1e9231837b303b7d81aedef8a94280a",
-      "levelid": "custom_level_47dff489d1e9231837b303b7d81aedef8a94280a"
+      "key": "4dc27",
+      "songName": "Doug Dimmadome V10",
+      "hash": "bee2b4c93e3cf4fcbd06250e64dd7e15423f4521",
+      "levelid": "custom_level_bee2b4c93e3cf4fcbd06250e64dd7e15423f4521"
     },
     {
-      "key": "4db76",
-      "songName": "Sparkler",
-      "hash": "587fd5a7625cfe8470031c3977a6cc6d2bc0b7fc",
-      "levelid": "custom_level_587fd5a7625cfe8470031c3977a6cc6d2bc0b7fc"
+      "key": "4db93",
+      "songName": "[Noodle Extensions / Chroma] Nanairo no nico nico douga (七色のニコニコ動画)",
+      "hash": "9c1139df20a41bc588ec544b94261cd4917ed07c",
+      "levelid": "custom_level_9c1139df20a41bc588ec544b94261cd4917ed07c"
     },
     {
-      "key": "4da66",
-      "songName": "[Arcaea Pack] Feryquitous - Arcahv",
-      "hash": "b3a77d9e15b25d6b8f753c4b4275923e64312dea",
-      "levelid": "custom_level_b3a77d9e15b25d6b8f753c4b4275923e64312dea"
+      "key": "4dc25",
+      "songName": "Jack Conte - Yeah Yeah Yeah",
+      "hash": "776e1b5456636639e7b07fdbaacb324de55a780f",
+      "levelid": "custom_level_776e1b5456636639e7b07fdbaacb324de55a780f"
     },
     {
-      "key": "4db57",
-      "songName": " [Arcaea Pack] Hylen - Grandspell",
-      "hash": "7a518e77ca62ba55a39484b47923bdd781124b05",
-      "levelid": "custom_level_7a518e77ca62ba55a39484b47923bdd781124b05"
+      "key": "4dc1c",
+      "songName": "Origami Angel - Kobayashi Maru (My Very Own)",
+      "hash": "5e637d415902e4c8036aed468c3a3ff1c93c4915",
+      "levelid": "custom_level_5e637d415902e4c8036aed468c3a3ff1c93c4915"
     },
     {
-      "key": "4db58",
-      "songName": "[Arcaea Pack] gmtn. - trappola bewitching",
-      "hash": "5d74f8af6e24ef032a74ecf1e12ab403160b6971",
-      "levelid": "custom_level_5d74f8af6e24ef032a74ecf1e12ab403160b6971"
+      "key": "4dc16",
+      "songName": "Kurokotei ✦ Eili - 儀 -lirile-",
+      "hash": "b62259cbd342f1c5dc28cc24f3faea5c20060a7f",
+      "levelid": "custom_level_b62259cbd342f1c5dc28cc24f3faea5c20060a7f"
     },
     {
-      "key": "4db26",
-      "songName": "[Arcaea Pack] Blacky - Antithese",
-      "hash": "2429b40ae433d6bf066d368e46b2633d395f1f17",
-      "levelid": "custom_level_2429b40ae433d6bf066d368e46b2633d395f1f17"
+      "key": "4dc19",
+      "songName": "rip it out of me",
+      "hash": "d151289ecf75109a1c14b4f1ee9c760fb3fc157f",
+      "levelid": "custom_level_d151289ecf75109a1c14b4f1ee9c760fb3fc157f"
     },
     {
-      "key": "4db15",
-      "songName": "[Arcaea Pack] 打打だいず - Welcome, Queen of Fiction.",
-      "hash": "0b36c7b0d3fb2ba271662c49516b24c898bae304",
-      "levelid": "custom_level_0b36c7b0d3fb2ba271662c49516b24c898bae304"
+      "key": "4dc15",
+      "songName": "Bloc Party - Mercury [v0.9]",
+      "hash": "9d8207bf20d054efe65ce767fbf8895d2dd88f72",
+      "levelid": "custom_level_9d8207bf20d054efe65ce767fbf8895d2dd88f72"
     },
     {
-      "key": "4db74",
-      "songName": "glaive - all i do is try my best",
-      "hash": "f262d6454d42b6f88974e63a081f0a5196168637",
-      "levelid": "custom_level_f262d6454d42b6f88974e63a081f0a5196168637"
+      "key": "4dc17",
+      "songName": "Les Rallizes Dénudés - Enter The Mirror",
+      "hash": "fbe9eb86fb81350f5d6c5f79842a1e64cf391cc7",
+      "levelid": "custom_level_fbe9eb86fb81350f5d6c5f79842a1e64cf391cc7"
     },
     {
-      "key": "4db71",
-      "songName": "\"Switch\" - Set It Off ",
-      "hash": "deebf97f8120770dbe5fb4112c39625a55429a41",
-      "levelid": "custom_level_deebf97f8120770dbe5fb4112c39625a55429a41"
+      "key": "4dc13",
+      "songName": "64bit 32bit 16bit 8bit 4bit 2bit 1bit but remixed by Camellia",
+      "hash": "b9926a2ab5d254f6f5a7793c2146363e0f287d14",
+      "levelid": "custom_level_b9926a2ab5d254f6f5a7793c2146363e0f287d14"
     },
     {
-      "key": "4daf1",
-      "songName": "インスタント彼女 - esoragoto",
-      "hash": "30167cb633188f65bfb4288bbc082c066c7a3582",
-      "levelid": "custom_level_30167cb633188f65bfb4288bbc082c066c7a3582"
+      "key": "4dc11",
+      "songName": "lapix - Kill Them All (feat. Aitsuki Nakuru)",
+      "hash": "c3df62b41252dd5df4a425c48a110bdd6c38bd9d",
+      "levelid": "custom_level_c3df62b41252dd5df4a425c48a110bdd6c38bd9d"
     },
     {
-      "key": "4da93",
-      "songName": "Get into the Abyssmare (Camelia's \"ULTRA ABYSSUM\" Remix) - Abyssmare",
-      "hash": "aa2c2e40d84b697cf666187e5ca15b258040ca53",
-      "levelid": "custom_level_aa2c2e40d84b697cf666187e5ca15b258040ca53"
+      "key": "4dc0e",
+      "songName": "Laur - Terminal Missa",
+      "hash": "93f58dd8f29f3eef6bf1a38d02f6c22b363b3c0e",
+      "levelid": "custom_level_93f58dd8f29f3eef6bf1a38d02f6c22b363b3c0e"
     },
     {
-      "key": "4db59",
-      "songName": "three stages of Ironmouse - Cry For Me (PHONK REMIXES) ",
-      "hash": "2fdfed06745cb9a7413f7beb1518efc7ac80b851",
-      "levelid": "custom_level_2fdfed06745cb9a7413f7beb1518efc7ac80b851"
+      "key": "4dc08",
+      "songName": "cYsmix - Phone Me First (Cut ver.)",
+      "hash": "920fe822817ffbb9030fdd4c5885986f1ebfb399",
+      "levelid": "custom_level_920fe822817ffbb9030fdd4c5885986f1ebfb399"
     },
     {
-      "key": "4db55",
-      "songName": "Tom Petty and the Heartbreakers - I Won't Back Down",
-      "hash": "dacc75ac7d758a4c88a612ea5ed3daf6fa191614",
-      "levelid": "custom_level_dacc75ac7d758a4c88a612ea5ed3daf6fa191614"
+      "key": "4dc07",
+      "songName": "offthemainroad nerfed",
+      "hash": "eb6935f6289e18bc1217eef31601f6a4c2ce9691",
+      "levelid": "custom_level_eb6935f6289e18bc1217eef31601f6a4c2ce9691"
     },
     {
-      "key": "4db4f",
-      "songName": "Hear My Hope (Hazbin Hotel Season Two Original Animation Soundtrack By Prime Video)",
-      "hash": "65c8b836ec4177e55372c00c81392fd272d55a48",
-      "levelid": "custom_level_65c8b836ec4177e55372c00c81392fd272d55a48"
+      "key": "4dc06",
+      "songName": "nbayoungboy",
+      "hash": "fe60c2dc8931b2e81b1ba77bd10d05e5282d5e23",
+      "levelid": "custom_level_fe60c2dc8931b2e81b1ba77bd10d05e5282d5e23"
     },
     {
-      "key": "4db4d",
-      "songName": "Rory in early 20s - Bibliophilia",
-      "hash": "607f39bef83add0a94cf230a81b87f6839a0d6b3",
-      "levelid": "custom_level_607f39bef83add0a94cf230a81b87f6839a0d6b3"
+      "key": "4dc05",
+      "songName": "ADHD - Gladde Paling",
+      "hash": "bb7898eaa56558769ea5ab69bfe5086876a2cb1a",
+      "levelid": "custom_level_bb7898eaa56558769ea5ab69bfe5086876a2cb1a"
     },
     {
-      "key": "4db4a",
-      "songName": "hapi=> - Hatsune Miku's Head Exercises",
-      "hash": "28376ff8260c46f68849547c2ae9fb5e02a24b6e",
-      "levelid": "custom_level_28376ff8260c46f68849547c2ae9fb5e02a24b6e"
+      "key": "4dc01",
+      "songName": "jon mud ultimate compilation challenge",
+      "hash": "1fa9ad4f876f925f2977dc711d41e17331e8d23d",
+      "levelid": "custom_level_1fa9ad4f876f925f2977dc711d41e17331e8d23d"
     },
     {
-      "key": "4db42",
-      "songName": "Ninajirachi - iPod Touch",
-      "hash": "bb8255ed9bdc68cc2c9e9457197801486b6502c9",
-      "levelid": "custom_level_bb8255ed9bdc68cc2c9e9457197801486b6502c9"
+      "key": "4dc00",
+      "songName": "「AIZO」King Gnu (Jujutsu Kaisen OP Season 3) 『呪術廻戦』",
+      "hash": "3c5a34e3acffba98e023581ea1b26c06b2439611",
+      "levelid": "custom_level_3c5a34e3acffba98e023581ea1b26c06b2439611"
     },
     {
-      "key": "4db3e",
-      "songName": "O ELA ELA (Smerfix Dj Mash)",
-      "hash": "2def0d81477c9266684b4e4c5f388aecaa23ba81",
-      "levelid": "custom_level_2def0d81477c9266684b4e4c5f388aecaa23ba81"
+      "key": "4dbff",
+      "songName": "Flowidus x Frisco - Outlaw",
+      "hash": "e11fc48dbb9159ce1dea70b91fdfebd907e2cac1",
+      "levelid": "custom_level_e11fc48dbb9159ce1dea70b91fdfebd907e2cac1"
     },
     {
-      "key": "4da9e",
-      "songName": "shadowraze, jzxdx - skyline ryodan",
-      "hash": "afe0352e385a43e719afa2958df2a5a61810e1be",
-      "levelid": "custom_level_afe0352e385a43e719afa2958df2a5a61810e1be"
+      "key": "4dbda",
+      "songName": "tcthawbhaarc - episode 2",
+      "hash": "ca9487ea10e233bddcba0de6692f87dc91c7ec06",
+      "levelid": "custom_level_ca9487ea10e233bddcba0de6692f87dc91c7ec06"
     },
     {
-      "key": "4db14",
-      "songName": "Mirele - Skin Kotikov",
-      "hash": "5a9ca9f82b0c18b929b3e77c73f685bed23421d4",
-      "levelid": "custom_level_5a9ca9f82b0c18b929b3e77c73f685bed23421d4"
-    },
-    {
-      "key": "4db37",
-      "songName": "Happy Place",
-      "hash": "5a43c3811fa7046872f114a049ebea9d3f1df1d1",
-      "levelid": "custom_level_5a43c3811fa7046872f114a049ebea9d3f1df1d1"
-    },
-    {
-      "key": "4db32",
-      "songName": "Fox Stevenson - Memories ",
-      "hash": "7e8af6725eafcd87c2588750ccf8532fb28e23c7",
-      "levelid": "custom_level_7e8af6725eafcd87c2588750ccf8532fb28e23c7"
-    },
-    {
-      "key": "4db2c",
-      "songName": "ma[χ]zo",
-      "hash": "49feaee8687435b853c774949897687d8f020848",
-      "levelid": "custom_level_49feaee8687435b853c774949897687d8f020848"
-    },
-    {
-      "key": "4daad",
-      "songName": " [Y5YMA 2/12] [Arcaea Pack] Team Grimoire vs Sakuzyo vs Laur - Arcana Eden (Extended by Laur)",
-      "hash": "d0083033043abe0d67cee1c0b647a8b3c7c4321f",
-      "levelid": "custom_level_d0083033043abe0d67cee1c0b647a8b3c7c4321f"
-    },
-    {
-      "key": "4db2b",
-      "songName": "Stasis",
-      "hash": "af3adf4b3d9378ae6d59bc6a77c0ce08bd6b486f",
-      "levelid": "custom_level_af3adf4b3d9378ae6d59bc6a77c0ce08bd6b486f"
-    },
-    {
-      "key": "4d2f5",
-      "songName": "Frictionless Wipe - OCT",
-      "hash": "cfab9c4cf838a3e0a89b50df1ff6a6b5611c7a7e",
-      "levelid": "custom_level_cfab9c4cf838a3e0a89b50df1ff6a6b5611c7a7e"
-    },
-    {
-      "key": "4db23",
-      "songName": "Where We Are",
-      "hash": "8b60947ba73386145efdfde05f832b98dee3603c",
-      "levelid": "custom_level_8b60947ba73386145efdfde05f832b98dee3603c"
-    },
-    {
-      "key": "4dab0",
-      "songName": "Somewhere I Belong - Linkin Park",
-      "hash": "e79fd2adb10925b69fe1fe2c853ce21a9124b048",
-      "levelid": "custom_level_e79fd2adb10925b69fe1fe2c853ce21a9124b048"
-    },
-    {
-      "key": "4d8fa",
-      "songName": "MAMADOL - WooAh HIP",
-      "hash": "187da8fb1bfa5e6b122e1d9e6e01fc3bfc04e3e5",
-      "levelid": "custom_level_187da8fb1bfa5e6b122e1d9e6e01fc3bfc04e3e5"
-    },
-    {
-      "key": "4db19",
-      "songName": "rusino - Looping the Rooms",
-      "hash": "e9c750b3d083a0ee6a673db39e9e80d222d207a7",
-      "levelid": "custom_level_e9c750b3d083a0ee6a673db39e9e80d222d207a7"
-    },
-    {
-      "key": "4db16",
-      "songName": "classic j dies and goes to hell part 1",
-      "hash": "279955f3d1dad1950fb88d99cda433e5f966558d",
-      "levelid": "custom_level_279955f3d1dad1950fb88d99cda433e5f966558d"
+      "key": "4dbd2",
+      "songName": "Imagine Dragons - Sharks",
+      "hash": "74f9b2157732b98ffc78d6b51a15998b185b8012",
+      "levelid": "custom_level_74f9b2157732b98ffc78d6b51a15998b185b8012"
     }
   ],
   "image": ""
