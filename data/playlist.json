@@ -1,208 +1,238 @@
 {
-  "playlistTitle": "2026-01-12T15:18:48.446Z~2026-01-13T15:18:48.446Z",
+  "playlistTitle": "2026-01-13T15:18:48.481Z~2026-01-14T15:18:48.481Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-01-12T15:18:48.446Z and 2026-01-13T15:18:48.446Z",
+  "discripstion": "Maps published between 2026-01-13T15:18:48.481Z and 2026-01-14T15:18:48.481Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4dc8c",
-      "songName": "The Haze",
-      "hash": "085fe82c64f8168b1bb4a7192b7a45bcc7a8eb9c",
-      "levelid": "custom_level_085fe82c64f8168b1bb4a7192b7a45bcc7a8eb9c"
+      "key": "4dc50",
+      "songName": "Akatsuki Records - KAPPAYAPPA",
+      "hash": "0435e3cb86e79026bd57fa7b3ae005fffbfef510",
+      "levelid": "custom_level_0435e3cb86e79026bd57fa7b3ae005fffbfef510"
     },
     {
-      "key": "4dc8d",
-      "songName": "Doot Doot 67 -  Skrilla",
-      "hash": "f1fb38408ffa0a58d51995126d9933b13caf7d2f",
-      "levelid": "custom_level_f1fb38408ffa0a58d51995126d9933b13caf7d2f"
+      "key": "4dce3",
+      "songName": "32ki / Satsuki - Mesmerizer (Bao The Whale & Neuro-Sama cover)",
+      "hash": "56c934f4ab3874c4bebf26502db41a507c48f071",
+      "levelid": "custom_level_56c934f4ab3874c4bebf26502db41a507c48f071"
     },
     {
-      "key": "4dc8b",
-      "songName": "Camellia - 64 Bits But Remixed By Camellia",
-      "hash": "69fdb67a2f1d2344aca32499da951e814b586ad5",
-      "levelid": "custom_level_69fdb67a2f1d2344aca32499da951e814b586ad5"
+      "key": "4dccf",
+      "songName": "Jaron STARS",
+      "hash": "a7fc36b76f14dfac2b6a3631b1a875691b9b1cda",
+      "levelid": "custom_level_a7fc36b76f14dfac2b6a3631b1a875691b9b1cda"
     },
     {
-      "key": "4dc8a",
+      "key": "4dce2",
+      "songName": "【V3 MAP】挪德卡莱（Nod-Krai）【《原神》<Genshin Impact> “挪德卡莱”地区主题曲】 - HOYO-MiX",
+      "hash": "a2d3372307918ac7cee021704cec8c102acabc06",
+      "levelid": "custom_level_a2d3372307918ac7cee021704cec8c102acabc06"
+    },
+    {
+      "key": "4dce1",
+      "songName": "My Wrist Is My Canvas",
+      "hash": "2a1654982add9cd78e6ddae1f5efcb5341caa970",
+      "levelid": "custom_level_2a1654982add9cd78e6ddae1f5efcb5341caa970"
+    },
+    {
+      "key": "4dcdf",
+      "songName": "Booty Booty v16",
+      "hash": "0eb681c22ea924d585b4e849bfc84ec7c6cbd06c",
+      "levelid": "custom_level_0eb681c22ea924d585b4e849bfc84ec7c6cbd06c"
+    },
+    {
+      "key": "4dce0",
+      "songName": "Kurokotei - 2000bpm Melodic Extratone",
+      "hash": "840b4d455c7f3ded0ff2a9631abcaf1dc5a545cf",
+      "levelid": "custom_level_840b4d455c7f3ded0ff2a9631abcaf1dc5a545cf"
+    },
+    {
+      "key": "4dcde",
+      "songName": "Aoi - King Atlantis",
+      "hash": "3b15100ae57d4dd7d95cd569a247ac9709f6cada",
+      "levelid": "custom_level_3b15100ae57d4dd7d95cd569a247ac9709f6cada"
+    },
+    {
+      "key": "4dcdc",
+      "songName": "Obsidian Swing - Breathing My Last",
+      "hash": "48c0d08c0a343453ed6f07ee9bafe247b78c5867",
+      "levelid": "custom_level_48c0d08c0a343453ed6f07ee9bafe247b78c5867"
+    },
+    {
+      "key": "4dcd4",
+      "songName": "Ippo Fumi Dasu ",
+      "hash": "779d99dc726f933c0c0e5d26e7794a14ea07d0a0",
+      "levelid": "custom_level_779d99dc726f933c0c0e5d26e7794a14ea07d0a0"
+    },
+    {
+      "key": "4dcd9",
+      "songName": "MASK (TV Size)",
+      "hash": "63e3d1cfb1be8e562fabe542ce8ba73b99675f15",
+      "levelid": "custom_level_63e3d1cfb1be8e562fabe542ce8ba73b99675f15"
+    },
+    {
+      "key": "4dcd7",
+      "songName": "Tommy Lee UK - Watch Dat [FREESTYLE]",
+      "hash": "c27c7528fb455c9ee778e55fd5437520dcd4fe7e",
+      "levelid": "custom_level_c27c7528fb455c9ee778e55fd5437520dcd4fe7e"
+    },
+    {
+      "key": "4dcd6",
+      "songName": "Captain Jack - Take Me Out To The Ball Game  (Planet Remix) [FREESTYLE]",
+      "hash": "6ab0d38c570d84771da27cc7ca6355bc480941e7",
+      "levelid": "custom_level_6ab0d38c570d84771da27cc7ca6355bc480941e7"
+    },
+    {
+      "key": "4dcd1",
+      "songName": "blue.....coats",
+      "hash": "7f4e72fc308fb8a7f2b1aa33f2bdada3bde9d842",
+      "levelid": "custom_level_7f4e72fc308fb8a7f2b1aa33f2bdada3bde9d842"
+    },
+    {
+      "key": "4dcd0",
+      "songName": "my heart i loved her",
+      "hash": "77d29d09a19bffc0363df39b57fc700046822d62",
+      "levelid": "custom_level_77d29d09a19bffc0363df39b57fc700046822d62"
+    },
+    {
+      "key": "4dcc6",
+      "songName": "[V4] Crywolf & emalyn - you; biochromatic light",
+      "hash": "ca6ddfe8a906f4f77a363d9138c0aa4d32232a8b",
+      "levelid": "custom_level_ca6ddfe8a906f4f77a363d9138c0aa4d32232a8b"
+    },
+    {
+      "key": "4dcca",
+      "songName": "WayV - Stay",
+      "hash": "3711c4519abc543ee62d0d1123e6386275f1a854",
+      "levelid": "custom_level_3711c4519abc543ee62d0d1123e6386275f1a854"
+    },
+    {
+      "key": "4dcc9",
+      "songName": "Eraser - 7038634357",
+      "hash": "260fe5309f0906789859feceac4bc5a7346548a6",
+      "levelid": "custom_level_260fe5309f0906789859feceac4bc5a7346548a6"
+    },
+    {
+      "key": "4dcc5",
+      "songName": "Jaroslav Beck - Origins",
+      "hash": "3bdb174a3cd65e9dc43cb3110b2366555ca03c14",
+      "levelid": "custom_level_3bdb174a3cd65e9dc43cb3110b2366555ca03c14"
+    },
+    {
+      "key": "4dcc0",
+      "songName": "booty v2",
+      "hash": "719a49a721419ef4e6df9d67ccdca48cd69fa5ba",
+      "levelid": "custom_level_719a49a721419ef4e6df9d67ccdca48cd69fa5ba"
+    },
+    {
+      "key": "4dcbc",
+      "songName": "Ramalamadingdong",
+      "hash": "49e96abd0a268b7a3457d20b9805ca1795d346e6",
+      "levelid": "custom_level_49e96abd0a268b7a3457d20b9805ca1795d346e6"
+    },
+    {
+      "key": "4dcb9",
+      "songName": "metroman edit",
+      "hash": "dc7ffb9bd4005b29b861a8fda3b1a46e6a6e6021",
+      "levelid": "custom_level_dc7ffb9bd4005b29b861a8fda3b1a46e6a6e6021"
+    },
+    {
+      "key": "4dca7",
+      "songName": "XH - Kawaii Speedcore 654 (feat. KYURO3)",
+      "hash": "7e4581ead1261318e9454093f2af739ecea9855d",
+      "levelid": "custom_level_7e4581ead1261318e9454093f2af739ecea9855d"
+    },
+    {
+      "key": "4dca5",
+      "songName": "Arcology on Permafrost",
+      "hash": "1c9c772847f4b6b19663bd177939478dddb793cf",
+      "levelid": "custom_level_1c9c772847f4b6b19663bd177939478dddb793cf"
+    },
+    {
+      "key": "4dc72",
+      "songName": "Ludicin & Aiyru - Expectations",
+      "hash": "7c1cae3219fc05677e893b6cb887af93c92e5053",
+      "levelid": "custom_level_7c1cae3219fc05677e893b6cb887af93c92e5053"
+    },
+    {
+      "key": "4dca4",
+      "songName": "Revenent",
+      "hash": "2738b17c005701115cb53b40432e25ec959be26b",
+      "levelid": "custom_level_2738b17c005701115cb53b40432e25ec959be26b"
+    },
+    {
+      "key": "4dca3",
+      "songName": "Duccly & Kane Sucks - Shucks",
+      "hash": "ff11f1591701c359fa653bffddb0a39ee45c2582",
+      "levelid": "custom_level_ff11f1591701c359fa653bffddb0a39ee45c2582"
+    },
+    {
+      "key": "4dca2",
+      "songName": "Full Moon",
+      "hash": "969a7cd3e953a2dfeab997888aa0fa62876d52cc",
+      "levelid": "custom_level_969a7cd3e953a2dfeab997888aa0fa62876d52cc"
+    },
+    {
+      "key": "4dca0",
+      "songName": "the new dipping sauces",
+      "hash": "59f6137e66fc00ee04f98b52074f6ffdf61d899a",
+      "levelid": "custom_level_59f6137e66fc00ee04f98b52074f6ffdf61d899a"
+    },
+    {
+      "key": "4db72",
+      "songName": "\"Punching Bag\" - Set It Off ",
+      "hash": "addac46397757300737f86107d9332a18bf8080f",
+      "levelid": "custom_level_addac46397757300737f86107d9332a18bf8080f"
+    },
+    {
+      "key": "4dc9f",
+      "songName": "flight attendant",
+      "hash": "a70a19365d240b558a85b63024f7f752401bedf7",
+      "levelid": "custom_level_a70a19365d240b558a85b63024f7f752401bedf7"
+    },
+    {
+      "key": "4dc98",
+      "songName": "gladde paling - laserstraal",
+      "hash": "c8342183c3fc32e1e350e4e1766e8acf100ccd22",
+      "levelid": "custom_level_c8342183c3fc32e1e350e4e1766e8acf100ccd22"
+    },
+    {
+      "key": "4dc97",
+      "songName": "We Are Charlie Kirk - (Frenchcore Remix) - Splaexma",
+      "hash": "eb221fa1b6e2027d6d2331d37ea8abaf4211151b",
+      "levelid": "custom_level_eb221fa1b6e2027d6d2331d37ea8abaf4211151b"
+    },
+    {
+      "key": "4dc96",
+      "songName": " Alex Terrible, GeoffPlaysGuitar - Arlekino (Atomic Heart OST)",
+      "hash": "d2f79b2fc793e3700330e8e2520ebcf6706b6402",
+      "levelid": "custom_level_d2f79b2fc793e3700330e8e2520ebcf6706b6402"
+    },
+    {
+      "key": "4dc95",
+      "songName": "booty booty (fatamy twerk remix)",
+      "hash": "1401b004090f05c1d4f663033ee734039a4b4870",
+      "levelid": "custom_level_1401b004090f05c1d4f663033ee734039a4b4870"
+    },
+    {
+      "key": "4dc92",
+      "songName": "Шашлычок",
+      "hash": "6f821625a580c777c63fbd05ba6e6d6e1b5e8059",
+      "levelid": "custom_level_6f821625a580c777c63fbd05ba6e6d6e1b5e8059"
+    },
+    {
+      "key": "4dc91",
       "songName": "song to keep myself from relapsing",
-      "hash": "ce1ef72f3c967371c3f19d68b925163943f22da0",
-      "levelid": "custom_level_ce1ef72f3c967371c3f19d68b925163943f22da0"
+      "hash": "48940009723bd84845fe98c220ace9a1e74ad2f1",
+      "levelid": "custom_level_48940009723bd84845fe98c220ace9a1e74ad2f1"
     },
     {
-      "key": "4dc89",
-      "songName": "Paper Alibis - Yonkagor",
-      "hash": "74da7645f4761e5d4a4310935cc2693e35bfe144",
-      "levelid": "custom_level_74da7645f4761e5d4a4310935cc2693e35bfe144"
-    },
-    {
-      "key": "4dc87",
-      "songName": "dentalstonk - CHEESE POWERED NUCLEAR BOMB",
-      "hash": "195b41e70b81d2ccc8931257c7f3498f69d15162",
-      "levelid": "custom_level_195b41e70b81d2ccc8931257c7f3498f69d15162"
-    },
-    {
-      "key": "4dc86",
-      "songName": "Grabbitz - Pain Killer",
-      "hash": "0ac53f43b8ee9cd0ac69a3244934835573253c63",
-      "levelid": "custom_level_0ac53f43b8ee9cd0ac69a3244934835573253c63"
-    },
-    {
-      "key": "4dc7d",
-      "songName": "Mood",
-      "hash": "b3e9b0dc22e095fb06247461bc387699ef5081ef",
-      "levelid": "custom_level_b3e9b0dc22e095fb06247461bc387699ef5081ef"
-    },
-    {
-      "key": "4dc7b",
-      "songName": "VIP knows...",
-      "hash": "df99e2c1f3f1b671f910b4de058edc025a8c4a23",
-      "levelid": "custom_level_df99e2c1f3f1b671f910b4de058edc025a8c4a23"
-    },
-    {
-      "key": "4dc7a",
-      "songName": "Drop it",
-      "hash": "47ef280c819cb63f043d708f6dc9ab82939a94b1",
-      "levelid": "custom_level_47ef280c819cb63f043d708f6dc9ab82939a94b1"
-    },
-    {
-      "key": "4dc79",
-      "songName": "gladde paling - oei",
-      "hash": "780d51ff93b16c8210e8292d5bf082879631e23f",
-      "levelid": "custom_level_780d51ff93b16c8210e8292d5bf082879631e23f"
-    },
-    {
-      "key": "4dc77",
-      "songName": "空にかける橋 / Sora ni Kakeru Hashi (TV Size)",
-      "hash": "d0e7c20bd52955f68da7cb0eafa24943e14c5298",
-      "levelid": "custom_level_d0e7c20bd52955f68da7cb0eafa24943e14c5298"
-    },
-    {
-      "key": "4dc76",
-      "songName": "Me And Myself (Wolfgang Gartner Radio Edit) Ben DJ ft. Sushy",
-      "hash": "cdafae7a92feba40b908253d00fd316afee9a506",
-      "levelid": "custom_level_cdafae7a92feba40b908253d00fd316afee9a506"
-    },
-    {
-      "key": "4dc74",
-      "songName": "YAHPP - Bemera (SHORT CUT)",
-      "hash": "1acfca588b9123893b0effcccab677d8bbf28097",
-      "levelid": "custom_level_1acfca588b9123893b0effcccab677d8bbf28097"
-    },
-    {
-      "key": "4dc71",
-      "songName": "Nhato - Bang Bang Dance [FREESTYLE]",
-      "hash": "d7a0ddbc8cc7ce720f198e9b611e658352dc039b",
-      "levelid": "custom_level_d7a0ddbc8cc7ce720f198e9b611e658352dc039b"
-    },
-    {
-      "key": "4dc70",
-      "songName": "JUGEM-T - AUTOBAHN CRASHER",
-      "hash": "cb558c4803be7f6a0548b9bcceaff612b795e969",
-      "levelid": "custom_level_cb558c4803be7f6a0548b9bcceaff612b795e969"
-    },
-    {
-      "key": "4dc6f",
-      "songName": "Plants vs. Zombies: Garden Warfare - Lounge Lizard",
-      "hash": "dcdbb121678f50a97771b9d7cef7ba059fab6a6a",
-      "levelid": "custom_level_dcdbb121678f50a97771b9d7cef7ba059fab6a6a"
-    },
-    {
-      "key": "4dc6d",
-      "songName": "Ryan Mack - Wish You the Worst",
-      "hash": "2814ee05d2b0b3895e5a91c9cdd54c77973fa690",
-      "levelid": "custom_level_2814ee05d2b0b3895e5a91c9cdd54c77973fa690"
-    },
-    {
-      "key": "4dc6b",
-      "songName": "Shakira - Zoo (From Zootopia 2)",
-      "hash": "183fb1423716306c8848d8476b87a598591d0f38",
-      "levelid": "custom_level_183fb1423716306c8848d8476b87a598591d0f38"
-    },
-    {
-      "key": "4dc6a",
-      "songName": "Mindless Self Indulgence - 1989",
-      "hash": "18183f3feb4c482d2af5349158ca8af54cd9df47",
-      "levelid": "custom_level_18183f3feb4c482d2af5349158ca8af54cd9df47"
-    },
-    {
-      "key": "4dc69",
-      "songName": "お姫様にはなれない / Ohime-sama ni wa Narenai (TV Size)",
-      "hash": "4fc0d9c1debe540398b49c597a7291722e1c83d3",
-      "levelid": "custom_level_4fc0d9c1debe540398b49c597a7291722e1c83d3"
-    },
-    {
-      "key": "4dc65",
-      "songName": "stuck test",
-      "hash": "5c78144e5981eacd94805e1df6a1bed7e36a235c",
-      "levelid": "custom_level_5c78144e5981eacd94805e1df6a1bed7e36a235c"
-    },
-    {
-      "key": "4dc67",
-      "songName": "Raider Randy - I Hate Everything (By Kaya)",
-      "hash": "0cc10559d5fb9cfebe413aef229aa7f9de4769a6",
-      "levelid": "custom_level_0cc10559d5fb9cfebe413aef229aa7f9de4769a6"
-    },
-    {
-      "key": "4dc66",
-      "songName": "Sukkubys - Ma'am, Your Son is Dead",
-      "hash": "57ae2d6858edff2d77c500b89bd4c0625a64a253",
-      "levelid": "custom_level_57ae2d6858edff2d77c500b89bd4c0625a64a253"
-    },
-    {
-      "key": "4dc62",
-      "songName": "Lost (XVA remix)",
-      "hash": "6c840f0c48677078b583231e39e83cd1b0780367",
-      "levelid": "custom_level_6c840f0c48677078b583231e39e83cd1b0780367"
-    },
-    {
-      "key": "4dc5b",
-      "songName": "Frank Helms - Kazoo man",
-      "hash": "8497d37e9a29f4d6e9248da7a6f169e4243195f0",
-      "levelid": "custom_level_8497d37e9a29f4d6e9248da7a6f169e4243195f0"
-    },
-    {
-      "key": "4dc54",
-      "songName": "Sunday Morning (TV Size)",
-      "hash": "6bb183c6bd8ad5dfa8dad93757f3077c1657f448",
-      "levelid": "custom_level_6bb183c6bd8ad5dfa8dad93757f3077c1657f448"
-    },
-    {
-      "key": "4dc53",
-      "songName": "The Ssyba",
-      "hash": "59f314e51c66eaffc9066f05ec9ef1da53989489",
-      "levelid": "custom_level_59f314e51c66eaffc9066f05ec9ef1da53989489"
-    },
-    {
-      "key": "4dc52",
-      "songName": "7038634357 - Perfect Night",
-      "hash": "e19ea3d384d509812c27a5877c64bd7212787ec3",
-      "levelid": "custom_level_e19ea3d384d509812c27a5877c64bd7212787ec3"
-    },
-    {
-      "key": "4dc51",
-      "songName": "Love To Death",
-      "hash": "eea8adac066904b784f92c3c7027153954ba3cab",
-      "levelid": "custom_level_eea8adac066904b784f92c3c7027153954ba3cab"
-    },
-    {
-      "key": "4dc4b",
-      "songName": "7038634357 - Eye Contact",
-      "hash": "d50e8191704d35984fc2799695b48e2da71dd56a",
-      "levelid": "custom_level_d50e8191704d35984fc2799695b48e2da71dd56a"
-    },
-    {
-      "key": "4dc47",
-      "songName": "4 Morant (Better Luck Next Time)",
-      "hash": "5b2f4f169a808fcff8559996185327ad54a6c328",
-      "levelid": "custom_level_5b2f4f169a808fcff8559996185327ad54a6c328"
-    },
-    {
-      "key": "4dc45",
-      "songName": "a delusional nuisance",
-      "hash": "cdf9557007acf8468db3f6b3081da1c4862a91f8",
-      "levelid": "custom_level_cdf9557007acf8468db3f6b3081da1c4862a91f8"
+      "key": "4dc8e",
+      "songName": "Saint Asonia - Devastate",
+      "hash": "ea56c8ed72e560d0ded061a37a5f344d393aff34",
+      "levelid": "custom_level_ea56c8ed72e560d0ded061a37a5f344d393aff34"
     }
   ],
   "image": ""
