@@ -1,304 +1,226 @@
 {
-  "playlistTitle": "2026-01-20T15:18:50.827Z~2026-01-21T15:18:50.827Z",
+  "playlistTitle": "2026-01-21T15:18:48.594Z~2026-01-22T15:18:48.594Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-01-20T15:18:50.827Z and 2026-01-21T15:18:50.827Z",
+  "discripstion": "Maps published between 2026-01-21T15:18:48.594Z and 2026-01-22T15:18:48.594Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4df09",
-      "songName": "Tri dnya dozhdya, Tosya Chaikina - Zemlya",
-      "hash": "fb14f998d00fa412519234e73ae9657b7102ba88",
-      "levelid": "custom_level_fb14f998d00fa412519234e73ae9657b7102ba88"
+      "key": "4dfe5",
+      "songName": "Ljusa Stjärnan",
+      "hash": "d421ff01a3ee9ee300de6d6bd4604336fabcc189",
+      "levelid": "custom_level_d421ff01a3ee9ee300de6d6bd4604336fabcc189"
     },
     {
-      "key": "4dfa5",
-      "songName": "Saint Asonia - Blinding Lights (V2)",
-      "hash": "2fcbe02b8fa5e8be0be89f983e1f5557040d6f3a",
-      "levelid": "custom_level_2fcbe02b8fa5e8be0be89f983e1f5557040d6f3a"
+      "key": "4dfe3",
+      "songName": "The Master II Blades Of Chaos",
+      "hash": "1cbae6d14c35bdd397896672bfec3434ccc6303f",
+      "levelid": "custom_level_1cbae6d14c35bdd397896672bfec3434ccc6303f"
     },
     {
-      "key": "4df95",
-      "songName": "邪魔はさせない (スレイヤーズNEXT ED)",
-      "hash": "108f72a3263169d290a2d66664f302ddd5bc67c8",
-      "levelid": "custom_level_108f72a3263169d290a2d66664f302ddd5bc67c8"
+      "key": "4dfe2",
+      "songName": "Goo Goo Ga Ga",
+      "hash": "85e9192ec4a7963b000dd689930ff349bc12046c",
+      "levelid": "custom_level_85e9192ec4a7963b000dd689930ff349bc12046c"
     },
     {
-      "key": "4df7b",
-      "songName": "Gaiyu - Asete",
-      "hash": "b89a406999b2587090a48ddb62d918bf526eb889",
-      "levelid": "custom_level_b89a406999b2587090a48ddb62d918bf526eb889"
+      "key": "4dfdf",
+      "songName": "kors k - The Wind of Gold",
+      "hash": "3c770d156d54363c9d9d2ce419afa71e52902885",
+      "levelid": "custom_level_3c770d156d54363c9d9d2ce419afa71e52902885"
     },
     {
-      "key": "4df82",
-      "songName": "【\"From Nought\"】Reku Mochizuki - Ark of Galaxies",
-      "hash": "2ed01ce72c097f939ae205a5b5070660a4b2964e",
-      "levelid": "custom_level_2ed01ce72c097f939ae205a5b5070660a4b2964e"
+      "key": "4dfde",
+      "songName": "Kao Nalika (Nine O' Clock)",
+      "hash": "24a6f1771bc1bc43d7c7eabf65ab36226b573396",
+      "levelid": "custom_level_24a6f1771bc1bc43d7c7eabf65ab36226b573396"
     },
     {
-      "key": "4df7f",
-      "songName": "You Weren't Meant to See That",
-      "hash": "1d92f9bf02a8bd53cbe622ad80514dc85c5935b3",
-      "levelid": "custom_level_1d92f9bf02a8bd53cbe622ad80514dc85c5935b3"
+      "key": "4dfdd",
+      "songName": "Just Kiddin/Camden Cox - Stay The Night",
+      "hash": "6a91966850b965609cb58dc54e1bbe0036b82d39",
+      "levelid": "custom_level_6a91966850b965609cb58dc54e1bbe0036b82d39"
     },
     {
-      "key": "4df7e",
-      "songName": "123 (the longest dream)",
-      "hash": "817121ddf5489b0f82e391aa33b831591c3033bc",
-      "levelid": "custom_level_817121ddf5489b0f82e391aa33b831591c3033bc"
+      "key": "4dfdc",
+      "songName": "Forever in 2006",
+      "hash": "aa9534fda232e4c56287d2ec3dad0eb3fdfe0294",
+      "levelid": "custom_level_aa9534fda232e4c56287d2ec3dad0eb3fdfe0294"
     },
     {
-      "key": "4df7d",
-      "songName": "mailkitty - gss",
-      "hash": "392526f6dbc01778bda0a2411c7c5405857a3413",
-      "levelid": "custom_level_392526f6dbc01778bda0a2411c7c5405857a3413"
+      "key": "4dfdb",
+      "songName": "Confess Your love",
+      "hash": "04f7f0ee546b05be2d208d3cdf83a693693004d1",
+      "levelid": "custom_level_04f7f0ee546b05be2d208d3cdf83a693693004d1"
     },
     {
-      "key": "4df7c",
-      "songName": "Falling In Reverse - Last Resort (Reimagined)",
-      "hash": "15521e7c0f8d486b07c006d2df68738edf7d2904",
-      "levelid": "custom_level_15521e7c0f8d486b07c006d2df68738edf7d2904"
+      "key": "4dfda",
+      "songName": "Brain Power (tpz JO-ooooooooooooverheat Remix)",
+      "hash": "22374d42d8bcfd441a4472c0130ac16d35ac55e7",
+      "levelid": "custom_level_22374d42d8bcfd441a4472c0130ac16d35ac55e7"
     },
     {
-      "key": "4df77",
-      "songName": "Hex Cougar - FANTASY",
-      "hash": "c3e5b13332ac4cac3dc663ad8ad8fea5635f27b3",
-      "levelid": "custom_level_c3e5b13332ac4cac3dc663ad8ad8fea5635f27b3"
+      "key": "4dfd9",
+      "songName": "Breeze (スレイヤーズTRY OP)",
+      "hash": "03abc0e51006f4ac6b79b4da7d1be58440c9e9dd",
+      "levelid": "custom_level_03abc0e51006f4ac6b79b4da7d1be58440c9e9dd"
     },
     {
-      "key": "4df75",
-      "songName": "Touqai - Change",
-      "hash": "88bea373512cfce05b33f0202e981dc4e2f2262e",
-      "levelid": "custom_level_88bea373512cfce05b33f0202e981dc4e2f2262e"
+      "key": "4dfd8",
+      "songName": "THE FASTEST LUST SONG",
+      "hash": "23b99bed0f288d9ab63b0faf84900cf1642cebd9",
+      "levelid": "custom_level_23b99bed0f288d9ab63b0faf84900cf1642cebd9"
     },
     {
-      "key": "4df74",
-      "songName": "GHOST+",
-      "hash": "98b3db1909973e2bbd4d04a87687ebbc68a28bdc",
-      "levelid": "custom_level_98b3db1909973e2bbd4d04a87687ebbc68a28bdc"
+      "key": "4dfd7",
+      "songName": "I Got Like Hella Money",
+      "hash": "aef7ec439a0d2edec513d18f1d5fe8af7f344924",
+      "levelid": "custom_level_aef7ec439a0d2edec513d18f1d5fe8af7f344924"
     },
     {
-      "key": "4df6f",
-      "songName": "Leon Lush- Views",
-      "hash": "8398a9447b451693fba32b8eb0d1825357a121dc",
-      "levelid": "custom_level_8398a9447b451693fba32b8eb0d1825357a121dc"
+      "key": "4dfd6",
+      "songName": "CLIFF EDGE - Endless Tears (feat. Nakamura Maiko)",
+      "hash": "5ffa03c4612b9c4f938e3c6eebabfdd2f6552320",
+      "levelid": "custom_level_5ffa03c4612b9c4f938e3c6eebabfdd2f6552320"
     },
     {
-      "key": "4df6e",
-      "songName": "Blue Zenith ",
-      "hash": "355ded27dc692d0d91091ce2cce3320468219745",
-      "levelid": "custom_level_355ded27dc692d0d91091ce2cce3320468219745"
+      "key": "4dfd5",
+      "songName": "青葱岁月",
+      "hash": "555263e42a97b7189320aa7553d18682e63e94fb",
+      "levelid": "custom_level_555263e42a97b7189320aa7553d18682e63e94fb"
     },
     {
-      "key": "4df6d",
-      "songName": "Weekend",
-      "hash": "f02e2bc26ca403663d57957d7c1119531b381924",
-      "levelid": "custom_level_f02e2bc26ca403663d57957d7c1119531b381924"
+      "key": "4dfd4",
+      "songName": "[Yoga Fitbeat + Lightshow] HOYO-MiX, Yang Lee, Hsiang Liu, Elim - Lullaby of the New Moon (I) : Somnias a Luna (Theme of Columbina from \"Genshin Impact\"))",
+      "hash": "6950b25c8dcf94abac2c34f4560507cb157b61d9",
+      "levelid": "custom_level_6950b25c8dcf94abac2c34f4560507cb157b61d9"
     },
     {
-      "key": "4df6b",
-      "songName": "try",
-      "hash": "bc7ad6c2d08f9d88145add19247460ccb7b7ef7a",
-      "levelid": "custom_level_bc7ad6c2d08f9d88145add19247460ccb7b7ef7a"
+      "key": "4dfd3",
+      "songName": "she got so mad",
+      "hash": "d9437df47491f1dc84a6120bbaf1ce8034556e75",
+      "levelid": "custom_level_d9437df47491f1dc84a6120bbaf1ce8034556e75"
     },
     {
-      "key": "4df68",
-      "songName": "Kwad Up - Kasper From The K",
-      "hash": "e0a46e9c0013fd43ca68f39843e28f1c40ca2143",
-      "levelid": "custom_level_e0a46e9c0013fd43ca68f39843e28f1c40ca2143"
+      "key": "4dfd1",
+      "songName": "Vampire - Olivia Rodrigo",
+      "hash": "d370f241b53c538066336ef1ea2190f955c3476a",
+      "levelid": "custom_level_d370f241b53c538066336ef1ea2190f955c3476a"
     },
     {
-      "key": "4df67",
-      "songName": "Liquid Stranger - Gunslinger (Bemah Flip)",
-      "hash": "754e8ff70ff342bce374db092ddf465a71da5ca9",
-      "levelid": "custom_level_754e8ff70ff342bce374db092ddf465a71da5ca9"
+      "key": "4dfd0",
+      "songName": "jetzt geht's los",
+      "hash": "9f96bda9948c632fea81b804678aa95296a97ab5",
+      "levelid": "custom_level_9f96bda9948c632fea81b804678aa95296a97ab5"
     },
     {
-      "key": "4df5f",
-      "songName": "Morbid - CyberKat S4V",
-      "hash": "e89593d16feb18c7a0f0d3cc6ea91c98be3f1075",
-      "levelid": "custom_level_e89593d16feb18c7a0f0d3cc6ea91c98be3f1075"
+      "key": "4dfcf",
+      "songName": "Best Drop of All Time",
+      "hash": "355e89f18f8458338d2ea381b1d6198c170c9835",
+      "levelid": "custom_level_355e89f18f8458338d2ea381b1d6198c170c9835"
     },
     {
-      "key": "4df5e",
-      "songName": "Glenn Leroi - SCP-079 song",
-      "hash": "39e8b90e3980aea12b75f1d0a291e38fb1f6f641",
-      "levelid": "custom_level_39e8b90e3980aea12b75f1d0a291e38fb1f6f641"
+      "key": "4dfce",
+      "songName": "Be careful! Vocaloid producer! - Chenomio",
+      "hash": "74cff44dd7bfccc8ea06089afe9d44f5480a7570",
+      "levelid": "custom_level_74cff44dd7bfccc8ea06089afe9d44f5480a7570"
     },
     {
-      "key": "4df5d",
-      "songName": "I FISH CAPITANO MOBY",
-      "hash": "66c9e1d18311d04cd13929811dcf98bc3581add8",
-      "levelid": "custom_level_66c9e1d18311d04cd13929811dcf98bc3581add8"
+      "key": "4dfc6",
+      "songName": "I'm a Lion Pizza Chicken - Yes King",
+      "hash": "429e974119afb58771ebb207e2590706e1ebc59f",
+      "levelid": "custom_level_429e974119afb58771ebb207e2590706e1ebc59f"
     },
     {
-      "key": "4df58",
-      "songName": "Stupid (Can't run from the urge) - underscores",
-      "hash": "4554cf02428df4851ee211e7de31eef6f61d9e20",
-      "levelid": "custom_level_4554cf02428df4851ee211e7de31eef6f61d9e20"
+      "key": "4dfc5",
+      "songName": "untitled",
+      "hash": "604d3cb7950a9fae166600098e59fcbd3495daea",
+      "levelid": "custom_level_604d3cb7950a9fae166600098e59fcbd3495daea"
     },
     {
-      "key": "4df57",
-      "songName": "Nekrogoblikon - Fiend",
-      "hash": "e912e310f5ac387c2db32d1ccc9714115088d088",
-      "levelid": "custom_level_e912e310f5ac387c2db32d1ccc9714115088d088"
+      "key": "4dfc4",
+      "songName": "THE ULTIMATE PALM-UP CHALLENGE",
+      "hash": "160b32900768d60509b7ef02848d80556b2f3104",
+      "levelid": "custom_level_160b32900768d60509b7ef02848d80556b2f3104"
     },
     {
-      "key": "4df49",
-      "songName": "Homage funk V2",
-      "hash": "09b3d3cb5692519abee0bef38a6670a738f662ee",
-      "levelid": "custom_level_09b3d3cb5692519abee0bef38a6670a738f662ee"
+      "key": "4dfc3",
+      "songName": "O_Zone - Dragostea Din Tei",
+      "hash": "a1a94e33eb20a9efe8d73b5ed33e0d73de3bda7a",
+      "levelid": "custom_level_a1a94e33eb20a9efe8d73b5ed33e0d73de3bda7a"
     },
     {
-      "key": "4df46",
-      "songName": "Healing",
-      "hash": "6d3b0b45d605beb65e052c47e9a7215f34f46090",
-      "levelid": "custom_level_6d3b0b45d605beb65e052c47e9a7215f34f46090"
+      "key": "4dfc2",
+      "songName": "FICKA - Sarah Connor",
+      "hash": "167b9d58324bb075f759093e988a1163ba40c6b0",
+      "levelid": "custom_level_167b9d58324bb075f759093e988a1163ba40c6b0"
     },
     {
-      "key": "4df45",
-      "songName": "Liekinheitin",
-      "hash": "e2dcf64d2f836cf76a9c5d9b0258049a92b4657c",
-      "levelid": "custom_level_e2dcf64d2f836cf76a9c5d9b0258049a92b4657c"
+      "key": "4dfbe",
+      "songName": "Christmas Public Enemy (Mokey's Show) - Sr Pelo",
+      "hash": "3edd2c46faae30e886801351e437bfd0b913331b",
+      "levelid": "custom_level_3edd2c46faae30e886801351e437bfd0b913331b"
     },
     {
-      "key": "4df44",
-      "songName": "Small Cuts",
-      "hash": "f91b4adf972416c2edc546497dcd65621cde9aef",
-      "levelid": "custom_level_f91b4adf972416c2edc546497dcd65621cde9aef"
+      "key": "4dfbd",
+      "songName": "SUPERPOWER - VALORANT (Feat. KISS OF LIFE & Mark Tuan) ",
+      "hash": "7d140a1c2bfe231ccf856aae5eca96215e831882",
+      "levelid": "custom_level_7d140a1c2bfe231ccf856aae5eca96215e831882"
     },
     {
-      "key": "4df42",
-      "songName": "My Love Mine All Mine - Mitski",
-      "hash": "b0b527ab7d805b4c4be6b4974dba9a2addf99602",
-      "levelid": "custom_level_b0b527ab7d805b4c4be6b4974dba9a2addf99602"
+      "key": "4dfbc",
+      "songName": "[Chroma] 2hollis - crush",
+      "hash": "e7f428eb718daa50371346f02d6b55c603b4e686",
+      "levelid": "custom_level_e7f428eb718daa50371346f02d6b55c603b4e686"
     },
     {
-      "key": "4df40",
-      "songName": "MY LAST TRACK OF 2010S IS A 1000 BPM SHITPOST",
-      "hash": "3ffc040d9473604ce70df49d54301716d2545936",
-      "levelid": "custom_level_3ffc040d9473604ce70df49d54301716d2545936"
+      "key": "4dfbb",
+      "songName": "Dumpster Fire - kmoe",
+      "hash": "483b7f8e7fbe5960d967b14cba2726659777bf6c",
+      "levelid": "custom_level_483b7f8e7fbe5960d967b14cba2726659777bf6c"
     },
     {
-      "key": "4df41",
-      "songName": "dark evil beat v2",
-      "hash": "083ca0649fae011fb0fa5fe9b8af59b598906c1e",
-      "levelid": "custom_level_083ca0649fae011fb0fa5fe9b8af59b598906c1e"
+      "key": "4dfb8",
+      "songName": "BUSTED",
+      "hash": "9f8cf6dc12d60e8717362153093da0976d42ac96",
+      "levelid": "custom_level_9f8cf6dc12d60e8717362153093da0976d42ac96"
     },
     {
-      "key": "4df3e",
-      "songName": "Syncing like machines",
-      "hash": "d026f2f8273acd435323eb2cf3f405c01488d04a",
-      "levelid": "custom_level_d026f2f8273acd435323eb2cf3f405c01488d04a"
+      "key": "4dfb7",
+      "songName": "We Are Charlie Kirk - Agartha Hardstyle Remix",
+      "hash": "a716b7683710af999f79772732d6f5e9a3b1cbaa",
+      "levelid": "custom_level_a716b7683710af999f79772732d6f5e9a3b1cbaa"
     },
     {
-      "key": "4df11",
-      "songName": "Grant - High Enough (feat. Will Jay)",
-      "hash": "61e494b2a4c4bd270939e8b55322c1a4ddff23f9",
-      "levelid": "custom_level_61e494b2a4c4bd270939e8b55322c1a4ddff23f9"
+      "key": "4dfb6",
+      "songName": "Bro is DIDY Blud (Sigma Version)",
+      "hash": "346d16f111c301e77f5ba43d1b01ce2de4d67b6b",
+      "levelid": "custom_level_346d16f111c301e77f5ba43d1b01ce2de4d67b6b"
     },
     {
-      "key": "4df3c",
-      "songName": "gopgopgop",
-      "hash": "42a3e8e27d9d4d4fd3be89cc5abdb20b2930e1ca",
-      "levelid": "custom_level_42a3e8e27d9d4d4fd3be89cc5abdb20b2930e1ca"
+      "key": "4dfb5",
+      "songName": "Cranking WHAT!?",
+      "hash": "fe37585b9f6f76e8757f160114c3ec697d767bee",
+      "levelid": "custom_level_fe37585b9f6f76e8757f160114c3ec697d767bee"
     },
     {
-      "key": "4df39",
-      "songName": "HAARPER - BORN FROM THE DIRT",
-      "hash": "33566c017ab668d5372e92dd4173dac2af31902a",
-      "levelid": "custom_level_33566c017ab668d5372e92dd4173dac2af31902a"
+      "key": "4dfae",
+      "songName": "Nightcall - Kavinsky",
+      "hash": "11290b8b0cb503e91b40388ca2cf66652994efe9",
+      "levelid": "custom_level_11290b8b0cb503e91b40388ca2cf66652994efe9"
     },
     {
-      "key": "4df38",
-      "songName": "DeathbyRomy - Little Dreamer ",
-      "hash": "e3dfaeeb21c1e67be8b950249ebd33608f0af022",
-      "levelid": "custom_level_e3dfaeeb21c1e67be8b950249ebd33608f0af022"
+      "key": "4dfac",
+      "songName": "Wilbert Roget- II - Super Earth National Anthem | Helldivers 2 ",
+      "hash": "b6d3e49a0050ec7d76845845b0d87cfe0be658c1",
+      "levelid": "custom_level_b6d3e49a0050ec7d76845845b0d87cfe0be658c1"
     },
     {
-      "key": "4df35",
-      "songName": "Staff Roll - Koji Kondo [Super Mario 64]",
-      "hash": "7c7c73678fc11f1e062fa732317ec163702b6204",
-      "levelid": "custom_level_7c7c73678fc11f1e062fa732317ec163702b6204"
-    },
-    {
-      "key": "4df34",
-      "songName": "Metal Mario - Koji Kondo [Super Mario 64]",
-      "hash": "53ace63367876d4c18a481b784580a0b96c1fcff",
-      "levelid": "custom_level_53ace63367876d4c18a481b784580a0b96c1fcff"
-    },
-    {
-      "key": "4df33",
-      "songName": "Powerful Mario - Koji Kondo [Super Mario 64]",
-      "hash": "1e61467b0181e139d704db937d650d2d583fb4f0",
-      "levelid": "custom_level_1e61467b0181e139d704db937d650d2d583fb4f0"
-    },
-    {
-      "key": "4df2c",
-      "songName": "Bowser's Road - Koji Kondo [Super Mario 64]",
-      "hash": "270f3573f3d060ae31745005da60817f1516e642",
-      "levelid": "custom_level_270f3573f3d060ae31745005da60817f1516e642"
-    },
-    {
-      "key": "4df2b",
-      "songName": "Cool, Cool Mountain - Koji Kondo [Super Mario 64]",
-      "hash": "db5af88a1394e1e0df6cd7ca6c04e869b973d810",
-      "levelid": "custom_level_db5af88a1394e1e0df6cd7ca6c04e869b973d810"
-    },
-    {
-      "key": "4df28",
-      "songName": "Slider - Koji Kondo [Super Mario 64]",
-      "hash": "f23e33855d8ef307ed4f7a575c53d7132b326289",
-      "levelid": "custom_level_f23e33855d8ef307ed4f7a575c53d7132b326289"
-    },
-    {
-      "key": "4df26",
-      "songName": "Peach's Castle - Koji Kondo [Super Mario 64]",
-      "hash": "2f2a755197b295b471459ec362c56af1c86132d3",
-      "levelid": "custom_level_2f2a755197b295b471459ec362c56af1c86132d3"
-    },
-    {
-      "key": "4df31",
-      "songName": "Bowser's Theme - Koji Kondo [Super Mario 64]",
-      "hash": "f368cbe51d945c6af14245a492ddf1aee984ad6f",
-      "levelid": "custom_level_f368cbe51d945c6af14245a492ddf1aee984ad6f"
-    },
-    {
-      "key": "4df27",
-      "songName": "Main Theme - Koji Kondo [Super Mario 64]",
-      "hash": "3019cbb58236c34c6f9f7b3989c0fcddaaa5efa8",
-      "levelid": "custom_level_3019cbb58236c34c6f9f7b3989c0fcddaaa5efa8"
-    },
-    {
-      "key": "4df29",
-      "songName": "Piranha Plant's Lullaby - Koji Kondo [Super Mario 64] [Poodles]",
-      "hash": "eff967f057f376cea9cc2b8111d94008fb75b882",
-      "levelid": "custom_level_eff967f057f376cea9cc2b8111d94008fb75b882"
-    },
-    {
-      "key": "4df25",
-      "songName": "Opening - Koji Kondo [Super Mario 64]",
-      "hash": "11450644cc5c54b29b98293b95486ee7f9c083a3",
-      "levelid": "custom_level_11450644cc5c54b29b98293b95486ee7f9c083a3"
-    },
-    {
-      "key": "4df2a",
-      "songName": "Dire, Dire Docks - Koji Kondo [Super Mario 64]",
-      "hash": "d083ee22662e147d3c640300d412a5115c57c7c9",
-      "levelid": "custom_level_d083ee22662e147d3c640300d412a5115c57c7c9"
-    },
-    {
-      "key": "4df24",
-      "songName": "File Select - Koji Kondo [Super Mario 64]",
-      "hash": "5ad4e2836ff7b9019f072893bea32acba7e7ac69",
-      "levelid": "custom_level_5ad4e2836ff7b9019f072893bea32acba7e7ac69"
-    },
-    {
-      "key": "4de3b",
-      "songName": "シアンブルー feat. Miku - Police Piccadilly",
-      "hash": "22db255160366f29e275c2700f470b3c8592bb6a",
-      "levelid": "custom_level_22db255160366f29e275c2700f470b3c8592bb6a"
+      "key": "4dfab",
+      "songName": "(Pre-Minute Madness Season 2) DUCKBOY - my love life needs a lobotomy",
+      "hash": "6c074ffa35821375a39038769c5951c4e6aeaa21",
+      "levelid": "custom_level_6c074ffa35821375a39038769c5951c4e6aeaa21"
     }
   ],
   "image": ""
