@@ -1,214 +1,286 @@
 {
-  "playlistTitle": "2026-01-22T15:18:48.352Z~2026-01-23T15:18:48.352Z",
+  "playlistTitle": "2026-01-23T15:18:49.201Z~2026-01-24T15:18:49.201Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-01-22T15:18:48.352Z and 2026-01-23T15:18:48.352Z",
+  "discripstion": "Maps published between 2026-01-23T15:18:49.201Z and 2026-01-24T15:18:49.201Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4e07b",
-      "songName": "Re Call",
-      "hash": "1798127dd92c1118a2536a058373937643674afc",
-      "levelid": "custom_level_1798127dd92c1118a2536a058373937643674afc"
+      "key": "4e101",
+      "songName": "S3RL - I'll See You Again",
+      "hash": "cd07ffd7ab8e9e49d6995a23372af72c37ec73bf",
+      "levelid": "custom_level_cd07ffd7ab8e9e49d6995a23372af72c37ec73bf"
     },
     {
-      "key": "4e07d",
-      "songName": "Nightcore - Start Again (Kujah) ",
-      "hash": "023c2643d006efea3a4fa3b2097748cfa4d90dc7",
-      "levelid": "custom_level_023c2643d006efea3a4fa3b2097748cfa4d90dc7"
+      "key": "4e0cf",
+      "songName": "[Arcaea Pack] Seatrus - Dual Dependency",
+      "hash": "0e713f4c1aa76446fa54ddcfc078dffaa3defa55",
+      "levelid": "custom_level_0e713f4c1aa76446fa54ddcfc078dffaa3defa55"
     },
     {
-      "key": "4e078",
-      "songName": "imperial berid - fadidy",
-      "hash": "d08a22186409a7b40a5d1f771a9b93d5ffa0c399",
-      "levelid": "custom_level_d08a22186409a7b40a5d1f771a9b93d5ffa0c399"
+      "key": "4e0fc",
+      "songName": "Once Upon a Dream (Project SEKAI ver.)",
+      "hash": "09109c49bb8eabb6da125cf482100c39609489d9",
+      "levelid": "custom_level_09109c49bb8eabb6da125cf482100c39609489d9"
     },
     {
-      "key": "4e075",
-      "songName": "Lil Darkie - LIL DARKIE (LIT ASS EDIT)",
-      "hash": "4489ce8cf60b6d17abec0c73741741a13934bdce",
-      "levelid": "custom_level_4489ce8cf60b6d17abec0c73741741a13934bdce"
+      "key": "4e0fb",
+      "songName": "鬼ごっこ feat.洛天依-春野",
+      "hash": "b4746c355101cfdf06f5aa264fbe7c396a773302",
+      "levelid": "custom_level_b4746c355101cfdf06f5aa264fbe7c396a773302"
     },
     {
-      "key": "4e074",
-      "songName": "this tds event sucks nuts. its the same as the last one",
-      "hash": "754481d6dc1b648a778ce8cafb0bfabe5f1794aa",
-      "levelid": "custom_level_754481d6dc1b648a778ce8cafb0bfabe5f1794aa"
+      "key": "4d044",
+      "songName": "Mitsukiyo - Unwelcome School (Aiobahn +81 Remix) Melody Edit",
+      "hash": "077fe21a013b3f0c5c7f031c8e7a6a8c518ee792",
+      "levelid": "custom_level_077fe21a013b3f0c5c7f031c8e7a6a8c518ee792"
     },
     {
-      "key": "4d8ca",
-      "songName": "GTS Sound Team - 《wrd.colliders》 ~Chaos in Conclusion~",
-      "hash": "f4783ceca8a7014b003195dffc05298a07291ab8",
-      "levelid": "custom_level_f4783ceca8a7014b003195dffc05298a07291ab8"
+      "key": "4e0f7",
+      "songName": "Palos",
+      "hash": "63e896acb1fd748a6c4c62e4f2e270c54e0dd47f",
+      "levelid": "custom_level_63e896acb1fd748a6c4c62e4f2e270c54e0dd47f"
     },
     {
-      "key": "4e073",
-      "songName": "whythink abou2 me lol",
-      "hash": "fe21736c4c5874691ea73655cb3492f9da5da74c",
-      "levelid": "custom_level_fe21736c4c5874691ea73655cb3492f9da5da74c"
+      "key": "4e0f4",
+      "songName": "Plenty of grit (スレイヤーズREVOLUTION OP)",
+      "hash": "eb3dc4ae5dc8e6f95ad77c768c4e8a8d235ac2f5",
+      "levelid": "custom_level_eb3dc4ae5dc8e6f95ad77c768c4e8a8d235ac2f5"
     },
     {
-      "key": "4e06c",
-      "songName": "Trick Heart",
-      "hash": "40988698ee8cc91fbd7757893dea73c63b6724f9",
-      "levelid": "custom_level_40988698ee8cc91fbd7757893dea73c63b6724f9"
+      "key": "4e0f3",
+      "songName": "Crushed!! by Aloboi",
+      "hash": "d2afac386e307a68441c7d9e3b719e49ebc514ea",
+      "levelid": "custom_level_d2afac386e307a68441c7d9e3b719e49ebc514ea"
     },
     {
-      "key": "4e064",
-      "songName": "don't be discouraged (スレイヤーズTRY ED)",
-      "hash": "1121edc2c37d37520daf174485d5c18cb3c1b397",
-      "levelid": "custom_level_1121edc2c37d37520daf174485d5c18cb3c1b397"
+      "key": "4e0f0",
+      "songName": "lunarr - 4u",
+      "hash": "2f4c3f8a64575e13ff823631df5dc8f9f982db48",
+      "levelid": "custom_level_2f4c3f8a64575e13ff823631df5dc8f9f982db48"
     },
     {
-      "key": "4e05c",
-      "songName": " If YouTube Serves You This Song, You're Iconic",
-      "hash": "a9c4eb650e7ad888ac24a52523c0d3cf2798267e",
-      "levelid": "custom_level_a9c4eb650e7ad888ac24a52523c0d3cf2798267e"
+      "key": "4e0ef",
+      "songName": "d3r - problems",
+      "hash": "d1bd63953896ffafa2b3d26f92ee0d7dc3f83201",
+      "levelid": "custom_level_d1bd63953896ffafa2b3d26f92ee0d7dc3f83201"
     },
     {
-      "key": "4e05e",
-      "songName": "Superhuman - Nicholas Hennink",
-      "hash": "235fd0ba274dc96a15d7d81884a9b86acc474654",
-      "levelid": "custom_level_235fd0ba274dc96a15d7d81884a9b86acc474654"
+      "key": "4e0ee",
+      "songName": "FANCY - xclout",
+      "hash": "91644f8e837ca98b0cbbe6d074a977bc9f4d2fbd",
+      "levelid": "custom_level_91644f8e837ca98b0cbbe6d074a977bc9f4d2fbd"
     },
     {
-      "key": "4e028",
-      "songName": "MONTAGEM VOZES TALENTINHO - heapper",
-      "hash": "f2425b1cd332e9839b2a0029a83c7c24bc9f188d",
-      "levelid": "custom_level_f2425b1cd332e9839b2a0029a83c7c24bc9f188d"
+      "key": "4e0ed",
+      "songName": "2504 - diva",
+      "hash": "999e6918f59c5d5f1325b18cfb1f4127f49ede4d",
+      "levelid": "custom_level_999e6918f59c5d5f1325b18cfb1f4127f49ede4d"
     },
     {
-      "key": "4e025",
-      "songName": "lovebird",
-      "hash": "2d7ad5882ebf6fb4e35ff1a7f037179a834edd94",
-      "levelid": "custom_level_2d7ad5882ebf6fb4e35ff1a7f037179a834edd94"
+      "key": "4e0eb",
+      "songName": "skeletons",
+      "hash": "ce99111d63b04751ba5624b50041acb49e0749f6",
+      "levelid": "custom_level_ce99111d63b04751ba5624b50041acb49e0749f6"
     },
     {
-      "key": "4e023",
-      "songName": "The Final Strategy",
-      "hash": "5b0020cab32b7f74a9f87a71b9fabf95de9262be",
-      "levelid": "custom_level_5b0020cab32b7f74a9f87a71b9fabf95de9262be"
+      "key": "4e0e9",
+      "songName": "Italobrothers - My Life Is a Party",
+      "hash": "5a885a893111f3d8d0134aa34fde84056376a977",
+      "levelid": "custom_level_5a885a893111f3d8d0134aa34fde84056376a977"
     },
     {
-      "key": "4e022",
-      "songName": "Like A Stone - Audioslave",
-      "hash": "6fcd6fea2200d4beb317006b05cbe584bcdc3e88",
-      "levelid": "custom_level_6fcd6fea2200d4beb317006b05cbe584bcdc3e88"
+      "key": "4e0e8",
+      "songName": "YNW Melly-Mama Cry  (Pauls)",
+      "hash": "3999c79214c9ece0e3b8aab6ca2e277f1a291a62",
+      "levelid": "custom_level_3999c79214c9ece0e3b8aab6ca2e277f1a291a62"
     },
     {
-      "key": "4e01e",
-      "songName": "Updog - Taking a stand",
-      "hash": "2ec984a61b64c5aab8738b643e082e71b9ba7a93",
-      "levelid": "custom_level_2ec984a61b64c5aab8738b643e082e71b9ba7a93"
+      "key": "4e0e6",
+      "songName": "All Around the World - Raze",
+      "hash": "a18d88aed318199263dfce6fde2a1856fce2e142",
+      "levelid": "custom_level_a18d88aed318199263dfce6fde2a1856fce2e142"
     },
     {
-      "key": "4e01d",
-      "songName": "Last Christmas (Nightcore + BUFFED)",
-      "hash": "ee5f5ef7869dcd2c4c93bad12dc6284c4b755a3d",
-      "levelid": "custom_level_ee5f5ef7869dcd2c4c93bad12dc6284c4b755a3d"
+      "key": "4e0e5",
+      "songName": "Hip Hop Shaking",
+      "hash": "5990eeb1409a6f4ce3a66e58b3df23976446fab7",
+      "levelid": "custom_level_5990eeb1409a6f4ce3a66e58b3df23976446fab7"
     },
     {
-      "key": "4e01a",
-      "songName": "tornado of souls - megadeth",
-      "hash": "d3c3f80f2017e3eeddbf04b5de45c85aff41f52e",
-      "levelid": "custom_level_d3c3f80f2017e3eeddbf04b5de45c85aff41f52e"
+      "key": "4dd73",
+      "songName": "Geoxor - Lost",
+      "hash": "b7c99485d0100e5e9817cdde68627347173d3323",
+      "levelid": "custom_level_b7c99485d0100e5e9817cdde68627347173d3323"
     },
     {
-      "key": "4e00e",
-      "songName": " Xylock - Devil's Music (Project DSF Remix)",
-      "hash": "8dadd5a3e5a18ad4c0dd517e36f1bd5a79562d0c",
-      "levelid": "custom_level_8dadd5a3e5a18ad4c0dd517e36f1bd5a79562d0c"
+      "key": "4e0e1",
+      "songName": "XG - HYPNOTIZE",
+      "hash": "37a1693bad0bc7f75d2602029bded6e6bd0b73c9",
+      "levelid": "custom_level_37a1693bad0bc7f75d2602029bded6e6bd0b73c9"
     },
     {
-      "key": "4e00c",
-      "songName": "Mind Vortex - Alive (Radio Edit)",
-      "hash": "2a6acb4a2c85a2a78f8cd1a1a36c8ec2f8cc39c0",
-      "levelid": "custom_level_2a6acb4a2c85a2a78f8cd1a1a36c8ec2f8cc39c0"
+      "key": "4e0e0",
+      "songName": "LEE CHAE YEON - LET'S DANCE",
+      "hash": "de635dfab1dcf047bdb73f274df1e7bb312655d3",
+      "levelid": "custom_level_de635dfab1dcf047bdb73f274df1e7bb312655d3"
     },
     {
-      "key": "4e00b",
-      "songName": "Grafix - We're On Fire",
-      "hash": "af4f62c7a9ae8e49b682b51fa17de6aa2ab176b7",
-      "levelid": "custom_level_af4f62c7a9ae8e49b682b51fa17de6aa2ab176b7"
+      "key": "4e0df",
+      "songName": "EVERYBODY DIES IN THEIR NIGHTMARES",
+      "hash": "022d39eb2dc9318f81b19c5f2b50db55162a51cc",
+      "levelid": "custom_level_022d39eb2dc9318f81b19c5f2b50db55162a51cc"
     },
     {
-      "key": "4e00a",
-      "songName": "Simply Dewey - Jaded",
-      "hash": "93951ecbd8d372780e7effe9c22438c827c8293e",
-      "levelid": "custom_level_93951ecbd8d372780e7effe9c22438c827c8293e"
+      "key": "4e0d9",
+      "songName": "Last Of A Dying Breed",
+      "hash": "5660d7324d1d43f7eae1ce9d56d24a608feb6e4c",
+      "levelid": "custom_level_5660d7324d1d43f7eae1ce9d56d24a608feb6e4c"
     },
     {
-      "key": "4e007",
-      "songName": "Booty v9",
-      "hash": "00964e4f9940c89af2c5f03f5a4b6f6c0e1cff59",
-      "levelid": "custom_level_00964e4f9940c89af2c5f03f5a4b6f6c0e1cff59"
+      "key": "4e0d8",
+      "songName": "underscores - Stupid (Can't run from the urge)",
+      "hash": "6212b257af5c45a338a8e3cfc137b1a734ab14d4",
+      "levelid": "custom_level_6212b257af5c45a338a8e3cfc137b1a734ab14d4"
     },
     {
-      "key": "4e004",
-      "songName": "you gotta hittem with the BREUGH remade",
-      "hash": "1d7352f4740a7b0b81b2e0fd6c3148e422821e26",
-      "levelid": "custom_level_1d7352f4740a7b0b81b2e0fd6c3148e422821e26"
+      "key": "4e0ce",
+      "songName": "helen keller",
+      "hash": "54038c35a8d2daa26d05fd7c4aec79323d5f1980",
+      "levelid": "custom_level_54038c35a8d2daa26d05fd7c4aec79323d5f1980"
     },
     {
-      "key": "4e003",
-      "songName": "Dance like",
-      "hash": "13595689348ec03fa3c89bae43504e52936e2e5d",
-      "levelid": "custom_level_13595689348ec03fa3c89bae43504e52936e2e5d"
+      "key": "4e0cd",
+      "songName": "All the things she said [Radio Remix]",
+      "hash": "129c011773787cad42e5c7cb3a02e67f2c6a1beb",
+      "levelid": "custom_level_129c011773787cad42e5c7cb3a02e67f2c6a1beb"
     },
     {
-      "key": "4e002",
-      "songName": "64bit 32bit 16bit 8bit 4bit 2bit 1bit but remixed by Camellia REMAKE",
-      "hash": "d809e98f54cf7961ee1ee89ead65c002375b0d37",
-      "levelid": "custom_level_d809e98f54cf7961ee1ee89ead65c002375b0d37"
+      "key": "4e0cc",
+      "songName": "the war II",
+      "hash": "167a98dc3a943f17fb08a7042831564906ad4bc3",
+      "levelid": "custom_level_167a98dc3a943f17fb08a7042831564906ad4bc3"
     },
     {
-      "key": "4e001",
-      "songName": "BENT",
-      "hash": "db3a98d1aba30a863565764877d9d1988112db1f",
-      "levelid": "custom_level_db3a98d1aba30a863565764877d9d1988112db1f"
+      "key": "4e0cb",
+      "songName": "t+pazolite - Freedom Dive (Overcute Remix)",
+      "hash": "bd1414a9eda7582abd877fd24a037e4252c7d031",
+      "levelid": "custom_level_bd1414a9eda7582abd877fd24a037e4252c7d031"
     },
     {
-      "key": "4e000",
-      "songName": "Stronger - Kanye West",
-      "hash": "dfaa651a8745eef220a76c48f5acdbcdb74f799c",
-      "levelid": "custom_level_dfaa651a8745eef220a76c48f5acdbcdb74f799c"
+      "key": "4e0c4",
+      "songName": "Gnaw - Alex G",
+      "hash": "d1dc5a31bcb367095489b70dab455aab458633ae",
+      "levelid": "custom_level_d1dc5a31bcb367095489b70dab455aab458633ae"
     },
     {
-      "key": "4dfff",
-      "songName": "Beautiful Day - Nightcore",
-      "hash": "c43d9315a9d08307720edfc9c4c91507a6f18a0f",
-      "levelid": "custom_level_c43d9315a9d08307720edfc9c4c91507a6f18a0f"
+      "key": "4e0c2",
+      "songName": "[XGP] Token - KNOT (VNJS)",
+      "hash": "506fe41dfce717dd1986b3d35f8472ed441fd2c9",
+      "levelid": "custom_level_506fe41dfce717dd1986b3d35f8472ed441fd2c9"
     },
     {
-      "key": "4dffe",
-      "songName": "Timeless",
-      "hash": "ff0a84aaf3523407d7b1176869c51b4876eb5866",
-      "levelid": "custom_level_ff0a84aaf3523407d7b1176869c51b4876eb5866"
+      "key": "4e0c1",
+      "songName": "Black Catcher",
+      "hash": "f77cc126c497608da4e692195d3320d309a1e7f0",
+      "levelid": "custom_level_f77cc126c497608da4e692195d3320d309a1e7f0"
     },
     {
-      "key": "4dffc",
-      "songName": "Alohaii - Pearl (feat. Shiki Miyoshino) {S}",
-      "hash": "6f57a767df664a6358cb43cb67e3aacf44f8cb19",
-      "levelid": "custom_level_6f57a767df664a6358cb43cb67e3aacf44f8cb19"
+      "key": "4e0bd",
+      "songName": "Follow You Into The Dark - RAKEL",
+      "hash": "c7034bc0a049192218a3e1963f29e6df423c813e",
+      "levelid": "custom_level_c7034bc0a049192218a3e1963f29e6df423c813e"
     },
     {
-      "key": "4dfee",
-      "songName": "TRⅢDiM3NXi0NaL",
-      "hash": "25ce24699db573a670f05badc7d77d73ab86377c",
-      "levelid": "custom_level_25ce24699db573a670f05badc7d77d73ab86377c"
+      "key": "4e0c0",
+      "songName": "All the things she said [Radio Remix]",
+      "hash": "0be4b2534edd92807a684b0a47207374e1f55f30",
+      "levelid": "custom_level_0be4b2534edd92807a684b0a47207374e1f55f30"
     },
     {
-      "key": "4dfe7",
-      "songName": "Sophie Powers - muddy",
-      "hash": "897e6b6d134bfd82e6e5aa28e37321d7db334ac4",
-      "levelid": "custom_level_897e6b6d134bfd82e6e5aa28e37321d7db334ac4"
+      "key": "4e0b9",
+      "songName": "HIGHS AND LOWS",
+      "hash": "bbcc7848ace619745defa6a836f0af40b1328bc0",
+      "levelid": "custom_level_bbcc7848ace619745defa6a836f0af40b1328bc0"
     },
     {
-      "key": "4dfe6",
-      "songName": "Sakura/MKG2",
-      "hash": "f35425f9803bda0d56d5c659c04b8ae8478804d7",
-      "levelid": "custom_level_f35425f9803bda0d56d5c659c04b8ae8478804d7"
+      "key": "4e0b6",
+      "songName": "[Visual] Knife Party - Bonfire",
+      "hash": "ff4f99f84f42404f77ccafc2ff512ae21dee1920",
+      "levelid": "custom_level_ff4f99f84f42404f77ccafc2ff512ae21dee1920"
+    },
+    {
+      "key": "4e0b5",
+      "songName": "SPINNING",
+      "hash": "28e99fab82035a79c40f5f8a2fa52efb05828bda",
+      "levelid": "custom_level_28e99fab82035a79c40f5f8a2fa52efb05828bda"
+    },
+    {
+      "key": "4e0aa",
+      "songName": "one kiss - calvin harris, dua lipa [edit audio]",
+      "hash": "d01508707f0ee9097f712571992796f28e9403e4",
+      "levelid": "custom_level_d01508707f0ee9097f712571992796f28e9403e4"
+    },
+    {
+      "key": "4e0a2",
+      "songName": "WE GO UP - BABYMONSTER",
+      "hash": "afc6678be54da3b2321679afca0623aeac4e90d8",
+      "levelid": "custom_level_afc6678be54da3b2321679afca0623aeac4e90d8"
+    },
+    {
+      "key": "4e076",
+      "songName": "Take Me Home - Cash Cash ft. Bebe Rexha (Chroma+)",
+      "hash": "c7ca21ef8ae158cae81f5733c826b41cc708cb35",
+      "levelid": "custom_level_c7ca21ef8ae158cae81f5733c826b41cc708cb35"
+    },
+    {
+      "key": "4e092",
+      "songName": "ROSÉ - drinks or coffee",
+      "hash": "a0942ab07175a20906f1f7bf5d53a4a04f19e315",
+      "levelid": "custom_level_a0942ab07175a20906f1f7bf5d53a4a04f19e315"
+    },
+    {
+      "key": "4e089",
+      "songName": "Christopher Larkin - Enter Pharloom (Hollow Knight: Silksong OST)",
+      "hash": "83e85b30e28c6a4cdf7f62f8c0e64ea67b8c87e9",
+      "levelid": "custom_level_83e85b30e28c6a4cdf7f62f8c0e64ea67b8c87e9"
+    },
+    {
+      "key": "4e086",
+      "songName": "Onis Keyboard",
+      "hash": "80f60e3d2d81b3ee11f2cd271d293c2aa741240b",
+      "levelid": "custom_level_80f60e3d2d81b3ee11f2cd271d293c2aa741240b"
+    },
+    {
+      "key": "4de1a",
+      "songName": "Tamon's B-Side Ending - Hana to Yume | F/ACE",
+      "hash": "971ed69f4eba8dddab41c4c1f45055c273702e9c",
+      "levelid": "custom_level_971ed69f4eba8dddab41c4c1f45055c273702e9c"
+    },
+    {
+      "key": "4e081",
+      "songName": "DeathbyRomy - City Of Angels",
+      "hash": "88c587869d87cb33c1a154236a3510a2b716800a",
+      "levelid": "custom_level_88c587869d87cb33c1a154236a3510a2b716800a"
+    },
+    {
+      "key": "4dcce",
+      "songName": "Tamon's B-side Opening - Sweet Magic | F/ACE",
+      "hash": "fc5cdee9cb9d66c502167a2f6a4aa27a6418193e",
+      "levelid": "custom_level_fc5cdee9cb9d66c502167a2f6a4aa27a6418193e"
+    },
+    {
+      "key": "4e080",
+      "songName": "「Zzz」_ReDreaming Angel_ - Angels of Delusion EP _ Zenless Zone Zero",
+      "hash": "f43274b8213d93fcd385d314bad9472f79eecf2b",
+      "levelid": "custom_level_f43274b8213d93fcd385d314bad9472f79eecf2b"
+    },
+    {
+      "key": "4e07e",
+      "songName": "Lululai",
+      "hash": "479ed842d946b16822b692b95d31b09a18964d76",
+      "levelid": "custom_level_479ed842d946b16822b692b95d31b09a18964d76"
     }
   ],
   "image": ""
