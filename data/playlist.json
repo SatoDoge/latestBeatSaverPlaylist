@@ -1,166 +1,328 @@
 {
-  "playlistTitle": "2026-01-29T15:18:51.646Z~2026-01-30T15:18:51.646Z",
+  "playlistTitle": "2026-01-30T15:18:48.423Z~2026-01-31T15:18:48.423Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-01-29T15:18:51.646Z and 2026-01-30T15:18:51.646Z",
+  "discripstion": "Maps published between 2026-01-30T15:18:48.423Z and 2026-01-31T15:18:48.423Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "4e4d2",
+      "songName": "爆ラブ+ケミストリー/bakulove+chemistry",
+      "hash": "f7a9c4a7c59ebc9c4dd6c4c60508c247f52f2cb0",
+      "levelid": "custom_level_f7a9c4a7c59ebc9c4dd6c4c60508c247f52f2cb0"
+    },
+    {
+      "key": "4e4d1",
+      "songName": "Polycystic Kidney Disease",
+      "hash": "7e342107afd7d12835e321cc2cfa54ae32b6c840",
+      "levelid": "custom_level_7e342107afd7d12835e321cc2cfa54ae32b6c840"
+    },
+    {
+      "key": "4e4cf",
+      "songName": "Optimizinstinkizinglonponlinyfied Redemtion",
+      "hash": "29379add42af7f5eda872475ad00e1bb49b31e2b",
+      "levelid": "custom_level_29379add42af7f5eda872475ad00e1bb49b31e2b"
+    },
+    {
+      "key": "4e4cd",
+      "songName": "Hydra Bomblistical Chunkified Growing Virus Tumor",
+      "hash": "9ed6b19dec0be571fcb92462f0c85573172319e9",
+      "levelid": "custom_level_9ed6b19dec0be571fcb92462f0c85573172319e9"
+    },
+    {
+      "key": "4e4cc",
+      "songName": "dr pepper baby",
+      "hash": "6120d6929fda4b50da4df30aaa350ba2d2236b50",
+      "levelid": "custom_level_6120d6929fda4b50da4df30aaa350ba2d2236b50"
+    },
+    {
+      "key": "4e4c8",
+      "songName": "Pomipomi - Sparkle Exeeeyy!",
+      "hash": "9084ee45703db46f5d1e9fb9bf898dc5f0f3dfdd",
+      "levelid": "custom_level_9084ee45703db46f5d1e9fb9bf898dc5f0f3dfdd"
+    },
+    {
+      "key": "4e4be",
+      "songName": "キライになれない (魔法騎士レイアース OP2)",
+      "hash": "b7bc04aa2ac1cd1e9430434f059d5d40113e056e",
+      "levelid": "custom_level_b7bc04aa2ac1cd1e9430434f059d5d40113e056e"
+    },
+    {
+      "key": "4e2a1",
+      "songName": "玩具協奏曲-終焉-",
+      "hash": "3ed2f0d8fe1beb694ff2eaca3d1d73cb71fc1c7d",
+      "levelid": "custom_level_3ed2f0d8fe1beb694ff2eaca3d1d73cb71fc1c7d"
+    },
+    {
+      "key": "4e4bd",
+      "songName": "6arelyhuman - Faster N Harder",
+      "hash": "65dbba023dd866c388744b1b054113647b78ff77",
+      "levelid": "custom_level_65dbba023dd866c388744b1b054113647b78ff77"
+    },
+    {
+      "key": "4e4ba",
+      "songName": "pattern butter jelly test - pattern test",
+      "hash": "eef7ee8946b15c4f5129ad0f1ca3b8f8e0f842c5",
+      "levelid": "custom_level_eef7ee8946b15c4f5129ad0f1ca3b8f8e0f842c5"
+    },
+    {
+      "key": "4e4b3",
+      "songName": "Soulja Boy",
+      "hash": "baa7a6e8f11236741614efbd9c82c16cb1266731",
+      "levelid": "custom_level_baa7a6e8f11236741614efbd9c82c16cb1266731"
+    },
+    {
+      "key": "4e4b1",
+      "songName": "Shout and Feel It [Swing Kids Movie Soundtrack] - Count Basie",
+      "hash": "d20e8c84378b07324bfbe89148665b6dc41681bf",
+      "levelid": "custom_level_d20e8c84378b07324bfbe89148665b6dc41681bf"
+    },
+    {
+      "key": "4e4ad",
+      "songName": "Lost Requiem",
+      "hash": "adc67ce943efa00849b48d79cc43eeb223b6ebb4",
+      "levelid": "custom_level_adc67ce943efa00849b48d79cc43eeb223b6ebb4"
+    },
+    {
+      "key": "4e4ac",
+      "songName": "妖夜行",
+      "hash": "8aa517385c1cad53d96f3d36035a62392f9f3ac3",
+      "levelid": "custom_level_8aa517385c1cad53d96f3d36035a62392f9f3ac3"
+    },
+    {
+      "key": "4e4ab",
+      "songName": "Memes | NCS",
+      "hash": "7eedc8c0767385b0cd53277345856cfb11ba6e62",
+      "levelid": "custom_level_7eedc8c0767385b0cd53277345856cfb11ba6e62"
+    },
+    {
+      "key": "4e4a2",
+      "songName": "①",
+      "hash": "a1b0e365eac869ccd66315874481eb7f300c6e27",
+      "levelid": "custom_level_a1b0e365eac869ccd66315874481eb7f300c6e27"
+    },
+    {
+      "key": "4e07c",
+      "songName": "Wake Me Up - The Weeknd",
+      "hash": "f5af46fbafa5bdc9eae536e7eb346637601ea86d",
+      "levelid": "custom_level_f5af46fbafa5bdc9eae536e7eb346637601ea86d"
+    },
+    {
+      "key": "4e49f",
+      "songName": "Moneko",
+      "hash": "0aed06c6e536d4bdafe5c318bb798f7c3231dd11",
+      "levelid": "custom_level_0aed06c6e536d4bdafe5c318bb798f7c3231dd11"
+    },
+    {
+      "key": "4e49e",
+      "songName": "Sunhiausa - Vers La Lumière [Trimmed]",
+      "hash": "cbfcefe0ffeec3a40780bfdfe23acf661f7a54b5",
+      "levelid": "custom_level_cbfcefe0ffeec3a40780bfdfe23acf661f7a54b5"
+    },
+    {
+      "key": "4e493",
+      "songName": "i'm a sandwich",
+      "hash": "54e55f7a550abc642206829b1dec9208b966b55e",
+      "levelid": "custom_level_54e55f7a550abc642206829b1dec9208b966b55e"
+    },
+    {
+      "key": "4e492",
+      "songName": "AHAA (racs flip) 1.37x",
+      "hash": "0e95270a50f5ef5bed041cc06343dcdb06b400e9",
+      "levelid": "custom_level_0e95270a50f5ef5bed041cc06343dcdb06b400e9"
+    },
+    {
+      "key": "4e491",
+      "songName": "najimi breakers - goreshit",
+      "hash": "791ce03ad8c2a2c7f9a6716af3a1ecc61390da4f",
+      "levelid": "custom_level_791ce03ad8c2a2c7f9a6716af3a1ecc61390da4f"
+    },
+    {
+      "key": "4e48d",
+      "songName": "rhythm gamers worst nightmare",
+      "hash": "f8de9963044e0396fca9993e5829420bf4d20a78",
+      "levelid": "custom_level_f8de9963044e0396fca9993e5829420bf4d20a78"
+    },
+    {
+      "key": "4e48c",
+      "songName": "About 10 Hours Being Tifu - Tifu",
+      "hash": "6d341924bf1d480a1239fc4c853c43c6fdeee4ae",
+      "levelid": "custom_level_6d341924bf1d480a1239fc4c853c43c6fdeee4ae"
+    },
+    {
+      "key": "4e488",
+      "songName": "gamma radiation and you - mrt",
+      "hash": "272530213a1aaf1f326e778ccf18b85d15168885",
+      "levelid": "custom_level_272530213a1aaf1f326e778ccf18b85d15168885"
+    },
+    {
+      "key": "4e486",
+      "songName": "Keke Tang, Ren Hazuki - Crescendo Yu・Ra",
+      "hash": "8a98b72ecf63bd06cc783220486925f190d0b0ae",
+      "levelid": "custom_level_8a98b72ecf63bd06cc783220486925f190d0b0ae"
+    },
+    {
+      "key": "4e483",
+      "songName": "KALEIDOSCORE - Neutral",
+      "hash": "0914f83e81417d6f69d0eb5c09e196cd9b345f3d",
+      "levelid": "custom_level_0914f83e81417d6f69d0eb5c09e196cd9b345f3d"
+    },
+    {
+      "key": "4e47e",
+      "songName": "KIIRAS - KILL MA BO$$",
+      "hash": "c8edf0cdd4f92012f51f6a85b1ec2a95f0c9d350",
+      "levelid": "custom_level_c8edf0cdd4f92012f51f6a85b1ec2a95f0c9d350"
+    },
+    {
+      "key": "4e47d",
+      "songName": "Heartfrozen - Geoxor, poixone",
+      "hash": "e1f1838d533976fc47d215a4dc91fea6d2576c2e",
+      "levelid": "custom_level_e1f1838d533976fc47d215a4dc91fea6d2576c2e"
+    },
+    {
+      "key": "4e47c",
+      "songName": "Oophouriasarcopacochliosynapsesilacricidotixyguilominic",
+      "hash": "aaecc8c088ab3e31a5510957e1d720f4fcf4d481",
+      "levelid": "custom_level_aaecc8c088ab3e31a5510957e1d720f4fcf4d481"
+    },
+    {
+      "key": "4e47b",
+      "songName": "gladde paling - sprinter/intercity",
+      "hash": "5defa935740370d6976167106f212c8067a2a702",
+      "levelid": "custom_level_5defa935740370d6976167106f212c8067a2a702"
+    },
+    {
+      "key": "4e47a",
+      "songName": "Tanger - BIKE",
+      "hash": "07d4141d08ffeb53269c2c5d89a17cb1a307711a",
+      "levelid": "custom_level_07d4141d08ffeb53269c2c5d89a17cb1a307711a"
+    },
+    {
+      "key": "4e46c",
+      "songName": "NOW'S YOUR CHANCE TO BE A",
+      "hash": "684560c3e20f066bffa98a0dd26b1576d3195bfa",
+      "levelid": "custom_level_684560c3e20f066bffa98a0dd26b1576d3195bfa"
+    },
+    {
+      "key": "4e46b",
+      "songName": "Electroctopi (Short edit) - Teminite",
+      "hash": "d829a865766cf47b4067d45027598f7fbffe9c85",
+      "levelid": "custom_level_d829a865766cf47b4067d45027598f7fbffe9c85"
+    },
+    {
+      "key": "4e468",
+      "songName": "[Vivify] Hear Me - Imagine Dragons",
+      "hash": "d0fea0be4ac4585494a5b12ad589b4fc5e5c2fb4",
+      "levelid": "custom_level_d0fea0be4ac4585494a5b12ad589b4fc5e5c2fb4"
+    },
+    {
+      "key": "4e467",
+      "songName": "G.G.S.B.N.D.S",
+      "hash": "20d35e2b7b8f58ad894027b2413f1dcceb15883f",
+      "levelid": "custom_level_20d35e2b7b8f58ad894027b2413f1dcceb15883f"
+    },
+    {
+      "key": "4e462",
+      "songName": "No bandao",
+      "hash": "f8491f087e60d2c3141461a292c9d5620f06cc67",
+      "levelid": "custom_level_f8491f087e60d2c3141461a292c9d5620f06cc67"
+    },
+    {
+      "key": "4e460",
+      "songName": "Hail The Sun - Mourning Sickness",
+      "hash": "9085857565cacd265fa71ccf34beed1bf21f2a9e",
+      "levelid": "custom_level_9085857565cacd265fa71ccf34beed1bf21f2a9e"
+    },
+    {
+      "key": "4e45e",
+      "songName": "Canción Del Mariachi",
+      "hash": "24204b5fb9074a0191d32ac7f2ea0fe6e588756a",
+      "levelid": "custom_level_24204b5fb9074a0191d32ac7f2ea0fe6e588756a"
+    },
+    {
+      "key": "4e45b",
+      "songName": "Hardstyle Demon & ASCEND - Play Hard",
+      "hash": "fe0729fd64c126908019673c5398062429e36d47",
+      "levelid": "custom_level_fe0729fd64c126908019673c5398062429e36d47"
+    },
+    {
+      "key": "4e454",
+      "songName": "Kry.exe - MUZAN",
+      "hash": "b3a2802c989ba2602fac068e2ce1766254afe1c0",
+      "levelid": "custom_level_b3a2802c989ba2602fac068e2ce1766254afe1c0"
+    },
+    {
+      "key": "4e43c",
+      "songName": "Morgan Wallen - I Got Better",
+      "hash": "4eec9e8a808e538446648746ffda49c4bf39b588",
+      "levelid": "custom_level_4eec9e8a808e538446648746ffda49c4bf39b588"
+    },
+    {
+      "key": "4e439",
+      "songName": "Trace. & Mello - Run It Up",
+      "hash": "03edd22b3f222decd346e9732d252e9eed304832",
+      "levelid": "custom_level_03edd22b3f222decd346e9732d252e9eed304832"
+    },
+    {
+      "key": "4e43a",
+      "songName": "Morgan Wallen - Falling Apart",
+      "hash": "da1c1d8b2b777e563eec99eadf23771c81e65e4c",
+      "levelid": "custom_level_da1c1d8b2b777e563eec99eadf23771c81e65e4c"
+    },
+    {
+      "key": "4e438",
+      "songName": "Sleep Token - Past Self (Country Cover)",
+      "hash": "80620cea7e6a873b19c4f7ad8525342436ebac4f",
+      "levelid": "custom_level_80620cea7e6a873b19c4f7ad8525342436ebac4f"
+    },
+    {
+      "key": "4e451",
+      "songName": "Surinam  Mashup #Bless",
+      "hash": "b6e332d2a1b81ce7c43223705393b3126dcd1e7e",
+      "levelid": "custom_level_b6e332d2a1b81ce7c43223705393b3126dcd1e7e"
+    },
+    {
+      "key": "4e44a",
+      "songName": "Indying - An Enigmatic Encounter",
+      "hash": "67c09981f86146ab9a7d4e71655f460bc8beac27",
+      "levelid": "custom_level_67c09981f86146ab9a7d4e71655f460bc8beac27"
+    },
+    {
+      "key": "4e44b",
+      "songName": "Freddy Runs Over Dess",
+      "hash": "1cd2f1d47265df528f3ddb6e93844c530df964ef",
+      "levelid": "custom_level_1cd2f1d47265df528f3ddb6e93844c530df964ef"
+    },
+    {
+      "key": "4e448",
+      "songName": "In The Name Of Love - Martin Garrix & Bebe Rexha",
+      "hash": "a42dda3cdf7d8e90184ff10e3c05a16bbec1b603",
+      "levelid": "custom_level_a42dda3cdf7d8e90184ff10e3c05a16bbec1b603"
+    },
+    {
+      "key": "4e447",
+      "songName": "Dead By Daylight Main Theme",
+      "hash": "f64f9eb954b73c2ec2301bff64f0fcde45b4d34b",
+      "levelid": "custom_level_f64f9eb954b73c2ec2301bff64f0fcde45b4d34b"
+    },
+    {
+      "key": "4de1b",
+      "songName": "Karma - Andora (feat. WaMi)",
+      "hash": "bb51fcd49cd01f9960991f8ed8b0e01e09d9f662",
+      "levelid": "custom_level_bb51fcd49cd01f9960991f8ed8b0e01e09d9f662"
+    },
+    {
+      "key": "4e445",
+      "songName": "Pussy From Balenciaga",
+      "hash": "9257d6bbdb2c7de7ebc0f423a5e352b29351a508",
+      "levelid": "custom_level_9257d6bbdb2c7de7ebc0f423a5e352b29351a508"
+    },
+    {
       "key": "4e444",
       "songName": "Les Rallizes Dénudés - Flame of Ice (77' LIVE second to last hold)",
-      "hash": "bdc86566d1e6a9eeeeac4b05ad5811336779e69a",
-      "levelid": "custom_level_bdc86566d1e6a9eeeeac4b05ad5811336779e69a"
-    },
-    {
-      "key": "4e443",
-      "songName": "WHERE UR MANS",
-      "hash": "b42ec6632b94d3e5e8e01c61f6fbb8f997fceb41",
-      "levelid": "custom_level_b42ec6632b94d3e5e8e01c61f6fbb8f997fceb41"
-    },
-    {
-      "key": "4e43f",
-      "songName": "大地に咲く旋律（绽放于大地的旋律）",
-      "hash": "a9df9c54f8f0723736566c40a1674b68557f19bb",
-      "levelid": "custom_level_a9df9c54f8f0723736566c40a1674b68557f19bb"
-    },
-    {
-      "key": "4e43e",
-      "songName": "Nightcore  - How To Be A Heartbreaker (Rock Version)(V2)",
-      "hash": "da9b7a233f80ee8e178f07c0295a974cc2c67223",
-      "levelid": "custom_level_da9b7a233f80ee8e178f07c0295a974cc2c67223"
-    },
-    {
-      "key": "4e433",
-      "songName": "Ludicin - Blossom of Ashes",
-      "hash": "a5c3642905c25a5a91cb2f0955c8df547abb3e73",
-      "levelid": "custom_level_a5c3642905c25a5a91cb2f0955c8df547abb3e73"
-    },
-    {
-      "key": "4e435",
-      "songName": "明日への勇気 (魔法騎士レイアース ED)",
-      "hash": "cdfe7708cb915b88b3fb7b8993ba31443b2525d4",
-      "levelid": "custom_level_cdfe7708cb915b88b3fb7b8993ba31443b2525d4"
-    },
-    {
-      "key": "4e42b",
-      "songName": "マブラヴ",
-      "hash": "262c8eace56d1fefc0dde2770fabda5b81b4806a",
-      "levelid": "custom_level_262c8eace56d1fefc0dde2770fabda5b81b4806a"
-    },
-    {
-      "key": "4e434",
-      "songName": "Ez Do Dance - Baek Ji-young",
-      "hash": "a9be18b132815499de9aa42f056d223e8522aa40",
-      "levelid": "custom_level_a9be18b132815499de9aa42f056d223e8522aa40"
-    },
-    {
-      "key": "4e432",
-      "songName": "Soulja Boy",
-      "hash": "99009086b9871d1d420bbb30de219724d12cd068",
-      "levelid": "custom_level_99009086b9871d1d420bbb30de219724d12cd068"
-    },
-    {
-      "key": "4e42c",
-      "songName": "(FUNK PLAYLIST) THE BOX FUNK (FR3ST, DJ VTTT77)",
-      "hash": "d6222e8c2b6398e83fa4d8ef0a241e47252ea7fb",
-      "levelid": "custom_level_d6222e8c2b6398e83fa4d8ef0a241e47252ea7fb"
-    },
-    {
-      "key": "4e426",
-      "songName": "im_naku - Stagestruck (nolanLMOA's \"Shooters in Detroit\" Bootleg) [V2]",
-      "hash": "2f929895c74f10b2982a3e8227eba84e16c7b1f9",
-      "levelid": "custom_level_2f929895c74f10b2982a3e8227eba84e16c7b1f9"
-    },
-    {
-      "key": "4e423",
-      "songName": "Very bad tech gameplay over some good tech maps",
-      "hash": "4e627f11a3026fe593a156b48059095cc1e192d2",
-      "levelid": "custom_level_4e627f11a3026fe593a156b48059095cc1e192d2"
-    },
-    {
-      "key": "4e422",
-      "songName": "Wuki - DADADADA (VIP Edit)",
-      "hash": "7ee7d584b8fa75fcf41e70aaa120cac84aa0843d",
-      "levelid": "custom_level_7ee7d584b8fa75fcf41e70aaa120cac84aa0843d"
-    },
-    {
-      "key": "4e41f",
-      "songName": "Cognitive Dissonance under a Battle Moon",
-      "hash": "6ff49a96f2d471d7b9f01075cf8a6d031523fd4b",
-      "levelid": "custom_level_6ff49a96f2d471d7b9f01075cf8a6d031523fd4b"
-    },
-    {
-      "key": "4e414",
-      "songName": "Snow Strippers - Don't You Feel",
-      "hash": "341247724f1f7ae9ea99140bdca143a8724f25bb",
-      "levelid": "custom_level_341247724f1f7ae9ea99140bdca143a8724f25bb"
-    },
-    {
-      "key": "4e412",
-      "songName": "Thermalite",
-      "hash": "37e2a6c4665a658860523a0bcd61fac683e41701",
-      "levelid": "custom_level_37e2a6c4665a658860523a0bcd61fac683e41701"
-    },
-    {
-      "key": "4e411",
-      "songName": "At Doom's Gate (Doom E1M1)",
-      "hash": "33a0940b216d99652a0e866b8c76b8b9127b8873",
-      "levelid": "custom_level_33a0940b216d99652a0e866b8c76b8b9127b8873"
-    },
-    {
-      "key": "4e410",
-      "songName": "77 Rings",
-      "hash": "7fba9d1c56a5d0954c3d515181331e947c890c47",
-      "levelid": "custom_level_7fba9d1c56a5d0954c3d515181331e947c890c47"
-    },
-    {
-      "key": "4e40f",
-      "songName": "Stamina (Lights WIP)",
-      "hash": "a58a8eabbe693957df0974a810e368d39ae6124e",
-      "levelid": "custom_level_a58a8eabbe693957df0974a810e368d39ae6124e"
-    },
-    {
-      "key": "4e40d",
-      "songName": "Eve - As You Like It",
-      "hash": "edb312eee7eb364f80ab514ad259c20c6801b223",
-      "levelid": "custom_level_edb312eee7eb364f80ab514ad259c20c6801b223"
-    },
-    {
-      "key": "4e409",
-      "songName": "HOMPOCHOLIPHOCAL",
-      "hash": "6b9edf16a27b57caa4797d1578a6e45fbca429fd",
-      "levelid": "custom_level_6b9edf16a27b57caa4797d1578a6e45fbca429fd"
-    },
-    {
-      "key": "4e408",
-      "songName": "Heroes And Live",
-      "hash": "76dd3e34a1df303f188762b2ed27c95a9a061c06",
-      "levelid": "custom_level_76dd3e34a1df303f188762b2ed27c95a9a061c06"
-    },
-    {
-      "key": "4e406",
-      "songName": "Buildin shake",
-      "hash": "e9bfa34db28d68a87723b7c798ef8c4f00b0d4da",
-      "levelid": "custom_level_e9bfa34db28d68a87723b7c798ef8c4f00b0d4da"
-    },
-    {
-      "key": "4e3f6",
-      "songName": "Work Hard. Play Hard",
-      "hash": "9dadf87954f6e7a214795ef5eae98e5fd25daa93",
-      "levelid": "custom_level_9dadf87954f6e7a214795ef5eae98e5fd25daa93"
-    },
-    {
-      "key": "4e3f5",
-      "songName": "Elley Duhé - Body Talk",
-      "hash": "82b5452e1e2d6a634a16844e44d169338d4cba83",
-      "levelid": "custom_level_82b5452e1e2d6a634a16844e44d169338d4cba83"
-    },
-    {
-      "key": "4e3f4",
-      "songName": "【Oshi no Ko】- Season 3 End  | natori - Serenade",
-      "hash": "86dff1381c8c5ee5acc69223da414c31b77dc257",
-      "levelid": "custom_level_86dff1381c8c5ee5acc69223da414c31b77dc257"
+      "hash": "35600dcd50daab8005f157f5014af1f24d5c8262",
+      "levelid": "custom_level_35600dcd50daab8005f157f5014af1f24d5c8262"
     }
   ],
   "image": ""
