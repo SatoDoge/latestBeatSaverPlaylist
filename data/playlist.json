@@ -1,226 +1,262 @@
 {
-  "playlistTitle": "2026-02-03T15:18:48.312Z~2026-02-04T15:18:48.312Z",
+  "playlistTitle": "2026-02-04T15:18:48.380Z~2026-02-05T15:18:48.380Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-02-03T15:18:48.312Z and 2026-02-04T15:18:48.312Z",
+  "discripstion": "Maps published between 2026-02-04T15:18:48.380Z and 2026-02-05T15:18:48.380Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "4e724",
+      "songName": "[V2]Nightcore -S&M (Rock Version 2.0)",
+      "hash": "ed03f9d6d25949878a2314218ec63db37e075ffb",
+      "levelid": "custom_level_ed03f9d6d25949878a2314218ec63db37e075ffb"
+    },
+    {
+      "key": "4e723",
+      "songName": "Im good",
+      "hash": "33d1d23a07d27beff5098ef5cb4a6e6f5b021367",
+      "levelid": "custom_level_33d1d23a07d27beff5098ef5cb4a6e6f5b021367"
+    },
+    {
+      "key": "4e722",
+      "songName": "foxys song ",
+      "hash": "d7a3be59f26e8d4232ba8d2a0681c0dfbcc4fbf3",
+      "levelid": "custom_level_d7a3be59f26e8d4232ba8d2a0681c0dfbcc4fbf3"
+    },
+    {
+      "key": "4e719",
+      "songName": "Circus Hard",
+      "hash": "7e4d9175b028b6dead236f7c10307a6d4a0f992d",
+      "levelid": "custom_level_7e4d9175b028b6dead236f7c10307a6d4a0f992d"
+    },
+    {
+      "key": "4e718",
+      "songName": "carwash - punch22",
+      "hash": "5a0e887ba835804cb6c172207c09e2b042e29f64",
+      "levelid": "custom_level_5a0e887ba835804cb6c172207c09e2b042e29f64"
+    },
+    {
+      "key": "4e716",
+      "songName": "時を刻む唄 (CLANNAD 〜AFTER STORY〜 OP)",
+      "hash": "640007f72cb1a4ccdfa2093af9b29060b9c13044",
+      "levelid": "custom_level_640007f72cb1a4ccdfa2093af9b29060b9c13044"
+    },
+    {
+      "key": "4e715",
+      "songName": "level 34",
+      "hash": "9fc6059e4f7f48aae8c985c8441f692afad49a56",
+      "levelid": "custom_level_9fc6059e4f7f48aae8c985c8441f692afad49a56"
+    },
+    {
+      "key": "4e714",
+      "songName": "i was only temporary - my head is empty",
+      "hash": "6e4d494d43239901262b787a80f692fe1b9bd277",
+      "levelid": "custom_level_6e4d494d43239901262b787a80f692fe1b9bd277"
+    },
+    {
+      "key": "4e705",
+      "songName": "End Of Beginning",
+      "hash": "26555aa7b6c9bc03f443cef37b307f2768de982a",
+      "levelid": "custom_level_26555aa7b6c9bc03f443cef37b307f2768de982a"
+    },
+    {
+      "key": "4e6fc",
+      "songName": "Bruno Mars",
+      "hash": "2f932143f4c5849381cc49d22831ac94c7f29255",
+      "levelid": "custom_level_2f932143f4c5849381cc49d22831ac94c7f29255"
+    },
+    {
+      "key": "4e6f2",
+      "songName": "Chordstorm",
+      "hash": "082b41571a2d4ae8709f48137586c51669621f44",
+      "levelid": "custom_level_082b41571a2d4ae8709f48137586c51669621f44"
+    },
+    {
+      "key": "4e6e8",
+      "songName": "Broken Up",
+      "hash": "e90532603018c10e878c9d7dfe92e217279dba4b",
+      "levelid": "custom_level_e90532603018c10e878c9d7dfe92e217279dba4b"
+    },
+    {
+      "key": "4e6e6",
+      "songName": "M-Project - Howling Wolf",
+      "hash": "2983d7c8c7ec80a155aafbb5a5bed1b2e70e27b3",
+      "levelid": "custom_level_2983d7c8c7ec80a155aafbb5a5bed1b2e70e27b3"
+    },
+    {
+      "key": "4e6e5",
+      "songName": "Steve Lacy - Dark Red",
+      "hash": "111c75a003e74f84cc2f22d7b9edb1c8c0465db3",
+      "levelid": "custom_level_111c75a003e74f84cc2f22d7b9edb1c8c0465db3"
+    },
+    {
+      "key": "4e6df",
+      "songName": "Charlie Charlie Kirky! (Charlie Kirk Funk) - S0lardm -H3zza",
+      "hash": "629538758c0e2b6030a30cf6b417b3d5060b43ac",
+      "levelid": "custom_level_629538758c0e2b6030a30cf6b417b3d5060b43ac"
+    },
+    {
+      "key": "4e6dd",
+      "songName": "moyst kritcal remixz funnet!!11!",
+      "hash": "07be0a5a7672a88294a5b0854eae0b2e822628c7",
+      "levelid": "custom_level_07be0a5a7672a88294a5b0854eae0b2e822628c7"
+    },
+    {
+      "key": "4e6dc",
+      "songName": "honeypie",
+      "hash": "9d909907b442173c32239468637d9905b6f5de77",
+      "levelid": "custom_level_9d909907b442173c32239468637d9905b6f5de77"
+    },
+    {
+      "key": "4e6da",
+      "songName": "The Kid LAROI - THANK GOD",
+      "hash": "0e1f242775c887e6fda992459fafd309ae09c696",
+      "levelid": "custom_level_0e1f242775c887e6fda992459fafd309ae09c696"
+    },
+    {
+      "key": "4e6d5",
+      "songName": "Aether Realm - She's Back",
+      "hash": "c332a3a08d91ca7326234f4323f690cedbf00d85",
+      "levelid": "custom_level_c332a3a08d91ca7326234f4323f690cedbf00d85"
+    },
+    {
+      "key": "4e6d4",
+      "songName": "t+pazolite - UMMU",
+      "hash": "cea94a87a0059f2afc4f8960702eae379fef0ae4",
+      "levelid": "custom_level_cea94a87a0059f2afc4f8960702eae379fef0ae4"
+    },
+    {
+      "key": "4e6d1",
+      "songName": "screaming-scout",
+      "hash": "b8c52252281432ac44d227ce5253a747c96ebb47",
+      "levelid": "custom_level_b8c52252281432ac44d227ce5253a747c96ebb47"
+    },
+    {
+      "key": "4e6d0",
+      "songName": "hello your computer has virus",
+      "hash": "8c840af22fe2851ecdbc7c981bc50789cae3b980",
+      "levelid": "custom_level_8c840af22fe2851ecdbc7c981bc50789cae3b980"
+    },
+    {
+      "key": "4e6cf",
+      "songName": "vine boom",
+      "hash": "a38bc9a46e794cf5492706fd139cc449f386febb",
+      "levelid": "custom_level_a38bc9a46e794cf5492706fd139cc449f386febb"
+    },
+    {
+      "key": "4e6ce",
+      "songName": "Hoppin Dih ",
+      "hash": "5543764cb037794972cd7bae117f497b891e7179",
+      "levelid": "custom_level_5543764cb037794972cd7bae117f497b891e7179"
+    },
+    {
+      "key": "4e6cd",
+      "songName": "what the HELLLLLLLLLLLLLLLLLLLLL",
+      "hash": "a7020afc2a8c6c43e067db553807047ade8e6d9f",
+      "levelid": "custom_level_a7020afc2a8c6c43e067db553807047ade8e6d9f"
+    },
+    {
+      "key": "4e6cb",
+      "songName": "Elevatorstuck",
+      "hash": "4c52d4c28bac51c0ca3196b977f7c3dc23e310d4",
+      "levelid": "custom_level_4c52d4c28bac51c0ca3196b977f7c3dc23e310d4"
+    },
+    {
+      "key": "4e6ca",
+      "songName": "willy wonka",
+      "hash": "2d6a59bca514a8be1ddadfe1dfe11b07844af412",
+      "levelid": "custom_level_2d6a59bca514a8be1ddadfe1dfe11b07844af412"
+    },
+    {
+      "key": "4e692",
+      "songName": "Ludicin - Blossom of Ashes",
+      "hash": "50ee9b5f392233ebb43f4dedb8df8c5dcbf2ed59",
+      "levelid": "custom_level_50ee9b5f392233ebb43f4dedb8df8c5dcbf2ed59"
+    },
+    {
+      "key": "4e6c6",
+      "songName": "messy hair",
+      "hash": "e0e64ad924b00d22e6835b534396e495e8c740e1",
+      "levelid": "custom_level_e0e64ad924b00d22e6835b534396e495e8c740e1"
+    },
+    {
+      "key": "4e6c5",
+      "songName": "Metoric Impact - Kyutatsuki (Short Cut)",
+      "hash": "7a93fcbef0bce6c946769a8561a8204750cabc75",
+      "levelid": "custom_level_7a93fcbef0bce6c946769a8561a8204750cabc75"
+    },
+    {
+      "key": "4e6c2",
+      "songName": "Cyberia (B side)",
+      "hash": "b1c824d247404fab2cca36ccda630958ac5cea7f",
+      "levelid": "custom_level_b1c824d247404fab2cca36ccda630958ac5cea7f"
+    },
+    {
+      "key": "4e6c1",
+      "songName": "NG NG NG funk",
+      "hash": "5938aa32f0f8cd9b852f7df2fb9a64e02b81df66",
+      "levelid": "custom_level_5938aa32f0f8cd9b852f7df2fb9a64e02b81df66"
+    },
+    {
+      "key": "4e6be",
+      "songName": "Davichi In Wonderland - My Man",
+      "hash": "0d3666de120aa5896c48d49300802cca9a9328ff",
+      "levelid": "custom_level_0d3666de120aa5896c48d49300802cca9a9328ff"
+    },
+    {
+      "key": "4e6bd",
+      "songName": "four types of",
+      "hash": "9895e064ee3283ac452597347b164f805c67b983",
+      "levelid": "custom_level_9895e064ee3283ac452597347b164f805c67b983"
+    },
+    {
+      "key": "4e6bc",
+      "songName": "Non so perchè sei araba [ ACOUSTIC VERSION ] feat. Matteo Barghini - I PARCO GIOCHI",
+      "hash": "11b35b89dfd26bb49ca2862146c46297a5ea4b29",
+      "levelid": "custom_level_11b35b89dfd26bb49ca2862146c46297a5ea4b29"
+    },
+    {
+      "key": "4e6b1",
+      "songName": "Move Tegen Pesten",
+      "hash": "d49e7b862d09a072491c24443849a8a239c73814",
+      "levelid": "custom_level_d49e7b862d09a072491c24443849a8a239c73814"
+    },
+    {
+      "key": "4e6b0",
+      "songName": "Circus",
+      "hash": "e4a7675e6f8bda8426225bedfaf2361270d42428",
+      "levelid": "custom_level_e4a7675e6f8bda8426225bedfaf2361270d42428"
+    },
+    {
+      "key": "4e6af",
+      "songName": "Azari - D/N/A  Nightcord at 25:00 x Kagamine Rin",
+      "hash": "89eb3a8a9ee5cd5e84cc361934ebe8f1c168110d",
+      "levelid": "custom_level_89eb3a8a9ee5cd5e84cc361934ebe8f1c168110d"
+    },
+    {
+      "key": "4e6ab",
+      "songName": " 我ら!ゴミ分別団／重音テト＆ずんだもん【SDGs Song】",
+      "hash": "3dd95f4bedba832c48c9f37ff073c1ed72b3e35d",
+      "levelid": "custom_level_3dd95f4bedba832c48c9f37ff073c1ed72b3e35d"
+    },
+    {
+      "key": "4e6a9",
+      "songName": "Dawn",
+      "hash": "944256b35333da18515ddc41e0a6d2610e0ca9b0",
+      "levelid": "custom_level_944256b35333da18515ddc41e0a6d2610e0ca9b0"
+    },
+    {
+      "key": "4e6a6",
+      "songName": "AAAAAHHHHHHHHHHHHHHHHHHH",
+      "hash": "2c298b2f7b2cc10f84838d8aabafb1efcee2e49b",
+      "levelid": "custom_level_2c298b2f7b2cc10f84838d8aabafb1efcee2e49b"
+    },
+    {
       "key": "4e6a3",
       "songName": "Juwubi - I FAP TOO MUCH ON ANIME GIRLS",
-      "hash": "7d6bcfc762dfa29d2e4f1f605ee16f6081966e7e",
-      "levelid": "custom_level_7d6bcfc762dfa29d2e4f1f605ee16f6081966e7e"
-    },
-    {
-      "key": "4e69f",
-      "songName": "Jessica Baio - bad times (sped up & cut ver.)",
-      "hash": "9dd7c5577b4440739807e3431513a220c736098d",
-      "levelid": "custom_level_9dd7c5577b4440739807e3431513a220c736098d"
-    },
-    {
-      "key": "4e6a2",
-      "songName": "New Divide_MirroredFastAlternating",
-      "hash": "01c4c41096f8c8332ad6d47268e542d13c1329e2",
-      "levelid": "custom_level_01c4c41096f8c8332ad6d47268e542d13c1329e2"
-    },
-    {
-      "key": "4e6a1",
-      "songName": "Too Sweet_MirroredFastAlternating",
-      "hash": "fee0aa138e341b45d765ee03bb1db57a997a7d02",
-      "levelid": "custom_level_fee0aa138e341b45d765ee03bb1db57a997a7d02"
-    },
-    {
-      "key": "4e6a0",
-      "songName": "Lights_MirroredFastAlternating",
-      "hash": "763e5b42bfb81c1e3691e7e9d05ae64c4574bdf4",
-      "levelid": "custom_level_763e5b42bfb81c1e3691e7e9d05ae64c4574bdf4"
-    },
-    {
-      "key": "4e699",
-      "songName": "メグメル 〜cuckool mix 2007〜 (CLANNAD OP)",
-      "hash": "e3edd2168dab1a9720d32eb9e3c7224430a996a6",
-      "levelid": "custom_level_e3edd2168dab1a9720d32eb9e3c7224430a996a6"
-    },
-    {
-      "key": "4e697",
-      "songName": "Alstroemeria Records - Bad Apple!!",
-      "hash": "0ab2b8b2238ec43d7f623d5149da58f9491476ac",
-      "levelid": "custom_level_0ab2b8b2238ec43d7f623d5149da58f9491476ac"
-    },
-    {
-      "key": "4e695",
-      "songName": "kiss me again",
-      "hash": "3bc0cc05518b1381561009192af8dfa9f0b6cb44",
-      "levelid": "custom_level_3bc0cc05518b1381561009192af8dfa9f0b6cb44"
-    },
-    {
-      "key": "4e691",
-      "songName": "The Cab - Angel With A Shotgun (Nightcore)",
-      "hash": "b9c0b77f1b50aa910fb2c66b5e5bededa3fa6138",
-      "levelid": "custom_level_b9c0b77f1b50aa910fb2c66b5e5bededa3fa6138"
-    },
-    {
-      "key": "4e68f",
-      "songName": "dont p[lsyujhv",
-      "hash": "bebde8d67d673c61d90722c356358ce52b74a9d6",
-      "levelid": "custom_level_bebde8d67d673c61d90722c356358ce52b74a9d6"
-    },
-    {
-      "key": "4e68e",
-      "songName": "go crazy for burger kong",
-      "hash": "262c4c2d6c72c48d5ace841154a60eaabf149cd7",
-      "levelid": "custom_level_262c4c2d6c72c48d5ace841154a60eaabf149cd7"
-    },
-    {
-      "key": "4e68d",
-      "songName": "Camellia - Wolves Standing Towards Enemies",
-      "hash": "c167a5f3ac436228f5f1b18308e115a49ec0908e",
-      "levelid": "custom_level_c167a5f3ac436228f5f1b18308e115a49ec0908e"
-    },
-    {
-      "key": "4e68c",
-      "songName": "Sound",
-      "hash": "3dfe5216d33b3916fec68d73eecc6da8353c5eb6",
-      "levelid": "custom_level_3dfe5216d33b3916fec68d73eecc6da8353c5eb6"
-    },
-    {
-      "key": "4e68b",
-      "songName": "Chris Doerkson - Zero Gravity",
-      "hash": "8a0d37353bd0144989a76f4ef980cb69fe96ab4e",
-      "levelid": "custom_level_8a0d37353bd0144989a76f4ef980cb69fe96ab4e"
-    },
-    {
-      "key": "4e68a",
-      "songName": "Let it grow",
-      "hash": "23863c19d7de50857e64ecc8da9fcc6c9bd08aae",
-      "levelid": "custom_level_23863c19d7de50857e64ecc8da9fcc6c9bd08aae"
-    },
-    {
-      "key": "4e688",
-      "songName": "[Feetsaber]ワールドイズマイン CPK! Remix (かぐや & 月見ヤチヨ ver.)",
-      "hash": "27d453b3d13e1655158b7e2af982502494982b23",
-      "levelid": "custom_level_27d453b3d13e1655158b7e2af982502494982b23"
-    },
-    {
-      "key": "4e687",
-      "songName": "unwelcome school but cursed poodles",
-      "hash": "ec7fabd2736dbad62d86404d4591e2de275d133f",
-      "levelid": "custom_level_ec7fabd2736dbad62d86404d4591e2de275d133f"
-    },
-    {
-      "key": "4e685",
-      "songName": "Ray Volpe, Vastive - GET SMACKED",
-      "hash": "509513339b3313be163876427b8fbb80774abc10",
-      "levelid": "custom_level_509513339b3313be163876427b8fbb80774abc10"
-    },
-    {
-      "key": "4e67e",
-      "songName": "content",
-      "hash": "ff7f48b81f5ede5009cdd0f1e63c0de897becdd3",
-      "levelid": "custom_level_ff7f48b81f5ede5009cdd0f1e63c0de897becdd3"
-    },
-    {
-      "key": "4e67d",
-      "songName": "The Chonk Chart",
-      "hash": "22db9b9d1135ef7a89a1fd2b79ca85179bb2ae87",
-      "levelid": "custom_level_22db9b9d1135ef7a89a1fd2b79ca85179bb2ae87"
-    },
-    {
-      "key": "4e67c",
-      "songName": "Frog",
-      "hash": "b94c2a47a0505c29be84b9e5ed7f622d82cd71da",
-      "levelid": "custom_level_b94c2a47a0505c29be84b9e5ed7f622d82cd71da"
-    },
-    {
-      "key": "4e679",
-      "songName": "Made of Fire",
-      "hash": "2a859d6a51cf776f0469dc5208d1e9f68ff935e7",
-      "levelid": "custom_level_2a859d6a51cf776f0469dc5208d1e9f68ff935e7"
-    },
-    {
-      "key": "4e678",
-      "songName": "Heavy Young Heathens - Sha la la la la",
-      "hash": "408a0030287dcc91a21073e73f3521396ae72bcd",
-      "levelid": "custom_level_408a0030287dcc91a21073e73f3521396ae72bcd"
-    },
-    {
-      "key": "4e677",
-      "songName": "Iglooghost - Germ Chrism",
-      "hash": "36d6476fc708c04a0559f1037bbe3b30011cf490",
-      "levelid": "custom_level_36d6476fc708c04a0559f1037bbe3b30011cf490"
-    },
-    {
-      "key": "4e0f8",
-      "songName": "Alles in Flammen - SOPHIA",
-      "hash": "f157b5919fd8557723eeedf9eb86eff5572c22c2",
-      "levelid": "custom_level_f157b5919fd8557723eeedf9eb86eff5572c22c2"
-    },
-    {
-      "key": "4e675",
-      "songName": "Pimp Slap",
-      "hash": "1caec839549f1f84d61151e0c02585c309e7d5cd",
-      "levelid": "custom_level_1caec839549f1f84d61151e0c02585c309e7d5cd"
-    },
-    {
-      "key": "4e674",
-      "songName": "amstrad lions",
-      "hash": "7c976a4e70238581f523fae77b7e41bcdb769d52",
-      "levelid": "custom_level_7c976a4e70238581f523fae77b7e41bcdb769d52"
-    },
-    {
-      "key": "4e673",
-      "songName": "Cosmic_Chorus",
-      "hash": "40d0b0dd8ff3f3cd035efcf4c76b1ba235581e14",
-      "levelid": "custom_level_40d0b0dd8ff3f3cd035efcf4c76b1ba235581e14"
-    },
-    {
-      "key": "4e672",
-      "songName": "like JENNIE",
-      "hash": "11f3415356e4f094e36faaac0d7c4622d13b16b5",
-      "levelid": "custom_level_11f3415356e4f094e36faaac0d7c4622d13b16b5"
-    },
-    {
-      "key": "4e671",
-      "songName": "eeffoc canyon",
-      "hash": "276f2d33f89f33edb508e06946c26b3f2367aff7",
-      "levelid": "custom_level_276f2d33f89f33edb508e06946c26b3f2367aff7"
-    },
-    {
-      "key": "4e670",
-      "songName": "POSSESION",
-      "hash": "ae70cfadfa2992793206c9556db4db531cadff62",
-      "levelid": "custom_level_ae70cfadfa2992793206c9556db4db531cadff62"
-    },
-    {
-      "key": "4e66d",
-      "songName": "People are crashing out on the new Weekly Pakour 50",
-      "hash": "070f3f53828127ea7a38ba5fd7ea22284c27ec5e",
-      "levelid": "custom_level_070f3f53828127ea7a38ba5fd7ea22284c27ec5e"
-    },
-    {
-      "key": "4e66c",
-      "songName": "Harry Styles - Late Night Talking (V4)",
-      "hash": "6132505448cc79bdc1af069cfc3ea0768b0e0740",
-      "levelid": "custom_level_6132505448cc79bdc1af069cfc3ea0768b0e0740"
-    },
-    {
-      "key": "4e666",
-      "songName": "Addison Rae - Fame is a Gun",
-      "hash": "2bcd905ff4bacf9bd262820072f4a76866ed14f7",
-      "levelid": "custom_level_2bcd905ff4bacf9bd262820072f4a76866ed14f7"
-    },
-    {
-      "key": "4e665",
-      "songName": "Radiohead - 15 Step",
-      "hash": "edad38728cbbbb118d6d01489c267d89c0c2676f",
-      "levelid": "custom_level_edad38728cbbbb118d6d01489c267d89c0c2676f"
-    },
-    {
-      "key": "4e664",
-      "songName": "弥渡山歌(Midu Echoing) - YANGYINYUE",
-      "hash": "5351f5e83d37a86981ed1882d8f9ffc58d0fae9f",
-      "levelid": "custom_level_5351f5e83d37a86981ed1882d8f9ffc58d0fae9f"
+      "hash": "13c0ed4ff7c10947aa061d09953059620fb53212",
+      "levelid": "custom_level_13c0ed4ff7c10947aa061d09953059620fb53212"
     }
   ],
   "image": ""
