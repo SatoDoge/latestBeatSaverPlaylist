@@ -1,196 +1,274 @@
 {
-  "playlistTitle": "2026-02-05T15:18:48.314Z~2026-02-06T15:18:48.314Z",
+  "playlistTitle": "2026-02-06T15:18:48.331Z~2026-02-07T15:18:48.331Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-02-05T15:18:48.314Z and 2026-02-06T15:18:48.314Z",
+  "discripstion": "Maps published between 2026-02-06T15:18:48.331Z and 2026-02-07T15:18:48.331Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4e76c",
-      "songName": "Romantic Homicide - d4vd",
-      "hash": "8aa8ae7d2d2b6e728209771aac974ec2b166bd45",
-      "levelid": "custom_level_8aa8ae7d2d2b6e728209771aac974ec2b166bd45"
+      "key": "4e7e2",
+      "songName": "Thrive - Primate, Maze",
+      "hash": "54dfb8f4fa8d8d54fd51d3f0d4144975bf82c252",
+      "levelid": "custom_level_54dfb8f4fa8d8d54fd51d3f0d4144975bf82c252"
     },
     {
-      "key": "4e769",
-      "songName": "squid game -s2",
-      "hash": "b7bfcb543113fc3d0cb51fa7ec71140e826902ca",
-      "levelid": "custom_level_b7bfcb543113fc3d0cb51fa7ec71140e826902ca"
+      "key": "4e7e0",
+      "songName": "Re:Laced Up - Tsubi Club",
+      "hash": "a8450acf16c56032d83505426bb7d0bade27c111",
+      "levelid": "custom_level_a8450acf16c56032d83505426bb7d0bade27c111"
     },
     {
-      "key": "4e767",
-      "songName": "POJD JE RANO",
-      "hash": "384e6173df0bc5f2d5b6a9c74043a859af00071e",
-      "levelid": "custom_level_384e6173df0bc5f2d5b6a9c74043a859af00071e"
+      "key": "4e7de",
+      "songName": "kono ki nan no ki",
+      "hash": "2d0775dbdcc5dcd2f07339fe689091ad0425c226",
+      "levelid": "custom_level_2d0775dbdcc5dcd2f07339fe689091ad0425c226"
     },
     {
-      "key": "4e765",
-      "songName": "[V2] Paul Owen- Hakari Dance [Metal Version]",
-      "hash": "39a83248639b4cee32632c3ffc4ec1793196e168",
-      "levelid": "custom_level_39a83248639b4cee32632c3ffc4ec1793196e168"
+      "key": "4e7dc",
+      "songName": "Zyzz - Malo Tebya (Balkan Boost Music) [CHROMA]",
+      "hash": "8c39eea16436d42533764d288d5221c3a69b089d",
+      "levelid": "custom_level_8c39eea16436d42533764d288d5221c3a69b089d"
     },
     {
-      "key": "4e763",
-      "songName": "lapix & rejection - deDEVILL (feat. KAMIrure)",
-      "hash": "f35deb8f7139ea0a90d9a23091b94df37d02440d",
-      "levelid": "custom_level_f35deb8f7139ea0a90d9a23091b94df37d02440d"
+      "key": "4e7d9",
+      "songName": "bbno$ - come to brazil",
+      "hash": "cb285390ba966df1f3b99b746a4b392042a2ec9f",
+      "levelid": "custom_level_cb285390ba966df1f3b99b746a4b392042a2ec9f"
     },
     {
-      "key": "4e762",
-      "songName": "Helios Rap Remix",
-      "hash": "c693f726289b034703e468a8846f1de72db8d44d",
-      "levelid": "custom_level_c693f726289b034703e468a8846f1de72db8d44d"
+      "key": "4e7d8",
+      "songName": "[Fitbeat] Alexandra Stan - Mr. Saxobeat",
+      "hash": "d1b90d007bfb497d71f39466e916f5660b060d58",
+      "levelid": "custom_level_d1b90d007bfb497d71f39466e916f5660b060d58"
     },
     {
-      "key": "4e761",
-      "songName": "Revision / ごどね feat. 音街ウナ＆重音テト",
-      "hash": "4702ff107a469cc45cea00c9d393677d67eff6f2",
-      "levelid": "custom_level_4702ff107a469cc45cea00c9d393677d67eff6f2"
+      "key": "4e7d7",
+      "songName": "innocent starter (魔法少女リリカルなのは OP)",
+      "hash": "c24648d48f9635c8fd6fb9b95f938ad583c537c4",
+      "levelid": "custom_level_c24648d48f9635c8fd6fb9b95f938ad583c537c4"
     },
     {
-      "key": "4e760",
-      "songName": "TORCH (CLANNAD 〜AFTER STORY〜 ED)",
-      "hash": "bd9f85bf94d552f4502fc1ed77f08f0644be9866",
-      "levelid": "custom_level_bd9f85bf94d552f4502fc1ed77f08f0644be9866"
+      "key": "4e7d5",
+      "songName": "Machita Chima - Magic",
+      "hash": "df3eeb55cdf162d02dfcd14957eca8efd459fd93",
+      "levelid": "custom_level_df3eeb55cdf162d02dfcd14957eca8efd459fd93"
     },
     {
-      "key": "4e75d",
-      "songName": "ryo (supercell) - メルト (かぐや ver.) [CPK! Remix] (Melt from Cosmic Princess Kaguya!)",
-      "hash": "d78b5f3d718a1417be18c6cb7fe09c49453c9b5f",
-      "levelid": "custom_level_d78b5f3d718a1417be18c6cb7fe09c49453c9b5f"
+      "key": "4e7d4",
+      "songName": "AAAAhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhHHHHHHHHHH",
+      "hash": "7afe615054c32a1c55fc050422a713128532f239",
+      "levelid": "custom_level_7afe615054c32a1c55fc050422a713128532f239"
     },
     {
-      "key": "4e72f",
-      "songName": "Beautiful World(2024 Mix)",
-      "hash": "fbe11cc5e6f0d2d967d9f441fb925f38220a2509",
-      "levelid": "custom_level_fbe11cc5e6f0d2d967d9f441fb925f38220a2509"
+      "key": "4e7d3",
+      "songName": "The Way U Move (DDR Mix) - Bill Hamel & Derek James",
+      "hash": "4602fc81b084b4a23dfc725c3e8f0519febd21bb",
+      "levelid": "custom_level_4602fc81b084b4a23dfc725c3e8f0519febd21bb"
     },
     {
-      "key": "4e75c",
-      "songName": "妖夜行",
-      "hash": "e885be2d95d6242729d9c21a6ac0f6bf8a55c614",
-      "levelid": "custom_level_e885be2d95d6242729d9c21a6ac0f6bf8a55c614"
+      "key": "4e7cc",
+      "songName": "Geoxor - Cheese",
+      "hash": "fd6568aa79d90f8d9ced710327cf95a5af65287b",
+      "levelid": "custom_level_fd6568aa79d90f8d9ced710327cf95a5af65287b"
     },
     {
-      "key": "4e758",
-      "songName": "OH NO NO NO FUNK",
-      "hash": "35aa203dcfceae204f934d83cb1b9116c8f37291",
-      "levelid": "custom_level_35aa203dcfceae204f934d83cb1b9116c8f37291"
+      "key": "4e7ca",
+      "songName": "Endlessly - Chanpan",
+      "hash": "c86842b86bfc82c3f9034e49b1ca17c3b6dccad3",
+      "levelid": "custom_level_c86842b86bfc82c3f9034e49b1ca17c3b6dccad3"
     },
     {
-      "key": "4e756",
-      "songName": "#1F1e33",
-      "hash": "587f99512dd3deee1660c3724f09248f0ad34420",
-      "levelid": "custom_level_587f99512dd3deee1660c3724f09248f0ad34420"
+      "key": "4e7c4",
+      "songName": "BLOX FRUITS PHONK",
+      "hash": "6e2e9474d961f9bfebfc27cf8edbac75fb534b88",
+      "levelid": "custom_level_6e2e9474d961f9bfebfc27cf8edbac75fb534b88"
     },
     {
-      "key": "4e755",
-      "songName": "Befall (붕괴3rd OST Official Korean Ver.)다즈비",
-      "hash": "03ce3c3eb7387aaff8a86a916ed44771b642fc8f",
-      "levelid": "custom_level_03ce3c3eb7387aaff8a86a916ed44771b642fc8f"
+      "key": "4e7c2",
+      "songName": "私は、わたしの事が好き。 – HoneyWorks / かぐや(cv.夏吉ゆうこ)",
+      "hash": "846cb29781ca4f5b2d213675c9a5918261e960e0",
+      "levelid": "custom_level_846cb29781ca4f5b2d213675c9a5918261e960e0"
     },
     {
-      "key": "4e754",
-      "songName": "Hello",
-      "hash": "8a2d17052f70965f90d4b90c170fbc7b33a52f69",
-      "levelid": "custom_level_8a2d17052f70965f90d4b90c170fbc7b33a52f69"
+      "key": "4e7c3",
+      "songName": "Heylog - Eleven",
+      "hash": "bd6955f16448f3db9abb672dc9987f95018e43be",
+      "levelid": "custom_level_bd6955f16448f3db9abb672dc9987f95018e43be"
     },
     {
-      "key": "4e753",
-      "songName": "THROW UP",
-      "hash": "30bdcca1445e4d0f8e24049bf0904cf7531e3871",
-      "levelid": "custom_level_30bdcca1445e4d0f8e24049bf0904cf7531e3871"
+      "key": "4e7c1",
+      "songName": "Babydoll ",
+      "hash": "5bcf04ce4b4aab27a7f24313480bd41946d5ad8d",
+      "levelid": "custom_level_5bcf04ce4b4aab27a7f24313480bd41946d5ad8d"
     },
     {
-      "key": "4e751",
-      "songName": "gladde paling - vrije val",
-      "hash": "a142550c5b59ca8fbff9f68a49eeede6ef0c0b55",
-      "levelid": "custom_level_a142550c5b59ca8fbff9f68a49eeede6ef0c0b55"
+      "key": "4e7c0",
+      "songName": "THATS TUNG TUNG TUNG SAHUR!",
+      "hash": "5540bd41b09d8f31b09b770ae11b7cee6a11c616",
+      "levelid": "custom_level_5540bd41b09d8f31b09b770ae11b7cee6a11c616"
     },
     {
-      "key": "4e749",
-      "songName": "below the surface",
-      "hash": "2d8e0523f2976b3ddef1bc299f24b6d2f6d9e7d9",
-      "levelid": "custom_level_2d8e0523f2976b3ddef1bc299f24b6d2f6d9e7d9"
+      "key": "4e7bc",
+      "songName": "Eyes Like Nets",
+      "hash": "b4fc6d4d45efcbd059f93c5a861c02e14ae6f980",
+      "levelid": "custom_level_b4fc6d4d45efcbd059f93c5a861c02e14ae6f980"
     },
     {
-      "key": "4e745",
-      "songName": "ABC Trilogy",
-      "hash": "1b25ad7b1cbdb579e77e90bc5860dfdbb4d9a975",
-      "levelid": "custom_level_1b25ad7b1cbdb579e77e90bc5860dfdbb4d9a975"
+      "key": "4e7ba",
+      "songName": "[TRANCH MAP PACK] Tranch - blue cheese",
+      "hash": "a641cc0c04701344822ba21253135488433ad06b",
+      "levelid": "custom_level_a641cc0c04701344822ba21253135488433ad06b"
     },
     {
-      "key": "4e743",
-      "songName": "LE SSERAFIM - Come Over",
-      "hash": "8fe99df1bb33e2d9cb1a16f7140a44c43d25eea0",
-      "levelid": "custom_level_8fe99df1bb33e2d9cb1a16f7140a44c43d25eea0"
+      "key": "4e7b9",
+      "songName": " [TRANCH MAP PACK] Tranch - the marbles",
+      "hash": "31d99526541ae361ae043282ee9eca046506a5e7",
+      "levelid": "custom_level_31d99526541ae361ae043282ee9eca046506a5e7"
     },
     {
-      "key": "4e742",
-      "songName": "Bite",
-      "hash": "25f25dc8dbcafdf346c463b08ab97d65136bb3c0",
-      "levelid": "custom_level_25f25dc8dbcafdf346c463b08ab97d65136bb3c0"
+      "key": "4e7b7",
+      "songName": "[TRANCH MAP PACK] Tranch - Im Tryna Listen But My Sonar Keeps Going Off Sorry",
+      "hash": "9f0c282d8e73df316320c6c60459c17fd30d0fc6",
+      "levelid": "custom_level_9f0c282d8e73df316320c6c60459c17fd30d0fc6"
     },
     {
-      "key": "4e741",
-      "songName": "DEDSPIRIT-1",
-      "hash": "72d8d11b8ce69337067d71e6ea4c0e4d7ce8513b",
-      "levelid": "custom_level_72d8d11b8ce69337067d71e6ea4c0e4d7ce8513b"
+      "key": "4e7b6",
+      "songName": "[TRANCH MAP PACK] Tranch - Clunge Classic",
+      "hash": "797a18b99b26c61f7e49baf3fe51384584d07315",
+      "levelid": "custom_level_797a18b99b26c61f7e49baf3fe51384584d07315"
     },
     {
-      "key": "4e73d",
-      "songName": "killgriffin & joz - griffnjoz (mixsong)",
-      "hash": "ba84a06e4bd2700af2098d8f2cfee3a8ac71013b",
-      "levelid": "custom_level_ba84a06e4bd2700af2098d8f2cfee3a8ac71013b"
+      "key": "4e7b5",
+      "songName": "[TRANCH MAP PACK] Tranch - Kat Radio Classic",
+      "hash": "5ec15fc1dad14fa37534237eb1ad8a15393d265a",
+      "levelid": "custom_level_5ec15fc1dad14fa37534237eb1ad8a15393d265a"
     },
     {
-      "key": "4e73b",
-      "songName": "PPPP - TAK_DRDR (ENGLISH VER. SHIMI)",
-      "hash": "7e56c54edc5c9b5146826234608a329b430a8877",
-      "levelid": "custom_level_7e56c54edc5c9b5146826234608a329b430a8877"
+      "key": "4e7b2",
+      "songName": "The Home Team - Walk This World With Me",
+      "hash": "a047a0e98e79aef9656a60c589d74a3ed2552f02",
+      "levelid": "custom_level_a047a0e98e79aef9656a60c589d74a3ed2552f02"
     },
     {
-      "key": "4e736",
-      "songName": "L*** Is a Bad Word",
-      "hash": "d4dd7b0e847b36d5cffd64c426e72fce892d85c9",
-      "levelid": "custom_level_d4dd7b0e847b36d5cffd64c426e72fce892d85c9"
+      "key": "4e7ab",
+      "songName": "Northern Lights Arcade",
+      "hash": "cd71326753ffc9cb4d3b5d468359d6e1cd8bd2b8",
+      "levelid": "custom_level_cd71326753ffc9cb4d3b5d468359d6e1cd8bd2b8"
     },
     {
-      "key": "4e72c",
-      "songName": "Catch The Siren",
-      "hash": "e2fcbbdacbefe865ffbbbdd0aaaead1623acaa77",
-      "levelid": "custom_level_e2fcbbdacbefe865ffbbbdd0aaaead1623acaa77"
+      "key": "4e7a8",
+      "songName": "pink gaurds",
+      "hash": "9e44ef5c207b20d39d40a5aad22107dc4e9439b8",
+      "levelid": "custom_level_9e44ef5c207b20d39d40a5aad22107dc4e9439b8"
     },
     {
-      "key": "4e72a",
-      "songName": "display - 7038634357",
-      "hash": "15db3858fd3275ea433d1f354e3676bb9dc60ae0",
-      "levelid": "custom_level_15db3858fd3275ea433d1f354e3676bb9dc60ae0"
+      "key": "4e7a7",
+      "songName": "intro (explosion)",
+      "hash": "e672f0e9c49cb8c9b594a9fbae2b2514d7797679",
+      "levelid": "custom_level_e672f0e9c49cb8c9b594a9fbae2b2514d7797679"
     },
     {
-      "key": "4e729",
-      "songName": "touhou 東方 零れ桜 - 幽閉サテライト",
-      "hash": "a57629594a65775a8a6beab59e64a6d16403df48",
-      "levelid": "custom_level_a57629594a65775a8a6beab59e64a6d16403df48"
+      "key": "4e7a6",
+      "songName": "Hideyuki Fukasawa - ULULO (Anime Version) [CHROMA]",
+      "hash": "1b4e3981611d54a61c24cc55e3c6939a1cd04d70",
+      "levelid": "custom_level_1b4e3981611d54a61c24cc55e3c6939a1cd04d70"
     },
     {
-      "key": "4e69b",
-      "songName": "夕焼けと風邪薬 - ubique",
-      "hash": "f902a06e3926855d1ab9b72fb75a7cea2147e028",
-      "levelid": "custom_level_f902a06e3926855d1ab9b72fb75a7cea2147e028"
+      "key": "4e7a5",
+      "songName": "P*Light - SWAG!!",
+      "hash": "05058e2503156343f81d2d809aaf5d1e59ccaa93",
+      "levelid": "custom_level_05058e2503156343f81d2d809aaf5d1e59ccaa93"
     },
     {
-      "key": "4e728",
-      "songName": "KiiiKiii - UNDERDOGS",
-      "hash": "b5ad3ab3446ab612ed4bf09a142997f6fb00cb4f",
-      "levelid": "custom_level_b5ad3ab3446ab612ed4bf09a142997f6fb00cb4f"
+      "key": "4e7a4",
+      "songName": "VOLTA - 12345678",
+      "hash": "957aa5a26021ff0c456ed449b6e92295007395d5",
+      "levelid": "custom_level_957aa5a26021ff0c456ed449b6e92295007395d5"
     },
     {
-      "key": "4e726",
-      "songName": "Where My Heart Will Take Me (Faith of the Heart) - Theme from Star Trek: Enterprise",
-      "hash": "816b1c2c1549c4e10fe449133246371d4619991c",
-      "levelid": "custom_level_816b1c2c1549c4e10fe449133246371d4619991c"
+      "key": "4e7a1",
+      "songName": "1000mods - Super Van Vacation",
+      "hash": "7b13ce719a47d2c391a8e20664b936448d902d3e",
+      "levelid": "custom_level_7b13ce719a47d2c391a8e20664b936448d902d3e"
+    },
+    {
+      "key": "4e79f",
+      "songName": "Lida - Ya lublu boohat'",
+      "hash": "e7e73da1659581675b69be269436d2b7b039f316",
+      "levelid": "custom_level_e7e73da1659581675b69be269436d2b7b039f316"
+    },
+    {
+      "key": "4e799",
+      "songName": "YOASOBI - UNDEAD",
+      "hash": "1f72559437aa1601179d7e0c984c38a6443ee904",
+      "levelid": "custom_level_1f72559437aa1601179d7e0c984c38a6443ee904"
+    },
+    {
+      "key": "4e796",
+      "songName": "Tr21",
+      "hash": "c906d70dc8cca0dcb77a8e3091bd4ebcae38844c",
+      "levelid": "custom_level_c906d70dc8cca0dcb77a8e3091bd4ebcae38844c"
+    },
+    {
+      "key": "4e795",
+      "songName": "glaive - we gon' be okay",
+      "hash": "c4dc897f07cb738c8b577137a107df20e0be95b3",
+      "levelid": "custom_level_c4dc897f07cb738c8b577137a107df20e0be95b3"
+    },
+    {
+      "key": "4e78c",
+      "songName": "Emotive Sensation",
+      "hash": "7afbad724856685fc21183cfa6365d6624d6f26a",
+      "levelid": "custom_level_7afbad724856685fc21183cfa6365d6624d6f26a"
+    },
+    {
+      "key": "4e78b",
+      "songName": "JOOHONEY - Bite [Monsta X}",
+      "hash": "7f7992656905579fb689651046b556a78f8cc5b2",
+      "levelid": "custom_level_7f7992656905579fb689651046b556a78f8cc5b2"
+    },
+    {
+      "key": "4e784",
+      "songName": "Me Porto Bonito",
+      "hash": "b3ee437850831146dc8e10a8ac0ddc66f66f0a40",
+      "levelid": "custom_level_b3ee437850831146dc8e10a8ac0ddc66f66f0a40"
+    },
+    {
+      "key": "4e778",
+      "songName": "Kobaryo - Affiliate Requiem",
+      "hash": "32cc86ffae7841001d7239d3dbcd3f1a8a1d4c8a",
+      "levelid": "custom_level_32cc86ffae7841001d7239d3dbcd3f1a8a1d4c8a"
+    },
+    {
+      "key": "4e777",
+      "songName": "OH NO NO NO FUNK V2",
+      "hash": "6722b320d27a21716c8292967a66f73212ffce21",
+      "levelid": "custom_level_6722b320d27a21716c8292967a66f73212ffce21"
+    },
+    {
+      "key": "4e776",
+      "songName": "Alohaii & Lime - Shoujo Dream {S}",
+      "hash": "0fea103bdfac607d389c1297558936f525ff4b01",
+      "levelid": "custom_level_0fea103bdfac607d389c1297558936f525ff4b01"
+    },
+    {
+      "key": "4e738",
+      "songName": "Koo Koo - All I Eat Is Pizza",
+      "hash": "3bef62624e547a174c4961d05b116ed14a2fb7db",
+      "levelid": "custom_level_3bef62624e547a174c4961d05b116ed14a2fb7db"
+    },
+    {
+      "key": "4e750",
+      "songName": "Password - TripleS",
+      "hash": "07a636d4e332140b802048a0740262e400ec12c7",
+      "levelid": "custom_level_07a636d4e332140b802048a0740262e400ec12c7"
+    },
+    {
+      "key": "4e774",
+      "songName": "Romantic Homicide",
+      "hash": "1fc326b2a78d13c75b3bb913bb50dacf5e5f0934",
+      "levelid": "custom_level_1fc326b2a78d13c75b3bb913bb50dacf5e5f0934"
     }
   ],
   "image": ""
