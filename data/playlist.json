@@ -1,214 +1,292 @@
 {
-  "playlistTitle": "2026-02-10T15:18:49.836Z~2026-02-11T15:18:49.836Z",
+  "playlistTitle": "2026-02-11T15:18:50.575Z~2026-02-12T15:18:50.575Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-02-10T15:18:49.836Z and 2026-02-11T15:18:49.836Z",
+  "discripstion": "Maps published between 2026-02-11T15:18:50.575Z and 2026-02-12T15:18:50.575Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4e95d",
-      "songName": "Of Monsters and Men - King And Lionheart",
-      "hash": "5c2cd277186e5de22e7da0394f9d8f7dd612757d",
-      "levelid": "custom_level_5c2cd277186e5de22e7da0394f9d8f7dd612757d"
+      "key": "4e9d3",
+      "songName": "Rockefeller Street (NIghtcore)",
+      "hash": "0df391efbcc7fb46e50b788507bc9f96c91fa08b",
+      "levelid": "custom_level_0df391efbcc7fb46e50b788507bc9f96c91fa08b"
     },
     {
-      "key": "4e95c",
-      "songName": "ILLIT (아일릿) 'Sunday Morning’ (Tis’ Time for “Torture” Princess OP 2) (Himesama \"Goumon\" no Jikan desu 2nd Season)",
-      "hash": "9b15d6ab78a34dfa2cc8d92eb52dc036e10ac9a5",
-      "levelid": "custom_level_9b15d6ab78a34dfa2cc8d92eb52dc036e10ac9a5"
+      "key": "4e9d0",
+      "songName": "Can't Stop the Feeling_TorsoEndurance",
+      "hash": "b3ddf347396269e15b102dbe6905677480a847f4",
+      "levelid": "custom_level_b3ddf347396269e15b102dbe6905677480a847f4"
     },
     {
-      "key": "4e959",
-      "songName": "BOURYOKUTEKINIKAWAII & PSYQUI - Tarira",
-      "hash": "96a37f83272c58d87ad84962cbb81b8a78feff08",
-      "levelid": "custom_level_96a37f83272c58d87ad84962cbb81b8a78feff08"
+      "key": "4e9cf",
+      "songName": "I Like to Move It_TorsoEndurance",
+      "hash": "e1af98809f27dbac150cab243f2a3a49da91e712",
+      "levelid": "custom_level_e1af98809f27dbac150cab243f2a3a49da91e712"
     },
     {
-      "key": "4e958",
-      "songName": "Too Sweet_TorsoAlternating",
-      "hash": "e7674f3e1c92f2c64bc36b72aa456db854def184",
-      "levelid": "custom_level_e7674f3e1c92f2c64bc36b72aa456db854def184"
+      "key": "4e9ce",
+      "songName": "Only Want You - (Sam Feldt Remix)",
+      "hash": "774c523c92cccc324c215f1a687e63cdc3ea2260",
+      "levelid": "custom_level_774c523c92cccc324c215f1a687e63cdc3ea2260"
     },
     {
-      "key": "4e957",
-      "songName": "Shut Up and Dance_Torso Endurance",
-      "hash": "30b2fc376774ce89f20d8b80333ef776d5177434",
-      "levelid": "custom_level_30b2fc376774ce89f20d8b80333ef776d5177434"
+      "key": "4e9cd",
+      "songName": "aka kiro ",
+      "hash": "5ce8a7eff4ec2b2696ddf3901ac2e57fd524474e",
+      "levelid": "custom_level_5ce8a7eff4ec2b2696ddf3901ac2e57fd524474e"
     },
     {
-      "key": "4e951",
-      "songName": "A Wonderfull song",
-      "hash": "1773effc14cf980f999c8b4855c1a48d4275e849",
-      "levelid": "custom_level_1773effc14cf980f999c8b4855c1a48d4275e849"
+      "key": "4e9cc",
+      "songName": "大花轿-Big Sedan Chair",
+      "hash": "0cf81c196a408b65717d3b1c99dfac029fcb28b2",
+      "levelid": "custom_level_0cf81c196a408b65717d3b1c99dfac029fcb28b2"
     },
     {
-      "key": "4e950",
-      "songName": "Overclocked",
-      "hash": "48ac520c343092bbc810a2e7ddff9da1319679aa",
-      "levelid": "custom_level_48ac520c343092bbc810a2e7ddff9da1319679aa"
+      "key": "4e9ca",
+      "songName": "君みたいになりたい/モ葛 feat.可不",
+      "hash": "45f8a6e9e75e6f4cde8e6474f99b3a2e574ca84a",
+      "levelid": "custom_level_45f8a6e9e75e6f4cde8e6474f99b3a2e574ca84a"
     },
     {
-      "key": "4e94f",
-      "songName": "Snowrise",
-      "hash": "ec0e6cafe0eaf0a07facbf00c7c9d47260ea841f",
-      "levelid": "custom_level_ec0e6cafe0eaf0a07facbf00c7c9d47260ea841f"
+      "key": "4e9c9",
+      "songName": "longstoryshort - Capsize (feat. Sarah de Warren)",
+      "hash": "309d7391dcac36530fd67ec93cf9cc3b2e4a3a1e",
+      "levelid": "custom_level_309d7391dcac36530fd67ec93cf9cc3b2e4a3a1e"
     },
     {
-      "key": "4e94b",
-      "songName": "SECRET AMBITION (魔法少女リリカルなのはStrikerS OP)",
-      "hash": "0f2e203f7546e89cd116a13ead8671ec5ea42be2",
-      "levelid": "custom_level_0f2e203f7546e89cd116a13ead8671ec5ea42be2"
+      "key": "4e9c7",
+      "songName": "星空のSpica (魔法少女リリカルなのはStrikerS ED)",
+      "hash": "7ef03f0dc34d66e20dc0723024303b199306b265",
+      "levelid": "custom_level_7ef03f0dc34d66e20dc0723024303b199306b265"
     },
     {
-      "key": "4e947",
-      "songName": "gl trying to pass",
-      "hash": "5a13b47c842dabfba73571423e6871a5b400a61b",
-      "levelid": "custom_level_5a13b47c842dabfba73571423e6871a5b400a61b"
+      "key": "4e814",
+      "songName": "Kenshi Yonezu - IRIS OUT",
+      "hash": "30f0ce127feeb49c1955cf402956eff04a51daa0",
+      "levelid": "custom_level_30f0ce127feeb49c1955cf402956eff04a51daa0"
     },
     {
-      "key": "4e946",
-      "songName": "[Not]Kawaikute Gomen",
-      "hash": "42fb4ef5b6ca08ad2cae45221767e5d6f164a383",
-      "levelid": "custom_level_42fb4ef5b6ca08ad2cae45221767e5d6f164a383"
+      "key": "4e9c4",
+      "songName": "Poppy Playtime: Chapter 5 - Official Game Trailer",
+      "hash": "e8c18eab379f08a7d3cab1ddd755111b4bc63907",
+      "levelid": "custom_level_e8c18eab379f08a7d3cab1ddd755111b4bc63907"
     },
     {
-      "key": "4e943",
-      "songName": "Golden Signs",
-      "hash": "9209142593db3eb7bc577f08186c184dc7499007",
-      "levelid": "custom_level_9209142593db3eb7bc577f08186c184dc7499007"
+      "key": "4e9c2",
+      "songName": "Turboflex meme",
+      "hash": "3f05a48a02ffb4110c14909a56dd6ad67a964f19",
+      "levelid": "custom_level_3f05a48a02ffb4110c14909a56dd6ad67a964f19"
     },
     {
-      "key": "4e942",
-      "songName": "Seagull - Tobjan",
-      "hash": "3656f3c3ca7ae8949df074f6b844b72a8a0a34c7",
-      "levelid": "custom_level_3656f3c3ca7ae8949df074f6b844b72a8a0a34c7"
+      "key": "4e9bf",
+      "songName": "kickstand",
+      "hash": "be22cf8c68f607887d2ece04fb5e0b407f969760",
+      "levelid": "custom_level_be22cf8c68f607887d2ece04fb5e0b407f969760"
     },
     {
-      "key": "4e941",
-      "songName": "t+pazolite - Boogie Woogie Splatter Show (DJ Myosuke Remix)",
-      "hash": "c3adad6f393179c6a29aa7b937037a7d5ddb376e",
-      "levelid": "custom_level_c3adad6f393179c6a29aa7b937037a7d5ddb376e"
+      "key": "4e9be",
+      "songName": "burbank house - tsubi club",
+      "hash": "39bd7e956e754460a30d145a9f5cb9fefd0a2651",
+      "levelid": "custom_level_39bd7e956e754460a30d145a9f5cb9fefd0a2651"
     },
     {
-      "key": "4e93f",
-      "songName": "Emerald Rush (Full Version) - Various Artists [Donkey Kong Bananza]",
-      "hash": "f75c0eb339705698cafd6e0517c8ffcf796eab12",
-      "levelid": "custom_level_f75c0eb339705698cafd6e0517c8ffcf796eab12"
+      "key": "4e975",
+      "songName": "不可幸力 Fukakouryoku - Vaundy covered by KMNZ",
+      "hash": "c71822b7b6c658ce6e24f7a54c29aad0d60d7385",
+      "levelid": "custom_level_c71822b7b6c658ce6e24f7a54c29aad0d60d7385"
     },
     {
-      "key": "4e931",
-      "songName": "White Reaper - Coma",
-      "hash": "37c2fbced73837e8822ae8b39da5fd9f9c847bcd",
-      "levelid": "custom_level_37c2fbced73837e8822ae8b39da5fd9f9c847bcd"
+      "key": "4e9bd",
+      "songName": "Late Night In The Stars",
+      "hash": "f0b705a04b5968d62273d6577720f7d29a850617",
+      "levelid": "custom_level_f0b705a04b5968d62273d6577720f7d29a850617"
     },
     {
-      "key": "4e930",
-      "songName": "Half Alive - Tip Toes",
-      "hash": "c8a1c9aa14c8ea0f942c21c8ab2d2bcaa01b2792",
-      "levelid": "custom_level_c8a1c9aa14c8ea0f942c21c8ab2d2bcaa01b2792"
+      "key": "4e9bc",
+      "songName": "I Just Might",
+      "hash": "7db598733964f5c0a53f427a8f3dc61f50d9a517",
+      "levelid": "custom_level_7db598733964f5c0a53f427a8f3dc61f50d9a517"
     },
     {
-      "key": "4e92f",
-      "songName": "Dethraxx - ORBIT",
-      "hash": "bd6b00e0958c03036c9d35407b805c740ef0b1c9",
-      "levelid": "custom_level_bd6b00e0958c03036c9d35407b805c740ef0b1c9"
+      "key": "4e9b8",
+      "songName": "D.A.A.N.A.C.C.E.",
+      "hash": "24c68fcc47604cc3a626ae9b70528a54c9882e8a",
+      "levelid": "custom_level_24c68fcc47604cc3a626ae9b70528a54c9882e8a"
     },
     {
-      "key": "4e929",
-      "songName": "THIRD PERSON ( Poodle) ",
-      "hash": "7a52e08dca81ef88f412db60e52c6cdee3885a95",
-      "levelid": "custom_level_7a52e08dca81ef88f412db60e52c6cdee3885a95"
+      "key": "4e9b1",
+      "songName": "beethoven virus hardtekk",
+      "hash": "5bec3311e3406ba85d3f99b0d3a3061f6003b4a7",
+      "levelid": "custom_level_5bec3311e3406ba85d3f99b0d3a3061f6003b4a7"
     },
     {
-      "key": "4e927",
-      "songName": "Hollywood baby - 100 gecs",
-      "hash": "3e2795b51118a7457244eaaedc245b8482a967ec",
-      "levelid": "custom_level_3e2795b51118a7457244eaaedc245b8482a967ec"
+      "key": "4e9b0",
+      "songName": "Bimbo Doll (slowed + reverb)",
+      "hash": "f408085a267b84eb9cd5ec821780172658d3c989",
+      "levelid": "custom_level_f408085a267b84eb9cd5ec821780172658d3c989"
     },
     {
-      "key": "4e923",
-      "songName": "Teeth First ",
-      "hash": "ea0832bc66d89c3a66635567419e3993dc728d4b",
-      "levelid": "custom_level_ea0832bc66d89c3a66635567419e3993dc728d4b"
+      "key": "4e9ae",
+      "songName": "Pop.",
+      "hash": "bb7688f004923ec35917deaa8cb854a5e7f27bf9",
+      "levelid": "custom_level_bb7688f004923ec35917deaa8cb854a5e7f27bf9"
     },
     {
-      "key": "4e921",
-      "songName": "Lab Rat",
-      "hash": "ecabbb309c6627ed6dad886dae4973ebbc25b8bd",
-      "levelid": "custom_level_ecabbb309c6627ed6dad886dae4973ebbc25b8bd"
-    },
-    {
-      "key": "4e91f",
-      "songName": "Kobaryo - Start of the Determination",
-      "hash": "62af253aba034ddfc3437d7157b3876cd9850991",
-      "levelid": "custom_level_62af253aba034ddfc3437d7157b3876cd9850991"
-    },
-    {
-      "key": "4e91e",
-      "songName": "Tiklortinpusrapredsirnipronimanfrontonsodhe",
-      "hash": "eaa270171375a6c32b04e8e03e5101267be0fb02",
-      "levelid": "custom_level_eaa270171375a6c32b04e8e03e5101267be0fb02"
-    },
-    {
-      "key": "4e91b",
+      "key": "4e9ad",
       "songName": "Infected Mushroom - Heavyweight",
-      "hash": "4b74984ec93dcd65555f098b369cd3af5a33a59f",
-      "levelid": "custom_level_4b74984ec93dcd65555f098b369cd3af5a33a59f"
+      "hash": "a6cf5d5f0e43dc72522d94de6b9dd40221250a3d",
+      "levelid": "custom_level_a6cf5d5f0e43dc72522d94de6b9dd40221250a3d"
     },
     {
-      "key": "4e916",
-      "songName": "Feel Like A Monster - John Michael Howell",
-      "hash": "142cb19d63f17058eab3a446ebb0f5c4a8b95539",
-      "levelid": "custom_level_142cb19d63f17058eab3a446ebb0f5c4a8b95539"
+      "key": "4e9a9",
+      "songName": "CHANMINA - TEST ME (TV Size)",
+      "hash": "4d372f62f94b4adc083ad3e91460c70c7f40a118",
+      "levelid": "custom_level_4d372f62f94b4adc083ad3e91460c70c7f40a118"
     },
     {
-      "key": "4e90b",
-      "songName": "Theme for Psychopath Justice",
-      "hash": "19968a14a72d0a7bb25b19431876f8a921664869",
-      "levelid": "custom_level_19968a14a72d0a7bb25b19431876f8a921664869"
+      "key": "4e9aa",
+      "songName": "WHAT THE FUCKKKKKKKK",
+      "hash": "73b8692902f02eae495ff7fa0a8c818d042e2b2e",
+      "levelid": "custom_level_73b8692902f02eae495ff7fa0a8c818d042e2b2e"
     },
     {
-      "key": "4e90a",
-      "songName": "he's gone",
-      "hash": "56725e0e2a025e5ca54585fdb7d3c28cad16244c",
-      "levelid": "custom_level_56725e0e2a025e5ca54585fdb7d3c28cad16244c"
+      "key": "4e98f",
+      "songName": " rusino - Looping the Rooms",
+      "hash": "9f6190970490e9ca8a50b01d73bd4ad3906237b7",
+      "levelid": "custom_level_9f6190970490e9ca8a50b01d73bd4ad3906237b7"
     },
     {
-      "key": "4e907",
-      "songName": "Marino ft. Kiki Wera - Crush",
-      "hash": "47fc677485f1fe02f235f3db003b7ce754713b12",
-      "levelid": "custom_level_47fc677485f1fe02f235f3db003b7ce754713b12"
+      "key": "4e98e",
+      "songName": "[Feetsaber]Back 2 Back",
+      "hash": "ec05fc4378cdfbe4e601722978283c32dd6442b7",
+      "levelid": "custom_level_ec05fc4378cdfbe4e601722978283c32dd6442b7"
     },
     {
-      "key": "4e904",
-      "songName": "Takatukka",
-      "hash": "8994ebae05ac374167a3244fa3000a85df6b8b92",
-      "levelid": "custom_level_8994ebae05ac374167a3244fa3000a85df6b8b92"
+      "key": "4e98c",
+      "songName": "S3RL - Pika Girl (Short Version)",
+      "hash": "7fc7457fe47d696af76a1e1308b29754a5dc61b2",
+      "levelid": "custom_level_7fc7457fe47d696af76a1e1308b29754a5dc61b2"
     },
     {
-      "key": "4e901",
-      "songName": "snowfall w Øneheart",
-      "hash": "317df65dbcf569e0f57e3cf8b790c00ad97e09bc",
-      "levelid": "custom_level_317df65dbcf569e0f57e3cf8b790c00ad97e09bc"
+      "key": "4e932",
+      "songName": "M83 - Outro (Wooli Remix)",
+      "hash": "1622bdaa14bea457abc52af3c8fdf42684e7420e",
+      "levelid": "custom_level_1622bdaa14bea457abc52af3c8fdf42684e7420e"
     },
     {
-      "key": "4e900",
-      "songName": "(Pre-Minute Madness Season 2) reallerr - 3333333333333333333333333333",
-      "hash": "c70d47b0e729231e35f9dbf837dce82b136be713",
-      "levelid": "custom_level_c70d47b0e729231e35f9dbf837dce82b136be713"
+      "key": "4e989",
+      "songName": "Miley Cyrus - When I Look At You",
+      "hash": "3af3115ff2990c2a644859719b73e5e37f5bccde",
+      "levelid": "custom_level_3af3115ff2990c2a644859719b73e5e37f5bccde"
     },
     {
-      "key": "4e8ff",
-      "songName": "Geometry Dash Sesquipedalian Challenge",
-      "hash": "fcb0a6d3b9c9ae0e2fb98ef1a70d09a4ca9c78b5",
-      "levelid": "custom_level_fcb0a6d3b9c9ae0e2fb98ef1a70d09a4ca9c78b5"
+      "key": "4e93d",
+      "songName": "Marley Jauz & Sturm - Welcome Home Cycles ! (feat. Churgney Gurgney)",
+      "hash": "edbafdb98dbf5be545c653c1207bff6eeb62016a",
+      "levelid": "custom_level_edbafdb98dbf5be545c653c1207bff6eeb62016a"
     },
     {
-      "key": "4e8fc",
-      "songName": "愛国行進曲",
-      "hash": "59ddc0ddd2c880cea10a4113cafe8c3f56b1e667",
-      "levelid": "custom_level_59ddc0ddd2c880cea10a4113cafe8c3f56b1e667"
+      "key": "4e981",
+      "songName": "NGNG Articulation",
+      "hash": "b347a0d5861a43670cb3cd11f88a4cda4afac178",
+      "levelid": "custom_level_b347a0d5861a43670cb3cd11f88a4cda4afac178"
+    },
+    {
+      "key": "4e980",
+      "songName": "yummy",
+      "hash": "b6624c8face1176324e17b71bfa686ca2216e8b1",
+      "levelid": "custom_level_b6624c8face1176324e17b71bfa686ca2216e8b1"
+    },
+    {
+      "key": "4e97f",
+      "songName": "t+pazolite - VOX DIAMOND",
+      "hash": "c1dd6002214864d10e1fa71c8f4af656d1b03561",
+      "levelid": "custom_level_c1dd6002214864d10e1fa71c8f4af656d1b03561"
+    },
+    {
+      "key": "4e97c",
+      "songName": "bbno$ - check",
+      "hash": "db5dc6a0a49a0811a6c9e98921d4a4a8a8b48623",
+      "levelid": "custom_level_db5dc6a0a49a0811a6c9e98921d4a4a8a8b48623"
+    },
+    {
+      "key": "4e977",
+      "songName": "Underberg (German Alcohol Ad)",
+      "hash": "9927837aed4715969f0ad138973a9d12039c0d4f",
+      "levelid": "custom_level_9927837aed4715969f0ad138973a9d12039c0d4f"
+    },
+    {
+      "key": "4e976",
+      "songName": "Some Velvet Morning \"Losing My Mind\" [LosingMyMind]",
+      "hash": "d476cf246867ba57cd02a499a7942f7bfb63d241",
+      "levelid": "custom_level_d476cf246867ba57cd02a499a7942f7bfb63d241"
+    },
+    {
+      "key": "4e974",
+      "songName": "Space Journey",
+      "hash": "1526565bee809e401002e786fcb5d69c1399cc80",
+      "levelid": "custom_level_1526565bee809e401002e786fcb5d69c1399cc80"
+    },
+    {
+      "key": "4e973",
+      "songName": "40mP - Archive of Youth (takehirotei \"Fragments of Youth\" remix)",
+      "hash": "d600d6a66e1dbd123aba5d6a70899a1eef4ff872",
+      "levelid": "custom_level_d600d6a66e1dbd123aba5d6a70899a1eef4ff872"
+    },
+    {
+      "key": "4e970",
+      "songName": "Antidote",
+      "hash": "6dd2d2f05b662b734a42c84682531f84f8d7beab",
+      "levelid": "custom_level_6dd2d2f05b662b734a42c84682531f84f8d7beab"
+    },
+    {
+      "key": "4e96e",
+      "songName": "Cake By the Ocean_PathLength",
+      "hash": "bad2537c13b88f88542769f36140e663881a62f0",
+      "levelid": "custom_level_bad2537c13b88f88542769f36140e663881a62f0"
+    },
+    {
+      "key": "4e96a",
+      "songName": "Crim3s - Lost",
+      "hash": "1ce58006b816d867b815ee24c881b377cc7f74ae",
+      "levelid": "custom_level_1ce58006b816d867b815ee24c881b377cc7f74ae"
+    },
+    {
+      "key": "4e968",
+      "songName": "When I Close My Eyes",
+      "hash": "7f67d6468428f36096912ef526829f6e9afbb20b",
+      "levelid": "custom_level_7f67d6468428f36096912ef526829f6e9afbb20b"
+    },
+    {
+      "key": "4e966",
+      "songName": "BeatChess v1",
+      "hash": "4c96d1d0bf76c2ea2ddcf9dae5cfc5886373037f",
+      "levelid": "custom_level_4c96d1d0bf76c2ea2ddcf9dae5cfc5886373037f"
+    },
+    {
+      "key": "4e964",
+      "songName": "iceblink #jesusclub",
+      "hash": "8e66f7f000ec1e6901b80c3c408b2f05f1d8ff5f",
+      "levelid": "custom_level_8e66f7f000ec1e6901b80c3c408b2f05f1d8ff5f"
+    },
+    {
+      "key": "4e961",
+      "songName": "Pulse",
+      "hash": "6c7a028c9521db99e501d29ac264dcb136d34085",
+      "levelid": "custom_level_6c7a028c9521db99e501d29ac264dcb136d34085"
+    },
+    {
+      "key": "4e95f",
+      "songName": "CIEL - Absentmindedness",
+      "hash": "eb9a978ed23b4cf7a605b3cb64c4b645dd1921f9",
+      "levelid": "custom_level_eb9a978ed23b4cf7a605b3cb64c4b645dd1921f9"
+    },
+    {
+      "key": "4e95e",
+      "songName": "CIEL - Fantasy Girl",
+      "hash": "ff64178db3db9a3bff90a30be42187fec0c2d4e2",
+      "levelid": "custom_level_ff64178db3db9a3bff90a30be42187fec0c2d4e2"
     }
   ],
   "image": ""
