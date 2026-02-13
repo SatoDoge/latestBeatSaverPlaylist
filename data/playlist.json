@@ -1,292 +1,262 @@
 {
-  "playlistTitle": "2026-02-11T15:18:50.575Z~2026-02-12T15:18:50.575Z",
+  "playlistTitle": "2026-02-12T15:18:48.650Z~2026-02-13T15:18:48.650Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-02-11T15:18:50.575Z and 2026-02-12T15:18:50.575Z",
+  "discripstion": "Maps published between 2026-02-12T15:18:48.650Z and 2026-02-13T15:18:48.650Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4e9d3",
-      "songName": "Rockefeller Street (NIghtcore)",
-      "hash": "0df391efbcc7fb46e50b788507bc9f96c91fa08b",
-      "levelid": "custom_level_0df391efbcc7fb46e50b788507bc9f96c91fa08b"
+      "key": "4e9eb",
+      "songName": "1985_PairedPacing",
+      "hash": "be514c03544a68f269e732d9f18a8b800b495a11",
+      "levelid": "custom_level_be514c03544a68f269e732d9f18a8b800b495a11"
     },
     {
-      "key": "4e9d0",
-      "songName": "Can't Stop the Feeling_TorsoEndurance",
-      "hash": "b3ddf347396269e15b102dbe6905677480a847f4",
-      "levelid": "custom_level_b3ddf347396269e15b102dbe6905677480a847f4"
+      "key": "4ea4b",
+      "songName": "Anpanman Cypher - Let's Go! Anpanmanji",
+      "hash": "52021570abf0e97f2b2c15bc2db3adc34eb8abe4",
+      "levelid": "custom_level_52021570abf0e97f2b2c15bc2db3adc34eb8abe4"
     },
     {
-      "key": "4e9cf",
-      "songName": "I Like to Move It_TorsoEndurance",
-      "hash": "e1af98809f27dbac150cab243f2a3a49da91e712",
-      "levelid": "custom_level_e1af98809f27dbac150cab243f2a3a49da91e712"
+      "key": "4ea4a",
+      "songName": "WestyHexagonVR is being a weirdo",
+      "hash": "4f9ddfa92bb404fdc029121dc6dc8efc61b274f3",
+      "levelid": "custom_level_4f9ddfa92bb404fdc029121dc6dc8efc61b274f3"
     },
     {
-      "key": "4e9ce",
-      "songName": "Only Want You - (Sam Feldt Remix)",
-      "hash": "774c523c92cccc324c215f1a687e63cdc3ea2260",
-      "levelid": "custom_level_774c523c92cccc324c215f1a687e63cdc3ea2260"
+      "key": "4ea47",
+      "songName": "Camellia - epitaxy",
+      "hash": "d10c90fb20bd9ce83e6ea6320d8dab14c8d0c8cc",
+      "levelid": "custom_level_d10c90fb20bd9ce83e6ea6320d8dab14c8d0c8cc"
     },
     {
-      "key": "4e9cd",
-      "songName": "aka kiro ",
-      "hash": "5ce8a7eff4ec2b2696ddf3901ac2e57fd524474e",
-      "levelid": "custom_level_5ce8a7eff4ec2b2696ddf3901ac2e57fd524474e"
+      "key": "4ea45",
+      "songName": "Masterofliling696969",
+      "hash": "aca5d05081a1e4d4395b375b4fb7e4f4f09f37c8",
+      "levelid": "custom_level_aca5d05081a1e4d4395b375b4fb7e4f4f09f37c8"
     },
     {
-      "key": "4e9cc",
-      "songName": "大花轿-Big Sedan Chair",
-      "hash": "0cf81c196a408b65717d3b1c99dfac029fcb28b2",
-      "levelid": "custom_level_0cf81c196a408b65717d3b1c99dfac029fcb28b2"
+      "key": "4ea44",
+      "songName": "Luo Yan 【落雁】-音阙诗听＆王梓钰/昆玉",
+      "hash": "154685e160e5124bb99cb2cdf3bead1d9dda0101",
+      "levelid": "custom_level_154685e160e5124bb99cb2cdf3bead1d9dda0101"
     },
     {
-      "key": "4e9ca",
-      "songName": "君みたいになりたい/モ葛 feat.可不",
-      "hash": "45f8a6e9e75e6f4cde8e6474f99b3a2e574ca84a",
-      "levelid": "custom_level_45f8a6e9e75e6f4cde8e6474f99b3a2e574ca84a"
+      "key": "4ea43",
+      "songName": "vibrooo 2",
+      "hash": "8e0f3bd88218c5883a3c40a96733f4d1dd7c1280",
+      "levelid": "custom_level_8e0f3bd88218c5883a3c40a96733f4d1dd7c1280"
     },
     {
-      "key": "4e9c9",
-      "songName": "longstoryshort - Capsize (feat. Sarah de Warren)",
-      "hash": "309d7391dcac36530fd67ec93cf9cc3b2e4a3a1e",
-      "levelid": "custom_level_309d7391dcac36530fd67ec93cf9cc3b2e4a3a1e"
+      "key": "4ea40",
+      "songName": "Bitter Sweet Samba - Herb Alpert",
+      "hash": "62c0df47b11be3505fdfd0776b51347ebb975fdc",
+      "levelid": "custom_level_62c0df47b11be3505fdfd0776b51347ebb975fdc"
     },
     {
-      "key": "4e9c7",
-      "songName": "星空のSpica (魔法少女リリカルなのはStrikerS ED)",
-      "hash": "7ef03f0dc34d66e20dc0723024303b199306b265",
-      "levelid": "custom_level_7ef03f0dc34d66e20dc0723024303b199306b265"
+      "key": "4b5cf",
+      "songName": "Joan Jett - I Love Rock N Roll (1982)",
+      "hash": "28f0753913f9633848aa157e8cffe763a9f226e8",
+      "levelid": "custom_level_28f0753913f9633848aa157e8cffe763a9f226e8"
     },
     {
-      "key": "4e814",
-      "songName": "Kenshi Yonezu - IRIS OUT",
-      "hash": "30f0ce127feeb49c1955cf402956eff04a51daa0",
-      "levelid": "custom_level_30f0ce127feeb49c1955cf402956eff04a51daa0"
+      "key": "4ea37",
+      "songName": "Artemas - This ones gonna hurt me",
+      "hash": "2ed3a013131a9a209757a418c30058a4d3f0d188",
+      "levelid": "custom_level_2ed3a013131a9a209757a418c30058a4d3f0d188"
     },
     {
-      "key": "4e9c4",
-      "songName": "Poppy Playtime: Chapter 5 - Official Game Trailer",
-      "hash": "e8c18eab379f08a7d3cab1ddd755111b4bc63907",
-      "levelid": "custom_level_e8c18eab379f08a7d3cab1ddd755111b4bc63907"
+      "key": "4ea36",
+      "songName": "MASSIVE WONDERS (魔法少女リリカルなのはStrikerS OP2)",
+      "hash": "187d1e4652caafa5a3775efa0beb87cca3ba4ded",
+      "levelid": "custom_level_187d1e4652caafa5a3775efa0beb87cca3ba4ded"
     },
     {
-      "key": "4e9c2",
-      "songName": "Turboflex meme",
-      "hash": "3f05a48a02ffb4110c14909a56dd6ad67a964f19",
-      "levelid": "custom_level_3f05a48a02ffb4110c14909a56dd6ad67a964f19"
+      "key": "4ea34",
+      "songName": "バレンタイン・キッス",
+      "hash": "9aecd512900e2e242a5e32ae2dd4f1e521174695",
+      "levelid": "custom_level_9aecd512900e2e242a5e32ae2dd4f1e521174695"
     },
     {
-      "key": "4e9bf",
-      "songName": "kickstand",
-      "hash": "be22cf8c68f607887d2ece04fb5e0b407f969760",
-      "levelid": "custom_level_be22cf8c68f607887d2ece04fb5e0b407f969760"
+      "key": "4ea32",
+      "songName": "wiggle wiggle shake shake",
+      "hash": "b4d567d35573fa947d5782cafc9c0195b8c7eb19",
+      "levelid": "custom_level_b4d567d35573fa947d5782cafc9c0195b8c7eb19"
     },
     {
-      "key": "4e9be",
-      "songName": "burbank house - tsubi club",
-      "hash": "39bd7e956e754460a30d145a9f5cb9fefd0a2651",
-      "levelid": "custom_level_39bd7e956e754460a30d145a9f5cb9fefd0a2651"
+      "key": "4ea31",
+      "songName": "NOT THE ONE",
+      "hash": "dcab99fa4097801ba4c6004b4290ca44ea0c323c",
+      "levelid": "custom_level_dcab99fa4097801ba4c6004b4290ca44ea0c323c"
     },
     {
-      "key": "4e975",
-      "songName": "不可幸力 Fukakouryoku - Vaundy covered by KMNZ",
-      "hash": "c71822b7b6c658ce6e24f7a54c29aad0d60d7385",
-      "levelid": "custom_level_c71822b7b6c658ce6e24f7a54c29aad0d60d7385"
+      "key": "4ea29",
+      "songName": "schlem - #jerseyclub",
+      "hash": "747aa4dc155de8e5eea60b28948fbe781e146b0b",
+      "levelid": "custom_level_747aa4dc155de8e5eea60b28948fbe781e146b0b"
     },
     {
-      "key": "4e9bd",
-      "songName": "Late Night In The Stars",
-      "hash": "f0b705a04b5968d62273d6577720f7d29a850617",
-      "levelid": "custom_level_f0b705a04b5968d62273d6577720f7d29a850617"
+      "key": "4ea25",
+      "songName": "Dubwoofer Subsetp ",
+      "hash": "50b70b692e8b0597cb17db2660ac1c8290bc6061",
+      "levelid": "custom_level_50b70b692e8b0597cb17db2660ac1c8290bc6061"
     },
     {
-      "key": "4e9bc",
-      "songName": "I Just Might",
-      "hash": "7db598733964f5c0a53f427a8f3dc61f50d9a517",
-      "levelid": "custom_level_7db598733964f5c0a53f427a8f3dc61f50d9a517"
+      "key": "4ea24",
+      "songName": "You Suffer- Celebrating 20 Years of Scum",
+      "hash": "a63c5b68a5150d55d7ae3737367bae23eb4bf3ed",
+      "levelid": "custom_level_a63c5b68a5150d55d7ae3737367bae23eb4bf3ed"
     },
     {
-      "key": "4e9b8",
-      "songName": "D.A.A.N.A.C.C.E.",
-      "hash": "24c68fcc47604cc3a626ae9b70528a54c9882e8a",
-      "levelid": "custom_level_24c68fcc47604cc3a626ae9b70528a54c9882e8a"
+      "key": "4ea22",
+      "songName": "Drone footage from Rocket Like a Hurricane launch for NASA TROPIC",
+      "hash": "8d40579fdf8d88b77736327121e7f60b4009d40f",
+      "levelid": "custom_level_8d40579fdf8d88b77736327121e7f60b4009d40f"
     },
     {
-      "key": "4e9b1",
-      "songName": "beethoven virus hardtekk",
-      "hash": "5bec3311e3406ba85d3f99b0d3a3061f6003b4a7",
-      "levelid": "custom_level_5bec3311e3406ba85d3f99b0d3a3061f6003b4a7"
+      "key": "4ea1f",
+      "songName": "Mine by Bazzi",
+      "hash": "36092ead7f3f236ff282a4786b4485bd19517627",
+      "levelid": "custom_level_36092ead7f3f236ff282a4786b4485bd19517627"
     },
     {
-      "key": "4e9b0",
-      "songName": "Bimbo Doll (slowed + reverb)",
-      "hash": "f408085a267b84eb9cd5ec821780172658d3c989",
-      "levelid": "custom_level_f408085a267b84eb9cd5ec821780172658d3c989"
+      "key": "4ea1e",
+      "songName": "snowfloor",
+      "hash": "259473cb9a71586d0ea8f3bd0b59f035d0821c40",
+      "levelid": "custom_level_259473cb9a71586d0ea8f3bd0b59f035d0821c40"
     },
     {
-      "key": "4e9ae",
-      "songName": "Pop.",
-      "hash": "bb7688f004923ec35917deaa8cb854a5e7f27bf9",
-      "levelid": "custom_level_bb7688f004923ec35917deaa8cb854a5e7f27bf9"
+      "key": "4ea18",
+      "songName": "[Feetsaber]トウキョウ・シャンディ・ランデヴ",
+      "hash": "51d6523195a1400105762bd9fcabbe128b7ed12d",
+      "levelid": "custom_level_51d6523195a1400105762bd9fcabbe128b7ed12d"
     },
     {
-      "key": "4e9ad",
-      "songName": "Infected Mushroom - Heavyweight",
-      "hash": "a6cf5d5f0e43dc72522d94de6b9dd40221250a3d",
-      "levelid": "custom_level_a6cf5d5f0e43dc72522d94de6b9dd40221250a3d"
+      "key": "4ea0d",
+      "songName": "ILLIT - Do the Dance  (Sped up Ver.)",
+      "hash": "7238ba4dedd55a50db8540fa25dfdb9130818f8c",
+      "levelid": "custom_level_7238ba4dedd55a50db8540fa25dfdb9130818f8c"
     },
     {
-      "key": "4e9a9",
-      "songName": "CHANMINA - TEST ME (TV Size)",
-      "hash": "4d372f62f94b4adc083ad3e91460c70c7f40a118",
-      "levelid": "custom_level_4d372f62f94b4adc083ad3e91460c70c7f40a118"
+      "key": "4ea0b",
+      "songName": "[V4] Mickey Darling - Big Sad",
+      "hash": "3bba50539be9407617c27832357d9d78b79b0286",
+      "levelid": "custom_level_3bba50539be9407617c27832357d9d78b79b0286"
     },
     {
-      "key": "4e9aa",
-      "songName": "WHAT THE FUCKKKKKKKK",
-      "hash": "73b8692902f02eae495ff7fa0a8c818d042e2b2e",
-      "levelid": "custom_level_73b8692902f02eae495ff7fa0a8c818d042e2b2e"
+      "key": "4ea05",
+      "songName": "YEAR OF THE BAD DRAGON",
+      "hash": "fb3bdd4b1aee32a2346a31a6881e91ab14f71346",
+      "levelid": "custom_level_fb3bdd4b1aee32a2346a31a6881e91ab14f71346"
     },
     {
-      "key": "4e98f",
-      "songName": " rusino - Looping the Rooms",
-      "hash": "9f6190970490e9ca8a50b01d73bd4ad3906237b7",
-      "levelid": "custom_level_9f6190970490e9ca8a50b01d73bd4ad3906237b7"
+      "key": "4ea00",
+      "songName": "ts was not the wind",
+      "hash": "4aea1ad5c77b0920eeb281cbcf7fd732b4252525",
+      "levelid": "custom_level_4aea1ad5c77b0920eeb281cbcf7fd732b4252525"
     },
     {
-      "key": "4e98e",
-      "songName": "[Feetsaber]Back 2 Back",
-      "hash": "ec05fc4378cdfbe4e601722978283c32dd6442b7",
-      "levelid": "custom_level_ec05fc4378cdfbe4e601722978283c32dd6442b7"
+      "key": "4e9fe",
+      "songName": "Only Skin",
+      "hash": "1559c254d090eb7b1d3bf22005afe5b70bea0b9b",
+      "levelid": "custom_level_1559c254d090eb7b1d3bf22005afe5b70bea0b9b"
     },
     {
-      "key": "4e98c",
-      "songName": "S3RL - Pika Girl (Short Version)",
-      "hash": "7fc7457fe47d696af76a1e1308b29754a5dc61b2",
-      "levelid": "custom_level_7fc7457fe47d696af76a1e1308b29754a5dc61b2"
+      "key": "4e9fd",
+      "songName": "ConcernedApe - Dance Of The Moonlight Jellies",
+      "hash": "18c81af6919916dcb62e26b4e88400d87442aaa6",
+      "levelid": "custom_level_18c81af6919916dcb62e26b4e88400d87442aaa6"
     },
     {
-      "key": "4e932",
-      "songName": "M83 - Outro (Wooli Remix)",
-      "hash": "1622bdaa14bea457abc52af3c8fdf42684e7420e",
-      "levelid": "custom_level_1622bdaa14bea457abc52af3c8fdf42684e7420e"
+      "key": "4e9fb",
+      "songName": "[CS New Years 2026 Countdown 🎁] Camellia - Nacreous Snowmelt",
+      "hash": "34f6305d62168be0e897fe5c5e1af3ce5e136755",
+      "levelid": "custom_level_34f6305d62168be0e897fe5c5e1af3ce5e136755"
     },
     {
-      "key": "4e989",
-      "songName": "Miley Cyrus - When I Look At You",
-      "hash": "3af3115ff2990c2a644859719b73e5e37f5bccde",
-      "levelid": "custom_level_3af3115ff2990c2a644859719b73e5e37f5bccde"
+      "key": "4e9f1",
+      "songName": "bad dubstep",
+      "hash": "5e06e23315a046e5eb6921c35204c2e15eed8625",
+      "levelid": "custom_level_5e06e23315a046e5eb6921c35204c2e15eed8625"
     },
     {
-      "key": "4e93d",
-      "songName": "Marley Jauz & Sturm - Welcome Home Cycles ! (feat. Churgney Gurgney)",
-      "hash": "edbafdb98dbf5be545c653c1207bff6eeb62016a",
-      "levelid": "custom_level_edbafdb98dbf5be545c653c1207bff6eeb62016a"
+      "key": "4e9f0",
+      "songName": "I'm Gonna Be A Star",
+      "hash": "7974a2cc7c6635d26ee9a59cc28b2c9e785d1a67",
+      "levelid": "custom_level_7974a2cc7c6635d26ee9a59cc28b2c9e785d1a67"
     },
     {
-      "key": "4e981",
-      "songName": "NGNG Articulation",
-      "hash": "b347a0d5861a43670cb3cd11f88a4cda4afac178",
-      "levelid": "custom_level_b347a0d5861a43670cb3cd11f88a4cda4afac178"
+      "key": "4e9ec",
+      "songName": "Matduke ft. Metzen - Shivers",
+      "hash": "4b729debf280ed344df0ec8533a44d2f3c2a0a70",
+      "levelid": "custom_level_4b729debf280ed344df0ec8533a44d2f3c2a0a70"
     },
     {
-      "key": "4e980",
-      "songName": "yummy",
-      "hash": "b6624c8face1176324e17b71bfa686ca2216e8b1",
-      "levelid": "custom_level_b6624c8face1176324e17b71bfa686ca2216e8b1"
+      "key": "4e9e7",
+      "songName": "XH - Persistent Truth [F/C MEMORY: TO YOU]",
+      "hash": "b62f325e6b8f8de464357a6ec8b58e77f83666b9",
+      "levelid": "custom_level_b62f325e6b8f8de464357a6ec8b58e77f83666b9"
     },
     {
-      "key": "4e97f",
-      "songName": "t+pazolite - VOX DIAMOND",
-      "hash": "c1dd6002214864d10e1fa71c8f4af656d1b03561",
-      "levelid": "custom_level_c1dd6002214864d10e1fa71c8f4af656d1b03561"
+      "key": "4e9e5",
+      "songName": "Muse - Hysteria",
+      "hash": "a843a7692cfb5c299c80a4849234a78a262839fe",
+      "levelid": "custom_level_a843a7692cfb5c299c80a4849234a78a262839fe"
     },
     {
-      "key": "4e97c",
-      "songName": "bbno$ - check",
-      "hash": "db5dc6a0a49a0811a6c9e98921d4a4a8a8b48623",
-      "levelid": "custom_level_db5dc6a0a49a0811a6c9e98921d4a4a8a8b48623"
+      "key": "4e9e3",
+      "songName": "BeatChess v1.1",
+      "hash": "d064982688b99ebb8aaf112c553046796774a225",
+      "levelid": "custom_level_d064982688b99ebb8aaf112c553046796774a225"
     },
     {
-      "key": "4e977",
-      "songName": "Underberg (German Alcohol Ad)",
-      "hash": "9927837aed4715969f0ad138973a9d12039c0d4f",
-      "levelid": "custom_level_9927837aed4715969f0ad138973a9d12039c0d4f"
+      "key": "4e9e4",
+      "songName": "Army Dreamers",
+      "hash": "b3ee2499991cbc792e5f962439a25e8f57c5992a",
+      "levelid": "custom_level_b3ee2499991cbc792e5f962439a25e8f57c5992a"
     },
     {
-      "key": "4e976",
-      "songName": "Some Velvet Morning \"Losing My Mind\" [LosingMyMind]",
-      "hash": "d476cf246867ba57cd02a499a7942f7bfb63d241",
-      "levelid": "custom_level_d476cf246867ba57cd02a499a7942f7bfb63d241"
+      "key": "4e9e1",
+      "songName": "Yearning for Yellow (Vroom!) - Hirokazu Ando [Kirby: Planet Robobot]",
+      "hash": "1d6aa14f8a642cb878d0215aa4205d92e56207f4",
+      "levelid": "custom_level_1d6aa14f8a642cb878d0215aa4205d92e56207f4"
     },
     {
-      "key": "4e974",
-      "songName": "Space Journey",
-      "hash": "1526565bee809e401002e786fcb5d69c1399cc80",
-      "levelid": "custom_level_1526565bee809e401002e786fcb5d69c1399cc80"
+      "key": "4e9df",
+      "songName": "Serenity - 涙quincke",
+      "hash": "aa5c2bf7108998c056647739cf5da92859d0d121",
+      "levelid": "custom_level_aa5c2bf7108998c056647739cf5da92859d0d121"
     },
     {
-      "key": "4e973",
-      "songName": "40mP - Archive of Youth (takehirotei \"Fragments of Youth\" remix)",
-      "hash": "d600d6a66e1dbd123aba5d6a70899a1eef4ff872",
-      "levelid": "custom_level_d600d6a66e1dbd123aba5d6a70899a1eef4ff872"
+      "key": "4e9da",
+      "songName": "eekhorn",
+      "hash": "3985476834fbd91cb4b01f0aea2a29f05c3c9ee8",
+      "levelid": "custom_level_3985476834fbd91cb4b01f0aea2a29f05c3c9ee8"
     },
     {
-      "key": "4e970",
-      "songName": "Antidote",
-      "hash": "6dd2d2f05b662b734a42c84682531f84f8d7beab",
-      "levelid": "custom_level_6dd2d2f05b662b734a42c84682531f84f8d7beab"
+      "key": "4e9d7",
+      "songName": "✞[9lanes]Ghost✞",
+      "hash": "c1c33580270bbd7516c2d9b5005a4d5c8aa84a7b",
+      "levelid": "custom_level_c1c33580270bbd7516c2d9b5005a4d5c8aa84a7b"
     },
     {
-      "key": "4e96e",
-      "songName": "Cake By the Ocean_PathLength",
-      "hash": "bad2537c13b88f88542769f36140e663881a62f0",
-      "levelid": "custom_level_bad2537c13b88f88542769f36140e663881a62f0"
+      "key": "4e9d2",
+      "songName": "四六時ちゅっちゅ！ - 星川サラ",
+      "hash": "0cc1cc379244121e0187776e3d1e1a4f8fed6e1f",
+      "levelid": "custom_level_0cc1cc379244121e0187776e3d1e1a4f8fed6e1f"
     },
     {
-      "key": "4e96a",
-      "songName": "Crim3s - Lost",
-      "hash": "1ce58006b816d867b815ee24c881b377cc7f74ae",
-      "levelid": "custom_level_1ce58006b816d867b815ee24c881b377cc7f74ae"
+      "key": "4e9d5",
+      "songName": "Janji - Heroes Tonight (feat. Johnning)",
+      "hash": "13d0a277a63197b0b472ed4b515210444aa9ca20",
+      "levelid": "custom_level_13d0a277a63197b0b472ed4b515210444aa9ca20"
     },
     {
-      "key": "4e968",
-      "songName": "When I Close My Eyes",
-      "hash": "7f67d6468428f36096912ef526829f6e9afbb20b",
-      "levelid": "custom_level_7f67d6468428f36096912ef526829f6e9afbb20b"
-    },
-    {
-      "key": "4e966",
-      "songName": "BeatChess v1",
-      "hash": "4c96d1d0bf76c2ea2ddcf9dae5cfc5886373037f",
-      "levelid": "custom_level_4c96d1d0bf76c2ea2ddcf9dae5cfc5886373037f"
-    },
-    {
-      "key": "4e964",
-      "songName": "iceblink #jesusclub",
-      "hash": "8e66f7f000ec1e6901b80c3c408b2f05f1d8ff5f",
-      "levelid": "custom_level_8e66f7f000ec1e6901b80c3c408b2f05f1d8ff5f"
-    },
-    {
-      "key": "4e961",
-      "songName": "Pulse",
-      "hash": "6c7a028c9521db99e501d29ac264dcb136d34085",
-      "levelid": "custom_level_6c7a028c9521db99e501d29ac264dcb136d34085"
-    },
-    {
-      "key": "4e95f",
-      "songName": "CIEL - Absentmindedness",
-      "hash": "eb9a978ed23b4cf7a605b3cb64c4b645dd1921f9",
-      "levelid": "custom_level_eb9a978ed23b4cf7a605b3cb64c4b645dd1921f9"
-    },
-    {
-      "key": "4e95e",
-      "songName": "CIEL - Fantasy Girl",
-      "hash": "ff64178db3db9a3bff90a30be42187fec0c2d4e2",
-      "levelid": "custom_level_ff64178db3db9a3bff90a30be42187fec0c2d4e2"
+      "key": "4e9d4",
+      "songName": "Rockefeller Street (Nightcore)",
+      "hash": "b1933cd00a222ea1b6ce07eeb0e450ea372c6c58",
+      "levelid": "custom_level_b1933cd00a222ea1b6ce07eeb0e450ea372c6c58"
     }
   ],
   "image": ""
