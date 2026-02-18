@@ -1,244 +1,274 @@
 {
-  "playlistTitle": "2026-02-16T15:18:48.446Z~2026-02-17T15:18:48.446Z",
+  "playlistTitle": "2026-02-17T15:18:48.129Z~2026-02-18T15:18:48.129Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-02-16T15:18:48.446Z and 2026-02-17T15:18:48.446Z",
+  "discripstion": "Maps published between 2026-02-17T15:18:48.129Z and 2026-02-18T15:18:48.129Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4e4b2",
-      "songName": "缶缶 - 抜刀",
-      "hash": "1e23b4af64951d39b6f76b8cedb4e4f0f2f975c1",
-      "levelid": "custom_level_1e23b4af64951d39b6f76b8cedb4e4f0f2f975c1"
+      "key": "4ecab",
+      "songName": "Soda Pop",
+      "hash": "ee9ec721da750b6ae1fa5689b3050f2b012a3e22",
+      "levelid": "custom_level_ee9ec721da750b6ae1fa5689b3050f2b012a3e22"
     },
     {
-      "key": "4ec35",
-      "songName": "Future Strike (ViVid Strike! OP)",
-      "hash": "b6ab57378537a1a8e1972b4b68ca21a01bd94833",
-      "levelid": "custom_level_b6ab57378537a1a8e1972b4b68ca21a01bd94833"
+      "key": "4ecaa",
+      "songName": "Look What You Made Me Do_Torso Alternating",
+      "hash": "c0e306c247486e9452d361f3595dc697f6be41c4",
+      "levelid": "custom_level_c0e306c247486e9452d361f3595dc697f6be41c4"
     },
     {
-      "key": "4eb32",
-      "songName": "her",
-      "hash": "d4d33f94e0ff6eb35c8ef5b6b55348470ef84e86",
-      "levelid": "custom_level_d4d33f94e0ff6eb35c8ef5b6b55348470ef84e86"
+      "key": "4eca9",
+      "songName": "Final Countdown_PairedPacing",
+      "hash": "72f61584036794883791310606dbe5b628aa2d60",
+      "levelid": "custom_level_72f61584036794883791310606dbe5b628aa2d60"
     },
     {
-      "key": "4ec2e",
-      "songName": "The Big Black",
-      "hash": "ec528cd5d6f41ef62517f9c90d7ea83927f322fd",
-      "levelid": "custom_level_ec528cd5d6f41ef62517f9c90d7ea83927f322fd"
+      "key": "4eb6a",
+      "songName": "Hommarju-Rock It",
+      "hash": "5f6d1086a2cd890004882fa8f0b8fbac9207c7cc",
+      "levelid": "custom_level_5f6d1086a2cd890004882fa8f0b8fbac9207c7cc"
     },
     {
-      "key": "4ec2d",
-      "songName": "[GLS] KILLSHOT - Boom Kitty, MDK",
-      "hash": "f641de8dc03aa11a4577f17620e2f2a1838b7365",
-      "levelid": "custom_level_f641de8dc03aa11a4577f17620e2f2a1838b7365"
+      "key": "4eca7",
+      "songName": " Badcomputer & Bianca - Land of the Living",
+      "hash": "86decb5c03455e0ecfd95e2f7843e49bc9eb36ff",
+      "levelid": "custom_level_86decb5c03455e0ecfd95e2f7843e49bc9eb36ff"
     },
     {
-      "key": "4ec2c",
-      "songName": "【\\\\Virtual Collab!!!//】かたぎり - c0pyf0x【Song From：Osu! Taiko World Cup 2024 Grand Finals NM1】",
-      "hash": "03940f2eff26e91988ec09ab9e1c78bdb068bd54",
-      "levelid": "custom_level_03940f2eff26e91988ec09ab9e1c78bdb068bd54"
+      "key": "4eca6",
+      "songName": "Starry Wish (ViVid Strike! ED)",
+      "hash": "da3b5d209373c68bedc4517e4e753746fccf376d",
+      "levelid": "custom_level_da3b5d209373c68bedc4517e4e753746fccf376d"
     },
     {
-      "key": "4ec2b",
-      "songName": "quinn - im here for a good time, not a long time (v4 ig bro)",
-      "hash": "2bb2097a41b272c01dbfeedb7d5fa8c0a55fcb79",
-      "levelid": "custom_level_2bb2097a41b272c01dbfeedb7d5fa8c0a55fcb79"
+      "key": "4eca5",
+      "songName": "Your Favorite Sidekick",
+      "hash": "14e1dfd80e6314c9ba4303515e262ddac9fd207a",
+      "levelid": "custom_level_14e1dfd80e6314c9ba4303515e262ddac9fd207a"
     },
     {
-      "key": "4ec2a",
+      "key": "4eca4",
+      "songName": "Travel.",
+      "hash": "67c9e8fafc8174b95eba2712fd2b122aad7fb9c0",
+      "levelid": "custom_level_67c9e8fafc8174b95eba2712fd2b122aad7fb9c0"
+    },
+    {
+      "key": "4ec9f",
+      "songName": "VDT - Acer Tower",
+      "hash": "513d512f21282764fd2c2c0a2b9b2c3d154c595b",
+      "levelid": "custom_level_513d512f21282764fd2c2c0a2b9b2c3d154c595b"
+    },
+    {
+      "key": "4eca0",
+      "songName": "Rehash - malasie",
+      "hash": "17e98345591a62760a16b9edbea3d1b348148b82",
+      "levelid": "custom_level_17e98345591a62760a16b9edbea3d1b348148b82"
+    },
+    {
+      "key": "4ec8c",
+      "songName": "Yoshino - Lavish!! [\"There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her\" Opening]",
+      "hash": "6358ad6bd03ed175a56a4953c4fccf0c64ceec28",
+      "levelid": "custom_level_6358ad6bd03ed175a56a4953c4fccf0c64ceec28"
+    },
+    {
+      "key": "4ec9e",
+      "songName": "I got a new car.",
+      "hash": "76421ba20754d3396b2aa7dd12c7c1930f8ac0f8",
+      "levelid": "custom_level_76421ba20754d3396b2aa7dd12c7c1930f8ac0f8"
+    },
+    {
+      "key": "4ec8b",
+      "songName": "Sangatsu no Phantasia - Twisted Hero [\"Inexpressive Kashiwada and Expressive Oota\" Ending]",
+      "hash": "8c49dfd41f267d801cf0833448e8b9f79c4b0be6",
+      "levelid": "custom_level_8c49dfd41f267d801cf0833448e8b9f79c4b0be6"
+    },
+    {
+      "key": "4ec9c",
+      "songName": "30 minutes of silence with a note somewhere",
+      "hash": "7f6ee35333d3e6ec307e0d03c997b9a9f278180e",
+      "levelid": "custom_level_7f6ee35333d3e6ec307e0d03c997b9a9f278180e"
+    },
+    {
+      "key": "4ec9b",
+      "songName": "NightHawk22 - Animation Warrior Theme",
+      "hash": "372d010d89f69c0c05053e8ba975f889343acee1",
+      "levelid": "custom_level_372d010d89f69c0c05053e8ba975f889343acee1"
+    },
+    {
+      "key": "4ec9a",
+      "songName": "Circus but rac",
+      "hash": "018a76b9dec736a362c34c738e20d859acea629c",
+      "levelid": "custom_level_018a76b9dec736a362c34c738e20d859acea629c"
+    },
+    {
+      "key": "4ec97",
+      "songName": "Fiverwater - Unfelicitas",
+      "hash": "0b20ecf8feb3e5e405da802c597ad9cb9cd740cd",
+      "levelid": "custom_level_0b20ecf8feb3e5e405da802c597ad9cb9cd740cd"
+    },
+    {
+      "key": "4ec96",
+      "songName": "Clarity",
+      "hash": "f87a8477b1bcb147168589f06217ef95f1b69d89",
+      "levelid": "custom_level_f87a8477b1bcb147168589f06217ef95f1b69d89"
+    },
+    {
+      "key": "4ec94",
+      "songName": "Daniel.mp3 - 3 am walk",
+      "hash": "413426d0b8c0eb100f8d99e61a9f4641b9115abc",
+      "levelid": "custom_level_413426d0b8c0eb100f8d99e61a9f4641b9115abc"
+    },
+    {
+      "key": "4ec93",
+      "songName": "What if we make the Moon fully habitable for humans -",
+      "hash": "8eaef454bddb0a4551f45fa5670b80bc0c9f8ec5",
+      "levelid": "custom_level_8eaef454bddb0a4551f45fa5670b80bc0c9f8ec5"
+    },
+    {
+      "key": "4ec92",
+      "songName": "Serious Spirals - the quick brown fox",
+      "hash": "0baa68384ba64c14c9370ce385e1c9c4adc18d67",
+      "levelid": "custom_level_0baa68384ba64c14c9370ce385e1c9c4adc18d67"
+    },
+    {
+      "key": "4ec91",
+      "songName": "Circus",
+      "hash": "0971435ecfe0057af17496fc9d04cb482ae0b153",
+      "levelid": "custom_level_0971435ecfe0057af17496fc9d04cb482ae0b153"
+    },
+    {
+      "key": "4ec90",
+      "songName": "i like to pump it",
+      "hash": "b0114a25ec883000f28219793dfb3fec194469ab",
+      "levelid": "custom_level_b0114a25ec883000f28219793dfb3fec194469ab"
+    },
+    {
+      "key": "4ec8f",
+      "songName": "hypersum",
+      "hash": "fe6996bd55d259f634b7ec7e3be7159194cb6f43",
+      "levelid": "custom_level_fe6996bd55d259f634b7ec7e3be7159194cb6f43"
+    },
+    {
+      "key": "4ec8e",
+      "songName": "Kobaryo - Start of the Determination",
+      "hash": "0177eae1439722023be0294f0431f45b8d8f52fd",
+      "levelid": "custom_level_0177eae1439722023be0294f0431f45b8d8f52fd"
+    },
+    {
+      "key": "4ec89",
+      "songName": "[6 LANE] Kaneko Chiharu - WHITEOUT",
+      "hash": "68d75b2d7b057258990918de8031f01d481b35d1",
+      "levelid": "custom_level_68d75b2d7b057258990918de8031f01d481b35d1"
+    },
+    {
+      "key": "4ec88",
       "songName": "home - wiv",
-      "hash": "c5eef3f3a4c46b1ffb5fb822b4b465d6d6c4d525",
-      "levelid": "custom_level_c5eef3f3a4c46b1ffb5fb822b4b465d6d6c4d525"
+      "hash": "e4fcb3b4a44788e4693edf50087b1c16a14f802f",
+      "levelid": "custom_level_e4fcb3b4a44788e4693edf50087b1c16a14f802f"
     },
     {
-      "key": "4ec1d",
-      "songName": "cursed formations",
-      "hash": "f6b15cf9811cd31c7cdf3be5f0d940dad4cd00d1",
-      "levelid": "custom_level_f6b15cf9811cd31c7cdf3be5f0d940dad4cd00d1"
+      "key": "4ec7c",
+      "songName": "kessoku band - Karakara",
+      "hash": "b2caf8125827f5cedc8a1118f29ee867fad399a2",
+      "levelid": "custom_level_b2caf8125827f5cedc8a1118f29ee867fad399a2"
     },
     {
-      "key": "4ec10",
-      "songName": "Toby Fox - Memory (10 years later)",
-      "hash": "55f7dc0fea7f698dadbb21a5fe138840179828b5",
-      "levelid": "custom_level_55f7dc0fea7f698dadbb21a5fe138840179828b5"
+      "key": "4ec66",
+      "songName": "Sorry Days",
+      "hash": "c6ec3afd1f00a9478eac0c4d7037359aec63a7d7",
+      "levelid": "custom_level_c6ec3afd1f00a9478eac0c4d7037359aec63a7d7"
     },
     {
-      "key": "4ec0b",
-      "songName": "I Want You To Know - Zedd (ft. Selena Gomez) ",
-      "hash": "6a0e5516fb274c2a5764f6a412a03804e5db9d7b",
-      "levelid": "custom_level_6a0e5516fb274c2a5764f6a412a03804e5db9d7b"
+      "key": "4ec65",
+      "songName": "Gleodream",
+      "hash": "d6d047494fb8e02ff01dde4c2d3c24225abcbd28",
+      "levelid": "custom_level_d6d047494fb8e02ff01dde4c2d3c24225abcbd28"
     },
     {
-      "key": "4ec09",
-      "songName": "FOREVER (INTRO MIX)",
-      "hash": "825132f6d53a0a735a9520dce57b41bc94e71e42",
-      "levelid": "custom_level_825132f6d53a0a735a9520dce57b41bc94e71e42"
+      "key": "4ec62",
+      "songName": "Climax ☆ JUMPING!",
+      "hash": "9f36deb48f1c477a8f9c90ce98e73c8cde8bebd2",
+      "levelid": "custom_level_9f36deb48f1c477a8f9c90ce98e73c8cde8bebd2"
     },
     {
-      "key": "4ebdb",
-      "songName": "Elley Duhé & Whethan - MONEY ON THE DASH",
-      "hash": "b9636f8251fe97515c1154b076969264528b32a6",
-      "levelid": "custom_level_b9636f8251fe97515c1154b076969264528b32a6"
+      "key": "4ec61",
+      "songName": "INTERNET ROCKSTAR",
+      "hash": "69a00ddfc09c10b41e9a88465447033a190d0ee6",
+      "levelid": "custom_level_69a00ddfc09c10b41e9a88465447033a190d0ee6"
     },
     {
-      "key": "4ec00",
-      "songName": "EVERY ROCKET LEAGUE player will understand_",
-      "hash": "f225aa9515bc710049db735e83f71c1ad022c8dc",
-      "levelid": "custom_level_f225aa9515bc710049db735e83f71c1ad022c8dc"
+      "key": "4ec60",
+      "songName": "Moana Lisa V2",
+      "hash": "e2aabc6d71315c4aa1fa1d7519c8d07d443199d3",
+      "levelid": "custom_level_e2aabc6d71315c4aa1fa1d7519c8d07d443199d3"
     },
     {
-      "key": "4ebfd",
-      "songName": "country beatbox",
-      "hash": "b7e39742876df224d5620db2badd4efbdf69ccdf",
-      "levelid": "custom_level_b7e39742876df224d5620db2badd4efbdf69ccdf"
+      "key": "4ec5e",
+      "songName": "denver 1190",
+      "hash": "7d3ac0384fe9575ccd9d2c95e162ac19d43ff935",
+      "levelid": "custom_level_7d3ac0384fe9575ccd9d2c95e162ac19d43ff935"
     },
     {
-      "key": "4ebfa",
-      "songName": "Ado - Villain",
-      "hash": "f8f7adf03fd5a8f6068622d7d22d00f1004b1ceb",
-      "levelid": "custom_level_f8f7adf03fd5a8f6068622d7d22d00f1004b1ceb"
+      "key": "4ec5b",
+      "songName": "RAC GOD",
+      "hash": "9c5370309a474fd32333b9e6c80156a844afb11f",
+      "levelid": "custom_level_9c5370309a474fd32333b9e6c80156a844afb11f"
     },
     {
-      "key": "4ebf6",
-      "songName": "Two Another - pool party (BCBC Remix)",
-      "hash": "ca94e3eaed02bb01e9946abe25af1fffeb8dd896",
-      "levelid": "custom_level_ca94e3eaed02bb01e9946abe25af1fffeb8dd896"
+      "key": "4ec5a",
+      "songName": "t+pazolite - Little Yawn",
+      "hash": "bca518e51ecc94422ed0746ab7d1526a7aef8938",
+      "levelid": "custom_level_bca518e51ecc94422ed0746ab7d1526a7aef8938"
     },
     {
-      "key": "4ebee",
-      "songName": "Pilot Jonezz - Rollin Hi! (Nerfed)",
-      "hash": "afc7207e2e993f2f2e329eeb9ed04d4369f440c7",
-      "levelid": "custom_level_afc7207e2e993f2f2e329eeb9ed04d4369f440c7"
+      "key": "4ec57",
+      "songName": "Daryana - Juice",
+      "hash": "babff1cd3e8d31d9bded19f8540b01696e9d701d",
+      "levelid": "custom_level_babff1cd3e8d31d9bded19f8540b01696e9d701d"
     },
     {
-      "key": "4ebec",
-      "songName": "think again...",
-      "hash": "a714ca4ebd0d2a0fd7fd2f6fe8db1cb5f9fa2a1a",
-      "levelid": "custom_level_a714ca4ebd0d2a0fd7fd2f6fe8db1cb5f9fa2a1a"
+      "key": "4ec51",
+      "songName": "Caminando Voy - Ronny Antares (¡Golpea Duro Hara! Ending TV Size)",
+      "hash": "2e7991fd9f6a373a9060010e62c8f9d54530bfda",
+      "levelid": "custom_level_2e7991fd9f6a373a9060010e62c8f9d54530bfda"
     },
     {
-      "key": "4ebeb",
-      "songName": "Vandalism - Bleach",
-      "hash": "003109113d1dd01993db6845df2e1c1135921deb",
-      "levelid": "custom_level_003109113d1dd01993db6845df2e1c1135921deb"
+      "key": "4ec4e",
+      "songName": "Sexy als ik dans",
+      "hash": "e71fe14b7b54c438898c984a9873d05defaab688",
+      "levelid": "custom_level_e71fe14b7b54c438898c984a9873d05defaab688"
     },
     {
-      "key": "4ebea",
-      "songName": "Jason Derulo (Feat. Snoop Dogg) - Wiggle",
-      "hash": "1c79ec126e88e7d4a81d2385335343b3266c5215",
-      "levelid": "custom_level_1c79ec126e88e7d4a81d2385335343b3266c5215"
+      "key": "4ec4d",
+      "songName": "[V2]Bleed Token - NUMB",
+      "hash": "3f37d3ba93bb5cacbae48bd3c4a2cea82a312a5a",
+      "levelid": "custom_level_3f37d3ba93bb5cacbae48bd3c4a2cea82a312a5a"
     },
     {
-      "key": "4ebe8",
-      "songName": "DECO*27 Fire Dance",
-      "hash": "de78d58e0f844167616eab65434e4bb295add2f5",
-      "levelid": "custom_level_de78d58e0f844167616eab65434e4bb295add2f5"
+      "key": "4ec4b",
+      "songName": "SAK & TAO - Playmour (Kaya-chan wa Kowakunai End)",
+      "hash": "69628d558db03cd86766478819ea9b3660c37428",
+      "levelid": "custom_level_69628d558db03cd86766478819ea9b3660c37428"
     },
     {
-      "key": "4ebe7",
-      "songName": "back2back - N!GHT",
-      "hash": "98adc28a82aa5f70f93f0152d7c95edacaaf5d2f",
-      "levelid": "custom_level_98adc28a82aa5f70f93f0152d7c95edacaaf5d2f"
+      "key": "4ec4a",
+      "songName": "XG - TAKE MY BREATH",
+      "hash": "bdeac426f4e2fe9b3a650855b0aeec5b56fa4326",
+      "levelid": "custom_level_bdeac426f4e2fe9b3a650855b0aeec5b56fa4326"
     },
     {
-      "key": "4ebe6",
-      "songName": "2hollis - nerve (aiden* remix)",
-      "hash": "3bc1aba0441b843b558e5b938c10c5436d698072",
-      "levelid": "custom_level_3bc1aba0441b843b558e5b938c10c5436d698072"
+      "key": "4ec49",
+      "songName": "螺旋の悪夢(Rasen no Akumu)",
+      "hash": "d7566ea146eabcbc1b104703a26fb5919c305b55",
+      "levelid": "custom_level_d7566ea146eabcbc1b104703a26fb5919c305b55"
     },
     {
-      "key": "4ebe5",
-      "songName": "Ethel Cain - Punished",
-      "hash": "9bc558cbb90f80d0f016fd74d14b42d87c68aeae",
-      "levelid": "custom_level_9bc558cbb90f80d0f016fd74d14b42d87c68aeae"
-    },
-    {
-      "key": "4ebe4",
-      "songName": "[VALENTINE'S DAY] Michael Jackson - It's the Falling in Love",
-      "hash": "b49b106d366d6b7bba268940e236e76fc0b70719",
-      "levelid": "custom_level_b49b106d366d6b7bba268940e236e76fc0b70719"
-    },
-    {
-      "key": "4ebe3",
-      "songName": "Tidal Wave",
-      "hash": "7d4b8aef8c4caba530eed0421a5861d755d60bcc",
-      "levelid": "custom_level_7d4b8aef8c4caba530eed0421a5861d755d60bcc"
-    },
-    {
-      "key": "4ebe2",
-      "songName": "Again",
-      "hash": "300c52b007b818a8423e9132134db5ca4dc6ee28",
-      "levelid": "custom_level_300c52b007b818a8423e9132134db5ca4dc6ee28"
-    },
-    {
-      "key": "4ebe0",
-      "songName": "Theif",
-      "hash": "067cc2ce4e7c1eab43a9708f5cffb0ab5a998dc5",
-      "levelid": "custom_level_067cc2ce4e7c1eab43a9708f5cffb0ab5a998dc5"
-    },
-    {
-      "key": "4ebdf",
-      "songName": "Shark Puppet - EP01 S1 - Shark Puppet Plays With Sidewalk Chalk!",
-      "hash": "11f461827bd33774e2870b8482ec7469c5966923",
-      "levelid": "custom_level_11f461827bd33774e2870b8482ec7469c5966923"
-    },
-    {
-      "key": "4ebde",
-      "songName": "билборды - грязь",
-      "hash": "d8bc4b6d89d140d9976c01f2d5f9c6fddbf82429",
-      "levelid": "custom_level_d8bc4b6d89d140d9976c01f2d5f9c6fddbf82429"
-    },
-    {
-      "key": "4ebdd",
-      "songName": "Daily Life with 1740 Water Bottles",
-      "hash": "1d0f7d9f01a4fd5c977dadcd08fa6cfa606f2791",
-      "levelid": "custom_level_1d0f7d9f01a4fd5c977dadcd08fa6cfa606f2791"
-    },
-    {
-      "key": "4ebdc",
-      "songName": "Quaoar",
-      "hash": "975942ca292b7c27377c14b1f7f024f4fdf72c40",
-      "levelid": "custom_level_975942ca292b7c27377c14b1f7f024f4fdf72c40"
-    },
-    {
-      "key": "4eb30",
-      "songName": "Butterflies",
-      "hash": "b3a94e2a55c7707610a6ff03b62bdce631f04107",
-      "levelid": "custom_level_b3a94e2a55c7707610a6ff03b62bdce631f04107"
-    },
-    {
-      "key": "4eb2f",
-      "songName": "DANCE",
-      "hash": "60cd58663fd9aecf25a5b01930f8edb54056c062",
-      "levelid": "custom_level_60cd58663fd9aecf25a5b01930f8edb54056c062"
-    },
-    {
-      "key": "4ebd4",
-      "songName": "White Man Jumpscare ",
-      "hash": "45a9c9cd54ef91771aaed3f13be7c6ede2c66535",
-      "levelid": "custom_level_45a9c9cd54ef91771aaed3f13be7c6ede2c66535"
-    },
-    {
-      "key": "4dcfc",
-      "songName": "BlackY vs. Yooh - Love System",
-      "hash": "00906eb8c985175d2447419e998558f328f0f22a",
-      "levelid": "custom_level_00906eb8c985175d2447419e998558f328f0f22a"
-    },
-    {
-      "key": "4ebab",
-      "songName": "lapix - City Jack",
-      "hash": "1474926557659faf666272da0243ad3094b08e4c",
-      "levelid": "custom_level_1474926557659faf666272da0243ad3094b08e4c"
-    },
-    {
-      "key": "4ebcf",
-      "songName": "Daidaidaidaidaikirai - HatsuneMiku VS KasaneTeto",
-      "hash": "4ef42f0b9574fff9c6eea4db371d0f806f0a6f9e",
-      "levelid": "custom_level_4ef42f0b9574fff9c6eea4db371d0f806f0a6f9e"
+      "key": "4ec48",
+      "songName": "tcthawbhaarc - episode 8",
+      "hash": "3b02f454d71a83d81eb8a488be7ff20dc2f9f4a5",
+      "levelid": "custom_level_3b02f454d71a83d81eb8a488be7ff20dc2f9f4a5"
     }
   ],
   "image": ""
