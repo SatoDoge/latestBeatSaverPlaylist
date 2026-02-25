@@ -1,166 +1,214 @@
 {
-  "playlistTitle": "2026-02-23T15:18:49.181Z~2026-02-24T15:18:49.181Z",
+  "playlistTitle": "2026-02-24T15:18:50.953Z~2026-02-25T15:18:50.953Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-02-23T15:18:49.181Z and 2026-02-24T15:18:49.181Z",
+  "discripstion": "Maps published between 2026-02-24T15:18:50.953Z and 2026-02-25T15:18:50.953Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4ef04",
-      "songName": "knew it all along",
-      "hash": "c50a8f5faadc4d8b68c83ed11b6c53300f1357fd",
-      "levelid": "custom_level_c50a8f5faadc4d8b68c83ed11b6c53300f1357fd"
+      "key": "4ef59",
+      "songName": "Sigala & Talia Mar - Stay The Night",
+      "hash": "1e01536569d6c1aa5ab6521c78d52c7612480a02",
+      "levelid": "custom_level_1e01536569d6c1aa5ab6521c78d52c7612480a02"
     },
     {
-      "key": "4eeff",
-      "songName": "Kim Jung Goon",
-      "hash": "299d514d43b1cbfae20cabb06c8ef255623c329f",
-      "levelid": "custom_level_299d514d43b1cbfae20cabb06c8ef255623c329f"
+      "key": "4ef57",
+      "songName": "portugalprcticespeedV2",
+      "hash": "838291680879ac3aded934e27d1b9b8df0789530",
+      "levelid": "custom_level_838291680879ac3aded934e27d1b9b8df0789530"
     },
     {
-      "key": "4ef00",
-      "songName": "Kairiki Bear - Bug feat. Hatsune Miku",
-      "hash": "d07dc4fe06c480315e3ce61652bb558a53d6de67",
-      "levelid": "custom_level_d07dc4fe06c480315e3ce61652bb558a53d6de67"
+      "key": "4ee39",
+      "songName": "Cherry Cake - CHACHI",
+      "hash": "60c0d127f39294bd3217daa2c5c6cad608f3bd6e",
+      "levelid": "custom_level_60c0d127f39294bd3217daa2c5c6cad608f3bd6e"
     },
     {
-      "key": "4eefe",
-      "songName": "ラジャ・マハラジャー(Raja Maharaja)",
-      "hash": "55db2eb80b2665824ca6afd842cc4482c18f5de6",
-      "levelid": "custom_level_55db2eb80b2665824ca6afd842cc4482c18f5de6"
+      "key": "4ef54",
+      "songName": "Get that Idiot (DuckMusic Animation version)",
+      "hash": "fccd3291e03af7d092f58a923ac505696ca41a1b",
+      "levelid": "custom_level_fccd3291e03af7d092f58a923ac505696ca41a1b"
     },
     {
-      "key": "4eefc",
+      "key": "4ef53",
+      "songName": "Synchrogazer (戦姫絶唱シンフォギア OP)",
+      "hash": "1bb5a99ff4c0a9b02116f002a1082583f7c5582f",
+      "levelid": "custom_level_1bb5a99ff4c0a9b02116f002a1082583f7c5582f"
+    },
+    {
+      "key": "4ef46",
+      "songName": "Easier to Fade - A Himitsu ",
+      "hash": "b856d135cec3b2ce56442dba26d851dd218fea2e",
+      "levelid": "custom_level_b856d135cec3b2ce56442dba26d851dd218fea2e"
+    },
+    {
+      "key": "4ef45",
+      "songName": "The Island - Pendulum (soaring jupiter remix)",
+      "hash": "efff41228a0ede0092d9ef67df4f3e16dbfbcf8a",
+      "levelid": "custom_level_efff41228a0ede0092d9ef67df4f3e16dbfbcf8a"
+    },
+    {
+      "key": "4ef3d",
+      "songName": "CANVAS feat. Quimar - Carmina (fallen shepherd Remix)",
+      "hash": "e4e50741a0e1e83fa589fd80c28940c1f6065240",
+      "levelid": "custom_level_e4e50741a0e1e83fa589fd80c28940c1f6065240"
+    },
+    {
+      "key": "4ef3b",
+      "songName": "1020 Challenge",
+      "hash": "4bac1a3be66748c5996d4522abe55c85fe1f89b8",
+      "levelid": "custom_level_4bac1a3be66748c5996d4522abe55c85fe1f89b8"
+    },
+    {
+      "key": "4ef38",
+      "songName": "M1dy -  M1dy Festival",
+      "hash": "13b0aa1d047025d8296427215fe10add2836a013",
+      "levelid": "custom_level_13b0aa1d047025d8296427215fe10add2836a013"
+    },
+    {
+      "key": "4ef36",
+      "songName": "HEAD UP - Femtanyl  ",
+      "hash": "73799c8c4a9cf61300951c8aa490c761c2adcb86",
+      "levelid": "custom_level_73799c8c4a9cf61300951c8aa490c761c2adcb86"
+    },
+    {
+      "key": "4ef37",
+      "songName": "EVANANANAN BURGERS",
+      "hash": "2631def4a1180a3e670f6d1cd379df31c168f26e",
+      "levelid": "custom_level_2631def4a1180a3e670f6d1cd379df31c168f26e"
+    },
+    {
+      "key": "4ef35",
+      "songName": "Frums - sing sing red indigo",
+      "hash": "dd1d2c66d3deff4f6ac3ca1a3367ac59326958f8",
+      "levelid": "custom_level_dd1d2c66d3deff4f6ac3ca1a3367ac59326958f8"
+    },
+    {
+      "key": "4ef32",
+      "songName": "Last Episode!",
+      "hash": "7a3f225b2845501ee94d5b378692cacc4740ec8a",
+      "levelid": "custom_level_7a3f225b2845501ee94d5b378692cacc4740ec8a"
+    },
+    {
+      "key": "4ef30",
+      "songName": "7038634357 - Circle",
+      "hash": "3bfbf5eb818f69c818a6dde8cbef0dd4ace16cdb",
+      "levelid": "custom_level_3bfbf5eb818f69c818a6dde8cbef0dd4ace16cdb"
+    },
+    {
+      "key": "4ef2f",
+      "songName": "cause they just like meeee",
+      "hash": "91e67b5c12abe92b26538fa09d5dca96c8a96152",
+      "levelid": "custom_level_91e67b5c12abe92b26538fa09d5dca96c8a96152"
+    },
+    {
+      "key": "4ef2e",
+      "songName": "back2back - N!GHT",
+      "hash": "ebaebf1b65545ebf821b459fed987644b2628815",
+      "levelid": "custom_level_ebaebf1b65545ebf821b459fed987644b2628815"
+    },
+    {
+      "key": "4ef2c",
+      "songName": "64000 bpm",
+      "hash": "7923dcfd46fd896b36da23da3f8014fa146bcb49",
+      "levelid": "custom_level_7923dcfd46fd896b36da23da3f8014fa146bcb49"
+    },
+    {
+      "key": "4ef2b",
+      "songName": "Tanger, Disphing - BAD NUMBER!",
+      "hash": "1f71388a4f31a6e1984884d71f120950f24fac3d",
+      "levelid": "custom_level_1f71388a4f31a6e1984884d71f120950f24fac3d"
+    },
+    {
+      "key": "4ef29",
+      "songName": "joz - Stick And Stones In My Body",
+      "hash": "74ae5b10bac0b1ed4689088ff021614fdea6fa33",
+      "levelid": "custom_level_74ae5b10bac0b1ed4689088ff021614fdea6fa33"
+    },
+    {
+      "key": "4ef28",
+      "songName": "small talk ",
+      "hash": "cbec0a7584e3c4bf134b7e9ca4659a7b2dc313f8",
+      "levelid": "custom_level_cbec0a7584e3c4bf134b7e9ca4659a7b2dc313f8"
+    },
+    {
+      "key": "4ef24",
+      "songName": "Red Flag",
+      "hash": "57008174f6604366331fa64bd451787721314bc9",
+      "levelid": "custom_level_57008174f6604366331fa64bd451787721314bc9"
+    },
+    {
+      "key": "4ef21",
+      "songName": "Ray Volpe - THE SOUND",
+      "hash": "9245247dbac0e9ebf2c9cfa1fcf81d2a312ea709",
+      "levelid": "custom_level_9245247dbac0e9ebf2c9cfa1fcf81d2a312ea709"
+    },
+    {
+      "key": "4ef20",
+      "songName": "Aiobahn/ナナヲアカリ - しあわせになんてならないで (feat. ナナヲアカリ)",
+      "hash": "db4e70f7b3fab7250e451e2a1bdd5933025d490e",
+      "levelid": "custom_level_db4e70f7b3fab7250e451e2a1bdd5933025d490e"
+    },
+    {
+      "key": "4ef1e",
+      "songName": "I Like to Move It_ShoulderROM",
+      "hash": "37fa719bb406b9ab96aaf9efba212a68ffe3a3d1",
+      "levelid": "custom_level_37fa719bb406b9ab96aaf9efba212a68ffe3a3d1"
+    },
+    {
+      "key": "4ef1d",
       "songName": "Curtain Call (tv size)",
-      "hash": "bead413b8f65f16a1b1e80897bfdd3f0c3b0f777",
-      "levelid": "custom_level_bead413b8f65f16a1b1e80897bfdd3f0c3b0f777"
+      "hash": "2ab78e370f72ee0b144ab3be526394adca71789d",
+      "levelid": "custom_level_2ab78e370f72ee0b144ab3be526394adca71789d"
     },
     {
-      "key": "4eefb",
-      "songName": "Stay With Me (DOG DAYS\" ED)",
-      "hash": "4d6332d936a2bd7373f26225d3eadcd303b088a2",
-      "levelid": "custom_level_4d6332d936a2bd7373f26225d3eadcd303b088a2"
+      "key": "4ef1c",
+      "songName": "9Lana - propose",
+      "hash": "7061b61053ae8e1cd95c68954566937fb94ba209",
+      "levelid": "custom_level_7061b61053ae8e1cd95c68954566937fb94ba209"
     },
     {
-      "key": "4eef8",
-      "songName": "Kurokotei - Galaxy Collapse",
-      "hash": "6f95b8afc5dfcb4a1e51113327d3bd57386e5d47",
-      "levelid": "custom_level_6f95b8afc5dfcb4a1e51113327d3bd57386e5d47"
+      "key": "4ef16",
+      "songName": "The Eastin Thumb Song (OFFICAL)",
+      "hash": "f3ebe3691ccea98c35d55d9c4267512539f30d5f",
+      "levelid": "custom_level_f3ebe3691ccea98c35d55d9c4267512539f30d5f"
     },
     {
-      "key": "4eef4",
-      "songName": "Diabarha - At Night (full version) [10B - Good Old Days]",
-      "hash": "d4052528e97e287dd67225dff26d4bc69113e713",
-      "levelid": "custom_level_d4052528e97e287dd67225dff26d4bc69113e713"
+      "key": "4ef13",
+      "songName": "Worry Club - My Girl",
+      "hash": "78a7d91e033cd23ebc4e0e179d87e535d3d76048",
+      "levelid": "custom_level_78a7d91e033cd23ebc4e0e179d87e535d3d76048"
     },
     {
-      "key": "4eef3",
-      "songName": "BABYMETAL - DA DA DANCE",
-      "hash": "334907eec760a98274ed638947e343cdedf136c3",
-      "levelid": "custom_level_334907eec760a98274ed638947e343cdedf136c3"
+      "key": "4ef10",
+      "songName": "fall damage",
+      "hash": "ee070d330576628e3c905cb0b531e149127137a6",
+      "levelid": "custom_level_ee070d330576628e3c905cb0b531e149127137a6"
     },
     {
-      "key": "4eef2",
-      "songName": "リンクス（Links）",
-      "hash": "f78452034f123d6bfb7251f058a5d7d0c5c44867",
-      "levelid": "custom_level_f78452034f123d6bfb7251f058a5d7d0c5c44867"
+      "key": "4ef0e",
+      "songName": "Do  It All Alone",
+      "hash": "4725af687a02a9c0fd093a87b42af1eee06c86d4",
+      "levelid": "custom_level_4725af687a02a9c0fd093a87b42af1eee06c86d4"
     },
     {
-      "key": "4eef1",
-      "songName": "EVAN BURGER?!? ",
-      "hash": "d783cbcb255a3129161789d6ea1dfd323fe4772a",
-      "levelid": "custom_level_d783cbcb255a3129161789d6ea1dfd323fe4772a"
+      "key": "4ef0b",
+      "songName": "android alarm",
+      "hash": "4b2692eadbf69f4fd28f18d6dc9c486ac465d71c",
+      "levelid": "custom_level_4b2692eadbf69f4fd28f18d6dc9c486ac465d71c"
     },
     {
-      "key": "4eef0",
-      "songName": "gladde paling - resurrectie",
-      "hash": "57925e0bd4d53cadffa525bba25ec8d4d43f6b20",
-      "levelid": "custom_level_57925e0bd4d53cadffa525bba25ec8d4d43f6b20"
+      "key": "4ef0a",
+      "songName": "USAO - Cyaegha (Extended Mix)",
+      "hash": "f44f07b14dfb6369d685a8af90d201a00ec33d36",
+      "levelid": "custom_level_f44f07b14dfb6369d685a8af90d201a00ec33d36"
     },
     {
-      "key": "4eee4",
-      "songName": "canifly?",
-      "hash": "ee66cf0e0a39975b7f5c0768c1e5f62495d2219f",
-      "levelid": "custom_level_ee66cf0e0a39975b7f5c0768c1e5f62495d2219f"
-    },
-    {
-      "key": "4eed8",
-      "songName": "stupid",
-      "hash": "716b2b302709baa19112f75c31dfa3e65dded446",
-      "levelid": "custom_level_716b2b302709baa19112f75c31dfa3e65dded446"
-    },
-    {
-      "key": "4eeca",
-      "songName": "Portugal Speed Practice",
-      "hash": "bb6a0c30cb83ac47251c4466aefbb86d6a2f064f",
-      "levelid": "custom_level_bb6a0c30cb83ac47251c4466aefbb86d6a2f064f"
-    },
-    {
-      "key": "4eec8",
-      "songName": "As Seen on TV - Scott The Woz",
-      "hash": "1beb3f64aabfa2893b643ecdc2545a643a71fd85",
-      "levelid": "custom_level_1beb3f64aabfa2893b643ecdc2545a643a71fd85"
-    },
-    {
-      "key": "4eec6",
-      "songName": "NO BATIDAO (Super Slowed)",
-      "hash": "bb3715c99c1c36f79572b4d5e36ad1c851207fec",
-      "levelid": "custom_level_bb3715c99c1c36f79572b4d5e36ad1c851207fec"
-    },
-    {
-      "key": "4eec3",
-      "songName": "Hula Girl",
-      "hash": "0df7af25008624d7f05a9a9f514e59a137f28093",
-      "levelid": "custom_level_0df7af25008624d7f05a9a9f514e59a137f28093"
-    },
-    {
-      "key": "4edac",
-      "songName": "Sonic Retro OST - Sonic Retro Intro",
-      "hash": "876171dbf193938740de5c3d94e73fe7fe3a0b70",
-      "levelid": "custom_level_876171dbf193938740de5c3d94e73fe7fe3a0b70"
-    },
-    {
-      "key": "4eec0",
-      "songName": "Viyella's Scream",
-      "hash": "6aee07bbf3696d1dc586db1cc77e14baaaf5e331",
-      "levelid": "custom_level_6aee07bbf3696d1dc586db1cc77e14baaaf5e331"
-    },
-    {
-      "key": "4eebf",
-      "songName": "HEAVENLY FUNK",
-      "hash": "a1277bc7359c5334422be29cd38ef0efb99a1a56",
-      "levelid": "custom_level_a1277bc7359c5334422be29cd38ef0efb99a1a56"
-    },
-    {
-      "key": "4eeb8",
-      "songName": "Fresh Dumbledore - Underground [Back from the Underground]",
-      "hash": "aaf5cd8c2b91f849097f55ddc8df55fee30b81d9",
-      "levelid": "custom_level_aaf5cd8c2b91f849097f55ddc8df55fee30b81d9"
-    },
-    {
-      "key": "4eeb7",
-      "songName": "Shut Up And Listen",
-      "hash": "295555debf7028b4fe94eefc43b55c440a118c69",
-      "levelid": "custom_level_295555debf7028b4fe94eefc43b55c440a118c69"
-    },
-    {
-      "key": "4eeb4",
-      "songName": "Kero! March",
-      "hash": "610b890c58e973d16eec040da8b53ed39ca42da2",
-      "levelid": "custom_level_610b890c58e973d16eec040da8b53ed39ca42da2"
-    },
-    {
-      "key": "4eeac",
-      "songName": "鶏の鳴き方",
-      "hash": "eca8f0b6455693a3fa681e12f00c08add09017f8",
-      "levelid": "custom_level_eca8f0b6455693a3fa681e12f00c08add09017f8"
-    },
-    {
-      "key": "4eeaa",
-      "songName": "Phoneboy -  Something On My Mind",
-      "hash": "9768ec4da3ac1e4078c322c0394bfce508bff3d7",
-      "levelid": "custom_level_9768ec4da3ac1e4078c322c0394bfce508bff3d7"
+      "key": "4ef09",
+      "songName": "111",
+      "hash": "df6c5d62f1cb90a2ace449c905cb964a4da13d96",
+      "levelid": "custom_level_df6c5d62f1cb90a2ace449c905cb964a4da13d96"
     }
   ],
   "image": ""
