@@ -1,340 +1,274 @@
 {
-  "playlistTitle": "2026-03-02T15:18:48.391Z~2026-03-03T15:18:48.391Z",
+  "playlistTitle": "2026-03-03T15:18:52.250Z~2026-03-04T15:18:52.250Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-03-02T15:18:48.391Z and 2026-03-03T15:18:48.391Z",
+  "discripstion": "Maps published between 2026-03-03T15:18:52.250Z and 2026-03-04T15:18:52.250Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4f19a",
-      "songName": "K2 - Grosser Bar",
-      "hash": "0c0e3f5e1a4de75e84ebe1dee9c862e456199d22",
-      "levelid": "custom_level_0c0e3f5e1a4de75e84ebe1dee9c862e456199d22"
+      "key": "4f285",
+      "songName": "Vasco Rossi - Basta Poco (Bloom 06 Remix)",
+      "hash": "704ecfcdb541668077d957fe80598c0b933e72e1",
+      "levelid": "custom_level_704ecfcdb541668077d957fe80598c0b933e72e1"
     },
     {
-      "key": "4f1ad",
-      "songName": "Wish You Were Here",
-      "hash": "93a64d500fe174a2a909033baecf176920adff61",
-      "levelid": "custom_level_93a64d500fe174a2a909033baecf176920adff61"
+      "key": "4f281",
+      "songName": "Spandu Ballet - Gold (V4) (VNJS)",
+      "hash": "d87cbfd5bbcceff4e7ea63b56cd1cac24447847c",
+      "levelid": "custom_level_d87cbfd5bbcceff4e7ea63b56cd1cac24447847c"
     },
     {
-      "key": "4f1aa",
-      "songName": "Glitch Cat - REACHOUT",
-      "hash": "e2513654f1f241456544c2cbb015a040f3f353ae",
-      "levelid": "custom_level_e2513654f1f241456544c2cbb015a040f3f353ae"
+      "key": "4f280",
+      "songName": "One Night In Arabia - Go Go Girls",
+      "hash": "7de989b2c9ce97b537bac46cbc663e2a50ff6066",
+      "levelid": "custom_level_7de989b2c9ce97b537bac46cbc663e2a50ff6066"
     },
     {
-      "key": "4f1a9",
-      "songName": "Raeng Siiat Tarn (feat. 22Bullets) - Cocktail",
-      "hash": "a8e3355db4b6510d2cba18f1cff06f479fdfa372",
-      "levelid": "custom_level_a8e3355db4b6510d2cba18f1cff06f479fdfa372"
+      "key": "4f27d",
+      "songName": "did i tell you that i miss u - adore (Long Ver.)",
+      "hash": "0b59a45107ee39800e3e88dc30caa6ecc8f7093a",
+      "levelid": "custom_level_0b59a45107ee39800e3e88dc30caa6ecc8f7093a"
     },
     {
-      "key": "4f1a8",
-      "songName": "Hua Jai Lhek - Cocktail",
-      "hash": "f3a913b0ab39270a0b020ae67d9ed7a548109d6a",
-      "levelid": "custom_level_f3a913b0ab39270a0b020ae67d9ed7a548109d6a"
+      "key": "4f27b",
+      "songName": "Busy Town - Remzcore",
+      "hash": "64b8e6834695c324a6cbc7ddae9abf17a176af09",
+      "levelid": "custom_level_64b8e6834695c324a6cbc7ddae9abf17a176af09"
     },
     {
-      "key": "4f1a7",
-      "songName": "Ruk Jing (Hai Din Tai) (feat. TIK SHIRO & F.HERO) - Cocktail",
-      "hash": "f52977075c7cf0fb86d7dd106e8b6c9358554550",
-      "levelid": "custom_level_f52977075c7cf0fb86d7dd106e8b6c9358554550"
+      "key": "4f262",
+      "songName": "renegade fruits",
+      "hash": "219e27289a34a20156ecb83f36267804f140e2d7",
+      "levelid": "custom_level_219e27289a34a20156ecb83f36267804f140e2d7"
     },
     {
-      "key": "4f1a6",
-      "songName": "Chang Mun - Cocktail",
-      "hash": "f4c61c6363e4edd7b2e018c8b8ccdd3138e3532d",
-      "levelid": "custom_level_f4c61c6363e4edd7b2e018c8b8ccdd3138e3532d"
+      "key": "4f250",
+      "songName": "Silhouette - Magnetude (ft. The Velvet Effect)",
+      "hash": "b768614b4869cabcacc8f7d672e09321768d7f7d",
+      "levelid": "custom_level_b768614b4869cabcacc8f7d672e09321768d7f7d"
     },
     {
-      "key": "4f1a5",
-      "songName": "Tang Kon - Cocktail",
-      "hash": "707ce863d98ee67440579a2b522a88b07f88c848",
-      "levelid": "custom_level_707ce863d98ee67440579a2b522a88b07f88c848"
+      "key": "4f25d",
+      "songName": "Lchavasse - Lunar Abyss (Fitbeat Cut)",
+      "hash": "ef2f8a71adcd4dfca68cf61a18c8132ec504f202",
+      "levelid": "custom_level_ef2f8a71adcd4dfca68cf61a18c8132ec504f202"
     },
     {
-      "key": "4f1a4",
-      "songName": "Dara Dub Saeng - Cocktail",
-      "hash": "73603cfe5295298cc4a4051a8f5a56de8e305e0d",
-      "levelid": "custom_level_73603cfe5295298cc4a4051a8f5a56de8e305e0d"
+      "key": "4f249",
+      "songName": "Aqualuna - Take on me",
+      "hash": "2405f93e28dfa9c930b3d5bb5d18c7d2fb117721",
+      "levelid": "custom_level_2405f93e28dfa9c930b3d5bb5d18c7d2fb117721"
     },
     {
-      "key": "4f1a3",
-      "songName": "Don Tri Karn (feat. Trisdee Na Pattalung) - Cocktail",
-      "hash": "f5f2097371b50438c85ff88683b599db909db9ea",
-      "levelid": "custom_level_f5f2097371b50438c85ff88683b599db909db9ea"
+      "key": "4f248",
+      "songName": "Cabballero - Dancing with Tears in my Eyes",
+      "hash": "1ffb14a4b2d79eed76013e52eaaf6ef991973e6f",
+      "levelid": "custom_level_1ffb14a4b2d79eed76013e52eaaf6ef991973e6f"
     },
     {
-      "key": "4f1a2",
-      "songName": "Wai - Cocktail",
-      "hash": "3d7129c5904c10d6cb6120c1d461e0e0f35ccf23",
-      "levelid": "custom_level_3d7129c5904c10d6cb6120c1d461e0e0f35ccf23"
+      "key": "4f247",
+      "songName": "Harajuku - Can you Feel the Love Tonight",
+      "hash": "a055be9bd6fb2a82538724036658e35406b40266",
+      "levelid": "custom_level_a055be9bd6fb2a82538724036658e35406b40266"
     },
     {
-      "key": "4f1a1",
-      "songName": "Prattana Sing Dai Rue - Cocktail",
-      "hash": "75b7d4ff5b629aed8ad125249170b66886ecb9b7",
-      "levelid": "custom_level_75b7d4ff5b629aed8ad125249170b66886ecb9b7"
+      "key": "4f25e",
+      "songName": "Bergentrückung",
+      "hash": "d04a281eac1b2cf255f8e5e39e22f077eb4a6e0e",
+      "levelid": "custom_level_d04a281eac1b2cf255f8e5e39e22f077eb4a6e0e"
     },
     {
-      "key": "4f1a0",
-      "songName": "Mai Pen Rong - Cocktail",
-      "hash": "035a8fbf676cd42e1adf844f01544308535041d0",
-      "levelid": "custom_level_035a8fbf676cd42e1adf844f01544308535041d0"
+      "key": "4f25c",
+      "songName": "Alfons - Cowgirl (NOODLEMAP)",
+      "hash": "b8148d74222054078748d6a05ab01c82f0a0a7dc",
+      "levelid": "custom_level_b8148d74222054078748d6a05ab01c82f0a0a7dc"
     },
     {
-      "key": "4f19f",
-      "songName": "Ngarn Ten Rum Nai Keun Pra Jun Tem Duang (feat. New Napatsorn) - Cocktail",
-      "hash": "7a9a7839efd4cd7d1cc15bdd20ae25214a9f44cb",
-      "levelid": "custom_level_7a9a7839efd4cd7d1cc15bdd20ae25214a9f44cb"
+      "key": "4f24b",
+      "songName": "Futurism (戦姫絶唱シンフォギアAXZ ED)",
+      "hash": "17605e0d7c2f365ad19f96ed815685516635b526",
+      "levelid": "custom_level_17605e0d7c2f365ad19f96ed815685516635b526"
     },
     {
-      "key": "4f19e",
-      "songName": "Mai Mee Mit Tae Rue Sat Tru Tha Worn - Cocktail",
-      "hash": "d845ba8b7c9b18c7db6b4d0e9adfff0a8cedbefa",
-      "levelid": "custom_level_d845ba8b7c9b18c7db6b4d0e9adfff0a8cedbefa"
+      "key": "4f24a",
+      "songName": "where’s my head at _",
+      "hash": "c13f0456dc0a0d9165cb73d8ef4800f0d99495e3",
+      "levelid": "custom_level_c13f0456dc0a0d9165cb73d8ef4800f0d99495e3"
     },
     {
-      "key": "4f19d",
-      "songName": "Tur - Cocktail",
-      "hash": "90848fe3d398bc92a3dcc18dc61a152c989d56b5",
-      "levelid": "custom_level_90848fe3d398bc92a3dcc18dc61a152c989d56b5"
+      "key": "4f23e",
+      "songName": "RainGod~WolfMagic",
+      "hash": "9be1da10f3480c95cc131e2c36428f612802f50d",
+      "levelid": "custom_level_9be1da10f3480c95cc131e2c36428f612802f50d"
     },
     {
-      "key": "4f199",
-      "songName": "Party With The Animals - Ozzy Osbourne",
-      "hash": "d557a052da2c0457be6505e818ca22e151a7a1e8",
-      "levelid": "custom_level_d557a052da2c0457be6505e818ca22e151a7a1e8"
+      "key": "4f239",
+      "songName": "Intrusive Thoughts (FT: KASANE TETO)",
+      "hash": "d2f11fbf904cf0fedef5794093f04cd942454819",
+      "levelid": "custom_level_d2f11fbf904cf0fedef5794093f04cd942454819"
     },
     {
-      "key": "4f198",
-      "songName": "TESTAMENT (戦姫絶唱シンフォギアAXZ OP)",
-      "hash": "39238573eb46c8f8a07b60f241482eea65301fc6",
-      "levelid": "custom_level_39238573eb46c8f8a07b60f241482eea65301fc6"
+      "key": "4f234",
+      "songName": "ATEEZ(에이티즈) - Adrenaline",
+      "hash": "39b7c580b4ed519a3ee1e13c53422891190d8b57",
+      "levelid": "custom_level_39b7c580b4ed519a3ee1e13c53422891190d8b57"
     },
     {
-      "key": "4f197",
-      "songName": "Takashi Miki - Anpanman's March (Nyango Star's \"Overqualified\" Drum Cover)",
-      "hash": "409936601624760819aafa60c95a98cc34431ba8",
-      "levelid": "custom_level_409936601624760819aafa60c95a98cc34431ba8"
+      "key": "4f233",
+      "songName": "Rehash - malasie(slowed)",
+      "hash": "fde15d9a6f2219e46a16055ae184326f57b1e2c8",
+      "levelid": "custom_level_fde15d9a6f2219e46a16055ae184326f57b1e2c8"
     },
     {
-      "key": "4f195",
-      "songName": "Pa pa pa pam",
-      "hash": "bd2f1a1abe84a9b2d69d9ffe839ba4e09643cc4f",
-      "levelid": "custom_level_bd2f1a1abe84a9b2d69d9ffe839ba4e09643cc4f"
+      "key": "4f232",
+      "songName": "Lektrique - Atomic (LeKtriQue VIP)",
+      "hash": "9558a74a381744522779fe5381ed9f202f7364c3",
+      "levelid": "custom_level_9558a74a381744522779fe5381ed9f202f7364c3"
     },
     {
-      "key": "4f193",
-      "songName": "Haywyre - Square One (Glacier Remix)",
-      "hash": "87871752b7b8c3de7f42ee53826a79d027820d09",
-      "levelid": "custom_level_87871752b7b8c3de7f42ee53826a79d027820d09"
+      "key": "4f231",
+      "songName": "UMMU - t+pazolite",
+      "hash": "c713e1bc6a29bcc68a802eef50dd6436e8d32699",
+      "levelid": "custom_level_c713e1bc6a29bcc68a802eef50dd6436e8d32699"
     },
     {
-      "key": "4f192",
-      "songName": "[Chroma] Spybreak! (The Matrix - Lobby Scene) - Propellerheads",
-      "hash": "a636b0259b49354db460a71fd7e21884e232a5d9",
-      "levelid": "custom_level_a636b0259b49354db460a71fd7e21884e232a5d9"
+      "key": "4f230",
+      "songName": "Magnetude - Im For You (VNJS)",
+      "hash": "1ca0bd1b75210882659a02e205685e40a085a532",
+      "levelid": "custom_level_1ca0bd1b75210882659a02e205685e40a085a532"
     },
     {
-      "key": "4f190",
-      "songName": "Tripping On Love",
-      "hash": "acaadee03e7f920d3295e55e94fd7b71fc9392a6",
-      "levelid": "custom_level_acaadee03e7f920d3295e55e94fd7b71fc9392a6"
+      "key": "4f22e",
+      "songName": "Eastin going like o o o o for 25 seconds",
+      "hash": "a902aa292b890f07b4beccb1b5ed5b94f0593933",
+      "levelid": "custom_level_a902aa292b890f07b4beccb1b5ed5b94f0593933"
     },
     {
-      "key": "4f18f",
-      "songName": "Tyler, The Creator - PICKLE RICK",
-      "hash": "2fecd41efd2aae27ec774c02dfb9c0b16a959df7",
-      "levelid": "custom_level_2fecd41efd2aae27ec774c02dfb9c0b16a959df7"
+      "key": "4f22b",
+      "songName": "syndrome - thats me",
+      "hash": "2479ea661bddbcd5565402c1915812162b9f46be",
+      "levelid": "custom_level_2479ea661bddbcd5565402c1915812162b9f46be"
     },
     {
-      "key": "4f18e",
-      "songName": "Phoenix - M2U",
-      "hash": "4121fe4a4722606d5469e682e5070703621de587",
-      "levelid": "custom_level_4121fe4a4722606d5469e682e5070703621de587"
+      "key": "4f227",
+      "songName": "6 million ways to scissor",
+      "hash": "618cb77b4b93416901354e9724f34a4cead44bb2",
+      "levelid": "custom_level_618cb77b4b93416901354e9724f34a4cead44bb2"
     },
     {
-      "key": "4f188",
-      "songName": "[FREESTYLE] t+pazolite + Ginkiha + Hommarju - Crossing Delta (Short Ver.)",
-      "hash": "fde24a4c5e3a6d08f75a3d0edacc013d8fae7bbe",
-      "levelid": "custom_level_fde24a4c5e3a6d08f75a3d0edacc013d8fae7bbe"
+      "key": "4f226",
+      "songName": "21 cars",
+      "hash": "91b8384956fde2ef652f71d9f290209028d5fbfd",
+      "levelid": "custom_level_91b8384956fde2ef652f71d9f290209028d5fbfd"
     },
     {
-      "key": "4f186",
-      "songName": "Falling In Reverse - All My Women [POODLES]",
-      "hash": "823878012d7e8384e999a1b8c512a9cdbb8a6f51",
-      "levelid": "custom_level_823878012d7e8384e999a1b8c512a9cdbb8a6f51"
+      "key": "4f224",
+      "songName": "Sleeping Alone - Higgo feat. Poppy Baskcomb",
+      "hash": "0a9caadf4b9308bc37a4faf247984315d586f3f7",
+      "levelid": "custom_level_0a9caadf4b9308bc37a4faf247984315d586f3f7"
     },
     {
-      "key": "4f185",
-      "songName": "Sarah Connor - Cold As Ice (PH Electro Remix) (Nightcore Mix)",
-      "hash": "c411d51e55a606b5169970b38fbdcddcbc656535",
-      "levelid": "custom_level_c411d51e55a606b5169970b38fbdcddcbc656535"
+      "key": "4f223",
+      "songName": "BanYa - Phantom",
+      "hash": "db63b8c9fd80e256ec0de8a13ac1d6978707bc9f",
+      "levelid": "custom_level_db63b8c9fd80e256ec0de8a13ac1d6978707bc9f"
     },
     {
-      "key": "4f182",
-      "songName": "Chill",
-      "hash": "6c3414dba1807eb9260ad91969918612eeed2259",
-      "levelid": "custom_level_6c3414dba1807eb9260ad91969918612eeed2259"
+      "key": "4f21f",
+      "songName": "INZO - Just A Mirage",
+      "hash": "5fce518b4c1b0566150d2a05235a0077a0405efa",
+      "levelid": "custom_level_5fce518b4c1b0566150d2a05235a0077a0405efa"
     },
     {
-      "key": "4f181",
-      "songName": "Mapping test",
-      "hash": "fac927b1f1639ed610a0c570a90353b5a0082523",
-      "levelid": "custom_level_fac927b1f1639ed610a0c570a90353b5a0082523"
+      "key": "4f21a",
+      "songName": "coke / blow",
+      "hash": "8d21ccb629e42378e55b22eb3a882bf4d9aaf72e",
+      "levelid": "custom_level_8d21ccb629e42378e55b22eb3a882bf4d9aaf72e"
     },
     {
-      "key": "4f180",
-      "songName": "soda pop",
-      "hash": "2b459d64e290f16b7560c66b989509242a56be77",
-      "levelid": "custom_level_2b459d64e290f16b7560c66b989509242a56be77"
+      "key": "4f219",
+      "songName": "On & On - Sub Focus, bbyclose",
+      "hash": "313c12ccd2110266d9fe1cf231b2d083e2aab907",
+      "levelid": "custom_level_313c12ccd2110266d9fe1cf231b2d083e2aab907"
     },
     {
-      "key": "4f17f",
-      "songName": "Talk To US  ( inverted )",
-      "hash": "24da9f332e288e8ca7ab6d0a88f709be27398fbf",
-      "levelid": "custom_level_24da9f332e288e8ca7ab6d0a88f709be27398fbf"
+      "key": "4f216",
+      "songName": "coincidence - heylog",
+      "hash": "7f7795fda2073d78032db9eb01b4791c178f8df2",
+      "levelid": "custom_level_7f7795fda2073d78032db9eb01b4791c178f8df2"
     },
     {
-      "key": "4f17e",
-      "songName": "vindicate me (beta) (unverified)",
-      "hash": "55b21795aa2a24c21a80d0e50a98465bacf1cfb1",
-      "levelid": "custom_level_55b21795aa2a24c21a80d0e50a98465bacf1cfb1"
+      "key": "4f215",
+      "songName": ":3",
+      "hash": "b7a87b6e3353008cf6a1534f80898ffb64704927",
+      "levelid": "custom_level_b7a87b6e3353008cf6a1534f80898ffb64704927"
     },
     {
-      "key": "4f17a",
-      "songName": "Bewitched-La Corriveau",
-      "hash": "0ae1f1d7a0948f6fe6c07b8833b7c02453332977",
-      "levelid": "custom_level_0ae1f1d7a0948f6fe6c07b8833b7c02453332977"
+      "key": "4f212",
+      "songName": "The Thrill - Nurture Live Edit (NOT COMPLETE)",
+      "hash": "553a5f64b9dc072eadc4c04c36071228a167d589",
+      "levelid": "custom_level_553a5f64b9dc072eadc4c04c36071228a167d589"
     },
     {
-      "key": "4f178",
-      "songName": "Glass Animals - Pools",
-      "hash": "5b0ea0cabf0adff1490a06bb7b4e85cce69d65d5",
-      "levelid": "custom_level_5b0ea0cabf0adff1490a06bb7b4e85cce69d65d5"
+      "key": "4f210",
+      "songName": "My farewells to the fields / Bird cage blue and yellow",
+      "hash": "c4dc88dc7890c0cb6a70cae2302901a53d3cbc18",
+      "levelid": "custom_level_c4dc88dc7890c0cb6a70cae2302901a53d3cbc18"
     },
     {
-      "key": "4f179",
-      "songName": "1 arc V2",
-      "hash": "6ad12112d4b7044e040e335e6617b756048312f5",
-      "levelid": "custom_level_6ad12112d4b7044e040e335e6617b756048312f5"
+      "key": "4f20f",
+      "songName": "[Feetsaber]Baqeela",
+      "hash": "4e4cedd9dc9f4d61d2aa6b870eadb7f6a2c2326f",
+      "levelid": "custom_level_4e4cedd9dc9f4d61d2aa6b870eadb7f6a2c2326f"
     },
     {
-      "key": "4f177",
-      "songName": "Narwhal - Haloweak (PGR)",
-      "hash": "f879f436a9cf5590df54c46664d00db9371b310a",
-      "levelid": "custom_level_f879f436a9cf5590df54c46664d00db9371b310a"
+      "key": "4f20b",
+      "songName": "Touqai - BLOODSIGNAL",
+      "hash": "d8733101069b15833f83edfa1126044032e6496e",
+      "levelid": "custom_level_d8733101069b15833f83edfa1126044032e6496e"
     },
     {
-      "key": "4f176",
-      "songName": "Neath the Grove is a Heart",
-      "hash": "1fac8b4c5886c316db56bf37468eb64f1f7bd369",
-      "levelid": "custom_level_1fac8b4c5886c316db56bf37468eb64f1f7bd369"
+      "key": "4f209",
+      "songName": "yhj",
+      "hash": "d63de0b896a59a0a43fe07ce2415631ada402764",
+      "levelid": "custom_level_d63de0b896a59a0a43fe07ce2415631ada402764"
     },
     {
-      "key": "4f174",
-      "songName": "Ultimate Skillset Challenge - gingus / steej",
-      "hash": "bba29d4df361443b6fe0e1197472101dbafd6f1a",
-      "levelid": "custom_level_bba29d4df361443b6fe0e1197472101dbafd6f1a"
+      "key": "4f20a",
+      "songName": "Stop Saying We Sound Like Dragonforce - Fraser Edwards",
+      "hash": "e7cdcbd087e9c2945f51a198fa56cebf5f998dbd",
+      "levelid": "custom_level_e7cdcbd087e9c2945f51a198fa56cebf5f998dbd"
     },
     {
-      "key": "4f172",
-      "songName": "cchatgpt",
-      "hash": "eba78ace4a079e883238ccef9c0a0f2b3e6120d3",
-      "levelid": "custom_level_eba78ace4a079e883238ccef9c0a0f2b3e6120d3"
+      "key": "4f200",
+      "songName": "XG - Take My Breath",
+      "hash": "43c6c47d752534ff65f883c26d4490511ad0c276",
+      "levelid": "custom_level_43c6c47d752534ff65f883c26d4490511ad0c276"
     },
     {
-      "key": "4f16f",
-      "songName": "River Deep Mountain (7\" Ver.) - Erasure",
-      "hash": "1ce6bc9e8bcefe6c1fd6906325788dfcf935b356",
-      "levelid": "custom_level_1ce6bc9e8bcefe6c1fd6906325788dfcf935b356"
+      "key": "4f147",
+      "songName": "となりのマチコ feat. flower - 雨の介",
+      "hash": "06636a0bead32120715d6d1d71ed83b8e262b1f1",
+      "levelid": "custom_level_06636a0bead32120715d6d1d71ed83b8e262b1f1"
     },
     {
-      "key": "4f16d",
-      "songName": "the most annoying person ive ever met - gingus / steej",
-      "hash": "805dcd98aa06202dac779ce699b0df4b6c02cbdf",
-      "levelid": "custom_level_805dcd98aa06202dac779ce699b0df4b6c02cbdf"
+      "key": "4f1de",
+      "songName": "HOYO-MiX - Perfect Idol",
+      "hash": "3feae6e5e961ecf8c70a7d92aa44397b4470c9c3",
+      "levelid": "custom_level_3feae6e5e961ecf8c70a7d92aa44397b4470c9c3"
     },
     {
-      "key": "4f16a",
-      "songName": "Football but DOOM music kicks in",
-      "hash": "260d5b7a49490668f25d0d4b1fa33705bc1ff679",
-      "levelid": "custom_level_260d5b7a49490668f25d0d4b1fa33705bc1ff679"
+      "key": "4f1d6",
+      "songName": "AU CONTRAIRE",
+      "hash": "84a3666bf4481af2f78ee67d8c65c41bce0dd9cf",
+      "levelid": "custom_level_84a3666bf4481af2f78ee67d8c65c41bce0dd9cf"
     },
     {
-      "key": "4f167",
-      "songName": "Extratongue ",
-      "hash": "73cfd335bd561336d9fee719c8f26c5f8bddd51a",
-      "levelid": "custom_level_73cfd335bd561336d9fee719c8f26c5f8bddd51a"
-    },
-    {
-      "key": "4f166",
-      "songName": "[Feetsaber]ハッピーシンセサイザ -かぐや(cv.夏吉ゆうこ)",
-      "hash": "a3b0e2b1361b9af9dba930811041a687a08807fc",
-      "levelid": "custom_level_a3b0e2b1361b9af9dba930811041a687a08807fc"
-    },
-    {
-      "key": "4f163",
-      "songName": "[Shitpost] GROROTOTO",
-      "hash": "f91214b31f9629240bc5221dad4f54dff1af1e7f",
-      "levelid": "custom_level_f91214b31f9629240bc5221dad4f54dff1af1e7f"
-    },
-    {
-      "key": "4f161",
-      "songName": "[Shitpost] A",
-      "hash": "5ecec35c5fb33df36c81392c22eb490c3357180f",
-      "levelid": "custom_level_5ecec35c5fb33df36c81392c22eb490c3357180f"
-    },
-    {
-      "key": "4f159",
-      "songName": "Utsu-P - Fuel feat. Hatsune Miku",
-      "hash": "13b7956644c39868761773d763d4ecc6bab519f2",
-      "levelid": "custom_level_13b7956644c39868761773d763d4ecc6bab519f2"
-    },
-    {
-      "key": "4f150",
-      "songName": "[NE] this is what losing someone feels like - JVKE",
-      "hash": "0029f868dcdcc98e2967730eb6859dd8191d03a8",
-      "levelid": "custom_level_0029f868dcdcc98e2967730eb6859dd8191d03a8"
-    },
-    {
-      "key": "4f14f",
-      "songName": "Closer - The Chainsmokers ft. Halsey",
-      "hash": "7f71574520acf2a4b36e6b2effd519ebcbcf81b1",
-      "levelid": "custom_level_7f71574520acf2a4b36e6b2effd519ebcbcf81b1"
-    },
-    {
-      "key": "4f14e",
-      "songName": "Jim Yosef - Full Moon",
-      "hash": "3b2a06469f07f25c7d6e149356ab546d1624c9c2",
-      "levelid": "custom_level_3b2a06469f07f25c7d6e149356ab546d1624c9c2"
-    },
-    {
-      "key": "4f14d",
-      "songName": "[TBeta-220] 茶鸣拾贰律 - 盏茗（茶鸣拾贰律 T.E.A-12 Project）",
-      "hash": "421c1a9d9c8176683f4785fabf1d8e454496dd5c",
-      "levelid": "custom_level_421c1a9d9c8176683f4785fabf1d8e454496dd5c"
-    },
-    {
-      "key": "4f14c",
-      "songName": "THE STAR SYSTME'S CALLING - MetaHumanBoi",
-      "hash": "213847c0f8c332c8cd6f98e4c80d2b817af78bf4",
-      "levelid": "custom_level_213847c0f8c332c8cd6f98e4c80d2b817af78bf4"
-    },
-    {
-      "key": "4f148",
-      "songName": "OTIKA - DOORS (feat. Hatsune Miku)",
-      "hash": "a38c8b5803f7b67c4b28e903426b29f6dc92240f",
-      "levelid": "custom_level_a38c8b5803f7b67c4b28e903426b29f6dc92240f"
-    },
-    {
-      "key": "4f149",
-      "songName": "Born to make you happy -Britney Spears",
-      "hash": "31f7a651919abcd424f396ed567948c509fbf691",
-      "levelid": "custom_level_31f7a651919abcd424f396ed567948c509fbf691"
+      "key": "4f1d1",
+      "songName": "jo0ji「よあけのうた」 (Jujutsu Kaisen Creditless END 3)",
+      "hash": "8941bebdffd7bff54d2026c2586d0e675489d799",
+      "levelid": "custom_level_8941bebdffd7bff54d2026c2586d0e675489d799"
     }
   ],
   "image": ""
