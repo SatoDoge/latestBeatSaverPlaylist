@@ -1,232 +1,238 @@
 {
-  "playlistTitle": "2026-03-04T15:18:48.221Z~2026-03-05T15:18:48.221Z",
+  "playlistTitle": "2026-03-05T15:18:48.299Z~2026-03-06T15:18:48.299Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-03-04T15:18:48.221Z and 2026-03-05T15:18:48.221Z",
+  "discripstion": "Maps published between 2026-03-05T15:18:48.299Z and 2026-03-06T15:18:48.299Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4f2d4",
-      "songName": "DJ Raisei - Fractured Angel 【EGTS2022 RO32 Tiebreaker】",
-      "hash": "9d45fb0f9edcf10a2dbfc8575210b4eab5fed6fb",
-      "levelid": "custom_level_9d45fb0f9edcf10a2dbfc8575210b4eab5fed6fb"
+      "key": "4f337",
+      "songName": "Ray Volpe - TAKE ME TO THE RAVE",
+      "hash": "137543a210af672385a781a0332e93ae227a4053",
+      "levelid": "custom_level_137543a210af672385a781a0332e93ae227a4053"
     },
     {
-      "key": "4f2ce",
-      "songName": "ひとしずく×やま△ - Bad ∞ End ∞ Night",
-      "hash": "9ede27561ca6f7dc07b4aab736c790c38f385347",
-      "levelid": "custom_level_9ede27561ca6f7dc07b4aab736c790c38f385347"
+      "key": "4f336",
+      "songName": "Deaf Speedcore",
+      "hash": "de8bef7192c09f815ed77bddffd53a9519cc0772",
+      "levelid": "custom_level_de8bef7192c09f815ed77bddffd53a9519cc0772"
     },
     {
-      "key": "4f2cd",
-      "songName": "Shape of Masis",
-      "hash": "06f8ebe3fe8b1f319deb34d1a20f1481754fe34d",
-      "levelid": "custom_level_06f8ebe3fe8b1f319deb34d1a20f1481754fe34d"
+      "key": "4f335",
+      "songName": "The job song",
+      "hash": "7e97d3810129b10652ac81ba94ec23ca98428d2e",
+      "levelid": "custom_level_7e97d3810129b10652ac81ba94ec23ca98428d2e"
     },
     {
-      "key": "4f2cc",
-      "songName": "<3",
-      "hash": "1e57ebceedb22307b9244e02df13b56ea48a7794",
-      "levelid": "custom_level_1e57ebceedb22307b9244e02df13b56ea48a7794"
+      "key": "4f333",
+      "songName": "Dirty Little Secret",
+      "hash": "003b91ef12b01188e4868d80bb0ccbe9ee75f43a",
+      "levelid": "custom_level_003b91ef12b01188e4868d80bb0ccbe9ee75f43a"
     },
     {
-      "key": "4f2cb",
-      "songName": "只为你一笑",
-      "hash": "81f2c653fd8142616f370c405f7e4e99e2bb1ff1",
-      "levelid": "custom_level_81f2c653fd8142616f370c405f7e4e99e2bb1ff1"
+      "key": "4f31e",
+      "songName": "彩る夏の恋花火 - karatoPanchi feat. はるの",
+      "hash": "52a8c9f09f02fdab8509b4b1c333fa1abd755966",
+      "levelid": "custom_level_52a8c9f09f02fdab8509b4b1c333fa1abd755966"
     },
     {
-      "key": "4f2ca",
-      "songName": "Molella and Asher Senator - See the Difference",
-      "hash": "e762376ae8922dcb0af61c6fb993b7dc25d7c2e2",
-      "levelid": "custom_level_e762376ae8922dcb0af61c6fb993b7dc25d7c2e2"
+      "key": "4f331",
+      "songName": "HelioTropic - Unfaded Studios",
+      "hash": "011ef5d5dd876c406445bc35c6abe6a8fa473e0a",
+      "levelid": "custom_level_011ef5d5dd876c406445bc35c6abe6a8fa473e0a"
     },
     {
-      "key": "4f2c9",
-      "songName": "Water - Grace Kinstler ",
-      "hash": "209f57b8641050fddf517cd8ffaae8b90e750636",
-      "levelid": "custom_level_209f57b8641050fddf517cd8ffaae8b90e750636"
+      "key": "4f32b",
+      "songName": "Hello (BPM) 2026",
+      "hash": "856d9d770afed1469fd1d36cda863401d29ad228",
+      "levelid": "custom_level_856d9d770afed1469fd1d36cda863401d29ad228"
     },
     {
-      "key": "4f2c8",
-      "songName": "Bass after Bass",
-      "hash": "a2366a091bc15ee5efa690fa011c03e12c20ed0f",
-      "levelid": "custom_level_a2366a091bc15ee5efa690fa011c03e12c20ed0f"
+      "key": "4f32a",
+      "songName": "Teto the 31st (feat. KASANE TETO & Ui)",
+      "hash": "f9f29435de88109eb874797b45da68f0d2dc789a",
+      "levelid": "custom_level_f9f29435de88109eb874797b45da68f0d2dc789a"
     },
     {
-      "key": "4f2c7",
-      "songName": "Teminite & Nokae - Burn It Down",
-      "hash": "a2f09cf126960b963ecc177634664c3f7f9bff8b",
-      "levelid": "custom_level_a2f09cf126960b963ecc177634664c3f7f9bff8b"
+      "key": "4f32c",
+      "songName": "[V2] Nightcore  - Take It Off (But it hits different)",
+      "hash": "3a9f424cc9ed101ca983854dbd3927e0bdc8036c",
+      "levelid": "custom_level_3a9f424cc9ed101ca983854dbd3927e0bdc8036c"
     },
     {
-      "key": "4f2c6",
-      "songName": "METANOIA (戦姫絶唱シンフォギアXV OP)",
-      "hash": "7518f00c1d3b7e7ff72cb0f8a0ad9f648cb131cb",
-      "levelid": "custom_level_7518f00c1d3b7e7ff72cb0f8a0ad9f648cb131cb"
+      "key": "4f324",
+      "songName": "[560BPM] Loffciamcore - Fuck You If You Don't Like Denskor (Short Edit)",
+      "hash": "88f7d3f24e4093ed0a2e82e44767ab6a3dc556d2",
+      "levelid": "custom_level_88f7d3f24e4093ed0a2e82e44767ab6a3dc556d2"
     },
     {
-      "key": "4f2c2",
-      "songName": "March 1, 2018",
-      "hash": "3178973aee021c5944cd754323282d1de312e647",
-      "levelid": "custom_level_3178973aee021c5944cd754323282d1de312e647"
+      "key": "4f323",
+      "songName": "Lasting Song (戦姫絶唱シンフォギアXV ED)",
+      "hash": "e03ddd414c8e40935a654332f4f73a8153dcd3d0",
+      "levelid": "custom_level_e03ddd414c8e40935a654332f4f73a8153dcd3d0"
     },
     {
-      "key": "4f2bb",
-      "songName": "here to stay",
-      "hash": "3546ee85e4ed2b1f6ea80c142ea2744cf4a7e9bd",
-      "levelid": "custom_level_3546ee85e4ed2b1f6ea80c142ea2744cf4a7e9bd"
+      "key": "4eb75",
+      "songName": "asc - binary",
+      "hash": "d2dd8b9996f29ed65542bfd3b5bf69934d48a406",
+      "levelid": "custom_level_d2dd8b9996f29ed65542bfd3b5bf69934d48a406"
     },
     {
-      "key": "4f2b8",
-      "songName": "MyGO!!!!! - Utaimashou Narashimashou",
-      "hash": "ae7ca875026570e2966ee603d286e6faba5287a2",
-      "levelid": "custom_level_ae7ca875026570e2966ee603d286e6faba5287a2"
+      "key": "4f321",
+      "songName": "here comes the doctor",
+      "hash": "83a953fad32907f5074f70b13e27caf9b73648e6",
+      "levelid": "custom_level_83a953fad32907f5074f70b13e27caf9b73648e6"
     },
     {
-      "key": "4f2b3",
-      "songName": "B-Komachi | Kimi no Impression (Short Ver.)",
-      "hash": "0561d3d431cac03ef414264034d89a0de1f2fad1",
-      "levelid": "custom_level_0561d3d431cac03ef414264034d89a0de1f2fad1"
+      "key": "4f31f",
+      "songName": "jester | overtonight & KXLLSWXTCH",
+      "hash": "6a9d797eb5ac2fb5d4cdca499380537fd46c880a",
+      "levelid": "custom_level_6a9d797eb5ac2fb5d4cdca499380537fd46c880a"
     },
     {
-      "key": "4f2ad",
-      "songName": "[Chroma] YOU WOULDN'T DOWNLOAD A CAR",
-      "hash": "9972715c31c7dffd903134b0537441dd1d5bfb15",
-      "levelid": "custom_level_9972715c31c7dffd903134b0537441dd1d5bfb15"
+      "key": "4f31c",
+      "songName": "Ocean's Away",
+      "hash": "42c63fb4346d18e1e46b904140b495d408362d42",
+      "levelid": "custom_level_42c63fb4346d18e1e46b904140b495d408362d42"
     },
     {
-      "key": "4f2ac",
-      "songName": "wheres the foil",
-      "hash": "f1d2f1dc3dd2550e204a91420c0010156ebe4b3a",
-      "levelid": "custom_level_f1d2f1dc3dd2550e204a91420c0010156ebe4b3a"
+      "key": "4f31b",
+      "songName": "I could eat mickey mouse",
+      "hash": "8d0d2d546ab879a687b4ecbb22cee507b0c264e9",
+      "levelid": "custom_level_8d0d2d546ab879a687b4ecbb22cee507b0c264e9"
     },
     {
-      "key": "4f2ab",
-      "songName": "Francophile feat. 重音テト",
-      "hash": "325c704538f3706854b01824df1bb75f7c4b360a",
-      "levelid": "custom_level_325c704538f3706854b01824df1bb75f7c4b360a"
+      "key": "4f31a",
+      "songName": "45~Shinedown",
+      "hash": "4fc810a64863644c29643689e60d272bd8617fcb",
+      "levelid": "custom_level_4fc810a64863644c29643689e60d272bd8617fcb"
     },
     {
-      "key": "4f2aa",
-      "songName": "forest green",
-      "hash": "65aea9e4224742c52bf483157d6b2fb4761bc555",
-      "levelid": "custom_level_65aea9e4224742c52bf483157d6b2fb4761bc555"
+      "key": "4f318",
+      "songName": "24kGoldn-VALENTINO   (floor)",
+      "hash": "2f9c2b56e0b46446eef59a69444ab552598834fb",
+      "levelid": "custom_level_2f9c2b56e0b46446eef59a69444ab552598834fb"
     },
     {
-      "key": "4ea2b",
-      "songName": "Buunshin - All About This | 2026 Map Revisit",
-      "hash": "0461e81961150d3ea16b592d3e59f6f675dea8e9",
-      "levelid": "custom_level_0461e81961150d3ea16b592d3e59f6f675dea8e9"
+      "key": "4f30f",
+      "songName": "True Hero",
+      "hash": "d7b866ec32f9f56649939249f71270aa6fbce79a",
+      "levelid": "custom_level_d7b866ec32f9f56649939249f71270aa6fbce79a"
     },
     {
-      "key": "4f2a9",
-      "songName": "This Feeling.",
-      "hash": "ac3e98479f63df508177669028aafe2593d0bd7f",
-      "levelid": "custom_level_ac3e98479f63df508177669028aafe2593d0bd7f"
+      "key": "4f30a",
+      "songName": "✻H+3+ЯД✻7luCJIo0T6...",
+      "hash": "f9f8c122530dce39ccc25491ce42f679a6fb8e17",
+      "levelid": "custom_level_f9f8c122530dce39ccc25491ce42f679a6fb8e17"
     },
     {
-      "key": "4f2a1",
-      "songName": "Local Natives - When Am I Gonna Lose You",
-      "hash": "bf3255bb77f1a52782fa235eb4491d4460d05699",
-      "levelid": "custom_level_bf3255bb77f1a52782fa235eb4491d4460d05699"
+      "key": "4f307",
+      "songName": "This Cat Has More Aura Than You",
+      "hash": "08a1756cd8db6c284aeec0d0d7c4d78aff259d96",
+      "levelid": "custom_level_08a1756cd8db6c284aeec0d0d7c4d78aff259d96"
     },
     {
-      "key": "4f2a2",
-      "songName": "頑張りたいソング",
-      "hash": "dd8cbf79182771de6711871762339ac43452c7c5",
-      "levelid": "custom_level_dd8cbf79182771de6711871762339ac43452c7c5"
+      "key": "4f304",
+      "songName": "Shiggy Jr. - Oyasumi(cexiria Remix)",
+      "hash": "f4a173cb2cba740b33fd158fd472f8a562a43844",
+      "levelid": "custom_level_f4a173cb2cba740b33fd158fd472f8a562a43844"
     },
     {
-      "key": "4f29d",
-      "songName": "John Michael Howell - Medusa",
-      "hash": "879ff66eed7d3f4d03b113edaee646e2ac71f08e",
-      "levelid": "custom_level_879ff66eed7d3f4d03b113edaee646e2ac71f08e"
+      "key": "4f302",
+      "songName": "so good",
+      "hash": "8d3cad6f3f70e1e53b84206198f72c64f33bbb59",
+      "levelid": "custom_level_8d3cad6f3f70e1e53b84206198f72c64f33bbb59"
     },
     {
-      "key": "4f29c",
-      "songName": "Creo - Glome",
-      "hash": "2a132c6d70bb6c9f2e77a906ec6a79352e4f9368",
-      "levelid": "custom_level_2a132c6d70bb6c9f2e77a906ec6a79352e4f9368"
+      "key": "4f301",
+      "songName": "Simpsonwave 1995",
+      "hash": "90b98b7c1ddedc9b8680ddfdd2e0c08b03ea69b6",
+      "levelid": "custom_level_90b98b7c1ddedc9b8680ddfdd2e0c08b03ea69b6"
     },
     {
-      "key": "4f29b",
-      "songName": "Mike Posner - I Took A Pill In Ibiza (SeeB Remix)",
-      "hash": "1d0b9e4258cfebf0f8e5a717e7237d5941b54aa0",
-      "levelid": "custom_level_1d0b9e4258cfebf0f8e5a717e7237d5941b54aa0"
+      "key": "4f2ff",
+      "songName": "Bump The Bass.exe (Bonus Track)",
+      "hash": "26233b3270fb11f9271dd31007706e168faacfa9",
+      "levelid": "custom_level_26233b3270fb11f9271dd31007706e168faacfa9"
     },
     {
-      "key": "4f28c",
-      "songName": "Xyris - Beyond The Edge (feat. Hanakuma Chifuyu)",
-      "hash": "8b009800b8d0d9090edc7ced4b4f5b6d396ce6b7",
-      "levelid": "custom_level_8b009800b8d0d9090edc7ced4b4f5b6d396ce6b7"
+      "key": "4f2fe",
+      "songName": "Small Cuts",
+      "hash": "c10b996d560393f1fa5f31c5d3073c47c663d709",
+      "levelid": "custom_level_c10b996d560393f1fa5f31c5d3073c47c663d709"
     },
     {
-      "key": "4f296",
-      "songName": "Rooler - WELCOME 2 DA RECORDSHOP",
-      "hash": "c7f55cdc06fa67bf815a316926494e50d00d1a40",
-      "levelid": "custom_level_c7f55cdc06fa67bf815a316926494e50d00d1a40"
+      "key": "4f2fd",
+      "songName": "The Purple Dimension but Retarded - ToonTubers",
+      "hash": "7a34a61868b02052c1aaee57983b49f5b9bbb734",
+      "levelid": "custom_level_7a34a61868b02052c1aaee57983b49f5b9bbb734"
     },
     {
-      "key": "4f297",
-      "songName": "Afraid of the Dark - Motionless In White",
-      "hash": "87f54bd1222316e3302c1ca52b45b8a0e87afcc2",
-      "levelid": "custom_level_87f54bd1222316e3302c1ca52b45b8a0e87afcc2"
+      "key": "4f2f3",
+      "songName": "7:3 11:4 3:1 11[8:6+5]:4 7[2+4:3+4:2]:3 3:1 4:1 10:2 9:3 11[6+11:5]:4 #polyrhythms #musictheory #fyp",
+      "hash": "4df7c1eca39812730904e72809949e95da207cac",
+      "levelid": "custom_level_4df7c1eca39812730904e72809949e95da207cac"
     },
     {
-      "key": "4f295",
-      "songName": "orange is love [ #KILL #ALL #DEVONS ]",
-      "hash": "f9aff2e7532a4a2a29e833a8ce9b3970ed3845bd",
-      "levelid": "custom_level_f9aff2e7532a4a2a29e833a8ce9b3970ed3845bd"
+      "key": "4f2f2",
+      "songName": "Liam is very cool",
+      "hash": "4eaaa800ec5a4e07f8e2cb2fc43008bee3b8de7f",
+      "levelid": "custom_level_4eaaa800ec5a4e07f8e2cb2fc43008bee3b8de7f"
     },
     {
-      "key": "4f294",
-      "songName": "Trillium",
-      "hash": "3fe3d76f34aa231e5776037fa35f678154f31de6",
-      "levelid": "custom_level_3fe3d76f34aa231e5776037fa35f678154f31de6"
+      "key": "4f2f1",
+      "songName": "[V4] North Mississippi Allstars - Hittin' The Hay",
+      "hash": "88818a0d6619b5ddae19a46dc78c3bcd97fbfc46",
+      "levelid": "custom_level_88818a0d6619b5ddae19a46dc78c3bcd97fbfc46"
     },
     {
-      "key": "4f292",
-      "songName": "911 parkerjack",
-      "hash": "3c3935127e5a5f50cbfb002a5dd4fb0ac9bcd735",
-      "levelid": "custom_level_3c3935127e5a5f50cbfb002a5dd4fb0ac9bcd735"
+      "key": "4f2ed",
+      "songName": "Gnarly",
+      "hash": "8730a21f7703e80d4a5ce856f97756e457d25295",
+      "levelid": "custom_level_8730a21f7703e80d4a5ce856f97756e457d25295"
     },
     {
-      "key": "4f291",
-      "songName": "PUSH IT!!",
-      "hash": "83cc124647f804d0a5d8e637ec0d51b6a29ec353",
-      "levelid": "custom_level_83cc124647f804d0a5d8e637ec0d51b6a29ec353"
+      "key": "4f2ec",
+      "songName": "Allan Cutler - Give up on us",
+      "hash": "35a8cf044a4359a1e0337347162a3b3cecdda9a3",
+      "levelid": "custom_level_35a8cf044a4359a1e0337347162a3b3cecdda9a3"
     },
     {
-      "key": "4f290",
-      "songName": "M - Razzia 2",
-      "hash": "f21a64f1c9948d006d200080212309a25e9e5ef1",
-      "levelid": "custom_level_f21a64f1c9948d006d200080212309a25e9e5ef1"
+      "key": "4f2eb",
+      "songName": "Tanzdiebe - Fred Vom Jupiter",
+      "hash": "bdb6b99754fc75b4f201986cdfe7f9ce4e3f6fbf",
+      "levelid": "custom_level_bdb6b99754fc75b4f201986cdfe7f9ce4e3f6fbf"
     },
     {
-      "key": "4f28d",
-      "songName": "Oi oi oi a eye eye Circulation",
-      "hash": "a1b1ec0aad0097aac744ba701f38f0219784a936",
-      "levelid": "custom_level_a1b1ec0aad0097aac744ba701f38f0219784a936"
+      "key": "4f2ea",
+      "songName": "Easy On My Heart (Nightcore)",
+      "hash": "1019964266ded5028adffb6d7b17eb15bd97855b",
+      "levelid": "custom_level_1019964266ded5028adffb6d7b17eb15bd97855b"
     },
     {
-      "key": "4f28b",
-      "songName": "WEATHERGIRL",
-      "hash": "b19b7259b7151be0b338fd83a0741c8e41f48794",
-      "levelid": "custom_level_b19b7259b7151be0b338fd83a0741c8e41f48794"
+      "key": "4f2e7",
+      "songName": "[Noodle Extensions] Piranha Plant's Lullaby - Koji Kondo",
+      "hash": "4dad7cec91a03b8306a6dca19e7230b71832d9c8",
+      "levelid": "custom_level_4dad7cec91a03b8306a6dca19e7230b71832d9c8"
     },
     {
-      "key": "4f289",
-      "songName": "Loco Loco - It Burns! It Burns! It Burns!",
-      "hash": "daf3f316acfa799257eb19a6536c198b52804d50",
-      "levelid": "custom_level_daf3f316acfa799257eb19a6536c198b52804d50"
+      "key": "4f2dd",
+      "songName": "Sparxie — Ravings  (Honkai Star Rail)",
+      "hash": "663f1cd5920070e759e9838562a6839052aa8d30",
+      "levelid": "custom_level_663f1cd5920070e759e9838562a6839052aa8d30"
     },
     {
-      "key": "4f23a",
-      "songName": "Come To Life",
-      "hash": "ed998993f65d7f8f80a635d85f3b5dc2348a38cf",
-      "levelid": "custom_level_ed998993f65d7f8f80a635d85f3b5dc2348a38cf"
+      "key": "4f2dc",
+      "songName": "【\\\\Virtual Collab!!!//】Camellia - 反ニュートリノ魔術（ANTINEUTRINO WITCHCRAFT） [From EGCS 2023 Grand Finals Tiebreaker]",
+      "hash": "99c20896dcabab4211c2e43037dd187a4c08a063",
+      "levelid": "custom_level_99c20896dcabab4211c2e43037dd187a4c08a063"
+    },
+    {
+      "key": "4f2d9",
+      "songName": "[QUEUE] USAO - Knight Rider (Camellia's \"Knightstyle Razor-psy-harp\" Remix)",
+      "hash": "2223a300c6df3de52251dc5edf22acd13791bf1f",
+      "levelid": "custom_level_2223a300c6df3de52251dc5edf22acd13791bf1f"
     }
   ],
   "image": ""
