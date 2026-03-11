@@ -1,184 +1,184 @@
 {
-  "playlistTitle": "2026-03-09T15:18:48.390Z~2026-03-10T15:18:48.390Z",
+  "playlistTitle": "2026-03-10T15:18:48.504Z~2026-03-11T15:18:48.504Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-03-09T15:18:48.390Z and 2026-03-10T15:18:48.390Z",
+  "discripstion": "Maps published between 2026-03-10T15:18:48.504Z and 2026-03-11T15:18:48.504Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "4f5af",
+      "songName": "low cortisol song",
+      "hash": "c345ecc0985233ed5b6c00c78bb8ebb33011af9a",
+      "levelid": "custom_level_c345ecc0985233ed5b6c00c78bb8ebb33011af9a"
+    },
+    {
+      "key": "4f5ad",
+      "songName": "Brighter - Hazbin Hotel [V3]",
+      "hash": "ecfb98f0cd97758ec53dc8bae127db752016bb26",
+      "levelid": "custom_level_ecfb98f0cd97758ec53dc8bae127db752016bb26"
+    },
+    {
+      "key": "4f5ae",
+      "songName": "i don't trust like that!",
+      "hash": "e00bd5471041b6fe33752ea377ba7e07cebbe9b0",
+      "levelid": "custom_level_e00bd5471041b6fe33752ea377ba7e07cebbe9b0"
+    },
+    {
+      "key": "4f5ac",
+      "songName": "Ccn - LONELY",
+      "hash": "72ea447dc0e0702651cf6e899a20665c50e152c1",
+      "levelid": "custom_level_72ea447dc0e0702651cf6e899a20665c50e152c1"
+    },
+    {
+      "key": "4f5aa",
+      "songName": "Touch The Sky (v3 Lights) - Somna, Alan Fullmer & RUNN",
+      "hash": "6385cbfb4865db77d309769b77129080f6c42f73",
+      "levelid": "custom_level_6385cbfb4865db77d309769b77129080f6c42f73"
+    },
+    {
+      "key": "4f5a8",
+      "songName": "Yamajet (feat. haru*ama*nya) - Sweets Holic",
+      "hash": "8c20da3ee2367b3ceaf80921a4a280e2c1eca72e",
+      "levelid": "custom_level_8c20da3ee2367b3ceaf80921a4a280e2c1eca72e"
+    },
+    {
+      "key": "4f58f",
+      "songName": "Monsta X - Beautiful Liar",
+      "hash": "84938d0bfc0d460fdfcccdf9c5173f11e0b741e6",
+      "levelid": "custom_level_84938d0bfc0d460fdfcccdf9c5173f11e0b741e6"
+    },
+    {
+      "key": "4f59f",
+      "songName": "VOX DEI",
+      "hash": "a3808e62f931a61d3b05ed09a79c8124a22097cd",
+      "levelid": "custom_level_a3808e62f931a61d3b05ed09a79c8124a22097cd"
+    },
+    {
+      "key": "4f59e",
+      "songName": "Brighter",
+      "hash": "f0d6e9eb48100ac8ff9e4d64e51a975e33b5cbb5",
+      "levelid": "custom_level_f0d6e9eb48100ac8ff9e4d64e51a975e33b5cbb5"
+    },
+    {
+      "key": "4f595",
+      "songName": "ZONE//ALONE (境界線上のホライゾンII OP)",
+      "hash": "c969cb5a8c28044c4f15fcffd853062ece59e9d7",
+      "levelid": "custom_level_c969cb5a8c28044c4f15fcffd853062ece59e9d7"
+    },
+    {
+      "key": "4f590",
+      "songName": "Amenoyoru - xxxxx",
+      "hash": "023fd4b4fe17847165ee76cfa853c495c0870d32",
+      "levelid": "custom_level_023fd4b4fe17847165ee76cfa853c495c0870d32"
+    },
+    {
+      "key": "4f58d",
+      "songName": "[Maps of March] [vGFMP] BLACKOUT - D-D-Dice",
+      "hash": "863fe27ca03c7b7b6961be6877acd1acc1b4b0d3",
+      "levelid": "custom_level_863fe27ca03c7b7b6961be6877acd1acc1b4b0d3"
+    },
+    {
+      "key": "4f582",
+      "songName": "Various Artists - Rainbow Road (Super Mario Kart) [Mario Kart World]",
+      "hash": "d9623edb09a9a908592ec3a56af2be70b28adf15",
+      "levelid": "custom_level_d9623edb09a9a908592ec3a56af2be70b28adf15"
+    },
+    {
+      "key": "4f57f",
+      "songName": "sh1tpost 2",
+      "hash": "d195bfce72bfa4124df80ca4129ef52100e8b5aa",
+      "levelid": "custom_level_d195bfce72bfa4124df80ca4129ef52100e8b5aa"
+    },
+    {
+      "key": "4f57d",
+      "songName": "headshot 223",
+      "hash": "5a9775a1738e70562316673d109db220f5b28a87",
+      "levelid": "custom_level_5a9775a1738e70562316673d109db220f5b28a87"
+    },
+    {
+      "key": "4f579",
+      "songName": "idk how to do maps",
+      "hash": "41a8163cecbf78822242752a5d940e4e587cf874",
+      "levelid": "custom_level_41a8163cecbf78822242752a5d940e4e587cf874"
+    },
+    {
+      "key": "4f4e4",
+      "songName": "AFX - Bodmin 3",
+      "hash": "fbe3a756b53194fb7a4afca53f50de525fc52c90",
+      "levelid": "custom_level_fbe3a756b53194fb7a4afca53f50de525fc52c90"
+    },
+    {
+      "key": "4f573",
+      "songName": "Attention",
+      "hash": "9064c59f324e94aff8bfe506abbb68f1a01d6c0a",
+      "levelid": "custom_level_9064c59f324e94aff8bfe506abbb68f1a01d6c0a"
+    },
+    {
+      "key": "4f55f",
+      "songName": "NIGHTMARE † CITY",
+      "hash": "d11a706a4681ad64e107032212f5a62bf608b9d6",
+      "levelid": "custom_level_d11a706a4681ad64e107032212f5a62bf608b9d6"
+    },
+    {
+      "key": "4f56a",
+      "songName": "The Living Tombstone - Die In A Fire",
+      "hash": "8c18cfa9c4768da48dd6eec04434f2a4259becc1",
+      "levelid": "custom_level_8c18cfa9c4768da48dd6eec04434f2a4259becc1"
+    },
+    {
+      "key": "4f56f",
+      "songName": "lov3r",
+      "hash": "90dcfc4f0e6dbf7821e9b1b173bfd0d09b52e1f7",
+      "levelid": "custom_level_90dcfc4f0e6dbf7821e9b1b173bfd0d09b52e1f7"
+    },
+    {
+      "key": "4abd7",
+      "songName": "Leann Rimes - Cant Fight The Moonlight (2000)",
+      "hash": "9359103f7afdb49093846babc6e8a4c199180d80",
+      "levelid": "custom_level_9359103f7afdb49093846babc6e8a4c199180d80"
+    },
+    {
+      "key": "4f563",
+      "songName": "404 (New Era) - KiiiKiii",
+      "hash": "d408d66d3bfaa11ad9281376dbbb5727dade6171",
+      "levelid": "custom_level_d408d66d3bfaa11ad9281376dbbb5727dade6171"
+    },
+    {
+      "key": "4f560",
+      "songName": "Ao no natsu (katagiri bootleg) (Sped Up Ver.)",
+      "hash": "fe40d66b8fa212edb65e082ccf7480c8177b9b26",
+      "levelid": "custom_level_fe40d66b8fa212edb65e082ccf7480c8177b9b26"
+    },
+    {
+      "key": "4ecaf",
+      "songName": "Kobaryo - REKKA RESONANCE",
+      "hash": "5cf2bedb481e08bce61ab0035ae5b072345494f3",
+      "levelid": "custom_level_5cf2bedb481e08bce61ab0035ae5b072345494f3"
+    },
+    {
+      "key": "4f55e",
+      "songName": "something",
+      "hash": "187465749ac4ba91a88f1d6366f015a3185d9fa2",
+      "levelid": "custom_level_187465749ac4ba91a88f1d6366f015a3185d9fa2"
+    },
+    {
+      "key": "4f55c",
+      "songName": "Total Drama Island Theme",
+      "hash": "4cc43d8c9a6f89372b9d02f1045be101e4a35e59",
+      "levelid": "custom_level_4cc43d8c9a6f89372b9d02f1045be101e4a35e59"
+    },
+    {
+      "key": "4f55d",
+      "songName": "Hearts2Hearts - Style (hongye's flip remix)",
+      "hash": "b9e0bd07c3fab64d6770d7fe8f1f293ca09520ed",
+      "levelid": "custom_level_b9e0bd07c3fab64d6770d7fe8f1f293ca09520ed"
+    },
+    {
       "key": "4f55a",
       "songName": "[Fitbeat] bbno$ - 1-800 (ft. ironmouse)",
-      "hash": "faf805f354b6df6c1d7610a497bfd8c510a2169e",
-      "levelid": "custom_level_faf805f354b6df6c1d7610a497bfd8c510a2169e"
-    },
-    {
-      "key": "4f559",
-      "songName": "DJ Noriken × P*Light-INFINITE DIMENSION",
-      "hash": "3f0a6b9a2a2213fe962957cbf55df52925add4d4",
-      "levelid": "custom_level_3f0a6b9a2a2213fe962957cbf55df52925add4d4"
-    },
-    {
-      "key": "4f549",
-      "songName": "(6 lane)  Illusionary Night",
-      "hash": "65ae1c4ade704d4712a48edf7dc916f77fe66579",
-      "levelid": "custom_level_65ae1c4ade704d4712a48edf7dc916f77fe66579"
-    },
-    {
-      "key": "4f52c",
-      "songName": "TERMINATED (境界線上のホライゾン OP)",
-      "hash": "857ab5f201aa3f50d66bc2ab6345278f3e3c90a8",
-      "levelid": "custom_level_857ab5f201aa3f50d66bc2ab6345278f3e3c90a8"
-    },
-    {
-      "key": "4f517",
-      "songName": "weekend",
-      "hash": "d135d9d4b755c2c577e72f39b310ffd24eee8fab",
-      "levelid": "custom_level_d135d9d4b755c2c577e72f39b310ffd24eee8fab"
-    },
-    {
-      "key": "4f516",
-      "songName": "[QUEUE] Teminite x Boom Kitty x Waterflame - Slash Inferno",
-      "hash": "86f9ad79eba8e58ff06a4e252c145078f4a4e25b",
-      "levelid": "custom_level_86f9ad79eba8e58ff06a4e252c145078f4a4e25b"
-    },
-    {
-      "key": "4f513",
-      "songName": "Timber",
-      "hash": "5c43b14142942ee5eff05e8db7129a33ec17bad3",
-      "levelid": "custom_level_5c43b14142942ee5eff05e8db7129a33ec17bad3"
-    },
-    {
-      "key": "4f506",
-      "songName": "TREEHOUSE",
-      "hash": "34a4c73164ce61bdfb2d59a9933278cf0384bf90",
-      "levelid": "custom_level_34a4c73164ce61bdfb2d59a9933278cf0384bf90"
-    },
-    {
-      "key": "4f501",
-      "songName": "Ao to Natsu (katagiri bootleg)",
-      "hash": "c9526723f9b1af369d552915191f5cf0b558064c",
-      "levelid": "custom_level_c9526723f9b1af369d552915191f5cf0b558064c"
-    },
-    {
-      "key": "4f4fd",
-      "songName": "Sasuke Haraguchi - HITO Mania",
-      "hash": "e60d63973a9106e169b87cb347271a9a0c6732d4",
-      "levelid": "custom_level_e60d63973a9106e169b87cb347271a9a0c6732d4"
-    },
-    {
-      "key": "4f4f6",
-      "songName": "akina",
-      "hash": "62fed262a12c9d0ab9d2a9f0fb774f15284989c8",
-      "levelid": "custom_level_62fed262a12c9d0ab9d2a9f0fb774f15284989c8"
-    },
-    {
-      "key": "4f4f4",
-      "songName": "TheFunSong",
-      "hash": "6abc5ef594f89b9fb3da66e2d2d249f96f516519",
-      "levelid": "custom_level_6abc5ef594f89b9fb3da66e2d2d249f96f516519"
-    },
-    {
-      "key": "4f4f1",
-      "songName": "Untitled",
-      "hash": "3f532db4251bbc51a6e693829ebeae779ccffede",
-      "levelid": "custom_level_3f532db4251bbc51a6e693829ebeae779ccffede"
-    },
-    {
-      "key": "4f4f2",
-      "songName": "TheSlientKiller",
-      "hash": "d202196e2a6cf17e612e10e4f2faf57b5ecb8cc5",
-      "levelid": "custom_level_d202196e2a6cf17e612e10e4f2faf57b5ecb8cc5"
-    },
-    {
-      "key": "4f4f0",
-      "songName": "Collard Greens",
-      "hash": "9bb39b3484718bd7a0794b35d50c8b8067811f21",
-      "levelid": "custom_level_9bb39b3484718bd7a0794b35d50c8b8067811f21"
-    },
-    {
-      "key": "4f326",
-      "songName": "Catch Me If You Can (Wuthering Waves)",
-      "hash": "7628448d5753659d9aab344beb9b47dba2ac4be8",
-      "levelid": "custom_level_7628448d5753659d9aab344beb9b47dba2ac4be8"
-    },
-    {
-      "key": "4f4ee",
-      "songName": "Never Enough",
-      "hash": "31fe9b3f844b6e6262ae9e317ceccbca9c574693",
-      "levelid": "custom_level_31fe9b3f844b6e6262ae9e317ceccbca9c574693"
-    },
-    {
-      "key": "4f4eb",
-      "songName": " A Little Bit Bad Feat ‪Gamma BadArt‬",
-      "hash": "0a883713661059db3b87ea9fe2d8f40733437f98",
-      "levelid": "custom_level_0a883713661059db3b87ea9fe2d8f40733437f98"
-    },
-    {
-      "key": "40554",
-      "songName": "[Chroma,NE]Camellia - Fly Wit Me(Short Ver.)",
-      "hash": "263107900bc3823e886f019b74c886b679d60c9c",
-      "levelid": "custom_level_263107900bc3823e886f019b74c886b679d60c9c"
-    },
-    {
-      "key": "4f4e8",
-      "songName": "Maggie Miles - Deathmatch, Baby",
-      "hash": "9c96d42a107fcb84b1d20aec9fb0c256f244df70",
-      "levelid": "custom_level_9c96d42a107fcb84b1d20aec9fb0c256f244df70"
-    },
-    {
-      "key": "4f4e5",
-      "songName": "Suffer",
-      "hash": "a41b38774def4f7c1788d20e706e8c9dab8b518d",
-      "levelid": "custom_level_a41b38774def4f7c1788d20e706e8c9dab8b518d"
-    },
-    {
-      "key": "4f4e3",
-      "songName": "Camellia - Venomous Firefly",
-      "hash": "ff8fc46c638260f737ed425bc6faa72539be6788",
-      "levelid": "custom_level_ff8fc46c638260f737ed425bc6faa72539be6788"
-    },
-    {
-      "key": "4f4e2",
-      "songName": "It's TV Time!",
-      "hash": "dc2a7c32fa11384b614fcc53116d57b59bbad64c",
-      "levelid": "custom_level_dc2a7c32fa11384b614fcc53116d57b59bbad64c"
-    },
-    {
-      "key": "4f4e1",
-      "songName": "where you going hemmy",
-      "hash": "5c676510b3910bd9f736c32351e9025ce38e110b",
-      "levelid": "custom_level_5c676510b3910bd9f736c32351e9025ce38e110b"
-    },
-    {
-      "key": "4f4de",
-      "songName": "Kevin MacLeod - Fluffing a Duck",
-      "hash": "42c5c75032139cd364c8f342c7c15a34c9a9122c",
-      "levelid": "custom_level_42c5c75032139cd364c8f342c7c15a34c9a9122c"
-    },
-    {
-      "key": "4f4da",
-      "songName": "Astra",
-      "hash": "092e0499df2524a5845cb7c33f77ad68f1bcfa63",
-      "levelid": "custom_level_092e0499df2524a5845cb7c33f77ad68f1bcfa63"
-    },
-    {
-      "key": "4f4dd",
-      "songName": "OU-ROGUELIKE - Kou!",
-      "hash": "5a6a37099f2e6c3b229e694204366fa445651ac1",
-      "levelid": "custom_level_5a6a37099f2e6c3b229e694204366fa445651ac1"
-    },
-    {
-      "key": "4f4d7",
-      "songName": "Alone Intelligence",
-      "hash": "1dd5b0d2294c18cf6436af23e3cd793cc1bd9de1",
-      "levelid": "custom_level_1dd5b0d2294c18cf6436af23e3cd793cc1bd9de1"
-    },
-    {
-      "key": "4f4d6",
-      "songName": " ポッピンキャンディ☆フィーバー！／Poppin' Candy☆Fever!",
-      "hash": "23ef3eb7032e8e9fc07155b7dbbc6a6433804ab1",
-      "levelid": "custom_level_23ef3eb7032e8e9fc07155b7dbbc6a6433804ab1"
+      "hash": "2a990e97f9a6d4d8b6f5ab45ec75ac30ebc5c961",
+      "levelid": "custom_level_2a990e97f9a6d4d8b6f5ab45ec75ac30ebc5c961"
     }
   ],
   "image": ""
