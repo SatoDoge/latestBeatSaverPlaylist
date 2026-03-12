@@ -1,184 +1,190 @@
 {
-  "playlistTitle": "2026-03-10T15:18:48.504Z~2026-03-11T15:18:48.504Z",
+  "playlistTitle": "2026-03-11T15:19:48.144Z~2026-03-12T15:19:48.144Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-03-10T15:18:48.504Z and 2026-03-11T15:18:48.504Z",
+  "discripstion": "Maps published between 2026-03-11T15:19:48.144Z and 2026-03-12T15:19:48.144Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4f5af",
-      "songName": "low cortisol song",
-      "hash": "c345ecc0985233ed5b6c00c78bb8ebb33011af9a",
-      "levelid": "custom_level_c345ecc0985233ed5b6c00c78bb8ebb33011af9a"
+      "key": "4f615",
+      "songName": "no to jedzie ten autobus czy nie",
+      "hash": "8d8ba2abfef38f3d3659bd6bdfc107367a391d53",
+      "levelid": "custom_level_8d8ba2abfef38f3d3659bd6bdfc107367a391d53"
     },
     {
-      "key": "4f5ad",
-      "songName": "Brighter - Hazbin Hotel [V3]",
-      "hash": "ecfb98f0cd97758ec53dc8bae127db752016bb26",
-      "levelid": "custom_level_ecfb98f0cd97758ec53dc8bae127db752016bb26"
+      "key": "4f613",
+      "songName": "Taxi to the Moon - Penthouse",
+      "hash": "937850c9aa658f4501e1cb6dc9c85c47cf373990",
+      "levelid": "custom_level_937850c9aa658f4501e1cb6dc9c85c47cf373990"
     },
     {
-      "key": "4f5ae",
-      "songName": "i don't trust like that!",
-      "hash": "e00bd5471041b6fe33752ea377ba7e07cebbe9b0",
-      "levelid": "custom_level_e00bd5471041b6fe33752ea377ba7e07cebbe9b0"
+      "key": "4f612",
+      "songName": "Can Can but I got distracted",
+      "hash": "47235755be16501a5f04162cd25d9bcffb65f13d",
+      "levelid": "custom_level_47235755be16501a5f04162cd25d9bcffb65f13d"
     },
     {
-      "key": "4f5ac",
-      "songName": "Ccn - LONELY",
-      "hash": "72ea447dc0e0702651cf6e899a20665c50e152c1",
-      "levelid": "custom_level_72ea447dc0e0702651cf6e899a20665c50e152c1"
+      "key": "4f611",
+      "songName": "sh1tpost 2 V3",
+      "hash": "65238ee7b7812f4eed825905b96cc087ee76a3bf",
+      "levelid": "custom_level_65238ee7b7812f4eed825905b96cc087ee76a3bf"
     },
     {
-      "key": "4f5aa",
-      "songName": "Touch The Sky (v3 Lights) - Somna, Alan Fullmer & RUNN",
-      "hash": "6385cbfb4865db77d309769b77129080f6c42f73",
-      "levelid": "custom_level_6385cbfb4865db77d309769b77129080f6c42f73"
+      "key": "4f60f",
+      "songName": "RADIO TAPOK -  Attack of the Dead Men (Sabaton Cover)",
+      "hash": "bd2060fdaa9b35e93ec90e687a1018134c55402e",
+      "levelid": "custom_level_bd2060fdaa9b35e93ec90e687a1018134c55402e"
     },
     {
-      "key": "4f5a8",
-      "songName": "Yamajet (feat. haru*ama*nya) - Sweets Holic",
-      "hash": "8c20da3ee2367b3ceaf80921a4a280e2c1eca72e",
-      "levelid": "custom_level_8c20da3ee2367b3ceaf80921a4a280e2c1eca72e"
+      "key": "4f60e",
+      "songName": "RADIO TAPOK - Night Witches (Sabaton Cover)",
+      "hash": "290945de436aac87dd96dd6199c7d264b1146920",
+      "levelid": "custom_level_290945de436aac87dd96dd6199c7d264b1146920"
     },
     {
-      "key": "4f58f",
-      "songName": "Monsta X - Beautiful Liar",
-      "hash": "84938d0bfc0d460fdfcccdf9c5173f11e0b741e6",
-      "levelid": "custom_level_84938d0bfc0d460fdfcccdf9c5173f11e0b741e6"
+      "key": "4f60d",
+      "songName": "Fragrance Witch",
+      "hash": "756c8866daa837c336e75043ac1218cdb8ff4bf0",
+      "levelid": "custom_level_756c8866daa837c336e75043ac1218cdb8ff4bf0"
     },
     {
-      "key": "4f59f",
-      "songName": "VOX DEI",
-      "hash": "a3808e62f931a61d3b05ed09a79c8124a22097cd",
-      "levelid": "custom_level_a3808e62f931a61d3b05ed09a79c8124a22097cd"
+      "key": "4f60c",
+      "songName": "境界の彼方 (境界の彼方 OP)",
+      "hash": "cb35a8cd1007be9e4e5799774046ec4eb0a63499",
+      "levelid": "custom_level_cb35a8cd1007be9e4e5799774046ec4eb0a63499"
     },
     {
-      "key": "4f59e",
-      "songName": "Brighter",
-      "hash": "f0d6e9eb48100ac8ff9e4d64e51a975e33b5cbb5",
-      "levelid": "custom_level_f0d6e9eb48100ac8ff9e4d64e51a975e33b5cbb5"
+      "key": "4f60b",
+      "songName": "RADIO TAPOK - Primo Victoria (Sabaton Cover)",
+      "hash": "a56c1ef49830eb2fec99dbb318c5d943ed7bf2be",
+      "levelid": "custom_level_a56c1ef49830eb2fec99dbb318c5d943ed7bf2be"
     },
     {
-      "key": "4f595",
-      "songName": "ZONE//ALONE (境界線上のホライゾンII OP)",
-      "hash": "c969cb5a8c28044c4f15fcffd853062ece59e9d7",
-      "levelid": "custom_level_c969cb5a8c28044c4f15fcffd853062ece59e9d7"
+      "key": "4f609",
+      "songName": "New begiwsa",
+      "hash": "22ad1075459e36dc15c799249fadc924571fbce3",
+      "levelid": "custom_level_22ad1075459e36dc15c799249fadc924571fbce3"
     },
     {
-      "key": "4f590",
-      "songName": "Amenoyoru - xxxxx",
-      "hash": "023fd4b4fe17847165ee76cfa853c495c0870d32",
-      "levelid": "custom_level_023fd4b4fe17847165ee76cfa853c495c0870d32"
+      "key": "4f608",
+      "songName": "Disney - Kingdom Dance (from Tangled)",
+      "hash": "508782fdcda58c71c5597b7c10acb38b6391677b",
+      "levelid": "custom_level_508782fdcda58c71c5597b7c10acb38b6391677b"
     },
     {
-      "key": "4f58d",
-      "songName": "[Maps of March] [vGFMP] BLACKOUT - D-D-Dice",
-      "hash": "863fe27ca03c7b7b6961be6877acd1acc1b4b0d3",
-      "levelid": "custom_level_863fe27ca03c7b7b6961be6877acd1acc1b4b0d3"
+      "key": "4f607",
+      "songName": "Atari Teenage Robots - Speed",
+      "hash": "20f05429c03438594eb32e91320c4785d8c6af8b",
+      "levelid": "custom_level_20f05429c03438594eb32e91320c4785d8c6af8b"
     },
     {
-      "key": "4f582",
-      "songName": "Various Artists - Rainbow Road (Super Mario Kart) [Mario Kart World]",
-      "hash": "d9623edb09a9a908592ec3a56af2be70b28adf15",
-      "levelid": "custom_level_d9623edb09a9a908592ec3a56af2be70b28adf15"
+      "key": "4f602",
+      "songName": "noaki - ko3te(fixed)",
+      "hash": "eb8c85fb3fbabebbbb5c86f9282b4654982d554b",
+      "levelid": "custom_level_eb8c85fb3fbabebbbb5c86f9282b4654982d554b"
     },
     {
-      "key": "4f57f",
-      "songName": "sh1tpost 2",
-      "hash": "d195bfce72bfa4124df80ca4129ef52100e8b5aa",
-      "levelid": "custom_level_d195bfce72bfa4124df80ca4129ef52100e8b5aa"
+      "key": "4f601",
+      "songName": "[FITBEAT] Ride",
+      "hash": "497c3ce39945044473fe6a7aa1ff43c46258956a",
+      "levelid": "custom_level_497c3ce39945044473fe6a7aa1ff43c46258956a"
     },
     {
-      "key": "4f57d",
-      "songName": "headshot 223",
-      "hash": "5a9775a1738e70562316673d109db220f5b28a87",
-      "levelid": "custom_level_5a9775a1738e70562316673d109db220f5b28a87"
+      "key": "4f5fe",
+      "songName": "SIGMA ANTHEM",
+      "hash": "1e1839d6f6b00a8a22bbd121a5fac6f446dba1a0",
+      "levelid": "custom_level_1e1839d6f6b00a8a22bbd121a5fac6f446dba1a0"
     },
     {
-      "key": "4f579",
-      "songName": "idk how to do maps",
-      "hash": "41a8163cecbf78822242752a5d940e4e587cf874",
-      "levelid": "custom_level_41a8163cecbf78822242752a5d940e4e587cf874"
+      "key": "4f5fd",
+      "songName": "IM SURROUNDED - CreepP & USAO {MV Start + Ending}",
+      "hash": "d9cdfe9872976338a5d831f4db9d917771caaeda",
+      "levelid": "custom_level_d9cdfe9872976338a5d831f4db9d917771caaeda"
     },
     {
-      "key": "4f4e4",
-      "songName": "AFX - Bodmin 3",
-      "hash": "fbe3a756b53194fb7a4afca53f50de525fc52c90",
-      "levelid": "custom_level_fbe3a756b53194fb7a4afca53f50de525fc52c90"
+      "key": "4f5fb",
+      "songName": "Ai Đưa Em Về (Cukak Remix) - TIA,  Lê Thiện Hiếu, & Cuckak",
+      "hash": "cbd2b585419fcbe668ff98d4fc33fc723e6b71df",
+      "levelid": "custom_level_cbd2b585419fcbe668ff98d4fc33fc723e6b71df"
     },
     {
-      "key": "4f573",
-      "songName": "Attention",
-      "hash": "9064c59f324e94aff8bfe506abbb68f1a01d6c0a",
-      "levelid": "custom_level_9064c59f324e94aff8bfe506abbb68f1a01d6c0a"
+      "key": "4f5f8",
+      "songName": "sh1tpost 2 UPDATED",
+      "hash": "e82c9548b29033d5943b3226c9704df2154cf3d1",
+      "levelid": "custom_level_e82c9548b29033d5943b3226c9704df2154cf3d1"
     },
     {
-      "key": "4f55f",
-      "songName": "NIGHTMARE † CITY",
-      "hash": "d11a706a4681ad64e107032212f5a62bf608b9d6",
-      "levelid": "custom_level_d11a706a4681ad64e107032212f5a62bf608b9d6"
+      "key": "4f5e1",
+      "songName": "DADADADA",
+      "hash": "be363995e3836956f51a5fc7b7289865a9f3ff47",
+      "levelid": "custom_level_be363995e3836956f51a5fc7b7289865a9f3ff47"
     },
     {
-      "key": "4f56a",
-      "songName": "The Living Tombstone - Die In A Fire",
-      "hash": "8c18cfa9c4768da48dd6eec04434f2a4259becc1",
-      "levelid": "custom_level_8c18cfa9c4768da48dd6eec04434f2a4259becc1"
+      "key": "4f5d4",
+      "songName": "Enrique Iglesias - Bailando ft. Descemer Bueno, Gente De Zona",
+      "hash": "a3f5f6292f16cefbd609edaf6d03923d02f1e419",
+      "levelid": "custom_level_a3f5f6292f16cefbd609edaf6d03923d02f1e419"
     },
     {
-      "key": "4f56f",
-      "songName": "lov3r",
-      "hash": "90dcfc4f0e6dbf7821e9b1b173bfd0d09b52e1f7",
-      "levelid": "custom_level_90dcfc4f0e6dbf7821e9b1b173bfd0d09b52e1f7"
+      "key": "4f5cb",
+      "songName": "Ally Brooke - Lips Don't Lie (Besomorph Remix)",
+      "hash": "f556977fe2bfbd946eda3a8f9c28841c3a843870",
+      "levelid": "custom_level_f556977fe2bfbd946eda3a8f9c28841c3a843870"
     },
     {
-      "key": "4abd7",
-      "songName": "Leann Rimes - Cant Fight The Moonlight (2000)",
-      "hash": "9359103f7afdb49093846babc6e8a4c199180d80",
-      "levelid": "custom_level_9359103f7afdb49093846babc6e8a4c199180d80"
+      "key": "4f5cd",
+      "songName": "Over And Over And Over Again",
+      "hash": "72f53ab7d7f62d4ac11edf2564dc35530e504e68",
+      "levelid": "custom_level_72f53ab7d7f62d4ac11edf2564dc35530e504e68"
     },
     {
-      "key": "4f563",
-      "songName": "404 (New Era) - KiiiKiii",
-      "hash": "d408d66d3bfaa11ad9281376dbbb5727dade6171",
-      "levelid": "custom_level_d408d66d3bfaa11ad9281376dbbb5727dade6171"
+      "key": "4f5cc",
+      "songName": "UEFA Champions League Anthem",
+      "hash": "d01653e44edc536013e1c4f401d2e1753429d395",
+      "levelid": "custom_level_d01653e44edc536013e1c4f401d2e1753429d395"
     },
     {
-      "key": "4f560",
-      "songName": "Ao no natsu (katagiri bootleg) (Sped Up Ver.)",
-      "hash": "fe40d66b8fa212edb65e082ccf7480c8177b9b26",
-      "levelid": "custom_level_fe40d66b8fa212edb65e082ccf7480c8177b9b26"
+      "key": "4f5c5",
+      "songName": "estrella",
+      "hash": "3cdc7420b9e54afe0d656a390ea6b92d888197c6",
+      "levelid": "custom_level_3cdc7420b9e54afe0d656a390ea6b92d888197c6"
     },
     {
-      "key": "4ecaf",
-      "songName": "Kobaryo - REKKA RESONANCE",
-      "hash": "5cf2bedb481e08bce61ab0035ae5b072345494f3",
-      "levelid": "custom_level_5cf2bedb481e08bce61ab0035ae5b072345494f3"
+      "key": "4f5c3",
+      "songName": "Be Alone - The Living Tombstone",
+      "hash": "d880423c25dffa45472467a255bf5da8f5df808f",
+      "levelid": "custom_level_d880423c25dffa45472467a255bf5da8f5df808f"
     },
     {
-      "key": "4f55e",
-      "songName": "something",
-      "hash": "187465749ac4ba91a88f1d6366f015a3185d9fa2",
-      "levelid": "custom_level_187465749ac4ba91a88f1d6366f015a3185d9fa2"
+      "key": "4f5c2",
+      "songName": "Seiryu - Blue Dragon",
+      "hash": "f55be646948456b4889620b7d28cf1d794107849",
+      "levelid": "custom_level_f55be646948456b4889620b7d28cf1d794107849"
     },
     {
-      "key": "4f55c",
-      "songName": "Total Drama Island Theme",
-      "hash": "4cc43d8c9a6f89372b9d02f1045be101e4a35e59",
-      "levelid": "custom_level_4cc43d8c9a6f89372b9d02f1045be101e4a35e59"
+      "key": "4f5bd",
+      "songName": "You Say Run My Hero Academia OST",
+      "hash": "08495b06bd4fca518ab17ddad08253e6227a14f1",
+      "levelid": "custom_level_08495b06bd4fca518ab17ddad08253e6227a14f1"
     },
     {
-      "key": "4f55d",
-      "songName": "Hearts2Hearts - Style (hongye's flip remix)",
-      "hash": "b9e0bd07c3fab64d6770d7fe8f1f293ca09520ed",
-      "levelid": "custom_level_b9e0bd07c3fab64d6770d7fe8f1f293ca09520ed"
+      "key": "4f5b4",
+      "songName": "No Batidao Slowed",
+      "hash": "847cf8158b782b73e2c21a2d9b5bef374f908392",
+      "levelid": "custom_level_847cf8158b782b73e2c21a2d9b5bef374f908392"
     },
     {
-      "key": "4f55a",
-      "songName": "[Fitbeat] bbno$ - 1-800 (ft. ironmouse)",
-      "hash": "2a990e97f9a6d4d8b6f5ab45ec75ac30ebc5c961",
-      "levelid": "custom_level_2a990e97f9a6d4d8b6f5ab45ec75ac30ebc5c961"
+      "key": "4f55b",
+      "songName": "All My Life",
+      "hash": "9ddec7e9a5e2a735728f91c2fcc129a5980684ec",
+      "levelid": "custom_level_9ddec7e9a5e2a735728f91c2fcc129a5980684ec"
+    },
+    {
+      "key": "4f5b0",
+      "songName": "what galaxy what galaxy are we in right now? samsung galaxy s5",
+      "hash": "4b1974d013f88bfce96222347ca4a0cd1393b30f",
+      "levelid": "custom_level_4b1974d013f88bfce96222347ca4a0cd1393b30f"
     }
   ],
   "image": ""
