@@ -1,190 +1,316 @@
 {
-  "playlistTitle": "2026-03-11T15:19:48.144Z~2026-03-12T15:19:48.144Z",
+  "playlistTitle": "2026-03-12T15:18:48.742Z~2026-03-13T15:18:48.742Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-03-11T15:19:48.144Z and 2026-03-12T15:19:48.144Z",
+  "discripstion": "Maps published between 2026-03-12T15:18:48.742Z and 2026-03-13T15:18:48.742Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4f615",
-      "songName": "no to jedzie ten autobus czy nie",
-      "hash": "8d8ba2abfef38f3d3659bd6bdfc107367a391d53",
-      "levelid": "custom_level_8d8ba2abfef38f3d3659bd6bdfc107367a391d53"
+      "key": "4f683",
+      "songName": "Vaundy - Odoriko",
+      "hash": "6aeeffd0101e514e060a4d126a8de3e26cb6c1f6",
+      "levelid": "custom_level_6aeeffd0101e514e060a4d126a8de3e26cb6c1f6"
     },
     {
-      "key": "4f613",
-      "songName": "Taxi to the Moon - Penthouse",
-      "hash": "937850c9aa658f4501e1cb6dc9c85c47cf373990",
-      "levelid": "custom_level_937850c9aa658f4501e1cb6dc9c85c47cf373990"
+      "key": "4f682",
+      "songName": "lexycat - glitter ✩‧₊˚",
+      "hash": "4f2bacfd64ecb3626a6639052e9bfccbeead8c94",
+      "levelid": "custom_level_4f2bacfd64ecb3626a6639052e9bfccbeead8c94"
     },
     {
-      "key": "4f612",
-      "songName": "Can Can but I got distracted",
-      "hash": "47235755be16501a5f04162cd25d9bcffb65f13d",
-      "levelid": "custom_level_47235755be16501a5f04162cd25d9bcffb65f13d"
+      "key": "4f681",
+      "songName": "知我(剑来)-Know Me",
+      "hash": "f9c5b650688ed2e501d34101f5ed5d3bc3cd4e24",
+      "levelid": "custom_level_f9c5b650688ed2e501d34101f5ed5d3bc3cd4e24"
     },
     {
-      "key": "4f611",
-      "songName": "sh1tpost 2 V3",
-      "hash": "65238ee7b7812f4eed825905b96cc087ee76a3bf",
-      "levelid": "custom_level_65238ee7b7812f4eed825905b96cc087ee76a3bf"
+      "key": "4f67f",
+      "songName": "ADHD",
+      "hash": "11cb2a8015dbf3ed26d4eb7a86e7864cabff504b",
+      "levelid": "custom_level_11cb2a8015dbf3ed26d4eb7a86e7864cabff504b"
     },
     {
-      "key": "4f60f",
-      "songName": "RADIO TAPOK -  Attack of the Dead Men (Sabaton Cover)",
-      "hash": "bd2060fdaa9b35e93ec90e687a1018134c55402e",
-      "levelid": "custom_level_bd2060fdaa9b35e93ec90e687a1018134c55402e"
+      "key": "4f67e",
+      "songName": "Skyfall",
+      "hash": "e71fe7f963c7fd335d88f7bed7a6dab811924ae0",
+      "levelid": "custom_level_e71fe7f963c7fd335d88f7bed7a6dab811924ae0"
     },
     {
-      "key": "4f60e",
-      "songName": "RADIO TAPOK - Night Witches (Sabaton Cover)",
-      "hash": "290945de436aac87dd96dd6199c7d264b1146920",
-      "levelid": "custom_level_290945de436aac87dd96dd6199c7d264b1146920"
+      "key": "4f67d",
+      "songName": "诀别书-Farewell Letter",
+      "hash": "7ea43e6f48fb02c3f581a94f698451023305483b",
+      "levelid": "custom_level_7ea43e6f48fb02c3f581a94f698451023305483b"
     },
     {
-      "key": "4f60d",
-      "songName": "Fragrance Witch",
-      "hash": "756c8866daa837c336e75043ac1218cdb8ff4bf0",
-      "levelid": "custom_level_756c8866daa837c336e75043ac1218cdb8ff4bf0"
+      "key": "4f67b",
+      "songName": "билборды - острые лезвия (Remake)",
+      "hash": "68247d6fd55648a452665cf45674e5953e6230bd",
+      "levelid": "custom_level_68247d6fd55648a452665cf45674e5953e6230bd"
     },
     {
-      "key": "4f60c",
-      "songName": "境界の彼方 (境界の彼方 OP)",
-      "hash": "cb35a8cd1007be9e4e5799774046ec4eb0a63499",
-      "levelid": "custom_level_cb35a8cd1007be9e4e5799774046ec4eb0a63499"
+      "key": "4f67a",
+      "songName": "　　　　　　",
+      "hash": "91a7d45a85e0f0b2173832d27ef636093625b546",
+      "levelid": "custom_level_91a7d45a85e0f0b2173832d27ef636093625b546"
     },
     {
-      "key": "4f60b",
-      "songName": "RADIO TAPOK - Primo Victoria (Sabaton Cover)",
-      "hash": "a56c1ef49830eb2fec99dbb318c5d943ed7bf2be",
-      "levelid": "custom_level_a56c1ef49830eb2fec99dbb318c5d943ed7bf2be"
+      "key": "4f679",
+      "songName": "RADIO TAPOK - In the End (Imagine Dragons Cover)",
+      "hash": "342fe4be4e2e53c47e2e4bd8a856ae8e9b4057a4",
+      "levelid": "custom_level_342fe4be4e2e53c47e2e4bd8a856ae8e9b4057a4"
     },
     {
-      "key": "4f609",
-      "songName": "New begiwsa",
-      "hash": "22ad1075459e36dc15c799249fadc924571fbce3",
-      "levelid": "custom_level_22ad1075459e36dc15c799249fadc924571fbce3"
+      "key": "4f678",
+      "songName": "RADIO TAPOK - Thunder (Imagine Dragons Cover)",
+      "hash": "1968a16deb2a60c0758c0f5f298d3df023520ead",
+      "levelid": "custom_level_1968a16deb2a60c0758c0f5f298d3df023520ead"
     },
     {
-      "key": "4f608",
-      "songName": "Disney - Kingdom Dance (from Tangled)",
-      "hash": "508782fdcda58c71c5597b7c10acb38b6391677b",
-      "levelid": "custom_level_508782fdcda58c71c5597b7c10acb38b6391677b"
+      "key": "4f675",
+      "songName": "Mirror Demo",
+      "hash": "72bbe4912f7668c57afcda05fd9d065eb09eb82c",
+      "levelid": "custom_level_72bbe4912f7668c57afcda05fd9d065eb09eb82c"
     },
     {
-      "key": "4f607",
-      "songName": "Atari Teenage Robots - Speed",
-      "hash": "20f05429c03438594eb32e91320c4785d8c6af8b",
-      "levelid": "custom_level_20f05429c03438594eb32e91320c4785d8c6af8b"
+      "key": "4f672",
+      "songName": "Nightcore  - Darkside (But it hits different)",
+      "hash": "e477f02140f93d1d19958a0b6ac288e150f8ae6b",
+      "levelid": "custom_level_e477f02140f93d1d19958a0b6ac288e150f8ae6b"
     },
     {
-      "key": "4f602",
-      "songName": "noaki - ko3te(fixed)",
-      "hash": "eb8c85fb3fbabebbbb5c86f9282b4654982d554b",
-      "levelid": "custom_level_eb8c85fb3fbabebbbb5c86f9282b4654982d554b"
+      "key": "4f671",
+      "songName": "umm a beat saver level",
+      "hash": "a54340dadd1bee7e4da973fa5a113b237cf48733",
+      "levelid": "custom_level_a54340dadd1bee7e4da973fa5a113b237cf48733"
     },
     {
-      "key": "4f601",
-      "songName": "[FITBEAT] Ride",
-      "hash": "497c3ce39945044473fe6a7aa1ff43c46258956a",
-      "levelid": "custom_level_497c3ce39945044473fe6a7aa1ff43c46258956a"
+      "key": "4f670",
+      "songName": "この世界は僕らを待っていた (翠星のガルガンティア OP)",
+      "hash": "1342d1da83d085655575e5ba2722b8eb4defbf66",
+      "levelid": "custom_level_1342d1da83d085655575e5ba2722b8eb4defbf66"
     },
     {
-      "key": "4f5fe",
-      "songName": "SIGMA ANTHEM",
-      "hash": "1e1839d6f6b00a8a22bbd121a5fac6f446dba1a0",
-      "levelid": "custom_level_1e1839d6f6b00a8a22bbd121a5fac6f446dba1a0"
+      "key": "4f66c",
+      "songName": "Zekk - Libertas",
+      "hash": "911e5b45ba6ab54a988cef7cd8a694a10f5b0941",
+      "levelid": "custom_level_911e5b45ba6ab54a988cef7cd8a694a10f5b0941"
     },
     {
-      "key": "4f5fd",
-      "songName": "IM SURROUNDED - CreepP & USAO {MV Start + Ending}",
-      "hash": "d9cdfe9872976338a5d831f4db9d917771caaeda",
-      "levelid": "custom_level_d9cdfe9872976338a5d831f4db9d917771caaeda"
+      "key": "4f66a",
+      "songName": "RADIO TAPOK - Du Hast (Rammstein Cover)",
+      "hash": "cc59ee2dafd82c8e07f6a9b3f18935e2b5446585",
+      "levelid": "custom_level_cc59ee2dafd82c8e07f6a9b3f18935e2b5446585"
     },
     {
-      "key": "4f5fb",
-      "songName": "Ai Đưa Em Về (Cukak Remix) - TIA,  Lê Thiện Hiếu, & Cuckak",
-      "hash": "cbd2b585419fcbe668ff98d4fc33fc723e6b71df",
-      "levelid": "custom_level_cbd2b585419fcbe668ff98d4fc33fc723e6b71df"
+      "key": "4f667",
+      "songName": "Bareru!(バレる！)",
+      "hash": "635a151880057e80985bea55a74f8ce768139998",
+      "levelid": "custom_level_635a151880057e80985bea55a74f8ce768139998"
     },
     {
-      "key": "4f5f8",
-      "songName": "sh1tpost 2 UPDATED",
-      "hash": "e82c9548b29033d5943b3226c9704df2154cf3d1",
-      "levelid": "custom_level_e82c9548b29033d5943b3226c9704df2154cf3d1"
+      "key": "4f5be",
+      "songName": "Good Kid - Cicada",
+      "hash": "6a9561916fd8fac06682ea9d8ea7c79850d0e59c",
+      "levelid": "custom_level_6a9561916fd8fac06682ea9d8ea7c79850d0e59c"
     },
     {
-      "key": "4f5e1",
-      "songName": "DADADADA",
-      "hash": "be363995e3836956f51a5fc7b7289865a9f3ff47",
-      "levelid": "custom_level_be363995e3836956f51a5fc7b7289865a9f3ff47"
+      "key": "4f663",
+      "songName": "stalk ur socials(for devilcat)",
+      "hash": "b85438a0fa3cfa4c43b33a9faebd084308668f6d",
+      "levelid": "custom_level_b85438a0fa3cfa4c43b33a9faebd084308668f6d"
     },
     {
-      "key": "4f5d4",
-      "songName": "Enrique Iglesias - Bailando ft. Descemer Bueno, Gente De Zona",
-      "hash": "a3f5f6292f16cefbd609edaf6d03923d02f1e419",
-      "levelid": "custom_level_a3f5f6292f16cefbd609edaf6d03923d02f1e419"
+      "key": "4f662",
+      "songName": "The Worlds Easiest Beat Saber Map",
+      "hash": "51e3004bfaf7f9ad80b8045ab6182221759d7a04",
+      "levelid": "custom_level_51e3004bfaf7f9ad80b8045ab6182221759d7a04"
     },
     {
-      "key": "4f5cb",
-      "songName": "Ally Brooke - Lips Don't Lie (Besomorph Remix)",
-      "hash": "f556977fe2bfbd946eda3a8f9c28841c3a843870",
-      "levelid": "custom_level_f556977fe2bfbd946eda3a8f9c28841c3a843870"
+      "key": "4f661",
+      "songName": "Yem - Drowning Moon",
+      "hash": "b97c9a2b8e1ffcf15a42d3916a10ccc7f75e723f",
+      "levelid": "custom_level_b97c9a2b8e1ffcf15a42d3916a10ccc7f75e723f"
     },
     {
-      "key": "4f5cd",
-      "songName": "Over And Over And Over Again",
-      "hash": "72f53ab7d7f62d4ac11edf2564dc35530e504e68",
-      "levelid": "custom_level_72f53ab7d7f62d4ac11edf2564dc35530e504e68"
+      "key": "4f660",
+      "songName": "Unknown Problems - in my head",
+      "hash": "66379388fde5a85eb595770ddcc96d81fefaef09",
+      "levelid": "custom_level_66379388fde5a85eb595770ddcc96d81fefaef09"
     },
     {
-      "key": "4f5cc",
-      "songName": "UEFA Champions League Anthem",
-      "hash": "d01653e44edc536013e1c4f401d2e1753429d395",
-      "levelid": "custom_level_d01653e44edc536013e1c4f401d2e1753429d395"
+      "key": "4f65f",
+      "songName": "Sabrina Carpenter  - Manchild",
+      "hash": "3f37d6f018364cd531629f997adf178ca1c7ca6e",
+      "levelid": "custom_level_3f37d6f018364cd531629f997adf178ca1c7ca6e"
     },
     {
-      "key": "4f5c5",
-      "songName": "estrella",
-      "hash": "3cdc7420b9e54afe0d656a390ea6b92d888197c6",
-      "levelid": "custom_level_3cdc7420b9e54afe0d656a390ea6b92d888197c6"
+      "key": "4f65e",
+      "songName": "Aaron Paul Low - Super Pirate Action",
+      "hash": "b4374fec43e51d3e04a182f14853ad585ecdae7c",
+      "levelid": "custom_level_b4374fec43e51d3e04a182f14853ad585ecdae7c"
     },
     {
-      "key": "4f5c3",
-      "songName": "Be Alone - The Living Tombstone",
-      "hash": "d880423c25dffa45472467a255bf5da8f5df808f",
-      "levelid": "custom_level_d880423c25dffa45472467a255bf5da8f5df808f"
+      "key": "4f65b",
+      "songName": "the palmanator",
+      "hash": "1ddd11441918eb8135aab154ab2e78b1f57a6ac1",
+      "levelid": "custom_level_1ddd11441918eb8135aab154ab2e78b1f57a6ac1"
     },
     {
-      "key": "4f5c2",
-      "songName": "Seiryu - Blue Dragon",
-      "hash": "f55be646948456b4889620b7d28cf1d794107849",
-      "levelid": "custom_level_f55be646948456b4889620b7d28cf1d794107849"
+      "key": "4f659",
+      "songName": "S.O.S. (The Tiger Took My Family) - DR.BOMBAY",
+      "hash": "11e1de4ffeeeebbe2918da45710ba16a612fdc8b",
+      "levelid": "custom_level_11e1de4ffeeeebbe2918da45710ba16a612fdc8b"
     },
     {
-      "key": "4f5bd",
-      "songName": "You Say Run My Hero Academia OST",
-      "hash": "08495b06bd4fca518ab17ddad08253e6227a14f1",
-      "levelid": "custom_level_08495b06bd4fca518ab17ddad08253e6227a14f1"
+      "key": "4f64c",
+      "songName": "Bad Bunny - Me Porto Bonito",
+      "hash": "02b26a5b0a37d17a6f7c8a318c77e727d88956f6",
+      "levelid": "custom_level_02b26a5b0a37d17a6f7c8a318c77e727d88956f6"
     },
     {
-      "key": "4f5b4",
-      "songName": "No Batidao Slowed",
-      "hash": "847cf8158b782b73e2c21a2d9b5bef374f908392",
-      "levelid": "custom_level_847cf8158b782b73e2c21a2d9b5bef374f908392"
+      "key": "4f646",
+      "songName": "Lone Star",
+      "hash": "7a68d1cdded23de3341f7a5799e7498fb1be971b",
+      "levelid": "custom_level_7a68d1cdded23de3341f7a5799e7498fb1be971b"
     },
     {
-      "key": "4f55b",
-      "songName": "All My Life",
-      "hash": "9ddec7e9a5e2a735728f91c2fcc129a5980684ec",
-      "levelid": "custom_level_9ddec7e9a5e2a735728f91c2fcc129a5980684ec"
+      "key": "4f644",
+      "songName": "ADHD",
+      "hash": "a484c3e8ea0e8722e31deed73f3e6ab43288399b",
+      "levelid": "custom_level_a484c3e8ea0e8722e31deed73f3e6ab43288399b"
     },
     {
-      "key": "4f5b0",
-      "songName": "what galaxy what galaxy are we in right now? samsung galaxy s5",
-      "hash": "4b1974d013f88bfce96222347ca4a0cd1393b30f",
-      "levelid": "custom_level_4b1974d013f88bfce96222347ca4a0cd1393b30f"
+      "key": "4f642",
+      "songName": "stalk ur socials",
+      "hash": "638a1759660ee3148a19c4593f174d3a3f23647c",
+      "levelid": "custom_level_638a1759660ee3148a19c4593f174d3a3f23647c"
+    },
+    {
+      "key": "4f641",
+      "songName": "[2000s Rock & Metal Pack]  Vicinity Of Obscenity - System of a Down (Hypnotize) [Tech & Midspeed]",
+      "hash": "34246428595af9f29d3a29683d710cfbef915e89",
+      "levelid": "custom_level_34246428595af9f29d3a29683d710cfbef915e89"
+    },
+    {
+      "key": "4f639",
+      "songName": "Ridge Racer - Race Results (cut)",
+      "hash": "a7e192598f8aa4a95c5b3b315ab37764f5b4844d",
+      "levelid": "custom_level_a7e192598f8aa4a95c5b3b315ab37764f5b4844d"
+    },
+    {
+      "key": "4f638",
+      "songName": "Remzcore - Busy Town",
+      "hash": "170332f4e4fbe424a840d99d33aa662c1fdc7901",
+      "levelid": "custom_level_170332f4e4fbe424a840d99d33aa662c1fdc7901"
+    },
+    {
+      "key": "4f636",
+      "songName": "sh1tpost v5 WHY DO I KEEP UPDATING IT",
+      "hash": "8463f339be5c41f24cf836692990402e0c548148",
+      "levelid": "custom_level_8463f339be5c41f24cf836692990402e0c548148"
+    },
+    {
+      "key": "4f635",
+      "songName": "dj toenail back on the grind #music #xqc #flstudio #producer (V2)",
+      "hash": "341bb06145b39d0f11896f728052d74bd5be6e49",
+      "levelid": "custom_level_341bb06145b39d0f11896f728052d74bd5be6e49"
+    },
+    {
+      "key": "4f634",
+      "songName": "I've been into space twice",
+      "hash": "218aa11b7600ce4d25c43bf5439836f7fe7f3a2f",
+      "levelid": "custom_level_218aa11b7600ce4d25c43bf5439836f7fe7f3a2f"
+    },
+    {
+      "key": "4f632",
+      "songName": "Rap God (but actually hard)",
+      "hash": "22708925fc6e836874d0003f342c1f1c197b83c6",
+      "levelid": "custom_level_22708925fc6e836874d0003f342c1f1c197b83c6"
+    },
+    {
+      "key": "4f630",
+      "songName": "PETISTA - ALGUM DJ SEI LA",
+      "hash": "753d22443c561e877d128693a40b0d41d9781395",
+      "levelid": "custom_level_753d22443c561e877d128693a40b0d41d9781395"
+    },
+    {
+      "key": "4f62f",
+      "songName": "updated shitpost map v4",
+      "hash": "cc9f5ff971d00a05ff6819fea612caf9fbf245f9",
+      "levelid": "custom_level_cc9f5ff971d00a05ff6819fea612caf9fbf245f9"
+    },
+    {
+      "key": "4f62a",
+      "songName": "Sine Wavs (Subsuming Vortex)",
+      "hash": "926edc98cdbbe8667814c5bd03c93fa7d9c897b5",
+      "levelid": "custom_level_926edc98cdbbe8667814c5bd03c93fa7d9c897b5"
+    },
+    {
+      "key": "4f625",
+      "songName": "Olivia Addams - Fool Me Once (2022 Digital Remaster)",
+      "hash": "9d6c58854aaaa6aed9d15510300aa0c0a89ae8a3",
+      "levelid": "custom_level_9d6c58854aaaa6aed9d15510300aa0c0a89ae8a3"
+    },
+    {
+      "key": "4f622",
+      "songName": "Sight",
+      "hash": "dfd90a22830e72b630da56da4c490168b20867d5",
+      "levelid": "custom_level_dfd90a22830e72b630da56da4c490168b20867d5"
+    },
+    {
+      "key": "4f621",
+      "songName": "The Beatles - Misery ",
+      "hash": "0ca2a3f90ed110d5516c72c02d08b08ae15f274e",
+      "levelid": "custom_level_0ca2a3f90ed110d5516c72c02d08b08ae15f274e"
+    },
+    {
+      "key": "4f620",
+      "songName": "Montell2099, XIRA & Sublab - Exodia (REXY=DEXY Remix)",
+      "hash": "30a4aad197360ba05644af61e16b06de11797a05",
+      "levelid": "custom_level_30a4aad197360ba05644af61e16b06de11797a05"
+    },
+    {
+      "key": "4f61d",
+      "songName": "As The World Caves In - Sarah Cothran (NOODLE EXTENSIONS)",
+      "hash": "8fa81fb445083000370483ec3ac9a49ba8f238b7",
+      "levelid": "custom_level_8fa81fb445083000370483ec3ac9a49ba8f238b7"
+    },
+    {
+      "key": "4f61b",
+      "songName": "Yung Kage, Yumi, Softwilly (feat. Larrrycroft) - Bloody Daisies",
+      "hash": "3bc452dd8d7403792676fba594a16bcce8e1f7d3",
+      "levelid": "custom_level_3bc452dd8d7403792676fba594a16bcce8e1f7d3"
+    },
+    {
+      "key": "4f61c",
+      "songName": "Montagem Alquimia Slowed",
+      "hash": "edfab9b204b59f7c4cef863ab953f3969384e886",
+      "levelid": "custom_level_edfab9b204b59f7c4cef863ab953f3969384e886"
+    },
+    {
+      "key": "4f5a3",
+      "songName": "もでらーと feat. わん子 - MIMI (2026 remap)",
+      "hash": "19b40ce92d6f74c5728e6426137090af747eab27",
+      "levelid": "custom_level_19b40ce92d6f74c5728e6426137090af747eab27"
+    },
+    {
+      "key": "4f61a",
+      "songName": "Madism, Good Humans - Taboo",
+      "hash": "70268345c994ddd23ce7a1c7ea6822b39fce6916",
+      "levelid": "custom_level_70268345c994ddd23ce7a1c7ea6822b39fce6916"
+    },
+    {
+      "key": "4f619",
+      "songName": "Kesha - C'mon ",
+      "hash": "be507b3d5553ed35a683c034e49b3c0319607036",
+      "levelid": "custom_level_be507b3d5553ed35a683c034e49b3c0319607036"
+    },
+    {
+      "key": "4f618",
+      "songName": "7 rings",
+      "hash": "86c76f0360dfa17f72d9ee4c87b274dac05ddb81",
+      "levelid": "custom_level_86c76f0360dfa17f72d9ee4c87b274dac05ddb81"
     }
   ],
   "image": ""
