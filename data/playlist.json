@@ -1,298 +1,238 @@
 {
-  "playlistTitle": "2026-03-16T15:18:48.203Z~2026-03-17T15:18:48.203Z",
+  "playlistTitle": "2026-03-17T15:18:48.504Z~2026-03-18T15:18:48.504Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-03-16T15:18:48.203Z and 2026-03-17T15:18:48.203Z",
+  "discripstion": "Maps published between 2026-03-17T15:18:48.504Z and 2026-03-18T15:18:48.504Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "4f8a2",
+      "songName": "Gawryle- Harnas Ice Tea",
+      "hash": "81caa72bab82a1ba38feeaad5b10cbe16cc11151",
+      "levelid": "custom_level_81caa72bab82a1ba38feeaad5b10cbe16cc11151"
+    },
+    {
+      "key": "4f82e",
+      "songName": "[Vivify] Get Your Wish - Porter Robinson",
+      "hash": "c634092c70b95213e6ee88608faeb083f787699a",
+      "levelid": "custom_level_c634092c70b95213e6ee88608faeb083f787699a"
+    },
+    {
+      "key": "4f8a1",
+      "songName": "Impossible Conquest Edit",
+      "hash": "fb7a271caf8473cc20353745ee2480a0aa0e29e4",
+      "levelid": "custom_level_fb7a271caf8473cc20353745ee2480a0aa0e29e4"
+    },
+    {
+      "key": "4f89f",
+      "songName": "you - Melancholia",
+      "hash": "a9dc65db66b79394686da024820334a01dd36e89",
+      "levelid": "custom_level_a9dc65db66b79394686da024820334a01dd36e89"
+    },
+    {
+      "key": "4f89e",
+      "songName": "loli rockers",
+      "hash": "085d4ca4fa181682ec3464ad0a93f9072b07344e",
+      "levelid": "custom_level_085d4ca4fa181682ec3464ad0a93f9072b07344e"
+    },
+    {
+      "key": "4f89d",
+      "songName": "Tyler, The Creator - See You Again (ft. Kali Uchis)",
+      "hash": "96ab02a32ccce6368e7b77e57c366bfc10a5006e",
+      "levelid": "custom_level_96ab02a32ccce6368e7b77e57c366bfc10a5006e"
+    },
+    {
+      "key": "4f89c",
+      "songName": "DRAGONLADY_v2",
+      "hash": "b9c4f333782844aea4f531edda951e67f3f730af",
+      "levelid": "custom_level_b9c4f333782844aea4f531edda951e67f3f730af"
+    },
+    {
+      "key": "4f89a",
+      "songName": "viktor_bob - BOOM! Zapadniy Kanal",
+      "hash": "c06383961d56e7a05bffcf47af2dfdff50ab3913",
+      "levelid": "custom_level_c06383961d56e7a05bffcf47af2dfdff50ab3913"
+    },
+    {
+      "key": "4f899",
+      "songName": "Anna Timgren - Wind Child (Middle Milk Remix)",
+      "hash": "ebdc08212dc657a37fe85b38c3380977c3394a9f",
+      "levelid": "custom_level_ebdc08212dc657a37fe85b38c3380977c3394a9f"
+    },
+    {
+      "key": "4f898",
+      "songName": "Skrillex - Kyoto",
+      "hash": "8d89431acb806328ed023cfea3536a91d227576c",
+      "levelid": "custom_level_8d89431acb806328ed023cfea3536a91d227576c"
+    },
+    {
+      "key": "4f896",
+      "songName": "Arkana - Ein Sof",
+      "hash": "e4c4a45fe30ca7ddc90654250ef293729ecd2eae",
+      "levelid": "custom_level_e4c4a45fe30ca7ddc90654250ef293729ecd2eae"
+    },
+    {
+      "key": "4f84a",
+      "songName": "Mirror Mirror - Jeff Williams (feat. Casey Lee Williams) - RWBY Volume 1",
+      "hash": "8be2693d99d435757f9e6b3805cb0b20a64f8720",
+      "levelid": "custom_level_8be2693d99d435757f9e6b3805cb0b20a64f8720"
+    },
+    {
+      "key": "4f893",
+      "songName": "Bones",
+      "hash": "1fe869498f732101742e392273f09bbd178a13a0",
+      "levelid": "custom_level_1fe869498f732101742e392273f09bbd178a13a0"
+    },
+    {
+      "key": "4f891",
+      "songName": "My Song is YOU!! (SHOW BY ROCK!!# ED)",
+      "hash": "fa3417e8764eb9a9c176d2af2c4d523ec9546d2f",
+      "levelid": "custom_level_fa3417e8764eb9a9c176d2af2c4d523ec9546d2f"
+    },
+    {
+      "key": "4f885",
+      "songName": "Atlantis ",
+      "hash": "519a326556a7a2bc669fca95f454ea97bfc3f4eb",
+      "levelid": "custom_level_519a326556a7a2bc669fca95f454ea97bfc3f4eb"
+    },
+    {
+      "key": "4f883",
+      "songName": "My Boys In Their Jeans v2",
+      "hash": "b92b58bd3cb267804f50a00215bce4c8863a60b3",
+      "levelid": "custom_level_b92b58bd3cb267804f50a00215bce4c8863a60b3"
+    },
+    {
+      "key": "4f881",
+      "songName": "My Boys In Their Jeans",
+      "hash": "d8de9328b412c2a0269340ede8a02b12a370c446",
+      "levelid": "custom_level_d8de9328b412c2a0269340ede8a02b12a370c446"
+    },
+    {
+      "key": "4f879",
+      "songName": "low cortisol (Ai Đưa Em Về)",
+      "hash": "62aa5852127d90f300d78b67c0b00d66f2d40816",
+      "levelid": "custom_level_62aa5852127d90f300d78b67c0b00d66f2d40816"
+    },
+    {
+      "key": "4f878",
+      "songName": "wonder if you care",
+      "hash": "0802c85690e98751a8e15057dbf88c41cf3a9924",
+      "levelid": "custom_level_0802c85690e98751a8e15057dbf88c41cf3a9924"
+    },
+    {
+      "key": "4f877",
+      "songName": "Told You So - Super-HI",
+      "hash": "4f35badd0b113d6c83361e4616720a83d04a6013",
+      "levelid": "custom_level_4f35badd0b113d6c83361e4616720a83d04a6013"
+    },
+    {
+      "key": "4f865",
+      "songName": "good luck lel V 4",
+      "hash": "7e75d4b093fcb413186a62a51a629a324fafd4f4",
+      "levelid": "custom_level_7e75d4b093fcb413186a62a51a629a324fafd4f4"
+    },
+    {
+      "key": "4f863",
+      "songName": "where is my burger funk",
+      "hash": "ed68991acd837eb493e9f63c9d48e65ab216090a",
+      "levelid": "custom_level_ed68991acd837eb493e9f63c9d48e65ab216090a"
+    },
+    {
+      "key": "4f862",
+      "songName": "Camellia - boh-han-buzzer (short ver.)",
+      "hash": "4ca890fc6c81dae69d37d42b40dbeca28a1d646e",
+      "levelid": "custom_level_4ca890fc6c81dae69d37d42b40dbeca28a1d646e"
+    },
+    {
+      "key": "4f861",
+      "songName": "good luck lel v3",
+      "hash": "00bc81bdc7ff8c8209ef7a6d20f04a03487ca0fd",
+      "levelid": "custom_level_00bc81bdc7ff8c8209ef7a6d20f04a03487ca0fd"
+    },
+    {
+      "key": "4f860",
+      "songName": "good luck lel v2",
+      "hash": "33dfae2a5226d6579f7633b374efa4ce907a7d88",
+      "levelid": "custom_level_33dfae2a5226d6579f7633b374efa4ce907a7d88"
+    },
+    {
+      "key": "4f85d",
+      "songName": "Story of Eastin Thumb",
+      "hash": "8ba05fcbb4970dc94baf36b92edc7e88e2fbdcd4",
+      "levelid": "custom_level_8ba05fcbb4970dc94baf36b92edc7e88e2fbdcd4"
+    },
+    {
+      "key": "4f85b",
+      "songName": "Sleep Token - Gethsemane",
+      "hash": "82508faf478c12aa8e2446bb04534fc0ab6d4edf",
+      "levelid": "custom_level_82508faf478c12aa8e2446bb04534fc0ab6d4edf"
+    },
+    {
+      "key": "4f859",
+      "songName": "C-Show - LubedeR",
+      "hash": "664b579d9fed6ea39411dbfff0446ae1881a19e9",
+      "levelid": "custom_level_664b579d9fed6ea39411dbfff0446ae1881a19e9"
+    },
+    {
+      "key": "4f858",
+      "songName": "Execution Clap",
+      "hash": "64ba4b2eccb85aac479c9574f105b40ea18406c2",
+      "levelid": "custom_level_64ba4b2eccb85aac479c9574f105b40ea18406c2"
+    },
+    {
+      "key": "4f856",
+      "songName": "Yamajet -  Sweets Holic (feat. haru*ama*nya)",
+      "hash": "b91c906e2d84f75579d7ee4e1581da555b3fdb75",
+      "levelid": "custom_level_b91c906e2d84f75579d7ee4e1581da555b3fdb75"
+    },
+    {
+      "key": "4f855",
+      "songName": "Artifyber - Nyan Cat",
+      "hash": "111b2d51bf35b216b2f6df8037552ba2f6ee3473",
+      "levelid": "custom_level_111b2d51bf35b216b2f6df8037552ba2f6ee3473"
+    },
+    {
+      "key": "4f852",
+      "songName": "Luz Roja",
+      "hash": "fed67c4c998e1367f3bcf8b9be3d4ffff36e94ae",
+      "levelid": "custom_level_fed67c4c998e1367f3bcf8b9be3d4ffff36e94ae"
+    },
+    {
+      "key": "4f851",
+      "songName": "ericdoa - oh u don't say?!!",
+      "hash": "3d4cc89050965f93fc32ef3fe86a98f8a4b90877",
+      "levelid": "custom_level_3d4cc89050965f93fc32ef3fe86a98f8a4b90877"
+    },
+    {
+      "key": "4f850",
+      "songName": "Stray Kids - ESCAPE {S}",
+      "hash": "8fd8e21c17d0954feb884eb72ae4bce1d6ecd28f",
+      "levelid": "custom_level_8fd8e21c17d0954feb884eb72ae4bce1d6ecd28f"
+    },
+    {
+      "key": "4f84f",
+      "songName": "Stray Kids - CEREMONY {S}",
+      "hash": "83ca2580d92197166beca836aad5a0d4ec54f76a",
+      "levelid": "custom_level_83ca2580d92197166beca836aad5a0d4ec54f76a"
+    },
+    {
+      "key": "4f84e",
+      "songName": "Stray Kids - CREED {S}",
+      "hash": "b08131bdba3417a8d4081d912f0c643590ad036c",
+      "levelid": "custom_level_b08131bdba3417a8d4081d912f0c643590ad036c"
+    },
+    {
+      "key": "4f84c",
+      "songName": "Devil Eyes",
+      "hash": "bf5357a7c58e2a6a3cf9ab11ebc96654b9c0bf79",
+      "levelid": "custom_level_bf5357a7c58e2a6a3cf9ab11ebc96654b9c0bf79"
+    },
+    {
       "key": "4f849",
       "songName": "Friday Pilots Club - She Don't Want Me",
-      "hash": "a241570529a93509636dedde27103a4cbdc9198a",
-      "levelid": "custom_level_a241570529a93509636dedde27103a4cbdc9198a"
-    },
-    {
-      "key": "4f846",
-      "songName": "Kyo Hanabasami - vivid",
-      "hash": "56812ece12a33e3eea73818b50e30e0022e73dd6",
-      "levelid": "custom_level_56812ece12a33e3eea73818b50e30e0022e73dd6"
-    },
-    {
-      "key": "4f845",
-      "songName": "Whatever it takes - lightshow",
-      "hash": "cbe569615cd3f99e14a622de3e3d2c75b6e87c47",
-      "levelid": "custom_level_cbe569615cd3f99e14a622de3e3d2c75b6e87c47"
-    },
-    {
-      "key": "4f844",
-      "songName": "Folie à Deux",
-      "hash": "ee4e0c6204f75d95ca81c941fc1d5d25873a90a1",
-      "levelid": "custom_level_ee4e0c6204f75d95ca81c941fc1d5d25873a90a1"
-    },
-    {
-      "key": "4f842",
-      "songName": "Lift Yourself",
-      "hash": "1fe24ffa90a7c76dd1c177183ee7222b4f642a6a",
-      "levelid": "custom_level_1fe24ffa90a7c76dd1c177183ee7222b4f642a6a"
-    },
-    {
-      "key": "4f841",
-      "songName": "Dope*Sick=Love / kr-KuuRa × モ葛 feat. 初音ミク × 可不",
-      "hash": "f7eaae0fec798bc402e122ed10901fb38d18ba04",
-      "levelid": "custom_level_f7eaae0fec798bc402e122ed10901fb38d18ba04"
-    },
-    {
-      "key": "4f840",
-      "songName": "Serious?",
-      "hash": "28c496b584a461ffd2249dc669a05fcdf90e2461",
-      "levelid": "custom_level_28c496b584a461ffd2249dc669a05fcdf90e2461"
-    },
-    {
-      "key": "4f83e",
-      "songName": "Northern Born - The Wild",
-      "hash": "67ad8ae550414aeb5faf2ecc28b4a578c6f9d96f",
-      "levelid": "custom_level_67ad8ae550414aeb5faf2ecc28b4a578c6f9d96f"
-    },
-    {
-      "key": "4f83c",
-      "songName": "Tyler, The Creator - Rah Tah Tah",
-      "hash": "5ac96079258ada212a7b35f7e8b9257adc1b5c21",
-      "levelid": "custom_level_5ac96079258ada212a7b35f7e8b9257adc1b5c21"
-    },
-    {
-      "key": "4f83b",
-      "songName": "ハートをRock!! (SHOW BY ROCK!!# OP)",
-      "hash": "a574a4c897945bb7962a8efece94c34cdb838393",
-      "levelid": "custom_level_a574a4c897945bb7962a8efece94c34cdb838393"
-    },
-    {
-      "key": "4f830",
-      "songName": "what does the tung tung tung tung tung",
-      "hash": "cdd7831b60df1926ec471b2c659ae8b2a4243de4",
-      "levelid": "custom_level_cdd7831b60df1926ec471b2c659ae8b2a4243de4"
-    },
-    {
-      "key": "4f82f",
-      "songName": "Solkrieg - Phobos",
-      "hash": "29d11e73f012b7e3af4d4811ba2405b91ea15afd",
-      "levelid": "custom_level_29d11e73f012b7e3af4d4811ba2405b91ea15afd"
-    },
-    {
-      "key": "4f82d",
-      "songName": "On top",
-      "hash": "1c463ac659b3f37eb2c38499bd5e8129ac08beb0",
-      "levelid": "custom_level_1c463ac659b3f37eb2c38499bd5e8129ac08beb0"
-    },
-    {
-      "key": "4f82a",
-      "songName": "For The Last Time",
-      "hash": "d2d788ee76b5dcf600f8a5278e08237fdda87980",
-      "levelid": "custom_level_d2d788ee76b5dcf600f8a5278e08237fdda87980"
-    },
-    {
-      "key": "4f829",
-      "songName": "Dark Evil Beat V3",
-      "hash": "5fa33fb555f86c1fb8ed3017d3d7439221ed8f50",
-      "levelid": "custom_level_5fa33fb555f86c1fb8ed3017d3d7439221ed8f50"
-    },
-    {
-      "key": "4f827",
-      "songName": "underscores - Do It",
-      "hash": "c8b3cde7f8eb473c4b32c91f7ff507fe1abfa835",
-      "levelid": "custom_level_c8b3cde7f8eb473c4b32c91f7ff507fe1abfa835"
-    },
-    {
-      "key": "4f826",
-      "songName": "The Floyd Program",
-      "hash": "f283650ebf53a4bc5baf6a95c505311a7976dbd6",
-      "levelid": "custom_level_f283650ebf53a4bc5baf6a95c505311a7976dbd6"
-    },
-    {
-      "key": "4f81e",
-      "songName": "Nami.wav",
-      "hash": "62797ab3cec14848c01372e864f6de88436cd85d",
-      "levelid": "custom_level_62797ab3cec14848c01372e864f6de88436cd85d"
-    },
-    {
-      "key": "4f81b",
-      "songName": "good luck lel",
-      "hash": "cc0e4d55294959db0ad3fd83b0f860ff2edb6438",
-      "levelid": "custom_level_cc0e4d55294959db0ad3fd83b0f860ff2edb6438"
-    },
-    {
-      "key": "4f818",
-      "songName": "ときどきどきどき - ゆーり",
-      "hash": "87ce57643a0de09295bfe6fb8e40126f5d022dea",
-      "levelid": "custom_level_87ce57643a0de09295bfe6fb8e40126f5d022dea"
-    },
-    {
-      "key": "4f816",
-      "songName": "CANT TRUST NO ONE",
-      "hash": "40541216bc5c53ccb41ad1e5020c76d7ce6b238f",
-      "levelid": "custom_level_40541216bc5c53ccb41ad1e5020c76d7ce6b238f"
-    },
-    {
-      "key": "4f817",
-      "songName": "Euclid",
-      "hash": "003bfe48447a21dd92d669fcb927f9ebdbb975f7",
-      "levelid": "custom_level_003bfe48447a21dd92d669fcb927f9ebdbb975f7"
-    },
-    {
-      "key": "4f814",
-      "songName": "{The Traveller}",
-      "hash": "125755f3b807ea397d101342d67d6fdedd6dc7d7",
-      "levelid": "custom_level_125755f3b807ea397d101342d67d6fdedd6dc7d7"
-    },
-    {
-      "key": "4f813",
-      "songName": "Montagem Alquimia",
-      "hash": "0257b58d86e8aaa48064018621abcf90bb3d7b1b",
-      "levelid": "custom_level_0257b58d86e8aaa48064018621abcf90bb3d7b1b"
-    },
-    {
-      "key": "4f811",
-      "songName": "i hate you.",
-      "hash": "f040cd64a722e578d28597f5ab47b47a8a399569",
-      "levelid": "custom_level_f040cd64a722e578d28597f5ab47b47a8a399569"
-    },
-    {
-      "key": "4f810",
-      "songName": "C:\\Users\\Owner\\Pictures\\AaAaAaAaAaAaAa\\BSManager\\BSInstances\\1.40.8\\Beat Saber_Data\\CustomLevels\\asddasdasdasdasdsadsdsadasdwaasd",
-      "hash": "6e759ac73632064f746b289df9d078870950794f",
-      "levelid": "custom_level_6e759ac73632064f746b289df9d078870950794f"
-    },
-    {
-      "key": "4f80d",
-      "songName": "The Emptiness Machine",
-      "hash": "633d1632fd0c7d34187cf08b190c280939174715",
-      "levelid": "custom_level_633d1632fd0c7d34187cf08b190c280939174715"
-    },
-    {
-      "key": "4f80b",
-      "songName": "jude challenge (real life friend)",
-      "hash": "0784fa505fd23804b4f522dca28d6f30d15a7a74",
-      "levelid": "custom_level_0784fa505fd23804b4f522dca28d6f30d15a7a74"
-    },
-    {
-      "key": "4f807",
-      "songName": "lmly",
-      "hash": "debdb32db4e878721088a4f7fe4a67f204219a0c",
-      "levelid": "custom_level_debdb32db4e878721088a4f7fe4a67f204219a0c"
-    },
-    {
-      "key": "4f806",
-      "songName": "Slavenger",
-      "hash": "fa82f7ecdf3d6f7ed0ee30ce476ed2029f464e03",
-      "levelid": "custom_level_fa82f7ecdf3d6f7ed0ee30ce476ed2029f464e03"
-    },
-    {
-      "key": "4f805",
-      "songName": "Azari - Sell a friend",
-      "hash": "3c008f8864acbb9cec48cead1e292811d78e4065",
-      "levelid": "custom_level_3c008f8864acbb9cec48cead1e292811d78e4065"
-    },
-    {
-      "key": "4f803",
-      "songName": "Caramelldansen",
-      "hash": "a8ade8a96490dd25ca5af5cf9b87407811bb6ba0",
-      "levelid": "custom_level_a8ade8a96490dd25ca5af5cf9b87407811bb6ba0"
-    },
-    {
-      "key": "4f802",
-      "songName": "Chocolate Lily",
-      "hash": "fee64d7d3e99b8dff35d1e602171beffa5b6e8f2",
-      "levelid": "custom_level_fee64d7d3e99b8dff35d1e602171beffa5b6e8f2"
-    },
-    {
-      "key": "4f801",
-      "songName": "+Matter - ONE OK ROCK",
-      "hash": "b15e3840547b52852fdaca4ffac427d39bd81966",
-      "levelid": "custom_level_b15e3840547b52852fdaca4ffac427d39bd81966"
-    },
-    {
-      "key": "4f800",
-      "songName": "[Feetsaber]Bomb A Head!",
-      "hash": "c8504ec1a2a52f470acc83013c8e747521601380",
-      "levelid": "custom_level_c8504ec1a2a52f470acc83013c8e747521601380"
-    },
-    {
-      "key": "4f7ff",
-      "songName": "Demons and monsters rampant ",
-      "hash": "1fa039548574c226287736ad5865053a7cff35b4",
-      "levelid": "custom_level_1fa039548574c226287736ad5865053a7cff35b4"
-    },
-    {
-      "key": "4f7fe",
-      "songName": "Twisting The Knife - Ice Nine Kills  (feat. Mckenna Grace)",
-      "hash": "39b21cde47a06604f9c95f9c9b1c97643c6836a3",
-      "levelid": "custom_level_39b21cde47a06604f9c95f9c9b1c97643c6836a3"
-    },
-    {
-      "key": "4f7f9",
-      "songName": "XLOV - Biii:-P",
-      "hash": "90053bb14cecddeed082d57bd7db5dae9836cfe7",
-      "levelid": "custom_level_90053bb14cecddeed082d57bd7db5dae9836cfe7"
-    },
-    {
-      "key": "4f7f8",
-      "songName": "synchroizn",
-      "hash": "cc5c8e085444f38fdc983bc6389af3b7940c0fec",
-      "levelid": "custom_level_cc5c8e085444f38fdc983bc6389af3b7940c0fec"
-    },
-    {
-      "key": "4f7f6",
-      "songName": "ReDreaming Angel | Zenless Zone Zero",
-      "hash": "49e4212318c4ca31b637114d067fa742d321bcad",
-      "levelid": "custom_level_49e4212318c4ca31b637114d067fa742d321bcad"
-    },
-    {
-      "key": "4f7f4",
-      "songName": "Various Artists - Zebra Bananza [Donkey Kong Bananza]",
-      "hash": "1cbe53a9cffc96b6a5c1786e630a1c4bb93fa51e",
-      "levelid": "custom_level_1cbe53a9cffc96b6a5c1786e630a1c4bb93fa51e"
-    },
-    {
-      "key": "4f7f3",
-      "songName": "Plastic Flowers - The Front Bottoms",
-      "hash": "1db78d8d190a951229f0c02947480003b4f8a879",
-      "levelid": "custom_level_1db78d8d190a951229f0c02947480003b4f8a879"
-    },
-    {
-      "key": "4f7f2",
-      "songName": "HalaCG x CDM - Who Is She?",
-      "hash": "376781465860928d4bf2e2701f709ba194d58dbf",
-      "levelid": "custom_level_376781465860928d4bf2e2701f709ba194d58dbf"
-    },
-    {
-      "key": "4f7f0",
-      "songName": "ひとしずく×やま△ - Crazy ∞ nighT",
-      "hash": "1e538f92f716aa75287d8ee6888adb49c9a64085",
-      "levelid": "custom_level_1e538f92f716aa75287d8ee6888adb49c9a64085"
-    },
-    {
-      "key": "4f7ef",
-      "songName": "Suara - 君だけの旅路 Reboot",
-      "hash": "0208a820ce4d0a7fc213939d4766d97f9c569322",
-      "levelid": "custom_level_0208a820ce4d0a7fc213939d4766d97f9c569322"
-    },
-    {
-      "key": "4f7f1",
-      "songName": "2 ENGEL & CHARLiE X FiNCH - MASOCHiST ",
-      "hash": "ba899a4750bd0f9a54143ea366e1522b9095422b",
-      "levelid": "custom_level_ba899a4750bd0f9a54143ea366e1522b9095422b"
-    },
-    {
-      "key": "4f7ed",
-      "songName": "[Maps of March] f2 - reboot.reality",
-      "hash": "e0b0bd3677f59c212319ac58be294a835f79a555",
-      "levelid": "custom_level_e0b0bd3677f59c212319ac58be294a835f79a555"
-    },
-    {
-      "key": "4f7ec",
-      "songName": "Dingus-Subtonics x wooli x level up",
-      "hash": "b53d2e79b84ebb8aec7a8a7c331160347d94eb1c",
-      "levelid": "custom_level_b53d2e79b84ebb8aec7a8a7c331160347d94eb1c"
+      "hash": "9621e4a49ba2e1b138c50c95c15e5ff578d04cbb",
+      "levelid": "custom_level_9621e4a49ba2e1b138c50c95c15e5ff578d04cbb"
     }
   ],
   "image": ""
