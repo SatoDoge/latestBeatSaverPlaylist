@@ -1,382 +1,292 @@
 {
-  "playlistTitle": "2026-03-21T15:18:48.369Z~2026-03-22T15:18:48.369Z",
+  "playlistTitle": "2026-03-22T15:18:48.374Z~2026-03-23T15:18:48.374Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-03-21T15:18:48.369Z and 2026-03-22T15:18:48.369Z",
+  "discripstion": "Maps published between 2026-03-22T15:18:48.374Z and 2026-03-23T15:18:48.374Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "4fa80",
-      "songName": "Peppa Pig Poop",
-      "hash": "f550f18a154f3acdaa408bf21501ab0f18d355f7",
-      "levelid": "custom_level_f550f18a154f3acdaa408bf21501ab0f18d355f7"
+      "key": "4fac8",
+      "songName": "My Screams",
+      "hash": "e144cc5de83fc0961b1bcc790d51023b5abe3703",
+      "levelid": "custom_level_e144cc5de83fc0961b1bcc790d51023b5abe3703"
     },
     {
-      "key": "4fa72",
+      "key": "4fac9",
+      "songName": "Wrong side out",
+      "hash": "647fc3e07c2d6c076aaf5a52f4be7053793e055e",
+      "levelid": "custom_level_647fc3e07c2d6c076aaf5a52f4be7053793e055e"
+    },
+    {
+      "key": "4faea",
+      "songName": "almost monday - can't slow down",
+      "hash": "fbe947c75643b446b5f41ffc3ff6e78912d9f107",
+      "levelid": "custom_level_fbe947c75643b446b5f41ffc3ff6e78912d9f107"
+    },
+    {
+      "key": "4fae9",
+      "songName": "The Edge Of Soul [Soul Blade Opening Theme] - Masahiro Ohki / Namco Sound Team",
+      "hash": "22454621c4e9191e62865b005135db8ab60a2677",
+      "levelid": "custom_level_22454621c4e9191e62865b005135db8ab60a2677"
+    },
+    {
+      "key": "4fae3",
+      "songName": "[Queue] Gram - Gram's Solo Serene Requiem, \"The Abyss” / Gramによる独奏する静謐な鎮魂歌\"深淵”",
+      "hash": "d86d268a1c8f674573e3a14813d744703ea23ff9",
+      "levelid": "custom_level_d86d268a1c8f674573e3a14813d744703ea23ff9"
+    },
+    {
+      "key": "4fae1",
+      "songName": "hey guys today in this video we will be using the reddit dariacore_hyperflip drum kit v4",
+      "hash": "cd3a72f785adb2cc4fe9d68c4b124d48776e4a5b",
+      "levelid": "custom_level_cd3a72f785adb2cc4fe9d68c4b124d48776e4a5b"
+    },
+    {
+      "key": "4fade",
+      "songName": "Dokin feat. Kokin-chan - ByeKing",
+      "hash": "c32dbc421d20499e20d5144ced10abc8c50ddd21",
+      "levelid": "custom_level_c32dbc421d20499e20d5144ced10abc8c50ddd21"
+    },
+    {
+      "key": "4fad8",
+      "songName": "星空ライトストーリー (SHOW BY ROCK!! STARS!! ED)",
+      "hash": "c582c268da6aec6cf433bd0dfb21fee07eaadc0c",
+      "levelid": "custom_level_c582c268da6aec6cf433bd0dfb21fee07eaadc0c"
+    },
+    {
+      "key": "4fad3",
+      "songName": "【JBSL】Tokyo Manaka - Brain Rot(feat. Kasane Teto)",
+      "hash": "e761c29eda825675eb9a50147268eec8f9006d82",
+      "levelid": "custom_level_e761c29eda825675eb9a50147268eec8f9006d82"
+    },
+    {
+      "key": "4fad7",
+      "songName": "Apink - I'm So Sick (Short Ver.)",
+      "hash": "efe4b8e84b029b26bda518ac6961ce13e1b64c34",
+      "levelid": "custom_level_efe4b8e84b029b26bda518ac6961ce13e1b64c34"
+    },
+    {
+      "key": "4fad6",
+      "songName": "Sanrio Girl",
+      "hash": "c3ad88bafb5461ef55feb2818ca7c8d15fdbf82a",
+      "levelid": "custom_level_c3ad88bafb5461ef55feb2818ca7c8d15fdbf82a"
+    },
+    {
+      "key": "4fad5",
+      "songName": "Drunk-Dazed",
+      "hash": "43cabef4ef6e34fd180fe5b806ab22ffae1d9329",
+      "levelid": "custom_level_43cabef4ef6e34fd180fe5b806ab22ffae1d9329"
+    },
+    {
+      "key": "4fad2",
+      "songName": "TAIGA - CLUB.exe",
+      "hash": "688eda3f655c68fd53c16b4954dd707cb653bca5",
+      "levelid": "custom_level_688eda3f655c68fd53c16b4954dd707cb653bca5"
+    },
+    {
+      "key": "4fad1",
+      "songName": "venturing - Recoil",
+      "hash": "8844a3e77efdd05c5637a3353f4a183e724a154c",
+      "levelid": "custom_level_8844a3e77efdd05c5637a3353f4a183e724a154c"
+    },
+    {
+      "key": "4fad0",
+      "songName": "Passenger Princess - TUMMY",
+      "hash": "4e6cc2346e9ea10620a3ba961d5a81539ac93dad",
+      "levelid": "custom_level_4e6cc2346e9ea10620a3ba961d5a81539ac93dad"
+    },
+    {
+      "key": "4face",
+      "songName": "ITS ABOUT DRIVE ITS ABOUT POWER",
+      "hash": "036ba9de5243639a71fb73d21ccb3cba353b54bf",
+      "levelid": "custom_level_036ba9de5243639a71fb73d21ccb3cba353b54bf"
+    },
+    {
+      "key": "4fac7",
+      "songName": "[Chroma+] rusino - Looping the Rooms (feat. Hatsune Miku)",
+      "hash": "3856a36190183f5dbf7a810823cae0884218283e",
+      "levelid": "custom_level_3856a36190183f5dbf7a810823cae0884218283e"
+    },
+    {
+      "key": "4facc",
+      "songName": "mailkitty - i love CO- mplextro",
+      "hash": "6fd4c83807fd7197b1c858062b0c22660b3ec627",
+      "levelid": "custom_level_6fd4c83807fd7197b1c858062b0c22660b3ec627"
+    },
+    {
+      "key": "4facd",
+      "songName": "Charlie Darker & Far Too Loud - Nail Gun",
+      "hash": "004943c12269d2cc7f2cec26aeefe1063857e751",
+      "levelid": "custom_level_004943c12269d2cc7f2cec26aeefe1063857e751"
+    },
+    {
+      "key": "4fac5",
+      "songName": "Origami Angel - The Title Track",
+      "hash": "c5a32fe5059b9edfa33e309dbc4bd41a4b286ba3",
+      "levelid": "custom_level_c5a32fe5059b9edfa33e309dbc4bd41a4b286ba3"
+    },
+    {
+      "key": "4fac4",
+      "songName": "crystals V3",
+      "hash": "8a7381351bc24ce860feaf469700cee6e97c9884",
+      "levelid": "custom_level_8a7381351bc24ce860feaf469700cee6e97c9884"
+    },
+    {
+      "key": "4fac2",
+      "songName": "PurpleBlenderr - Government",
+      "hash": "cc89f8b6f418023e26c19780c7c495f310c98bb8",
+      "levelid": "custom_level_cc89f8b6f418023e26c19780c7c495f310c98bb8"
+    },
+    {
+      "key": "4fac0",
+      "songName": "Say it on beat",
+      "hash": "f5560eadb0434e24657336884e86db5b3d0949c4",
+      "levelid": "custom_level_f5560eadb0434e24657336884e86db5b3d0949c4"
+    },
+    {
+      "key": "4fabf",
+      "songName": "A DARK ZONE",
+      "hash": "8248809424d0f6d443d97f591fa391b7a4c66537",
+      "levelid": "custom_level_8248809424d0f6d443d97f591fa391b7a4c66537"
+    },
+    {
+      "key": "4fabe",
+      "songName": "Circles",
+      "hash": "0b1ea9d76a0a827a19a1b613d4122aee0727db02",
+      "levelid": "custom_level_0b1ea9d76a0a827a19a1b613d4122aee0727db02"
+    },
+    {
+      "key": "4fabd",
+      "songName": "[Feetsaber]New Fly Away",
+      "hash": "c24a7f87941ed2f3b889deda7b9d8b7f61c2cded",
+      "levelid": "custom_level_c24a7f87941ed2f3b889deda7b9d8b7f61c2cded"
+    },
+    {
+      "key": "4faba",
+      "songName": "8485, fish narc - southview",
+      "hash": "56f1e0111b4a701d04943632d7b14dc763fb1c36",
+      "levelid": "custom_level_56f1e0111b4a701d04943632d7b14dc763fb1c36"
+    },
+    {
+      "key": "4fab7",
+      "songName": "PINATA BREAK",
+      "hash": "02fe9f655be91b56e08898cbd515cb43244086d3",
+      "levelid": "custom_level_02fe9f655be91b56e08898cbd515cb43244086d3"
+    },
+    {
+      "key": "4fab6",
+      "songName": "that boy is deadthat boy is deadthat boy is deadthat boy is deadthat boy is deadthat boy is deadthat boy is deadthat boy is deadthat boy is dead",
+      "hash": "4979e418ca2bb634ef6c68e1a2481db01fdbd3c5",
+      "levelid": "custom_level_4979e418ca2bb634ef6c68e1a2481db01fdbd3c5"
+    },
+    {
+      "key": "4fab5",
+      "songName": "Birds And The Bees",
+      "hash": "f215144e71326536700ae904a03d41988beb1718",
+      "levelid": "custom_level_f215144e71326536700ae904a03d41988beb1718"
+    },
+    {
+      "key": "4fab2",
+      "songName": "fury - STIM",
+      "hash": "e7ae4636a61e5a841d2f9329c0916b8f73b528a5",
+      "levelid": "custom_level_e7ae4636a61e5a841d2f9329c0916b8f73b528a5"
+    },
+    {
+      "key": "4faad",
+      "songName": "Magdalena Bay - The Ballad of Matt & Mica",
+      "hash": "6986f98609fa8cd96f5052c9eace8228a582f673",
+      "levelid": "custom_level_6986f98609fa8cd96f5052c9eace8228a582f673"
+    },
+    {
+      "key": "4faab",
+      "songName": "Hyperbaiter - Balls balls balls balls",
+      "hash": "4abddd780e66dfe3850522aa2857db298f8739f3",
+      "levelid": "custom_level_4abddd780e66dfe3850522aa2857db298f8739f3"
+    },
+    {
+      "key": "4faa9",
+      "songName": "【\\\\Virtual Collab!!!//】Camellia - GALAXY BURST",
+      "hash": "f9b81ed6e09b0a21f5e0a51656b85b9ddca73311",
+      "levelid": "custom_level_f9b81ed6e09b0a21f5e0a51656b85b9ddca73311"
+    },
+    {
+      "key": "4faa8",
+      "songName": "Lada Niva Underground",
+      "hash": "d0f863e7a1c6dd15b147a16fa3676d770f9aca3c",
+      "levelid": "custom_level_d0f863e7a1c6dd15b147a16fa3676d770f9aca3c"
+    },
+    {
+      "key": "4faa7",
+      "songName": "A garagem da vizinha",
+      "hash": "0ab786539fe2f080415cb847bd5534c7255e3a0e",
+      "levelid": "custom_level_0ab786539fe2f080415cb847bd5534c7255e3a0e"
+    },
+    {
+      "key": "4faa4",
+      "songName": "The Let Out",
+      "hash": "b498e23418a79b019b00d1f5694fa019fd8010d9",
+      "levelid": "custom_level_b498e23418a79b019b00d1f5694fa019fd8010d9"
+    },
+    {
+      "key": "4faa1",
+      "songName": "Easy to Love",
+      "hash": "e6105e73f7e98405858a32e7ae48d6c273d912ba",
+      "levelid": "custom_level_e6105e73f7e98405858a32e7ae48d6c273d912ba"
+    },
+    {
+      "key": "4fa9e",
+      "songName": "The Horse And The Infant (6 Lane) (Chroma)",
+      "hash": "572bf040ffe74676145aa59fa2c276f71fabd7ef",
+      "levelid": "custom_level_572bf040ffe74676145aa59fa2c276f71fabd7ef"
+    },
+    {
+      "key": "4fa9c",
+      "songName": "白坂小梅 - 小さな恋の密室事件",
+      "hash": "7c6693d9afb61e26b63c0c37ed92cebd8cd385d1",
+      "levelid": "custom_level_7c6693d9afb61e26b63c0c37ed92cebd8cd385d1"
+    },
+    {
+      "key": "4efea",
+      "songName": "Yooh - True Tears (P*Light Remix)",
+      "hash": "71236d1247e6f60f87bfc0b2c34873184c39c494",
+      "levelid": "custom_level_71236d1247e6f60f87bfc0b2c34873184c39c494"
+    },
+    {
+      "key": "4fa9b",
+      "songName": "lwk its white noise fr",
+      "hash": "4d56835e2740a0cf06a1614bee76c770f5b5a011",
+      "levelid": "custom_level_4d56835e2740a0cf06a1614bee76c770f5b5a011"
+    },
+    {
+      "key": "4fa98",
+      "songName": "DMBQ - Turtledove",
+      "hash": "04eb9a83acbebc6caf93a31b43f17cb801a6c21b",
+      "levelid": "custom_level_04eb9a83acbebc6caf93a31b43f17cb801a6c21b"
+    },
+    {
+      "key": "4fa96",
+      "songName": "drag path - twenty one pilots",
+      "hash": "28335322e794e03748a684408e3c513cb829e6d7",
+      "levelid": "custom_level_28335322e794e03748a684408e3c513cb829e6d7"
+    },
+    {
+      "key": "4fa94",
+      "songName": "Montagem Huiyi",
+      "hash": "eac1a6808c722a599f6c04c7d617fdd340f9e2ff",
+      "levelid": "custom_level_eac1a6808c722a599f6c04c7d617fdd340f9e2ff"
+    },
+    {
+      "key": "4fa90",
+      "songName": "Crackhouse Escape",
+      "hash": "3b50ef0268c2290cc782d854fa65e24fad4d6ffe",
+      "levelid": "custom_level_3b50ef0268c2290cc782d854fa65e24fad4d6ffe"
+    },
+    {
+      "key": "4fa8d",
       "songName": "Rabbit House - Ad astra per aspera(Extended.Ver)",
-      "hash": "d97eeb8bc52affc87e0ebf0c4ebd1d52d590d77e",
-      "levelid": "custom_level_d97eeb8bc52affc87e0ebf0c4ebd1d52d590d77e"
-    },
-    {
-      "key": "4fa7f",
-      "songName": "Super Suki♡Shuki Rush (Gold Ship Ver.)",
-      "hash": "0b6f969868ebfeca0ebd05dbcf8170b17cc1e0d4",
-      "levelid": "custom_level_0b6f969868ebfeca0ebd05dbcf8170b17cc1e0d4"
-    },
-    {
-      "key": "4fa7e",
-      "songName": "underscores - Tell Me (U Want It)",
-      "hash": "739adddd8802639da2bb824f6f111bf93f03a8aa",
-      "levelid": "custom_level_739adddd8802639da2bb824f6f111bf93f03a8aa"
-    },
-    {
-      "key": "4fa7d",
-      "songName": "Ceremony (v3 Lights) - Holy Wars",
-      "hash": "9f785aa462bd9f6cd387f6398d5fabb5fe3a2242",
-      "levelid": "custom_level_9f785aa462bd9f6cd387f6398d5fabb5fe3a2242"
-    },
-    {
-      "key": "4fa7b",
-      "songName": "idk what to do",
-      "hash": "f80ab69aa0932a02d00133b5738410dab9dfabbe",
-      "levelid": "custom_level_f80ab69aa0932a02d00133b5738410dab9dfabbe"
-    },
-    {
-      "key": "4fa79",
-      "songName": "Twenty One Pilots - Tally",
-      "hash": "8f4f6cae2b04583e798614a2cff0cfcfaadc82eb",
-      "levelid": "custom_level_8f4f6cae2b04583e798614a2cff0cfcfaadc82eb"
-    },
-    {
-      "key": "4fa74",
-      "songName": "glaive - i would pay to see them try",
-      "hash": "cf41310b28bc6337929d0f3ae2da6560137f673c",
-      "levelid": "custom_level_cf41310b28bc6337929d0f3ae2da6560137f673c"
-    },
-    {
-      "key": "4fa73",
-      "songName": "Blackbird - HOKKA",
-      "hash": "d0c30262a3d5ded2626eb186866e563ce01e1f92",
-      "levelid": "custom_level_d0c30262a3d5ded2626eb186866e563ce01e1f92"
-    },
-    {
-      "key": "4fa71",
-      "songName": "さらば碧き面影 (Saraba Aoki Omokage)  [MAJOR OP 2]",
-      "hash": "405df226eabe08b3cd5d336e384b7f8290c63eb0",
-      "levelid": "custom_level_405df226eabe08b3cd5d336e384b7f8290c63eb0"
-    },
-    {
-      "key": "4fa6f",
-      "songName": "Kobaryo - Social Networking Speedcore",
-      "hash": "d106f099e28df9f54bc1437af95ade4d67ce2834",
-      "levelid": "custom_level_d106f099e28df9f54bc1437af95ade4d67ce2834"
-    },
-    {
-      "key": "4fa57",
-      "songName": "ドレミファSTARS!! (SHOW BY ROCK!! STARS!! OP)",
-      "hash": "dd5da098cd708fac33eaab1b625d5e816789c638",
-      "levelid": "custom_level_dd5da098cd708fac33eaab1b625d5e816789c638"
-    },
-    {
-      "key": "4fa56",
-      "songName": "quixofficial - Tree Chicken Song",
-      "hash": "7dd014d9db62143f22cf3c6db364485423df655f",
-      "levelid": "custom_level_7dd014d9db62143f22cf3c6db364485423df655f"
-    },
-    {
-      "key": "4fa55",
-      "songName": "t+pazolite - Chapter 0: Foreword (2021 mapped section cut)",
-      "hash": "18e250127e7775c348cf9d2ecb2ec97b9b66b545",
-      "levelid": "custom_level_18e250127e7775c348cf9d2ecb2ec97b9b66b545"
-    },
-    {
-      "key": "4fa53",
-      "songName": "Lapix - Celebrate",
-      "hash": "0a2c08c067fed8fd78bb5927ff97681a10330af2",
-      "levelid": "custom_level_0a2c08c067fed8fd78bb5927ff97681a10330af2"
-    },
-    {
-      "key": "4fa52",
-      "songName": "m",
-      "hash": "d95099270e477c1504981441f9e814450cbfe342",
-      "levelid": "custom_level_d95099270e477c1504981441f9e814450cbfe342"
-    },
-    {
-      "key": "4fa51",
-      "songName": "Buddy ラストエグザイル -銀翼のファム- オープニングテーマ",
-      "hash": "1dc4920b37789b0f11d1b5bbcbec5b05242393f5",
-      "levelid": "custom_level_1dc4920b37789b0f11d1b5bbcbec5b05242393f5"
-    },
-    {
-      "key": "4fa4d",
-      "songName": "Vessel",
-      "hash": "ffe86e5ca95177c276782e4ffac3ee208d1adae9",
-      "levelid": "custom_level_ffe86e5ca95177c276782e4ffac3ee208d1adae9"
-    },
-    {
-      "key": "4fa4c",
-      "songName": "Outro (Wooli Remix - no noodles)",
-      "hash": "ab8afe3ec89d082e383289d3b3b8722f611ef033",
-      "levelid": "custom_level_ab8afe3ec89d082e383289d3b3b8722f611ef033"
-    },
-    {
-      "key": "4fa4b",
-      "songName": "Twenty One Pilots - Robot Voices",
-      "hash": "28f130346701c29f3b19fa2344d95f5a2fd13640",
-      "levelid": "custom_level_28f130346701c29f3b19fa2344d95f5a2fd13640"
-    },
-    {
-      "key": "4fa4a",
-      "songName": "Ras - EMOMOMO",
-      "hash": "d96d63d15a3a23eed05d7fec4b1dcd9cfe26055f",
-      "levelid": "custom_level_d96d63d15a3a23eed05d7fec4b1dcd9cfe26055f"
-    },
-    {
-      "key": "4fa49",
-      "songName": "Shady Deals",
-      "hash": "cce75f2bcf29720745eae4526b74fe1271047c5a",
-      "levelid": "custom_level_cce75f2bcf29720745eae4526b74fe1271047c5a"
-    },
-    {
-      "key": "4fa48",
-      "songName": "[Chroma] Laid to Rest - Lamb of God",
-      "hash": "e441832d0b0daab8420b0d338d16a1098423bb9e",
-      "levelid": "custom_level_e441832d0b0daab8420b0d338d16a1098423bb9e"
-    },
-    {
-      "key": "4fa47",
-      "songName": "ready with the bready and breezy with the cheesy",
-      "hash": "0f3ba6d134fec586f01d0b01e157a18a78e5c659",
-      "levelid": "custom_level_0f3ba6d134fec586f01d0b01e157a18a78e5c659"
-    },
-    {
-      "key": "4fa46",
-      "songName": "全肯定！- フレン・E・ルスタリオ",
-      "hash": "49a906aee6cf980fade84266db1d6b2318b0ece9",
-      "levelid": "custom_level_49a906aee6cf980fade84266db1d6b2318b0ece9"
-    },
-    {
-      "key": "4fa45",
-      "songName": "fdfg b nbmbt bn fgc yuhfgvcfvgvfvfgvvghvggvgvgv",
-      "hash": "7f5d276ba47cd6beb5690fcc22ebc7201fd6d87b",
-      "levelid": "custom_level_7f5d276ba47cd6beb5690fcc22ebc7201fd6d87b"
-    },
-    {
-      "key": "4fa44",
-      "songName": "untitled 1",
-      "hash": "c25002c82f5dad9a6910635bcd0b258f81e60f7c",
-      "levelid": "custom_level_c25002c82f5dad9a6910635bcd0b258f81e60f7c"
-    },
-    {
-      "key": "4fa42",
-      "songName": "Medicine",
-      "hash": "98d76e0428f3db0d982dab4ebdd09b1f3a72d151",
-      "levelid": "custom_level_98d76e0428f3db0d982dab4ebdd09b1f3a72d151"
-    },
-    {
-      "key": "4fa41",
-      "songName": "the art of war - chipzel",
-      "hash": "1c0b90de9ae5ec3271224cfd7c44e9e50093b70f",
-      "levelid": "custom_level_1c0b90de9ae5ec3271224cfd7c44e9e50093b70f"
-    },
-    {
-      "key": "4fa40",
-      "songName": "\"C:\\Users\\Owner\\Pictures\\AaAaAaAaAaAaAa\\BSManager\\BSInstances\\1.40.8\\Beat Saber_Data\\CustomLevels\\fdfg b nbmbt bn ijuhygvcyt676t\\fdfg b nbmbt bn fgc yuhfgvcfvgvfvfgvvghvggvgvgv.zip\"",
-      "hash": "f7e7846dfb94346b8db23863d1e5d0bdd8ed2c87",
-      "levelid": "custom_level_f7e7846dfb94346b8db23863d1e5d0bdd8ed2c87"
-    },
-    {
-      "key": "4fa3f",
-      "songName": "Infective Collective - SLOW SWIMMERS",
-      "hash": "5e88d14bdcdeefc53d230aaf9b105a0d293ac554",
-      "levelid": "custom_level_5e88d14bdcdeefc53d230aaf9b105a0d293ac554"
-    },
-    {
-      "key": "4fa3e",
-      "songName": "Twerk It Again",
-      "hash": "06ac4a531ec7072fe116484c97e001c3cd3dd4be",
-      "levelid": "custom_level_06ac4a531ec7072fe116484c97e001c3cd3dd4be"
-    },
-    {
-      "key": "4fa3c",
-      "songName": "interlaced - mdk",
-      "hash": "ebe705d6a3b828c12790e5d6bf880200229a3f53",
-      "levelid": "custom_level_ebe705d6a3b828c12790e5d6bf880200229a3f53"
-    },
-    {
-      "key": "4fa3b",
-      "songName": "\"am i doing okay\"",
-      "hash": "514808dbaac8b575d4ac0219aec9e562bd4e09e9",
-      "levelid": "custom_level_514808dbaac8b575d4ac0219aec9e562bd4e09e9"
-    },
-    {
-      "key": "4fa38",
-      "songName": "vOid laughing.mp4",
-      "hash": "4010e07527de6cae37124a8bee8123c1faf88f9f",
-      "levelid": "custom_level_4010e07527de6cae37124a8bee8123c1faf88f9f"
-    },
-    {
-      "key": "4fa39",
-      "songName": "Apollo - Brazil",
-      "hash": "25be0790320d73e23329f8f9dbd494ea8e25fb63",
-      "levelid": "custom_level_25be0790320d73e23329f8f9dbd494ea8e25fb63"
-    },
-    {
-      "key": "4fa37",
-      "songName": "update failed",
-      "hash": "872858d777833f05258c4b5332831f32dad502e9",
-      "levelid": "custom_level_872858d777833f05258c4b5332831f32dad502e9"
-    },
-    {
-      "key": "4fa35",
-      "songName": "Oathbreaker",
-      "hash": "02beacfbef06ba9917580ff0d4c4fc7702ec6d61",
-      "levelid": "custom_level_02beacfbef06ba9917580ff0d4c4fc7702ec6d61"
-    },
-    {
-      "key": "4fa31",
-      "songName": "[Feetsaber]ナイワ",
-      "hash": "042566f9728dad698232050da93a68dbeac15b4a",
-      "levelid": "custom_level_042566f9728dad698232050da93a68dbeac15b4a"
-    },
-    {
-      "key": "4fa30",
-      "songName": "Hiiragi Magnetite - Tetoris (feat. Kasane Teto)",
-      "hash": "3f104b8b0eabb71b6a0ebae1044266f76b1c3f21",
-      "levelid": "custom_level_3f104b8b0eabb71b6a0ebae1044266f76b1c3f21"
-    },
-    {
-      "key": "4fa2f",
-      "songName": "Top 10 meme songs everybody knows",
-      "hash": "ad36e63507a4b61fbe19bb31c52b3d7f37d92e9d",
-      "levelid": "custom_level_ad36e63507a4b61fbe19bb31c52b3d7f37d92e9d"
-    },
-    {
-      "key": "4fa22",
-      "songName": "[Y5YMA 12/12] [V3] Camellia - Blackmagik Blazing",
-      "hash": "81a7512dd05b5cd24a74f0a31e4340db51a44136",
-      "levelid": "custom_level_81a7512dd05b5cd24a74f0a31e4340db51a44136"
-    },
-    {
-      "key": "4fa2b",
-      "songName": "Tokyo Machine, Teminite & Boom Kitty - BUSTED",
-      "hash": "5439e981e00f3c4a5d6127fea164211c14aaee0a",
-      "levelid": "custom_level_5439e981e00f3c4a5d6127fea164211c14aaee0a"
-    },
-    {
-      "key": "4fa29",
-      "songName": "Two Moons",
-      "hash": "96ffbb447e34a234a7637466a0dae3fa3857c5df",
-      "levelid": "custom_level_96ffbb447e34a234a7637466a0dae3fa3857c5df"
-    },
-    {
-      "key": "4fa27",
-      "songName": "Top 10 meme songs everyone knows ",
-      "hash": "ddc0fda49f15a4fd5d4835be8cc0ff9ef3de0dca",
-      "levelid": "custom_level_ddc0fda49f15a4fd5d4835be8cc0ff9ef3de0dca"
-    },
-    {
-      "key": "4fa25",
-      "songName": "Sample Breakdown - pawcord & doripaws",
-      "hash": "14bab38e2a87c837e5be1f27585fb453a24e62d8",
-      "levelid": "custom_level_14bab38e2a87c837e5be1f27585fb453a24e62d8"
-    },
-    {
-      "key": "4fa24",
-      "songName": "kiss me again (noodle ver)",
-      "hash": "7f6d67cd21eb906933ebdd699d0652b0d27e95bd",
-      "levelid": "custom_level_7f6d67cd21eb906933ebdd699d0652b0d27e95bd"
-    },
-    {
-      "key": "4fa1e",
-      "songName": "Eden Elara - EternalWolf Studios",
-      "hash": "dbfd79a8805a407d646bada75927ef551ed79bdb",
-      "levelid": "custom_level_dbfd79a8805a407d646bada75927ef551ed79bdb"
-    },
-    {
-      "key": "4fa1b",
-      "songName": "Hana - Sakura No Uta (Sped Up Ver)",
-      "hash": "784f50ba5ff7d25da6d32f97edc14ea4a36798fa",
-      "levelid": "custom_level_784f50ba5ff7d25da6d32f97edc14ea4a36798fa"
-    },
-    {
-      "key": "4fa18",
-      "songName": "Cola 2",
-      "hash": "980591d23ff6cfd427f25b1a17469c5ceb02872f",
-      "levelid": "custom_level_980591d23ff6cfd427f25b1a17469c5ceb02872f"
-    },
-    {
-      "key": "4fa0c",
-      "songName": "WORTHLESS (D4vdGlazer)",
-      "hash": "932097b017fc5bb1331056387ba8892abd12bb37",
-      "levelid": "custom_level_932097b017fc5bb1331056387ba8892abd12bb37"
-    },
-    {
-      "key": "4fa0b",
-      "songName": "Television / So Far So Good - Rex Orange County",
-      "hash": "46230cf3778602f61dbbaa904da22141b8be13ab",
-      "levelid": "custom_level_46230cf3778602f61dbbaa904da22141b8be13ab"
-    },
-    {
-      "key": "4fa09",
-      "songName": "Strange Things - Randy Newman",
-      "hash": "9f10234d119ae3f6f6891053020a0c80759ded21",
-      "levelid": "custom_level_9f10234d119ae3f6f6891053020a0c80759ded21"
-    },
-    {
-      "key": "4fa07",
-      "songName": "Ultimate Niche Challenge",
-      "hash": "6e3d5ef07584a50f12e2f58972281778ad70b228",
-      "levelid": "custom_level_6e3d5ef07584a50f12e2f58972281778ad70b228"
-    },
-    {
-      "key": "4fa05",
-      "songName": "Howling",
-      "hash": "dd1989f7967c3174c7024a165afe5fd5dabadfb3",
-      "levelid": "custom_level_dd1989f7967c3174c7024a165afe5fd5dabadfb3"
-    },
-    {
-      "key": "4fa06",
-      "songName": "sh1tpost 6?!?!?!?!?!?",
-      "hash": "5d010fddac384afd45b6344d5a5c43a16893fd6d",
-      "levelid": "custom_level_5d010fddac384afd45b6344d5a5c43a16893fd6d"
-    },
-    {
-      "key": "4fa04",
-      "songName": "Don't Forget",
-      "hash": "c37d0a5d04a1073ee5e31752822c041d1616a44c",
-      "levelid": "custom_level_c37d0a5d04a1073ee5e31752822c041d1616a44c"
-    },
-    {
-      "key": "4fa03",
-      "songName": "Oh The Larceny - Light That Fire",
-      "hash": "3d28f5904b75209f684427ea2359c19c4cd17881",
-      "levelid": "custom_level_3d28f5904b75209f684427ea2359c19c4cd17881"
-    },
-    {
-      "key": "4f743",
-      "songName": "PENTAGON - Shine",
-      "hash": "8bc1714be75b2ad9aff7790119d3b96972e3da73",
-      "levelid": "custom_level_8bc1714be75b2ad9aff7790119d3b96972e3da73"
-    },
-    {
-      "key": "4f9fb",
-      "songName": "Army Of Lovers - Crucified",
-      "hash": "84a9b4fdb8894a6f2a8a1993c7c3026b9b695ff2",
-      "levelid": "custom_level_84a9b4fdb8894a6f2a8a1993c7c3026b9b695ff2"
-    },
-    {
-      "key": "4f9f7",
-      "songName": "El Pollito Pio",
-      "hash": "47c3f9d5408e4e666166056d4448d4c6d09c3e11",
-      "levelid": "custom_level_47c3f9d5408e4e666166056d4448d4c6d09c3e11"
-    },
-    {
-      "key": "4f9f6",
-      "songName": "Tune Up! - Bounce (Nightcore Mix)",
-      "hash": "286b5b5cca90471d2ff34d106741f109a0da326e",
-      "levelid": "custom_level_286b5b5cca90471d2ff34d106741f109a0da326e"
+      "hash": "1b20c634f366feecc3c5c475a5ced95143b787f5",
+      "levelid": "custom_level_1b20c634f366feecc3c5c475a5ced95143b787f5"
     }
   ],
   "image": ""
