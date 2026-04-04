@@ -1,352 +1,394 @@
 {
-  "playlistTitle": "2026-04-02T15:18:48.523Z~2026-04-03T15:18:48.523Z",
+  "playlistTitle": "2026-04-03T15:18:48.544Z~2026-04-04T15:18:48.544Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-04-02T15:18:48.523Z and 2026-04-03T15:18:48.523Z",
+  "discripstion": "Maps published between 2026-04-03T15:18:48.544Z and 2026-04-04T15:18:48.544Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "5006b",
-      "songName": " [700BPM] Fvrwvrd - Extra Credit on the Extratone Test! VICTORY ROYALE!!!",
-      "hash": "8ae5aa34d2b5c3fdc001641751ccd147252189dc",
-      "levelid": "custom_level_8ae5aa34d2b5c3fdc001641751ccd147252189dc"
+      "key": "500ee",
+      "songName": " NEKOMATA GAME - Virtual Beat Queen",
+      "hash": "5a1dfebcf160381ab6ddd164c74cfe8bcda914be",
+      "levelid": "custom_level_5a1dfebcf160381ab6ddd164c74cfe8bcda914be"
     },
     {
-      "key": "5005a",
-      "songName": "BANG BANG BANG (Chainsaw Man Song)",
-      "hash": "7458b23a480908163942ae282066a35950946661",
-      "levelid": "custom_level_7458b23a480908163942ae282066a35950946661"
+      "key": "500ec",
+      "songName": "[Vivify] Walking Beside A Dragonfly",
+      "hash": "9e096d136681e6f75edcbfac2b56db0b748bdc2e",
+      "levelid": "custom_level_9e096d136681e6f75edcbfac2b56db0b748bdc2e"
     },
     {
-      "key": "50059",
-      "songName": "Shiyui - Inferior (May I Ask for One Final Thing? END | 最後にひとつだけお願いしてもよろしいでしょうか)",
-      "hash": "25ef2318d48f8f5133c3906106a473e1b57bdef0",
-      "levelid": "custom_level_25ef2318d48f8f5133c3906106a473e1b57bdef0"
+      "key": "500eb",
+      "songName": "[Vivify] By the wind",
+      "hash": "dd0e397abfc8132a53daf8e9e38d5aa609da8672",
+      "levelid": "custom_level_dd0e397abfc8132a53daf8e9e38d5aa609da8672"
     },
     {
-      "key": "50038",
-      "songName": "Glaze/WoodenToaster - Pinkie's Lie",
-      "hash": "16fe25a52e35dbe42135d299a44f14ca01d2b7c4",
-      "levelid": "custom_level_16fe25a52e35dbe42135d299a44f14ca01d2b7c4"
+      "key": "500e9",
+      "songName": "Cirno's Perfect Math Class (Live Version)",
+      "hash": "41059f449f2e18359d1728c544c808e2b783b2ea",
+      "levelid": "custom_level_41059f449f2e18359d1728c544c808e2b783b2ea"
     },
     {
-      "key": "50056",
-      "songName": "Mayhem - System23",
-      "hash": "eabd19780545704812e68c4e3040929076077e7f",
-      "levelid": "custom_level_eabd19780545704812e68c4e3040929076077e7f"
+      "key": "500e2",
+      "songName": "Utsu-P - God Gacha",
+      "hash": "6ef69ad4478ccee8cef3517a8149b2368af3dbc0",
+      "levelid": "custom_level_6ef69ad4478ccee8cef3517a8149b2368af3dbc0"
     },
     {
-      "key": "5004a",
-      "songName": "Chikuwa - Jinsei Matatabi",
-      "hash": "df48d6c42232a5187ba5c26a6d1baf4ac96ee846",
-      "levelid": "custom_level_df48d6c42232a5187ba5c26a6d1baf4ac96ee846"
+      "key": "500e3",
+      "songName": "Camellia - Shun no Shifudo",
+      "hash": "9f8cc315e94fcf620d7810c0067cd7fd138b3cbc",
+      "levelid": "custom_level_9f8cc315e94fcf620d7810c0067cd7fd138b3cbc"
     },
     {
-      "key": "4ff50",
-      "songName": "The Boys Of Summer - The Ataris",
-      "hash": "0bc4447e442585982bf7fe59bd616beba98bbc68",
-      "levelid": "custom_level_0bc4447e442585982bf7fe59bd616beba98bbc68"
+      "key": "500e1",
+      "songName": "Bee DM",
+      "hash": "eea6eafa65996a2d2261761eaec8c7a2fb88d7cb",
+      "levelid": "custom_level_eea6eafa65996a2d2261761eaec8c7a2fb88d7cb"
     },
     {
-      "key": "50049",
-      "songName": "Nightcore - Shatter Me (Rock Version 2.0) ",
-      "hash": "3c10fa72dc3b81b0e206b7af024873ff2e9e264c",
-      "levelid": "custom_level_3c10fa72dc3b81b0e206b7af024873ff2e9e264c"
+      "key": "500e0",
+      "songName": "BLACKICE",
+      "hash": "c2779024e9c33dfd94ba4b73560342f97e5578f1",
+      "levelid": "custom_level_c2779024e9c33dfd94ba4b73560342f97e5578f1"
     },
     {
-      "key": "50048",
-      "songName": "Nightcore - Middle Of The Night (But it hits different)",
-      "hash": "1ae1932a8329a51e4a3b99265295eb9b5abb960b",
-      "levelid": "custom_level_1ae1932a8329a51e4a3b99265295eb9b5abb960b"
+      "key": "500df",
+      "songName": "[Tech Challenge] CENSORED!! - T+pazolite",
+      "hash": "c1de493bf8225f3953a4817b0fce81d917a17b79",
+      "levelid": "custom_level_c1de493bf8225f3953a4817b0fce81d917a17b79"
     },
     {
-      "key": "50046",
-      "songName": " Wellerman - Nathan Evans",
-      "hash": "0d4be22e0562f8c41383a07c9083f82f6dcf144c",
-      "levelid": "custom_level_0d4be22e0562f8c41383a07c9083f82f6dcf144c"
+      "key": "500de",
+      "songName": "La La La 〜くちびるに願いをこめて〜 (魔法のステージ ファンシーララ OP)",
+      "hash": "0397232ab49e6eebefa807a863475af137876796",
+      "levelid": "custom_level_0397232ab49e6eebefa807a863475af137876796"
     },
     {
-      "key": "50045",
-      "songName": "Found Footage - IA  [ ふぁうんどふってーじ ] RemakeVer",
-      "hash": "044d5c34c4b231d8ef2f79733cc92c947e565c22",
-      "levelid": "custom_level_044d5c34c4b231d8ef2f79733cc92c947e565c22"
+      "key": "500dc",
+      "songName": "underscores - Old money bitch",
+      "hash": "0a7bdb2a37d6e61f75e07a92bf516bc75fe2c7c1",
+      "levelid": "custom_level_0a7bdb2a37d6e61f75e07a92bf516bc75fe2c7c1"
     },
     {
-      "key": "50043",
-      "songName": "[Dance] YENA - Catch Catch",
-      "hash": "0c2202d7695677fe8c60b92b2eee32bdb67e1989",
-      "levelid": "custom_level_0c2202d7695677fe8c60b92b2eee32bdb67e1989"
+      "key": "500db",
+      "songName": "Basement Door Opening (GTAG)",
+      "hash": "0889529087479d9c95adae71f3ed898219d4aa0c",
+      "levelid": "custom_level_0889529087479d9c95adae71f3ed898219d4aa0c"
     },
     {
-      "key": "50041",
-      "songName": "フリージアの少年 (魔法のアイドル パステルユーミ ED)",
-      "hash": "d29618998a4ca9a492c94621ddfae71a69538dc7",
-      "levelid": "custom_level_d29618998a4ca9a492c94621ddfae71a69538dc7"
+      "key": "500d7",
+      "songName": "crystallized",
+      "hash": "94eda6cca8286aa4cdc6d734d0db3bd89c07db02",
+      "levelid": "custom_level_94eda6cca8286aa4cdc6d734d0db3bd89c07db02"
     },
     {
-      "key": "4fba9",
-      "songName": "All Arks",
-      "hash": "7f88e6fa9485ae0680c48c969252d491330bb7f3",
-      "levelid": "custom_level_7f88e6fa9485ae0680c48c969252d491330bb7f3"
+      "key": "500d3",
+      "songName": "Crystal Corruption [Nightcore]",
+      "hash": "1370cb61a12e5c35306769921cc85ea81e15935f",
+      "levelid": "custom_level_1370cb61a12e5c35306769921cc85ea81e15935f"
     },
     {
-      "key": "5003f",
-      "songName": "SANDBOX - Moon Walker",
-      "hash": "b57dfca4cd1d6e3ae3a3a24cfff8648a4a5235d6",
-      "levelid": "custom_level_b57dfca4cd1d6e3ae3a3a24cfff8648a4a5235d6"
+      "key": "500cc",
+      "songName": "BANG BANG BANG (TILL I TAKE YOU DOWN) - Ft. @starxrayne & @JamsDX",
+      "hash": "b228a08da7d0d9e56885451389365eaa5a604911",
+      "levelid": "custom_level_b228a08da7d0d9e56885451389365eaa5a604911"
     },
     {
-      "key": "5003e",
-      "songName": "SIX SEVEN",
-      "hash": "6b073fc2238609f8ea81a5e83bce7dfd048958d2",
-      "levelid": "custom_level_6b073fc2238609f8ea81a5e83bce7dfd048958d2"
+      "key": "500c9",
+      "songName": "ILLELLA",
+      "hash": "1a1d231e622a9768f6132de798bbefa6b2ec3481",
+      "levelid": "custom_level_1a1d231e622a9768f6132de798bbefa6b2ec3481"
     },
     {
-      "key": "5003c",
-      "songName": "1993",
-      "hash": "bd838bf2512a1fdb7a39eed575da8cb4aa7e254c",
-      "levelid": "custom_level_bd838bf2512a1fdb7a39eed575da8cb4aa7e254c"
+      "key": "500c8",
+      "songName": "Wicked and Wild",
+      "hash": "961aed3a353b9c2943eb55d6950d77eaf6fc6409",
+      "levelid": "custom_level_961aed3a353b9c2943eb55d6950d77eaf6fc6409"
     },
     {
-      "key": "50026",
-      "songName": "[VNJS + Lightshow] GLITCH - The One Who's Running the Show (from \"The Amazing Digital Circus\")",
-      "hash": "76110c2924b92d76c8826d491f3a1c553d648185",
-      "levelid": "custom_level_76110c2924b92d76c8826d491f3a1c553d648185"
+      "key": "500c4",
+      "songName": "Wanna Be Her",
+      "hash": "6dedc8f7ea63c25e5efa4361b4d102411fb9458d",
+      "levelid": "custom_level_6dedc8f7ea63c25e5efa4361b4d102411fb9458d"
     },
     {
-      "key": "50011",
-      "songName": "Good Kid - Alone With Me",
-      "hash": "c03e6efd675161f0a96ef4279eb78c31e88b805d",
-      "levelid": "custom_level_c03e6efd675161f0a96ef4279eb78c31e88b805d"
+      "key": "500c0",
+      "songName": "TAKE THE PHOTOS",
+      "hash": "e46cd98ba1f4a9df1de7dabc461b890bbdc0cf48",
+      "levelid": "custom_level_e46cd98ba1f4a9df1de7dabc461b890bbdc0cf48"
     },
     {
-      "key": "50015",
-      "songName": "Good KId - Ghost Keeper",
-      "hash": "ececb6fcce3ec96d50bdec5ed4a59f0352fabdb5",
-      "levelid": "custom_level_ececb6fcce3ec96d50bdec5ed4a59f0352fabdb5"
+      "key": "500b7",
+      "songName": "Teto the 31st ft. Kasane Teto",
+      "hash": "c1190e679eb8fb60ee6f7c542ec27ff426cf79a1",
+      "levelid": "custom_level_c1190e679eb8fb60ee6f7c542ec27ff426cf79a1"
     },
     {
-      "key": "50014",
-      "songName": "Good Kid - Coffee",
-      "hash": "96f531d2feeccd15cdbba103224f7d6a6ded7faa",
-      "levelid": "custom_level_96f531d2feeccd15cdbba103224f7d6a6ded7faa"
+      "key": "50058",
+      "songName": "Krewella - Say Goodbye (Nightcore mix)",
+      "hash": "82b40531eb94c3d9cc64eb636ade27b523d49395",
+      "levelid": "custom_level_82b40531eb94c3d9cc64eb636ade27b523d49395"
     },
     {
-      "key": "50013",
-      "songName": "Good Kid - Tea Leaves",
-      "hash": "35cb343d536cca370bba35c81eef492415e5074e",
-      "levelid": "custom_level_35cb343d536cca370bba35c81eef492415e5074e"
+      "key": "500b3",
+      "songName": "Rave Cannon",
+      "hash": "6b3d2499511bed84a63ce4a965026c989dd4cd45",
+      "levelid": "custom_level_6b3d2499511bed84a63ce4a965026c989dd4cd45"
     },
     {
-      "key": "50012",
-      "songName": "Good Kid - Tornado",
-      "hash": "0f878a975a5e8d394fdea9614746152ff15e7de8",
-      "levelid": "custom_level_0f878a975a5e8d394fdea9614746152ff15e7de8"
+      "key": "500b2",
+      "songName": "Grant - Are We Still Young [RL2 Pack]",
+      "hash": "fa328c7e430695aaab33035494e99ebbdf7b9a1e",
+      "levelid": "custom_level_fa328c7e430695aaab33035494e99ebbdf7b9a1e"
     },
     {
-      "key": "50017",
-      "songName": "Good Kid - Ginger Lemonade",
-      "hash": "09f2fda53c3b5b818eb10cab41d1c172267310d9",
-      "levelid": "custom_level_09f2fda53c3b5b818eb10cab41d1c172267310d9"
+      "key": "500ae",
+      "songName": "Tokyo Machine - PLAY [RL2 pack]",
+      "hash": "d55e3e7eb5b5e63fb696f1b6f337e5ad786ac515",
+      "levelid": "custom_level_d55e3e7eb5b5e63fb696f1b6f337e5ad786ac515"
     },
     {
-      "key": "50039",
-      "songName": "Intel。ハイパースレッディングやめるってよ",
-      "hash": "2ae2f50e0239c4354418ec8a2b2e1bd15cfda562",
-      "levelid": "custom_level_2ae2f50e0239c4354418ec8a2b2e1bd15cfda562"
+      "key": "500aa",
+      "songName": "Parfait (poocubed)",
+      "hash": "b5dcd8eb1d889f0ae0b66cba63bfdbb49df55e39",
+      "levelid": "custom_level_b5dcd8eb1d889f0ae0b66cba63bfdbb49df55e39"
     },
     {
-      "key": "50036",
-      "songName": "suffocate_",
-      "hash": "0542a9dfc62b3de9e9704b467f7299220c80f510",
-      "levelid": "custom_level_0542a9dfc62b3de9e9704b467f7299220c80f510"
+      "key": "500a8",
+      "songName": "Alone With Me - Good Kid",
+      "hash": "806e520445de3169b9f721a4d8b21b53c1e1825d",
+      "levelid": "custom_level_806e520445de3169b9f721a4d8b21b53c1e1825d"
     },
     {
-      "key": "50032",
-      "songName": "[2000s Rock & Metal Pack]  Show Me How To Live - Audioslave [Balanced]",
-      "hash": "6d34bc36eed50a7aa7563a02b368087a75fdb8d5",
-      "levelid": "custom_level_6d34bc36eed50a7aa7563a02b368087a75fdb8d5"
+      "key": "500a1",
+      "songName": "Subtact - Call Me [RL2 Pack]",
+      "hash": "b9894f8a9db3f96d3338bc3c954291289b569437",
+      "levelid": "custom_level_b9894f8a9db3f96d3338bc3c954291289b569437"
     },
     {
-      "key": "50031",
-      "songName": "Chemical Coffins",
-      "hash": "489e10145eed91da177c2a1ccfb7029bf9b59eea",
-      "levelid": "custom_level_489e10145eed91da177c2a1ccfb7029bf9b59eea"
+      "key": "5009f",
+      "songName": "Slushii - LUV U NEED U [RL2 Pack]",
+      "hash": "7240a0a692f2c261099f933bd7ce63f50f3bec91",
+      "levelid": "custom_level_7240a0a692f2c261099f933bd7ce63f50f3bec91"
     },
     {
-      "key": "50030",
-      "songName": "Right Back Where We Coming From - Maxine Nightingale",
-      "hash": "a948ed9e45c085f1d7568741b4020c41ceaacf4d",
-      "levelid": "custom_level_a948ed9e45c085f1d7568741b4020c41ceaacf4d"
+      "key": "5009e",
+      "songName": "Grant - Castaway [RL2 Pack] ",
+      "hash": "4f132bedb09f53254c15c5a1dd862518db0b9afb",
+      "levelid": "custom_level_4f132bedb09f53254c15c5a1dd862518db0b9afb"
     },
     {
-      "key": "5002d",
-      "songName": "Blossom",
-      "hash": "1995f7dc1976945c7fbb54c3bcb00bc9a9d7a53d",
-      "levelid": "custom_level_1995f7dc1976945c7fbb54c3bcb00bc9a9d7a53d"
+      "key": "5009d",
+      "songName": "INTERCOM - Truth And Malice [RL2 Pack]",
+      "hash": "b6554d8572ecbe14d91b9ba7a7a5cb199effbd87",
+      "levelid": "custom_level_b6554d8572ecbe14d91b9ba7a7a5cb199effbd87"
     },
     {
-      "key": "5002a",
-      "songName": "bad piggies drip",
-      "hash": "e7f877cd0460d9c23b954ba29314b96755eb2420",
-      "levelid": "custom_level_e7f877cd0460d9c23b954ba29314b96755eb2420"
+      "key": "50094",
+      "songName": "F.O.O.L - Revenger [RL2 Pack]",
+      "hash": "21870973f3756cba371e1f10e15412e730b0f513",
+      "levelid": "custom_level_21870973f3756cba371e1f10e15412e730b0f513"
     },
     {
-      "key": "50029",
-      "songName": "that boy is dead",
-      "hash": "7c29a3e97b51cda9c7382477d09704fa8501e586",
-      "levelid": "custom_level_7c29a3e97b51cda9c7382477d09704fa8501e586"
+      "key": "5008b",
+      "songName": "WRLD - Drift Away [RL2 Pack]",
+      "hash": "8ad9a7619121ba6fb535f1068f60c43b29e3034b",
+      "levelid": "custom_level_8ad9a7619121ba6fb535f1068f60c43b29e3034b"
     },
     {
-      "key": "4ffb8",
-      "songName": "Nighthawk22 - Isolation",
-      "hash": "8561b2b9d21ce82d3e7ee9035002b8a564d07548",
-      "levelid": "custom_level_8561b2b9d21ce82d3e7ee9035002b8a564d07548"
+      "key": "5007d",
+      "songName": "Stephen Walking - Glide [Rocket League 2 Pack]",
+      "hash": "41d2f843eea5133b0e920c0350d35b9d4b089ebd",
+      "levelid": "custom_level_41d2f843eea5133b0e920c0350d35b9d4b089ebd"
     },
     {
-      "key": "5001e",
-      "songName": "Nothing Special - Boris with Merzbow",
-      "hash": "fccc4459d2af4d100347dc6bdbb1439397da0d15",
-      "levelid": "custom_level_fccc4459d2af4d100347dc6bdbb1439397da0d15"
+      "key": "5007c",
+      "songName": "Ellis - Orbit [RL2 Pack]",
+      "hash": "5031dc1061fd77919a72e635416d2f41b27f3462",
+      "levelid": "custom_level_5031dc1061fd77919a72e635416d2f41b27f3462"
     },
     {
-      "key": "50019",
-      "songName": "W SPEED",
-      "hash": "27913aac96fac21c3c5c4e1dcd2f75a9684d4585",
-      "levelid": "custom_level_27913aac96fac21c3c5c4e1dcd2f75a9684d4585"
+      "key": "50033",
+      "songName": " Au5 & Chime - Voidwalkers [RL2 Pack]",
+      "hash": "cf4c8db018bffffd500c3fcaa839a1a10ecd6423",
+      "levelid": "custom_level_cf4c8db018bffffd500c3fcaa839a1a10ecd6423"
     },
     {
-      "key": "5000e",
-      "songName": "Remzcore - Busy Town",
-      "hash": "811081304fcaf67b21655036db183f400796fdea",
-      "levelid": "custom_level_811081304fcaf67b21655036db183f400796fdea"
+      "key": "4ffb2",
+      "songName": "Trivecta,Karra-Break Me [RL2 Pack]",
+      "hash": "a4a494007b38c706c7179ab493d4b803a5db86c4",
+      "levelid": "custom_level_a4a494007b38c706c7179ab493d4b803a5db86c4"
     },
     {
-      "key": "5000c",
-      "songName": "bswc diss track (PORTUGAL WILL WIN)",
-      "hash": "89c334383ebac4cf16de186960f9ecc3719224d1",
-      "levelid": "custom_level_89c334383ebac4cf16de186960f9ecc3719224d1"
+      "key": "4faec",
+      "songName": "Darren Styles - Burning Up [RL2 Pack]",
+      "hash": "21eb9316e6262eb2068479ea74ceeb1cd6c09b2c",
+      "levelid": "custom_level_21eb9316e6262eb2068479ea74ceeb1cd6c09b2c"
     },
     {
-      "key": "4fffd",
-      "songName": "Envy - Delirium",
-      "hash": "fed0ac0d37207328fb74b957b301f03d774ade38",
-      "levelid": "custom_level_fed0ac0d37207328fb74b957b301f03d774ade38"
+      "key": "4fedd",
+      "songName": "Tokyo Machine - Fly [RL2 Pack]",
+      "hash": "59b8352f0db8d949d78350842f2e36ac9760b8cd",
+      "levelid": "custom_level_59b8352f0db8d949d78350842f2e36ac9760b8cd"
     },
     {
-      "key": "50001",
-      "songName": "SEVDALIZA - ALIBI (Envy Frenchcore Remix)",
-      "hash": "34320b2965fa05e641e8a3b4e2b52799ab232aaf",
-      "levelid": "custom_level_34320b2965fa05e641e8a3b4e2b52799ab232aaf"
+      "key": "4fccb",
+      "songName": " MUZZ - Horsepower [RL2 Pack]",
+      "hash": "fbc2829ef959e62c0ec5cce489f73675498ad913",
+      "levelid": "custom_level_fbc2829ef959e62c0ec5cce489f73675498ad913"
     },
     {
-      "key": "50000",
-      "songName": "Envy - Un monde parfait",
-      "hash": "7d6939e7b12dfa7013e1d3bd83a7a45047ab0ad6",
-      "levelid": "custom_level_7d6939e7b12dfa7013e1d3bd83a7a45047ab0ad6"
+      "key": "4fa9d",
+      "songName": " Infected Mushroom - Walking On The Moon (Bad Computer Remix) [Rocket League 2 Pack]",
+      "hash": "0c0a0a4710dcdb87ca67bbe12443e26370c6ccbb",
+      "levelid": "custom_level_0c0a0a4710dcdb87ca67bbe12443e26370c6ccbb"
     },
     {
-      "key": "50003",
-      "songName": "sentimental☆lucky girl",
-      "hash": "f8ec7c5cd8bc71cef46e2b2d90281b0d76380f07",
-      "levelid": "custom_level_f8ec7c5cd8bc71cef46e2b2d90281b0d76380f07"
+      "key": "4fca2",
+      "songName": "Slushii, Dion Timmer - Test Me [RL2 Pack]",
+      "hash": "387cb8969979eed60356b5eb7e9913ad6c29572c",
+      "levelid": "custom_level_387cb8969979eed60356b5eb7e9913ad6c29572c"
     },
     {
-      "key": "50002",
-      "songName": "Looking At Me - Nightcore",
-      "hash": "cc3d978ed69577426b8e49f26f44d50bd72bb611",
-      "levelid": "custom_level_cc3d978ed69577426b8e49f26f44d50bd72bb611"
+      "key": "4fca1",
+      "songName": "FWLR - Bust It Out [RL2 Pack]",
+      "hash": "b11bafdfa48e164ea2bd4cb94a7feb2807b5fba0",
+      "levelid": "custom_level_b11bafdfa48e164ea2bd4cb94a7feb2807b5fba0"
     },
     {
-      "key": "4fffa",
-      "songName": "Run That - KJUNTO",
-      "hash": "18a49134f14bef368d2df9948454cd821c2dddb2",
-      "levelid": "custom_level_18a49134f14bef368d2df9948454cd821c2dddb2"
+      "key": "4fc6d",
+      "songName": "Dion Timmer - Shiawase [Rocket League 2 Pack]",
+      "hash": "128a82f4a08050d204027318b4b30d380c5069ee",
+      "levelid": "custom_level_128a82f4a08050d204027318b4b30d380c5069ee"
     },
     {
-      "key": "4fff4",
-      "songName": "Bill Gates - By The Seaside",
-      "hash": "671012e56090e64ff63a45cb48cc8c347a4443f6",
-      "levelid": "custom_level_671012e56090e64ff63a45cb48cc8c347a4443f6"
+      "key": "4faed",
+      "songName": "Pegboard Nerds - Disconnected [RL2 Pack]",
+      "hash": "2791d8b13e035d4f4a0f40e29d9eb8366fc74be8",
+      "levelid": "custom_level_2791d8b13e035d4f4a0f40e29d9eb8366fc74be8"
     },
     {
-      "key": "4ffeb",
-      "songName": "{Alternative Psycho Pack} Layto - end of the road",
-      "hash": "95b4bb0301e7525be23aa1c36a18ed132b07d4e8",
-      "levelid": "custom_level_95b4bb0301e7525be23aa1c36a18ed132b07d4e8"
+      "key": "4fa95",
+      "songName": "Tokyo Machine - ROCK IT [Rocket League 2 Pack]",
+      "hash": "993da40010ecacdaa364036d91f7118479fbd0c5",
+      "levelid": "custom_level_993da40010ecacdaa364036d91f7118479fbd0c5"
     },
     {
-      "key": "4ffe9",
-      "songName": "Mouth",
-      "hash": "decb0ead93c242f924d8f5f94ff2ac6b271223ad",
-      "levelid": "custom_level_decb0ead93c242f924d8f5f94ff2ac6b271223ad"
+      "key": "50099",
+      "songName": "[Chroma] Set It Off - \"Rotten\"",
+      "hash": "ed82ee04793fbb63673133bf7f7eee5d0ed975b5",
+      "levelid": "custom_level_ed82ee04793fbb63673133bf7f7eee5d0ed975b5"
     },
     {
-      "key": "4ffe8",
-      "songName": "PoPiPo - Hatsune Miku",
-      "hash": "b0dded95a98828d9202cb9bed6a9f719f1a45323",
-      "levelid": "custom_level_b0dded95a98828d9202cb9bed6a9f719f1a45323"
+      "key": "50098",
+      "songName": "Grain Buds",
+      "hash": "379e1c2ef9c50d05008e3c710b2b650a541cd782",
+      "levelid": "custom_level_379e1c2ef9c50d05008e3c710b2b650a541cd782"
     },
     {
-      "key": "4ffe7",
-      "songName": "Dadadadadaru - Amala",
-      "hash": "bbdd1c29b8b07cb2b9f2b4da6e0ee04f2db91f95",
-      "levelid": "custom_level_bbdd1c29b8b07cb2b9f2b4da6e0ee04f2db91f95"
+      "key": "50097",
+      "songName": "Wicked and Wild",
+      "hash": "97540f89e0b90de592d043bf85f2773977e56c42",
+      "levelid": "custom_level_97540f89e0b90de592d043bf85f2773977e56c42"
     },
     {
-      "key": "4ffe5",
-      "songName": "Take A Rest",
-      "hash": "21fec4cc10b7b616d5f2065d0bb3484abb0d2816",
-      "levelid": "custom_level_21fec4cc10b7b616d5f2065d0bb3484abb0d2816"
+      "key": "50095",
+      "songName": "orchids challenge",
+      "hash": "b6b889dfafd2a147ab13a53336681a56025e0b2c",
+      "levelid": "custom_level_b6b889dfafd2a147ab13a53336681a56025e0b2c"
     },
     {
-      "key": "4ffe3",
-      "songName": "[Brain Power Pack] NOMA - Brain Power (Synthion Cover Remix)",
-      "hash": "f71fa5078869c6bebe6a19a600a3cee07c03d474",
-      "levelid": "custom_level_f71fa5078869c6bebe6a19a600a3cee07c03d474"
+      "key": "50092",
+      "songName": "goodbye",
+      "hash": "55f6bb8f4c8623d202c02bcaf85a362e81537235",
+      "levelid": "custom_level_55f6bb8f4c8623d202c02bcaf85a362e81537235"
     },
     {
-      "key": "4ffe2",
-      "songName": "Who Want Challenger",
-      "hash": "23767a45e49bbe93b7467d7f313970257ef6160a",
-      "levelid": "custom_level_23767a45e49bbe93b7467d7f313970257ef6160a"
+      "key": "50090",
+      "songName": " -45 - Aci-L",
+      "hash": "ea6f6487ffb23f79c4bacd0f2a6018efe5df9c84",
+      "levelid": "custom_level_ea6f6487ffb23f79c4bacd0f2a6018efe5df9c84"
     },
     {
-      "key": "4ffde",
-      "songName": "6arelyhuman - Faster n Harder",
-      "hash": "b7bb8e1cdd237520a911c267829ad390dbb5eccf",
-      "levelid": "custom_level_b7bb8e1cdd237520a911c267829ad390dbb5eccf"
+      "key": "5008f",
+      "songName": "-45 - Midorigo Queen Bee",
+      "hash": "e7540547e1bacd2ddb2b33563530d6383eff4ad6",
+      "levelid": "custom_level_e7540547e1bacd2ddb2b33563530d6383eff4ad6"
     },
     {
-      "key": "4ffdd",
-      "songName": "Magdalena Bay - That's My Floor",
-      "hash": "5c18a1514db48d572aeb8b76c7d1c216c83cd831",
-      "levelid": "custom_level_5c18a1514db48d572aeb8b76c7d1c216c83cd831"
+      "key": "50089",
+      "songName": "Juice WRLD - All Girls Are The Same",
+      "hash": "d65d2e929251724ac446d0ea2ddda8a6ca84e243",
+      "levelid": "custom_level_d65d2e929251724ac446d0ea2ddda8a6ca84e243"
     },
     {
-      "key": "4ffdb",
-      "songName": "Getting dumped 2 skrillex remix",
-      "hash": "3272ee5a119819c5d2f1196b7faf584e7cb72af7",
-      "levelid": "custom_level_3272ee5a119819c5d2f1196b7faf584e7cb72af7"
+      "key": "50088",
+      "songName": "yeah this is dead",
+      "hash": "6175a6cf72e777f306a0364d0b7b7b9a6755021b",
+      "levelid": "custom_level_6175a6cf72e777f306a0364d0b7b7b9a6755021b"
     },
     {
-      "key": "4ffd9",
-      "songName": "Freddy FiVe Night afasb red",
-      "hash": "5f3f629860f7272d7740c0d678c5b48a895ae2e7",
-      "levelid": "custom_level_5f3f629860f7272d7740c0d678c5b48a895ae2e7"
+      "key": "50085",
+      "songName": "Foo Fighters - Everlong",
+      "hash": "69d88c767c1298a25c01cc9bd547d7a46155d6ea",
+      "levelid": "custom_level_69d88c767c1298a25c01cc9bd547d7a46155d6ea"
     },
     {
-      "key": "4ffd6",
-      "songName": "-LeMU Far Away Continent of Lemuria-(Ever17 Opening)",
-      "hash": "0674073ad85d2bb993d8da0886d5f39288ba3657",
-      "levelid": "custom_level_0674073ad85d2bb993d8da0886d5f39288ba3657"
+      "key": "50080",
+      "songName": "Looping the Rooms",
+      "hash": "3b77a6b78cc42d4b873306ae0e849cca562bd9de",
+      "levelid": "custom_level_3b77a6b78cc42d4b873306ae0e849cca562bd9de"
     },
     {
-      "key": "4ffd5",
-      "songName": "Jack Black + Crew - The Ballad of Super Mario",
-      "hash": "ddc2c5e9f77aaf6d615b9d72ea8c43d6ac995a06",
-      "levelid": "custom_level_ddc2c5e9f77aaf6d615b9d72ea8c43d6ac995a06"
+      "key": "50077",
+      "songName": "Ihsahn - Until I Too Dissolve",
+      "hash": "7121edcad198ad3473dfec434196df786b7e09f1",
+      "levelid": "custom_level_7121edcad198ad3473dfec434196df786b7e09f1"
+    },
+    {
+      "key": "50076",
+      "songName": "Monster Hunter World Iceborne - Tigrex Roaring Wyvern with Bared Fangs",
+      "hash": "856b988918d10080d37535c18d66acebb4f37a3b",
+      "levelid": "custom_level_856b988918d10080d37535c18d66acebb4f37a3b"
+    },
+    {
+      "key": "50073",
+      "songName": "Tame Impala - The Less I Know The Better",
+      "hash": "e58f0fb39cc5e9dafb433eb7efe62cb831c5ec5f",
+      "levelid": "custom_level_e58f0fb39cc5e9dafb433eb7efe62cb831c5ec5f"
+    },
+    {
+      "key": "50072",
+      "songName": "100文字以内のミライ",
+      "hash": "4e6b5edcfdecc901abbc62ba3f1b97fa211763ac",
+      "levelid": "custom_level_4e6b5edcfdecc901abbc62ba3f1b97fa211763ac"
+    },
+    {
+      "key": "50070",
+      "songName": "The Beatles Bloopers ",
+      "hash": "e0516b4e7a62ccba06cd1ed01bea329a22cd9728",
+      "levelid": "custom_level_e0516b4e7a62ccba06cd1ed01bea329a22cd9728"
+    },
+    {
+      "key": "5006e",
+      "songName": "BLJ",
+      "hash": "abaf127c7c03967663acf96220af159dbd2c1887",
+      "levelid": "custom_level_abaf127c7c03967663acf96220af159dbd2c1887"
+    },
+    {
+      "key": "5006f",
+      "songName": "[700BPM] Fvrwvrd - Extra Credit on the Extratone Test!",
+      "hash": "43380dc350ca31666650749b849d67682593daa2",
+      "levelid": "custom_level_43380dc350ca31666650749b849d67682593daa2"
+    },
+    {
+      "key": "5006c",
+      "songName": "[JBSL] tn-shi - Synthesis. [DANCE MAP] ",
+      "hash": "03a3aa4e1b03795f863e74291a80a6673cb036ca",
+      "levelid": "custom_level_03a3aa4e1b03795f863e74291a80a6673cb036ca"
     }
   ],
   "image": ""
