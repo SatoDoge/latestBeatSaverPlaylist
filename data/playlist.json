@@ -1,220 +1,250 @@
 {
-  "playlistTitle": "2026-04-08T15:19:15.644Z~2026-04-09T15:19:15.644Z",
+  "playlistTitle": "2026-04-09T15:18:50.316Z~2026-04-10T15:18:50.316Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-04-08T15:19:15.644Z and 2026-04-09T15:19:15.644Z",
+  "discripstion": "Maps published between 2026-04-09T15:18:50.316Z and 2026-04-10T15:18:50.316Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "50332",
-      "songName": "mistake - lots of hands",
-      "hash": "ba30a5dc59acf909ad48e4c2a2b36aa186af0b43",
-      "levelid": "custom_level_ba30a5dc59acf909ad48e4c2a2b36aa186af0b43"
+      "key": "503f4",
+      "songName": "おどれフルファイアー",
+      "hash": "05675994404345220409e748d0b2cc22f35d1888",
+      "levelid": "custom_level_05675994404345220409e748d0b2cc22f35d1888"
     },
     {
-      "key": "5032d",
-      "songName": "Chiharu Kaneko & t+pazolite -  UROSOUSETSU",
-      "hash": "f6117b555232165ef1b16495584bf134d07ef806",
-      "levelid": "custom_level_f6117b555232165ef1b16495584bf134d07ef806"
+      "key": "503f3",
+      "songName": "chadlite - ifwmyglokk",
+      "hash": "2857680f53c90a25d344eb344fa166c0b2812a56",
+      "levelid": "custom_level_2857680f53c90a25d344eb344fa166c0b2812a56"
     },
     {
-      "key": "5032a",
-      "songName": "Les Rallizes Dénudés - Deeper Than The Night (Yaneura Oct.’80)",
-      "hash": "7037498d7589f3da33d2514c1434fe0b0a6c9989",
-      "levelid": "custom_level_7037498d7589f3da33d2514c1434fe0b0a6c9989"
+      "key": "503f0",
+      "songName": "Dance Gavin Dance - Strawberry's Daughters",
+      "hash": "f4765a59e268a414464a39548e9e3978d2ac1162",
+      "levelid": "custom_level_f4765a59e268a414464a39548e9e3978d2ac1162"
     },
     {
-      "key": "50329",
-      "songName": "Hiiragi Magnetite × 9Lana × Eye - Fake marriage",
-      "hash": "83b71b62792d2e8f0865a2a70731f0d5a8e0ae49",
-      "levelid": "custom_level_83b71b62792d2e8f0865a2a70731f0d5a8e0ae49"
+      "key": "503e9",
+      "songName": "SURVIVOR - PARG",
+      "hash": "17655296d5fe4d29a1b0782a90f75e6545df13c5",
+      "levelid": "custom_level_17655296d5fe4d29a1b0782a90f75e6545df13c5"
     },
     {
-      "key": "50327",
-      "songName": "Teary Planet - HELLO, NEW WORLD!",
-      "hash": "a8e03feb86b4893c839aa15247dae42ab13069c0",
-      "levelid": "custom_level_a8e03feb86b4893c839aa15247dae42ab13069c0"
+      "key": "503eb",
+      "songName": "34 real trust",
+      "hash": "52e808ef66ec22cdeea292f5135359220f69b0ee",
+      "levelid": "custom_level_52e808ef66ec22cdeea292f5135359220f69b0ee"
     },
     {
-      "key": "50328",
-      "songName": "LUV DRUG - gins&melodies",
-      "hash": "84787edb2280f8c992c76fae09dd127f845c2fde",
-      "levelid": "custom_level_84787edb2280f8c992c76fae09dd127f845c2fde"
+      "key": "503e0",
+      "songName": "Arash - Temptation (feat. Rebecca) (Nightcore Mix)",
+      "hash": "bd23aa4828ed27d98be6ec6066c5e070ce5334d2",
+      "levelid": "custom_level_bd23aa4828ed27d98be6ec6066c5e070ce5334d2"
     },
     {
-      "key": "50326",
-      "songName": "The Most Beautiful Thing - Bruno Major",
-      "hash": "707c6763ea2ac59efde3879fd7f189c78366b326",
-      "levelid": "custom_level_707c6763ea2ac59efde3879fd7f189c78366b326"
+      "key": "503df",
+      "songName": "wqeqew",
+      "hash": "f13c4d9d766f2c8b43d0d3d6913e139f9743ccc8",
+      "levelid": "custom_level_f13c4d9d766f2c8b43d0d3d6913e139f9743ccc8"
     },
     {
-      "key": "50324",
-      "songName": "Magia (魔法少女まどか☆マギカ ED)",
-      "hash": "fc861b5321863a28352790c19e580a0e635547a2",
-      "levelid": "custom_level_fc861b5321863a28352790c19e580a0e635547a2"
+      "key": "503de",
+      "songName": "MiiNDS - Little Spoon",
+      "hash": "c290ca3e043629940767473a4a2af3f8aa1e688f",
+      "levelid": "custom_level_c290ca3e043629940767473a4a2af3f8aa1e688f"
     },
     {
-      "key": "50322",
-      "songName": "Smosh - ASSASSIN'S CREED 4 SONG (Pirate Life)",
-      "hash": "b25336ccd3a0993889919c109692e13326ccc300",
-      "levelid": "custom_level_b25336ccd3a0993889919c109692e13326ccc300"
+      "key": "503dd",
+      "songName": "Nobody",
+      "hash": "26a85cf8f116c9c826edb12426b9714a5970bc58",
+      "levelid": "custom_level_26a85cf8f116c9c826edb12426b9714a5970bc58"
     },
     {
-      "key": "50321",
-      "songName": "underscores - Spoiled little brat",
-      "hash": "5eae9bd38fe4ea6f64ced9a4ef8ad5a5a562b149",
-      "levelid": "custom_level_5eae9bd38fe4ea6f64ced9a4ef8ad5a5a562b149"
+      "key": "503dc",
+      "songName": "鴛鴦戲",
+      "hash": "57ce96ea7c4ebdeb4d8dee7594ed21950765d5ca",
+      "levelid": "custom_level_57ce96ea7c4ebdeb4d8dee7594ed21950765d5ca"
     },
     {
-      "key": "50320",
-      "songName": "TENSAI KAWAII DAIYUUSYOU",
-      "hash": "59d6cdb3a3730811dd7e0aa180a72a2ac5041dc6",
-      "levelid": "custom_level_59d6cdb3a3730811dd7e0aa180a72a2ac5041dc6"
+      "key": "503da",
+      "songName": "雄之助-自律向き愛(feat.兩衣)",
+      "hash": "0e2fa9a065edba18f4c49a8a796eef0de3eafe80",
+      "levelid": "custom_level_0e2fa9a065edba18f4c49a8a796eef0de3eafe80"
     },
     {
-      "key": "5031f",
-      "songName": "Dang",
-      "hash": "d0cdca07bb0403f06915bf653f65169d4cb53ae1",
-      "levelid": "custom_level_d0cdca07bb0403f06915bf653f65169d4cb53ae1"
+      "key": "503d8",
+      "songName": "Breezer (Trust me this isnt from extra sensory II)",
+      "hash": "a683f6a6aaf9a41be7793329e3b791fafc74e622",
+      "levelid": "custom_level_a683f6a6aaf9a41be7793329e3b791fafc74e622"
     },
     {
-      "key": "5031c",
-      "songName": "^Bassment",
-      "hash": "26220d506849d7aab38150c4ddef5b363084623b",
-      "levelid": "custom_level_26220d506849d7aab38150c4ddef5b363084623b"
+      "key": "503d7",
+      "songName": "bbno$ - 1-800 (ft. Ironmouse)",
+      "hash": "d0fdc6a38cbcd80f57a583858963235e5fe7c2d4",
+      "levelid": "custom_level_d0fdc6a38cbcd80f57a583858963235e5fe7c2d4"
     },
     {
-      "key": "5031a",
-      "songName": "stalk your socials - s0rrow",
-      "hash": "6040ea9101e088ea5979b1feaac911f4324de8d8",
-      "levelid": "custom_level_6040ea9101e088ea5979b1feaac911f4324de8d8"
+      "key": "503d6",
+      "songName": "Buzz Buzz Buzz (ぶんぶんぶん)",
+      "hash": "3eb12eccd381a61a44581072e5f74c0b43e69ed8",
+      "levelid": "custom_level_3eb12eccd381a61a44581072e5f74c0b43e69ed8"
     },
     {
-      "key": "5031b",
-      "songName": "Passion Pit - Sleepyhead (cut)",
-      "hash": "fd8fb34ad8f9f72ac253fe432615e04ab732897b",
-      "levelid": "custom_level_fd8fb34ad8f9f72ac253fe432615e04ab732897b"
+      "key": "503d5",
+      "songName": "ルミナス (劇場版 魔法少女まどか☆マギカ OP)",
+      "hash": "9292c5d760b848f1375aa2d428a6a36c6ceaeaef",
+      "levelid": "custom_level_9292c5d760b848f1375aa2d428a6a36c6ceaeaef"
     },
     {
-      "key": "50319",
-      "songName": "Disillusioned - Daniel Caesar",
-      "hash": "0fd0cb6dfa124071b5c4cae1b2c3b117c3aa4f51",
-      "levelid": "custom_level_0fd0cb6dfa124071b5c4cae1b2c3b117c3aa4f51"
+      "key": "503d4",
+      "songName": "A GRAVE SOUL (NOW RUN)",
+      "hash": "e92b347de1c03dd3cd0e7da2e539bbb4c0a69d07",
+      "levelid": "custom_level_e92b347de1c03dd3cd0e7da2e539bbb4c0a69d07"
     },
     {
-      "key": "50312",
-      "songName": "Smash Into Pieces - Real One",
-      "hash": "ad51075ecd1fed0d249399821d082e65465c8771",
-      "levelid": "custom_level_ad51075ecd1fed0d249399821d082e65465c8771"
+      "key": "503d2",
+      "songName": "Season 2019",
+      "hash": "e72b2ae3755e5291a6cfc9658754920c9eb475f4",
+      "levelid": "custom_level_e72b2ae3755e5291a6cfc9658754920c9eb475f4"
     },
     {
-      "key": "5030f",
-      "songName": "ワスレナグサ",
-      "hash": "467a45bd4f0af3837e19cc90c08a2a1d48542e0e",
-      "levelid": "custom_level_467a45bd4f0af3837e19cc90c08a2a1d48542e0e"
+      "key": "503cf",
+      "songName": "FAKE - AI ft. Namie Amuro",
+      "hash": "54594fc5640999b5e0bf1de18012f8f4ca012126",
+      "levelid": "custom_level_54594fc5640999b5e0bf1de18012f8f4ca012126"
     },
     {
-      "key": "5030e",
-      "songName": "Lonely - StevieWRLD",
-      "hash": "12ab6fbff3c93d65eb4b2e7cabc9ad9a42b8dc95",
-      "levelid": "custom_level_12ab6fbff3c93d65eb4b2e7cabc9ad9a42b8dc95"
+      "key": "503cd",
+      "songName": "Armored Tank",
+      "hash": "6109dc272b69def0ec685672208499e390c61a1c",
+      "levelid": "custom_level_6109dc272b69def0ec685672208499e390c61a1c"
     },
     {
-      "key": "5030c",
-      "songName": "Tip Toe - HYBS",
-      "hash": "33c0c2ba73edf2fe04a9c812ba9c79fc5f43faba",
-      "levelid": "custom_level_33c0c2ba73edf2fe04a9c812ba9c79fc5f43faba"
+      "key": "5037a",
+      "songName": "DOKUZU",
+      "hash": "f66e043df6622fd5cb2c28f3d7783eb3ae3e18dc",
+      "levelid": "custom_level_f66e043df6622fd5cb2c28f3d7783eb3ae3e18dc"
     },
     {
-      "key": "5030a",
-      "songName": "double take - dhruv",
-      "hash": "d79ed420a4724482c1620ba9f640929bb0ad17fe",
-      "levelid": "custom_level_d79ed420a4724482c1620ba9f640929bb0ad17fe"
+      "key": "50336",
+      "songName": "Lucky Loud - Hololive ReGLOSS",
+      "hash": "b2cfdb80e4777a81b15ca28df1e15c8c500d110a",
+      "levelid": "custom_level_b2cfdb80e4777a81b15ca28df1e15c8c500d110a"
     },
     {
-      "key": "50308",
-      "songName": "Xylobone: Revenge of the Skelephone - Tanger",
-      "hash": "40a9cb0d3f661f24c336400638e8d6b377750be6",
-      "levelid": "custom_level_40a9cb0d3f661f24c336400638e8d6b377750be6"
+      "key": "50371",
+      "songName": "Diabarha - At Night (full version) [13A - Fresh Meat]",
+      "hash": "7c82761ab07d252a478f59c9ce1bd54f051760bd",
+      "levelid": "custom_level_7c82761ab07d252a478f59c9ce1bd54f051760bd"
     },
     {
-      "key": "50306",
-      "songName": "天才カワイイ大優勝！ / 初音ミク",
-      "hash": "b1ddec00e0f6f1e6063cb2079b6b36c6fa2bcb5d",
-      "levelid": "custom_level_b1ddec00e0f6f1e6063cb2079b6b36c6fa2bcb5d"
+      "key": "50370",
+      "songName": "@frurbancomb - New Project",
+      "hash": "49141f11c02a119c838761d87fc8acca8540dfea",
+      "levelid": "custom_level_49141f11c02a119c838761d87fc8acca8540dfea"
     },
     {
-      "key": "50301",
-      "songName": "armed and ready",
-      "hash": "1d9934e96c27b97a409241c5a7b47bbb2a02e631",
-      "levelid": "custom_level_1d9934e96c27b97a409241c5a7b47bbb2a02e631"
+      "key": "50356",
+      "songName": "[Lightshow] U2 - Song for Someone",
+      "hash": "2ccd71a908f2cb45bf6cfd73085a9850d0746a01",
+      "levelid": "custom_level_2ccd71a908f2cb45bf6cfd73085a9850d0746a01"
     },
     {
-      "key": "50300",
-      "songName": "HOLD ON",
-      "hash": "3cac08fcbdc88a70bd654900562a7fe3679e6c37",
-      "levelid": "custom_level_3cac08fcbdc88a70bd654900562a7fe3679e6c37"
+      "key": "50369",
+      "songName": "Cassie-Me & U",
+      "hash": "9b147bf21cdc5431d4085cddb0eebf4008c5e305",
+      "levelid": "custom_level_9b147bf21cdc5431d4085cddb0eebf4008c5e305"
     },
     {
-      "key": "502ff",
-      "songName": "Wrongside Out Everyday! (Wrongside Outimal Theme Song)",
-      "hash": "6d1600f39a60b364201edd0b2e916dd4c02b5ab6",
-      "levelid": "custom_level_6d1600f39a60b364201edd0b2e916dd4c02b5ab6"
+      "key": "50368",
+      "songName": "1, 2, 3, or 4 in the chat",
+      "hash": "91916eae6adbeaf09aee35e5dbaf972211190fb3",
+      "levelid": "custom_level_91916eae6adbeaf09aee35e5dbaf972211190fb3"
     },
     {
-      "key": "502fe",
-      "songName": "Temper City - Self Aware",
-      "hash": "338a0c38c826eb581917d84b7f6c3c27f8ead15e",
-      "levelid": "custom_level_338a0c38c826eb581917d84b7f6c3c27f8ead15e"
+      "key": "5035c",
+      "songName": "rejection - Signal (feat. Such)",
+      "hash": "5f0413730bb0b557c7734b6b0dedda37183a87e3",
+      "levelid": "custom_level_5f0413730bb0b557c7734b6b0dedda37183a87e3"
     },
     {
-      "key": "502fd",
-      "songName": "10 rots challenge",
-      "hash": "73c1ee2056fbe850989590b78a8e52de0cfa24f6",
-      "levelid": "custom_level_73c1ee2056fbe850989590b78a8e52de0cfa24f6"
+      "key": "5035a",
+      "songName": "THE ORAL CIGARETTES - Kyouran Hey Kids!! (Noragami Aragoto - Official Opening)",
+      "hash": "64ff021bbcc11bcc55b7442a7715d5830c8d8fbd",
+      "levelid": "custom_level_64ff021bbcc11bcc55b7442a7715d5830c8d8fbd"
     },
     {
-      "key": "502fc",
-      "songName": "1 rot challenge",
-      "hash": "d5081c06c8ab4b896c24038a66914264f8af6946",
-      "levelid": "custom_level_d5081c06c8ab4b896c24038a66914264f8af6946"
+      "key": "50355",
+      "songName": "Fan Behind the Slaughter ",
+      "hash": "037521b5780157178ef770e5aa9d9f8aed68fa83",
+      "levelid": "custom_level_037521b5780157178ef770e5aa9d9f8aed68fa83"
     },
     {
-      "key": "502fb",
-      "songName": "six impala - ¿?¿ floating point ?¿?",
-      "hash": "d1bac71b0cb2bd58edd6238277d03eff9ffda059",
-      "levelid": "custom_level_d1bac71b0cb2bd58edd6238277d03eff9ffda059"
+      "key": "50354",
+      "songName": "slat - I played rec room with a harmonica?!?",
+      "hash": "3864484dc3954f1655d04d5f49311ed1264624ce",
+      "levelid": "custom_level_3864484dc3954f1655d04d5f49311ed1264624ce"
     },
     {
-      "key": "502f8",
-      "songName": "Screaming Tree Chicken ",
-      "hash": "7668800f18ba0da4cb0a6c0d2cce4a7ee4a121ac",
-      "levelid": "custom_level_7668800f18ba0da4cb0a6c0d2cce4a7ee4a121ac"
+      "key": "5034d",
+      "songName": "エピクロスの虹はもう見えない（東方）/Epikurosu no niji wa mou mienai(touhou)",
+      "hash": "18dbbe791c3e5f22b94d87c1e86bb4c977df9944",
+      "levelid": "custom_level_18dbbe791c3e5f22b94d87c1e86bb4c977df9944"
     },
     {
-      "key": "502f7",
-      "songName": "fissa x 13",
-      "hash": "82e44888d2ee78f1af5b099c8d076a1774cc6e53",
-      "levelid": "custom_level_82e44888d2ee78f1af5b099c8d076a1774cc6e53"
+      "key": "5034b",
+      "songName": "Bad Romance (Caochella ver.)",
+      "hash": "fd19e5613b50e8db0822b7d7ad6084bfba8fa922",
+      "levelid": "custom_level_fd19e5613b50e8db0822b7d7ad6084bfba8fa922"
     },
     {
-      "key": "502f6",
-      "songName": "Norgaard",
-      "hash": "97324e6f4373a6e66997191e5946be4d1bbedc8f",
-      "levelid": "custom_level_97324e6f4373a6e66997191e5946be4d1bbedc8f"
+      "key": "50345",
+      "songName": "Welcome to Lego Worlds",
+      "hash": "11c108c1b3bca3a7de94468872483b529c23a876",
+      "levelid": "custom_level_11c108c1b3bca3a7de94468872483b529c23a876"
     },
     {
-      "key": "502f0",
-      "songName": "The Living Tombstone - Cats (Nightcore & Cut Ver.)",
-      "hash": "96bc6eec3114191e4b50d0423075f7478f673124",
-      "levelid": "custom_level_96bc6eec3114191e4b50d0423075f7478f673124"
+      "key": "50340",
+      "songName": "Kevin Abstract, Quadeca - Abandon Me",
+      "hash": "313dcec07c3d93e13c885348831dff239e6cc0b8",
+      "levelid": "custom_level_313dcec07c3d93e13c885348831dff239e6cc0b8"
     },
     {
-      "key": "502ef",
-      "songName": "Anise and Sally",
-      "hash": "43bf4b4f5ed7e4ad46d3f39974a592a61fde1973",
-      "levelid": "custom_level_43bf4b4f5ed7e4ad46d3f39974a592a61fde1973"
+      "key": "5033f",
+      "songName": "1",
+      "hash": "a8ff61e793006cc96ea247dd344fc2bd683f6ffa",
+      "levelid": "custom_level_a8ff61e793006cc96ea247dd344fc2bd683f6ffa"
+    },
+    {
+      "key": "5033e",
+      "songName": "Various Artists - Shy Guy Beach (From \"Mario Kart World\")",
+      "hash": "213837c176718d080de727cd81c1b663e2e2c287",
+      "levelid": "custom_level_213837c176718d080de727cd81c1b663e2e2c287"
+    },
+    {
+      "key": "5033d",
+      "songName": "crafter2011 - deepslate sucks (Tiny Ween Edit)",
+      "hash": "52184bc09d736d8e5c62d94028c8ea33ab710a91",
+      "levelid": "custom_level_52184bc09d736d8e5c62d94028c8ea33ab710a91"
+    },
+    {
+      "key": "5033c",
+      "songName": "i put the gun to my head - feelslikehome",
+      "hash": "55febc15de11b933ae6dfc38f9608f6451cd7f2e",
+      "levelid": "custom_level_55febc15de11b933ae6dfc38f9608f6451cd7f2e"
+    },
+    {
+      "key": "50338",
+      "songName": "Bridgit Mendler - Ready or Not",
+      "hash": "1ac19fe99442521ae4c23572b77b1a4f377e0f4e",
+      "levelid": "custom_level_1ac19fe99442521ae4c23572b77b1a4f377e0f4e"
+    },
+    {
+      "key": "50334",
+      "songName": "whats the point - s0rrow",
+      "hash": "d74ded27ffd8d2f5a2526817c21804f2a610f5b9",
+      "levelid": "custom_level_d74ded27ffd8d2f5a2526817c21804f2a610f5b9"
     }
   ],
   "image": ""
