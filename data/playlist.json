@@ -1,202 +1,190 @@
 {
-  "playlistTitle": "2026-04-13T15:18:48.958Z~2026-04-14T15:18:48.958Z",
+  "playlistTitle": "2026-04-14T15:18:48.175Z~2026-04-15T15:18:48.175Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-04-13T15:18:48.958Z and 2026-04-14T15:18:48.958Z",
+  "discripstion": "Maps published between 2026-04-14T15:18:48.175Z and 2026-04-15T15:18:48.175Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "505aa",
-      "songName": "Bink's Brew - One Piece German",
-      "hash": "5ff979dd812c566af51a10afbd5779d595b3d4b6",
-      "levelid": "custom_level_5ff979dd812c566af51a10afbd5779d595b3d4b6"
+      "key": "505ce",
+      "songName": "bear5 alert remix",
+      "hash": "8c1b83f836b5ae4c65b1c36e598bb4f9cc2783f7",
+      "levelid": "custom_level_8c1b83f836b5ae4c65b1c36e598bb4f9cc2783f7"
     },
     {
-      "key": "505a8",
-      "songName": "English or Spanish ",
-      "hash": "99b165a4dc4115bea8d7fe3b073a16ea8ce16c8e",
-      "levelid": "custom_level_99b165a4dc4115bea8d7fe3b073a16ea8ce16c8e"
+      "key": "505e3",
+      "songName": "ノンブレス・オブリージュ - Nightcore Remix",
+      "hash": "ac6d172ecbfcb349c0344a165d6c285798cdad06",
+      "levelid": "custom_level_ac6d172ecbfcb349c0344a165d6c285798cdad06"
     },
     {
-      "key": "505a5",
-      "songName": "[Chroma+] TWS - hey! hey!",
-      "hash": "ad1933dea833bf7b976d1b27d3978c5dc86c6d5b",
-      "levelid": "custom_level_ad1933dea833bf7b976d1b27d3978c5dc86c6d5b"
+      "key": "505e2",
+      "songName": "Domination - Pantera",
+      "hash": "c20b1058a2d81c22642b9c6134e93762507b6904",
+      "levelid": "custom_level_c20b1058a2d81c22642b9c6134e93762507b6904"
     },
     {
-      "key": "505a4",
-      "songName": "uma - Keep It Up",
-      "hash": "2712675e445c6dcb1ada6ac895d2c569044b5959",
-      "levelid": "custom_level_2712675e445c6dcb1ada6ac895d2c569044b5959"
+      "key": "505e1",
+      "songName": "Sneakers O'Toole",
+      "hash": "33fc0965439dc5c522f3bbabd7168b67f22a654e",
+      "levelid": "custom_level_33fc0965439dc5c522f3bbabd7168b67f22a654e"
     },
     {
-      "key": "505a1",
-      "songName": "TIGER DROOL - SABER TOOTH (QUIX Remix) [Wod Mada Flip] (Nightcore mix)",
-      "hash": "6daea32b9d04d6c6fbb0ed927415d9959f5c260d",
-      "levelid": "custom_level_6daea32b9d04d6c6fbb0ed927415d9959f5c260d"
+      "key": "505e0",
+      "songName": "Coochie and Gucci",
+      "hash": "a2bb75738c707afbde5dd055f273007152d94247",
+      "levelid": "custom_level_a2bb75738c707afbde5dd055f273007152d94247"
     },
     {
-      "key": "5059d",
-      "songName": "ADD (feat. Emilia Ali)",
-      "hash": "0a95fbf162d2b2929c7b8e9bb98415b00b4d5d3c",
-      "levelid": "custom_level_0a95fbf162d2b2929c7b8e9bb98415b00b4d5d3c"
+      "key": "505df",
+      "songName": "ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "hash": "6b4ae4f8da7c28a5aa133cbd5cd038c92330218d",
+      "levelid": "custom_level_6b4ae4f8da7c28a5aa133cbd5cd038c92330218d"
     },
     {
-      "key": "5059b",
-      "songName": "Crazy = Genius",
-      "hash": "3c54407359984a1d8d34521d7ba76a88f859abb5",
-      "levelid": "custom_level_3c54407359984a1d8d34521d7ba76a88f859abb5"
+      "key": "505de",
+      "songName": "Orchid - Anna Karina",
+      "hash": "fa112d62a282a55302dddf5e7350c1d9e2328fd4",
+      "levelid": "custom_level_fa112d62a282a55302dddf5e7350c1d9e2328fd4"
     },
     {
-      "key": "50599",
-      "songName": "凑热闹(COU RE NAO)-Get Together",
-      "hash": "b62c0068f18ba285c3c11853cf83f242bdda1d97",
-      "levelid": "custom_level_b62c0068f18ba285c3c11853cf83f242bdda1d97"
+      "key": "505dd",
+      "songName": "Kyutatsuki - material Crystallizer",
+      "hash": "9d09886b193058382118f03e914fea0f3bb8f7f8",
+      "levelid": "custom_level_9d09886b193058382118f03e914fea0f3bb8f7f8"
     },
     {
-      "key": "50598",
-      "songName": "うつろい (マギアレコード 魔法少女まどか☆マギカ外伝 第2部 OP)",
-      "hash": "381bc8fc1200f8df2ad677b4fc48b2e060abb86d",
-      "levelid": "custom_level_381bc8fc1200f8df2ad677b4fc48b2e060abb86d"
+      "key": "505dc",
+      "songName": "BBpanzu - BANG BANG BANG - Chainsaw Man Song (ft. starxrayne & JamsDX)",
+      "hash": "67bcb7a49c7080ca382d41bc39bf987f1764ea76",
+      "levelid": "custom_level_67bcb7a49c7080ca382d41bc39bf987f1764ea76"
     },
     {
-      "key": "50597",
-      "songName": "I Hate People (XL Version) (v3 Lights) - Willow Pill",
-      "hash": "127795f05239455f1ef7c0f4ace3c07e45cfdc6b",
-      "levelid": "custom_level_127795f05239455f1ef7c0f4ace3c07e45cfdc6b"
+      "key": "505da",
+      "songName": "Various Artists - Wario Stadium (From \"Mario Kart World\")",
+      "hash": "98a7f29ceb94ab0a20ed7bfbc36d0794f14118ef",
+      "levelid": "custom_level_98a7f29ceb94ab0a20ed7bfbc36d0794f14118ef"
     },
     {
-      "key": "50594",
-      "songName": "EYEDRESS -  Romantic Lover",
-      "hash": "9881eecdf21e0bfdbcecda47321612ec3e7b9296",
-      "levelid": "custom_level_9881eecdf21e0bfdbcecda47321612ec3e7b9296"
+      "key": "505db",
+      "songName": "GLOW (魔法少女まどか☆マギカ scene0 OP)",
+      "hash": "13748fcdad40d0891b7d1291e4c559e495c1b945",
+      "levelid": "custom_level_13748fcdad40d0891b7d1291e4c559e495c1b945"
     },
     {
-      "key": "50592",
-      "songName": "[SP] Dixon Dallas - Good Lookin'",
-      "hash": "33f283ba2671bc4c2c024680a1ec30740f32ac6f",
-      "levelid": "custom_level_33f283ba2671bc4c2c024680a1ec30740f32ac6f"
+      "key": "505d8",
+      "songName": "My Album Is Out On Dance Corps So Now I Am Allowed To Do A Dancecore Yay!",
+      "hash": "8dff57ef2cb7f20bfa67a39d852b539ebdeef297",
+      "levelid": "custom_level_8dff57ef2cb7f20bfa67a39d852b539ebdeef297"
     },
     {
-      "key": "50591",
-      "songName": "SHOWS YOU THE WAY TO THE HIWAY - Femtanyl ",
-      "hash": "3eb4a99969fabd0ed336c563f25b22c6a7ec52cd",
-      "levelid": "custom_level_3eb4a99969fabd0ed336c563f25b22c6a7ec52cd"
+      "key": "505b0",
+      "songName": "Light colors - Lia",
+      "hash": "bb0eb58ca4f6dfaeb99f1a67616122362bb872a9",
+      "levelid": "custom_level_bb0eb58ca4f6dfaeb99f1a67616122362bb872a9"
     },
     {
-      "key": "50590",
-      "songName": "Snail Lounge",
-      "hash": "0e6f2f6a8459657ace47f39f9ad1dcfcba4343ad",
-      "levelid": "custom_level_0e6f2f6a8459657ace47f39f9ad1dcfcba4343ad"
+      "key": "505cc",
+      "songName": "Vieze Asbak - Draaiorgel (Feat. gladde paling)",
+      "hash": "f87ece8b69f83980e375de7b8ffbaaa35cd80eea",
+      "levelid": "custom_level_f87ece8b69f83980e375de7b8ffbaaa35cd80eea"
     },
     {
-      "key": "5058f",
-      "songName": "Scammer Symphony",
-      "hash": "d21b923319519207edb45d6fc1d978931d16d516",
-      "levelid": "custom_level_d21b923319519207edb45d6fc1d978931d16d516"
+      "key": "505c9",
+      "songName": "Ice Cream",
+      "hash": "1cb0f5ccf3b4301dc7f147a0bc8906f99cf84a28",
+      "levelid": "custom_level_1cb0f5ccf3b4301dc7f147a0bc8906f99cf84a28"
     },
     {
-      "key": "50007",
-      "songName": "DJ Raisei - 天使ノ舞フ場所 [From MUSYNX_ RETURN]",
-      "hash": "20af3a8ab6fbda52320c89cbc9c9857160926e54",
-      "levelid": "custom_level_20af3a8ab6fbda52320c89cbc9c9857160926e54"
+      "key": "505c8",
+      "songName": "elevator music",
+      "hash": "6c83fc48b86ccdfb6d76e146214bc6bf7fa4b73b",
+      "levelid": "custom_level_6c83fc48b86ccdfb6d76e146214bc6bf7fa4b73b"
     },
     {
-      "key": "50584",
-      "songName": "Baptised, Bastardised, Sodomised",
-      "hash": "52bef1252c9919c112a243fecc358072b770a1ac",
-      "levelid": "custom_level_52bef1252c9919c112a243fecc358072b770a1ac"
+      "key": "505c7",
+      "songName": "sum1callsomebody",
+      "hash": "7dd149833c0fc24587e353afb761b418edec8304",
+      "levelid": "custom_level_7dd149833c0fc24587e353afb761b418edec8304"
     },
     {
-      "key": "50583",
-      "songName": "Nevermind - Phoneboy (feat.  Justin Magnaye)",
-      "hash": "1dacdcb86f1f520978610650a7afcc9de96f7071",
-      "levelid": "custom_level_1dacdcb86f1f520978610650a7afcc9de96f7071"
+      "key": "505c3",
+      "songName": "Dogbite",
+      "hash": "99dde63f22c1f9a0b6d7615b5e39cf9e9a28524b",
+      "levelid": "custom_level_99dde63f22c1f9a0b6d7615b5e39cf9e9a28524b"
     },
     {
-      "key": "5057d",
-      "songName": "Nuts",
-      "hash": "fc759295023d7674203cc9487cf0373886cb4290",
-      "levelid": "custom_level_fc759295023d7674203cc9487cf0373886cb4290"
+      "key": "505c2",
+      "songName": "Rhapsody - Power of the Dragonflame",
+      "hash": "488dad71efe51d0245af1c5d86bf8620a5088180",
+      "levelid": "custom_level_488dad71efe51d0245af1c5d86bf8620a5088180"
     },
     {
-      "key": "5057c",
-      "songName": "Jimin - Who",
-      "hash": "0474378df4f5505926d11a84500a03b1c30a7aa0",
-      "levelid": "custom_level_0474378df4f5505926d11a84500a03b1c30a7aa0"
+      "key": "505c1",
+      "songName": "Nope Your Too Late I Already Died",
+      "hash": "994953e0e84b5cb1a38d0d2e7807ced764dd66b6",
+      "levelid": "custom_level_994953e0e84b5cb1a38d0d2e7807ced764dd66b6"
     },
     {
-      "key": "5057b",
-      "songName": "Wuthering Waves - Sigillum full OST",
-      "hash": "3787a9b7571c87fbcbf0068c4dc6d4d5592b6df2",
-      "levelid": "custom_level_3787a9b7571c87fbcbf0068c4dc6d4d5592b6df2"
+      "key": "505c0",
+      "songName": "alagalm",
+      "hash": "6c2edee1d31b3258ff8d5a3f63d61e0277144918",
+      "levelid": "custom_level_6c2edee1d31b3258ff8d5a3f63d61e0277144918"
     },
     {
-      "key": "5057a",
-      "songName": "I will never let you go",
-      "hash": "3480e5064459cd4adc86454801b9702e8a5b663a",
-      "levelid": "custom_level_3480e5064459cd4adc86454801b9702e8a5b663a"
+      "key": "505bf",
+      "songName": "Truck bed (1.0",
+      "hash": "b9420c6615496947de4e0bc6984825f17b202c65",
+      "levelid": "custom_level_b9420c6615496947de4e0bc6984825f17b202c65"
     },
     {
-      "key": "50576",
-      "songName": "Stray Kids - Do It {S}",
-      "hash": "b463e814ea4369d808b130fd62851af25665d5c9",
-      "levelid": "custom_level_b463e814ea4369d808b130fd62851af25665d5c9"
+      "key": "505be",
+      "songName": "A New Level - Pantera",
+      "hash": "3ecd492c48f2a4bb6583e8fdb75d3ce138a5e1a4",
+      "levelid": "custom_level_3ecd492c48f2a4bb6583e8fdb75d3ce138a5e1a4"
     },
     {
-      "key": "50575",
-      "songName": "Stray Kids - Truman [HAN & Felix] {S}",
-      "hash": "a53710d0398ad1ef68b84a38679f11daddde409e",
-      "levelid": "custom_level_a53710d0398ad1ef68b84a38679f11daddde409e"
+      "key": "505bd",
+      "songName": "Daydream Critters Jingle",
+      "hash": "194b2ec5f8831166b217ee8b9cb21b851f21639e",
+      "levelid": "custom_level_194b2ec5f8831166b217ee8b9cb21b851f21639e"
     },
     {
-      "key": "50574",
-      "songName": "Stray Kids - ULTRA [SKZ-PLAYER] {S}",
-      "hash": "80150b1f14f81121526f6ee6ae181c52ec039872",
-      "levelid": "custom_level_80150b1f14f81121526f6ee6ae181c52ec039872"
+      "key": "505bc",
+      "songName": "Smile Everyday! (Smiling Critters Song)",
+      "hash": "b602916f8900968d005c0ce64274fb2837f36a84",
+      "levelid": "custom_level_b602916f8900968d005c0ce64274fb2837f36a84"
     },
     {
-      "key": "50577",
-      "songName": "Stray Kids - CIRCUS {S}",
-      "hash": "f75d9018fc6fe2c05f5a5dea3eb4d6ed89240615",
-      "levelid": "custom_level_f75d9018fc6fe2c05f5a5dea3eb4d6ed89240615"
+      "key": "505ba",
+      "songName": "Shownu X Hyungwon - Love Me A Little [Monsta X]",
+      "hash": "ed56e14d17574a8a807d6be0d587464519118d37",
+      "levelid": "custom_level_ed56e14d17574a8a807d6be0d587464519118d37"
     },
     {
-      "key": "50573",
-      "songName": "FEVER DREAM - Alex Warren",
-      "hash": "bc09e50705bdfe3f23163866eafdfed9f34f9c38",
-      "levelid": "custom_level_bc09e50705bdfe3f23163866eafdfed9f34f9c38"
+      "key": "505bb",
+      "songName": "Truck bed (beta)",
+      "hash": "72b49af8751081672e0f0f30cd9029f5720bcef2",
+      "levelid": "custom_level_72b49af8751081672e0f0f30cd9029f5720bcef2"
     },
     {
-      "key": "50572",
-      "songName": "Ao to Natsu - Mrs. GREEN APPLE (katagiri Bootleg) (Speed Up Ver.)",
-      "hash": "081417f06fe43e10817c1e360db24a7ee144ba87",
-      "levelid": "custom_level_081417f06fe43e10817c1e360db24a7ee144ba87"
+      "key": "505b8",
+      "songName": "IVE - BANG BANG",
+      "hash": "ba9e7b3a60ee79428449ecd7f0547a17e80eb77e",
+      "levelid": "custom_level_ba9e7b3a60ee79428449ecd7f0547a17e80eb77e"
     },
     {
-      "key": "5056f",
-      "songName": "Type Beat 2",
-      "hash": "b3687bd18c61a8958b0644555d86259964ccec41",
-      "levelid": "custom_level_b3687bd18c61a8958b0644555d86259964ccec41"
+      "key": "4e67b",
+      "songName": "House Of The Rising Sun - Erik Grönwall",
+      "hash": "552538e424a3bd682e3d28e8e3eb428c2e640be5",
+      "levelid": "custom_level_552538e424a3bd682e3d28e8e3eb428c2e640be5"
     },
     {
-      "key": "5056e",
-      "songName": "CMH, Joost - jackass",
-      "hash": "242f9dab47f40d4a3362df78a0f1212bdd0df3ed",
-      "levelid": "custom_level_242f9dab47f40d4a3362df78a0f1212bdd0df3ed"
-    },
-    {
-      "key": "5056b",
-      "songName": "Type Beat 3",
-      "hash": "d42f1f330671e4af7fd562b7596515a7626e2253",
-      "levelid": "custom_level_d42f1f330671e4af7fd562b7596515a7626e2253"
-    },
-    {
-      "key": "50565",
-      "songName": "トリノコシティ covered by 月見ヤチヨ - 40mP",
-      "hash": "713c56bcc344f3fb0b8932cf7e2bb3d5e0fc68f8",
-      "levelid": "custom_level_713c56bcc344f3fb0b8932cf7e2bb3d5e0fc68f8"
+      "key": "505ac",
+      "songName": "Small Secret (OST Version) - Super Mario 64 DS",
+      "hash": "1fba82711f96b56906f53c0ba1434d03bed59d8b",
+      "levelid": "custom_level_1fba82711f96b56906f53c0ba1434d03bed59d8b"
     }
   ],
   "image": ""
