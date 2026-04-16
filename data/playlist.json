@@ -1,190 +1,280 @@
 {
-  "playlistTitle": "2026-04-14T15:18:48.175Z~2026-04-15T15:18:48.175Z",
+  "playlistTitle": "2026-04-15T15:18:47.884Z~2026-04-16T15:18:47.884Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-04-14T15:18:48.175Z and 2026-04-15T15:18:48.175Z",
+  "discripstion": "Maps published between 2026-04-15T15:18:47.884Z and 2026-04-16T15:18:47.884Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "505ce",
+      "key": "5064f",
+      "songName": "Various Artists - Super Bell Hill (From \"Mario Kart World\")",
+      "hash": "444662a627f14b8f7b553e990909fe0d73902b7a",
+      "levelid": "custom_level_444662a627f14b8f7b553e990909fe0d73902b7a"
+    },
+    {
+      "key": "50647",
+      "songName": "Locked out of Heaven",
+      "hash": "9afa42f7c8f6a39ba6f16bc6766665afd75b2ec2",
+      "levelid": "custom_level_9afa42f7c8f6a39ba6f16bc6766665afd75b2ec2"
+    },
+    {
+      "key": "50646",
+      "songName": "Love Like We're Dying  - Srav3R",
+      "hash": "11b3843e064666293866e615146c8be891702b39",
+      "levelid": "custom_level_11b3843e064666293866e615146c8be891702b39"
+    },
+    {
+      "key": "50644",
+      "songName": "Truckfighters - New Woman (cut)",
+      "hash": "63ef5a357b66ef1345ff17d72e26766fae5aff7b",
+      "levelid": "custom_level_63ef5a357b66ef1345ff17d72e26766fae5aff7b"
+    },
+    {
+      "key": "50642",
+      "songName": "Cirrus",
+      "hash": "a3224c46397242e71a9a743d64b2b3ffbe7080ae",
+      "levelid": "custom_level_a3224c46397242e71a9a743d64b2b3ffbe7080ae"
+    },
+    {
+      "key": "5063e",
+      "songName": "10 mins of silence with smoke detector beeps",
+      "hash": "9c62b1a32a1e8170135353eb5b010ba677f2e078",
+      "levelid": "custom_level_9c62b1a32a1e8170135353eb5b010ba677f2e078"
+    },
+    {
+      "key": "5063d",
+      "songName": "ごまかし (マギアレコード 魔法少女まどか☆マギカ外伝 OP)",
+      "hash": "a46d9f67ab33c92dc676a4bd57282368bd10af88",
+      "levelid": "custom_level_a46d9f67ab33c92dc676a4bd57282368bd10af88"
+    },
+    {
+      "key": "5063c",
+      "songName": "Jasmine Sokko - lanterns vocoder evangelion",
+      "hash": "18dc4b45a6c1745c3bdf3dde93bf6bb58b14d305",
+      "levelid": "custom_level_18dc4b45a6c1745c3bdf3dde93bf6bb58b14d305"
+    },
+    {
+      "key": "50639",
+      "songName": "Take Me Nowhere",
+      "hash": "3c64754ceb404991b15db4e2cf4deb40eac53ffe",
+      "levelid": "custom_level_3c64754ceb404991b15db4e2cf4deb40eac53ffe"
+    },
+    {
+      "key": "50636",
+      "songName": "Pyrokinesis - Гепатит, СПИД, сифилис",
+      "hash": "fa8f8ce9e4d91584b66a3f6cb495482d754dc0a2",
+      "levelid": "custom_level_fa8f8ce9e4d91584b66a3f6cb495482d754dc0a2"
+    },
+    {
+      "key": "50638",
+      "songName": "ericdoa - fantasize",
+      "hash": "a0cc58a6f0b11b5a8ec418f8e15feecf809669dd",
+      "levelid": "custom_level_a0cc58a6f0b11b5a8ec418f8e15feecf809669dd"
+    },
+    {
+      "key": "50637",
+      "songName": "Surgafilm21 Official - High Quality Streaming",
+      "hash": "d2b271c31b9f722182409705d37ffff7c98088c1",
+      "levelid": "custom_level_d2b271c31b9f722182409705d37ffff7c98088c1"
+    },
+    {
+      "key": "50635",
+      "songName": "So fresh so clean (outkast)",
+      "hash": "0a8bf38d8462923f0e58e655e912593aaa3ab422",
+      "levelid": "custom_level_0a8bf38d8462923f0e58e655e912593aaa3ab422"
+    },
+    {
+      "key": "50634",
+      "songName": "pale machine",
+      "hash": "5ac109be1858cd10a198eec9025e25da0b3492fe",
+      "levelid": "custom_level_5ac109be1858cd10a198eec9025e25da0b3492fe"
+    },
+    {
+      "key": "50633",
+      "songName": "Black beatles (gucci mane)",
+      "hash": "a4297282b018bf1614060ee1e1bf60ec79b1a00d",
+      "levelid": "custom_level_a4297282b018bf1614060ee1e1bf60ec79b1a00d"
+    },
+    {
+      "key": "50632",
+      "songName": " Ceremony (v3 Lights) - Holy Wars",
+      "hash": "67996eb92b09725eb829de8fb14602acbdd62bd7",
+      "levelid": "custom_level_67996eb92b09725eb829de8fb14602acbdd62bd7"
+    },
+    {
+      "key": "50631",
+      "songName": "Ipsiom - Archangel ",
+      "hash": "ff5f8e2a871aa670365e26395f17fcf25145d3cd",
+      "levelid": "custom_level_ff5f8e2a871aa670365e26395f17fcf25145d3cd"
+    },
+    {
+      "key": "5062e",
+      "songName": "Pray For The Left",
+      "hash": "b5aa332852167dc57bd6c9f04581adfa91ff7fce",
+      "levelid": "custom_level_b5aa332852167dc57bd6c9f04581adfa91ff7fce"
+    },
+    {
+      "key": "5062a",
+      "songName": "Typical - Intermission",
+      "hash": "780be86b1b4247f92c24aa91c98018e6de5ddc6a",
+      "levelid": "custom_level_780be86b1b4247f92c24aa91c98018e6de5ddc6a"
+    },
+    {
+      "key": "50627",
       "songName": "bear5 alert remix",
-      "hash": "8c1b83f836b5ae4c65b1c36e598bb4f9cc2783f7",
-      "levelid": "custom_level_8c1b83f836b5ae4c65b1c36e598bb4f9cc2783f7"
+      "hash": "76fc3a486a61eaec4161ce8bd400730ac667d1b7",
+      "levelid": "custom_level_76fc3a486a61eaec4161ce8bd400730ac667d1b7"
+    },
+    {
+      "key": "50626",
+      "songName": "Re-Logic - Eclipse",
+      "hash": "cec561186383480035272a6d514fcf523c7e67e0",
+      "levelid": "custom_level_cec561186383480035272a6d514fcf523c7e67e0"
+    },
+    {
+      "key": "50623",
+      "songName": "underscores - Loansharks aka Spoiled little brat II: Dying in the Northern Hemisphere Somewhere (ft. gabby start)",
+      "hash": "968ea726289278c9fc5794c3f85ff0bd0a01531e",
+      "levelid": "custom_level_968ea726289278c9fc5794c3f85ff0bd0a01531e"
+    },
+    {
+      "key": "5061d",
+      "songName": "BBpanzu - BANG BANG BANG - Chainsaw Man Song",
+      "hash": "67471e8ff8dd4bb68862fdd6a95a53502e9599ed",
+      "levelid": "custom_level_67471e8ff8dd4bb68862fdd6a95a53502e9599ed"
+    },
+    {
+      "key": "5061c",
+      "songName": "bear5 alert (wega challenge OST)",
+      "hash": "3c70e511d4131a3c3ae473d1b3058ef404ee76e5",
+      "levelid": "custom_level_3c70e511d4131a3c3ae473d1b3058ef404ee76e5"
+    },
+    {
+      "key": "5061a",
+      "songName": "Bridgit Mendler - Ready or Not",
+      "hash": "bc42b6eddc6c966b0e6ccddd73d7d45f17d22401",
+      "levelid": "custom_level_bc42b6eddc6c966b0e6ccddd73d7d45f17d22401"
+    },
+    {
+      "key": "50618",
+      "songName": "Laur - What is Viyella dreaming about?",
+      "hash": "8cf64a074c09701156f499d985730a47178ff395",
+      "levelid": "custom_level_8cf64a074c09701156f499d985730a47178ff395"
+    },
+    {
+      "key": "50617",
+      "songName": "Zeal Crying Remix",
+      "hash": "8a96a0cb071de9887416e3e6e992e5eeb26b0c8f",
+      "levelid": "custom_level_8a96a0cb071de9887416e3e6e992e5eeb26b0c8f"
+    },
+    {
+      "key": "50614",
+      "songName": "shinuna - nagisaaaa",
+      "hash": "e2efa14c8502a0f1910f863635442a34239b28ad",
+      "levelid": "custom_level_e2efa14c8502a0f1910f863635442a34239b28ad"
+    },
+    {
+      "key": "50612",
+      "songName": "Rains Of Castamere",
+      "hash": "5c3108d2819c28bc60a186b0f2344650ad10dda0",
+      "levelid": "custom_level_5c3108d2819c28bc60a186b0f2344650ad10dda0"
+    },
+    {
+      "key": "50611",
+      "songName": "The Doors - People Are Strange",
+      "hash": "8d2f4b5eb5a1ef6d85ab3575bbbafd6adbdb2656",
+      "levelid": "custom_level_8d2f4b5eb5a1ef6d85ab3575bbbafd6adbdb2656"
+    },
+    {
+      "key": "5060f",
+      "songName": "PINKY UP (by KATSEYE)",
+      "hash": "940a74878dd63d38417a8e284046848839893b2c",
+      "levelid": "custom_level_940a74878dd63d38417a8e284046848839893b2c"
+    },
+    {
+      "key": "50610",
+      "songName": "Firework - Katy Perry",
+      "hash": "9d872e95246dd6bac0c61fc507bd5acffffe1e1c",
+      "levelid": "custom_level_9d872e95246dd6bac0c61fc507bd5acffffe1e1c"
+    },
+    {
+      "key": "5060c",
+      "songName": "MAGIYA CHISEL",
+      "hash": "0baade8118c929ad09c33d0025e21960341893db",
+      "levelid": "custom_level_0baade8118c929ad09c33d0025e21960341893db"
+    },
+    {
+      "key": "505f9",
+      "songName": "Save My Soul",
+      "hash": "3c9c0077561646952fe92d51d3922c3d1a54a6c5",
+      "levelid": "custom_level_3c9c0077561646952fe92d51d3922c3d1a54a6c5"
+    },
+    {
+      "key": "50608",
+      "songName": "Camellia - Routing",
+      "hash": "625614194d87eaf5793a7a87a13bf8cde43c0dd7",
+      "levelid": "custom_level_625614194d87eaf5793a7a87a13bf8cde43c0dd7"
+    },
+    {
+      "key": "50607",
+      "songName": "my first maptry",
+      "hash": "c511781f729a99e83fc5eb7649e1a6c2ed261f54",
+      "levelid": "custom_level_c511781f729a99e83fc5eb7649e1a6c2ed261f54"
+    },
+    {
+      "key": "50605",
+      "songName": "emperor markie tuff",
+      "hash": "e041e1afc99ab724efc2f32840bdf0ca41e2bcf3",
+      "levelid": "custom_level_e041e1afc99ab724efc2f32840bdf0ca41e2bcf3"
+    },
+    {
+      "key": "50600",
+      "songName": "Re: ZERO op season 4 (aka peak)",
+      "hash": "8a15b2e484dc83427904be55f3a347e5c26d9060",
+      "levelid": "custom_level_8a15b2e484dc83427904be55f3a347e5c26d9060"
+    },
+    {
+      "key": "505fe",
+      "songName": "tommy. - chimera trigger (ft. Kasane teto)",
+      "hash": "3a40dc6fbd5ef4b17754111f98d0621638a134ea",
+      "levelid": "custom_level_3a40dc6fbd5ef4b17754111f98d0621638a134ea"
+    },
+    {
+      "key": "505fa",
+      "songName": "ROBE IS MY WIFE?! - semiwork",
+      "hash": "e7dde459f466e70e6d827176b767bf8411db0100",
+      "levelid": "custom_level_e7dde459f466e70e6d827176b767bf8411db0100"
+    },
+    {
+      "key": "505f0",
+      "songName": "Re:ZERO Season 4 OP (Konomi Suzuki feat. Ashnikko -Recollect)",
+      "hash": "ca77fa1d120a6f5189e5acb69f7c3e0e84aeda46",
+      "levelid": "custom_level_ca77fa1d120a6f5189e5acb69f7c3e0e84aeda46"
+    },
+    {
+      "key": "505ec",
+      "songName": "meganeko - Monolith",
+      "hash": "0ca032d90771babe47b0678e19aa407c5ffd8e10",
+      "levelid": "custom_level_0ca032d90771babe47b0678e19aa407c5ffd8e10"
+    },
+    {
+      "key": "505e8",
+      "songName": "blue",
+      "hash": "a81b8ceb33352cb2392996063ae92f0b86a1aac7",
+      "levelid": "custom_level_a81b8ceb33352cb2392996063ae92f0b86a1aac7"
+    },
+    {
+      "key": "505e5",
+      "songName": "Victory Over Truth - Fox Stevenson",
+      "hash": "3a36c0591f419bea7c98c3dfe21f4e5bba570669",
+      "levelid": "custom_level_3a36c0591f419bea7c98c3dfe21f4e5bba570669"
     },
     {
       "key": "505e3",
       "songName": "ノンブレス・オブリージュ - Nightcore Remix",
-      "hash": "ac6d172ecbfcb349c0344a165d6c285798cdad06",
-      "levelid": "custom_level_ac6d172ecbfcb349c0344a165d6c285798cdad06"
-    },
-    {
-      "key": "505e2",
-      "songName": "Domination - Pantera",
-      "hash": "c20b1058a2d81c22642b9c6134e93762507b6904",
-      "levelid": "custom_level_c20b1058a2d81c22642b9c6134e93762507b6904"
-    },
-    {
-      "key": "505e1",
-      "songName": "Sneakers O'Toole",
-      "hash": "33fc0965439dc5c522f3bbabd7168b67f22a654e",
-      "levelid": "custom_level_33fc0965439dc5c522f3bbabd7168b67f22a654e"
-    },
-    {
-      "key": "505e0",
-      "songName": "Coochie and Gucci",
-      "hash": "a2bb75738c707afbde5dd055f273007152d94247",
-      "levelid": "custom_level_a2bb75738c707afbde5dd055f273007152d94247"
-    },
-    {
-      "key": "505df",
-      "songName": "ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "hash": "6b4ae4f8da7c28a5aa133cbd5cd038c92330218d",
-      "levelid": "custom_level_6b4ae4f8da7c28a5aa133cbd5cd038c92330218d"
-    },
-    {
-      "key": "505de",
-      "songName": "Orchid - Anna Karina",
-      "hash": "fa112d62a282a55302dddf5e7350c1d9e2328fd4",
-      "levelid": "custom_level_fa112d62a282a55302dddf5e7350c1d9e2328fd4"
-    },
-    {
-      "key": "505dd",
-      "songName": "Kyutatsuki - material Crystallizer",
-      "hash": "9d09886b193058382118f03e914fea0f3bb8f7f8",
-      "levelid": "custom_level_9d09886b193058382118f03e914fea0f3bb8f7f8"
-    },
-    {
-      "key": "505dc",
-      "songName": "BBpanzu - BANG BANG BANG - Chainsaw Man Song (ft. starxrayne & JamsDX)",
-      "hash": "67bcb7a49c7080ca382d41bc39bf987f1764ea76",
-      "levelid": "custom_level_67bcb7a49c7080ca382d41bc39bf987f1764ea76"
-    },
-    {
-      "key": "505da",
-      "songName": "Various Artists - Wario Stadium (From \"Mario Kart World\")",
-      "hash": "98a7f29ceb94ab0a20ed7bfbc36d0794f14118ef",
-      "levelid": "custom_level_98a7f29ceb94ab0a20ed7bfbc36d0794f14118ef"
-    },
-    {
-      "key": "505db",
-      "songName": "GLOW (魔法少女まどか☆マギカ scene0 OP)",
-      "hash": "13748fcdad40d0891b7d1291e4c559e495c1b945",
-      "levelid": "custom_level_13748fcdad40d0891b7d1291e4c559e495c1b945"
-    },
-    {
-      "key": "505d8",
-      "songName": "My Album Is Out On Dance Corps So Now I Am Allowed To Do A Dancecore Yay!",
-      "hash": "8dff57ef2cb7f20bfa67a39d852b539ebdeef297",
-      "levelid": "custom_level_8dff57ef2cb7f20bfa67a39d852b539ebdeef297"
-    },
-    {
-      "key": "505b0",
-      "songName": "Light colors - Lia",
-      "hash": "bb0eb58ca4f6dfaeb99f1a67616122362bb872a9",
-      "levelid": "custom_level_bb0eb58ca4f6dfaeb99f1a67616122362bb872a9"
-    },
-    {
-      "key": "505cc",
-      "songName": "Vieze Asbak - Draaiorgel (Feat. gladde paling)",
-      "hash": "f87ece8b69f83980e375de7b8ffbaaa35cd80eea",
-      "levelid": "custom_level_f87ece8b69f83980e375de7b8ffbaaa35cd80eea"
-    },
-    {
-      "key": "505c9",
-      "songName": "Ice Cream",
-      "hash": "1cb0f5ccf3b4301dc7f147a0bc8906f99cf84a28",
-      "levelid": "custom_level_1cb0f5ccf3b4301dc7f147a0bc8906f99cf84a28"
-    },
-    {
-      "key": "505c8",
-      "songName": "elevator music",
-      "hash": "6c83fc48b86ccdfb6d76e146214bc6bf7fa4b73b",
-      "levelid": "custom_level_6c83fc48b86ccdfb6d76e146214bc6bf7fa4b73b"
-    },
-    {
-      "key": "505c7",
-      "songName": "sum1callsomebody",
-      "hash": "7dd149833c0fc24587e353afb761b418edec8304",
-      "levelid": "custom_level_7dd149833c0fc24587e353afb761b418edec8304"
-    },
-    {
-      "key": "505c3",
-      "songName": "Dogbite",
-      "hash": "99dde63f22c1f9a0b6d7615b5e39cf9e9a28524b",
-      "levelid": "custom_level_99dde63f22c1f9a0b6d7615b5e39cf9e9a28524b"
-    },
-    {
-      "key": "505c2",
-      "songName": "Rhapsody - Power of the Dragonflame",
-      "hash": "488dad71efe51d0245af1c5d86bf8620a5088180",
-      "levelid": "custom_level_488dad71efe51d0245af1c5d86bf8620a5088180"
-    },
-    {
-      "key": "505c1",
-      "songName": "Nope Your Too Late I Already Died",
-      "hash": "994953e0e84b5cb1a38d0d2e7807ced764dd66b6",
-      "levelid": "custom_level_994953e0e84b5cb1a38d0d2e7807ced764dd66b6"
-    },
-    {
-      "key": "505c0",
-      "songName": "alagalm",
-      "hash": "6c2edee1d31b3258ff8d5a3f63d61e0277144918",
-      "levelid": "custom_level_6c2edee1d31b3258ff8d5a3f63d61e0277144918"
-    },
-    {
-      "key": "505bf",
-      "songName": "Truck bed (1.0",
-      "hash": "b9420c6615496947de4e0bc6984825f17b202c65",
-      "levelid": "custom_level_b9420c6615496947de4e0bc6984825f17b202c65"
-    },
-    {
-      "key": "505be",
-      "songName": "A New Level - Pantera",
-      "hash": "3ecd492c48f2a4bb6583e8fdb75d3ce138a5e1a4",
-      "levelid": "custom_level_3ecd492c48f2a4bb6583e8fdb75d3ce138a5e1a4"
-    },
-    {
-      "key": "505bd",
-      "songName": "Daydream Critters Jingle",
-      "hash": "194b2ec5f8831166b217ee8b9cb21b851f21639e",
-      "levelid": "custom_level_194b2ec5f8831166b217ee8b9cb21b851f21639e"
-    },
-    {
-      "key": "505bc",
-      "songName": "Smile Everyday! (Smiling Critters Song)",
-      "hash": "b602916f8900968d005c0ce64274fb2837f36a84",
-      "levelid": "custom_level_b602916f8900968d005c0ce64274fb2837f36a84"
-    },
-    {
-      "key": "505ba",
-      "songName": "Shownu X Hyungwon - Love Me A Little [Monsta X]",
-      "hash": "ed56e14d17574a8a807d6be0d587464519118d37",
-      "levelid": "custom_level_ed56e14d17574a8a807d6be0d587464519118d37"
-    },
-    {
-      "key": "505bb",
-      "songName": "Truck bed (beta)",
-      "hash": "72b49af8751081672e0f0f30cd9029f5720bcef2",
-      "levelid": "custom_level_72b49af8751081672e0f0f30cd9029f5720bcef2"
-    },
-    {
-      "key": "505b8",
-      "songName": "IVE - BANG BANG",
-      "hash": "ba9e7b3a60ee79428449ecd7f0547a17e80eb77e",
-      "levelid": "custom_level_ba9e7b3a60ee79428449ecd7f0547a17e80eb77e"
-    },
-    {
-      "key": "4e67b",
-      "songName": "House Of The Rising Sun - Erik Grönwall",
-      "hash": "552538e424a3bd682e3d28e8e3eb428c2e640be5",
-      "levelid": "custom_level_552538e424a3bd682e3d28e8e3eb428c2e640be5"
-    },
-    {
-      "key": "505ac",
-      "songName": "Small Secret (OST Version) - Super Mario 64 DS",
-      "hash": "1fba82711f96b56906f53c0ba1434d03bed59d8b",
-      "levelid": "custom_level_1fba82711f96b56906f53c0ba1434d03bed59d8b"
+      "hash": "b0a7c6a17aeda847274686209e830eff47601964",
+      "levelid": "custom_level_b0a7c6a17aeda847274686209e830eff47601964"
     }
   ],
   "image": ""
