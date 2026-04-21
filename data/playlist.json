@@ -1,244 +1,250 @@
 {
-  "playlistTitle": "2026-04-19T15:18:48.729Z~2026-04-20T15:18:48.729Z",
+  "playlistTitle": "2026-04-20T15:18:48.174Z~2026-04-21T15:18:48.174Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-04-19T15:18:48.729Z and 2026-04-20T15:18:48.729Z",
+  "discripstion": "Maps published between 2026-04-20T15:18:48.174Z and 2026-04-21T15:18:48.174Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "50936",
+      "songName": "Naoto Fuga - BELIEVE YOURSELF",
+      "hash": "05ad8ad51891ddcb78d3321551b4d7932867bdd7",
+      "levelid": "custom_level_05ad8ad51891ddcb78d3321551b4d7932867bdd7"
+    },
+    {
+      "key": "5093a",
+      "songName": "Decisive Battle - Azali",
+      "hash": "8cb6201508f54dcf8997d728a3fae6a31938d208",
+      "levelid": "custom_level_8cb6201508f54dcf8997d728a3fae6a31938d208"
+    },
+    {
+      "key": "50938",
+      "songName": "大石昌良 - ふたりキャンプ",
+      "hash": "83f6111161a76cd14e4343c2247965716fdeaee2",
+      "levelid": "custom_level_83f6111161a76cd14e4343c2247965716fdeaee2"
+    },
+    {
+      "key": "50934",
+      "songName": "Glorious Morning",
+      "hash": "482b48fb3ace091e80b865457574ff6cc3939573",
+      "levelid": "custom_level_482b48fb3ace091e80b865457574ff6cc3939573"
+    },
+    {
+      "key": "5092d",
+      "songName": "BATTLE OF THE LARYNX - ",
+      "hash": "766552578bdf898449a03e6fb0a18f5eaf9ecc08",
+      "levelid": "custom_level_766552578bdf898449a03e6fb0a18f5eaf9ecc08"
+    },
+    {
+      "key": "5092c",
+      "songName": "[Feetsaber]City People",
+      "hash": "e7cabeb66eccd899e7f66be0aceaf0090e3617b6",
+      "levelid": "custom_level_e7cabeb66eccd899e7f66be0aceaf0090e3617b6"
+    },
+    {
+      "key": "5092b",
+      "songName": "Catch You Catch Me (カードキャプターさくら OP)",
+      "hash": "19eea19d4ff08a14df3e3eafc12013a6644feb1f",
+      "levelid": "custom_level_19eea19d4ff08a14df3e3eafc12013a6644feb1f"
+    },
+    {
+      "key": "50928",
+      "songName": "Victorious Cast - Take A Hint (Nightcore & Cut Ver.)",
+      "hash": "808f85c3d4dfb5f2d43cee2b86fef218477e8177",
+      "levelid": "custom_level_808f85c3d4dfb5f2d43cee2b86fef218477e8177"
+    },
+    {
+      "key": "50920",
+      "songName": "lapix - Debug Dance",
+      "hash": "3596834864551c5172711f6ad8e7ac2306c45bc4",
+      "levelid": "custom_level_3596834864551c5172711f6ad8e7ac2306c45bc4"
+    },
+    {
+      "key": "5091c",
+      "songName": "teen suicide - haunt me",
+      "hash": "6b0bceb1c417d12aa7d3de02c52fd343252144df",
+      "levelid": "custom_level_6b0bceb1c417d12aa7d3de02c52fd343252144df"
+    },
+    {
+      "key": "5091a",
+      "songName": "DethTech - the joke isnt funny when ur the punchline",
+      "hash": "bb670234497fb9714fa8fa6029c58a93f13e9c2b",
+      "levelid": "custom_level_bb670234497fb9714fa8fa6029c58a93f13e9c2b"
+    },
+    {
+      "key": "50917",
+      "songName": "M2U - TrES-2b",
+      "hash": "c97279a63e03c44fb5e364362e1d5167856f05ab",
+      "levelid": "custom_level_c97279a63e03c44fb5e364362e1d5167856f05ab"
+    },
+    {
+      "key": "50916",
+      "songName": "Manian - Ravers Fantasy (Nightcore & Cut Ver.)",
+      "hash": "784be860642a3936c97e528705825cdda63b5373",
+      "levelid": "custom_level_784be860642a3936c97e528705825cdda63b5373"
+    },
+    {
+      "key": "50915",
+      "songName": "here i come (roblox doors)",
+      "hash": "dfe6d92e234d974261c5d89fcf9a895021d188d6",
+      "levelid": "custom_level_dfe6d92e234d974261c5d89fcf9a895021d188d6"
+    },
+    {
+      "key": "50914",
+      "songName": "White ",
+      "hash": "31c620135b8765c26c13d7e2d4db0433994a4cc6",
+      "levelid": "custom_level_31c620135b8765c26c13d7e2d4db0433994a4cc6"
+    },
+    {
+      "key": "50913",
+      "songName": "BlAck_vOid-1001 drinks expired Pepsi and fucking dies.ogg",
+      "hash": "825ff212b999a90e76a5b8368152400f7377f0e6",
+      "levelid": "custom_level_825ff212b999a90e76a5b8368152400f7377f0e6"
+    },
+    {
+      "key": "50912",
+      "songName": "Perfectly Out Of Place",
+      "hash": "9694844b6f8416909f26cbe5ab139837eb79d0ec",
+      "levelid": "custom_level_9694844b6f8416909f26cbe5ab139837eb79d0ec"
+    },
+    {
+      "key": "5090f",
+      "songName": "hot and cold hardtekk",
+      "hash": "1927fb8aac569003ffe10f1783dc16882f1299dc",
+      "levelid": "custom_level_1927fb8aac569003ffe10f1783dc16882f1299dc"
+    },
+    {
+      "key": "5090b",
+      "songName": "HIT IN THE USA",
+      "hash": "7759dc65ad4fe34f37ab6c2eca4c33b0ab1bbb64",
+      "levelid": "custom_level_7759dc65ad4fe34f37ab6c2eca4c33b0ab1bbb64"
+    },
+    {
+      "key": "5090c",
+      "songName": "British Guy voices over the Angry birds",
+      "hash": "bea270eb4a1217acdcae14c9c76e71ed02678126",
+      "levelid": "custom_level_bea270eb4a1217acdcae14c9c76e71ed02678126"
+    },
+    {
+      "key": "5090a",
+      "songName": "Sleep talking fixed",
+      "hash": "26c2b75bf3e89af02e69a528aa1eb0dd37dbb1e8",
+      "levelid": "custom_level_26c2b75bf3e89af02e69a528aa1eb0dd37dbb1e8"
+    },
+    {
+      "key": "50909",
+      "songName": "low cortisol type beat",
+      "hash": "eb16f5b845e036cb3e460b866a5319d6009e1f1d",
+      "levelid": "custom_level_eb16f5b845e036cb3e460b866a5319d6009e1f1d"
+    },
+    {
+      "key": "50904",
+      "songName": "MONSTER - Eir Aoi (Classroom of the Elite cut)",
+      "hash": "0674c4d5df5a4c627b989df11b5cc5286bfa2ddb",
+      "levelid": "custom_level_0674c4d5df5a4c627b989df11b5cc5286bfa2ddb"
+    },
+    {
+      "key": "508ca",
+      "songName": "angelofmycityy",
+      "hash": "42694d2f02cbd57f9d7612de9f59e42f7c864fda",
+      "levelid": "custom_level_42694d2f02cbd57f9d7612de9f59e42f7c864fda"
+    },
+    {
+      "key": "50902",
+      "songName": "dj TAKA - quaver (short ver.)",
+      "hash": "1ade4df74fc50decbd5ed6a6176d93255895dee2",
+      "levelid": "custom_level_1ade4df74fc50decbd5ed6a6176d93255895dee2"
+    },
+    {
+      "key": "50901",
+      "songName": "[Modchart] Piranha Plant's Lullaby - Koji Kondo",
+      "hash": "684e986fe6d689caa9cd2d3fc68f899d17b98901",
+      "levelid": "custom_level_684e986fe6d689caa9cd2d3fc68f899d17b98901"
+    },
+    {
+      "key": "504ec",
+      "songName": "Ultimate Vibro Challenge V6",
+      "hash": "9429e03a6cd03e58e853a0130253e5d568cb3cc8",
+      "levelid": "custom_level_9429e03a6cd03e58e853a0130253e5d568cb3cc8"
+    },
+    {
+      "key": "508fe",
+      "songName": "Roi - Videoclub (Instrumental Practice)",
+      "hash": "4f7d430e6cfcac4928244c357988c4e9e4ed86c4",
+      "levelid": "custom_level_4f7d430e6cfcac4928244c357988c4e9e4ed86c4"
+    },
+    {
+      "key": "508fd",
+      "songName": "d0tc0mmie/GUMI - I Can't Wait(TØm Remix)",
+      "hash": "7bc3906036cbdf36b68351a425d1b1bd60f4d242",
+      "levelid": "custom_level_7bc3906036cbdf36b68351a425d1b1bd60f4d242"
+    },
+    {
+      "key": "508fc",
+      "songName": "eightiesheadachetape - what we did in the desert",
+      "hash": "63153af92561d43fa586250eaa2db9233865b59c",
+      "levelid": "custom_level_63153af92561d43fa586250eaa2db9233865b59c"
+    },
+    {
+      "key": "508fb",
+      "songName": "Daniel Cesar - Super Power",
+      "hash": "197f24148e4e5c1b061cf3b1e61a93d7708c2c8f",
+      "levelid": "custom_level_197f24148e4e5c1b061cf3b1e61a93d7708c2c8f"
+    },
+    {
+      "key": "508fa",
+      "songName": "Screen Recording 2023-1-02 12356",
+      "hash": "f84a02e2d6fddfe37adfe3461740572c8a75f1bd",
+      "levelid": "custom_level_f84a02e2d6fddfe37adfe3461740572c8a75f1bd"
+    },
+    {
+      "key": "508f9",
+      "songName": "HDSQ - Ouranos",
+      "hash": "cdcb35688aea6cafeb8366a66fb19da5c4a86558",
+      "levelid": "custom_level_cdcb35688aea6cafeb8366a66fb19da5c4a86558"
+    },
+    {
+      "key": "508f8",
+      "songName": "Will Paquin - Chandelier",
+      "hash": "55468cdf6b28dfa01421956ba6ffb9c6fe6437ef",
+      "levelid": "custom_level_55468cdf6b28dfa01421956ba6ffb9c6fe6437ef"
+    },
+    {
+      "key": "508f7",
+      "songName": "Sobrem - Jupin",
+      "hash": "04e0e4b41bc5ebbbe1adf98fb5b57db0dd4b8899",
+      "levelid": "custom_level_04e0e4b41bc5ebbbe1adf98fb5b57db0dd4b8899"
+    },
+    {
+      "key": "508f5",
+      "songName": "Need it bad",
+      "hash": "2a320396c8e06e53f2515369dde0bc2aa3f364e1",
+      "levelid": "custom_level_2a320396c8e06e53f2515369dde0bc2aa3f364e1"
+    },
+    {
+      "key": "508f4",
+      "songName": "Within temptation - The purge (joz bootleg)",
+      "hash": "8973404bfdff7869d0032d081647625c88627f1a",
+      "levelid": "custom_level_8973404bfdff7869d0032d081647625c88627f1a"
+    },
+    {
+      "key": "508f3",
+      "songName": "Creo - Future Fantasy",
+      "hash": "f00d4dcadbda8d7eb71fa990cc1e860127a68a40",
+      "levelid": "custom_level_f00d4dcadbda8d7eb71fa990cc1e860127a68a40"
+    },
+    {
+      "key": "508ee",
+      "songName": "Cory Wong // \"Blame It On The Moon\" (feat. Magic City Hippies)",
+      "hash": "dc5b24f063e06ebd43290043ef8523ead7cfa785",
+      "levelid": "custom_level_dc5b24f063e06ebd43290043ef8523ead7cfa785"
+    },
+    {
       "key": "508e5",
       "songName": "Eiserne Jungfrau - Nonentity",
-      "hash": "bd2347a2594527a76a64931f56df945b021b8558",
-      "levelid": "custom_level_bd2347a2594527a76a64931f56df945b021b8558"
-    },
-    {
-      "key": "508e3",
-      "songName": "post reference (Roblox evade OST)",
-      "hash": "87ca0d79220a5642c0914ae989235be43f568c89",
-      "levelid": "custom_level_87ca0d79220a5642c0914ae989235be43f568c89"
-    },
-    {
-      "key": "508d7",
-      "songName": " STEAKA - Sanity Krush",
-      "hash": "03dbdf4a32adf543cd8b870e5c6bc1e6fe14f289",
-      "levelid": "custom_level_03dbdf4a32adf543cd8b870e5c6bc1e6fe14f289"
-    },
-    {
-      "key": "508d5",
-      "songName": "[Cytus] GLORY;ROAD _ uma vs. モリモリあつし",
-      "hash": "ec3c9752763409b32320d83ecfd42e8f1dab9f7d",
-      "levelid": "custom_level_ec3c9752763409b32320d83ecfd42e8f1dab9f7d"
-    },
-    {
-      "key": "508d1",
-      "songName": "Tyler, the Creator - I Killed You",
-      "hash": "b95853571d33affd30a84e14673f153737443864",
-      "levelid": "custom_level_b95853571d33affd30a84e14673f153737443864"
-    },
-    {
-      "key": "508d0",
-      "songName": "12/8/2022 at 5:32AM",
-      "hash": "f143859effe286824cc1a513551930f6b6cae011",
-      "levelid": "custom_level_f143859effe286824cc1a513551930f6b6cae011"
-    },
-    {
-      "key": "508c8",
-      "songName": "AWOLNATION - Sail (V4)",
-      "hash": "10814aff553886eedc304588f2946ddb3b03d7ae",
-      "levelid": "custom_level_10814aff553886eedc304588f2946ddb3b03d7ae"
-    },
-    {
-      "key": "508c5",
-      "songName": "Failures-remix",
-      "hash": "64d8fcdb2bd637e7e1a31f9f21049ad44a7085cc",
-      "levelid": "custom_level_64d8fcdb2bd637e7e1a31f9f21049ad44a7085cc"
-    },
-    {
-      "key": "508c3",
-      "songName": " GORON TO DORON [Dandelion  Opening] - Kocchi no Kento",
-      "hash": "37fa298e03135c221c3a8ddefcbee56c5e0e392b",
-      "levelid": "custom_level_37fa298e03135c221c3a8ddefcbee56c5e0e392b"
-    },
-    {
-      "key": "508c1",
-      "songName": "lighthouse (魔法少女まどか☆マギカ Magia Exedra OP)",
-      "hash": "9b282232ba71c1ca78933b85bb4548e29e7db8bb",
-      "levelid": "custom_level_9b282232ba71c1ca78933b85bb4548e29e7db8bb"
-    },
-    {
-      "key": "508c0",
-      "songName": "超兄貴 - GO! GO!サムソン&アドン【Cho Aniki - GO! GO! Samson & Adon】",
-      "hash": "4cbcd9d3a21e8c59b6c4877366e40c69c4dd3918",
-      "levelid": "custom_level_4cbcd9d3a21e8c59b6c4877366e40c69c4dd3918"
-    },
-    {
-      "key": "508a4",
-      "songName": "EBIMAYO - BADTEK",
-      "hash": "ab8f53cbbd711a8c06612d3ba6c2c4c0a7dc7ea5",
-      "levelid": "custom_level_ab8f53cbbd711a8c06612d3ba6c2c4c0a7dc7ea5"
-    },
-    {
-      "key": "508bd",
-      "songName": "the struggle no bot",
-      "hash": "158a63906a90b0cea7cddda2d97df565cfda6b96",
-      "levelid": "custom_level_158a63906a90b0cea7cddda2d97df565cfda6b96"
-    },
-    {
-      "key": "508bb",
-      "songName": "cursed map omfggg",
-      "hash": "532bbe17f84c2001be7d7b13e5ca796d279bb32b",
-      "levelid": "custom_level_532bbe17f84c2001be7d7b13e5ca796d279bb32b"
-    },
-    {
-      "key": "508ba",
-      "songName": "escape summer but recreated",
-      "hash": "2596502db061c7988445d89ec77102a7e71a4bb6",
-      "levelid": "custom_level_2596502db061c7988445d89ec77102a7e71a4bb6"
-    },
-    {
-      "key": "508b9",
-      "songName": "Sunflower",
-      "hash": "dc9e428a0f269fa1f80f57c746e42551b5a6c333",
-      "levelid": "custom_level_dc9e428a0f269fa1f80f57c746e42551b5a6c333"
-    },
-    {
-      "key": "508b8",
-      "songName": "its raing tacos",
-      "hash": "7d865f050baf497de98355f2900b5201fb3e29be",
-      "levelid": "custom_level_7d865f050baf497de98355f2900b5201fb3e29be"
-    },
-    {
-      "key": "508ad",
-      "songName": "Unholy Gravebirth",
-      "hash": "4ae192c9959e5e23fd8558690eca95ced7ffdca1",
-      "levelid": "custom_level_4ae192c9959e5e23fd8558690eca95ced7ffdca1"
-    },
-    {
-      "key": "508ac",
-      "songName": "goodbye",
-      "hash": "28676f4ba86cb0e2aff171695b3f1b6cc0fea471",
-      "levelid": "custom_level_28676f4ba86cb0e2aff171695b3f1b6cc0fea471"
-    },
-    {
-      "key": "508ab",
-      "songName": "Similar Outskirts - Pretty Rave Girl (feat. Kasane Teto)",
-      "hash": "42fbf71493d9834ba372ab36616e5138c9788315",
-      "levelid": "custom_level_42fbf71493d9834ba372ab36616e5138c9788315"
-    },
-    {
-      "key": "508a6",
-      "songName": "Tidal wave",
-      "hash": "28e3f9f9b14b01892c20707cc155549220af78e6",
-      "levelid": "custom_level_28e3f9f9b14b01892c20707cc155549220af78e6"
-    },
-    {
-      "key": "5081e",
-      "songName": "Make Me Famous",
-      "hash": "c1103a9995eae155d38eec63f4abcccffee73b3f",
-      "levelid": "custom_level_c1103a9995eae155d38eec63f4abcccffee73b3f"
-    },
-    {
-      "key": "5089d",
-      "songName": "Best Snapchat Videos Made By Me (Part 1)",
-      "hash": "3856293409af3395f7c82456e0f5446aed9776e5",
-      "levelid": "custom_level_3856293409af3395f7c82456e0f5446aed9776e5"
-    },
-    {
-      "key": "50755",
-      "songName": "Your Love Is My Drug",
-      "hash": "f4d1f11f185a09ad98cb69e00335e83e1872091d",
-      "levelid": "custom_level_f4d1f11f185a09ad98cb69e00335e83e1872091d"
-    },
-    {
-      "key": "5089c",
-      "songName": "Fingys ultimate harsh car horn map of death",
-      "hash": "1eb5f5c9a59c1ae876443acf588fa62cfbd7f4ea",
-      "levelid": "custom_level_1eb5f5c9a59c1ae876443acf588fa62cfbd7f4ea"
-    },
-    {
-      "key": "507c7",
-      "songName": "som1callsomebody",
-      "hash": "f5fe2cd9fecef9d64c769a707f22e455d78ab9f1",
-      "levelid": "custom_level_f5fe2cd9fecef9d64c769a707f22e455d78ab9f1"
-    },
-    {
-      "key": "50899",
-      "songName": "underscores - Innuendo (I Get U)",
-      "hash": "54a978f0a0400550480f5b2e34c304c344e52750",
-      "levelid": "custom_level_54a978f0a0400550480f5b2e34c304c344e52750"
-    },
-    {
-      "key": "50892",
-      "songName": "Oh No.",
-      "hash": "a3b78692897c16ef445377586cf5dd53de5de9e3",
-      "levelid": "custom_level_a3b78692897c16ef445377586cf5dd53de5de9e3"
-    },
-    {
-      "key": "5083b",
-      "songName": "Vul - Peanut Butter Jar (BGM Remix)",
-      "hash": "e6e6acc523f45c14521aad728b4a608946b1ebd8",
-      "levelid": "custom_level_e6e6acc523f45c14521aad728b4a608946b1ebd8"
-    },
-    {
-      "key": "5084b",
-      "songName": "Various Artists - Crown City (From \"Mario Kart World\")",
-      "hash": "374e974c0d6fbc5fcbd0e5da1efbbd76c86b28ed",
-      "levelid": "custom_level_374e974c0d6fbc5fcbd0e5da1efbbd76c86b28ed"
-    },
-    {
-      "key": "50845",
-      "songName": "Bongo Cat - Sweet Dreams",
-      "hash": "341f3f5de7980624339e4ae82fdecc32986c1ee8",
-      "levelid": "custom_level_341f3f5de7980624339e4ae82fdecc32986c1ee8"
-    },
-    {
-      "key": "50841",
-      "songName": "χΩ - nm-y",
-      "hash": "321fa7673ffe8edf501353ffc7e86700f4a34f4c",
-      "levelid": "custom_level_321fa7673ffe8edf501353ffc7e86700f4a34f4c"
-    },
-    {
-      "key": "5083a",
-      "songName": "運命共同体！",
-      "hash": "f94a633e6f79e62c6df353ec89f277f633d6e1e4",
-      "levelid": "custom_level_f94a633e6f79e62c6df353ec89f277f633d6e1e4"
-    },
-    {
-      "key": "507c5",
-      "songName": "Take Me Nowhere",
-      "hash": "6691cb4e77f22e4beaea0f6af2492490fb025829",
-      "levelid": "custom_level_6691cb4e77f22e4beaea0f6af2492490fb025829"
-    },
-    {
-      "key": "50838",
-      "songName": "anthonyILB's Tidal Wave Challenge (Shiawase (VIP))",
-      "hash": "14c0fad9d213badba5bfe6b73b0f5f717d41a0b0",
-      "levelid": "custom_level_14c0fad9d213badba5bfe6b73b0f5f717d41a0b0"
-    },
-    {
-      "key": "50830",
-      "songName": "Husbands",
-      "hash": "ea7fca9b7eb2ae228064c226ec22afaa31851cbb",
-      "levelid": "custom_level_ea7fca9b7eb2ae228064c226ec22afaa31851cbb"
-    },
-    {
-      "key": "5082a",
-      "songName": "⠀",
-      "hash": "27bf6a72ca19e10f0616f9051f6a8d6d25225e79",
-      "levelid": "custom_level_27bf6a72ca19e10f0616f9051f6a8d6d25225e79"
-    },
-    {
-      "key": "50828",
-      "songName": "kyles mom a bitch",
-      "hash": "3c9e5175471fb9676ea38e5dff5a4cd65e2dfcd4",
-      "levelid": "custom_level_3c9e5175471fb9676ea38e5dff5a4cd65e2dfcd4"
-    },
-    {
-      "key": "50827",
-      "songName": "Tick-Tack - ILLIT",
-      "hash": "f137eb1d7d10af5a9a8362da2d9503d4b49fe605",
-      "levelid": "custom_level_f137eb1d7d10af5a9a8362da2d9503d4b49fe605"
+      "hash": "bfec71163ec9291bf1321892635772d4975ce1bb",
+      "levelid": "custom_level_bfec71163ec9291bf1321892635772d4975ce1bb"
     }
   ],
   "image": ""
