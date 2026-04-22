@@ -1,250 +1,172 @@
 {
-  "playlistTitle": "2026-04-20T15:18:48.174Z~2026-04-21T15:18:48.174Z",
+  "playlistTitle": "2026-04-21T15:18:48.442Z~2026-04-22T15:18:48.442Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-04-20T15:18:48.174Z and 2026-04-21T15:18:48.174Z",
+  "discripstion": "Maps published between 2026-04-21T15:18:48.442Z and 2026-04-22T15:18:48.442Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "50936",
-      "songName": "Naoto Fuga - BELIEVE YOURSELF",
-      "hash": "05ad8ad51891ddcb78d3321551b4d7932867bdd7",
-      "levelid": "custom_level_05ad8ad51891ddcb78d3321551b4d7932867bdd7"
+      "key": "50996",
+      "songName": "[Noodle Extensions] wish you were here - haunt",
+      "hash": "9e5a755a353e637623e1a9e52660ba4e73107b89",
+      "levelid": "custom_level_9e5a755a353e637623e1a9e52660ba4e73107b89"
     },
     {
-      "key": "5093a",
-      "songName": "Decisive Battle - Azali",
-      "hash": "8cb6201508f54dcf8997d728a3fae6a31938d208",
-      "levelid": "custom_level_8cb6201508f54dcf8997d728a3fae6a31938d208"
+      "key": "50995",
+      "songName": "citim vonu lesa",
+      "hash": "ab09bce0ea08fc9bfc86b3ab68c4f514f0b862ac",
+      "levelid": "custom_level_ab09bce0ea08fc9bfc86b3ab68c4f514f0b862ac"
     },
     {
-      "key": "50938",
-      "songName": "大石昌良 - ふたりキャンプ",
-      "hash": "83f6111161a76cd14e4343c2247965716fdeaee2",
-      "levelid": "custom_level_83f6111161a76cd14e4343c2247965716fdeaee2"
+      "key": "5098d",
+      "songName": "Masato Nakamura - Aquatic Ruin Zone (From \"Sonic the Hedgehog 2\")",
+      "hash": "63a6a53f3a2f58e094ba06f660c0c86ac2f276c4",
+      "levelid": "custom_level_63a6a53f3a2f58e094ba06f660c0c86ac2f276c4"
     },
     {
-      "key": "50934",
-      "songName": "Glorious Morning",
-      "hash": "482b48fb3ace091e80b865457574ff6cc3939573",
-      "levelid": "custom_level_482b48fb3ace091e80b865457574ff6cc3939573"
+      "key": "5098c",
+      "songName": "Station Earth, Roos Denayer - Cold Green Eyes (Short ver)",
+      "hash": "88615a454091386c52a5a725b697dd41ff600e59",
+      "levelid": "custom_level_88615a454091386c52a5a725b697dd41ff600e59"
     },
     {
-      "key": "5092d",
-      "songName": "BATTLE OF THE LARYNX - ",
-      "hash": "766552578bdf898449a03e6fb0a18f5eaf9ecc08",
-      "levelid": "custom_level_766552578bdf898449a03e6fb0a18f5eaf9ecc08"
+      "key": "50982",
+      "songName": "Burn Marks",
+      "hash": "d98854f28d34138b06dba9f86be03dc94165c800",
+      "levelid": "custom_level_d98854f28d34138b06dba9f86be03dc94165c800"
     },
     {
-      "key": "5092c",
-      "songName": "[Feetsaber]City People",
-      "hash": "e7cabeb66eccd899e7f66be0aceaf0090e3617b6",
-      "levelid": "custom_level_e7cabeb66eccd899e7f66be0aceaf0090e3617b6"
+      "key": "50981",
+      "songName": "Groovy! (カードキャプターさくら ED)",
+      "hash": "bffdd557237427b74516952b1fcf8ee00caa067f",
+      "levelid": "custom_level_bffdd557237427b74516952b1fcf8ee00caa067f"
     },
     {
-      "key": "5092b",
-      "songName": "Catch You Catch Me (カードキャプターさくら OP)",
-      "hash": "19eea19d4ff08a14df3e3eafc12013a6644feb1f",
-      "levelid": "custom_level_19eea19d4ff08a14df3e3eafc12013a6644feb1f"
+      "key": "5097f",
+      "songName": "[Ninjasaber]Fighting My Way",
+      "hash": "4495aa4974be7a78c51c1b1bbbbe4584c546a6e6",
+      "levelid": "custom_level_4495aa4974be7a78c51c1b1bbbbe4584c546a6e6"
     },
     {
-      "key": "50928",
-      "songName": "Victorious Cast - Take A Hint (Nightcore & Cut Ver.)",
-      "hash": "808f85c3d4dfb5f2d43cee2b86fef218477e8177",
-      "levelid": "custom_level_808f85c3d4dfb5f2d43cee2b86fef218477e8177"
+      "key": "5097d",
+      "songName": "Looping The Hound Dog - rusino feat. Hatsune Miku & Presley",
+      "hash": "4d948ae05f92247645511af5991a11ff24ef5ae8",
+      "levelid": "custom_level_4d948ae05f92247645511af5991a11ff24ef5ae8"
     },
     {
-      "key": "50920",
-      "songName": "lapix - Debug Dance",
-      "hash": "3596834864551c5172711f6ad8e7ac2306c45bc4",
-      "levelid": "custom_level_3596834864551c5172711f6ad8e7ac2306c45bc4"
+      "key": "5097c",
+      "songName": "Porcelain Black - Pretty Little Psycho (Nightcore & Cut Ver.)",
+      "hash": "91d5b6c6b74247aa7e4204f25879eca029ee13ab",
+      "levelid": "custom_level_91d5b6c6b74247aa7e4204f25879eca029ee13ab"
     },
     {
-      "key": "5091c",
-      "songName": "teen suicide - haunt me",
-      "hash": "6b0bceb1c417d12aa7d3de02c52fd343252144df",
-      "levelid": "custom_level_6b0bceb1c417d12aa7d3de02c52fd343252144df"
+      "key": "5097b",
+      "songName": "adaptor vs. Morimori Atsushi - LIMIT BURST(GC Mix.)",
+      "hash": "58f96feb12d6e29739e20f6f14888fa264cae1af",
+      "levelid": "custom_level_58f96feb12d6e29739e20f6f14888fa264cae1af"
     },
     {
-      "key": "5091a",
-      "songName": "DethTech - the joke isnt funny when ur the punchline",
-      "hash": "bb670234497fb9714fa8fa6029c58a93f13e9c2b",
-      "levelid": "custom_level_bb670234497fb9714fa8fa6029c58a93f13e9c2b"
+      "key": "50979",
+      "songName": "Jane Remover - goldfish",
+      "hash": "d73ff257d717d7d882cc15dd6d33b419662d356f",
+      "levelid": "custom_level_d73ff257d717d7d882cc15dd6d33b419662d356f"
     },
     {
-      "key": "50917",
-      "songName": "M2U - TrES-2b",
-      "hash": "c97279a63e03c44fb5e364362e1d5167856f05ab",
-      "levelid": "custom_level_c97279a63e03c44fb5e364362e1d5167856f05ab"
+      "key": "50978",
+      "songName": "Black Beatles (Hardtekk)",
+      "hash": "6ffb02d5e5e448826cae26e0afaa32c35da680c3",
+      "levelid": "custom_level_6ffb02d5e5e448826cae26e0afaa32c35da680c3"
     },
     {
-      "key": "50916",
-      "songName": "Manian - Ravers Fantasy (Nightcore & Cut Ver.)",
-      "hash": "784be860642a3936c97e528705825cdda63b5373",
-      "levelid": "custom_level_784be860642a3936c97e528705825cdda63b5373"
+      "key": "50973",
+      "songName": "Mori Calliope - Excuse My Rudeness, But Could You Please RIP? (t+pazolite Remix)",
+      "hash": "1e9bd60b9d90f68938e80b7f9b181a366286a359",
+      "levelid": "custom_level_1e9bd60b9d90f68938e80b7f9b181a366286a359"
     },
     {
-      "key": "50915",
-      "songName": "here i come (roblox doors)",
-      "hash": "dfe6d92e234d974261c5d89fcf9a895021d188d6",
-      "levelid": "custom_level_dfe6d92e234d974261c5d89fcf9a895021d188d6"
+      "key": "50972",
+      "songName": "Fluffing A Duck",
+      "hash": "9cbd554e97a96f0e3179846d3b7128489cf9cfa8",
+      "levelid": "custom_level_9cbd554e97a96f0e3179846d3b7128489cf9cfa8"
     },
     {
-      "key": "50914",
-      "songName": "White ",
-      "hash": "31c620135b8765c26c13d7e2d4db0433994a4cc6",
-      "levelid": "custom_level_31c620135b8765c26c13d7e2d4db0433994a4cc6"
+      "key": "50970",
+      "songName": "Human Music",
+      "hash": "ba8cf9ebf3ff2d3b9e4a716521c00ec36b52bb24",
+      "levelid": "custom_level_ba8cf9ebf3ff2d3b9e4a716521c00ec36b52bb24"
     },
     {
-      "key": "50913",
-      "songName": "BlAck_vOid-1001 drinks expired Pepsi and fucking dies.ogg",
-      "hash": "825ff212b999a90e76a5b8368152400f7377f0e6",
-      "levelid": "custom_level_825ff212b999a90e76a5b8368152400f7377f0e6"
+      "key": "5096e",
+      "songName": "God only knows ",
+      "hash": "11073418f6a834b54ca2df5d5899fd5b5e74d072",
+      "levelid": "custom_level_11073418f6a834b54ca2df5d5899fd5b5e74d072"
     },
     {
-      "key": "50912",
-      "songName": "Perfectly Out Of Place",
-      "hash": "9694844b6f8416909f26cbe5ab139837eb79d0ec",
-      "levelid": "custom_level_9694844b6f8416909f26cbe5ab139837eb79d0ec"
+      "key": "5096d",
+      "songName": "stalk ur socials",
+      "hash": "7f5c2c3d81c1c95e72c25b240f2df2d8e6a0b131",
+      "levelid": "custom_level_7f5c2c3d81c1c95e72c25b240f2df2d8e6a0b131"
     },
     {
-      "key": "5090f",
-      "songName": "hot and cold hardtekk",
-      "hash": "1927fb8aac569003ffe10f1783dc16882f1299dc",
-      "levelid": "custom_level_1927fb8aac569003ffe10f1783dc16882f1299dc"
+      "key": "5091e",
+      "songName": "grr",
+      "hash": "69d2027c3c6e27d0346dbed9d9a58fe73bca0d71",
+      "levelid": "custom_level_69d2027c3c6e27d0346dbed9d9a58fe73bca0d71"
     },
     {
-      "key": "5090b",
-      "songName": "HIT IN THE USA",
-      "hash": "7759dc65ad4fe34f37ab6c2eca4c33b0ab1bbb64",
-      "levelid": "custom_level_7759dc65ad4fe34f37ab6c2eca4c33b0ab1bbb64"
+      "key": "50965",
+      "songName": "Fisky - TURN IT UP",
+      "hash": "05790fb3f204ace753ac2034dfaceceb01abd3b3",
+      "levelid": "custom_level_05790fb3f204ace753ac2034dfaceceb01abd3b3"
     },
     {
-      "key": "5090c",
-      "songName": "British Guy voices over the Angry birds",
-      "hash": "bea270eb4a1217acdcae14c9c76e71ed02678126",
-      "levelid": "custom_level_bea270eb4a1217acdcae14c9c76e71ed02678126"
+      "key": "50960",
+      "songName": "Gold - Spandau Ballet",
+      "hash": "a031a0f774da45d6cb7af75c112ab0f5854e0b4c",
+      "levelid": "custom_level_a031a0f774da45d6cb7af75c112ab0f5854e0b4c"
     },
     {
-      "key": "5090a",
-      "songName": "Sleep talking fixed",
-      "hash": "26c2b75bf3e89af02e69a528aa1eb0dd37dbb1e8",
-      "levelid": "custom_level_26c2b75bf3e89af02e69a528aa1eb0dd37dbb1e8"
+      "key": "5091d",
+      "songName": "lovesong",
+      "hash": "fdd136cfeb949f7559547b03662256d2e4cf086c",
+      "levelid": "custom_level_fdd136cfeb949f7559547b03662256d2e4cf086c"
     },
     {
-      "key": "50909",
-      "songName": "low cortisol type beat",
-      "hash": "eb16f5b845e036cb3e460b866a5319d6009e1f1d",
-      "levelid": "custom_level_eb16f5b845e036cb3e460b866a5319d6009e1f1d"
+      "key": "5095e",
+      "songName": "Hello (BPM) 2026",
+      "hash": "06d6ff92c7a2521a8bf7f2c8b10c4547482c6f33",
+      "levelid": "custom_level_06d6ff92c7a2521a8bf7f2c8b10c4547482c6f33"
     },
     {
-      "key": "50904",
-      "songName": "MONSTER - Eir Aoi (Classroom of the Elite cut)",
-      "hash": "0674c4d5df5a4c627b989df11b5cc5286bfa2ddb",
-      "levelid": "custom_level_0674c4d5df5a4c627b989df11b5cc5286bfa2ddb"
+      "key": "50953",
+      "songName": "her",
+      "hash": "f83d52c23a0c5bcbd8575b7b11a74b2274e03281",
+      "levelid": "custom_level_f83d52c23a0c5bcbd8575b7b11a74b2274e03281"
     },
     {
-      "key": "508ca",
-      "songName": "angelofmycityy",
-      "hash": "42694d2f02cbd57f9d7612de9f59e42f7c864fda",
-      "levelid": "custom_level_42694d2f02cbd57f9d7612de9f59e42f7c864fda"
+      "key": "50950",
+      "songName": "Inferno (EmployeeOfTheMonth Size)",
+      "hash": "20dc6f13702496270020927249ee3526c055375a",
+      "levelid": "custom_level_20dc6f13702496270020927249ee3526c055375a"
     },
     {
-      "key": "50902",
-      "songName": "dj TAKA - quaver (short ver.)",
-      "hash": "1ade4df74fc50decbd5ed6a6176d93255895dee2",
-      "levelid": "custom_level_1ade4df74fc50decbd5ed6a6176d93255895dee2"
+      "key": "5094f",
+      "songName": "eastin thumb- Gum 2 School",
+      "hash": "bb92234450fd0ee4d7da04cfaac05703df941c28",
+      "levelid": "custom_level_bb92234450fd0ee4d7da04cfaac05703df941c28"
     },
     {
-      "key": "50901",
-      "songName": "[Modchart] Piranha Plant's Lullaby - Koji Kondo",
-      "hash": "684e986fe6d689caa9cd2d3fc68f899d17b98901",
-      "levelid": "custom_level_684e986fe6d689caa9cd2d3fc68f899d17b98901"
+      "key": "5094e",
+      "songName": "Eastinanddopey outro (eastin thumb version)",
+      "hash": "6a8a4515907c5aacd2f4f345bb92b0025ae139a7",
+      "levelid": "custom_level_6a8a4515907c5aacd2f4f345bb92b0025ae139a7"
     },
     {
-      "key": "504ec",
-      "songName": "Ultimate Vibro Challenge V6",
-      "hash": "9429e03a6cd03e58e853a0130253e5d568cb3cc8",
-      "levelid": "custom_level_9429e03a6cd03e58e853a0130253e5d568cb3cc8"
-    },
-    {
-      "key": "508fe",
-      "songName": "Roi - Videoclub (Instrumental Practice)",
-      "hash": "4f7d430e6cfcac4928244c357988c4e9e4ed86c4",
-      "levelid": "custom_level_4f7d430e6cfcac4928244c357988c4e9e4ed86c4"
-    },
-    {
-      "key": "508fd",
-      "songName": "d0tc0mmie/GUMI - I Can't Wait(TØm Remix)",
-      "hash": "7bc3906036cbdf36b68351a425d1b1bd60f4d242",
-      "levelid": "custom_level_7bc3906036cbdf36b68351a425d1b1bd60f4d242"
-    },
-    {
-      "key": "508fc",
-      "songName": "eightiesheadachetape - what we did in the desert",
-      "hash": "63153af92561d43fa586250eaa2db9233865b59c",
-      "levelid": "custom_level_63153af92561d43fa586250eaa2db9233865b59c"
-    },
-    {
-      "key": "508fb",
-      "songName": "Daniel Cesar - Super Power",
-      "hash": "197f24148e4e5c1b061cf3b1e61a93d7708c2c8f",
-      "levelid": "custom_level_197f24148e4e5c1b061cf3b1e61a93d7708c2c8f"
-    },
-    {
-      "key": "508fa",
-      "songName": "Screen Recording 2023-1-02 12356",
-      "hash": "f84a02e2d6fddfe37adfe3461740572c8a75f1bd",
-      "levelid": "custom_level_f84a02e2d6fddfe37adfe3461740572c8a75f1bd"
-    },
-    {
-      "key": "508f9",
-      "songName": "HDSQ - Ouranos",
-      "hash": "cdcb35688aea6cafeb8366a66fb19da5c4a86558",
-      "levelid": "custom_level_cdcb35688aea6cafeb8366a66fb19da5c4a86558"
-    },
-    {
-      "key": "508f8",
-      "songName": "Will Paquin - Chandelier",
-      "hash": "55468cdf6b28dfa01421956ba6ffb9c6fe6437ef",
-      "levelid": "custom_level_55468cdf6b28dfa01421956ba6ffb9c6fe6437ef"
-    },
-    {
-      "key": "508f7",
-      "songName": "Sobrem - Jupin",
-      "hash": "04e0e4b41bc5ebbbe1adf98fb5b57db0dd4b8899",
-      "levelid": "custom_level_04e0e4b41bc5ebbbe1adf98fb5b57db0dd4b8899"
-    },
-    {
-      "key": "508f5",
-      "songName": "Need it bad",
-      "hash": "2a320396c8e06e53f2515369dde0bc2aa3f364e1",
-      "levelid": "custom_level_2a320396c8e06e53f2515369dde0bc2aa3f364e1"
-    },
-    {
-      "key": "508f4",
-      "songName": "Within temptation - The purge (joz bootleg)",
-      "hash": "8973404bfdff7869d0032d081647625c88627f1a",
-      "levelid": "custom_level_8973404bfdff7869d0032d081647625c88627f1a"
-    },
-    {
-      "key": "508f3",
-      "songName": "Creo - Future Fantasy",
-      "hash": "f00d4dcadbda8d7eb71fa990cc1e860127a68a40",
-      "levelid": "custom_level_f00d4dcadbda8d7eb71fa990cc1e860127a68a40"
-    },
-    {
-      "key": "508ee",
-      "songName": "Cory Wong // \"Blame It On The Moon\" (feat. Magic City Hippies)",
-      "hash": "dc5b24f063e06ebd43290043ef8523ead7cfa785",
-      "levelid": "custom_level_dc5b24f063e06ebd43290043ef8523ead7cfa785"
-    },
-    {
-      "key": "508e5",
-      "songName": "Eiserne Jungfrau - Nonentity",
-      "hash": "bfec71163ec9291bf1321892635772d4975ce1bb",
-      "levelid": "custom_level_bfec71163ec9291bf1321892635772d4975ce1bb"
+      "key": "508e6",
+      "songName": "Beautiful  feat. 巡音ルカ - Mellowcle",
+      "hash": "a6ac526c64da877ca386567e67e9a7b0dd49fd1a",
+      "levelid": "custom_level_a6ac526c64da877ca386567e67e9a7b0dd49fd1a"
     }
   ],
   "image": ""
