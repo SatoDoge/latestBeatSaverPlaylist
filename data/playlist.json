@@ -1,352 +1,280 @@
 {
-  "playlistTitle": "2026-04-24T15:18:48.103Z~2026-04-25T15:18:48.103Z",
+  "playlistTitle": "2026-04-25T15:18:47.950Z~2026-04-26T15:18:47.950Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-04-24T15:18:48.103Z and 2026-04-25T15:18:48.103Z",
+  "discripstion": "Maps published between 2026-04-25T15:18:47.950Z and 2026-04-26T15:18:47.950Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "50b5c",
+      "songName": "Surrender by Lindsey Stirling",
+      "hash": "4a4b3729134e9ccb8512a1539c6b0645cc69ae6b",
+      "levelid": "custom_level_4a4b3729134e9ccb8512a1539c6b0645cc69ae6b"
+    },
+    {
+      "key": "50b5a",
+      "songName": "React - Switch Disco (featuring Ella Hendrerson)",
+      "hash": "d9344f6a04122e19c59de7d38b8a667a49b2e3a5",
+      "levelid": "custom_level_d9344f6a04122e19c59de7d38b8a667a49b2e3a5"
+    },
+    {
+      "key": "50b59",
+      "songName": "Last Legs - Half Life 2: Episode 2 OST",
+      "hash": "e19b27903b87abfdc7e1abc1d8a1aa333b747ffa",
+      "levelid": "custom_level_e19b27903b87abfdc7e1abc1d8a1aa333b747ffa"
+    },
+    {
+      "key": "50b58",
+      "songName": "Treachery",
+      "hash": "7525f980bdbc35cf2fa842906258907705e0cc5f",
+      "levelid": "custom_level_7525f980bdbc35cf2fa842906258907705e0cc5f"
+    },
+    {
+      "key": "50b57",
+      "songName": "Treachery",
+      "hash": "9d78b65f9fbc3924ef742e9a01973474d818766d",
+      "levelid": "custom_level_9d78b65f9fbc3924ef742e9a01973474d818766d"
+    },
+    {
+      "key": "50b4b",
+      "songName": "Treachery",
+      "hash": "dbe112971c83d5b3c9746762b487f0645781419f",
+      "levelid": "custom_level_dbe112971c83d5b3c9746762b487f0645781419f"
+    },
+    {
+      "key": "50b49",
+      "songName": "11783699653996985472294778984",
+      "hash": "16ca614ab66da913b654c5cfdcebc9de0d225e17",
+      "levelid": "custom_level_16ca614ab66da913b654c5cfdcebc9de0d225e17"
+    },
+    {
+      "key": "50b0b",
+      "songName": "Murder Ballad (Dying Flame) - HOKKA",
+      "hash": "950bc44512d5472deb869b771b2fe37492622d50",
+      "levelid": "custom_level_950bc44512d5472deb869b771b2fe37492622d50"
+    },
+    {
+      "key": "50b0a",
+      "songName": "Via Miseria - HOKKA",
+      "hash": "b051c76cfd5d86f780b8d92224781df55d6a298c",
+      "levelid": "custom_level_b051c76cfd5d86f780b8d92224781df55d6a298c"
+    },
+    {
+      "key": "50b41",
+      "songName": "1 hour of silence",
+      "hash": "9879b68210896a4ca8bf56f116a29c3bc61d76cc",
+      "levelid": "custom_level_9879b68210896a4ca8bf56f116a29c3bc61d76cc"
+    },
+    {
+      "key": "50b40",
+      "songName": "ヒロインとアイドル - HoneyWorks feat.かぴ",
+      "hash": "4dbea4af3f45907a96feb1642307cc58022ff2cf",
+      "levelid": "custom_level_4dbea4af3f45907a96feb1642307cc58022ff2cf"
+    },
+    {
+      "key": "50b3f",
+      "songName": "FRUITS CANDY (カードキャプターさくら ED3)",
+      "hash": "e25b110bbba6b07fb06246aeb1dba1a14307e969",
+      "levelid": "custom_level_e25b110bbba6b07fb06246aeb1dba1a14307e969"
+    },
+    {
+      "key": "50b3c",
+      "songName": "nyamura × Haruhi - cat reincarnation",
+      "hash": "ae23cfb47a186ccce2ba879d05034397d8390bec",
+      "levelid": "custom_level_ae23cfb47a186ccce2ba879d05034397d8390bec"
+    },
+    {
+      "key": "50b3d",
+      "songName": "Vast Veridian",
+      "hash": "50aaa7d1c1756dbfe3caeea753d714d59341d95d",
+      "levelid": "custom_level_50aaa7d1c1756dbfe3caeea753d714d59341d95d"
+    },
+    {
+      "key": "50b3a",
+      "songName": "The Troubles",
+      "hash": "f1745194d5ccf5facdf8935120d309ea6e21609e",
+      "levelid": "custom_level_f1745194d5ccf5facdf8935120d309ea6e21609e"
+    },
+    {
+      "key": "50b37",
+      "songName": "DanTDM OHHH YEAAAHHH",
+      "hash": "97450889df3f1e64376c522cd94cefef8a57d48d",
+      "levelid": "custom_level_97450889df3f1e64376c522cd94cefef8a57d48d"
+    },
+    {
+      "key": "50b34",
+      "songName": "Nuke Powder",
+      "hash": "8b02c37fa9722028adfcce7c0b49986989d4b2bb",
+      "levelid": "custom_level_8b02c37fa9722028adfcce7c0b49986989d4b2bb"
+    },
+    {
+      "key": "50b32",
+      "songName": "in For A Penny, In For A Pound",
+      "hash": "7b8e9259d85b901d8b81a1ba4e49dcb7ebbf5e6b",
+      "levelid": "custom_level_7b8e9259d85b901d8b81a1ba4e49dcb7ebbf5e6b"
+    },
+    {
+      "key": "50b2b",
+      "songName": "Ratata",
+      "hash": "4bf0d5d3b5ddc3c32231e6cc82ff1706c3d4e86c",
+      "levelid": "custom_level_4bf0d5d3b5ddc3c32231e6cc82ff1706c3d4e86c"
+    },
+    {
+      "key": "50b28",
+      "songName": "[2000s Rock & Metal Pack]  Shallow - Porcupine Tree (Deadwing) [Balanced]",
+      "hash": "a7be7edf552e753a2bec27e79533810a1e31b5ce",
+      "levelid": "custom_level_a7be7edf552e753a2bec27e79533810a1e31b5ce"
+    },
+    {
+      "key": "50b27",
+      "songName": "Rhinestone Eyes",
+      "hash": "a742f8b5cea4b98cd842afa1745ad6b5627fa27d",
+      "levelid": "custom_level_a742f8b5cea4b98cd842afa1745ad6b5627fa27d"
+    },
+    {
+      "key": "50b25",
+      "songName": "MUDA! - Telegram",
+      "hash": "abeca5098620f0bf582d9ccb3d25d70a7ee01746",
+      "levelid": "custom_level_abeca5098620f0bf582d9ccb3d25d70a7ee01746"
+    },
+    {
+      "key": "50b26",
+      "songName": "eastinanddopey likes chicken burger french fry",
+      "hash": "acdeb7142e660f611f422a69d720a72c0bb9e64b",
+      "levelid": "custom_level_acdeb7142e660f611f422a69d720a72c0bb9e64b"
+    },
+    {
+      "key": "50ad7",
+      "songName": "Levity - Postman",
+      "hash": "20f2dd58b1d199ba80085fbb9fd5147e04a58ee0",
+      "levelid": "custom_level_20f2dd58b1d199ba80085fbb9fd5147e04a58ee0"
+    },
+    {
+      "key": "50b24",
+      "songName": "easy4me",
+      "hash": "37bae1f61c9053aaaec41764347f851699521db9",
+      "levelid": "custom_level_37bae1f61c9053aaaec41764347f851699521db9"
+    },
+    {
+      "key": "50b21",
+      "songName": "HELLO NEIGHBOR SONG (GET OUT)",
+      "hash": "703b76875e8969a2323eeeee20b7de98a18b5775",
+      "levelid": "custom_level_703b76875e8969a2323eeeee20b7de98a18b5775"
+    },
+    {
+      "key": "50b1e",
+      "songName": "[Vivify] A Moment",
+      "hash": "ef8424f41b8ec6625cb50fe6d0f3eadd9472cbe4",
+      "levelid": "custom_level_ef8424f41b8ec6625cb50fe6d0f3eadd9472cbe4"
+    },
+    {
+      "key": "50b1d",
+      "songName": "This Comes From Inside",
+      "hash": "e500f3dd8952368fec33fa71741b40c428672712",
+      "levelid": "custom_level_e500f3dd8952368fec33fa71741b40c428672712"
+    },
+    {
+      "key": "507c3",
+      "songName": "名もなき何もかも - トゲナシトゲアリ 「ガールズバンドクライ」",
+      "hash": "b64625d9de35818c262c8d95e3622e4b62bc27e7",
+      "levelid": "custom_level_b64625d9de35818c262c8d95e3622e4b62bc27e7"
+    },
+    {
+      "key": "50b18",
+      "songName": "qpeuxoa - КАК РАБОТАЕТ МОЛОТ! {S}",
+      "hash": "a0c0a78a19ff44e2748edfd043bb9c72c1b58bca",
+      "levelid": "custom_level_a0c0a78a19ff44e2748edfd043bb9c72c1b58bca"
+    },
+    {
+      "key": "505ea",
+      "songName": "5mewmet - multi-colored pills",
+      "hash": "506a8e591647911d8c7834a53c84c8839e24f4e0",
+      "levelid": "custom_level_506a8e591647911d8c7834a53c84c8839e24f4e0"
+    },
+    {
+      "key": "50b00",
+      "songName": " shrimp quartet",
+      "hash": "4372353798b11d4b76a2ec646e9047715a11243f",
+      "levelid": "custom_level_4372353798b11d4b76a2ec646e9047715a11243f"
+    },
+    {
+      "key": "50afb",
+      "songName": "Treachery",
+      "hash": "f7f999132c03c94a9b142d6b5713382c65a36c1c",
+      "levelid": "custom_level_f7f999132c03c94a9b142d6b5713382c65a36c1c"
+    },
+    {
+      "key": "50af7",
+      "songName": "glaive, kurtains - The Troubles",
+      "hash": "9c6e5f291119f14f71530671a293e4c43851c045",
+      "levelid": "custom_level_9c6e5f291119f14f71530671a293e4c43851c045"
+    },
+    {
+      "key": "50af1",
+      "songName": "Malcolm Todd - Earrings",
+      "hash": "3b00c806ea86a57d89f72267deb2d9eefa143581",
+      "levelid": "custom_level_3b00c806ea86a57d89f72267deb2d9eefa143581"
+    },
+    {
+      "key": "50aef",
+      "songName": "Treachery",
+      "hash": "d2337a1134323f5aafa1e2bb5445e31fc69d0b98",
+      "levelid": "custom_level_d2337a1134323f5aafa1e2bb5445e31fc69d0b98"
+    },
+    {
+      "key": "50aeb",
+      "songName": "Nettspend - cross em out",
+      "hash": "177c554c7ad59b7dbc8cf17b7010ff6fde2db336",
+      "levelid": "custom_level_177c554c7ad59b7dbc8cf17b7010ff6fde2db336"
+    },
+    {
+      "key": "50ae8",
+      "songName": "Static - FLAVOR FOLEY",
+      "hash": "e7bb7d731b945ea5b8c0ac4128646c143c1cc7be",
+      "levelid": "custom_level_e7bb7d731b945ea5b8c0ac4128646c143c1cc7be"
+    },
+    {
+      "key": "50ae3",
+      "songName": "Jane Remover - Dancing with your eyes closed",
+      "hash": "2515e28f156321efc87ea304a522512a86707e09",
+      "levelid": "custom_level_2515e28f156321efc87ea304a522512a86707e09"
+    },
+    {
+      "key": "50a47",
+      "songName": "IU - Blueming",
+      "hash": "3f4b13dbcc816f342b3758f01e42eed0d668f95a",
+      "levelid": "custom_level_3f4b13dbcc816f342b3758f01e42eed0d668f95a"
+    },
+    {
+      "key": "50add",
+      "songName": "[Fitbeat] ITZY - #Twenty",
+      "hash": "d0dee7ee5e9a82db69e1a97f057a0198fa76a6ba",
+      "levelid": "custom_level_d0dee7ee5e9a82db69e1a97f057a0198fa76a6ba"
+    },
+    {
+      "key": "50ac2",
+      "songName": "[Fitbeat] 2YOON - 24/7",
+      "hash": "9fe5598d3c0c3c86744a21e0401b026ba2c9e097",
+      "levelid": "custom_level_9fe5598d3c0c3c86744a21e0401b026ba2c9e097"
+    },
+    {
+      "key": "50aae",
+      "songName": "[Fitbeat] Happy Birthday to You (Bongo Cat version)",
+      "hash": "1bc7ecf9840c6d87d6a14ac6352bc622bcb4aaf2",
+      "levelid": "custom_level_1bc7ecf9840c6d87d6a14ac6352bc622bcb4aaf2"
+    },
+    {
+      "key": "50ae1",
+      "songName": "Intro",
+      "hash": "fef054857d461f44b7e7a1afea4aa10c3d124fd0",
+      "levelid": "custom_level_fef054857d461f44b7e7a1afea4aa10c3d124fd0"
+    },
+    {
       "key": "50adf",
       "songName": "R3 Music Box - Happy Birthday To You",
-      "hash": "98bc2c2bc11aafdd4c38de06ca9f6b8e7aaca090",
-      "levelid": "custom_level_98bc2c2bc11aafdd4c38de06ca9f6b8e7aaca090"
-    },
-    {
-      "key": "50adb",
-      "songName": "Dr. Mario - Chill Theme",
-      "hash": "4eec4f8a765f32900c6b2e24b0eaf704c1435b64",
-      "levelid": "custom_level_4eec4f8a765f32900c6b2e24b0eaf704c1435b64"
-    },
-    {
-      "key": "50ada",
-      "songName": "R.E.M.  -  The One I Love",
-      "hash": "ee69a03374fd9e6efde21f1b8a231e357e864c13",
-      "levelid": "custom_level_ee69a03374fd9e6efde21f1b8a231e357e864c13"
-    },
-    {
-      "key": "50ad8",
-      "songName": "Future Fantasy",
-      "hash": "d5f07b5ae9833982d972dab90f10050ff1456ebf",
-      "levelid": "custom_level_d5f07b5ae9833982d972dab90f10050ff1456ebf"
-    },
-    {
-      "key": "50ad2",
-      "songName": "初音ミク×銀狼LV.999 - HoYoHoYoにしてあげる♪",
-      "hash": "635af28d9d80b6a9a955a3c5248b62c9478b4875",
-      "levelid": "custom_level_635af28d9d80b6a9a955a3c5248b62c9478b4875"
-    },
-    {
-      "key": "50acf",
-      "songName": "Oiiaioooooiai",
-      "hash": "e7adba35b464c15109df0e5dc563f1b622a51daa",
-      "levelid": "custom_level_e7adba35b464c15109df0e5dc563f1b622a51daa"
-    },
-    {
-      "key": "50ace",
-      "songName": "SHK - SYSTEM",
-      "hash": "edafa822e0620e7116fb35927c303b19411ffe6b",
-      "levelid": "custom_level_edafa822e0620e7116fb35927c303b19411ffe6b"
-    },
-    {
-      "key": "50abf",
-      "songName": "xi - Xaleid◆scopiX",
-      "hash": "bfb571c121745c66a03205bb6e9425088c464626",
-      "levelid": "custom_level_bfb571c121745c66a03205bb6e9425088c464626"
-    },
-    {
-      "key": "50acd",
-      "songName": "プラチナ (カードキャプターさくら OP3)",
-      "hash": "4bf0d0f25b0d237b9988a64dd5fde38a1811e861",
-      "levelid": "custom_level_4bf0d0f25b0d237b9988a64dd5fde38a1811e861"
-    },
-    {
-      "key": "50acb",
-      "songName": "oh, you don't say?!!",
-      "hash": "3c197fe7e76d0e6e1e06f14f6279912c75703fb7",
-      "levelid": "custom_level_3c197fe7e76d0e6e1e06f14f6279912c75703fb7"
-    },
-    {
-      "key": "50ac9",
-      "songName": "KIRA - NICE TYPE (feat. monii)",
-      "hash": "d24b346653ec3b116181ac8d905a4a41de2d96f4",
-      "levelid": "custom_level_d24b346653ec3b116181ac8d905a4a41de2d96f4"
-    },
-    {
-      "key": "50ac4",
-      "songName": "Heather",
-      "hash": "abce36aaab0ba046032a92a21e50150c4a8aa98b",
-      "levelid": "custom_level_abce36aaab0ba046032a92a21e50150c4a8aa98b"
-    },
-    {
-      "key": "50ac1",
-      "songName": "Darn",
-      "hash": "aaadbdde1b4e63a0106568791cd4744eee6a21fb",
-      "levelid": "custom_level_aaadbdde1b4e63a0106568791cd4744eee6a21fb"
-    },
-    {
-      "key": "50ac0",
-      "songName": "Hirokazu Ando - Plaza (From \"Kirby's Blowout Blast\")",
-      "hash": "2aba4c45569572a0a8491b8b607381d4220f53e6",
-      "levelid": "custom_level_2aba4c45569572a0a8491b8b607381d4220f53e6"
-    },
-    {
-      "key": "50ab9",
-      "songName": "Reflections Laughing - The Weeknd, Travis Scott, Florence + The Machine",
-      "hash": "b049a5bdbd5e952bbae6373837b94c03fbe6e893",
-      "levelid": "custom_level_b049a5bdbd5e952bbae6373837b94c03fbe6e893"
-    },
-    {
-      "key": "50abc",
-      "songName": "Diciple - Cuff the Criminal",
-      "hash": "453a083b429a24d3771e2b719528242fde26d643",
-      "levelid": "custom_level_453a083b429a24d3771e2b719528242fde26d643"
-    },
-    {
-      "key": "50a9d",
-      "songName": "MEGAMINAiiXX",
-      "hash": "8b563ce486300db89ebf3d561b09fe32d3341991",
-      "levelid": "custom_level_8b563ce486300db89ebf3d561b09fe32d3341991"
-    },
-    {
-      "key": "50aba",
-      "songName": "ODD YOUTH - Babyface",
-      "hash": "8ec1513dabdc26a582aeb724980a5d73a6e75410",
-      "levelid": "custom_level_8ec1513dabdc26a582aeb724980a5d73a6e75410"
-    },
-    {
-      "key": "50ab4",
-      "songName": "Little Goldfish Lantern",
-      "hash": "6611cb7bd62ea302f67ca54ffa882f798f1b4f61",
-      "levelid": "custom_level_6611cb7bd62ea302f67ca54ffa882f798f1b4f61"
-    },
-    {
-      "key": "50ab0",
-      "songName": "EFN (Hoodtrap Remix)",
-      "hash": "8a837c94b5ba624e99989cf8ff3b1dd0fc126307",
-      "levelid": "custom_level_8a837c94b5ba624e99989cf8ff3b1dd0fc126307"
-    },
-    {
-      "key": "50aaf",
-      "songName": "AINT IT FUNNY",
-      "hash": "9f8bd536ad0e20f44427e8cde35751a061a2d5fe",
-      "levelid": "custom_level_9f8bd536ad0e20f44427e8cde35751a061a2d5fe"
-    },
-    {
-      "key": "50aad",
-      "songName": "Ninzin - Tryst | Beat Saber",
-      "hash": "72565ec5b5b5ad35c864384576b49d88e1b16942",
-      "levelid": "custom_level_72565ec5b5b5ad35c864384576b49d88e1b16942"
-    },
-    {
-      "key": "50aac",
-      "songName": "If u love me now shoot to kill 💀",
-      "hash": "0488e9c85890be71a41f8562f9ddcf6947855b95",
-      "levelid": "custom_level_0488e9c85890be71a41f8562f9ddcf6947855b95"
-    },
-    {
-      "key": "50aaa",
-      "songName": "parking lots - plums",
-      "hash": "1f502832f1da9030e8e652a983058cdbf416b8c1",
-      "levelid": "custom_level_1f502832f1da9030e8e652a983058cdbf416b8c1"
-    },
-    {
-      "key": "50aa0",
-      "songName": "easy4me",
-      "hash": "e0bdaaa4d02c4f5fd2f37f4aa9c03c46cb2dd0dc",
-      "levelid": "custom_level_e0bdaaa4d02c4f5fd2f37f4aa9c03c46cb2dd0dc"
-    },
-    {
-      "key": "50aa8",
-      "songName": "BLACKPINK - GO",
-      "hash": "c4d171218fad1d81c419a2960608fb3ddf62cd2d",
-      "levelid": "custom_level_c4d171218fad1d81c419a2960608fb3ddf62cd2d"
-    },
-    {
-      "key": "50aa4",
-      "songName": "2 BEST FRIENDS - Waterparks",
-      "hash": "3382240033e1a27656966f8e9f24373dabf2786d",
-      "levelid": "custom_level_3382240033e1a27656966f8e9f24373dabf2786d"
-    },
-    {
-      "key": "50aa3",
-      "songName": "car engine 808 - Ariez",
-      "hash": "9eaa7807debb9f156147716166a0df12f1a9f534",
-      "levelid": "custom_level_9eaa7807debb9f156147716166a0df12f1a9f534"
-    },
-    {
-      "key": "50aa2",
-      "songName": "chimera trigger - tommy.",
-      "hash": "359cc12fcffbd30e914e4f825582b8be9a5d7056",
-      "levelid": "custom_level_359cc12fcffbd30e914e4f825582b8be9a5d7056"
-    },
-    {
-      "key": "50aa1",
-      "songName": "BURNOUT - ROMA ",
-      "hash": "09a7279c215385bd85c82c9bb591098a31236440",
-      "levelid": "custom_level_09a7279c215385bd85c82c9bb591098a31236440"
-    },
-    {
-      "key": "50a9e",
-      "songName": "Genius",
-      "hash": "8639a38c28b525b2ba75d78579da93bab94b2e8c",
-      "levelid": "custom_level_8639a38c28b525b2ba75d78579da93bab94b2e8c"
-    },
-    {
-      "key": "50a9b",
-      "songName": "Coffee - Good Kid",
-      "hash": "b16ccac60f5a44ee35a7f4d64e4acf8f7a1097c0",
-      "levelid": "custom_level_b16ccac60f5a44ee35a7f4d64e4acf8f7a1097c0"
-    },
-    {
-      "key": "50a99",
-      "songName": "splitter, HYKARVS - Hustlers (demo)",
-      "hash": "7232b48e8b106c178d81ed57a93752f51b3cd4f0",
-      "levelid": "custom_level_7232b48e8b106c178d81ed57a93752f51b3cd4f0"
-    },
-    {
-      "key": "50a97",
-      "songName": "Aphrow, Lonesome Flatpicker - Toboggan",
-      "hash": "36ab0473f6ab52152247a2f3437e9aa139f3ba40",
-      "levelid": "custom_level_36ab0473f6ab52152247a2f3437e9aa139f3ba40"
-    },
-    {
-      "key": "50a96",
-      "songName": "MY DESTINY HARDTEKK (Slowed & Reverb)",
-      "hash": "8d50339e6cc86afcc864dc4bc62e7c98394440b7",
-      "levelid": "custom_level_8d50339e6cc86afcc864dc4bc62e7c98394440b7"
-    },
-    {
-      "key": "50a94",
-      "songName": "Stray Kids - Circus",
-      "hash": "d172ef148575ac21c20fca99237c772bb423afb3",
-      "levelid": "custom_level_d172ef148575ac21c20fca99237c772bb423afb3"
-    },
-    {
-      "key": "50a95",
-      "songName": "Busy Town",
-      "hash": "91630f8ceb1aff95ddc1fc1ddb6001b2345cbef4",
-      "levelid": "custom_level_91630f8ceb1aff95ddc1fc1ddb6001b2345cbef4"
-    },
-    {
-      "key": "50a8d",
-      "songName": "Lite Show Magic - TRICKL4SH 220",
-      "hash": "1f7f70c723e97adef76a41c0cbe366d8d0289477",
-      "levelid": "custom_level_1f7f70c723e97adef76a41c0cbe366d8d0289477"
-    },
-    {
-      "key": "50a84",
-      "songName": "Ein Lied - Mark Forster",
-      "hash": "b30b7efe2641ed4774a66e70382e88e9df0b1052",
-      "levelid": "custom_level_b30b7efe2641ed4774a66e70382e88e9df0b1052"
-    },
-    {
-      "key": "50a85",
-      "songName": "the stars were not as perfect",
-      "hash": "bebacbc15deae96651b98c88bce7c3711f0f52bb",
-      "levelid": "custom_level_bebacbc15deae96651b98c88bce7c3711f0f52bb"
-    },
-    {
-      "key": "50a83",
-      "songName": "Air Raid 2010",
-      "hash": "67ffe065878ee4e79ead0e11df8c98a03d94badc",
-      "levelid": "custom_level_67ffe065878ee4e79ead0e11df8c98a03d94badc"
-    },
-    {
-      "key": "50a81",
-      "songName": "Tiny Giant - Zenless Zone Zero",
-      "hash": "4f7a346355bd2b3b8613263c041ba6249fd90515",
-      "levelid": "custom_level_4f7a346355bd2b3b8613263c041ba6249fd90515"
-    },
-    {
-      "key": "50a7e",
-      "songName": "Crusaders",
-      "hash": "63849b0db130330a973f942a3b20a97497dd2a30",
-      "levelid": "custom_level_63849b0db130330a973f942a3b20a97497dd2a30"
-    },
-    {
-      "key": "50a7d",
-      "songName": "Fait dodooo",
-      "hash": "1e2803979803856d9720a8f6737658628f2daedc",
-      "levelid": "custom_level_1e2803979803856d9720a8f6737658628f2daedc"
-    },
-    {
-      "key": "50a78",
-      "songName": "Mace - Reaction",
-      "hash": "7a6a4f1bf340f9c7284ea9a2b4082d9cd4540f29",
-      "levelid": "custom_level_7a6a4f1bf340f9c7284ea9a2b4082d9cd4540f29"
-    },
-    {
-      "key": "50a75",
-      "songName": "breezer",
-      "hash": "8e59ecd3f6cc7d978062f698acfb0e13d0765af3",
-      "levelid": "custom_level_8e59ecd3f6cc7d978062f698acfb0e13d0765af3"
-    },
-    {
-      "key": "50a73",
-      "songName": "wings - requiem for you",
-      "hash": "2efc16941aeb24408b7f5b52099f688eef71fc09",
-      "levelid": "custom_level_2efc16941aeb24408b7f5b52099f688eef71fc09"
-    },
-    {
-      "key": "506c0",
-      "songName": "[ReSVRGEnce Pack] [Chroma] SVRGE - Eternal",
-      "hash": "550ffe8f6df3969f3f528e6ebe3d1a082dd91271",
-      "levelid": "custom_level_550ffe8f6df3969f3f528e6ebe3d1a082dd91271"
-    },
-    {
-      "key": "509ed",
-      "songName": "[ReSVRGEnce Pack] [V4] SVRGE - LUV U BETTER",
-      "hash": "249ed7fe4b66b339af8322d6e054567bcf7c1b07",
-      "levelid": "custom_level_249ed7fe4b66b339af8322d6e054567bcf7c1b07"
-    },
-    {
-      "key": "50a71",
-      "songName": "[ReSVRGEnce Pack] SVRGE - On & On",
-      "hash": "209171a58e574d2228ca6ecb81679f4ff345a579",
-      "levelid": "custom_level_209171a58e574d2228ca6ecb81679f4ff345a579"
-    },
-    {
-      "key": "50a62",
-      "songName": "[ReSVRGEnce Pack] SVRGE-In The Dark",
-      "hash": "8bb51853f0906ae3fea5d279a8d661172f541c97",
-      "levelid": "custom_level_8bb51853f0906ae3fea5d279a8d661172f541c97"
-    },
-    {
-      "key": "50a00",
-      "songName": "SVRGE - Lust [ReSVRGEnce Pack] ",
-      "hash": "2be070dda98d4c140d61d2ef67bf2b3f72fd1b6f",
-      "levelid": "custom_level_2be070dda98d4c140d61d2ef67bf2b3f72fd1b6f"
-    },
-    {
-      "key": "508e2",
-      "songName": "[RESVRGENCE PACK] SVRGE - What I want (Fitbeat / Chroma)",
-      "hash": "8af45c317c4cf56d12bbeba8377d6771d2968465",
-      "levelid": "custom_level_8af45c317c4cf56d12bbeba8377d6771d2968465"
-    },
-    {
-      "key": "508c2",
-      "songName": "(ReSVRGEnce Pack) SVRGE - Nocturnal",
-      "hash": "27d70e2764b3de06066bde1d8d875662f309643f",
-      "levelid": "custom_level_27d70e2764b3de06066bde1d8d875662f309643f"
-    },
-    {
-      "key": "5095b",
-      "songName": "Zhuzhzhalka76",
-      "hash": "76b9a52064acab13ae66a330150999ec56067abf",
-      "levelid": "custom_level_76b9a52064acab13ae66a330150999ec56067abf"
-    },
-    {
-      "key": "50a70",
-      "songName": "Something For Your M.I.N.D",
-      "hash": "1e2a21ffa6c07eeb6aa1703a2979baaefaef2e55",
-      "levelid": "custom_level_1e2a21ffa6c07eeb6aa1703a2979baaefaef2e55"
-    },
-    {
-      "key": "50a65",
-      "songName": "Owl City - When Can I See You Again (Paint the Night Remix) ",
-      "hash": "2ab7f306f88b79b77bcdbd25fd80ea696fe7cadf",
-      "levelid": "custom_level_2ab7f306f88b79b77bcdbd25fd80ea696fe7cadf"
+      "hash": "c0f8953b5983121944f41ba30f040cc4b3ef28a8",
+      "levelid": "custom_level_c0f8953b5983121944f41ba30f040cc4b3ef28a8"
     }
   ],
   "image": ""
