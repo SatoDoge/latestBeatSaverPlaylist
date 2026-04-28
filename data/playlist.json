@@ -1,292 +1,190 @@
 {
-  "playlistTitle": "2026-04-26T15:18:48.447Z~2026-04-27T15:18:48.447Z",
+  "playlistTitle": "2026-04-27T15:18:49.920Z~2026-04-28T15:18:49.920Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-04-26T15:18:48.447Z and 2026-04-27T15:18:48.447Z",
+  "discripstion": "Maps published between 2026-04-27T15:18:49.920Z and 2026-04-28T15:18:49.920Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "50cbc",
+      "songName": "Nightcore - Hate Me (Rock Version) ",
+      "hash": "ce9b9bbf9873bb25d607238a824873b0dc9e0888",
+      "levelid": "custom_level_ce9b9bbf9873bb25d607238a824873b0dc9e0888"
+    },
+    {
+      "key": "50cba",
+      "songName": "AmoxiSantos - Schneewittchen kein Arsch und kein Tittchen (Echo Version)",
+      "hash": "00bb362847f6a3f0f6c0891b69a9fcca2026a7c2",
+      "levelid": "custom_level_00bb362847f6a3f0f6c0891b69a9fcca2026a7c2"
+    },
+    {
+      "key": "50cb7",
+      "songName": "Sólo Quiero Más - Lion Ceccah",
+      "hash": "1f628e5aed8dd522497bdd5772cb74a3940c73b4",
+      "levelid": "custom_level_1f628e5aed8dd522497bdd5772cb74a3940c73b4"
+    },
+    {
+      "key": "50cb4",
+      "songName": "just taking a walk",
+      "hash": "393737197b955cf07b7910e4f4ebd400ed513f58",
+      "levelid": "custom_level_393737197b955cf07b7910e4f4ebd400ed513f58"
+    },
+    {
+      "key": "50cb3",
+      "songName": "403 - Blaze of life(revisited)",
+      "hash": "88bb08e27df697cabcda3087508798985731d135",
+      "levelid": "custom_level_88bb08e27df697cabcda3087508798985731d135"
+    },
+    {
+      "key": "4f59c",
+      "songName": "Bryan Adams, Rod Stewart, Sting - All For Love (1994)",
+      "hash": "5853a13ae297f51698defa402dc366316418c905",
+      "levelid": "custom_level_5853a13ae297f51698defa402dc366316418c905"
+    },
+    {
+      "key": "50ca2",
+      "songName": "CLEAR (カードキャプターさくら クリアカード編 OP)",
+      "hash": "a4b0a47c76986a81f8a74275ccd6901a977f264e",
+      "levelid": "custom_level_a4b0a47c76986a81f8a74275ccd6901a977f264e"
+    },
+    {
+      "key": "50ca1",
+      "songName": "ISHOWSPEED NEW YEARS",
+      "hash": "1d9a822c73b3038f3edb3f4cda3539d4ab5da715",
+      "levelid": "custom_level_1d9a822c73b3038f3edb3f4cda3539d4ab5da715"
+    },
+    {
+      "key": "50ca0",
+      "songName": "Honesty - Gyze",
+      "hash": "06b1d8fb3383ce1806408d35ad5c73571b8422de",
+      "levelid": "custom_level_06b1d8fb3383ce1806408d35ad5c73571b8422de"
+    },
+    {
+      "key": "50c9f",
+      "songName": "Kendrick Lamar - Die Hard",
+      "hash": "f52a8fafd4507649779d7b1a606e007e196bfbf1",
+      "levelid": "custom_level_f52a8fafd4507649779d7b1a606e007e196bfbf1"
+    },
+    {
+      "key": "50c95",
+      "songName": "Rift - Good Kid",
+      "hash": "42a764514ee02c9c123222dfa7dac4009ffd70e0",
+      "levelid": "custom_level_42a764514ee02c9c123222dfa7dac4009ffd70e0"
+    },
+    {
+      "key": "50c8e",
+      "songName": "Imperfectionist",
+      "hash": "9f4d81038dee9cef610c732ba9b4f3bbc06578a5",
+      "levelid": "custom_level_9f4d81038dee9cef610c732ba9b4f3bbc06578a5"
+    },
+    {
+      "key": "50c93",
+      "songName": "NeonViperX - Shadow Carnival (NOODLEMAP)",
+      "hash": "ec2064b38448acce576153fc5c478e28cd36ef71",
+      "levelid": "custom_level_ec2064b38448acce576153fc5c478e28cd36ef71"
+    },
+    {
+      "key": "50c8a",
+      "songName": "[VNJS] Marko Polo - Stop Your Self Control",
+      "hash": "28b517d02b0a672480014395d517c9f1f465bb56",
+      "levelid": "custom_level_28b517d02b0a672480014395d517c9f1f465bb56"
+    },
+    {
+      "key": "50c7a",
+      "songName": "Deadbolt the Backward",
+      "hash": "b93c2afa41159dacad69d6246c0930ed21a043de",
+      "levelid": "custom_level_b93c2afa41159dacad69d6246c0930ed21a043de"
+    },
+    {
+      "key": "50c78",
+      "songName": "Psycho",
+      "hash": "4068dede1232ae03838a0641903b23c6c5f04c9b",
+      "levelid": "custom_level_4068dede1232ae03838a0641903b23c6c5f04c9b"
+    },
+    {
+      "key": "50c76",
+      "songName": "narwhals narwhals swimming in the ocean cuz they are so awesome✌️",
+      "hash": "f7eb7d337b55a889e0ca452b07b95810cf649da8",
+      "levelid": "custom_level_f7eb7d337b55a889e0ca452b07b95810cf649da8"
+    },
+    {
+      "key": "50c75",
+      "songName": "God",
+      "hash": "86a84b47e86308fabced57023840efde7ea96220",
+      "levelid": "custom_level_86a84b47e86308fabced57023840efde7ea96220"
+    },
+    {
+      "key": "50c73",
+      "songName": "Lady Gaga, Doechii - RUNWAY",
+      "hash": "3265ef39bbef7e6682d3a64dd998f748e74210e2",
+      "levelid": "custom_level_3265ef39bbef7e6682d3a64dd998f748e74210e2"
+    },
+    {
+      "key": "50c72",
+      "songName": "STFD - TeZATalks",
+      "hash": "cc40e2e84795c310bbd60f05cbf4c7f988ebfcd7",
+      "levelid": "custom_level_cc40e2e84795c310bbd60f05cbf4c7f988ebfcd7"
+    },
+    {
+      "key": "50c01",
+      "songName": "BLOODBATH",
+      "hash": "57c5048d5901695e1283f410fddc934ce2e44e25",
+      "levelid": "custom_level_57c5048d5901695e1283f410fddc934ce2e44e25"
+    },
+    {
+      "key": "50c5b",
+      "songName": "On The Sea - Beach House (cut.)",
+      "hash": "dd2b61e1cdaf98b3128302ff1e083a32088c1687",
+      "levelid": "custom_level_dd2b61e1cdaf98b3128302ff1e083a32088c1687"
+    },
+    {
+      "key": "50ac8",
+      "songName": "Smart Race",
+      "hash": "e0608080ed4096b0d1fdca6fb3af3916efdc2160",
+      "levelid": "custom_level_e0608080ed4096b0d1fdca6fb3af3916efdc2160"
+    },
+    {
+      "key": "50c2f",
+      "songName": "(V3) Ambatukam Termuwani",
+      "hash": "558dc7af561f429583416d0a64f687af75f68646",
+      "levelid": "custom_level_558dc7af561f429583416d0a64f687af75f68646"
+    },
+    {
+      "key": "50c2d",
+      "songName": "Vem som helst",
+      "hash": "c3ce0b6f93d0611ab1c5927da2f89f0ef36b6c8e",
+      "levelid": "custom_level_c3ce0b6f93d0611ab1c5927da2f89f0ef36b6c8e"
+    },
+    {
+      "key": "50c2b",
+      "songName": "Aloboi - locrian dominat",
+      "hash": "18ada4ec40792deddf1af95a5c89016843fea7fe",
+      "levelid": "custom_level_18ada4ec40792deddf1af95a5c89016843fea7fe"
+    },
+    {
+      "key": "50c20",
+      "songName": "jerry",
+      "hash": "b11516a5eeb5f7397a8fe22128d86094c91ae5ca",
+      "levelid": "custom_level_b11516a5eeb5f7397a8fe22128d86094c91ae5ca"
+    },
+    {
+      "key": "50c1b",
+      "songName": "Risk It All - Bruno Mars",
+      "hash": "de32889c0aeb8f3c56d2e0b0e00e0db56e8de864",
+      "levelid": "custom_level_de32889c0aeb8f3c56d2e0b0e00e0db56e8de864"
+    },
+    {
+      "key": "50c1c",
+      "songName": "HEYYYYY ANTEK ANTEK ASING",
+      "hash": "d19eb00b0649ecdea314a2be5ddb4c837996b592",
+      "levelid": "custom_level_d19eb00b0649ecdea314a2be5ddb4c837996b592"
+    },
+    {
       "key": "50c16",
       "songName": "リグレットメッセージ",
-      "hash": "92e46e2a7fe14772e65db6a6cd50272e12eb0f6c",
-      "levelid": "custom_level_92e46e2a7fe14772e65db6a6cd50272e12eb0f6c"
-    },
-    {
-      "key": "50c10",
-      "songName": "[ReSVRGEnce] SVRGE - SILICA",
-      "hash": "73e459b873740aa7d7030d85e5f775003e275d97",
-      "levelid": "custom_level_73e459b873740aa7d7030d85e5f775003e275d97"
-    },
-    {
-      "key": "50a8e",
-      "songName": "Kikai No Tsubasa feat. Kasane Teto - Camellia ",
-      "hash": "e24785b788ce44fb65d643fc2118d13ef86ef4a4",
-      "levelid": "custom_level_e24785b788ce44fb65d643fc2118d13ef86ef4a4"
-    },
-    {
-      "key": "50c0e",
-      "songName": "Sleep Culture",
-      "hash": "bf0ecb75f83e6d558b135a2709fb5c40fc5671e5",
-      "levelid": "custom_level_bf0ecb75f83e6d558b135a2709fb5c40fc5671e5"
-    },
-    {
-      "key": "50c0b",
-      "songName": "Gelip De Halimi Gördün Mü - Tarkan",
-      "hash": "8a947a0f6370e3870c8287ce3d7ffefbe434abb7",
-      "levelid": "custom_level_8a947a0f6370e3870c8287ce3d7ffefbe434abb7"
-    },
-    {
-      "key": "50c0a",
-      "songName": "辛巴巴巴噜比啦 Симпа (Simpa)",
-      "hash": "9e987e08e198d1377c1cc6bd3c4e86eab3d6eee4",
-      "levelid": "custom_level_9e987e08e198d1377c1cc6bd3c4e86eab3d6eee4"
-    },
-    {
-      "key": "50c08",
-      "songName": "maotigenre",
-      "hash": "b07628ab073ab1f092a28a5f3a7b977aa818ef4a",
-      "levelid": "custom_level_b07628ab073ab1f092a28a5f3a7b977aa818ef4a"
-    },
-    {
-      "key": "50c06",
-      "songName": "Hirokazu Ando - Title Screen / Demo (From \"Kirby's Blowout Blast\")",
-      "hash": "62db501e395a8e5e690a581943ff02e3719765d8",
-      "levelid": "custom_level_62db501e395a8e5e690a581943ff02e3719765d8"
-    },
-    {
-      "key": "50c04",
-      "songName": "Awesome Face Song / Boom Boxx feat. Linda O. - Balla Da Li",
-      "hash": "ab84cf7c9228f95679da3f66976a231cced0e6b4",
-      "levelid": "custom_level_ab84cf7c9228f95679da3f66976a231cced0e6b4"
-    },
-    {
-      "key": "50c05",
-      "songName": "SEV-26",
-      "hash": "9c6215de5fab5b77170df045e319fcf4875cd6a9",
-      "levelid": "custom_level_9c6215de5fab5b77170df045e319fcf4875cd6a9"
-    },
-    {
-      "key": "50c03",
-      "songName": "Lovers",
-      "hash": "a7e8e83e54493e455b0a7574c8e01cc476297027",
-      "levelid": "custom_level_a7e8e83e54493e455b0a7574c8e01cc476297027"
-    },
-    {
-      "key": "50c02",
-      "songName": "Little singing bird (魔法の姉妹ルルットリリィ 挿入歌)",
-      "hash": "f68a5df0d089928baccc06dfc33201ad586539fa",
-      "levelid": "custom_level_f68a5df0d089928baccc06dfc33201ad586539fa"
-    },
-    {
-      "key": "50c00",
-      "songName": "Gravelwalk - Eileen Ivers",
-      "hash": "0d1789f56db6dc0045217ac86805493426653322",
-      "levelid": "custom_level_0d1789f56db6dc0045217ac86805493426653322"
-    },
-    {
-      "key": "50bf5",
-      "songName": "Nuke Powder",
-      "hash": "bb52af3166a5bc13b13b80574cd081985c19336e",
-      "levelid": "custom_level_bb52af3166a5bc13b13b80574cd081985c19336e"
-    },
-    {
-      "key": "50bf4",
-      "songName": "At Least I'm Not A Toucher",
-      "hash": "7e2fe23748c6eece6ccb3e90ad3f52f62a2fe6a7",
-      "levelid": "custom_level_7e2fe23748c6eece6ccb3e90ad3f52f62a2fe6a7"
-    },
-    {
-      "key": "50bf3",
-      "songName": "[Yorushika Pack2] Bubble あぶく - Yorushika (Liargame op)",
-      "hash": "eb45144312b9a6a89dca09a057374fb47299f97a",
-      "levelid": "custom_level_eb45144312b9a6a89dca09a057374fb47299f97a"
-    },
-    {
-      "key": "50bf1",
-      "songName": "Hello? - Clairo, Rejjie Snow",
-      "hash": "988fddea9f87f7316db8aa65cd1f1f547fb60779",
-      "levelid": "custom_level_988fddea9f87f7316db8aa65cd1f1f547fb60779"
-    },
-    {
-      "key": "50bf0",
-      "songName": "Little Bit of Love - Tom Grennan",
-      "hash": "ebcbf7448dc71bcf0186e521a8773fa6a7092e3f",
-      "levelid": "custom_level_ebcbf7448dc71bcf0186e521a8773fa6a7092e3f"
-    },
-    {
-      "key": "50be9",
-      "songName": "Cjbeards - Maestro",
-      "hash": "2682cfa21510aff2de941149f758f4c766ada5f2",
-      "levelid": "custom_level_2682cfa21510aff2de941149f758f4c766ada5f2"
-    },
-    {
-      "key": "50b29",
-      "songName": "#jerseyclub",
-      "hash": "4571d9b95ff2ebf6b7a5a7c2301b586111ccde42",
-      "levelid": "custom_level_4571d9b95ff2ebf6b7a5a7c2301b586111ccde42"
-    },
-    {
-      "key": "50bdb",
-      "songName": "ericdoa - backdoor",
-      "hash": "a0bf69cf63f85edef752772c769f2dc037076baf",
-      "levelid": "custom_level_a0bf69cf63f85edef752772c769f2dc037076baf"
-    },
-    {
-      "key": "50bda",
-      "songName": "lil justy - Knife",
-      "hash": "f952f489b8d9ca501d64efe97f67b289f41b8ed7",
-      "levelid": "custom_level_f952f489b8d9ca501d64efe97f67b289f41b8ed7"
-    },
-    {
-      "key": "50bbf",
-      "songName": "LE SSERAFIM - CELEBRATION",
-      "hash": "c01da9d43248bfa089e79cf92e9d6ec929dff2c1",
-      "levelid": "custom_level_c01da9d43248bfa089e79cf92e9d6ec929dff2c1"
-    },
-    {
-      "key": "50bb5",
-      "songName": "Beyoncé - Green Light (Freemasons Remix)",
-      "hash": "fc0cf8643d8cc3716443bd0e4a0711674e5f25a9",
-      "levelid": "custom_level_fc0cf8643d8cc3716443bd0e4a0711674e5f25a9"
-    },
-    {
-      "key": "50baa",
-      "songName": "easy4me",
-      "hash": "524b547aa01a07e3ea7d574d5c75a6a583ee3881",
-      "levelid": "custom_level_524b547aa01a07e3ea7d574d5c75a6a583ee3881"
-    },
-    {
-      "key": "50b68",
-      "songName": "ZRS Practice IV w Bombs",
-      "hash": "0ebf48ea8e199d2d02cdd2407f32b3260b4d6231",
-      "levelid": "custom_level_0ebf48ea8e199d2d02cdd2407f32b3260b4d6231"
-    },
-    {
-      "key": "50ba4",
-      "songName": "Sunhiausa - Le Virus (Another Mutation Edit)",
-      "hash": "a3b8183c9880221a2937345f09347412f2a882a5",
-      "levelid": "custom_level_a3b8183c9880221a2937345f09347412f2a882a5"
-    },
-    {
-      "key": "47aea",
-      "songName": "Stray Kids - Thunderous",
-      "hash": "7d117b911483a905fbc947c8df3edc91494e5ea6",
-      "levelid": "custom_level_7d117b911483a905fbc947c8df3edc91494e5ea6"
-    },
-    {
-      "key": "50ba3",
-      "songName": "I Hate What I Am",
-      "hash": "4f40c18172aff84b830f721f39c957c985432c50",
-      "levelid": "custom_level_4f40c18172aff84b830f721f39c957c985432c50"
-    },
-    {
-      "key": "50ba2",
-      "songName": "Bad Guy - John Michael Howell",
-      "hash": "4f8a29aadb5c67ca2733eee49b28669f5b0fd480",
-      "levelid": "custom_level_4f8a29aadb5c67ca2733eee49b28669f5b0fd480"
-    },
-    {
-      "key": "50ba1",
-      "songName": "NOOOOO X Dutch Anthem (earrape)",
-      "hash": "85d8e03d635fb6ac448f7a036640d99ab14b21cf",
-      "levelid": "custom_level_85d8e03d635fb6ac448f7a036640d99ab14b21cf"
-    },
-    {
-      "key": "50b88",
-      "songName": "Watching TV Makes You Smarter",
-      "hash": "b8932e2746c6e6f04d85314cece8e72102961bc1",
-      "levelid": "custom_level_b8932e2746c6e6f04d85314cece8e72102961bc1"
-    },
-    {
-      "key": "50b85",
-      "songName": "No mercy",
-      "hash": "5986818bb888a3294c4250bccf28d2aa76955b14",
-      "levelid": "custom_level_5986818bb888a3294c4250bccf28d2aa76955b14"
-    },
-    {
-      "key": "50b84",
-      "songName": "Say Gex",
-      "hash": "cddb1eeeb9506ae3f961382fbd00478209b52b5c",
-      "levelid": "custom_level_cddb1eeeb9506ae3f961382fbd00478209b52b5c"
-    },
-    {
-      "key": "50b7f",
-      "songName": "Mary Jane",
-      "hash": "69b5cf6a2bcf674e6ad12087a4416d4a0b9d7b29",
-      "levelid": "custom_level_69b5cf6a2bcf674e6ad12087a4416d4a0b9d7b29"
-    },
-    {
-      "key": "50b7e",
-      "songName": "vem som helst",
-      "hash": "cf6e2e760604094e39e2a3f3310976d432546a03",
-      "levelid": "custom_level_cf6e2e760604094e39e2a3f3310976d432546a03"
-    },
-    {
-      "key": "50b7d",
-      "songName": "Ljiube Koni",
-      "hash": "5e5bc9d804bd4c1b20cf08a06946905c4cfd32d0",
-      "levelid": "custom_level_5e5bc9d804bd4c1b20cf08a06946905c4cfd32d0"
-    },
-    {
-      "key": "50b7c",
-      "songName": "wide",
-      "hash": "4d94c83bf793d548d6393e411a8a803b5615da66",
-      "levelid": "custom_level_4d94c83bf793d548d6393e411a8a803b5615da66"
-    },
-    {
-      "key": "50b73",
-      "songName": "Hozyayka mednoy gory",
-      "hash": "8fed7d8bcbabb12876e7ffe8ae5051b02907098f",
-      "levelid": "custom_level_8fed7d8bcbabb12876e7ffe8ae5051b02907098f"
-    },
-    {
-      "key": "50b71",
-      "songName": "My Destiny (Bassline Club Mix)",
-      "hash": "e21fda22fd7a8ec0f74de35bf00d8e0b6c3c6ab9",
-      "levelid": "custom_level_e21fda22fd7a8ec0f74de35bf00d8e0b6c3c6ab9"
-    },
-    {
-      "key": "50b70",
-      "songName": "Lapix - Spacewalk",
-      "hash": "8b4b7d1961f10c688e94954013f65cd1d2ff8cd7",
-      "levelid": "custom_level_8b4b7d1961f10c688e94954013f65cd1d2ff8cd7"
-    },
-    {
-      "key": "50b6b",
-      "songName": "Lose yourself not finished",
-      "hash": "6de1ae201479ef392ab3e18e2555a4e023504f79",
-      "levelid": "custom_level_6de1ae201479ef392ab3e18e2555a4e023504f79"
-    },
-    {
-      "key": "50b6a",
-      "songName": "DECO*27 - Rabbit Hole feat. Hatsune Miku",
-      "hash": "d0c99a628e33cfbd149c12cd9861484dd40a6d9b",
-      "levelid": "custom_level_d0c99a628e33cfbd149c12cd9861484dd40a6d9b"
-    },
-    {
-      "key": "50b69",
-      "songName": "(Eurovision 2026 - Greece) Akylas - Ferto",
-      "hash": "4dbe3ad2fb846f080a63ed125bb9f33ef452a5d4",
-      "levelid": "custom_level_4dbe3ad2fb846f080a63ed125bb9f33ef452a5d4"
-    },
-    {
-      "key": "50b67",
-      "songName": "How to say \"I'm gooning to Lebron\" in Chinese",
-      "hash": "a8c2b1727e74745848e85e0e84ca76b6ac107d3a",
-      "levelid": "custom_level_a8c2b1727e74745848e85e0e84ca76b6ac107d3a"
-    },
-    {
-      "key": "50b63",
-      "songName": "feijao with aura v2",
-      "hash": "01846dedfafc4e58973bb0ce700053b39c42f9e9",
-      "levelid": "custom_level_01846dedfafc4e58973bb0ce700053b39c42f9e9"
-    },
-    {
-      "key": "50b62",
-      "songName": "Far Away- Nickelback",
-      "hash": "d6f4cbf2746db05c841c05217b0ac33e23f7cbb8",
-      "levelid": "custom_level_d6f4cbf2746db05c841c05217b0ac33e23f7cbb8"
+      "hash": "d14c048a019dcd9dad9ecf643fb1acb46967a4ce",
+      "levelid": "custom_level_d14c048a019dcd9dad9ecf643fb1acb46967a4ce"
     }
   ],
   "image": ""
