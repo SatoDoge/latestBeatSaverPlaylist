@@ -1,220 +1,172 @@
 {
-  "playlistTitle": "2026-04-29T15:18:48.189Z~2026-04-30T15:18:48.189Z",
+  "playlistTitle": "2026-04-30T15:18:48.568Z~2026-05-01T15:18:48.568Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-04-29T15:18:48.189Z and 2026-04-30T15:18:48.189Z",
+  "discripstion": "Maps published between 2026-04-30T15:18:48.568Z and 2026-05-01T15:18:48.568Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "50c13",
-      "songName": "おかえり - タニユウキ",
-      "hash": "52970a69dbf02d6aab671be5a163c62141fc8797",
-      "levelid": "custom_level_52970a69dbf02d6aab671be5a163c62141fc8797"
+      "key": "50e3d",
+      "songName": "Ender Ember - MYTH & ROID feat. TK (凛として時雨) (ReZero kara Hajimeru Isekai Seikatsu Season 4 END)",
+      "hash": "ff1aa9c56171931f68139fee9e7e2cd1aab7feb9",
+      "levelid": "custom_level_ff1aa9c56171931f68139fee9e7e2cd1aab7feb9"
     },
     {
-      "key": "50db9",
-      "songName": "I Ruin Everything",
-      "hash": "785615f4da42299a3372b046605a34935f8426b4",
-      "levelid": "custom_level_785615f4da42299a3372b046605a34935f8426b4"
+      "key": "50e0e",
+      "songName": "Go Ichinose, Minako Adachi - Battle! (Battle Arena) (From \"Pokémon Champions\")",
+      "hash": "e755fd85b0b1a65a6f6de2a5a135258c935f7e1e",
+      "levelid": "custom_level_e755fd85b0b1a65a6f6de2a5a135258c935f7e1e"
     },
     {
-      "key": "50db7",
-      "songName": "ULTIMATE PHONK CHALLENGE PREMIUM",
-      "hash": "7f384712f9e3e74a4aa9b4d3781e5384b078929b",
-      "levelid": "custom_level_7f384712f9e3e74a4aa9b4d3781e5384b078929b"
+      "key": "50df2",
+      "songName": "リワインド (カードキャプターさくら クリアカード編 ED2)",
+      "hash": "0f5149e8d9ae1ade2d557643d0083d41ef45a97a",
+      "levelid": "custom_level_0f5149e8d9ae1ade2d557643d0083d41ef45a97a"
     },
     {
-      "key": "50db6",
-      "songName": "Xterfusion",
-      "hash": "235225dada92ffd9f2ff3da641df4127c147fa25",
-      "levelid": "custom_level_235225dada92ffd9f2ff3da641df4127c147fa25"
+      "key": "50df0",
+      "songName": "9Lana - DYNA MIND",
+      "hash": "3daa07609989ea1aac52d4f82d37fa2799cb6b51",
+      "levelid": "custom_level_3daa07609989ea1aac52d4f82d37fa2799cb6b51"
     },
     {
-      "key": "50db4",
-      "songName": "Neon Shrine in Shibuya/MKG2",
-      "hash": "f623e38eac3283061bb0ea13aabaf7733b7822ee",
-      "levelid": "custom_level_f623e38eac3283061bb0ea13aabaf7733b7822ee"
+      "key": "50def",
+      "songName": "yonige - Blooming With you [\"Botan Kamiina Fully Blossoms When Drunk\" Opening]",
+      "hash": "3ff7cfb77c9f387b294e53e8b2af21e299932cb3",
+      "levelid": "custom_level_3ff7cfb77c9f387b294e53e8b2af21e299932cb3"
     },
     {
-      "key": "50db2",
-      "songName": "The sound of noise",
-      "hash": "34ad9d400ac24386bf9385e31396f8cc491e8ce0",
-      "levelid": "custom_level_34ad9d400ac24386bf9385e31396f8cc491e8ce0"
+      "key": "50c0f",
+      "songName": "MW:MEU - Paper Plane",
+      "hash": "721c9b7fe5537f6e249fbcaade374214a17d0453",
+      "levelid": "custom_level_721c9b7fe5537f6e249fbcaade374214a17d0453"
     },
     {
-      "key": "50db1",
-      "songName": "Dj Jysbs - MLP - The alternate",
-      "hash": "d9d421dee773be60d88bb35849e7a578f4bbdc54",
-      "levelid": "custom_level_d9d421dee773be60d88bb35849e7a578f4bbdc54"
+      "key": "50dee",
+      "songName": "🤔🤔🤔Red Drink Foam Party🤔🤔🤔",
+      "hash": "bc44739c00e8de32151f069e16f75225b636db07",
+      "levelid": "custom_level_bc44739c00e8de32151f069e16f75225b636db07"
     },
     {
-      "key": "50db0",
-      "songName": "[Feetsaber]HoYoHoYoにしてあげる",
-      "hash": "60df4964733aa2388f93f23e2ef472d41e60097b",
-      "levelid": "custom_level_60df4964733aa2388f93f23e2ef472d41e60097b"
+      "key": "50dec",
+      "songName": "Tyler, the Creator - WHAT'S GOOD",
+      "hash": "827efdb906e25c29626aacf36193b04f7ddebf5e",
+      "levelid": "custom_level_827efdb906e25c29626aacf36193b04f7ddebf5e"
     },
     {
-      "key": "50daf",
-      "songName": "ロケットビート (カードキャプターさくら クリアカード編 OP2)",
-      "hash": "23e65822f6b7bdf4cd149b21c1a4c1ffcaebe826",
-      "levelid": "custom_level_23e65822f6b7bdf4cd149b21c1a4c1ffcaebe826"
+      "key": "50deb",
+      "songName": "König oder Feigling",
+      "hash": "4fadec0f9b6591d023ae42c2485e0ee1ffc2b4cc",
+      "levelid": "custom_level_4fadec0f9b6591d023ae42c2485e0ee1ffc2b4cc"
     },
     {
-      "key": "50da7",
-      "songName": "大家一起喜羊羊",
-      "hash": "e1a66a6e1db60fda8fae0c7b9140adb9970f9528",
-      "levelid": "custom_level_e1a66a6e1db60fda8fae0c7b9140adb9970f9528"
+      "key": "50dea",
+      "songName": "めくるめくランデヴー - FUWAMOCO",
+      "hash": "620b98de5b79d320978a8c581bd751d90dba8a5c",
+      "levelid": "custom_level_620b98de5b79d320978a8c581bd751d90dba8a5c"
     },
     {
-      "key": "50da6",
-      "songName": "not the same",
-      "hash": "4ff09af5f9eea45b5779e3422456195ffab4095a",
-      "levelid": "custom_level_4ff09af5f9eea45b5779e3422456195ffab4095a"
+      "key": "50de9",
+      "songName": "Bang  Bang Bang",
+      "hash": "129b35c5c582cfc0972a13f34371d860e5e4f89b",
+      "levelid": "custom_level_129b35c5c582cfc0972a13f34371d860e5e4f89b"
     },
     {
-      "key": "50da3",
-      "songName": "Besomorph - Liquid Black [Poodles]",
-      "hash": "fe269428a0c56e52752bc8a7fdf0ad06d5c40d11",
-      "levelid": "custom_level_fe269428a0c56e52752bc8a7fdf0ad06d5c40d11"
+      "key": "50de6",
+      "songName": "VDT - Lungus Tunugus (SWURT)",
+      "hash": "d64f0a9276f8f886e77dc6c8913e8d72fdfa6438",
+      "levelid": "custom_level_d64f0a9276f8f886e77dc6c8913e8d72fdfa6438"
     },
     {
-      "key": "50da4",
-      "songName": "Funny You Should Ask - The Front Bottoms",
-      "hash": "5cc5062fff7ac69b10b8a65653f82bc5958472e1",
-      "levelid": "custom_level_5cc5062fff7ac69b10b8a65653f82bc5958472e1"
+      "key": "50de8",
+      "songName": "Cicada - Good Kid",
+      "hash": "ba74d88182fb07d4e2b097eaa1051d77a430c9a9",
+      "levelid": "custom_level_ba74d88182fb07d4e2b097eaa1051d77a430c9a9"
     },
     {
-      "key": "50da2",
-      "songName": "MAKE A SCENE! - ZØMB",
-      "hash": "e73eb64572ede61e7001d84c045755b86e2b16a0",
-      "levelid": "custom_level_e73eb64572ede61e7001d84c045755b86e2b16a0"
+      "key": "50de7",
+      "songName": "SAIGO NO HANABIRA (The meaning of love)",
+      "hash": "dc2b8789d5aa70bb28851b91204b404a085572fd",
+      "levelid": "custom_level_dc2b8789d5aa70bb28851b91204b404a085572fd"
     },
     {
-      "key": "50d9f",
-      "songName": "ROY KNOX - Reach the Stars",
-      "hash": "0655b4ef46f179e2d8dde4b3edbfca29574e81ad",
-      "levelid": "custom_level_0655b4ef46f179e2d8dde4b3edbfca29574e81ad"
+      "key": "50de5",
+      "songName": "Duck Song 15",
+      "hash": "ee2f36b772113ada9a1b8401b6b76d67597b6047",
+      "levelid": "custom_level_ee2f36b772113ada9a1b8401b6b76d67597b6047"
     },
     {
-      "key": "50d9d",
-      "songName": "think again... (UNNERFED)",
-      "hash": "731bcd8ff47334a285e840c45ac3d78a6d686836",
-      "levelid": "custom_level_731bcd8ff47334a285e840c45ac3d78a6d686836"
+      "key": "50de3",
+      "songName": "Memories",
+      "hash": "e48399c6398ff1caee01dc440836f5d6836300fe",
+      "levelid": "custom_level_e48399c6398ff1caee01dc440836f5d6836300fe"
     },
     {
-      "key": "50d9a",
-      "songName": "piracy is okay7",
-      "hash": "022c072e53de2a12b3e4757de5d0972b38ad3e51",
-      "levelid": "custom_level_022c072e53de2a12b3e4757de5d0972b38ad3e51"
+      "key": "50dde",
+      "songName": "[Madoka Magica Pack Vol. 2] Yuki Kajiura - Holy Quintet",
+      "hash": "d0666543a7f6492bd098ba54d9687c176a1a6ed3",
+      "levelid": "custom_level_d0666543a7f6492bd098ba54d9687c176a1a6ed3"
     },
     {
-      "key": "50d99",
-      "songName": "500000 bpm piano vibro for 20 seconds (BUFFED!!)",
-      "hash": "c1fc9df3c442f8fbfde43d5b85ebdc4163e7e850",
-      "levelid": "custom_level_c1fc9df3c442f8fbfde43d5b85ebdc4163e7e850"
+      "key": "50ddc",
+      "songName": "Obsessed",
+      "hash": "690f9f55881e43af54e4a276cd2d195f33932932",
+      "levelid": "custom_level_690f9f55881e43af54e4a276cd2d195f33932932"
     },
     {
-      "key": "50d97",
-      "songName": "500000 bpm piano vibro for 20 seconds",
-      "hash": "6d9e0a95217372b2033aca0806c72555834dfef3",
-      "levelid": "custom_level_6d9e0a95217372b2033aca0806c72555834dfef3"
+      "key": "50dd7",
+      "songName": "so bitter - Stxlkin",
+      "hash": "f21804c925e4a6b58ff9d94a19ef9fc08688dba0",
+      "levelid": "custom_level_f21804c925e4a6b58ff9d94a19ef9fc08688dba0"
     },
     {
-      "key": "50d96",
-      "songName": "una animación no muestra",
-      "hash": "635270c11c6efcd661c4eacd4f143da1c863c84c",
-      "levelid": "custom_level_635270c11c6efcd661c4eacd4f143da1c863c84c"
+      "key": "50dd5",
+      "songName": "caramelldansen - hardtekk (slowed + reverb)",
+      "hash": "ddfb048103b74247cee1c767958e16f1cd6c8fa7",
+      "levelid": "custom_level_ddfb048103b74247cee1c767958e16f1cd6c8fa7"
     },
     {
-      "key": "50d95",
-      "songName": " ҉W҉A҉T҉C҉H҉E҉R",
-      "hash": "ba4553509bdb8b14ae86911a7aaccec61cc1a3dc",
-      "levelid": "custom_level_ba4553509bdb8b14ae86911a7aaccec61cc1a3dc"
+      "key": "50dd3",
+      "songName": "Buddy - the orwells",
+      "hash": "8b24285fd74c874c9bedfa55d8579d6b3d014cd1",
+      "levelid": "custom_level_8b24285fd74c874c9bedfa55d8579d6b3d014cd1"
     },
     {
-      "key": "50d6d",
-      "songName": "I would never cry to a song, let's be honest",
-      "hash": "829720b188b088430256c8f66c60ec44d2ea5a47",
-      "levelid": "custom_level_829720b188b088430256c8f66c60ec44d2ea5a47"
+      "key": "50dd0",
+      "songName": "Kyle's moms a bitch",
+      "hash": "bb741ab81f595ddc0c5b39d10d3f5e4ecf70da54",
+      "levelid": "custom_level_bb741ab81f595ddc0c5b39d10d3f5e4ecf70da54"
     },
     {
-      "key": "50d4b",
-      "songName": "[Fitbeat] Frost Children - Electric",
-      "hash": "71de3cb6ed01ec9450316e37859da7b72325d75c",
-      "levelid": "custom_level_71de3cb6ed01ec9450316e37859da7b72325d75c"
+      "key": "50dbf",
+      "songName": "[V4]  glaive - i wanna slam my head against the wall",
+      "hash": "c818f9ffdd3fdc17fbd8e0c25815d6b4d06dfcda",
+      "levelid": "custom_level_c818f9ffdd3fdc17fbd8e0c25815d6b4d06dfcda"
     },
     {
-      "key": "50d6b",
-      "songName": "MANIC - SCENAR10",
-      "hash": "a06fb1ecab8bd0e4f893d35469a38d70817cacff",
-      "levelid": "custom_level_a06fb1ecab8bd0e4f893d35469a38d70817cacff"
+      "key": "50dcd",
+      "songName": "idk",
+      "hash": "13fb7239f6c379317ec475ae22b468d499912fde",
+      "levelid": "custom_level_13fb7239f6c379317ec475ae22b468d499912fde"
     },
     {
-      "key": "50d69",
-      "songName": "Various Artists - Beat Saber 3 Year Megamix",
-      "hash": "1f6b547d4610a12a3d8a6a0711b5290443a97edc",
-      "levelid": "custom_level_1f6b547d4610a12a3d8a6a0711b5290443a97edc"
+      "key": "50dcc",
+      "songName": "Strangers Once Again - Tanger, Treb, Ofir Tabakov",
+      "hash": "ada599ddd3e825fc222988dbd8c9b1c5f87c2fd3",
+      "levelid": "custom_level_ada599ddd3e825fc222988dbd8c9b1c5f87c2fd3"
     },
     {
-      "key": "50d68",
-      "songName": "tylko nie kosciul",
-      "hash": "86ad5f47ef193fda47a47c6142f6aaddb70cad5c",
-      "levelid": "custom_level_86ad5f47ef193fda47a47c6142f6aaddb70cad5c"
+      "key": "50dca",
+      "songName": "TIA ft. Lê Thiện Hiếu - Ai đưa em về（low cortisol song）",
+      "hash": "40bc31fe10f85b23cdaa657e03419950d0c5173c",
+      "levelid": "custom_level_40bc31fe10f85b23cdaa657e03419950d0c5173c"
     },
     {
-      "key": "50d62",
-      "songName": "Kuleczki",
-      "hash": "4a9af4bc64be606dd3518e7ff7d1f533ccc34d3b",
-      "levelid": "custom_level_4a9af4bc64be606dd3518e7ff7d1f533ccc34d3b"
-    },
-    {
-      "key": "50d5e",
-      "songName": "Chemical Coffins",
-      "hash": "e9606a76c122193c5ae0377bc8d080ddda980a0c",
-      "levelid": "custom_level_e9606a76c122193c5ae0377bc8d080ddda980a0c"
-    },
-    {
-      "key": "50d5c",
-      "songName": "Orange County",
-      "hash": "024c2cf1582b481ab8a8032fa7693305c8ceb417",
-      "levelid": "custom_level_024c2cf1582b481ab8a8032fa7693305c8ceb417"
-    },
-    {
-      "key": "50d53",
-      "songName": "Anons Seed",
-      "hash": "0638791fe69590800d578a8f6562a4d5cc49d3c2",
-      "levelid": "custom_level_0638791fe69590800d578a8f6562a4d5cc49d3c2"
-    },
-    {
-      "key": "50d4f",
-      "songName": "F-777 - Dark Angel",
-      "hash": "a971bef6c17fb74bf20559f9d88e6f03645aa731",
-      "levelid": "custom_level_a971bef6c17fb74bf20559f9d88e6f03645aa731"
-    },
-    {
-      "key": "50d4e",
-      "songName": "Sub Focus - Solar System (Migats remix)",
-      "hash": "39750eadb01d80b19329220d0c305e2ee6d5a34c",
-      "levelid": "custom_level_39750eadb01d80b19329220d0c305e2ee6d5a34c"
-    },
-    {
-      "key": "50d4c",
-      "songName": "Armcross (first edition)",
-      "hash": "268cb0e1e4c5c3f47a645aad883649917d0746e3",
-      "levelid": "custom_level_268cb0e1e4c5c3f47a645aad883649917d0746e3"
-    },
-    {
-      "key": "50d34",
-      "songName": "LUZ ROJA x  Amor Na Praia",
-      "hash": "4f221232109859b533a8b25f16e569d0e279b36b",
-      "levelid": "custom_level_4f221232109859b533a8b25f16e569d0e279b36b"
-    },
-    {
-      "key": "50d48",
-      "songName": "Day mne vso",
-      "hash": "7e258843e104483373f993fbb3aecab122435ff6",
-      "levelid": "custom_level_7e258843e104483373f993fbb3aecab122435ff6"
+      "key": "50dc0",
+      "songName": "Anon's seed",
+      "hash": "7767da5e48b34b789b813ee34b9d9dcd2b90907c",
+      "levelid": "custom_level_7767da5e48b34b789b813ee34b9d9dcd2b90907c"
     }
   ],
   "image": ""
