@@ -1,190 +1,274 @@
 {
-  "playlistTitle": "2026-05-01T15:18:48.037Z~2026-05-02T15:18:48.037Z",
+  "playlistTitle": "2026-05-02T15:18:48.109Z~2026-05-03T15:18:48.109Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-01T15:18:48.037Z and 2026-05-02T15:18:48.037Z",
+  "discripstion": "Maps published between 2026-05-02T15:18:48.109Z and 2026-05-03T15:18:48.109Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "50ef7",
-      "songName": "Borderline Girl",
-      "hash": "20c184605d59c06907dea29f745d7f0fa01d5d36",
-      "levelid": "custom_level_20c184605d59c06907dea29f745d7f0fa01d5d36"
+      "key": "50f7c",
+      "songName": "renforshort - hate the way you love me (Nightcore & Cut Ver.)",
+      "hash": "1c4f43b5b4cd34cc42e61b425a7b9cf2bb116bf8",
+      "levelid": "custom_level_1c4f43b5b4cd34cc42e61b425a7b9cf2bb116bf8"
     },
     {
-      "key": "50eed",
-      "songName": "Kawaii Ripper - Wanna Play?",
-      "hash": "3e66c9aeb8346a2dd0cc8448b348a6cd2db71329",
-      "levelid": "custom_level_3e66c9aeb8346a2dd0cc8448b348a6cd2db71329"
+      "key": "4fdb4",
+      "songName": "Rio - Hot Wings",
+      "hash": "5db1829ff72e065468bef3fc352b8c47194b7f80",
+      "levelid": "custom_level_5db1829ff72e065468bef3fc352b8c47194b7f80"
     },
     {
-      "key": "50ea1",
-      "songName": "Bon Apetit - HOKKA",
-      "hash": "a3450b1a9f60b74900a51d5467587e2d8afed2f3",
-      "levelid": "custom_level_a3450b1a9f60b74900a51d5467587e2d8afed2f3"
+      "key": "50f7a",
+      "songName": "HiTECH NINJA - Modelista",
+      "hash": "1cf0fcbc8be999e6bacafc7f7e9a0ee6a0baeb04",
+      "levelid": "custom_level_1cf0fcbc8be999e6bacafc7f7e9a0ee6a0baeb04"
     },
     {
-      "key": "50ee6",
-      "songName": "刚好遇见你",
-      "hash": "79d1b62ad5b35407b8edde9bb9ceb42e4e001eb9",
-      "levelid": "custom_level_79d1b62ad5b35407b8edde9bb9ceb42e4e001eb9"
+      "key": "50f79",
+      "songName": "【V3 MAP】一命矣（yi ming yi）- 银临（Yin Lin）",
+      "hash": "b700ceddc0ef1420608cc141244dfd934b0a7e6d",
+      "levelid": "custom_level_b700ceddc0ef1420608cc141244dfd934b0a7e6d"
     },
     {
-      "key": "50ee5",
+      "key": "50f6c",
+      "songName": "The Battle of Award 42 - A Hat in Time OST",
+      "hash": "a8e33b77c8c8068dc72c44e13d2ff2b5f83463b5",
+      "levelid": "custom_level_a8e33b77c8c8068dc72c44e13d2ff2b5f83463b5"
+    },
+    {
+      "key": "50f78",
+      "songName": "playing 1.3.2 on my moms laptop without a single care for the outside world",
+      "hash": "32f257bf51e87903c3c60b4f46e80799d385fc3d",
+      "levelid": "custom_level_32f257bf51e87903c3c60b4f46e80799d385fc3d"
+    },
+    {
+      "key": "50f74",
+      "songName": "Tirori mix 2025",
+      "hash": "c227db6ed05237a23fe3e4b0e4e5eb03bd4cbba3",
+      "levelid": "custom_level_c227db6ed05237a23fe3e4b0e4e5eb03bd4cbba3"
+    },
+    {
+      "key": "50f72",
+      "songName": "Tirori mix 2024",
+      "hash": "b325d04506d8728c52bc985030704a246c7a050d",
+      "levelid": "custom_level_b325d04506d8728c52bc985030704a246c7a050d"
+    },
+    {
+      "key": "50f71",
+      "songName": "Tirori mix 2023",
+      "hash": "6d89fb69f35d29be567d9ebc0a45f5f2befa436f",
+      "levelid": "custom_level_6d89fb69f35d29be567d9ebc0a45f5f2befa436f"
+    },
+    {
+      "key": "50f6b",
+      "songName": "瞬間、シンフォニー。 – 40mP / かぐや(cv.夏吉ゆうこ)",
+      "hash": "a418244d48468731319bc5e9bebf549830fa8a7e",
+      "levelid": "custom_level_a418244d48468731319bc5e9bebf549830fa8a7e"
+    },
+    {
+      "key": "50f6a",
+      "songName": "kets4eki, asteria & wasty - #RAVELIFE (Zana's Speedcrunk Bootleg)",
+      "hash": "123287a4a19a9c0006609974a39b974ef940d474",
+      "levelid": "custom_level_123287a4a19a9c0006609974a39b974ef940d474"
+    },
+    {
+      "key": "50f60",
+      "songName": "ホントノキモチ (ゼロの使い魔 ED)",
+      "hash": "8c53302f86399d4d37e243437f0509d2c6f56482",
+      "levelid": "custom_level_8c53302f86399d4d37e243437f0509d2c6f56482"
+    },
+    {
+      "key": "50f58",
+      "songName": "[Cinema]DJ Myosuke - Break The Speakers【maimai でらっくす】",
+      "hash": "e1544c2deb971ec1d0481450a1f8ee418c5fd931",
+      "levelid": "custom_level_e1544c2deb971ec1d0481450a1f8ee418c5fd931"
+    },
+    {
+      "key": "50f54",
+      "songName": "Chenomio - It's fiction. feat.Kasane teto",
+      "hash": "d52c702ae05ea90a999efc0dd66b053f891174f4",
+      "levelid": "custom_level_d52c702ae05ea90a999efc0dd66b053f891174f4"
+    },
+    {
+      "key": "50f53",
+      "songName": "Slowtown",
+      "hash": "8064259bc1f184bfebd2ed30998e9718106890a2",
+      "levelid": "custom_level_8064259bc1f184bfebd2ed30998e9718106890a2"
+    },
+    {
+      "key": "50f52",
+      "songName": "Tokyo Manaka - Doomer (Cover by KAF)",
+      "hash": "e46316c5144a13ac9eab8090a39dff427b924a46",
+      "levelid": "custom_level_e46316c5144a13ac9eab8090a39dff427b924a46"
+    },
+    {
+      "key": "50f4d",
+      "songName": "Pascal Michael Stiefel - Picture Perfect (From \"A Hat in Time\")",
+      "hash": "deeb30095b6121246f32d59a3a95bf0a52bf1f3c",
+      "levelid": "custom_level_deeb30095b6121246f32d59a3a95bf0a52bf1f3c"
+    },
+    {
+      "key": "50f27",
+      "songName": "Beat Saber 8th Anniversary",
+      "hash": "e7db53ba0d2516e46ec2ecba56e852ee8417b87d",
+      "levelid": "custom_level_e7db53ba0d2516e46ec2ecba56e852ee8417b87d"
+    },
+    {
+      "key": "50f41",
+      "songName": "Unwelcome School (t+pazolite Remix)",
+      "hash": "72a2454420a0a7740938c5e13a85cb5b322494db",
+      "levelid": "custom_level_72a2454420a0a7740938c5e13a85cb5b322494db"
+    },
+    {
+      "key": "50f40",
+      "songName": "111111123",
+      "hash": "b8ca8daca104ee1cfe0fea799c89fd8270c00758",
+      "levelid": "custom_level_b8ca8daca104ee1cfe0fea799c89fd8270c00758"
+    },
+    {
+      "key": "50f32",
+      "songName": "Xterfusion",
+      "hash": "ddddd8c232faca1833a9fedd145ac2d507da46ca",
+      "levelid": "custom_level_ddddd8c232faca1833a9fedd145ac2d507da46ca"
+    },
+    {
+      "key": "50f30",
       "songName": "TRYNA FUCK",
-      "hash": "d8b4a957e62fe42cfec2ecf08133cc8a68b1407a",
-      "levelid": "custom_level_d8b4a957e62fe42cfec2ecf08133cc8a68b1407a"
+      "hash": "2b76bae59dfdfd3aae23fd45a8093ab2a045726e",
+      "levelid": "custom_level_2b76bae59dfdfd3aae23fd45a8093ab2a045726e"
     },
     {
-      "key": "50ee4",
-      "songName": "FORWARD RUSSIA",
-      "hash": "1c6e232e42cf9d7488ad30d9a30ffe079d3a5ac8",
-      "levelid": "custom_level_1c6e232e42cf9d7488ad30d9a30ffe079d3a5ac8"
+      "key": "50f2f",
+      "songName": "METAROOM - GOD RACE",
+      "hash": "45c45eb9c31b8d668a298224128b8507b6bfd34b",
+      "levelid": "custom_level_45c45eb9c31b8d668a298224128b8507b6bfd34b"
     },
     {
-      "key": "50ee1",
-      "songName": "First kiss (ゼロの使い魔 OP)",
-      "hash": "a9c4d03c6794794b7d5746b3ad6476f0e9204bd5",
-      "levelid": "custom_level_a9c4d03c6794794b7d5746b3ad6476f0e9204bd5"
+      "key": "50f2d",
+      "songName": "machineheart - Circles (ft. Vanic)",
+      "hash": "8d1e9dbf0df11a6cc822a50935a41cbf8b26d368",
+      "levelid": "custom_level_8d1e9dbf0df11a6cc822a50935a41cbf8b26d368"
     },
     {
-      "key": "50edd",
-      "songName": "[Yorushika Pack2] Plover 千鳥 - Yorushika",
-      "hash": "0beb66a02969f4ef72aa9a20b4f7c8fcaecfff77",
-      "levelid": "custom_level_0beb66a02969f4ef72aa9a20b4f7c8fcaecfff77"
+      "key": "50f2c",
+      "songName": "[SPECIAL 50 MAPS] Takehirotei - Rhythmemories",
+      "hash": "9e9e305bcbe2fdb06c066cd19d98e304b9f86feb",
+      "levelid": "custom_level_9e9e305bcbe2fdb06c066cd19d98e304b9f86feb"
     },
     {
-      "key": "50edb",
-      "songName": "YOU'RE MINE",
-      "hash": "92e69f01dc5576faff2fdc8c66c5d5d760468755",
-      "levelid": "custom_level_92e69f01dc5576faff2fdc8c66c5d5d760468755"
+      "key": "50f2b",
+      "songName": "Sexy And I Know It",
+      "hash": "2b43b5066ee6f19bad6849df7a5e2863ccf05484",
+      "levelid": "custom_level_2b43b5066ee6f19bad6849df7a5e2863ccf05484"
     },
     {
-      "key": "50eda",
-      "songName": "花澤香菜「Cipher Cipher」covered by ポルカドットスティングレイ",
-      "hash": "40eb0b4d922b6d46e870f17a8258f7d5fde7545b",
-      "levelid": "custom_level_40eb0b4d922b6d46e870f17a8258f7d5fde7545b"
+      "key": "50f2a",
+      "songName": "Machine Girl - Infinite Potentiality",
+      "hash": "abe086fe38f3f89f6307ca3165657de53147f1c5",
+      "levelid": "custom_level_abe086fe38f3f89f6307ca3165657de53147f1c5"
     },
     {
-      "key": "50ed8",
-      "songName": "I See MONSTAS - Holdin' On (Skrillex & Nero Remix)",
-      "hash": "8e4b55619c15fe9b5943e03a1aecbd2ddf4f7a49",
-      "levelid": "custom_level_8e4b55619c15fe9b5943e03a1aecbd2ddf4f7a49"
+      "key": "50f28",
+      "songName": "Tea time for two!",
+      "hash": "15d1dcb16b145f89f77d6e6391955cd00cc0c49b",
+      "levelid": "custom_level_15d1dcb16b145f89f77d6e6391955cd00cc0c49b"
     },
     {
-      "key": "50ed7",
-      "songName": "Guess featuring billie eilish",
-      "hash": "bee7ff55e805e54c969f9f81a35c6f2254a88266",
-      "levelid": "custom_level_bee7ff55e805e54c969f9f81a35c6f2254a88266"
+      "key": "50f25",
+      "songName": "ivycomb - LDR",
+      "hash": "14e3649343100328c2198d880efa6bd38f58f2ac",
+      "levelid": "custom_level_14e3649343100328c2198d880efa6bd38f58f2ac"
     },
     {
-      "key": "50ed5",
-      "songName": "Uptempo explained by kitties ",
-      "hash": "e942412872feaa6ccc2a5a8d8d283677585296fa",
-      "levelid": "custom_level_e942412872feaa6ccc2a5a8d8d283677585296fa"
+      "key": "50ede",
+      "songName": "M2U - Quo Vadis",
+      "hash": "cc58122e9565731f010c64cae6e09d5bba049b75",
+      "levelid": "custom_level_cc58122e9565731f010c64cae6e09d5bba049b75"
     },
     {
-      "key": "50ed4",
-      "songName": "[Dance] Bearn & S3RL - TRILLIUM HARDTEKK",
-      "hash": "c9a6c68acd224a9557f4d3c5a3b550d1e7389fcc",
-      "levelid": "custom_level_c9a6c68acd224a9557f4d3c5a3b550d1e7389fcc"
+      "key": "50f24",
+      "songName": "Toby Fox - GUARDIAN",
+      "hash": "66a1bdca5d75c81987fbb167d6390bef576d4496",
+      "levelid": "custom_level_66a1bdca5d75c81987fbb167d6390bef576d4496"
     },
     {
-      "key": "50ec3",
-      "songName": "A$AP Rocky - Sandman",
-      "hash": "4a2c98215c04a93175144d085674a87d9d7eea00",
-      "levelid": "custom_level_4a2c98215c04a93175144d085674a87d9d7eea00"
+      "key": "50f1e",
+      "songName": "Eat You Up",
+      "hash": "1afd0b22c32c39772e5b5ed5888d1ec3afb36686",
+      "levelid": "custom_level_1afd0b22c32c39772e5b5ed5888d1ec3afb36686"
     },
     {
-      "key": "50ebd",
-      "songName": "Glenn Leroi - Monstrum song",
-      "hash": "400d97a385849cc4aaf5ec8dc38e5d0ec9c59c9a",
-      "levelid": "custom_level_400d97a385849cc4aaf5ec8dc38e5d0ec9c59c9a"
+      "key": "50f1d",
+      "songName": "lets test your skills",
+      "hash": "d8f8eaf2912e4c7e961db31a3fc06a391bb67596",
+      "levelid": "custom_level_d8f8eaf2912e4c7e961db31a3fc06a391bb67596"
     },
     {
-      "key": "50eb9",
-      "songName": "NEMONEMO",
-      "hash": "9281e0b9ba783861ca0abcab51cc93a59bfc2a16",
-      "levelid": "custom_level_9281e0b9ba783861ca0abcab51cc93a59bfc2a16"
+      "key": "50f17",
+      "songName": "da frog",
+      "hash": "705a137e0b6816582ebf6ff97b383f3c9f3e1db7",
+      "levelid": "custom_level_705a137e0b6816582ebf6ff97b383f3c9f3e1db7"
     },
     {
-      "key": "50eb8",
-      "songName": "i wanna kno by 2 mello",
-      "hash": "da559df2175f10f7c400df1095928553b418f513",
-      "levelid": "custom_level_da559df2175f10f7c400df1095928553b418f513"
+      "key": "50c0c",
+      "songName": "[BSTS All Stars] seatrus - cryptic worthy widgEt",
+      "hash": "bcf05fa4ba74868423bb07db1579bb6d21a7ff02",
+      "levelid": "custom_level_bcf05fa4ba74868423bb07db1579bb6d21a7ff02"
     },
     {
-      "key": "50eac",
-      "songName": "I ᑕᗩᑎT ᗰᗩKE ᗩ GOOᗪ ᗰᗩᑭ ᗩᗩᗩᗩᗩᗩᗩᗩᗩᗩᗩ",
-      "hash": "9922bbb0b8f0a4afb538f29729dd4a07b2c9d3e5",
-      "levelid": "custom_level_9922bbb0b8f0a4afb538f29729dd4a07b2c9d3e5"
+      "key": "50df8",
+      "songName": "[BSTS All Stars] MYUKKE. - Fete of Fate",
+      "hash": "fd3715146c15c51a8a98aacb0b75a7f1ecf937ac",
+      "levelid": "custom_level_fd3715146c15c51a8a98aacb0b75a7f1ecf937ac"
     },
     {
-      "key": "50dbe",
-      "songName": "ATEEZ - NASA",
-      "hash": "834add054bd7d9b7769ec1f8da525179e0d2c294",
-      "levelid": "custom_level_834add054bd7d9b7769ec1f8da525179e0d2c294"
+      "key": "50f09",
+      "songName": "Be Alone",
+      "hash": "e70bd20c9c9e8354dba9db5426be57976efdf42e",
+      "levelid": "custom_level_e70bd20c9c9e8354dba9db5426be57976efdf42e"
     },
     {
-      "key": "50ea9",
-      "songName": "500000 bpm piano vibro for 20 seconds (EXTRA BUFFED!!)",
-      "hash": "02fa8e19200e2d77787595c16692bb22a4dae993",
-      "levelid": "custom_level_02fa8e19200e2d77787595c16692bb22a4dae993"
+      "key": "50f08",
+      "songName": "SUPERMODEL",
+      "hash": "06f2c322529c18be66e7b0c692238c863c9ccde6",
+      "levelid": "custom_level_06f2c322529c18be66e7b0c692238c863c9ccde6"
     },
     {
-      "key": "50ea7",
-      "songName": "BABYMONSTER - Woke Up In Tokyo (RUKA & ASA)",
-      "hash": "3e2808a5be183da119c64d775eeddb1996740d92",
-      "levelid": "custom_level_3e2808a5be183da119c64d775eeddb1996740d92"
+      "key": "50f06",
+      "songName": "fripSide - fortissimo-from insanity affection-",
+      "hash": "a3f658a5055bb50b6aafe56848d4aafad6d9389a",
+      "levelid": "custom_level_a3f658a5055bb50b6aafe56848d4aafad6d9389a"
     },
     {
-      "key": "50ea5",
-      "songName": "outside",
-      "hash": "015554c7cc92463007e40dafe5362e3a1c9a5645",
-      "levelid": "custom_level_015554c7cc92463007e40dafe5362e3a1c9a5645"
+      "key": "50f05",
+      "songName": "Few And Far Between - Origami Angel",
+      "hash": "d96f43d2fe848bc310623fd67606e51667b725d7",
+      "levelid": "custom_level_d96f43d2fe848bc310623fd67606e51667b725d7"
     },
     {
-      "key": "50ea3",
-      "songName": "t+pazolite - Paranoid Arc",
-      "hash": "1fcacf050cb88a4d7fc1c5d07ff1d75cacb0002a",
-      "levelid": "custom_level_1fcacf050cb88a4d7fc1c5d07ff1d75cacb0002a"
+      "key": "5077b",
+      "songName": "Younha - Comet",
+      "hash": "9ddcb37ccfb44347e88adbb6d78f5dedb5e75064",
+      "levelid": "custom_level_9ddcb37ccfb44347e88adbb6d78f5dedb5e75064"
     },
     {
-      "key": "50e9f",
-      "songName": "witchblades!",
-      "hash": "3d224d8e308bdaad5eda3d7937fa9b95b860aad7",
-      "levelid": "custom_level_3d224d8e308bdaad5eda3d7937fa9b95b860aad7"
+      "key": "50b15",
+      "songName": "Nova Charisma - Gemini",
+      "hash": "70581e8ef9080815fa5aad6027f584b9037146cb",
+      "levelid": "custom_level_70581e8ef9080815fa5aad6027f584b9037146cb"
     },
     {
-      "key": "50e9e",
-      "songName": "Everlasting Eternity - Ludicin (Buffed)",
-      "hash": "65718b8a5681bd0fe5b9dadae1fa7c533787be70",
-      "levelid": "custom_level_65718b8a5681bd0fe5b9dadae1fa7c533787be70"
+      "key": "50f00",
+      "songName": "Precarious",
+      "hash": "f9de5930c7055fbef0e4460cec0545c130cbb53c",
+      "levelid": "custom_level_f9de5930c7055fbef0e4460cec0545c130cbb53c"
     },
     {
-      "key": "50e9d",
-      "songName": "The Hand That Feeds - Nine Inch Nails",
-      "hash": "caa535791a867c37d7d259de2b7ce38a4a13b2cd",
-      "levelid": "custom_level_caa535791a867c37d7d259de2b7ce38a4a13b2cd"
-    },
-    {
-      "key": "50e79",
-      "songName": "SFA - Dienos Advento",
-      "hash": "22c62c968e56ee70c2cf9333ba97b9d1a4214aed",
-      "levelid": "custom_level_22c62c968e56ee70c2cf9333ba97b9d1a4214aed"
-    },
-    {
-      "key": "50e78",
-      "songName": "かめりあ - Xroniàl Xéro(Laur Remix)",
-      "hash": "fcf453d916b82b5785c25054b3a7baa88d8ba95e",
-      "levelid": "custom_level_fcf453d916b82b5785c25054b3a7baa88d8ba95e"
-    },
-    {
-      "key": "50e3d",
-      "songName": "Ender Ember - MYTH & ROID feat. TK (凛として時雨) (ReZero kara Hajimeru Isekai Seikatsu Season 4 END)",
-      "hash": "10fbb63ca93378e527291d40ce01649a1ce61b82",
-      "levelid": "custom_level_10fbb63ca93378e527291d40ce01649a1ce61b82"
+      "key": "50ead",
+      "songName": "セガサターン、シロ！ / せがた三四郎",
+      "hash": "29567be05e9843b8e938b6fd706a5555ced07299",
+      "levelid": "custom_level_29567be05e9843b8e938b6fd706a5555ced07299"
     }
   ],
   "image": ""
