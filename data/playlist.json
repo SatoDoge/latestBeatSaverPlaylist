@@ -1,274 +1,250 @@
 {
-  "playlistTitle": "2026-05-02T15:18:48.109Z~2026-05-03T15:18:48.109Z",
+  "playlistTitle": "2026-05-03T15:18:50.157Z~2026-05-04T15:18:50.157Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-02T15:18:48.109Z and 2026-05-03T15:18:48.109Z",
+  "discripstion": "Maps published between 2026-05-03T15:18:50.157Z and 2026-05-04T15:18:50.157Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "50f7c",
-      "songName": "renforshort - hate the way you love me (Nightcore & Cut Ver.)",
-      "hash": "1c4f43b5b4cd34cc42e61b425a7b9cf2bb116bf8",
-      "levelid": "custom_level_1c4f43b5b4cd34cc42e61b425a7b9cf2bb116bf8"
+      "key": "50fd4",
+      "songName": "Blueprint Supreme - SKAI ISYOURGGOD&AR",
+      "hash": "f33364236bc29a2cfdfb65e988463ce8b97d0e46",
+      "levelid": "custom_level_f33364236bc29a2cfdfb65e988463ce8b97d0e46"
     },
     {
-      "key": "4fdb4",
-      "songName": "Rio - Hot Wings",
-      "hash": "5db1829ff72e065468bef3fc352b8c47194b7f80",
-      "levelid": "custom_level_5db1829ff72e065468bef3fc352b8c47194b7f80"
+      "key": "50fd3",
+      "songName": "Fumie Kumatani & SEGA SOUND TEAM - Apotos Day - Hub",
+      "hash": "aa75e2c3b14ea84570647edef9c15fd033bce4ef",
+      "levelid": "custom_level_aa75e2c3b14ea84570647edef9c15fd033bce4ef"
     },
     {
-      "key": "50f7a",
-      "songName": "HiTECH NINJA - Modelista",
-      "hash": "1cf0fcbc8be999e6bacafc7f7e9a0ee6a0baeb04",
-      "levelid": "custom_level_1cf0fcbc8be999e6bacafc7f7e9a0ee6a0baeb04"
+      "key": "50fd2",
+      "songName": "Daria NEGRA - Chillout",
+      "hash": "ced1db7de00cf5031458163191aad544f816636c",
+      "levelid": "custom_level_ced1db7de00cf5031458163191aad544f816636c"
     },
     {
-      "key": "50f79",
-      "songName": "【V3 MAP】一命矣（yi ming yi）- 银临（Yin Lin）",
-      "hash": "b700ceddc0ef1420608cc141244dfd934b0a7e6d",
-      "levelid": "custom_level_b700ceddc0ef1420608cc141244dfd934b0a7e6d"
+      "key": "50f1b",
+      "songName": "ConcernedApe - Sun Room (Alone with Relaxing Tea)",
+      "hash": "ba03581b6097d51d6709c5e3a9ef9093b4e00381",
+      "levelid": "custom_level_ba03581b6097d51d6709c5e3a9ef9093b4e00381"
     },
     {
-      "key": "50f6c",
-      "songName": "The Battle of Award 42 - A Hat in Time OST",
-      "hash": "a8e33b77c8c8068dc72c44e13d2ff2b5f83463b5",
-      "levelid": "custom_level_a8e33b77c8c8068dc72c44e13d2ff2b5f83463b5"
+      "key": "50fd0",
+      "songName": "Nor - Raise the Huddle",
+      "hash": "908a8a3e885ce73af9b6d2fa37fd4981e9b00b76",
+      "levelid": "custom_level_908a8a3e885ce73af9b6d2fa37fd4981e9b00b76"
     },
     {
-      "key": "50f78",
-      "songName": "playing 1.3.2 on my moms laptop without a single care for the outside world",
-      "hash": "32f257bf51e87903c3c60b4f46e80799d385fc3d",
-      "levelid": "custom_level_32f257bf51e87903c3c60b4f46e80799d385fc3d"
+      "key": "50fce",
+      "songName": "Tendu",
+      "hash": "3b92b1912dab70c4384264d87c21e8d9928094d8",
+      "levelid": "custom_level_3b92b1912dab70c4384264d87c21e8d9928094d8"
     },
     {
-      "key": "50f74",
-      "songName": "Tirori mix 2025",
-      "hash": "c227db6ed05237a23fe3e4b0e4e5eb03bd4cbba3",
-      "levelid": "custom_level_c227db6ed05237a23fe3e4b0e4e5eb03bd4cbba3"
+      "key": "50fcb",
+      "songName": "[Yorushika Pack2] Hitchcock (Re-Recording) - Yorushika",
+      "hash": "dedc3200a8ce2c790cfc26473f5bab30e82577b8",
+      "levelid": "custom_level_dedc3200a8ce2c790cfc26473f5bab30e82577b8"
     },
     {
-      "key": "50f72",
-      "songName": "Tirori mix 2024",
-      "hash": "b325d04506d8728c52bc985030704a246c7a050d",
-      "levelid": "custom_level_b325d04506d8728c52bc985030704a246c7a050d"
+      "key": "50fca",
+      "songName": "König oder Feigling V1.5",
+      "hash": "cc8e84b284a2322fd8c20b332bdfeb588fe0ebda",
+      "levelid": "custom_level_cc8e84b284a2322fd8c20b332bdfeb588fe0ebda"
     },
     {
-      "key": "50f71",
-      "songName": "Tirori mix 2023",
-      "hash": "6d89fb69f35d29be567d9ebc0a45f5f2befa436f",
-      "levelid": "custom_level_6d89fb69f35d29be567d9ebc0a45f5f2befa436f"
+      "key": "50f68",
+      "songName": "When The Party's Over - Billie Eilish (Metal Cover by Halocene)",
+      "hash": "d9cf907fecbd29b1f04932115c6cfe335023b8c9",
+      "levelid": "custom_level_d9cf907fecbd29b1f04932115c6cfe335023b8c9"
     },
     {
-      "key": "50f6b",
-      "songName": "瞬間、シンフォニー。 – 40mP / かぐや(cv.夏吉ゆうこ)",
-      "hash": "a418244d48468731319bc5e9bebf549830fa8a7e",
-      "levelid": "custom_level_a418244d48468731319bc5e9bebf549830fa8a7e"
+      "key": "50fc9",
+      "songName": "I SAY YES (ゼロの使い魔〜双月の騎士〜 OP)",
+      "hash": "0f3e801cfe9119e06ed78808eeeb989f201622a6",
+      "levelid": "custom_level_0f3e801cfe9119e06ed78808eeeb989f201622a6"
     },
     {
-      "key": "50f6a",
-      "songName": "kets4eki, asteria & wasty - #RAVELIFE (Zana's Speedcrunk Bootleg)",
-      "hash": "123287a4a19a9c0006609974a39b974ef940d474",
-      "levelid": "custom_level_123287a4a19a9c0006609974a39b974ef940d474"
+      "key": "50fc8",
+      "songName": "Demons",
+      "hash": "eefc2572b0d73782c540f5e427c13e46cc910ebd",
+      "levelid": "custom_level_eefc2572b0d73782c540f5e427c13e46cc910ebd"
     },
     {
-      "key": "50f60",
-      "songName": "ホントノキモチ (ゼロの使い魔 ED)",
-      "hash": "8c53302f86399d4d37e243437f0509d2c6f56482",
-      "levelid": "custom_level_8c53302f86399d4d37e243437f0509d2c6f56482"
+      "key": "50fc6",
+      "songName": "El Chombo - Dame Tu Cosita [FVWVRD'S i made this in 45 minutes remix]",
+      "hash": "cfae4c24cc9ed904b0c38b4c6ab1a731907b6542",
+      "levelid": "custom_level_cfae4c24cc9ed904b0c38b4c6ab1a731907b6542"
     },
     {
-      "key": "50f58",
-      "songName": "[Cinema]DJ Myosuke - Break The Speakers【maimai でらっくす】",
-      "hash": "e1544c2deb971ec1d0481450a1f8ee418c5fd931",
-      "levelid": "custom_level_e1544c2deb971ec1d0481450a1f8ee418c5fd931"
-    },
-    {
-      "key": "50f54",
-      "songName": "Chenomio - It's fiction. feat.Kasane teto",
-      "hash": "d52c702ae05ea90a999efc0dd66b053f891174f4",
-      "levelid": "custom_level_d52c702ae05ea90a999efc0dd66b053f891174f4"
-    },
-    {
-      "key": "50f53",
-      "songName": "Slowtown",
-      "hash": "8064259bc1f184bfebd2ed30998e9718106890a2",
-      "levelid": "custom_level_8064259bc1f184bfebd2ed30998e9718106890a2"
-    },
-    {
-      "key": "50f52",
-      "songName": "Tokyo Manaka - Doomer (Cover by KAF)",
-      "hash": "e46316c5144a13ac9eab8090a39dff427b924a46",
-      "levelid": "custom_level_e46316c5144a13ac9eab8090a39dff427b924a46"
-    },
-    {
-      "key": "50f4d",
-      "songName": "Pascal Michael Stiefel - Picture Perfect (From \"A Hat in Time\")",
-      "hash": "deeb30095b6121246f32d59a3a95bf0a52bf1f3c",
-      "levelid": "custom_level_deeb30095b6121246f32d59a3a95bf0a52bf1f3c"
-    },
-    {
-      "key": "50f27",
-      "songName": "Beat Saber 8th Anniversary",
-      "hash": "e7db53ba0d2516e46ec2ecba56e852ee8417b87d",
-      "levelid": "custom_level_e7db53ba0d2516e46ec2ecba56e852ee8417b87d"
-    },
-    {
-      "key": "50f41",
-      "songName": "Unwelcome School (t+pazolite Remix)",
-      "hash": "72a2454420a0a7740938c5e13a85cb5b322494db",
-      "levelid": "custom_level_72a2454420a0a7740938c5e13a85cb5b322494db"
-    },
-    {
-      "key": "50f40",
-      "songName": "111111123",
-      "hash": "b8ca8daca104ee1cfe0fea799c89fd8270c00758",
-      "levelid": "custom_level_b8ca8daca104ee1cfe0fea799c89fd8270c00758"
-    },
-    {
-      "key": "50f32",
-      "songName": "Xterfusion",
-      "hash": "ddddd8c232faca1833a9fedd145ac2d507da46ca",
-      "levelid": "custom_level_ddddd8c232faca1833a9fedd145ac2d507da46ca"
-    },
-    {
-      "key": "50f30",
+      "key": "50fc5",
       "songName": "TRYNA FUCK",
-      "hash": "2b76bae59dfdfd3aae23fd45a8093ab2a045726e",
-      "levelid": "custom_level_2b76bae59dfdfd3aae23fd45a8093ab2a045726e"
+      "hash": "59639e74fc6f58f5ee291c1116ff487aa772843f",
+      "levelid": "custom_level_59639e74fc6f58f5ee291c1116ff487aa772843f"
     },
     {
-      "key": "50f2f",
-      "songName": "METAROOM - GOD RACE",
-      "hash": "45c45eb9c31b8d668a298224128b8507b6bfd34b",
-      "levelid": "custom_level_45c45eb9c31b8d668a298224128b8507b6bfd34b"
+      "key": "50fba",
+      "songName": "{V3} Stella",
+      "hash": "9b80236c9a8e1ae843505324b007c430f0962dd1",
+      "levelid": "custom_level_9b80236c9a8e1ae843505324b007c430f0962dd1"
     },
     {
-      "key": "50f2d",
-      "songName": "machineheart - Circles (ft. Vanic)",
-      "hash": "8d1e9dbf0df11a6cc822a50935a41cbf8b26d368",
-      "levelid": "custom_level_8d1e9dbf0df11a6cc822a50935a41cbf8b26d368"
+      "key": "50fb3",
+      "songName": "Royalty - Conor Maynard",
+      "hash": "f6cd8cf8ec5cbc66399a675a7e6f9b25bef16868",
+      "levelid": "custom_level_f6cd8cf8ec5cbc66399a675a7e6f9b25bef16868"
     },
     {
-      "key": "50f2c",
-      "songName": "[SPECIAL 50 MAPS] Takehirotei - Rhythmemories",
-      "hash": "9e9e305bcbe2fdb06c066cd19d98e304b9f86feb",
-      "levelid": "custom_level_9e9e305bcbe2fdb06c066cd19d98e304b9f86feb"
+      "key": "50fb0",
+      "songName": "Fabulous Beasts Intro",
+      "hash": "218518fa5e0857bf5c9a5014e1544898a2790c67",
+      "levelid": "custom_level_218518fa5e0857bf5c9a5014e1544898a2790c67"
     },
     {
-      "key": "50f2b",
-      "songName": "Sexy And I Know It",
-      "hash": "2b43b5066ee6f19bad6849df7a5e2863ccf05484",
-      "levelid": "custom_level_2b43b5066ee6f19bad6849df7a5e2863ccf05484"
+      "key": "50fae",
+      "songName": "juice wrld cursed",
+      "hash": "8a92a926695171018736b587387e0c780f6a0c65",
+      "levelid": "custom_level_8a92a926695171018736b587387e0c780f6a0c65"
     },
     {
-      "key": "50f2a",
-      "songName": "Machine Girl - Infinite Potentiality",
-      "hash": "abe086fe38f3f89f6307ca3165657de53147f1c5",
-      "levelid": "custom_level_abe086fe38f3f89f6307ca3165657de53147f1c5"
+      "key": "50fa6",
+      "songName": "Monde - Luidji",
+      "hash": "2d1c973f0da3a9252bdc7d3ca44d795a16aac6ec",
+      "levelid": "custom_level_2d1c973f0da3a9252bdc7d3ca44d795a16aac6ec"
     },
     {
-      "key": "50f28",
-      "songName": "Tea time for two!",
-      "hash": "15d1dcb16b145f89f77d6e6391955cd00cc0c49b",
-      "levelid": "custom_level_15d1dcb16b145f89f77d6e6391955cd00cc0c49b"
+      "key": "50fa5",
+      "songName": "毎日がブランニューデイ",
+      "hash": "3480ff8f2b64ab932f2249c4259c93d9159fe376",
+      "levelid": "custom_level_3480ff8f2b64ab932f2249c4259c93d9159fe376"
     },
     {
-      "key": "50f25",
-      "songName": "ivycomb - LDR",
-      "hash": "14e3649343100328c2198d880efa6bd38f58f2ac",
-      "levelid": "custom_level_14e3649343100328c2198d880efa6bd38f58f2ac"
+      "key": "50fa4",
+      "songName": "Welcome to the New World",
+      "hash": "35b24c979b0da27df90d22758c702ba4a77043a5",
+      "levelid": "custom_level_35b24c979b0da27df90d22758c702ba4a77043a5"
     },
     {
-      "key": "50ede",
-      "songName": "M2U - Quo Vadis",
-      "hash": "cc58122e9565731f010c64cae6e09d5bba049b75",
-      "levelid": "custom_level_cc58122e9565731f010c64cae6e09d5bba049b75"
+      "key": "50f9e",
+      "songName": "Bruno Mars-I Just Might",
+      "hash": "c9417e81906d937a0dff67a9f41610e078c5c4a1",
+      "levelid": "custom_level_c9417e81906d937a0dff67a9f41610e078c5c4a1"
     },
     {
-      "key": "50f24",
-      "songName": "Toby Fox - GUARDIAN",
-      "hash": "66a1bdca5d75c81987fbb167d6390bef576d4496",
-      "levelid": "custom_level_66a1bdca5d75c81987fbb167d6390bef576d4496"
+      "key": "50f9c",
+      "songName": "CYANIDE",
+      "hash": "9adeb3aa540e290f1276c17bd971b4ba5e190be0",
+      "levelid": "custom_level_9adeb3aa540e290f1276c17bd971b4ba5e190be0"
     },
     {
-      "key": "50f1e",
-      "songName": "Eat You Up",
-      "hash": "1afd0b22c32c39772e5b5ed5888d1ec3afb36686",
-      "levelid": "custom_level_1afd0b22c32c39772e5b5ed5888d1ec3afb36686"
+      "key": "50f97",
+      "songName": "Slowtown",
+      "hash": "789ddeaeeb948bb1b39debed66841f6127bbd66c",
+      "levelid": "custom_level_789ddeaeeb948bb1b39debed66841f6127bbd66c"
     },
     {
-      "key": "50f1d",
-      "songName": "lets test your skills",
-      "hash": "d8f8eaf2912e4c7e961db31a3fc06a391bb67596",
-      "levelid": "custom_level_d8f8eaf2912e4c7e961db31a3fc06a391bb67596"
+      "key": "50f96",
+      "songName": "lexycat - glitter ✩‧₊˚",
+      "hash": "b30111c4ded46888d2e2114f0f9f3038bd068170",
+      "levelid": "custom_level_b30111c4ded46888d2e2114f0f9f3038bd068170"
     },
     {
-      "key": "50f17",
-      "songName": "da frog",
-      "hash": "705a137e0b6816582ebf6ff97b383f3c9f3e1db7",
-      "levelid": "custom_level_705a137e0b6816582ebf6ff97b383f3c9f3e1db7"
+      "key": "50f93",
+      "songName": "Two Twelve Subwoofer",
+      "hash": "31d508e18570ef15fbda2cd34e65b327164e29ed",
+      "levelid": "custom_level_31d508e18570ef15fbda2cd34e65b327164e29ed"
     },
     {
-      "key": "50c0c",
-      "songName": "[BSTS All Stars] seatrus - cryptic worthy widgEt",
-      "hash": "bcf05fa4ba74868423bb07db1579bb6d21a7ff02",
-      "levelid": "custom_level_bcf05fa4ba74868423bb07db1579bb6d21a7ff02"
+      "key": "50f94",
+      "songName": "The Chicken",
+      "hash": "52fb501a07e1caa566f96e3b4679fbd19fbfb05a",
+      "levelid": "custom_level_52fb501a07e1caa566f96e3b4679fbd19fbfb05a"
     },
     {
-      "key": "50df8",
-      "songName": "[BSTS All Stars] MYUKKE. - Fete of Fate",
-      "hash": "fd3715146c15c51a8a98aacb0b75a7f1ecf937ac",
-      "levelid": "custom_level_fd3715146c15c51a8a98aacb0b75a7f1ecf937ac"
+      "key": "50f91",
+      "songName": "Im so crazy for youuu </3",
+      "hash": "c4cfaa6b3cdec2136857c19838327c826edd978f",
+      "levelid": "custom_level_c4cfaa6b3cdec2136857c19838327c826edd978f"
     },
     {
-      "key": "50f09",
-      "songName": "Be Alone",
-      "hash": "e70bd20c9c9e8354dba9db5426be57976efdf42e",
-      "levelid": "custom_level_e70bd20c9c9e8354dba9db5426be57976efdf42e"
+      "key": "50f8d",
+      "songName": "Apple Seed",
+      "hash": "980c2478fe5edafeb8797d7c510e34cb723d7e0d",
+      "levelid": "custom_level_980c2478fe5edafeb8797d7c510e34cb723d7e0d"
     },
     {
-      "key": "50f08",
-      "songName": "SUPERMODEL",
-      "hash": "06f2c322529c18be66e7b0c692238c863c9ccde6",
-      "levelid": "custom_level_06f2c322529c18be66e7b0c692238c863c9ccde6"
+      "key": "50f8c",
+      "songName": "idkwhyy - crynomore",
+      "hash": "2643e52e07ce0ce71622cec1ff4ff7a0b1297169",
+      "levelid": "custom_level_2643e52e07ce0ce71622cec1ff4ff7a0b1297169"
     },
     {
-      "key": "50f06",
-      "songName": "fripSide - fortissimo-from insanity affection-",
-      "hash": "a3f658a5055bb50b6aafe56848d4aafad6d9389a",
-      "levelid": "custom_level_a3f658a5055bb50b6aafe56848d4aafad6d9389a"
+      "key": "50f8a",
+      "songName": "SUCKER PUNCH - Wishlane",
+      "hash": "8214c3187ffd0be808ad70a2e105190abe88aff0",
+      "levelid": "custom_level_8214c3187ffd0be808ad70a2e105190abe88aff0"
     },
     {
-      "key": "50f05",
-      "songName": "Few And Far Between - Origami Angel",
-      "hash": "d96f43d2fe848bc310623fd67606e51667b725d7",
-      "levelid": "custom_level_d96f43d2fe848bc310623fd67606e51667b725d7"
+      "key": "50f89",
+      "songName": "NO PRESSURE - Wishlane",
+      "hash": "f1b59b31b007b55dd31d53bb339de5615b6ed11f",
+      "levelid": "custom_level_f1b59b31b007b55dd31d53bb339de5615b6ed11f"
     },
     {
-      "key": "5077b",
-      "songName": "Younha - Comet",
-      "hash": "9ddcb37ccfb44347e88adbb6d78f5dedb5e75064",
-      "levelid": "custom_level_9ddcb37ccfb44347e88adbb6d78f5dedb5e75064"
+      "key": "50f22",
+      "songName": "[BSTS All Stars] saltyraptor x MTD - Unleash the Devil.",
+      "hash": "66ec912cc4b3c88107cf18b20f8660e997f591ef",
+      "levelid": "custom_level_66ec912cc4b3c88107cf18b20f8660e997f591ef"
     },
     {
-      "key": "50b15",
-      "songName": "Nova Charisma - Gemini",
-      "hash": "70581e8ef9080815fa5aad6027f584b9037146cb",
-      "levelid": "custom_level_70581e8ef9080815fa5aad6027f584b9037146cb"
+      "key": "50c0d",
+      "songName": "[BSTS All Star] The Offspring - Pretty Fly (For a White Guy)",
+      "hash": "c208c5cb2ef55e7c1147de097d09b0dbb2491e00",
+      "levelid": "custom_level_c208c5cb2ef55e7c1147de097d09b0dbb2491e00"
     },
     {
-      "key": "50f00",
-      "songName": "Precarious",
-      "hash": "f9de5930c7055fbef0e4460cec0545c130cbb53c",
-      "levelid": "custom_level_f9de5930c7055fbef0e4460cec0545c130cbb53c"
+      "key": "50f8b",
+      "songName": "Canto 9 B1 T2 - Limbus",
+      "hash": "5a7bf7ca7093711617c87cba405a0a710f723f58",
+      "levelid": "custom_level_5a7bf7ca7093711617c87cba405a0a710f723f58"
     },
     {
-      "key": "50ead",
-      "songName": "セガサターン、シロ！ / せがた三四郎",
-      "hash": "29567be05e9843b8e938b6fd706a5555ced07299",
-      "levelid": "custom_level_29567be05e9843b8e938b6fd706a5555ced07299"
+      "key": "50f86",
+      "songName": "Samurai Slice 2 (Rhythm Heaven Fever)",
+      "hash": "4a58c34603f6bbcff9c2b34cbdef78e06409ea82",
+      "levelid": "custom_level_4a58c34603f6bbcff9c2b34cbdef78e06409ea82"
+    },
+    {
+      "key": "50f82",
+      "songName": "Adéla - KGB",
+      "hash": "4a97342c6b59f184a7ea6e1cfd9193c842d0bb1a",
+      "levelid": "custom_level_4a97342c6b59f184a7ea6e1cfd9193c842d0bb1a"
+    },
+    {
+      "key": "50f81",
+      "songName": "Rokudenashi - One Voice",
+      "hash": "0ecbdb8fa5fa8a36e8a773e34ac8b3ca87266567",
+      "levelid": "custom_level_0ecbdb8fa5fa8a36e8a773e34ac8b3ca87266567"
+    },
+    {
+      "key": "50f7f",
+      "songName": "Yeat feat. Lil Uzi Vert - Flawless (Flawlëss)",
+      "hash": "31fd0a94b6b640e933458d2a48ca7d0bc5bd7581",
+      "levelid": "custom_level_31fd0a94b6b640e933458d2a48ca7d0bc5bd7581"
+    },
+    {
+      "key": "50f7e",
+      "songName": "eastinanddopeysthumb - Thumb",
+      "hash": "dc5156599e9d52742753bbe43e5a6c02ce7c4165",
+      "levelid": "custom_level_dc5156599e9d52742753bbe43e5a6c02ce7c4165"
+    },
+    {
+      "key": "50f7d",
+      "songName": "eastinanddopeysthumb - Chick Fil A Sauce",
+      "hash": "1f99adbf8a8d488d4466ee5c2dcdf001d22218ec",
+      "levelid": "custom_level_1f99adbf8a8d488d4466ee5c2dcdf001d22218ec"
     }
   ],
   "image": ""
