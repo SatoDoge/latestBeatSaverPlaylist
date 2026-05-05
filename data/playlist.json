@@ -1,250 +1,166 @@
 {
-  "playlistTitle": "2026-05-03T15:18:50.157Z~2026-05-04T15:18:50.157Z",
+  "playlistTitle": "2026-05-04T15:18:48.340Z~2026-05-05T15:18:48.340Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-03T15:18:50.157Z and 2026-05-04T15:18:50.157Z",
+  "discripstion": "Maps published between 2026-05-04T15:18:48.340Z and 2026-05-05T15:18:48.340Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "50fd4",
-      "songName": "Blueprint Supreme - SKAI ISYOURGGOD&AR",
-      "hash": "f33364236bc29a2cfdfb65e988463ce8b97d0e46",
-      "levelid": "custom_level_f33364236bc29a2cfdfb65e988463ce8b97d0e46"
+      "key": "5101a",
+      "songName": "Crucify (v3 Lights) -  Holy Wars",
+      "hash": "dd23003dfb292b3d55eca7d2ac66d0e6eb88615d",
+      "levelid": "custom_level_dd23003dfb292b3d55eca7d2ac66d0e6eb88615d"
     },
     {
-      "key": "50fd3",
-      "songName": "Fumie Kumatani & SEGA SOUND TEAM - Apotos Day - Hub",
-      "hash": "aa75e2c3b14ea84570647edef9c15fd033bce4ef",
-      "levelid": "custom_level_aa75e2c3b14ea84570647edef9c15fd033bce4ef"
+      "key": "51016",
+      "songName": "Emo rock",
+      "hash": "2215b68d18c7f06603e548148f370c42cde5d4f8",
+      "levelid": "custom_level_2215b68d18c7f06603e548148f370c42cde5d4f8"
     },
     {
-      "key": "50fd2",
-      "songName": "Daria NEGRA - Chillout",
-      "hash": "ced1db7de00cf5031458163191aad544f816636c",
-      "levelid": "custom_level_ced1db7de00cf5031458163191aad544f816636c"
+      "key": "51014",
+      "songName": "Up All Night - Alex Clare",
+      "hash": "a5343f639c822933d6573b759d91bdd68af51e3c",
+      "levelid": "custom_level_a5343f639c822933d6573b759d91bdd68af51e3c"
     },
     {
-      "key": "50f1b",
-      "songName": "ConcernedApe - Sun Room (Alone with Relaxing Tea)",
-      "hash": "ba03581b6097d51d6709c5e3a9ef9093b4e00381",
-      "levelid": "custom_level_ba03581b6097d51d6709c5e3a9ef9093b4e00381"
+      "key": "51012",
+      "songName": "ONE OK ROCK - American Girls (Nightcore & Cut Ver.)",
+      "hash": "33c678dbf417792d767359cbdfbbc7247d72eb80",
+      "levelid": "custom_level_33c678dbf417792d767359cbdfbbc7247d72eb80"
     },
     {
-      "key": "50fd0",
-      "songName": "Nor - Raise the Huddle",
-      "hash": "908a8a3e885ce73af9b6d2fa37fd4981e9b00b76",
-      "levelid": "custom_level_908a8a3e885ce73af9b6d2fa37fd4981e9b00b76"
+      "key": "51011",
+      "songName": "Traveling - Hikaru Utada",
+      "hash": "d46bdc6489a2a1274c820d2d3d16cb399b5dace7",
+      "levelid": "custom_level_d46bdc6489a2a1274c820d2d3d16cb399b5dace7"
     },
     {
-      "key": "50fce",
-      "songName": "Tendu",
-      "hash": "3b92b1912dab70c4384264d87c21e8d9928094d8",
-      "levelid": "custom_level_3b92b1912dab70c4384264d87c21e8d9928094d8"
+      "key": "5100f",
+      "songName": "Eventide",
+      "hash": "e9aa4565612f68cc1dfcd1286e34215103e89815",
+      "levelid": "custom_level_e9aa4565612f68cc1dfcd1286e34215103e89815"
     },
     {
-      "key": "50fcb",
-      "songName": "[Yorushika Pack2] Hitchcock (Re-Recording) - Yorushika",
-      "hash": "dedc3200a8ce2c790cfc26473f5bab30e82577b8",
-      "levelid": "custom_level_dedc3200a8ce2c790cfc26473f5bab30e82577b8"
+      "key": "5100c",
+      "songName": "スキ? キライ!? スキ!!! (ゼロの使い魔〜双月の騎士〜 ED)",
+      "hash": "f413e8ed05ab15dec94b821300dee5c493b0e6c6",
+      "levelid": "custom_level_f413e8ed05ab15dec94b821300dee5c493b0e6c6"
     },
     {
-      "key": "50fca",
-      "songName": "König oder Feigling V1.5",
-      "hash": "cc8e84b284a2322fd8c20b332bdfeb588fe0ebda",
-      "levelid": "custom_level_cc8e84b284a2322fd8c20b332bdfeb588fe0ebda"
+      "key": "51007",
+      "songName": "Apart Of You",
+      "hash": "f0c66502c30d6921fcb7866b4456e62a211f3861",
+      "levelid": "custom_level_f0c66502c30d6921fcb7866b4456e62a211f3861"
     },
     {
-      "key": "50f68",
-      "songName": "When The Party's Over - Billie Eilish (Metal Cover by Halocene)",
-      "hash": "d9cf907fecbd29b1f04932115c6cfe335023b8c9",
-      "levelid": "custom_level_d9cf907fecbd29b1f04932115c6cfe335023b8c9"
+      "key": "51005",
+      "songName": "Bruh Moment",
+      "hash": "472a932577ea3788ca82e8ec076d3c8053184cc8",
+      "levelid": "custom_level_472a932577ea3788ca82e8ec076d3c8053184cc8"
     },
     {
-      "key": "50fc9",
-      "songName": "I SAY YES (ゼロの使い魔〜双月の騎士〜 OP)",
-      "hash": "0f3e801cfe9119e06ed78808eeeb989f201622a6",
-      "levelid": "custom_level_0f3e801cfe9119e06ed78808eeeb989f201622a6"
+      "key": "51004",
+      "songName": "Simulation (VIP)",
+      "hash": "7c97296216a61d78d87c122162a136c839137d19",
+      "levelid": "custom_level_7c97296216a61d78d87c122162a136c839137d19"
     },
     {
-      "key": "50fc8",
-      "songName": "Demons",
-      "hash": "eefc2572b0d73782c540f5e427c13e46cc910ebd",
-      "levelid": "custom_level_eefc2572b0d73782c540f5e427c13e46cc910ebd"
+      "key": "51002",
+      "songName": "Madeleine (ft. Loupe) - Good Kid",
+      "hash": "c75101d2a1164fc0e46fc10e7533a873b8f1868b",
+      "levelid": "custom_level_c75101d2a1164fc0e46fc10e7533a873b8f1868b"
     },
     {
-      "key": "50fc6",
-      "songName": "El Chombo - Dame Tu Cosita [FVWVRD'S i made this in 45 minutes remix]",
-      "hash": "cfae4c24cc9ed904b0c38b4c6ab1a731907b6542",
-      "levelid": "custom_level_cfae4c24cc9ed904b0c38b4c6ab1a731907b6542"
+      "key": "50fc2",
+      "songName": "Gregorio - 榊原 ゆい",
+      "hash": "0b03a056aa68ad40d9e023413a17920def9caf39",
+      "levelid": "custom_level_0b03a056aa68ad40d9e023413a17920def9caf39"
     },
     {
-      "key": "50fc5",
-      "songName": "TRYNA FUCK",
-      "hash": "59639e74fc6f58f5ee291c1116ff487aa772843f",
-      "levelid": "custom_level_59639e74fc6f58f5ee291c1116ff487aa772843f"
+      "key": "50ffe",
+      "songName": "FIXATION",
+      "hash": "39ad3600c833b267d4e7deca1f02b68f34ea8575",
+      "levelid": "custom_level_39ad3600c833b267d4e7deca1f02b68f34ea8575"
     },
     {
-      "key": "50fba",
-      "songName": "{V3} Stella",
-      "hash": "9b80236c9a8e1ae843505324b007c430f0962dd1",
-      "levelid": "custom_level_9b80236c9a8e1ae843505324b007c430f0962dd1"
+      "key": "50ffb",
+      "songName": "Gypsy Bard [Remix]",
+      "hash": "a228c3daba3e02dc1ad28c0382462d651c1e4be9",
+      "levelid": "custom_level_a228c3daba3e02dc1ad28c0382462d651c1e4be9"
     },
     {
-      "key": "50fb3",
-      "songName": "Royalty - Conor Maynard",
-      "hash": "f6cd8cf8ec5cbc66399a675a7e6f9b25bef16868",
-      "levelid": "custom_level_f6cd8cf8ec5cbc66399a675a7e6f9b25bef16868"
+      "key": "50ff8",
+      "songName": "So Beautiful | TADC 🎵",
+      "hash": "b3a23ab7a9c45930b80f0f87f1e1015f5877b970",
+      "levelid": "custom_level_b3a23ab7a9c45930b80f0f87f1e1015f5877b970"
     },
     {
-      "key": "50fb0",
-      "songName": "Fabulous Beasts Intro",
-      "hash": "218518fa5e0857bf5c9a5014e1544898a2790c67",
-      "levelid": "custom_level_218518fa5e0857bf5c9a5014e1544898a2790c67"
+      "key": "50ff7",
+      "songName": "DMA 0 DRAM REFRESH - Master Boot Records",
+      "hash": "050e0922b85477bac9d8f9e1a62ed0385197b22b",
+      "levelid": "custom_level_050e0922b85477bac9d8f9e1a62ed0385197b22b"
     },
     {
-      "key": "50fae",
-      "songName": "juice wrld cursed",
-      "hash": "8a92a926695171018736b587387e0c780f6a0c65",
-      "levelid": "custom_level_8a92a926695171018736b587387e0c780f6a0c65"
+      "key": "50ff6",
+      "songName": "sswvq - The Hard Song",
+      "hash": "d75f21cbf5c6271ef913617ca04d8a0d6022b0da",
+      "levelid": "custom_level_d75f21cbf5c6271ef913617ca04d8a0d6022b0da"
     },
     {
-      "key": "50fa6",
-      "songName": "Monde - Luidji",
-      "hash": "2d1c973f0da3a9252bdc7d3ca44d795a16aac6ec",
-      "levelid": "custom_level_2d1c973f0da3a9252bdc7d3ca44d795a16aac6ec"
+      "key": "50fcd",
+      "songName": "imnormal",
+      "hash": "c5ecd869d03a08d832c56f2c42fb5fbdb7d7c08b",
+      "levelid": "custom_level_c5ecd869d03a08d832c56f2c42fb5fbdb7d7c08b"
     },
     {
-      "key": "50fa5",
-      "songName": "毎日がブランニューデイ",
-      "hash": "3480ff8f2b64ab932f2249c4259c93d9159fe376",
-      "levelid": "custom_level_3480ff8f2b64ab932f2249c4259c93d9159fe376"
+      "key": "50ff4",
+      "songName": "Laboratorium Occultum",
+      "hash": "7e10c333f0c07ec2411e22b553d478c16ea950c0",
+      "levelid": "custom_level_7e10c333f0c07ec2411e22b553d478c16ea950c0"
     },
     {
-      "key": "50fa4",
-      "songName": "Welcome to the New World",
-      "hash": "35b24c979b0da27df90d22758c702ba4a77043a5",
-      "levelid": "custom_level_35b24c979b0da27df90d22758c702ba4a77043a5"
+      "key": "50ff2",
+      "songName": "grimace",
+      "hash": "ae2c9ac8571d83a6a82391cc87b127b45293326d",
+      "levelid": "custom_level_ae2c9ac8571d83a6a82391cc87b127b45293326d"
     },
     {
-      "key": "50f9e",
-      "songName": "Bruno Mars-I Just Might",
-      "hash": "c9417e81906d937a0dff67a9f41610e078c5c4a1",
-      "levelid": "custom_level_c9417e81906d937a0dff67a9f41610e078c5c4a1"
+      "key": "50fef",
+      "songName": "bite me",
+      "hash": "00d5e9d25214b67e65156ec2250e8e3712f75932",
+      "levelid": "custom_level_00d5e9d25214b67e65156ec2250e8e3712f75932"
     },
     {
-      "key": "50f9c",
-      "songName": "CYANIDE",
-      "hash": "9adeb3aa540e290f1276c17bd971b4ba5e190be0",
-      "levelid": "custom_level_9adeb3aa540e290f1276c17bd971b4ba5e190be0"
+      "key": "50fea",
+      "songName": "Yue - Set Sail",
+      "hash": "324abacdf7ca28d512867947290a7c602d0738fb",
+      "levelid": "custom_level_324abacdf7ca28d512867947290a7c602d0738fb"
     },
     {
-      "key": "50f97",
-      "songName": "Slowtown",
-      "hash": "789ddeaeeb948bb1b39debed66841f6127bbd66c",
-      "levelid": "custom_level_789ddeaeeb948bb1b39debed66841f6127bbd66c"
+      "key": "50fe5",
+      "songName": "Marcin,RJ Pasin-Art Of Guitar",
+      "hash": "765e89e090f735f4fad5c3dc3ed426abdec868db",
+      "levelid": "custom_level_765e89e090f735f4fad5c3dc3ed426abdec868db"
     },
     {
-      "key": "50f96",
-      "songName": "lexycat - glitter ✩‧₊˚",
-      "hash": "b30111c4ded46888d2e2114f0f9f3038bd068170",
-      "levelid": "custom_level_b30111c4ded46888d2e2114f0f9f3038bd068170"
+      "key": "50fe2",
+      "songName": "Transparent (TV Size) [The Ramparts of Ice Opening] - Novelbright",
+      "hash": "86a27e24696f833020b6fd4e8d70972522127bdb",
+      "levelid": "custom_level_86a27e24696f833020b6fd4e8d70972522127bdb"
     },
     {
-      "key": "50f93",
-      "songName": "Two Twelve Subwoofer",
-      "hash": "31d508e18570ef15fbda2cd34e65b327164e29ed",
-      "levelid": "custom_level_31d508e18570ef15fbda2cd34e65b327164e29ed"
+      "key": "50fe0",
+      "songName": "BLACKSPOT - Key After Key",
+      "hash": "fc6cf0a324c1cc8e0091ff6cc34071597142085c",
+      "levelid": "custom_level_fc6cf0a324c1cc8e0091ff6cc34071597142085c"
     },
     {
-      "key": "50f94",
-      "songName": "The Chicken",
-      "hash": "52fb501a07e1caa566f96e3b4679fbd19fbfb05a",
-      "levelid": "custom_level_52fb501a07e1caa566f96e3b4679fbd19fbfb05a"
-    },
-    {
-      "key": "50f91",
-      "songName": "Im so crazy for youuu </3",
-      "hash": "c4cfaa6b3cdec2136857c19838327c826edd978f",
-      "levelid": "custom_level_c4cfaa6b3cdec2136857c19838327c826edd978f"
-    },
-    {
-      "key": "50f8d",
-      "songName": "Apple Seed",
-      "hash": "980c2478fe5edafeb8797d7c510e34cb723d7e0d",
-      "levelid": "custom_level_980c2478fe5edafeb8797d7c510e34cb723d7e0d"
-    },
-    {
-      "key": "50f8c",
-      "songName": "idkwhyy - crynomore",
-      "hash": "2643e52e07ce0ce71622cec1ff4ff7a0b1297169",
-      "levelid": "custom_level_2643e52e07ce0ce71622cec1ff4ff7a0b1297169"
-    },
-    {
-      "key": "50f8a",
-      "songName": "SUCKER PUNCH - Wishlane",
-      "hash": "8214c3187ffd0be808ad70a2e105190abe88aff0",
-      "levelid": "custom_level_8214c3187ffd0be808ad70a2e105190abe88aff0"
-    },
-    {
-      "key": "50f89",
-      "songName": "NO PRESSURE - Wishlane",
-      "hash": "f1b59b31b007b55dd31d53bb339de5615b6ed11f",
-      "levelid": "custom_level_f1b59b31b007b55dd31d53bb339de5615b6ed11f"
-    },
-    {
-      "key": "50f22",
-      "songName": "[BSTS All Stars] saltyraptor x MTD - Unleash the Devil.",
-      "hash": "66ec912cc4b3c88107cf18b20f8660e997f591ef",
-      "levelid": "custom_level_66ec912cc4b3c88107cf18b20f8660e997f591ef"
-    },
-    {
-      "key": "50c0d",
-      "songName": "[BSTS All Star] The Offspring - Pretty Fly (For a White Guy)",
-      "hash": "c208c5cb2ef55e7c1147de097d09b0dbb2491e00",
-      "levelid": "custom_level_c208c5cb2ef55e7c1147de097d09b0dbb2491e00"
-    },
-    {
-      "key": "50f8b",
-      "songName": "Canto 9 B1 T2 - Limbus",
-      "hash": "5a7bf7ca7093711617c87cba405a0a710f723f58",
-      "levelid": "custom_level_5a7bf7ca7093711617c87cba405a0a710f723f58"
-    },
-    {
-      "key": "50f86",
-      "songName": "Samurai Slice 2 (Rhythm Heaven Fever)",
-      "hash": "4a58c34603f6bbcff9c2b34cbdef78e06409ea82",
-      "levelid": "custom_level_4a58c34603f6bbcff9c2b34cbdef78e06409ea82"
-    },
-    {
-      "key": "50f82",
-      "songName": "Adéla - KGB",
-      "hash": "4a97342c6b59f184a7ea6e1cfd9193c842d0bb1a",
-      "levelid": "custom_level_4a97342c6b59f184a7ea6e1cfd9193c842d0bb1a"
-    },
-    {
-      "key": "50f81",
-      "songName": "Rokudenashi - One Voice",
-      "hash": "0ecbdb8fa5fa8a36e8a773e34ac8b3ca87266567",
-      "levelid": "custom_level_0ecbdb8fa5fa8a36e8a773e34ac8b3ca87266567"
-    },
-    {
-      "key": "50f7f",
-      "songName": "Yeat feat. Lil Uzi Vert - Flawless (Flawlëss)",
-      "hash": "31fd0a94b6b640e933458d2a48ca7d0bc5bd7581",
-      "levelid": "custom_level_31fd0a94b6b640e933458d2a48ca7d0bc5bd7581"
-    },
-    {
-      "key": "50f7e",
-      "songName": "eastinanddopeysthumb - Thumb",
-      "hash": "dc5156599e9d52742753bbe43e5a6c02ce7c4165",
-      "levelid": "custom_level_dc5156599e9d52742753bbe43e5a6c02ce7c4165"
-    },
-    {
-      "key": "50f7d",
-      "songName": "eastinanddopeysthumb - Chick Fil A Sauce",
-      "hash": "1f99adbf8a8d488d4466ee5c2dcdf001d22218ec",
-      "levelid": "custom_level_1f99adbf8a8d488d4466ee5c2dcdf001d22218ec"
+      "key": "50fd5",
+      "songName": "(Chroma+) Panic! At The Disco - Casual Affair",
+      "hash": "75505ae9524a8267f3dd6a20f7cb496305405b01",
+      "levelid": "custom_level_75505ae9524a8267f3dd6a20f7cb496305405b01"
     }
   ],
   "image": ""
