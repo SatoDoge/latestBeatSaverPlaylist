@@ -1,334 +1,268 @@
 {
-  "playlistTitle": "2026-05-09T15:18:48.169Z~2026-05-10T15:18:48.169Z",
+  "playlistTitle": "2026-05-10T15:18:48.569Z~2026-05-11T15:18:48.569Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-09T15:18:48.169Z and 2026-05-10T15:18:48.169Z",
+  "discripstion": "Maps published between 2026-05-10T15:18:48.569Z and 2026-05-11T15:18:48.569Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "512f0",
-      "songName": "Where have you been ",
-      "hash": "56db96a5b3080e47dd17d1ebdec67a7adb991f06",
-      "levelid": "custom_level_56db96a5b3080e47dd17d1ebdec67a7adb991f06"
+      "key": "51349",
+      "songName": "multimap 1st",
+      "hash": "6341503a8739f8ed9e2da903a06e78056a5884e7",
+      "levelid": "custom_level_6341503a8739f8ed9e2da903a06e78056a5884e7"
     },
     {
-      "key": "512ee",
-      "songName": "Little Mix - Power",
-      "hash": "ef68c42fdd10db6869b75abeda4c4bc00e715792",
-      "levelid": "custom_level_ef68c42fdd10db6869b75abeda4c4bc00e715792"
+      "key": "51347",
+      "songName": "everything black",
+      "hash": "96e08b68fcfe2c3eddc6dc931863d4c04cd43959",
+      "levelid": "custom_level_96e08b68fcfe2c3eddc6dc931863d4c04cd43959"
     },
     {
-      "key": "512ed",
-      "songName": "The Romantics - Talking In Your Sleep",
-      "hash": "319a505580be6ab578f52bb22aaeb34391f4c1d0",
-      "levelid": "custom_level_319a505580be6ab578f52bb22aaeb34391f4c1d0"
+      "key": "51346",
+      "songName": "Mac DeMarco - Chamber Of Reflection",
+      "hash": "b6e3b78aa1dd4fc0bddc5f151dce637fd7e01c65",
+      "levelid": "custom_level_b6e3b78aa1dd4fc0bddc5f151dce637fd7e01c65"
     },
     {
-      "key": "512ec",
-      "songName": "Ossa grosse",
-      "hash": "837797b1d3cdfa6bf9909af6b6db5dab746f36bf",
-      "levelid": "custom_level_837797b1d3cdfa6bf9909af6b6db5dab746f36bf"
+      "key": "51345",
+      "songName": "Pressure",
+      "hash": "0cc77f3cb56e49939cdfc594025a7fe06af502a9",
+      "levelid": "custom_level_0cc77f3cb56e49939cdfc594025a7fe06af502a9"
     },
     {
-      "key": "512eb",
-      "songName": "Vulpecula - Crystallite Dream",
-      "hash": "e93e61c08dd764cd130396e0f1b9751675d9f8df",
-      "levelid": "custom_level_e93e61c08dd764cd130396e0f1b9751675d9f8df"
+      "key": "51344",
+      "songName": "glaive, kurtains - The  Band",
+      "hash": "a0c38e547a57adefa77db052fdaeef1fe7cc32cf",
+      "levelid": "custom_level_a0c38e547a57adefa77db052fdaeef1fe7cc32cf"
     },
     {
-      "key": "512ea",
-      "songName": "[RSIH] Sweet Memories",
-      "hash": "ca7a57ec7c805f2455dab2b3f21ec60745139d8e",
-      "levelid": "custom_level_ca7a57ec7c805f2455dab2b3f21ec60745139d8e"
+      "key": "51343",
+      "songName": "Tony Ann - Rain (Emotional Piano Music)",
+      "hash": "c6455580426404158ab2c106d362113ca11f5cef",
+      "levelid": "custom_level_c6455580426404158ab2c106d362113ca11f5cef"
     },
     {
-      "key": "512e8",
-      "songName": "Mi piacciono le nere",
-      "hash": "2bdf5a530fa01f84af057b4300ba747d1557a48c",
-      "levelid": "custom_level_2bdf5a530fa01f84af057b4300ba747d1557a48c"
+      "key": "5131f",
+      "songName": "My Immortal (Band Version)",
+      "hash": "fc9cc69e97657804fa2384448332cab2473997db",
+      "levelid": "custom_level_fc9cc69e97657804fa2384448332cab2473997db"
     },
     {
-      "key": "512e7",
-      "songName": "MisoilePunch♪ - MarbleBlue.",
-      "hash": "5f15ae932bf1cfec74e67c051c6fc21493b12e5b",
-      "levelid": "custom_level_5f15ae932bf1cfec74e67c051c6fc21493b12e5b"
+      "key": "5133d",
+      "songName": "Chicken III Chroma",
+      "hash": "cae062adfb4e0fafefb777bcfbe614739cf5ad89",
+      "levelid": "custom_level_cae062adfb4e0fafefb777bcfbe614739cf5ad89"
     },
     {
-      "key": "512e5",
-      "songName": "だ・し・て🐍初音ミク👮重音テトSV",
-      "hash": "4ce0184b8cf741d6a7d1fbad6ebe2ffedaa66640",
-      "levelid": "custom_level_4ce0184b8cf741d6a7d1fbad6ebe2ffedaa66640"
+      "key": "5133b",
+      "songName": "夜明け生まれ来る少女 (灼眼のシャナ ED)",
+      "hash": "eddc926203c4e9bab9222f93baa0af104d3536fc",
+      "levelid": "custom_level_eddc926203c4e9bab9222f93baa0af104d3536fc"
     },
     {
-      "key": "512e3",
-      "songName": "Dialtone",
-      "hash": "86e3c0f55532c9f4185f847f56a762585387b82d",
-      "levelid": "custom_level_86e3c0f55532c9f4185f847f56a762585387b82d"
+      "key": "51339",
+      "songName": "Chicken IIIII",
+      "hash": "82f690fefdcb9993a4b583da4b6c84d7f946ca15",
+      "levelid": "custom_level_82f690fefdcb9993a4b583da4b6c84d7f946ca15"
     },
     {
-      "key": "512dd",
+      "key": "51338",
+      "songName": "0xff",
+      "hash": "3062ec49d49ce408583b1879772fa82e1feb1a21",
+      "levelid": "custom_level_3062ec49d49ce408583b1879772fa82e1feb1a21"
+    },
+    {
+      "key": "51337",
+      "songName": "Twenty One Pilots - Drag Path",
+      "hash": "fa7efc78dee6141251c459e31e362a7453db425b",
+      "levelid": "custom_level_fa7efc78dee6141251c459e31e362a7453db425b"
+    },
+    {
+      "key": "51336",
+      "songName": "Deadlock - Main Theme",
+      "hash": "d36c14dcdc1a9bd56e7dbfcc30131c893b183682",
+      "levelid": "custom_level_d36c14dcdc1a9bd56e7dbfcc30131c893b183682"
+    },
+    {
+      "key": "51334",
+      "songName": "Leave It With Me",
+      "hash": "27e5f57cf5ba4008e4bd4c06f7928422fe8aafae",
+      "levelid": "custom_level_27e5f57cf5ba4008e4bd4c06f7928422fe8aafae"
+    },
+    {
+      "key": "51333",
+      "songName": "WE ARE DUALIX",
+      "hash": "7f32a9a21255a625fccd7e65d5860a7a75d3111d",
+      "levelid": "custom_level_7f32a9a21255a625fccd7e65d5860a7a75d3111d"
+    },
+    {
+      "key": "51328",
+      "songName": "1800PAIN - LET ME IN",
+      "hash": "cd3f416ccd7f7dbb9fcfd57af5813f68282700b4",
+      "levelid": "custom_level_cd3f416ccd7f7dbb9fcfd57af5813f68282700b4"
+    },
+    {
+      "key": "51324",
+      "songName": "water",
+      "hash": "08b5efe748fcde5b8ecb3050d4c7c20b38e42af8",
+      "levelid": "custom_level_08b5efe748fcde5b8ecb3050d4c7c20b38e42af8"
+    },
+    {
+      "key": "51323",
+      "songName": "What are we playing here right now bruh     (eastinanddopey)",
+      "hash": "80a25fab3093061a92082a9f8866d4a0db70ca61",
+      "levelid": "custom_level_80a25fab3093061a92082a9f8866d4a0db70ca61"
+    },
+    {
+      "key": "51322",
       "songName": "kuru - Like glue (ft. katmoji)",
-      "hash": "8d2fd4b999070c08f2680f1e9d856b39eb063ed7",
-      "levelid": "custom_level_8d2fd4b999070c08f2680f1e9d856b39eb063ed7"
+      "hash": "ade24999327eb1e373f035936484fee909ca4dc9",
+      "levelid": "custom_level_ade24999327eb1e373f035936484fee909ca4dc9"
     },
     {
-      "key": "512da",
-      "songName": "Nightcore - HEAVENLY JUMPSTYLE (But it hits different)",
-      "hash": "bc7b9a2dfb7df27ac0980bc264e09d5b6cc3ecb6",
-      "levelid": "custom_level_bc7b9a2dfb7df27ac0980bc264e09d5b6cc3ecb6"
+      "key": "5131d",
+      "songName": "eclair",
+      "hash": "1321ab2f72a36d1e9ec84ad00b98d60b124c350b",
+      "levelid": "custom_level_1321ab2f72a36d1e9ec84ad00b98d60b124c350b"
     },
     {
-      "key": "512d9",
-      "songName": "chroma and noodle ",
-      "hash": "32f068e1b33b910b13ea9264eb18193a2be35b13",
-      "levelid": "custom_level_32f068e1b33b910b13ea9264eb18193a2be35b13"
+      "key": "5131b",
+      "songName": "lose her",
+      "hash": "08fe3d355c2cc91c56f96c5bc02db90d0df982e8",
+      "levelid": "custom_level_08fe3d355c2cc91c56f96c5bc02db90d0df982e8"
     },
     {
-      "key": "512d8",
-      "songName": "緋色の空 (灼眼のシャナ OP)",
-      "hash": "475f94132b506aa0ad8e19efaf5222311b965878",
-      "levelid": "custom_level_475f94132b506aa0ad8e19efaf5222311b965878"
+      "key": "51317",
+      "songName": "americas got talent kid",
+      "hash": "29046c2e21b5042b9e1daa0edd7aa29b0ece8e95",
+      "levelid": "custom_level_29046c2e21b5042b9e1daa0edd7aa29b0ece8e95"
     },
     {
-      "key": "512d7",
-      "songName": "the final hider",
-      "hash": "f70d0cb36d31440253345da71bcb88c992fd7e2b",
-      "levelid": "custom_level_f70d0cb36d31440253345da71bcb88c992fd7e2b"
+      "key": "51316",
+      "songName": "ex-freundin",
+      "hash": "3b22b6a9819819de91aea15ca5bd2273eabb27c9",
+      "levelid": "custom_level_3b22b6a9819819de91aea15ca5bd2273eabb27c9"
     },
     {
-      "key": "512d3",
-      "songName": "Whopper but he mess up",
-      "hash": "634f58d1f5aa39c99771bf593902ac1f0c214805",
-      "levelid": "custom_level_634f58d1f5aa39c99771bf593902ac1f0c214805"
+      "key": "51312",
+      "songName": "Canto VII Boss 1 Battle Theme",
+      "hash": "30ed3c70c42c6f104286ad22a1fe11127605e7ab",
+      "levelid": "custom_level_30ed3c70c42c6f104286ad22a1fe11127605e7ab"
     },
     {
-      "key": "512d1",
-      "songName": "SAWTOWNE - M@GICAL☆CURE! LOVE ♥ SHOT! (feat. Hatsune Miku)",
-      "hash": "31a4d26beedfb48a3500e36bd7bffd3ae960895a",
-      "levelid": "custom_level_31a4d26beedfb48a3500e36bd7bffd3ae960895a"
+      "key": "51311",
+      "songName": "Its Coming Out",
+      "hash": "ce243d42ac1a53b00f7e2ac2187471bf7538872d",
+      "levelid": "custom_level_ce243d42ac1a53b00f7e2ac2187471bf7538872d"
     },
     {
-      "key": "512ce",
-      "songName": "[Vivify] to tempt (cut)",
-      "hash": "58ff4cff64330547d76962d3bcaf1a6032ca4d21",
-      "levelid": "custom_level_58ff4cff64330547d76962d3bcaf1a6032ca4d21"
+      "key": "511cd",
+      "songName": "[BSTS All Stars] Polysha - Endverse",
+      "hash": "ac6f44d43606e5adf650ba6d568ee3d077ae6283",
+      "levelid": "custom_level_ac6f44d43606e5adf650ba6d568ee3d077ae6283"
     },
     {
-      "key": "512cd",
-      "songName": "fnaf rap ringtone",
-      "hash": "8541d30c887d938a9a192398a70e66d898a639a1",
-      "levelid": "custom_level_8541d30c887d938a9a192398a70e66d898a639a1"
+      "key": "51134",
+      "songName": "[Moving Walls] playground - Bea Miller (BSTS All Stars)",
+      "hash": "fc2381072e4cc6f000759f8b4d754f9cd598f550",
+      "levelid": "custom_level_fc2381072e4cc6f000759f8b4d754f9cd598f550"
     },
     {
-      "key": "512c8",
-      "songName": " 音乃瀬奏 - You & 合図",
-      "hash": "420dabce44d821c0cffec88dd3e05d4967d38236",
-      "levelid": "custom_level_420dabce44d821c0cffec88dd3e05d4967d38236"
+      "key": "51235",
+      "songName": "[BSTS All Stars] TUYU - Territory Battle",
+      "hash": "95afcd99a345685bf61d25e4e25d79a2de71f138",
+      "levelid": "custom_level_95afcd99a345685bf61d25e4e25d79a2de71f138"
     },
     {
-      "key": "512c7",
-      "songName": "[RSIH] Zed's Dead - RSIH",
-      "hash": "81e561b931a0a78d75460c89e6f239b64a8b2a8b",
-      "levelid": "custom_level_81e561b931a0a78d75460c89e6f239b64a8b2a8b"
+      "key": "5130f",
+      "songName": "glaive & kurtains - The Band",
+      "hash": "097de270c20a214ad94e6ea849ec2ecab5a09c3b",
+      "levelid": "custom_level_097de270c20a214ad94e6ea849ec2ecab5a09c3b"
     },
     {
-      "key": "512c6",
-      "songName": "Xterfusion",
-      "hash": "8511e9f57761fd07f711dc42b2cfc16922ba3195",
-      "levelid": "custom_level_8511e9f57761fd07f711dc42b2cfc16922ba3195"
+      "key": "5130c",
+      "songName": "one more time i gotchu",
+      "hash": "52035d46e36636bd8988995e6c1e5dd41940a5cb",
+      "levelid": "custom_level_52035d46e36636bd8988995e6c1e5dd41940a5cb"
     },
     {
-      "key": "512c5",
-      "songName": "Miku (thumb version)",
-      "hash": "a7bac94f12fc0e5cad435045c98299fd6e5d634b",
-      "levelid": "custom_level_a7bac94f12fc0e5cad435045c98299fd6e5d634b"
+      "key": "5130a",
+      "songName": "Forearm Laceration",
+      "hash": "220fbea3b03a6ee9235b51ae3071dd23c10e40ab",
+      "levelid": "custom_level_220fbea3b03a6ee9235b51ae3071dd23c10e40ab"
     },
     {
-      "key": "512c4",
-      "songName": "Its not that i like you (thumb version)",
-      "hash": "5ba3e6e0374e5e7928fe4d77af8bb31bc96a3afa",
-      "levelid": "custom_level_5ba3e6e0374e5e7928fe4d77af8bb31bc96a3afa"
+      "key": "51309",
+      "songName": "Herobust - Move Mint (VIP)",
+      "hash": "afef97263a1a82ede9fa7d197cde19b7d3c49fcd",
+      "levelid": "custom_level_afef97263a1a82ede9fa7d197cde19b7d3c49fcd"
     },
     {
-      "key": "512c3",
-      "songName": "You & 合図(Aizu) - Otonose Kanade",
-      "hash": "e6107c2103bcfc4d3a0d9d18bbed19b648c38ae0",
-      "levelid": "custom_level_e6107c2103bcfc4d3a0d9d18bbed19b648c38ae0"
+      "key": "51304",
+      "songName": "[RSIH] Fall Away",
+      "hash": "22641446f33cf23cfc112958d08f914ce92b08a4",
+      "levelid": "custom_level_22641446f33cf23cfc112958d08f914ce92b08a4"
     },
     {
-      "key": "512c2",
-      "songName": "first map (poodles test)",
-      "hash": "e1001a8e67eb2ff4c9eb470179c867209969d1db",
-      "levelid": "custom_level_e1001a8e67eb2ff4c9eb470179c867209969d1db"
+      "key": "51305",
+      "songName": "let me test my plugins",
+      "hash": "22e25f42e0a7c25797c38508bafc67b04973436f",
+      "levelid": "custom_level_22e25f42e0a7c25797c38508bafc67b04973436f"
     },
     {
-      "key": "512c0",
-      "songName": "LOOKK LOOOOK",
-      "hash": "3dfb26bbda925f8d7831fcf8002e3c809ae3e26d",
-      "levelid": "custom_level_3dfb26bbda925f8d7831fcf8002e3c809ae3e26d"
+      "key": "51303",
+      "songName": "GAZAN - 67",
+      "hash": "918e43ae7b056a8638651dd9f46f08d91d94812e",
+      "levelid": "custom_level_918e43ae7b056a8638651dd9f46f08d91d94812e"
     },
     {
-      "key": "512be",
-      "songName": "Nouveau Riche",
-      "hash": "e047f242e45623ddfa7a466fd51fd7f531dda276",
-      "levelid": "custom_level_e047f242e45623ddfa7a466fd51fd7f531dda276"
+      "key": "512b0",
+      "songName": "Various Artists - Songs Compilation VI",
+      "hash": "76f22d406752deb5aaf130516bf0760adae10a8d",
+      "levelid": "custom_level_76f22d406752deb5aaf130516bf0760adae10a8d"
     },
     {
-      "key": "512ba",
-      "songName": "AtHeart - Shut Up",
-      "hash": "744f584d593cbaf7142d46339ffb6c02c8b42d6a",
-      "levelid": "custom_level_744f584d593cbaf7142d46339ffb6c02c8b42d6a"
+      "key": "51301",
+      "songName": "bbno$ - Come to Brazil",
+      "hash": "fd315be49cdc3e446dfad2b74bbf24f4ad1a10df",
+      "levelid": "custom_level_fd315be49cdc3e446dfad2b74bbf24f4ad1a10df"
     },
     {
-      "key": "512b8",
-      "songName": "Move - Rage Your Dream",
-      "hash": "c9878a0d78ffb86e7807d0c4e763dbf8491cc8b7",
-      "levelid": "custom_level_c9878a0d78ffb86e7807d0c4e763dbf8491cc8b7"
+      "key": "512fe",
+      "songName": "Vermillion - Kasane Teto",
+      "hash": "56fe00b148aeed9b0faafec9ecf5bca529b380cd",
+      "levelid": "custom_level_56fe00b148aeed9b0faafec9ecf5bca529b380cd"
     },
     {
-      "key": "512b7",
-      "songName": "Akcent - My Passion",
-      "hash": "68967a5fad00d9d2c07280d8b6802252c15a88eb",
-      "levelid": "custom_level_68967a5fad00d9d2c07280d8b6802252c15a88eb"
+      "key": "512fc",
+      "songName": "Fan-made beat saber songs... ( eastinanddopey)",
+      "hash": "2dfa51f3326107bd23a93e84b74fafdcdac42c5d",
+      "levelid": "custom_level_2dfa51f3326107bd23a93e84b74fafdcdac42c5d"
     },
     {
-      "key": "512b6",
-      "songName": "Saturdaze - Alien Victory",
-      "hash": "c4327831d693cfe1c819628accd80b3bb05e43eb",
-      "levelid": "custom_level_c4327831d693cfe1c819628accd80b3bb05e43eb"
+      "key": "512fb",
+      "songName": "MARINA - Bubblegum Bitch (Nightcore & Cut ver.)",
+      "hash": "1acf4b16a37e355c5f5e42a49187d56a995e112b",
+      "levelid": "custom_level_1acf4b16a37e355c5f5e42a49187d56a995e112b"
     },
     {
-      "key": "512b5",
-      "songName": "Trespassed - Terrified (ft. MC Robs)",
-      "hash": "02404d77a2b41558b92db9803454a31625238ee4",
-      "levelid": "custom_level_02404d77a2b41558b92db9803454a31625238ee4"
+      "key": "512f7",
+      "songName": "Garbage - twenty one pilots",
+      "hash": "fd39758715c8d5196b25ddd44e6fd788512cc850",
+      "levelid": "custom_level_fd39758715c8d5196b25ddd44e6fd788512cc850"
     },
     {
-      "key": "512b4",
-      "songName": "Deathwish - Akiaura LONOWN Baby Jane",
-      "hash": "2dd7ece3834e503da084f4a0060c27c80d84dc86",
-      "levelid": "custom_level_2dd7ece3834e503da084f4a0060c27c80d84dc86"
+      "key": "512f2",
+      "songName": "cool map",
+      "hash": "a67f2cc3147eca21899963836500135be95c5be6",
+      "levelid": "custom_level_a67f2cc3147eca21899963836500135be95c5be6"
     },
     {
-      "key": "512b2",
-      "songName": "Ola - All Over The World",
-      "hash": "b8ed533435a382793c22143d2c19f1b1d676b956",
-      "levelid": "custom_level_b8ed533435a382793c22143d2c19f1b1d676b956"
-    },
-    {
-      "key": "512b1",
-      "songName": "lexycat - magic 7/11",
-      "hash": "a209c61345888b62b3f95d9ca274efdd88b85ae6",
-      "levelid": "custom_level_a209c61345888b62b3f95d9ca274efdd88b85ae6"
-    },
-    {
-      "key": "512af",
-      "songName": "Kotori - Cobalt Attack",
-      "hash": "954deee4975b40dac146df03f1d618a020fddda5",
-      "levelid": "custom_level_954deee4975b40dac146df03f1d618a020fddda5"
-    },
-    {
-      "key": "512ae",
-      "songName": "[RSIH] Zeds Dead - Hold My Hand",
-      "hash": "d109045201af797d614c79ee46030f83644ce2e9",
-      "levelid": "custom_level_d109045201af797d614c79ee46030f83644ce2e9"
-    },
-    {
-      "key": "512a9",
-      "songName": "[RSIH] One of These Mornings",
-      "hash": "47552817e08da7b7ada17c472e57981bf6b32f0d",
-      "levelid": "custom_level_47552817e08da7b7ada17c472e57981bf6b32f0d"
-    },
-    {
-      "key": "512ab",
-      "songName": "Pieces of Quiet",
-      "hash": "116c6870f83c91c8c3d4515a34ae0a1c1141b6c5",
-      "levelid": "custom_level_116c6870f83c91c8c3d4515a34ae0a1c1141b6c5"
-    },
-    {
-      "key": "512a6",
-      "songName": "[RSIH] Zeds Dead ft Minke - Heartbeat",
-      "hash": "8763cc1801a5fd574ac48bfc36e8ea00ff702563",
-      "levelid": "custom_level_8763cc1801a5fd574ac48bfc36e8ea00ff702563"
-    },
-    {
-      "key": "5129a",
-      "songName": "[RSIH] Light",
-      "hash": "efd6e73060591d72b114c7d6098ca0168ca990f8",
-      "levelid": "custom_level_efd6e73060591d72b114c7d6098ca0168ca990f8"
-    },
-    {
-      "key": "5129d",
-      "songName": "coltrane - zeke didn't \"invent dariacore\", i did",
-      "hash": "d3f521b07e3a54c19d81611dcd42f9f09d7460f6",
-      "levelid": "custom_level_d3f521b07e3a54c19d81611dcd42f9f09d7460f6"
-    },
-    {
-      "key": "51299",
-      "songName": "The Plan (F**k Jobs) - The Front Bottoms",
-      "hash": "6f02551874401b8d227381324a379c1350cfdebd",
-      "levelid": "custom_level_6f02551874401b8d227381324a379c1350cfdebd"
-    },
-    {
-      "key": "51294",
-      "songName": "Tyler the creator- plantman",
-      "hash": "cdf6f03ce15405a72ba5d5d9ff28c359c8b8cb06",
-      "levelid": "custom_level_cdf6f03ce15405a72ba5d5d9ff28c359c8b8cb06"
-    },
-    {
-      "key": "51284",
-      "songName": "VortexWizrd react's to chatGPT saying hi",
-      "hash": "2650e70f5d795b04f3fdd59e65f2eba4a9519c20",
-      "levelid": "custom_level_2650e70f5d795b04f3fdd59e65f2eba4a9519c20"
-    },
-    {
-      "key": "51283",
-      "songName": "Wonderful Day",
-      "hash": "b611cb365e61d7459e81a3a877443f70a381d762",
-      "levelid": "custom_level_b611cb365e61d7459e81a3a877443f70a381d762"
-    },
-    {
-      "key": "51264",
-      "songName": "Infinite Aegyo",
-      "hash": "18df470da0bdc76c67185ef71fcf21ed041d0b14",
-      "levelid": "custom_level_18df470da0bdc76c67185ef71fcf21ed041d0b14"
-    },
-    {
-      "key": "51282",
-      "songName": "Yuji/Goku jumping trend (Montagem Domer)",
-      "hash": "3ed68501c5c75e6a1d05af40d14ac0b66e22df6b",
-      "levelid": "custom_level_3ed68501c5c75e6a1d05af40d14ac0b66e22df6b"
-    },
-    {
-      "key": "51281",
-      "songName": "Bloom",
-      "hash": "61486678d095c1f6c89ae325006f4604e14b273c",
-      "levelid": "custom_level_61486678d095c1f6c89ae325006f4604e14b273c"
-    },
-    {
-      "key": "51280",
-      "songName": "Resonator - Halca x kz(livetune)",
-      "hash": "77aa5c57b92e96ce07cf4b8f27ded1f08c759a13",
-      "levelid": "custom_level_77aa5c57b92e96ce07cf4b8f27ded1f08c759a13"
-    },
-    {
-      "key": "5127f",
-      "songName": "The Iron Wall",
-      "hash": "bc5a38f53026ad2dcaed105464e0ac96b87d5d69",
-      "levelid": "custom_level_bc5a38f53026ad2dcaed105464e0ac96b87d5d69"
-    },
-    {
-      "key": "5124d",
-      "songName": "woo!ah! - SCAREDY CAT",
-      "hash": "2eb26f18eeb9918fbc508897d1d3cd7ae6a964ff",
-      "levelid": "custom_level_2eb26f18eeb9918fbc508897d1d3cd7ae6a964ff"
-    },
-    {
-      "key": "5127d",
-      "songName": "Anderex & Mutilator - Hot Sauce",
-      "hash": "9e854284db7d5c5e686c069f163c33dc45e08c73",
-      "levelid": "custom_level_9e854284db7d5c5e686c069f163c33dc45e08c73"
+      "key": "512f1",
+      "songName": "Mesmerizer (メズマライザー) - 32ki (feat. Hatsune Miku & Kasane Teto)",
+      "hash": "8e3bde52e38b67887f5873d98b9206786bfc4ea7",
+      "levelid": "custom_level_8e3bde52e38b67887f5873d98b9206786bfc4ea7"
     }
   ],
   "image": ""
