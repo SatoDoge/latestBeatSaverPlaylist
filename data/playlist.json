@@ -1,250 +1,172 @@
 {
-  "playlistTitle": "2026-05-11T15:18:48.129Z~2026-05-12T15:18:48.129Z",
+  "playlistTitle": "2026-05-12T15:18:48.185Z~2026-05-13T15:18:48.185Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-11T15:18:48.129Z and 2026-05-12T15:18:48.129Z",
+  "discripstion": "Maps published between 2026-05-12T15:18:48.185Z and 2026-05-13T15:18:48.185Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "513cc",
-      "songName": "My R",
-      "hash": "8e46a7177834154d990366f8e3447dcef0a90d88",
-      "levelid": "custom_level_8e46a7177834154d990366f8e3447dcef0a90d88"
+      "key": "5140f",
+      "songName": "A Day at Magic Academy（魔法学院的一天 / feat.庄东茹） - Roco Kingdom",
+      "hash": "229852b9884f7117a6a3c631f2dd2098eb00ed4c",
+      "levelid": "custom_level_229852b9884f7117a6a3c631f2dd2098eb00ed4c"
     },
     {
-      "key": "51298",
-      "songName": "Wenn das Liebe ist - Nina Chuba",
-      "hash": "d3bc5831e74b7096ed10393c3b17331df60c163c",
-      "levelid": "custom_level_d3bc5831e74b7096ed10393c3b17331df60c163c"
+      "key": "5140e",
+      "songName": "I Miss Us - Joost, Käärijä, Tommy Cash",
+      "hash": "4637460401f2262e3caff37d09f2c5abcb4336ec",
+      "levelid": "custom_level_4637460401f2262e3caff37d09f2c5abcb4336ec"
     },
     {
-      "key": "513b6",
-      "songName": "Hirokazu Ando - Mountain Stage (From \"Kirby's Adventure\")",
-      "hash": "c4aaacf9f8802c293cad8bb59042c894527ed3bd",
-      "levelid": "custom_level_c4aaacf9f8802c293cad8bb59042c894527ed3bd"
+      "key": "5140d",
+      "songName": "キャンデー feat. Rin - r-906",
+      "hash": "123d97dbbe96321f784a9e6b7ec67b79ea9c3753",
+      "levelid": "custom_level_123d97dbbe96321f784a9e6b7ec67b79ea9c3753"
     },
     {
-      "key": "513b4",
-      "songName": "slow giutar",
-      "hash": "4f9d2b45b37bc66cf67f4d8333af9f3b4e886a58",
-      "levelid": "custom_level_4f9d2b45b37bc66cf67f4d8333af9f3b4e886a58"
+      "key": "5140c",
+      "songName": "bomb has been planted",
+      "hash": "3cf47ac28b3c56bfb6a5bcf23bafa78cb8e13ef6",
+      "levelid": "custom_level_3cf47ac28b3c56bfb6a5bcf23bafa78cb8e13ef6"
     },
     {
-      "key": "513b3",
-      "songName": "being (灼眼のシャナ OP2)",
-      "hash": "a3f5ed5de843cd5288f5ce091f932809cadd9073",
-      "levelid": "custom_level_a3f5ed5de843cd5288f5ce091f932809cadd9073"
+      "key": "51407",
+      "songName": "Kotori -Cruel oath (Chroma)",
+      "hash": "641ae40b81a547363f79760cd6bb7e6c18a93ac7",
+      "levelid": "custom_level_641ae40b81a547363f79760cd6bb7e6c18a93ac7"
     },
     {
-      "key": "513ab",
-      "songName": "Omaru Polka - puppet",
-      "hash": "e6a0f52a7accf77c3665a5b75c3c0dc8dc3d10c9",
-      "levelid": "custom_level_e6a0f52a7accf77c3665a5b75c3c0dc8dc3d10c9"
+      "key": "51402",
+      "songName": "Ray Volpe - World War Rave",
+      "hash": "5eb9da0cc9f1f91daa3159442d22e77ad43a60f4",
+      "levelid": "custom_level_5eb9da0cc9f1f91daa3159442d22e77ad43a60f4"
     },
     {
-      "key": "51395",
-      "songName": "STOMACH BOOK - FUKOUNA GIRL",
-      "hash": "235cbc98f707e632ca5b657d9bc1ecd1f3c6da2d",
-      "levelid": "custom_level_235cbc98f707e632ca5b657d9bc1ecd1f3c6da2d"
+      "key": "51401",
+      "songName": "elwood - missing№ (ft. trustt) [COMPLEX NUMBERS]",
+      "hash": "d22eb3819b525733b19fda814930b8274cbb6b94",
+      "levelid": "custom_level_d22eb3819b525733b19fda814930b8274cbb6b94"
     },
     {
-      "key": "5138d",
-      "songName": "ARTPOP",
-      "hash": "356e52cc8d3641b7efdceec3964ad14525b7bca8",
-      "levelid": "custom_level_356e52cc8d3641b7efdceec3964ad14525b7bca8"
+      "key": "51400",
+      "songName": "紅の静寂 (灼眼のシャナ ED2)",
+      "hash": "300a2466096d1a23b6b34987907b519926c65def",
+      "levelid": "custom_level_300a2466096d1a23b6b34987907b519926c65def"
     },
     {
-      "key": "51384",
-      "songName": "ego",
-      "hash": "91233d1b17f48503ada8da8e5d4f089f99c5379c",
-      "levelid": "custom_level_91233d1b17f48503ada8da8e5d4f089f99c5379c"
+      "key": "513ff",
+      "songName": "coach has a gun",
+      "hash": "074e82ca333c149be2aaa437aaed2a6ba9a83e39",
+      "levelid": "custom_level_074e82ca333c149be2aaa437aaed2a6ba9a83e39"
     },
     {
-      "key": "51383",
-      "songName": "Take Control",
-      "hash": "2708cc562057f86784c4f4519d9c0c332ff6057b",
-      "levelid": "custom_level_2708cc562057f86784c4f4519d9c0c332ff6057b"
+      "key": "513fc",
+      "songName": " Charli xcx - Rock Music",
+      "hash": "609d5122781784c980a4890a33639a3bc844399c",
+      "levelid": "custom_level_609d5122781784c980a4890a33639a3bc844399c"
     },
     {
-      "key": "51381",
-      "songName": "Register A Email RN",
-      "hash": "d75138983781fff0ac7424b2c23f045b38ea7832",
-      "levelid": "custom_level_d75138983781fff0ac7424b2c23f045b38ea7832"
+      "key": "513fb",
+      "songName": " Charli xcx - Rock Music",
+      "hash": "f663c326e76e80d77ea6ad4dc09b513f5c1dc298",
+      "levelid": "custom_level_f663c326e76e80d77ea6ad4dc09b513f5c1dc298"
     },
     {
-      "key": "51380",
-      "songName": "Does this song?",
-      "hash": "24b9e1726b507d6f1d0778fe088e7e98fe44ddb9",
-      "levelid": "custom_level_24b9e1726b507d6f1d0778fe088e7e98fe44ddb9"
+      "key": "513f6",
+      "songName": "in The Navy (short)",
+      "hash": "7c47bc7fb4ea47908397c6b11c1281e3baa2d4e3",
+      "levelid": "custom_level_7c47bc7fb4ea47908397c6b11c1281e3baa2d4e3"
     },
     {
-      "key": "5137f",
-      "songName": "doggirl anthem",
-      "hash": "76ac6ef2d470d5012ac31dd3e5a94d9f03aa5dd4",
-      "levelid": "custom_level_76ac6ef2d470d5012ac31dd3e5a94d9f03aa5dd4"
+      "key": "513f3",
+      "songName": "fissa x 13",
+      "hash": "5e2c8cb554a310f439243f3c0105521f3dc20ce3",
+      "levelid": "custom_level_5e2c8cb554a310f439243f3c0105521f3dc20ce3"
     },
     {
-      "key": "5137d",
-      "songName": "Snail - Cavetown (feat. chloe moriondo)",
-      "hash": "5436687b963996ed17af8679e87fb5309d6dce8a",
-      "levelid": "custom_level_5436687b963996ed17af8679e87fb5309d6dce8a"
+      "key": "513f1",
+      "songName": "Hello juliet",
+      "hash": "d85d9472083a51931e8ded2140e6373c24f947b1",
+      "levelid": "custom_level_d85d9472083a51931e8ded2140e6373c24f947b1"
     },
     {
-      "key": "51375",
-      "songName": "Olivia Dean - Man I Need",
-      "hash": "1064fb2cc1a818651e58833b8a2d57deaaf7e039",
-      "levelid": "custom_level_1064fb2cc1a818651e58833b8a2d57deaaf7e039"
+      "key": "513ef",
+      "songName": "Looking Like You Just Woke Up - The Front Bottoms",
+      "hash": "691ceb0093f06c52a59666986a379ce124e4276f",
+      "levelid": "custom_level_691ceb0093f06c52a59666986a379ce124e4276f"
     },
     {
-      "key": "51374",
-      "songName": "Tea par",
-      "hash": "24eb596e61f078f9f7e72ab2559ca68a53a70981",
-      "levelid": "custom_level_24eb596e61f078f9f7e72ab2559ca68a53a70981"
+      "key": "513ec",
+      "songName": "S.W.M - Body's on Dope",
+      "hash": "b424e3c6505951bfa7adf9113b238a950a903ac1",
+      "levelid": "custom_level_b424e3c6505951bfa7adf9113b238a950a903ac1"
     },
     {
-      "key": "51371",
-      "songName": "Lucy - Monolithic",
-      "hash": "355ee6418775020e58a4cb1821a996f2f66cd553",
-      "levelid": "custom_level_355ee6418775020e58a4cb1821a996f2f66cd553"
+      "key": "513eb",
+      "songName": "Casanova ",
+      "hash": "7259ffd87e28a5abffd458ea58f549aa792ec93d",
+      "levelid": "custom_level_7259ffd87e28a5abffd458ea58f549aa792ec93d"
     },
     {
-      "key": "51370",
-      "songName": "TraCK",
-      "hash": "2e44275acd0a269da36c999910d348cefbe12eee",
-      "levelid": "custom_level_2e44275acd0a269da36c999910d348cefbe12eee"
+      "key": "513e4",
+      "songName": "Invincible Funk - DJ LXSTSKILLA",
+      "hash": "abea0acc61e05c8facad4d5f0bb2198a9012f0d1",
+      "levelid": "custom_level_abea0acc61e05c8facad4d5f0bb2198a9012f0d1"
     },
     {
-      "key": "5136d",
-      "songName": "[TILIC Pack] YOU - Internet Pajama Party",
-      "hash": "7a910281cbe757dc77ec4a4884cd506b375daa0f",
-      "levelid": "custom_level_7a910281cbe757dc77ec4a4884cd506b375daa0f"
+      "key": "513e2",
+      "songName": "Register A Email RN V2",
+      "hash": "1e6b7bde31e0c5adec816215b01c8157651e01ce",
+      "levelid": "custom_level_1e6b7bde31e0c5adec816215b01c8157651e01ce"
     },
     {
-      "key": "5136c",
-      "songName": "[TILIC Pack] Zekk - BACKPACKLV3",
-      "hash": "3577751c243086c6678b224882a3673107407925",
-      "levelid": "custom_level_3577751c243086c6678b224882a3673107407925"
+      "key": "513e1",
+      "songName": "Main Menu (Undertale OST) - Toby Fox",
+      "hash": "d55232e0ba8aa0200dd0e308bfbffa3f6f44b96e",
+      "levelid": "custom_level_d55232e0ba8aa0200dd0e308bfbffa3f6f44b96e"
     },
     {
-      "key": "5136b",
-      "songName": "[TILIC Pack] t+pazolite - Binary Honey",
-      "hash": "f9eee96733cbaea885e34018b7f42f542ca343fd",
-      "levelid": "custom_level_f9eee96733cbaea885e34018b7f42f542ca343fd"
+      "key": "513e0",
+      "songName": "[VNJS] S3RL - The Bass And The Melody",
+      "hash": "6df29eacb3f1347441156679223cc1a541e47e59",
+      "levelid": "custom_level_6df29eacb3f1347441156679223cc1a541e47e59"
     },
     {
-      "key": "5136a",
-      "songName": "[TILIC Pack] Dion Timmer & Dubloadz - Neon Phantom",
-      "hash": "9480eb767f52ac5028b43ba7173480ce7326c766",
-      "levelid": "custom_level_9480eb767f52ac5028b43ba7173480ce7326c766"
+      "key": "513df",
+      "songName": "Billlie - TBD",
+      "hash": "077f479de4698ebc5d15c13a424d4636b81e3b74",
+      "levelid": "custom_level_077f479de4698ebc5d15c13a424d4636b81e3b74"
     },
     {
-      "key": "51369",
-      "songName": "[TILIC Pack] t+pazolite - VOX Diamond",
-      "hash": "1c03e74c3bd376dd5a68ba03094237a87a6fcb7f",
-      "levelid": "custom_level_1c03e74c3bd376dd5a68ba03094237a87a6fcb7f"
+      "key": "513de",
+      "songName": "II. Anal Prolapse Suffocation",
+      "hash": "335e667cae4f37924f5b630044281ed318dcb3a4",
+      "levelid": "custom_level_335e667cae4f37924f5b630044281ed318dcb3a4"
     },
     {
-      "key": "51368",
-      "songName": "[TILIC Pack] Krewella - Greenlights",
-      "hash": "5d4d6762e62cd034b42afc190eeb1c27958daed0",
-      "levelid": "custom_level_5d4d6762e62cd034b42afc190eeb1c27958daed0"
+      "key": "513dd",
+      "songName": "Why not                   (the amazing digital circus)",
+      "hash": "642ef6d713cb35bf81e73907ab571cb91a088d4e",
+      "levelid": "custom_level_642ef6d713cb35bf81e73907ab571cb91a088d4e"
     },
     {
-      "key": "51367",
-      "songName": "[TILIC Pack] t+pazolite - Pump up UR NRG",
-      "hash": "22fe30a1ae493ce113d80afe5b00b3046bb3f717",
-      "levelid": "custom_level_22fe30a1ae493ce113d80afe5b00b3046bb3f717"
+      "key": "513d2",
+      "songName": "eastinanddopey-AHHHH, that was indead scary yes indeed.....",
+      "hash": "1f527cd26673344586bfe59df43bd42e027475ad",
+      "levelid": "custom_level_1f527cd26673344586bfe59df43bd42e027475ad"
     },
     {
-      "key": "51365",
-      "songName": "[TILIC Pack] t+pazolite - Surf Zapping (Uncut Edition)",
-      "hash": "8be43d35a0b3a1b129f67a1740e54c3b9bc377fc",
-      "levelid": "custom_level_8be43d35a0b3a1b129f67a1740e54c3b9bc377fc"
+      "key": "513ce",
+      "songName": "ひとしずく×やま△ - EveR ∞ LastinG ∞ NighT",
+      "hash": "e0ed665086e66d69f4b857e3f47380d6ef154f88",
+      "levelid": "custom_level_e0ed665086e66d69f4b857e3f47380d6ef154f88"
     },
     {
-      "key": "51364",
-      "songName": "[TILIC Pack] Android52 - Outrun 9000",
-      "hash": "2873540f1b13a36fe3ffa1c6646bb761da979781",
-      "levelid": "custom_level_2873540f1b13a36fe3ffa1c6646bb761da979781"
-    },
-    {
-      "key": "51363",
-      "songName": "[TILIC Pack] 源屋 - Bad Time",
-      "hash": "0eb56e2b14fd76d5c2af4a7d55b7998c271807e0",
-      "levelid": "custom_level_0eb56e2b14fd76d5c2af4a7d55b7998c271807e0"
-    },
-    {
-      "key": "51361",
-      "songName": "[TILIC Pack] t+pazolite - Psyched Fevereiro",
-      "hash": "29c219de336a89a3d6915ecf9a9a435fe1c3b6c7",
-      "levelid": "custom_level_29c219de336a89a3d6915ecf9a9a435fe1c3b6c7"
-    },
-    {
-      "key": "4e992",
-      "songName": "[TILIC Pack] t+pazolite - Dive High",
-      "hash": "cf7d0532441233c48b428499a0ad8a1c68b2bed5",
-      "levelid": "custom_level_cf7d0532441233c48b428499a0ad8a1c68b2bed5"
-    },
-    {
-      "key": "5135e",
-      "songName": "Psycho In My Head",
-      "hash": "c780ef3a2698c8488ba5c1dad41e5ccf6143bce5",
-      "levelid": "custom_level_c780ef3a2698c8488ba5c1dad41e5ccf6143bce5"
-    },
-    {
-      "key": "51359",
-      "songName": "totally NORMAL beat saber song              (eastinanddopey)",
-      "hash": "b675323aa1c330c66edfce4eb33406b3ce217322",
-      "levelid": "custom_level_b675323aa1c330c66edfce4eb33406b3ce217322"
-    },
-    {
-      "key": "51357",
-      "songName": "LeaF - Alice in Misanthrope (Short Ver.) (2020 Remaster)",
-      "hash": "0cdc780d4d8727030c50932f8827935214f71b97",
-      "levelid": "custom_level_0cdc780d4d8727030c50932f8827935214f71b97"
-    },
-    {
-      "key": "51354",
-      "songName": "Tobymac - Me Without You",
-      "hash": "3e983b764873dd25f2698b08deccda470cc6a9bb",
-      "levelid": "custom_level_3e983b764873dd25f2698b08deccda470cc6a9bb"
-    },
-    {
-      "key": "51353",
-      "songName": "Sprunki Song",
-      "hash": "7e43f52b1cb86d629c8ed94c1af324ff50cd6c60",
-      "levelid": "custom_level_7e43f52b1cb86d629c8ed94c1af324ff50cd6c60"
-    },
-    {
-      "key": "51352",
-      "songName": "final breath",
-      "hash": "b615f62f3234a6933d012e43c0330315bb6ff886",
-      "levelid": "custom_level_b615f62f3234a6933d012e43c0330315bb6ff886"
-    },
-    {
-      "key": "51351",
-      "songName": "Homer drops his donut",
-      "hash": "06212c1d2d735d34fa898845f6f25e5aea0fc012",
-      "levelid": "custom_level_06212c1d2d735d34fa898845f6f25e5aea0fc012"
-    },
-    {
-      "key": "5134d",
-      "songName": "80 OR LESS HILL GYM SONIC.EXE. OUTCOME MEMORIES",
-      "hash": "0aeca439ef0c97421728785cafe0ac7f26723eb0",
-      "levelid": "custom_level_0aeca439ef0c97421728785cafe0ac7f26723eb0"
-    },
-    {
-      "key": "5134b",
-      "songName": "mic pop - jon mud",
-      "hash": "cbd9fef1cfa34dabf728c0fd5f1ff9defb33e66f",
-      "levelid": "custom_level_cbd9fef1cfa34dabf728c0fd5f1ff9defb33e66f"
-    },
-    {
-      "key": "5134a",
-      "songName": "[bbno$ Pack] bbno$ - boom",
-      "hash": "c23f04b15be22122390dfa922e56e5e34ce6ba3c",
-      "levelid": "custom_level_c23f04b15be22122390dfa922e56e5e34ce6ba3c"
+      "key": "513cd",
+      "songName": "Infadels - Jagger 67 (V4)",
+      "hash": "8d82a574c4f579b44d74109dd508e38e5f67f3c0",
+      "levelid": "custom_level_8d82a574c4f579b44d74109dd508e38e5f67f3c0"
     }
   ],
   "image": ""
