@@ -1,172 +1,220 @@
 {
-  "playlistTitle": "2026-05-12T15:18:48.185Z~2026-05-13T15:18:48.185Z",
+  "playlistTitle": "2026-05-13T15:18:47.942Z~2026-05-14T15:18:47.942Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-12T15:18:48.185Z and 2026-05-13T15:18:48.185Z",
+  "discripstion": "Maps published between 2026-05-13T15:18:47.942Z and 2026-05-14T15:18:47.942Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "51457",
+      "songName": "Aegleseeker - Silentroom vs Frumsq",
+      "hash": "f2bbea6fbe905177d7f3dcfa6ac0dc0d762491e4",
+      "levelid": "custom_level_f2bbea6fbe905177d7f3dcfa6ac0dc0d762491e4"
+    },
+    {
+      "key": "51456",
+      "songName": "Korol bez Shuta",
+      "hash": "849e09856d7f419a9bd3c28c1b88bb52ee29eb1f",
+      "levelid": "custom_level_849e09856d7f419a9bd3c28c1b88bb52ee29eb1f"
+    },
+    {
+      "key": "51455",
+      "songName": "The Lord of the Rings_ The Fellowship Of The It's My Book They'll Walk If I Tell Them Too ",
+      "hash": "b7a57b18beceac67c43e5f4c1164e6cd0902dea8",
+      "levelid": "custom_level_b7a57b18beceac67c43e5f4c1164e6cd0902dea8"
+    },
+    {
+      "key": "51454",
+      "songName": "JOINT (灼眼のシャナII OP)",
+      "hash": "9942590d564a99edc0abb211232e3e41125c2ad2",
+      "levelid": "custom_level_9942590d564a99edc0abb211232e3e41125c2ad2"
+    },
+    {
+      "key": "51452",
+      "songName": "Ao uni vs DJ Raisei - Vampire 2",
+      "hash": "b47ec7520b9f4ff2449c5d1261a609edb0d510ef",
+      "levelid": "custom_level_b47ec7520b9f4ff2449c5d1261a609edb0d510ef"
+    },
+    {
+      "key": "51450",
+      "songName": "RavenstrikeX - Say It Till I Fade",
+      "hash": "8a44a39ae18ca35d0ad5e4123ee7ac4aa5eb0238",
+      "levelid": "custom_level_8a44a39ae18ca35d0ad5e4123ee7ac4aa5eb0238"
+    },
+    {
+      "key": "5144f",
+      "songName": "hotter than a cool cucamelon razz kambuchi",
+      "hash": "be2b9d4c24b1814b584f758860f1fec654863e42",
+      "levelid": "custom_level_be2b9d4c24b1814b584f758860f1fec654863e42"
+    },
+    {
+      "key": "5144a",
+      "songName": "golden tropy rec room",
+      "hash": "1f98857b38ced3f1794a9aa9642de8137f4b032b",
+      "levelid": "custom_level_1f98857b38ced3f1794a9aa9642de8137f4b032b"
+    },
+    {
+      "key": "51449",
+      "songName": "TIGER DROOL - SABER TOOTH (QUIX Remix) (Nightcore Mix)",
+      "hash": "768087627f879566befc452966141e93132f73b9",
+      "levelid": "custom_level_768087627f879566befc452966141e93132f73b9"
+    },
+    {
+      "key": "51448",
+      "songName": " Charli xcx - Rock Music",
+      "hash": "f163a63583e4824883b337e50fa9172abc415e5b",
+      "levelid": "custom_level_f163a63583e4824883b337e50fa9172abc415e5b"
+    },
+    {
+      "key": "51440",
+      "songName": "Yahhh!",
+      "hash": "1865caa2b89e16f1019228dba27f1669461293da",
+      "levelid": "custom_level_1865caa2b89e16f1019228dba27f1669461293da"
+    },
+    {
+      "key": "50006",
+      "songName": "[UDSS] trung-nova - ☆Prism of Chroma☆ [For Lazer Grand Arena 2026]",
+      "hash": "7c3227734b8a90cc7a71e4a510c69d0ea8dbbefc",
+      "levelid": "custom_level_7c3227734b8a90cc7a71e4a510c69d0ea8dbbefc"
+    },
+    {
+      "key": "51437",
+      "songName": "LSToasts index finger - Eastin Thumb Drizzy",
+      "hash": "43a7848d0503e0aebc5c9576222e866b5abc1c7a",
+      "levelid": "custom_level_43a7848d0503e0aebc5c9576222e866b5abc1c7a"
+    },
+    {
+      "key": "51436",
+      "songName": "Sexy Luigi",
+      "hash": "a88617ab682027fb2559fb00a5f76b69cd75eaa3",
+      "levelid": "custom_level_a88617ab682027fb2559fb00a5f76b69cd75eaa3"
+    },
+    {
+      "key": "51435",
+      "songName": "D’oh Anthem",
+      "hash": "e305221dd01d76b334ddf404ab296b4d6b7e8b0a",
+      "levelid": "custom_level_e305221dd01d76b334ddf404ab296b4d6b7e8b0a"
+    },
+    {
+      "key": "51433",
+      "songName": "Forest Funk",
+      "hash": "f1d3fa03b5837c45297f0408a2a3ee51f65d3a67",
+      "levelid": "custom_level_f1d3fa03b5837c45297f0408a2a3ee51f65d3a67"
+    },
+    {
+      "key": "51431",
+      "songName": "Smoke Alarm Chirp",
+      "hash": "7034b54778ccacf7273a87713ecce9b1d2ddf61b",
+      "levelid": "custom_level_7034b54778ccacf7273a87713ecce9b1d2ddf61b"
+    },
+    {
+      "key": "5142b",
+      "songName": "Afterlife",
+      "hash": "4029c4ce521016825463acc28d128d39b129c869",
+      "levelid": "custom_level_4029c4ce521016825463acc28d128d39b129c869"
+    },
+    {
+      "key": "5142e",
+      "songName": "EDGE OF INPHINITY",
+      "hash": "cdf7c65399184bde24236b1c8c80ae4dc1c18ce8",
+      "levelid": "custom_level_cdf7c65399184bde24236b1c8c80ae4dc1c18ce8"
+    },
+    {
+      "key": "5142d",
+      "songName": "[ I AM HITTYING THE GRIDYA ]",
+      "hash": "71bdf1378f6839c1e029ce57d8eab8af26949c94",
+      "levelid": "custom_level_71bdf1378f6839c1e029ce57d8eab8af26949c94"
+    },
+    {
+      "key": "5142c",
+      "songName": "Kordhell & Dragon Boys - VUK VUK",
+      "hash": "2f427fca969cfc8f608805fb6f497dab2a86a5fe",
+      "levelid": "custom_level_2f427fca969cfc8f608805fb6f497dab2a86a5fe"
+    },
+    {
+      "key": "51425",
+      "songName": "Register a email v278.5",
+      "hash": "15e2782cac3331f9543f8e7d87f3f7480bf983cb",
+      "levelid": "custom_level_15e2782cac3331f9543f8e7d87f3f7480bf983cb"
+    },
+    {
+      "key": "51423",
+      "songName": "dangerous!",
+      "hash": "4b2b0ce4191e8c5e22207be2e5905d29255e5fbc",
+      "levelid": "custom_level_4b2b0ce4191e8c5e22207be2e5905d29255e5fbc"
+    },
+    {
+      "key": "51422",
+      "songName": "Low Cortisol Moment",
+      "hash": "823c4aa5b05a56730d8687fb61ab6f7d96d32862",
+      "levelid": "custom_level_823c4aa5b05a56730d8687fb61ab6f7d96d32862"
+    },
+    {
+      "key": "51421",
+      "songName": "[Chroma] Wawa Face（娃娃脸）",
+      "hash": "aeeda148fe0752e7ab25dc2df80f35bfcd11cc96",
+      "levelid": "custom_level_aeeda148fe0752e7ab25dc2df80f35bfcd11cc96"
+    },
+    {
+      "key": "51420",
+      "songName": "Eventide",
+      "hash": "e6907b2f8730e11019f78bbf48c6211f494cf44d",
+      "levelid": "custom_level_e6907b2f8730e11019f78bbf48c6211f494cf44d"
+    },
+    {
+      "key": "5141f",
+      "songName": "Obvious",
+      "hash": "d3a6b9f7bd0a503644ca803ec07eabe5b63899ab",
+      "levelid": "custom_level_d3a6b9f7bd0a503644ca803ec07eabe5b63899ab"
+    },
+    {
+      "key": "5141e",
+      "songName": "mind pluck",
+      "hash": "35a426122818e1b22866ae0e29db306c355e0028",
+      "levelid": "custom_level_35a426122818e1b22866ae0e29db306c355e0028"
+    },
+    {
+      "key": "5141c",
+      "songName": "In Shadows and Dust(Remastered) - Kataklysm",
+      "hash": "b8bb6f5901c257b0cca73a43be873426987eab19",
+      "levelid": "custom_level_b8bb6f5901c257b0cca73a43be873426987eab19"
+    },
+    {
+      "key": "51419",
+      "songName": "Heart of Lahai-Roi (Wuthering Waves)",
+      "hash": "abad5780f45ee65fd8567db338165e78f5011521",
+      "levelid": "custom_level_abad5780f45ee65fd8567db338165e78f5011521"
+    },
+    {
+      "key": "51418",
+      "songName": "Get Behind Me",
+      "hash": "5116541d79773267fe7165abc64bc3d6b401b9ad",
+      "levelid": "custom_level_5116541d79773267fe7165abc64bc3d6b401b9ad"
+    },
+    {
+      "key": "51412",
+      "songName": "vs hex ram",
+      "hash": "55ff30e6f5299d1e2f282b245d3b20fcbed72dad",
+      "levelid": "custom_level_55ff30e6f5299d1e2f282b245d3b20fcbed72dad"
+    },
+    {
+      "key": "51411",
+      "songName": "Talking Heads - And She Was",
+      "hash": "ec0908ce25a4000aa2eab33a9398b36daaf254e3",
+      "levelid": "custom_level_ec0908ce25a4000aa2eab33a9398b36daaf254e3"
+    },
+    {
+      "key": "51410",
+      "songName": "Bao The Whale - CHU CHU LOVELY  CHAINSAW MAN",
+      "hash": "5d5f4e605c87901cd808a5b95d785317d7f574b1",
+      "levelid": "custom_level_5d5f4e605c87901cd808a5b95d785317d7f574b1"
+    },
+    {
       "key": "5140f",
       "songName": "A Day at Magic Academy（魔法学院的一天 / feat.庄东茹） - Roco Kingdom",
-      "hash": "229852b9884f7117a6a3c631f2dd2098eb00ed4c",
-      "levelid": "custom_level_229852b9884f7117a6a3c631f2dd2098eb00ed4c"
-    },
-    {
-      "key": "5140e",
-      "songName": "I Miss Us - Joost, Käärijä, Tommy Cash",
-      "hash": "4637460401f2262e3caff37d09f2c5abcb4336ec",
-      "levelid": "custom_level_4637460401f2262e3caff37d09f2c5abcb4336ec"
-    },
-    {
-      "key": "5140d",
-      "songName": "キャンデー feat. Rin - r-906",
-      "hash": "123d97dbbe96321f784a9e6b7ec67b79ea9c3753",
-      "levelid": "custom_level_123d97dbbe96321f784a9e6b7ec67b79ea9c3753"
-    },
-    {
-      "key": "5140c",
-      "songName": "bomb has been planted",
-      "hash": "3cf47ac28b3c56bfb6a5bcf23bafa78cb8e13ef6",
-      "levelid": "custom_level_3cf47ac28b3c56bfb6a5bcf23bafa78cb8e13ef6"
-    },
-    {
-      "key": "51407",
-      "songName": "Kotori -Cruel oath (Chroma)",
-      "hash": "641ae40b81a547363f79760cd6bb7e6c18a93ac7",
-      "levelid": "custom_level_641ae40b81a547363f79760cd6bb7e6c18a93ac7"
-    },
-    {
-      "key": "51402",
-      "songName": "Ray Volpe - World War Rave",
-      "hash": "5eb9da0cc9f1f91daa3159442d22e77ad43a60f4",
-      "levelid": "custom_level_5eb9da0cc9f1f91daa3159442d22e77ad43a60f4"
-    },
-    {
-      "key": "51401",
-      "songName": "elwood - missing№ (ft. trustt) [COMPLEX NUMBERS]",
-      "hash": "d22eb3819b525733b19fda814930b8274cbb6b94",
-      "levelid": "custom_level_d22eb3819b525733b19fda814930b8274cbb6b94"
-    },
-    {
-      "key": "51400",
-      "songName": "紅の静寂 (灼眼のシャナ ED2)",
-      "hash": "300a2466096d1a23b6b34987907b519926c65def",
-      "levelid": "custom_level_300a2466096d1a23b6b34987907b519926c65def"
-    },
-    {
-      "key": "513ff",
-      "songName": "coach has a gun",
-      "hash": "074e82ca333c149be2aaa437aaed2a6ba9a83e39",
-      "levelid": "custom_level_074e82ca333c149be2aaa437aaed2a6ba9a83e39"
-    },
-    {
-      "key": "513fc",
-      "songName": " Charli xcx - Rock Music",
-      "hash": "609d5122781784c980a4890a33639a3bc844399c",
-      "levelid": "custom_level_609d5122781784c980a4890a33639a3bc844399c"
-    },
-    {
-      "key": "513fb",
-      "songName": " Charli xcx - Rock Music",
-      "hash": "f663c326e76e80d77ea6ad4dc09b513f5c1dc298",
-      "levelid": "custom_level_f663c326e76e80d77ea6ad4dc09b513f5c1dc298"
-    },
-    {
-      "key": "513f6",
-      "songName": "in The Navy (short)",
-      "hash": "7c47bc7fb4ea47908397c6b11c1281e3baa2d4e3",
-      "levelid": "custom_level_7c47bc7fb4ea47908397c6b11c1281e3baa2d4e3"
-    },
-    {
-      "key": "513f3",
-      "songName": "fissa x 13",
-      "hash": "5e2c8cb554a310f439243f3c0105521f3dc20ce3",
-      "levelid": "custom_level_5e2c8cb554a310f439243f3c0105521f3dc20ce3"
-    },
-    {
-      "key": "513f1",
-      "songName": "Hello juliet",
-      "hash": "d85d9472083a51931e8ded2140e6373c24f947b1",
-      "levelid": "custom_level_d85d9472083a51931e8ded2140e6373c24f947b1"
-    },
-    {
-      "key": "513ef",
-      "songName": "Looking Like You Just Woke Up - The Front Bottoms",
-      "hash": "691ceb0093f06c52a59666986a379ce124e4276f",
-      "levelid": "custom_level_691ceb0093f06c52a59666986a379ce124e4276f"
-    },
-    {
-      "key": "513ec",
-      "songName": "S.W.M - Body's on Dope",
-      "hash": "b424e3c6505951bfa7adf9113b238a950a903ac1",
-      "levelid": "custom_level_b424e3c6505951bfa7adf9113b238a950a903ac1"
-    },
-    {
-      "key": "513eb",
-      "songName": "Casanova ",
-      "hash": "7259ffd87e28a5abffd458ea58f549aa792ec93d",
-      "levelid": "custom_level_7259ffd87e28a5abffd458ea58f549aa792ec93d"
-    },
-    {
-      "key": "513e4",
-      "songName": "Invincible Funk - DJ LXSTSKILLA",
-      "hash": "abea0acc61e05c8facad4d5f0bb2198a9012f0d1",
-      "levelid": "custom_level_abea0acc61e05c8facad4d5f0bb2198a9012f0d1"
-    },
-    {
-      "key": "513e2",
-      "songName": "Register A Email RN V2",
-      "hash": "1e6b7bde31e0c5adec816215b01c8157651e01ce",
-      "levelid": "custom_level_1e6b7bde31e0c5adec816215b01c8157651e01ce"
-    },
-    {
-      "key": "513e1",
-      "songName": "Main Menu (Undertale OST) - Toby Fox",
-      "hash": "d55232e0ba8aa0200dd0e308bfbffa3f6f44b96e",
-      "levelid": "custom_level_d55232e0ba8aa0200dd0e308bfbffa3f6f44b96e"
-    },
-    {
-      "key": "513e0",
-      "songName": "[VNJS] S3RL - The Bass And The Melody",
-      "hash": "6df29eacb3f1347441156679223cc1a541e47e59",
-      "levelid": "custom_level_6df29eacb3f1347441156679223cc1a541e47e59"
-    },
-    {
-      "key": "513df",
-      "songName": "Billlie - TBD",
-      "hash": "077f479de4698ebc5d15c13a424d4636b81e3b74",
-      "levelid": "custom_level_077f479de4698ebc5d15c13a424d4636b81e3b74"
-    },
-    {
-      "key": "513de",
-      "songName": "II. Anal Prolapse Suffocation",
-      "hash": "335e667cae4f37924f5b630044281ed318dcb3a4",
-      "levelid": "custom_level_335e667cae4f37924f5b630044281ed318dcb3a4"
-    },
-    {
-      "key": "513dd",
-      "songName": "Why not                   (the amazing digital circus)",
-      "hash": "642ef6d713cb35bf81e73907ab571cb91a088d4e",
-      "levelid": "custom_level_642ef6d713cb35bf81e73907ab571cb91a088d4e"
-    },
-    {
-      "key": "513d2",
-      "songName": "eastinanddopey-AHHHH, that was indead scary yes indeed.....",
-      "hash": "1f527cd26673344586bfe59df43bd42e027475ad",
-      "levelid": "custom_level_1f527cd26673344586bfe59df43bd42e027475ad"
-    },
-    {
-      "key": "513ce",
-      "songName": "ひとしずく×やま△ - EveR ∞ LastinG ∞ NighT",
-      "hash": "e0ed665086e66d69f4b857e3f47380d6ef154f88",
-      "levelid": "custom_level_e0ed665086e66d69f4b857e3f47380d6ef154f88"
-    },
-    {
-      "key": "513cd",
-      "songName": "Infadels - Jagger 67 (V4)",
-      "hash": "8d82a574c4f579b44d74109dd508e38e5f67f3c0",
-      "levelid": "custom_level_8d82a574c4f579b44d74109dd508e38e5f67f3c0"
+      "hash": "604ed4876580382ebcd4f1a95278e507ec6b3e1f",
+      "levelid": "custom_level_604ed4876580382ebcd4f1a95278e507ec6b3e1f"
     }
   ],
   "image": ""
