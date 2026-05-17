@@ -1,202 +1,220 @@
 {
-  "playlistTitle": "2026-05-15T15:18:48.184Z~2026-05-16T15:18:48.184Z",
+  "playlistTitle": "2026-05-16T15:18:48.179Z~2026-05-17T15:18:48.179Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-15T15:18:48.184Z and 2026-05-16T15:18:48.184Z",
+  "discripstion": "Maps published between 2026-05-16T15:18:48.179Z and 2026-05-17T15:18:48.179Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "51506",
-      "songName": "Oliver Tree - Joyride",
-      "hash": "30132b4936f0d8830d1c40b93da591df798e3e52",
-      "levelid": "custom_level_30132b4936f0d8830d1c40b93da591df798e3e52"
+      "key": "5157b",
+      "songName": "MAGIC",
+      "hash": "203f67ee8b14019262432586f9c65422c7c90179",
+      "levelid": "custom_level_203f67ee8b14019262432586f9c65422c7c90179"
     },
     {
-      "key": "51505",
-      "songName": "BABYMONSTER - '춤 (CHOOM)",
-      "hash": "07dc301290561ce1d140d5a70067c574125411fa",
-      "levelid": "custom_level_07dc301290561ce1d140d5a70067c574125411fa"
+      "key": "5157f",
+      "songName": "67 (Six Seven)",
+      "hash": "74ac8ae38366620b00ba1711587e7b98f41ac51f",
+      "levelid": "custom_level_74ac8ae38366620b00ba1711587e7b98f41ac51f"
     },
     {
-      "key": "51502",
-      "songName": "weighted pull ups",
-      "hash": "8a3030155614a69d24f51b0c029472ea21aeb42b",
-      "levelid": "custom_level_8a3030155614a69d24f51b0c029472ea21aeb42b"
+      "key": "5157e",
+      "songName": "30",
+      "hash": "519590c48fa6acf4f783c1e919aee4cdb10fb280",
+      "levelid": "custom_level_519590c48fa6acf4f783c1e919aee4cdb10fb280"
     },
     {
-      "key": "514fa",
-      "songName": "Okame-P - Very Empty Voice",
-      "hash": "e2e5e432d1dda0be5ed9d4b845690ca16a6e4811",
-      "levelid": "custom_level_e2e5e432d1dda0be5ed9d4b845690ca16a6e4811"
+      "key": "5157d",
+      "songName": "dr pepper asmr",
+      "hash": "cf056e543f89cc9446b01debc8b2edba34ee2f8c",
+      "levelid": "custom_level_cf056e543f89cc9446b01debc8b2edba34ee2f8c"
     },
     {
-      "key": "5147b",
-      "songName": "Gooseworx - Digital Days",
-      "hash": "d396f31a0a878498defeef80a9490bd58ae71888",
-      "levelid": "custom_level_d396f31a0a878498defeef80a9490bd58ae71888"
+      "key": "5157c",
+      "songName": "[Vivify] Jami Lynne - White Space",
+      "hash": "bcab7d386d023cb9fd8e6ae9b44b1c1ae4e88290",
+      "levelid": "custom_level_bcab7d386d023cb9fd8e6ae9b44b1c1ae4e88290"
     },
     {
-      "key": "514f5",
-      "songName": "АДЛИН (Adlin) — Dead Inside",
-      "hash": "af18fb99d5ae1935b24341dbb5cf3880657575be",
-      "levelid": "custom_level_af18fb99d5ae1935b24341dbb5cf3880657575be"
+      "key": "51577",
+      "songName": "8th Anniversary Update | Release Date Reveal | Beat Saber",
+      "hash": "8bc85466891aea47ab804472ac4500ad8746f98a",
+      "levelid": "custom_level_8bc85466891aea47ab804472ac4500ad8746f98a"
     },
     {
-      "key": "514ed",
-      "songName": "ONESHOT",
-      "hash": "f4ffc745bd17628f71f5f9c1818dedabbc1f6a71",
-      "levelid": "custom_level_f4ffc745bd17628f71f5f9c1818dedabbc1f6a71"
+      "key": "51572",
+      "songName": "Taxi Driver",
+      "hash": "7928ee43cdbc2de88164b38656997d4b40bc815e",
+      "levelid": "custom_level_7928ee43cdbc2de88164b38656997d4b40bc815e"
     },
     {
-      "key": "514eb",
-      "songName": "bazooka",
-      "hash": "b1da965303346072eb512fede1dfb6a31d5e6d39",
-      "levelid": "custom_level_b1da965303346072eb512fede1dfb6a31d5e6d39"
+      "key": "5156f",
+      "songName": "IDK",
+      "hash": "ce60505c95a8207b8ad669cb6e6085c52552f5bf",
+      "levelid": "custom_level_ce60505c95a8207b8ad669cb6e6085c52552f5bf"
     },
     {
-      "key": "514ea",
-      "songName": "BLAZE (灼眼のシャナII OP2)",
-      "hash": "76bd95cba3f64ae3558faee18eb019fc5de9fbb9",
-      "levelid": "custom_level_76bd95cba3f64ae3558faee18eb019fc5de9fbb9"
+      "key": "5154b",
+      "songName": "Yomiseru - 決戦！たいやきくん",
+      "hash": "e71c3d1f9118c1ca742ef94728eb561f28e86417",
+      "levelid": "custom_level_e71c3d1f9118c1ca742ef94728eb561f28e86417"
     },
     {
-      "key": "514e5",
-      "songName": "Wedding Singer",
-      "hash": "4f65080bff3da661f5a0b4adaf08e8967f784e70",
-      "levelid": "custom_level_4f65080bff3da661f5a0b4adaf08e8967f784e70"
+      "key": "5156e",
+      "songName": "Sociometry (灼眼のシャナII ED2)",
+      "hash": "875cf8134709e2da716a28312952b3f37c6fb0ed",
+      "levelid": "custom_level_875cf8134709e2da716a28312952b3f37c6fb0ed"
     },
     {
-      "key": "514e0",
-      "songName": "Zartmann - tau mich auf",
-      "hash": "9eea5294644c8bd8da3fce501bd467cfc53ea7e3",
-      "levelid": "custom_level_9eea5294644c8bd8da3fce501bd467cfc53ea7e3"
+      "key": "512ef",
+      "songName": "xi vs. Morimori Atsushi - SuddeИDeath",
+      "hash": "675ca96d6e789328b6b45d3a8b53369c6951a208",
+      "levelid": "custom_level_675ca96d6e789328b6b45d3a8b53369c6951a208"
     },
     {
-      "key": "514df",
-      "songName": "[2000s Rock & Metal Pack]  Millionaire - Queens Of The Stone Age (Songs For The Deaf) [Balanced]",
-      "hash": "495dded298524d9c46984445a1da0fe6118fb129",
-      "levelid": "custom_level_495dded298524d9c46984445a1da0fe6118fb129"
+      "key": "5156d",
+      "songName": "[Vivify]  Sub Urban - See myself",
+      "hash": "3ea5d37ac07a011ae37f966c50a4abf08ea8a69f",
+      "levelid": "custom_level_3ea5d37ac07a011ae37f966c50a4abf08ea8a69f"
     },
     {
-      "key": "514de",
-      "songName": "RZA unironically creates a terrible beat for a Guitar Center promo",
-      "hash": "31693587edb090c48674269e8cc977d34f8686b1",
-      "levelid": "custom_level_31693587edb090c48674269e8cc977d34f8686b1"
+      "key": "5156c",
+      "songName": "Norythum - The Midway",
+      "hash": "ab64ba134ffbc36fdf81abbdbace9a098c728d9f",
+      "levelid": "custom_level_ab64ba134ffbc36fdf81abbdbace9a098c728d9f"
     },
     {
-      "key": "514da",
-      "songName": "814",
-      "hash": "3d085a3ed12a76541c0fd5f7bacbd2659a575a69",
-      "levelid": "custom_level_3d085a3ed12a76541c0fd5f7bacbd2659a575a69"
+      "key": "5156b",
+      "songName": "BLACKPINK - GO",
+      "hash": "9701633a8c9da61f0d1b40c41cdbe3a2b6ed5eee",
+      "levelid": "custom_level_9701633a8c9da61f0d1b40c41cdbe3a2b6ed5eee"
     },
     {
-      "key": "514d9",
-      "songName": "Tyler, the Creator - FUCKING YOUNG (feat. Charlie Wilson & Chaz Bundick)",
-      "hash": "d57375397dfb3a1440941045a9c358a0af197c1b",
-      "levelid": "custom_level_d57375397dfb3a1440941045a9c358a0af197c1b"
+      "key": "51569",
+      "songName": "Jane!",
+      "hash": "33bec5899e4849ece44c7ddceb7cf8e00f32df72",
+      "levelid": "custom_level_33bec5899e4849ece44c7ddceb7cf8e00f32df72"
     },
     {
-      "key": "514d6",
-      "songName": "Maxo - Forsaken City (Sever the Skyline Mix) [NO RESET]",
-      "hash": "a0a7c815a1073e220b7f315b8830454d4288ecbd",
-      "levelid": "custom_level_a0a7c815a1073e220b7f315b8830454d4288ecbd"
+      "key": "51568",
+      "songName": "final minigame for the fear",
+      "hash": "4fa586e685c744797959fa0c3aa21d8a3edbab87",
+      "levelid": "custom_level_4fa586e685c744797959fa0c3aa21d8a3edbab87"
     },
     {
-      "key": "514c8",
-      "songName": "Muga millon",
-      "hash": "a0c213356f05f126756ece7a9606dabb85c408db",
-      "levelid": "custom_level_a0c213356f05f126756ece7a9606dabb85c408db"
+      "key": "51567",
+      "songName": "i like saccharomyces ceravisiae",
+      "hash": "ed57d69b5979ce48c4c789ebc9cfd0695042c2b7",
+      "levelid": "custom_level_ed57d69b5979ce48c4c789ebc9cfd0695042c2b7"
     },
     {
-      "key": "514c7",
-      "songName": "Eat You Up",
-      "hash": "9023a9f1b0376a98376f3c69153d3c6ed9df7478",
-      "levelid": "custom_level_9023a9f1b0376a98376f3c69153d3c6ed9df7478"
+      "key": "5155b",
+      "songName": "Volbeat - Black Rose",
+      "hash": "7cce1c07336dcc75776eff0f6b9f892f3083800e",
+      "levelid": "custom_level_7cce1c07336dcc75776eff0f6b9f892f3083800e"
     },
     {
-      "key": "514c6",
-      "songName": "punching trees",
-      "hash": "54393b5d94f9d091d087de1034b079c8e94c14e2",
-      "levelid": "custom_level_54393b5d94f9d091d087de1034b079c8e94c14e2"
+      "key": "5155a",
+      "songName": "Skye Riley / Naomi Scott - New Brain ",
+      "hash": "1c13cf0a27aa4be3d6c2cbe3536a856f0f1977d0",
+      "levelid": "custom_level_1c13cf0a27aa4be3d6c2cbe3536a856f0f1977d0"
     },
     {
-      "key": "514c5",
-      "songName": "piano in the sky",
-      "hash": "8fff958f57976591f01281c1cc9df5751e0ec953",
-      "levelid": "custom_level_8fff958f57976591f01281c1cc9df5751e0ec953"
+      "key": "51557",
+      "songName": "Red Lips",
+      "hash": "bde2beef65ba7a100991b49d9a633c1a5b47e3d2",
+      "levelid": "custom_level_bde2beef65ba7a100991b49d9a633c1a5b47e3d2"
     },
     {
-      "key": "512ac",
-      "songName": "magical, very magical world",
-      "hash": "ce56da5e45cf58a0a9d11fa5fbf0efe59ceb4c8c",
-      "levelid": "custom_level_ce56da5e45cf58a0a9d11fa5fbf0efe59ceb4c8c"
+      "key": "5154e",
+      "songName": "Joyride - Oliver Tree",
+      "hash": "5b5145b50bdd02b0435eeae7b7eca18b0d3f4ede",
+      "levelid": "custom_level_5b5145b50bdd02b0435eeae7b7eca18b0d3f4ede"
     },
     {
-      "key": "514c4",
-      "songName": "15178",
-      "hash": "557f7caad0f43daaefeb57527c6277675ef12d44",
-      "levelid": "custom_level_557f7caad0f43daaefeb57527c6277675ef12d44"
+      "key": "5154a",
+      "songName": " Stellar -Jenna Ortega  (Poodle) ",
+      "hash": "fdc2639e8358f7ddc4f18a20e2ab384cb9613ae4",
+      "levelid": "custom_level_fdc2639e8358f7ddc4f18a20e2ab384cb9613ae4"
     },
     {
-      "key": "514c3",
-      "songName": "[Gamified Vivify] Dragonborn - Jeremy Soule",
-      "hash": "45175584cab6343d6a26164546eadc41948452d4",
-      "levelid": "custom_level_45175584cab6343d6a26164546eadc41948452d4"
+      "key": "51546",
+      "songName": "10percs - Saramalacara Ft. Hatsune Miku",
+      "hash": "925e7b5adfb023ede9744e8739d3f7108ae7f35a",
+      "levelid": "custom_level_925e7b5adfb023ede9744e8739d3f7108ae7f35a"
     },
     {
-      "key": "514bc",
-      "songName": "Cocoon - Catfish and the Bottlemen (Remap)",
-      "hash": "17afe820f92a2cb207a640b1e5b03ee49192912b",
-      "levelid": "custom_level_17afe820f92a2cb207a640b1e5b03ee49192912b"
+      "key": "512d6",
+      "songName": "今この胸に滾るのは(TV size) - ヒグチアイ 「スノウボールアース」",
+      "hash": "a4daa18e766d432e316dcaeeed931060d1083877",
+      "levelid": "custom_level_a4daa18e766d432e316dcaeeed931060d1083877"
     },
     {
-      "key": "514ba",
-      "songName": "The Qemists - Push the Line",
-      "hash": "c5216703cb73bf1a8f8742b28c7f6af1a6c44f6b",
-      "levelid": "custom_level_c5216703cb73bf1a8f8742b28c7f6af1a6c44f6b"
+      "key": "51544",
+      "songName": "Machine Girl - Krystle (URL Cyber Palace Mix)",
+      "hash": "a16c008d855d7936bdc2594d472257d5eff6604f",
+      "levelid": "custom_level_a16c008d855d7936bdc2594d472257d5eff6604f"
     },
     {
-      "key": "514b9",
-      "songName": "MINNIE - HER (360 Degree)",
-      "hash": "029298ccc14d15b749210ab3ac1c77a70da09eda",
-      "levelid": "custom_level_029298ccc14d15b749210ab3ac1c77a70da09eda"
+      "key": "5152b",
+      "songName": "LVNX - NA NA NA",
+      "hash": "0bdfdb17ae1bca8951bcf3d3685f5a0995732987",
+      "levelid": "custom_level_0bdfdb17ae1bca8951bcf3d3685f5a0995732987"
     },
     {
-      "key": "5148a",
-      "songName": "Karma",
-      "hash": "84df9d017259d560929eed8da1154601f0de3fbb",
-      "levelid": "custom_level_84df9d017259d560929eed8da1154601f0de3fbb"
+      "key": "51527",
+      "songName": "Heaven Pierce Her - No Devil Lived On",
+      "hash": "928597e25d4cfd2dab0b7cc7cec712fc53a663c5",
+      "levelid": "custom_level_928597e25d4cfd2dab0b7cc7cec712fc53a663c5"
     },
     {
-      "key": "514b1",
-      "songName": "Cheetah Mobile - Sci-Tech",
-      "hash": "51b8af71eba5d797b5a9210aa6a6b37c249e60e9",
-      "levelid": "custom_level_51b8af71eba5d797b5a9210aa6a6b37c249e60e9"
+      "key": "51520",
+      "songName": "Minami - Crying For Rain",
+      "hash": "2f3c57aaaf1479fe8c7387b97245c1e0714f7db6",
+      "levelid": "custom_level_2f3c57aaaf1479fe8c7387b97245c1e0714f7db6"
     },
     {
-      "key": "514ae",
-      "songName": "mailkitty - η4 【BOFU:LP】",
-      "hash": "8ed5abd729fa295bd39ab6726ae26069490f8527",
-      "levelid": "custom_level_8ed5abd729fa295bd39ab6726ae26069490f8527"
+      "key": "5151e",
+      "songName": "horrid stamina",
+      "hash": "efe8596405b34c82405b442571148475d56cded9",
+      "levelid": "custom_level_efe8596405b34c82405b442571148475d56cded9"
     },
     {
-      "key": "514ad",
-      "songName": "Lucky Number 3 (short ver.) [Vivify]",
-      "hash": "d893b8966e711614d5e7d5fdf498b98a9b58539c",
-      "levelid": "custom_level_d893b8966e711614d5e7d5fdf498b98a9b58539c"
+      "key": "51515",
+      "songName": "Project A.I.D - Stardust Rain",
+      "hash": "9ee8079b7ee8153f921162f85df3463a8717b993",
+      "levelid": "custom_level_9ee8079b7ee8153f921162f85df3463a8717b993"
     },
     {
-      "key": "514aa",
-      "songName": "Hat Dance",
-      "hash": "d9dc468bc5955e379206618bc1b79f5aaa89be77",
-      "levelid": "custom_level_d9dc468bc5955e379206618bc1b79f5aaa89be77"
+      "key": "51516",
+      "songName": "My Jealousy",
+      "hash": "97bdaddf87cc1d4ab2f963b79a79fb3395bda24c",
+      "levelid": "custom_level_97bdaddf87cc1d4ab2f963b79a79fb3395bda24c"
     },
     {
-      "key": "514a3",
-      "songName": "Dolan Thumbest - Thumb live",
-      "hash": "40df9f95f0386e177dae69d0152cd89a60346cef",
-      "levelid": "custom_level_40df9f95f0386e177dae69d0152cd89a60346cef"
+      "key": "51511",
+      "songName": "Gooseworx - Theme from The Amazing Digital Circus",
+      "hash": "6555b859a950315d4ab4b48e39d6b0d65617778b",
+      "levelid": "custom_level_6555b859a950315d4ab4b48e39d6b0d65617778b"
+    },
+    {
+      "key": "51510",
+      "songName": "Rory in Early 20s - kanojo ga 12-14 nenkan jibun o setsu",
+      "hash": "4183c21a1e48a00b69a9ee10c4db86c0f96a104b",
+      "levelid": "custom_level_4183c21a1e48a00b69a9ee10c4db86c0f96a104b"
+    },
+    {
+      "key": "51509",
+      "songName": "Loveless - Exile",
+      "hash": "3b6da9e224701fac10391c834d36cc31a8bb26e9",
+      "levelid": "custom_level_3b6da9e224701fac10391c834d36cc31a8bb26e9"
+    },
+    {
+      "key": "51446",
+      "songName": "HELLOVENUS - What are you up to today?",
+      "hash": "be1eb52b855f036fb58daf9fcb414af1d6b20095",
+      "levelid": "custom_level_be1eb52b855f036fb58daf9fcb414af1d6b20095"
     }
   ],
   "image": ""
