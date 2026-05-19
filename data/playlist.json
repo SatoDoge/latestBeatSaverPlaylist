@@ -1,286 +1,178 @@
 {
-  "playlistTitle": "2026-05-17T15:18:47.987Z~2026-05-18T15:18:47.987Z",
+  "playlistTitle": "2026-05-18T15:18:52.709Z~2026-05-19T15:18:52.709Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-17T15:18:47.987Z and 2026-05-18T15:18:47.987Z",
+  "discripstion": "Maps published between 2026-05-18T15:18:52.709Z and 2026-05-19T15:18:52.709Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "515ef",
-      "songName": "冥界Halloween Night! - 白上フブキ",
-      "hash": "23cafeb6380b34c93882116d921e4df5c5800c63",
-      "levelid": "custom_level_23cafeb6380b34c93882116d921e4df5c5800c63"
+      "key": "51664",
+      "songName": "E590",
+      "hash": "51bd3381d1cb89d6e30f0422ca096fdbac3a97c1",
+      "levelid": "custom_level_51bd3381d1cb89d6e30f0422ca096fdbac3a97c1"
     },
     {
-      "key": "515ea",
-      "songName": "Magic Castle (魔法城堡/feat. TFBOYS) - Roco Kingdom",
-      "hash": "4324ecc3bde07587f6172b890fc2ccdf921ca332",
-      "levelid": "custom_level_4324ecc3bde07587f6172b890fc2ccdf921ca332"
+      "key": "51663",
+      "songName": "キメ顔パーリーナイト！！ - Daito music",
+      "hash": "15e20e5cf94ac68d9f7d5139d1d23f717cfbf254",
+      "levelid": "custom_level_15e20e5cf94ac68d9f7d5139d1d23f717cfbf254"
     },
     {
-      "key": "515e9",
-      "songName": "Caravan Place",
-      "hash": "cbb04da3e8c9fec141efd5b0dee8b3580d74b240",
-      "levelid": "custom_level_cbb04da3e8c9fec141efd5b0dee8b3580d74b240"
+      "key": "51662",
+      "songName": "Mama - My Chemical Romance",
+      "hash": "915175d2da12795b35dc6204990c4677968d88e8",
+      "levelid": "custom_level_915175d2da12795b35dc6204990c4677968d88e8"
     },
     {
-      "key": "515e8",
-      "songName": "Kanye West - FATHER (feat. TRAVIS SCOTT)",
-      "hash": "e3d90e92ad6e5e5387066cdfe498ac64c009f23c",
-      "levelid": "custom_level_e3d90e92ad6e5e5387066cdfe498ac64c009f23c"
+      "key": "51660",
+      "songName": "RavenstrikeX - Red Light Hush",
+      "hash": "7fcbc0ed443932c8e64902dfd4c6ed65c5d83c0e",
+      "levelid": "custom_level_7fcbc0ed443932c8e64902dfd4c6ed65c5d83c0e"
     },
     {
-      "key": "51579",
-      "songName": "nasaki -  Night looper",
-      "hash": "d0b876c5dd59e07b8cdbfac928df13a53d7749c1",
-      "levelid": "custom_level_d0b876c5dd59e07b8cdbfac928df13a53d7749c1"
+      "key": "5165f",
+      "songName": "[5thCLG] Camellia - War against the Eldritch Beasts  [From Groove Coaster Wai Wai Party!!!]",
+      "hash": "bc10349ac82cdf6ce37f44c3c90ccfd6de1ae68b",
+      "levelid": "custom_level_bc10349ac82cdf6ce37f44c3c90ccfd6de1ae68b"
     },
     {
-      "key": "51576",
-      "songName": "nasaki - Ray Beyond",
-      "hash": "c9f5a4b8b4d1f5c3d8012c2e4808b15311efab58",
-      "levelid": "custom_level_c9f5a4b8b4d1f5c3d8012c2e4808b15311efab58"
+      "key": "4fc26",
+      "songName": "Lucian - Down The Middle",
+      "hash": "7003ba7d41536bb6e26b2da29bff59420bf6b207",
+      "levelid": "custom_level_7003ba7d41536bb6e26b2da29bff59420bf6b207"
     },
     {
-      "key": "515e7",
-      "songName": "FNAF 1 (REMIX)",
-      "hash": "1e21d2b77a21b8f5385a3d9cb148d83b7b9867c4",
-      "levelid": "custom_level_1e21d2b77a21b8f5385a3d9cb148d83b7b9867c4"
+      "key": "5165c",
+      "songName": "All in good time (灼眼のシャナS ED)",
+      "hash": "b4fe698abceba2666255417a770e7359bac70b67",
+      "levelid": "custom_level_b4fe698abceba2666255417a770e7359bac70b67"
     },
     {
-      "key": "515e2",
-      "songName": "Exit Music (For A Film)",
-      "hash": "81ee9843c3f56ef25cce708c0ec4cdc1f66623c2",
-      "levelid": "custom_level_81ee9843c3f56ef25cce708c0ec4cdc1f66623c2"
+      "key": "5165b",
+      "songName": "dudua",
+      "hash": "6fa172391005d786a5a27ff3172af4642c628a3e",
+      "levelid": "custom_level_6fa172391005d786a5a27ff3172af4642c628a3e"
     },
     {
-      "key": "515dd",
-      "songName": "Prophecy (灼眼のシャナS OP)",
-      "hash": "f55346e13aa59e19128b097248748ab11972681e",
-      "levelid": "custom_level_f55346e13aa59e19128b097248748ab11972681e"
+      "key": "5165a",
+      "songName": "KDA - POP/STARS",
+      "hash": "f26d2e974afc387a0af3e0c02f3e90e21bd187f8",
+      "levelid": "custom_level_f26d2e974afc387a0af3e0c02f3e90e21bd187f8"
     },
     {
-      "key": "515db",
-      "songName": "The Stills - Changes Are No Good",
-      "hash": "96ec3313983adae7abf8ac958258cfc271ed1dc7",
-      "levelid": "custom_level_96ec3313983adae7abf8ac958258cfc271ed1dc7"
+      "key": "51659",
+      "songName": "Slatgathlore",
+      "hash": "e3e0ea9477d2159b86fc12f7ac8f8c7dd9bab0bd",
+      "levelid": "custom_level_e3e0ea9477d2159b86fc12f7ac8f8c7dd9bab0bd"
     },
     {
-      "key": "515d9",
-      "songName": "[one hour mapgiun competitition] OISHII - ONIGIRI FREEWAY",
-      "hash": "0e18e2f9492c2bb46846ee988e274d4a76ee5120",
-      "levelid": "custom_level_0e18e2f9492c2bb46846ee988e274d4a76ee5120"
+      "key": "51654",
+      "songName": "Falling In Reverse - I'm Not A Vampire (Revamped)",
+      "hash": "2733014fbba11ab79994f436b1d79426a0cf6d89",
+      "levelid": "custom_level_2733014fbba11ab79994f436b1d79426a0cf6d89"
     },
     {
-      "key": "515d5",
-      "songName": "BOEING",
-      "hash": "aa200a18c29ddc7f1eab1845b419519a133c2240",
-      "levelid": "custom_level_aa200a18c29ddc7f1eab1845b419519a133c2240"
+      "key": "515eb",
+      "songName": "Sakanaction - Yoru no Odoriko meme",
+      "hash": "029e7fed11f65b46202806f17bcc73b71d21cd3e",
+      "levelid": "custom_level_029e7fed11f65b46202806f17bcc73b71d21cd3e"
     },
     {
-      "key": "515d4",
-      "songName": "Lemo - worst 808 i've ever made (Eliminate Audio Combat)",
-      "hash": "8519dcf1a407a81ece898f97b8d38c509cd7d4aa",
-      "levelid": "custom_level_8519dcf1a407a81ece898f97b8d38c509cd7d4aa"
+      "key": "51652",
+      "songName": "YEAH BOI",
+      "hash": "8ab000f4cd67a9047cc2e78d03888c09454309b8",
+      "levelid": "custom_level_8ab000f4cd67a9047cc2e78d03888c09454309b8"
     },
     {
-      "key": "515cc",
-      "songName": "Vibe (If I Back It Up) - Cookiee Kawaii",
-      "hash": "116c069a224adde4efe0bd1ab2b2d3776e1a487b",
-      "levelid": "custom_level_116c069a224adde4efe0bd1ab2b2d3776e1a487b"
+      "key": "51651",
+      "songName": "The Phoenix",
+      "hash": "52cc2922816e32d8f3878e4afeb7d711d8529576",
+      "levelid": "custom_level_52cc2922816e32d8f3878e4afeb7d711d8529576"
     },
     {
-      "key": "515cb",
-      "songName": "SABER TOOTH",
-      "hash": "a8086ef3456005867bd3755cfcb7f1b734fc5117",
-      "levelid": "custom_level_a8086ef3456005867bd3755cfcb7f1b734fc5117"
+      "key": "51650",
+      "songName": "Nighthawk22 - Animation Warrior Theme [ORBIT SONG]",
+      "hash": "f622b4b4f27cb3372e8e017d3fbd0f104501a71b",
+      "levelid": "custom_level_f622b4b4f27cb3372e8e017d3fbd0f104501a71b"
     },
     {
-      "key": "515c6",
-      "songName": "STOMACH BOOK - Requiem",
-      "hash": "d93f3f361466d62245dcd4dbaa745deeb77b3f45",
-      "levelid": "custom_level_d93f3f361466d62245dcd4dbaa745deeb77b3f45"
+      "key": "5164f",
+      "songName": "SoundHolicK - Death Moon",
+      "hash": "25a7432db40fd40434e354c66bdca1c06a50f6a2",
+      "levelid": "custom_level_25a7432db40fd40434e354c66bdca1c06a50f6a2"
     },
     {
-      "key": "515c5",
-      "songName": "gucci",
-      "hash": "9d03c7e8662b25e0f5c9aa2aaf7112b933f8832e",
-      "levelid": "custom_level_9d03c7e8662b25e0f5c9aa2aaf7112b933f8832e"
+      "key": "5164b",
+      "songName": "Unhappy",
+      "hash": "9560a23a41783d4790b1b338870272d509612ce0",
+      "levelid": "custom_level_9560a23a41783d4790b1b338870272d509612ce0"
     },
     {
-      "key": "515c0",
-      "songName": "WithersChat - Into The Wild",
-      "hash": "1a3ca50291171e60b091fd8ddba38ea06332586e",
-      "levelid": "custom_level_1a3ca50291171e60b091fd8ddba38ea06332586e"
+      "key": "5164a",
+      "songName": "TwixDevs! Warm Up",
+      "hash": "52e3dd101c81899cd12e3b607f154ec2bcc1f7ae",
+      "levelid": "custom_level_52e3dd101c81899cd12e3b607f154ec2bcc1f7ae"
     },
     {
-      "key": "515bf",
-      "songName": "My Jealousy",
-      "hash": "15fcbc4f9ad92ef949cd933f47bd84ac0de28802",
-      "levelid": "custom_level_15fcbc4f9ad92ef949cd933f47bd84ac0de28802"
+      "key": "51648",
+      "songName": "UP! - Forrest Frank",
+      "hash": "12db4095761c9ea8befa89660145b5ed143569bd",
+      "levelid": "custom_level_12db4095761c9ea8befa89660145b5ed143569bd"
     },
     {
-      "key": "515ba",
-      "songName": "EcoGeeks Theme",
-      "hash": "e7595ddd79b3cddd906f121fe09f407a08784ae7",
-      "levelid": "custom_level_e7595ddd79b3cddd906f121fe09f407a08784ae7"
+      "key": "51639",
+      "songName": "tesst",
+      "hash": "0fbccee49549c61ad76d82b73a6200076486d051",
+      "levelid": "custom_level_0fbccee49549c61ad76d82b73a6200076486d051"
     },
     {
-      "key": "515b9",
-      "songName": "Baldi Funk - justfuckingshitmyself",
-      "hash": "d98a064279e5b28a3b78ce70609c2180c9cfcf28",
-      "levelid": "custom_level_d98a064279e5b28a3b78ce70609c2180c9cfcf28"
+      "key": "51623",
+      "songName": "Marcix - In My System",
+      "hash": "d7fa9913290c38da70311307b782dd3361e649cd",
+      "levelid": "custom_level_d7fa9913290c38da70311307b782dd3361e649cd"
     },
     {
-      "key": "515ad",
-      "songName": "Homer drops his donut doh",
-      "hash": "4cda23e4c8e03f7b302d7942f3017fd7d593f111",
-      "levelid": "custom_level_4cda23e4c8e03f7b302d7942f3017fd7d593f111"
+      "key": "51621",
+      "songName": "heylog - snakes in the wall",
+      "hash": "4476e0eb4ba45055f805dfb81126a29e25afb672",
+      "levelid": "custom_level_4476e0eb4ba45055f805dfb81126a29e25afb672"
     },
     {
-      "key": "515ab",
-      "songName": "Catch Catch - Yena 최예나",
-      "hash": "579c0d29ce8861826870022349f82103b4205d62",
-      "levelid": "custom_level_579c0d29ce8861826870022349f82103b4205d62"
+      "key": "51620",
+      "songName": "Für mich - yu",
+      "hash": "06a81129eb8b03a2ef1b55fe9c38f84d27bdf45a",
+      "levelid": "custom_level_06a81129eb8b03a2ef1b55fe9c38f84d27bdf45a"
     },
     {
-      "key": "515aa",
-      "songName": "all i want is you",
-      "hash": "83292b001fa214b5913b9cda5080a8d9b4e75f0f",
-      "levelid": "custom_level_83292b001fa214b5913b9cda5080a8d9b4e75f0f"
+      "key": "5161e",
+      "songName": "Burning Sands",
+      "hash": "b5da28c6edc52c5539429822b1e36c398062c5af",
+      "levelid": "custom_level_b5da28c6edc52c5539429822b1e36c398062c5af"
     },
     {
-      "key": "515a8",
-      "songName": "Love Theory",
-      "hash": "7b3c19a18055e1b2df66136c06573f3b6ad86e1e",
-      "levelid": "custom_level_7b3c19a18055e1b2df66136c06573f3b6ad86e1e"
+      "key": "5160b",
+      "songName": "Bad Bunny - Una animación nos muestra que el próximo integrante de digital circus",
+      "hash": "476a593c4efb2a668a4342a92a76e767a414598c",
+      "levelid": "custom_level_476a593c4efb2a668a4342a92a76e767a414598c"
     },
     {
-      "key": "515a5",
-      "songName": "Enka - flameflower",
-      "hash": "74c1b41b0c16544178279770d24111d02e5b0b2b",
-      "levelid": "custom_level_74c1b41b0c16544178279770d24111d02e5b0b2b"
+      "key": "515fa",
+      "songName": "RAIZHELL - TERROR (Sped Up)",
+      "hash": "e76275d519bd430449a1e1315520d631194a5343",
+      "levelid": "custom_level_e76275d519bd430449a1e1315520d631194a5343"
     },
     {
-      "key": "515a3",
-      "songName": "LAST SAHUR 600",
-      "hash": "f96bad532090a39037433b945c272b4cc3d918f7",
-      "levelid": "custom_level_f96bad532090a39037433b945c272b4cc3d918f7"
+      "key": "51549",
+      "songName": "The Crystal Method - Bones Intro Theme (TV ver.)",
+      "hash": "8647183c9aa03491522778bd74e55a3a610c572a",
+      "levelid": "custom_level_8647183c9aa03491522778bd74e55a3a610c572a"
     },
     {
-      "key": "515a2",
-      "songName": "LAST SAHUR",
-      "hash": "f366d43e7da666e83259336aab2f3749cdd7484c",
-      "levelid": "custom_level_f366d43e7da666e83259336aab2f3749cdd7484c"
-    },
-    {
-      "key": "515a1",
-      "songName": "[Yorushika Pack2] Paddle - Yorushika",
-      "hash": "3cf1dce731887aff668fef4fb3d3d37b0f620414",
-      "levelid": "custom_level_3cf1dce731887aff668fef4fb3d3d37b0f620414"
-    },
-    {
-      "key": "5159f",
-      "songName": "GHOST (2020 Ha11oween+++++++++++ VIP)",
-      "hash": "8775bb0bc0a9ecca6719c2e6e46fa6115ce35c80",
-      "levelid": "custom_level_8775bb0bc0a9ecca6719c2e6e46fa6115ce35c80"
-    },
-    {
-      "key": "5159e",
-      "songName": "Heroes",
-      "hash": "366f32097fde0cd11b8c9c10cd90475552e74aaf",
-      "levelid": "custom_level_366f32097fde0cd11b8c9c10cd90475552e74aaf"
-    },
-    {
-      "key": "5159c",
-      "songName": "Old Doll",
-      "hash": "dc0f455a2f15d886bde8bef774983fe5abd61317",
-      "levelid": "custom_level_dc0f455a2f15d886bde8bef774983fe5abd61317"
-    },
-    {
-      "key": "51596",
-      "songName": "Maren Morris - Kiss the Sky (From The Wild Robot)",
-      "hash": "a8b8512f1b550e7b61934ee927ce88e10f79ce15",
-      "levelid": "custom_level_a8b8512f1b550e7b61934ee927ce88e10f79ce15"
-    },
-    {
-      "key": "51598",
-      "songName": "MY JEALOUSY - vivi baby, ovg!",
-      "hash": "ec7c70d5dc2c0e3edb4a366b2ed7c89a0e63fb8a",
-      "levelid": "custom_level_ec7c70d5dc2c0e3edb4a366b2ed7c89a0e63fb8a"
-    },
-    {
-      "key": "51591",
-      "songName": "saradisk - Seirogan 2000",
-      "hash": "da9cebe3f524cb715fec168a3ca64334ee80fe61",
-      "levelid": "custom_level_da9cebe3f524cb715fec168a3ca64334ee80fe61"
-    },
-    {
-      "key": "5154f",
-      "songName": "Bury Me in Metal",
-      "hash": "1c33bd8a3db3e5903393c132aa487044555b8034",
-      "levelid": "custom_level_1c33bd8a3db3e5903393c132aa487044555b8034"
-    },
-    {
-      "key": "5158f",
-      "songName": "Free Bird",
-      "hash": "6c079c3ae63f1ce6807c35eadc4416b256a27f7f",
-      "levelid": "custom_level_6c079c3ae63f1ce6807c35eadc4416b256a27f7f"
-    },
-    {
-      "key": "5158e",
-      "songName": "Beast - Kompany & Teddy Killerz",
-      "hash": "c79bfc14815751ffa2b8f581116fc2ce44527a53",
-      "levelid": "custom_level_c79bfc14815751ffa2b8f581116fc2ce44527a53"
-    },
-    {
-      "key": "5158d",
-      "songName": "[VNJS] FELICIA - My System",
-      "hash": "e95673a031b3957bbcca7ecfb98b451141e9f84e",
-      "levelid": "custom_level_e95673a031b3957bbcca7ecfb98b451141e9f84e"
-    },
-    {
-      "key": "5158b",
-      "songName": "Alvaro baila con la escoba",
-      "hash": "e12b47a55e7b717a387312716ea7d9b3f04e44b6",
-      "levelid": "custom_level_e12b47a55e7b717a387312716ea7d9b3f04e44b6"
-    },
-    {
-      "key": "51588",
-      "songName": "Smoke Alarm Chirp Remake",
-      "hash": "74d5eb26bf0f07fa9d63fe7b75a6daadcf791cab",
-      "levelid": "custom_level_74d5eb26bf0f07fa9d63fe7b75a6daadcf791cab"
-    },
-    {
-      "key": "51586",
-      "songName": "PIXELATED KISSES",
-      "hash": "b048ac5ad166a2491503307011cb5eb30c107f98",
-      "levelid": "custom_level_b048ac5ad166a2491503307011cb5eb30c107f98"
-    },
-    {
-      "key": "51585",
-      "songName": "Marionette",
-      "hash": "14e73fcc810e50f27a42ba382d7963f7ee43340f",
-      "levelid": "custom_level_14e73fcc810e50f27a42ba382d7963f7ee43340f"
-    },
-    {
-      "key": "51583",
-      "songName": "TERROR-RAIZHELL",
-      "hash": "ff2792bb2522443f6c192650f29033e578f34b7b",
-      "levelid": "custom_level_ff2792bb2522443f6c192650f29033e578f34b7b"
-    },
-    {
-      "key": "4fe25",
-      "songName": "Don't Touch My Clogs + You're Hired Intro (feat. GaryVee)",
-      "hash": "61572e4fc82ea32d6337333ff07662e3e58c05ba",
-      "levelid": "custom_level_61572e4fc82ea32d6337333ff07662e3e58c05ba"
-    },
-    {
-      "key": "51581",
-      "songName": "Rock With you",
-      "hash": "c1ec5cf3df2a8f11ae1d479d7699759969d6d16d",
-      "levelid": "custom_level_c1ec5cf3df2a8f11ae1d479d7699759969d6d16d"
+      "key": "515f7",
+      "songName": "Tokyo Manaka - Brain Rot(JUNE remix)",
+      "hash": "d49ce5d16294c089ca74875245349c8b2cdef4f6",
+      "levelid": "custom_level_d49ce5d16294c089ca74875245349c8b2cdef4f6"
     }
   ],
   "image": ""
