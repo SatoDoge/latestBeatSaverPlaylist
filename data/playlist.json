@@ -1,244 +1,178 @@
 {
-  "playlistTitle": "2026-05-22T15:18:48.161Z~2026-05-23T15:18:48.161Z",
+  "playlistTitle": "2026-05-23T15:18:47.960Z~2026-05-24T15:18:47.960Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-22T15:18:48.161Z and 2026-05-23T15:18:48.161Z",
+  "discripstion": "Maps published between 2026-05-23T15:18:47.960Z and 2026-05-24T15:18:47.960Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "51826",
-      "songName": "Life Is Inexhaustible (Genshin Impact)",
-      "hash": "366dc4fe39524893fba3fed67aadee9165ee1e66",
-      "levelid": "custom_level_366dc4fe39524893fba3fed67aadee9165ee1e66"
+      "key": "518a0",
+      "songName": "Kou! & TBN - Neo-Chromoxidation(2025 Remaster)",
+      "hash": "378e8f6b162c5e8219bda893fd80cf7460d33f2c",
+      "levelid": "custom_level_378e8f6b162c5e8219bda893fd80cf7460d33f2c"
     },
     {
-      "key": "51825",
-      "songName": "failure rate",
-      "hash": "94d8893c1279c3c4e271ead1d56d77422ad0063e",
-      "levelid": "custom_level_94d8893c1279c3c4e271ead1d56d77422ad0063e"
+      "key": "5188f",
+      "songName": "L'ammor",
+      "hash": "068262ea3ecd35e1ba58793550309ca095a52a9a",
+      "levelid": "custom_level_068262ea3ecd35e1ba58793550309ca095a52a9a"
     },
     {
-      "key": "51823",
-      "songName": "[V3] Easy - Hazbin Hotel",
-      "hash": "31fd5b5b237e62211755892b02a2ce412248e52e",
-      "levelid": "custom_level_31fd5b5b237e62211755892b02a2ce412248e52e"
+      "key": "5188c",
+      "songName": "SMILEY(feat.BIBI) - YENA 최예나",
+      "hash": "e8924110e6dc258faa16c65d95ddf2a45a78d186",
+      "levelid": "custom_level_e8924110e6dc258faa16c65d95ddf2a45a78d186"
     },
     {
-      "key": "5102d",
-      "songName": "[bbno$ Pack] bbno$ - BPOT (Bills Paid On Time)",
-      "hash": "e3f2f55b9b98a7692f75f584294d9980fea684b5",
-      "levelid": "custom_level_e3f2f55b9b98a7692f75f584294d9980fea684b5"
+      "key": "51882",
+      "songName": "Scarlet Ballet (緋弾のアリア OP)",
+      "hash": "fd44b042caea8cd24d310f2e82b71e7b50e98ed8",
+      "levelid": "custom_level_fd44b042caea8cd24d310f2e82b71e7b50e98ed8"
     },
     {
-      "key": "51821",
-      "songName": "[Vivify] fish",
-      "hash": "468504c87492716a1b05dc858305d9ad9994c1d2",
-      "levelid": "custom_level_468504c87492716a1b05dc858305d9ad9994c1d2"
+      "key": "51880",
+      "songName": "ZUTOMAYO - ultra soul",
+      "hash": "c98c3aafb3fc58b8c90dfc753cc37bf08e93312c",
+      "levelid": "custom_level_c98c3aafb3fc58b8c90dfc753cc37bf08e93312c"
     },
     {
-      "key": "51820",
-      "songName": "92歳 - マシャマキ (荷鞍Records  # PARTY ALL-NIGHT)",
-      "hash": "f1d2cf9de315cd00fc0c481fe6d057914861a108",
-      "levelid": "custom_level_f1d2cf9de315cd00fc0c481fe6d057914861a108"
+      "key": "51876",
+      "songName": "Float Mode",
+      "hash": "7217483da127a8fc1c21709fcb2d583fe116e46b",
+      "levelid": "custom_level_7217483da127a8fc1c21709fcb2d583fe116e46b"
     },
     {
-      "key": "5181f",
-      "songName": "gubby chase theme",
-      "hash": "46aca45fd5c6d932f9e465ff0619a2d7a151e9b5",
-      "levelid": "custom_level_46aca45fd5c6d932f9e465ff0619a2d7a151e9b5"
+      "key": "51873",
+      "songName": "I Got No Time",
+      "hash": "25bc09c9870b2e34fe533301e442512e6411a6a0",
+      "levelid": "custom_level_25bc09c9870b2e34fe533301e442512e6411a6a0"
     },
     {
-      "key": "5181e",
-      "songName": "ONE (灼眼のシャナIII-FINAL- ED2)",
-      "hash": "7c3ddb75b6721d792888738c1769f3ee786aafab",
-      "levelid": "custom_level_7c3ddb75b6721d792888738c1769f3ee786aafab"
+      "key": "51871",
+      "songName": "How I Get My Water Bottles",
+      "hash": "2d171c05c44e2446050cc018d11718233a2f5f1b",
+      "levelid": "custom_level_2d171c05c44e2446050cc018d11718233a2f5f1b"
     },
     {
-      "key": "5181d",
-      "songName": "AY YOLA - Homay",
-      "hash": "46920ed623f2659bd73cb640d36ecedb84752797",
-      "levelid": "custom_level_46920ed623f2659bd73cb640d36ecedb84752797"
+      "key": "5186a",
+      "songName": "Born a hero?",
+      "hash": "bdf4a31e9f0853341fb0e26a07aa0dd07c524f31",
+      "levelid": "custom_level_bdf4a31e9f0853341fb0e26a07aa0dd07c524f31"
     },
     {
-      "key": "5181c",
-      "songName": "Marnik - On The Run V3 (Noodlemap)",
-      "hash": "30f71518172e2e94992a114e0536ed08cfca9820",
-      "levelid": "custom_level_30f71518172e2e94992a114e0536ed08cfca9820"
+      "key": "51862",
+      "songName": "bum bum",
+      "hash": "83c8e888ebf1d66a3e02b46ec32b58f5e5044b45",
+      "levelid": "custom_level_83c8e888ebf1d66a3e02b46ec32b58f5e5044b45"
     },
     {
-      "key": "5181b",
-      "songName": "Your Best Friend | Minor Key",
-      "hash": "c702fe48db60484f86bf6b0d4f97f4ef3dea08a8",
-      "levelid": "custom_level_c702fe48db60484f86bf6b0d4f97f4ef3dea08a8"
+      "key": "5185c",
+      "songName": "Camellia - Bloody Kiss",
+      "hash": "55d9c50f2b07eb7f92aee1fcc97bcb41404e6d8a",
+      "levelid": "custom_level_55d9c50f2b07eb7f92aee1fcc97bcb41404e6d8a"
     },
     {
-      "key": "5181a",
-      "songName": "Secret ",
-      "hash": "9e67ec672d81df3ba8aa1dabf857b13a99fb584c",
-      "levelid": "custom_level_9e67ec672d81df3ba8aa1dabf857b13a99fb584c"
+      "key": "5185a",
+      "songName": "Challenge Map by GTXDASH",
+      "hash": "cb8a0e44cdbd9c44f857416fdcd5b4cbc8738619",
+      "levelid": "custom_level_cb8a0e44cdbd9c44f857416fdcd5b4cbc8738619"
     },
     {
-      "key": "51817",
-      "songName": "Stone",
-      "hash": "43bc184f6736e462dbb02a1f0cce048f97782a96",
-      "levelid": "custom_level_43bc184f6736e462dbb02a1f0cce048f97782a96"
-    },
-    {
-      "key": "51814",
-      "songName": "DUKA -Special Edit-",
-      "hash": "30dd81f0f55be3783f95529be13ff30328fba543",
-      "levelid": "custom_level_30dd81f0f55be3783f95529be13ff30328fba543"
-    },
-    {
-      "key": "5179e",
-      "songName": "Given Up On Me - The Weeknd, Metro Boomin",
-      "hash": "4a276aae5502a1c48637437538be81f357eea366",
-      "levelid": "custom_level_4a276aae5502a1c48637437538be81f357eea366"
-    },
-    {
-      "key": "5180c",
-      "songName": "ACC Test by GTXDASH",
-      "hash": "7d2c2788c99a0f7967af12f74a6407b6c6ce364a",
-      "levelid": "custom_level_7d2c2788c99a0f7967af12f74a6407b6c6ce364a"
-    },
-    {
-      "key": "51808",
-      "songName": "The Beatles - Taxman",
-      "hash": "4bcf4e476a16a7fdfa7b8f867c3a3de7175211e5",
-      "levelid": "custom_level_4bcf4e476a16a7fdfa7b8f867c3a3de7175211e5"
-    },
-    {
-      "key": "51806",
-      "songName": "GEEKD",
-      "hash": "d9ebea12494f2fad57dc36d6e12dc5e3df7bfa34",
-      "levelid": "custom_level_d9ebea12494f2fad57dc36d6e12dc5e3df7bfa34"
-    },
-    {
-      "key": "51805",
-      "songName": "Yamazaki Moe - Kotodama Tsumugu Mirai",
-      "hash": "6604f9a68865035ca922967fafedfea372e243f7",
-      "levelid": "custom_level_6604f9a68865035ca922967fafedfea372e243f7"
-    },
-    {
-      "key": "517f7",
-      "songName": "MEOVV - BURNING UP",
-      "hash": "03e24a02ce612afdfd47c70cddb3d28e864020dd",
-      "levelid": "custom_level_03e24a02ce612afdfd47c70cddb3d28e864020dd"
-    },
-    {
-      "key": "5177e",
-      "songName": "Freezer - Berry Go!! (Feat. Kiichigo)",
-      "hash": "a3755f4a91e62f1a8df2e426c56d6825eb209680",
-      "levelid": "custom_level_a3755f4a91e62f1a8df2e426c56d6825eb209680"
-    },
-    {
-      "key": "517f6",
-      "songName": "GASGASGAS",
-      "hash": "ca82025fddaed219af33526dd9152fabd5a251cd",
-      "levelid": "custom_level_ca82025fddaed219af33526dd9152fabd5a251cd"
-    },
-    {
-      "key": "517f3",
-      "songName": "Spin Eternally",
-      "hash": "7601afaca60b575ea10d216c12de04886cd0bbc9",
-      "levelid": "custom_level_7601afaca60b575ea10d216c12de04886cd0bbc9"
-    },
-    {
-      "key": "517ee",
-      "songName": "(Tonkie Birthday) Various Artists - Gusty Garden Galaxy (Super Mario Galaxy) [V4]",
-      "hash": "1cebc807ee09402bd0140401a4159612ba7adaeb",
-      "levelid": "custom_level_1cebc807ee09402bd0140401a4159612ba7adaeb"
-    },
-    {
-      "key": "517ef",
-      "songName": "Sawano Hiroyuki[nZk]:Rei - INERTIA",
-      "hash": "3484dd9847aea9ac25ed3f36fe97aca39ad4fc03",
-      "levelid": "custom_level_3484dd9847aea9ac25ed3f36fe97aca39ad4fc03"
-    },
-    {
-      "key": "517ed",
-      "songName": "Venom [Sped Up]",
-      "hash": "a1739e47cf0eacd2d8d688a43de4ff495b1e5026",
-      "levelid": "custom_level_a1739e47cf0eacd2d8d688a43de4ff495b1e5026"
-    },
-    {
-      "key": "517eb",
+      "key": "51859",
       "songName": "daydreaming",
-      "hash": "ea455463bc048649724486a7ca13d8a8bb908bdb",
-      "levelid": "custom_level_ea455463bc048649724486a7ca13d8a8bb908bdb"
+      "hash": "b0b7d91cbdb2d7257681c8c0fadb2a42b86af0e2",
+      "levelid": "custom_level_b0b7d91cbdb2d7257681c8c0fadb2a42b86af0e2"
     },
     {
-      "key": "517ec",
-      "songName": "FELT - fractal",
-      "hash": "65b0cdc1bf41b5bd721643a92207816ea6cc41f8",
-      "levelid": "custom_level_65b0cdc1bf41b5bd721643a92207816ea6cc41f8"
+      "key": "41e72",
+      "songName": "pass this",
+      "hash": "a5fe237b3ad8e99bcd1d192e8932abe562b92740",
+      "levelid": "custom_level_a5fe237b3ad8e99bcd1d192e8932abe562b92740"
     },
     {
-      "key": "515c7",
-      "songName": "rusino - Looping the Rooms (feat. Hatsune Miku)",
-      "hash": "b70174b5065cfe3d2a3f0f6b13d40d8f0ababa3c",
-      "levelid": "custom_level_b70174b5065cfe3d2a3f0f6b13d40d8f0ababa3c"
+      "key": "5184f",
+      "songName": "Chief Keef Farts In Audio File",
+      "hash": "c9c8f70fa3a122b13712efba07605d4436bf2ec3",
+      "levelid": "custom_level_c9c8f70fa3a122b13712efba07605d4436bf2ec3"
     },
     {
-      "key": "517e9",
-      "songName": "Caine Requiem - Fan Song",
-      "hash": "2c6b8f771eac7b2769e28363dc866150252f7ef7",
-      "levelid": "custom_level_2c6b8f771eac7b2769e28363dc866150252f7ef7"
+      "key": "5184c",
+      "songName": "Nevermine",
+      "hash": "fbb1c1c3e503a302f34086e52456197179992591",
+      "levelid": "custom_level_fbb1c1c3e503a302f34086e52456197179992591"
     },
     {
-      "key": "517e8",
-      "songName": "Society - FGFC820",
-      "hash": "f58e266676879af092202a1e27e66fbc0594339c",
-      "levelid": "custom_level_f58e266676879af092202a1e27e66fbc0594339c"
+      "key": "5184b",
+      "songName": "エアーマンが倒せない Team.ねこかん[猫]プレミアムversion",
+      "hash": "991ca5645737bc573c10ab25940ff89bc3742274",
+      "levelid": "custom_level_991ca5645737bc573c10ab25940ff89bc3742274"
     },
     {
-      "key": "517e7",
-      "songName": "Touqai - I want you to know.",
-      "hash": "b3771ea161c382e337088d9b3bf448f3b5d58a73",
-      "levelid": "custom_level_b3771ea161c382e337088d9b3bf448f3b5d58a73"
+      "key": "5184a",
+      "songName": "Mouth (v2 edited)",
+      "hash": "24316ff8a6b36c2263133739d7ede65250d00ee8",
+      "levelid": "custom_level_24316ff8a6b36c2263133739d7ede65250d00ee8"
     },
     {
-      "key": "517e5",
-      "songName": "cabeçade bahgo - cabeçade bahgo",
-      "hash": "720cfd1960aae73c79eb1269f54bdfd5f78d5562",
-      "levelid": "custom_level_720cfd1960aae73c79eb1269f54bdfd5f78d5562"
+      "key": "51847",
+      "songName": "malasies",
+      "hash": "d1332da6198fe61d2bd7220b6cffd66f9cce4aa3",
+      "levelid": "custom_level_d1332da6198fe61d2bd7220b6cffd66f9cce4aa3"
     },
     {
-      "key": "517e4",
-      "songName": "Lifelike (No Vivify)",
-      "hash": "2d094a27c4e163cba8962ff9d5b338b0f0016866",
-      "levelid": "custom_level_2d094a27c4e163cba8962ff9d5b338b0f0016866"
+      "key": "51846",
+      "songName": "Gram VS Camellia - ENÛMA∇ELIŠ ~Gram Saga~",
+      "hash": "bbf42ae8b5b645ac4797d5223249ffb85b4aa4d8",
+      "levelid": "custom_level_bbf42ae8b5b645ac4797d5223249ffb85b4aa4d8"
     },
     {
-      "key": "517e2",
-      "songName": "KIIRAS - TA TA",
-      "hash": "0d1d67b8225088afc0bf3650c3d1efaa62230b74",
-      "levelid": "custom_level_0d1d67b8225088afc0bf3650c3d1efaa62230b74"
+      "key": "51844",
+      "songName": " Smash Into Pieces - Wake Up",
+      "hash": "06708a66e8ae86335f1cdf443d51e8bf3db21019",
+      "levelid": "custom_level_06708a66e8ae86335f1cdf443d51e8bf3db21019"
     },
     {
-      "key": "517d7",
-      "songName": "Drive",
-      "hash": "1a76bbf1bbcc1106114504deef48311dcff1e990",
-      "levelid": "custom_level_1a76bbf1bbcc1106114504deef48311dcff1e990"
+      "key": "5182d",
+      "songName": "カラフル precious life",
+      "hash": "e30c99e9aa31de5157301f5df755d281e4f68591",
+      "levelid": "custom_level_e30c99e9aa31de5157301f5df755d281e4f68591"
     },
     {
-      "key": "517d3",
-      "songName": "Doomsday - CANTERVICE",
-      "hash": "a3c9f7cbed49633a1ff0e5831806eff98e8f2d74",
-      "levelid": "custom_level_a3c9f7cbed49633a1ff0e5831806eff98e8f2d74"
+      "key": "51841",
+      "songName": "What you want",
+      "hash": "2aab2393efc890df3b1bfb7a31622b0f467f72ef",
+      "levelid": "custom_level_2aab2393efc890df3b1bfb7a31622b0f467f72ef"
     },
     {
-      "key": "517d1",
-      "songName": "NIghtcore - HEAVENLY JUMPSTYLE (But it hits hard)",
-      "hash": "4d951fc2246e7abfd24912d185ce9053465c98bb",
-      "levelid": "custom_level_4d951fc2246e7abfd24912d185ce9053465c98bb"
+      "key": "5183d",
+      "songName": "Dream Weaver - Convexity",
+      "hash": "48e7ba30f3741fa4699feb28e7600ae126d682b4",
+      "levelid": "custom_level_48e7ba30f3741fa4699feb28e7600ae126d682b4"
     },
     {
-      "key": "517c3",
-      "songName": "Charlie",
-      "hash": "fd2dd6feb7d445d55e5744e93a61567fb6f2d1b7",
-      "levelid": "custom_level_fd2dd6feb7d445d55e5744e93a61567fb6f2d1b7"
+      "key": "5183b",
+      "songName": "Banan Melon Kiwi & Citron",
+      "hash": "9d4001b4f55429a9c1301fa4c650010785974c15",
+      "levelid": "custom_level_9d4001b4f55429a9c1301fa4c650010785974c15"
+    },
+    {
+      "key": "5182e",
+      "songName": "Ready To Party - Suu Usuwa",
+      "hash": "42f7729202fc98ea34b8628a489611ff8f9212be",
+      "levelid": "custom_level_42f7729202fc98ea34b8628a489611ff8f9212be"
+    },
+    {
+      "key": "51838",
+      "songName": "Stray Kids - MANIAC",
+      "hash": "c7a2917ea14922a7edda2e6f7ca666dc1b1ba279",
+      "levelid": "custom_level_c7a2917ea14922a7edda2e6f7ca666dc1b1ba279"
+    },
+    {
+      "key": "517f8",
+      "songName": "BOL4 - Find You",
+      "hash": "9d3adfa95be5a7ccec2ba0c02fde973e4f7b7049",
+      "levelid": "custom_level_9d3adfa95be5a7ccec2ba0c02fde973e4f7b7049"
     }
   ],
   "image": ""
