@@ -1,178 +1,262 @@
 {
-  "playlistTitle": "2026-05-23T15:18:47.960Z~2026-05-24T15:18:47.960Z",
+  "playlistTitle": "2026-05-24T15:18:48.337Z~2026-05-25T15:18:48.337Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-23T15:18:47.960Z and 2026-05-24T15:18:47.960Z",
+  "discripstion": "Maps published between 2026-05-24T15:18:48.337Z and 2026-05-25T15:18:48.337Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "518a0",
-      "songName": "Kou! & TBN - Neo-Chromoxidation(2025 Remaster)",
-      "hash": "378e8f6b162c5e8219bda893fd80cf7460d33f2c",
-      "levelid": "custom_level_378e8f6b162c5e8219bda893fd80cf7460d33f2c"
+      "key": "5191c",
+      "songName": "I'm In the Mood for Dancing (Short)",
+      "hash": "0a242d22900980a96aa626d8bd06b24ce1779059",
+      "levelid": "custom_level_0a242d22900980a96aa626d8bd06b24ce1779059"
     },
     {
-      "key": "5188f",
-      "songName": "L'ammor",
-      "hash": "068262ea3ecd35e1ba58793550309ca095a52a9a",
-      "levelid": "custom_level_068262ea3ecd35e1ba58793550309ca095a52a9a"
+      "key": "5191b",
+      "songName": "Troubled Plains",
+      "hash": "c65c6d906161641e15c698f65a8ee84cadd26488",
+      "levelid": "custom_level_c65c6d906161641e15c698f65a8ee84cadd26488"
     },
     {
-      "key": "5188c",
-      "songName": "SMILEY(feat.BIBI) - YENA 최예나",
-      "hash": "e8924110e6dc258faa16c65d95ddf2a45a78d186",
-      "levelid": "custom_level_e8924110e6dc258faa16c65d95ddf2a45a78d186"
+      "key": "5191a",
+      "songName": "Leo/need - Calc.",
+      "hash": "6063de5149a04b8e3f054f862527f07d07c1b4c5",
+      "levelid": "custom_level_6063de5149a04b8e3f054f862527f07d07c1b4c5"
     },
     {
-      "key": "51882",
-      "songName": "Scarlet Ballet (緋弾のアリア OP)",
-      "hash": "fd44b042caea8cd24d310f2e82b71e7b50e98ed8",
-      "levelid": "custom_level_fd44b042caea8cd24d310f2e82b71e7b50e98ed8"
+      "key": "51919",
+      "songName": "stasis",
+      "hash": "5a38cc2f18be0800581b0eae3069cfe4bbbebf4d",
+      "levelid": "custom_level_5a38cc2f18be0800581b0eae3069cfe4bbbebf4d"
     },
     {
-      "key": "51880",
-      "songName": "ZUTOMAYO - ultra soul",
-      "hash": "c98c3aafb3fc58b8c90dfc753cc37bf08e93312c",
-      "levelid": "custom_level_c98c3aafb3fc58b8c90dfc753cc37bf08e93312c"
+      "key": "51918",
+      "songName": "67 (Six Seven)",
+      "hash": "a583cf846dab6b5a11b5552f3719be177d759de6",
+      "levelid": "custom_level_a583cf846dab6b5a11b5552f3719be177d759de6"
     },
     {
-      "key": "51876",
-      "songName": "Float Mode",
-      "hash": "7217483da127a8fc1c21709fcb2d583fe116e46b",
-      "levelid": "custom_level_7217483da127a8fc1c21709fcb2d583fe116e46b"
+      "key": "51917",
+      "songName": "TQBF - Big Black",
+      "hash": "d14cce66fb9af5b81d6bc85dede2cbf127b0719b",
+      "levelid": "custom_level_d14cce66fb9af5b81d6bc85dede2cbf127b0719b"
     },
     {
-      "key": "51873",
-      "songName": "I Got No Time",
-      "hash": "25bc09c9870b2e34fe533301e442512e6411a6a0",
-      "levelid": "custom_level_25bc09c9870b2e34fe533301e442512e6411a6a0"
+      "key": "51915",
+      "songName": "PERFECT PUPPET 2",
+      "hash": "80cc47994882ae9097dd47508e47340b9520e7ab",
+      "levelid": "custom_level_80cc47994882ae9097dd47508e47340b9520e7ab"
     },
     {
-      "key": "51871",
-      "songName": "How I Get My Water Bottles",
-      "hash": "2d171c05c44e2446050cc018d11718233a2f5f1b",
-      "levelid": "custom_level_2d171c05c44e2446050cc018d11718233a2f5f1b"
+      "key": "51914",
+      "songName": "Eien Hanahadashii - ShishiShishi",
+      "hash": "4d1c7e2765ecd0781f4c6d01245865363f445cac",
+      "levelid": "custom_level_4d1c7e2765ecd0781f4c6d01245865363f445cac"
     },
     {
-      "key": "5186a",
-      "songName": "Born a hero?",
-      "hash": "bdf4a31e9f0853341fb0e26a07aa0dd07c524f31",
-      "levelid": "custom_level_bdf4a31e9f0853341fb0e26a07aa0dd07c524f31"
+      "key": "50dd9",
+      "songName": "ZoeEngine - DigitalTransmisison",
+      "hash": "17ded22b093a0df16ceb42ca8bf7015a66a2ee7d",
+      "levelid": "custom_level_17ded22b093a0df16ceb42ca8bf7015a66a2ee7d"
     },
     {
-      "key": "51862",
-      "songName": "bum bum",
-      "hash": "83c8e888ebf1d66a3e02b46ec32b58f5e5044b45",
-      "levelid": "custom_level_83c8e888ebf1d66a3e02b46ec32b58f5e5044b45"
+      "key": "518ca",
+      "songName": "[Fitbeat] Artemas - I like the way you kiss me",
+      "hash": "d7f7e170f17bb44b1c6774240be782a919e42e4a",
+      "levelid": "custom_level_d7f7e170f17bb44b1c6774240be782a919e42e4a"
     },
     {
-      "key": "5185c",
-      "songName": "Camellia - Bloody Kiss",
-      "hash": "55d9c50f2b07eb7f92aee1fcc97bcb41404e6d8a",
-      "levelid": "custom_level_55d9c50f2b07eb7f92aee1fcc97bcb41404e6d8a"
+      "key": "518e8",
+      "songName": "The Bonnie Song",
+      "hash": "32eec4fb784e9c50bdeb4ca6ac79e4f4843466ea",
+      "levelid": "custom_level_32eec4fb784e9c50bdeb4ca6ac79e4f4843466ea"
     },
     {
-      "key": "5185a",
-      "songName": "Challenge Map by GTXDASH",
-      "hash": "cb8a0e44cdbd9c44f857416fdcd5b4cbc8738619",
-      "levelid": "custom_level_cb8a0e44cdbd9c44f857416fdcd5b4cbc8738619"
+      "key": "518fe",
+      "songName": "tony the fat one",
+      "hash": "7c9a166b71ef8c06ba0c08c18c7581cee050d7ec",
+      "levelid": "custom_level_7c9a166b71ef8c06ba0c08c18c7581cee050d7ec"
     },
     {
-      "key": "51859",
-      "songName": "daydreaming",
-      "hash": "b0b7d91cbdb2d7257681c8c0fadb2a42b86af0e2",
-      "levelid": "custom_level_b0b7d91cbdb2d7257681c8c0fadb2a42b86af0e2"
+      "key": "518ef",
+      "songName": "Carlos Hakamada - Chigau!!! (Project SEKAI ver.)",
+      "hash": "8af716bccfe3dd6e0125877e53b8ea29d0ee7424",
+      "levelid": "custom_level_8af716bccfe3dd6e0125877e53b8ea29d0ee7424"
     },
     {
-      "key": "41e72",
-      "songName": "pass this",
-      "hash": "a5fe237b3ad8e99bcd1d192e8932abe562b92740",
-      "levelid": "custom_level_a5fe237b3ad8e99bcd1d192e8932abe562b92740"
+      "key": "518f8",
+      "songName": "dj play this song (hardtekk)",
+      "hash": "29290515393e2c1151652c748a2360227eead93b",
+      "levelid": "custom_level_29290515393e2c1151652c748a2360227eead93b"
     },
     {
-      "key": "5184f",
-      "songName": "Chief Keef Farts In Audio File",
-      "hash": "c9c8f70fa3a122b13712efba07605d4436bf2ec3",
-      "levelid": "custom_level_c9c8f70fa3a122b13712efba07605d4436bf2ec3"
+      "key": "518f1",
+      "songName": " Smooth Criminal - Alien Ant Farm",
+      "hash": "01ad29ecc97dd56be7247c9eecec4ebbebe5d7af",
+      "levelid": "custom_level_01ad29ecc97dd56be7247c9eecec4ebbebe5d7af"
     },
     {
-      "key": "5184c",
-      "songName": "Nevermine",
-      "hash": "fbb1c1c3e503a302f34086e52456197179992591",
-      "levelid": "custom_level_fbb1c1c3e503a302f34086e52456197179992591"
+      "key": "518f0",
+      "songName": "カメリアの瞳 (緋弾のアリア ED)",
+      "hash": "12837d462b3a38967e91d13a1a5f482539e3d170",
+      "levelid": "custom_level_12837d462b3a38967e91d13a1a5f482539e3d170"
     },
     {
-      "key": "5184b",
-      "songName": "エアーマンが倒せない Team.ねこかん[猫]プレミアムversion",
-      "hash": "991ca5645737bc573c10ab25940ff89bc3742274",
-      "levelid": "custom_level_991ca5645737bc573c10ab25940ff89bc3742274"
+      "key": "518ed",
+      "songName": "Negaposi*Continues",
+      "hash": "2887844cb231571e4e5087cfdbb7864b5a4091f4",
+      "levelid": "custom_level_2887844cb231571e4e5087cfdbb7864b5a4091f4"
     },
     {
-      "key": "5184a",
-      "songName": "Mouth (v2 edited)",
-      "hash": "24316ff8a6b36c2263133739d7ede65250d00ee8",
-      "levelid": "custom_level_24316ff8a6b36c2263133739d7ede65250d00ee8"
+      "key": "518e9",
+      "songName": "John Williams - Awesome! (feat. Darth Maul) (from \"Lego Star Wars: The Empire Strikes Out\")",
+      "hash": "5b7d94c7b8d63db64bb7c7230ff074df8e17ab7a",
+      "levelid": "custom_level_5b7d94c7b8d63db64bb7c7230ff074df8e17ab7a"
     },
     {
-      "key": "51847",
-      "songName": "malasies",
-      "hash": "d1332da6198fe61d2bd7220b6cffd66f9cce4aa3",
-      "levelid": "custom_level_d1332da6198fe61d2bd7220b6cffd66f9cce4aa3"
+      "key": "518e6",
+      "songName": "xaev - GLACIER",
+      "hash": "ff942a488707b6db4e0d6b16aba99ae568005fa8",
+      "levelid": "custom_level_ff942a488707b6db4e0d6b16aba99ae568005fa8"
     },
     {
-      "key": "51846",
-      "songName": "Gram VS Camellia - ENÛMA∇ELIŠ ~Gram Saga~",
-      "hash": "bbf42ae8b5b645ac4797d5223249ffb85b4aa4d8",
-      "levelid": "custom_level_bbf42ae8b5b645ac4797d5223249ffb85b4aa4d8"
+      "key": "4f28f",
+      "songName": "bitrhday",
+      "hash": "dd8054f652cc60398e79ba6fd3e74b5c5e4a8942",
+      "levelid": "custom_level_dd8054f652cc60398e79ba6fd3e74b5c5e4a8942"
     },
     {
-      "key": "51844",
-      "songName": " Smash Into Pieces - Wake Up",
-      "hash": "06708a66e8ae86335f1cdf443d51e8bf3db21019",
-      "levelid": "custom_level_06708a66e8ae86335f1cdf443d51e8bf3db21019"
+      "key": "518e5",
+      "songName": "Love the Way You Lie",
+      "hash": "d60281d1f12e73f1f560034ec0577c842c9cf69c",
+      "levelid": "custom_level_d60281d1f12e73f1f560034ec0577c842c9cf69c"
     },
     {
-      "key": "5182d",
-      "songName": "カラフル precious life",
-      "hash": "e30c99e9aa31de5157301f5df755d281e4f68591",
-      "levelid": "custom_level_e30c99e9aa31de5157301f5df755d281e4f68591"
+      "key": "518e4",
+      "songName": "Too Little, Too Late",
+      "hash": "142aeaf28aca7df995287c0d9e321925eeda3cb4",
+      "levelid": "custom_level_142aeaf28aca7df995287c0d9e321925eeda3cb4"
     },
     {
-      "key": "51841",
-      "songName": "What you want",
-      "hash": "2aab2393efc890df3b1bfb7a31622b0f467f72ef",
-      "levelid": "custom_level_2aab2393efc890df3b1bfb7a31622b0f467f72ef"
+      "key": "518e3",
+      "songName": "fluffing a duck but theres a twitst",
+      "hash": "9316ec161ddc0cfc429995a24e023bd911b37a93",
+      "levelid": "custom_level_9316ec161ddc0cfc429995a24e023bd911b37a93"
     },
     {
-      "key": "5183d",
-      "songName": "Dream Weaver - Convexity",
-      "hash": "48e7ba30f3741fa4699feb28e7600ae126d682b4",
-      "levelid": "custom_level_48e7ba30f3741fa4699feb28e7600ae126d682b4"
+      "key": "518e0",
+      "songName": "micheal danger",
+      "hash": "490ce82b55354142212f6e547257439c6053a6d8",
+      "levelid": "custom_level_490ce82b55354142212f6e547257439c6053a6d8"
     },
     {
-      "key": "5183b",
-      "songName": "Banan Melon Kiwi & Citron",
-      "hash": "9d4001b4f55429a9c1301fa4c650010785974c15",
-      "levelid": "custom_level_9d4001b4f55429a9c1301fa4c650010785974c15"
+      "key": "518db",
+      "songName": "Machine Girl - Cloud99 (As Above Mix)",
+      "hash": "3805dde2dc38cf01dd89be926b96f20a00f21175",
+      "levelid": "custom_level_3805dde2dc38cf01dd89be926b96f20a00f21175"
     },
     {
-      "key": "5182e",
-      "songName": "Ready To Party - Suu Usuwa",
-      "hash": "42f7729202fc98ea34b8628a489611ff8f9212be",
-      "levelid": "custom_level_42f7729202fc98ea34b8628a489611ff8f9212be"
+      "key": "518da",
+      "songName": "Clavicular Pattern Test",
+      "hash": "3b3d30d854aac368614c1dbbb6f43ef281f1b6f1",
+      "levelid": "custom_level_3b3d30d854aac368614c1dbbb6f43ef281f1b6f1"
     },
     {
-      "key": "51838",
-      "songName": "Stray Kids - MANIAC",
-      "hash": "c7a2917ea14922a7edda2e6f7ca666dc1b1ba279",
-      "levelid": "custom_level_c7a2917ea14922a7edda2e6f7ca666dc1b1ba279"
+      "key": "518d9",
+      "songName": "speaki cuayo for an hour~!!",
+      "hash": "a33883f0d7ffad0bf013bec473dd5b80a4ea11d7",
+      "levelid": "custom_level_a33883f0d7ffad0bf013bec473dd5b80a4ea11d7"
     },
     {
-      "key": "517f8",
-      "songName": "BOL4 - Find You",
-      "hash": "9d3adfa95be5a7ccec2ba0c02fde973e4f7b7049",
-      "levelid": "custom_level_9d3adfa95be5a7ccec2ba0c02fde973e4f7b7049"
+      "key": "518d7",
+      "songName": "bbeat sabererereer",
+      "hash": "7d3188e807edf3d6fdc9d837c7f7829c1eda3a05",
+      "levelid": "custom_level_7d3188e807edf3d6fdc9d837c7f7829c1eda3a05"
+    },
+    {
+      "key": "518d6",
+      "songName": "whatsapp car bass boosted",
+      "hash": "054807cb317cf906d202ac6388bc04225a99878d",
+      "levelid": "custom_level_054807cb317cf906d202ac6388bc04225a99878d"
+    },
+    {
+      "key": "518d4",
+      "songName": "untitled",
+      "hash": "e9ae9865a4375adfcd338ed16481da78ff2df787",
+      "levelid": "custom_level_e9ae9865a4375adfcd338ed16481da78ff2df787"
+    },
+    {
+      "key": "518d0",
+      "songName": "Billlie - OFF-AIR",
+      "hash": "994285fe7187a8695f29320cf2bd62ca23e8ae83",
+      "levelid": "custom_level_994285fe7187a8695f29320cf2bd62ca23e8ae83"
+    },
+    {
+      "key": "518d2",
+      "songName": "НЕРВЫ - Когда война закончится",
+      "hash": "6ed34c3365e8e97ddf2b24b7828ff81ae1f7534c",
+      "levelid": "custom_level_6ed34c3365e8e97ddf2b24b7828ff81ae1f7534c"
+    },
+    {
+      "key": "518ce",
+      "songName": "Gummibär - I'm A Gummy Bear (2026 Remap)",
+      "hash": "ebd16ef39c407130ddc9ea5cb0dddd9b05d98421",
+      "levelid": "custom_level_ebd16ef39c407130ddc9ea5cb0dddd9b05d98421"
+    },
+    {
+      "key": "518cd",
+      "songName": "運命夢魔 - 欲望の世界",
+      "hash": "7d8331f3f92b2d122c9e1fd2aa855658be247832",
+      "levelid": "custom_level_7d8331f3f92b2d122c9e1fd2aa855658be247832"
+    },
+    {
+      "key": "518cb",
+      "songName": "Zonsted making pizza rolls",
+      "hash": "8c74a761c35fd6fff0d4d79913032c1b5bb93938",
+      "levelid": "custom_level_8c74a761c35fd6fff0d4d79913032c1b5bb93938"
+    },
+    {
+      "key": "518c0",
+      "songName": "dive to the heart - ᚛⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻᚜",
+      "hash": "d54719f288a676d19c2a8793e905238a76ef8c8d",
+      "levelid": "custom_level_d54719f288a676d19c2a8793e905238a76ef8c8d"
+    },
+    {
+      "key": "518bf",
+      "songName": "Denkare - E.E.L.S",
+      "hash": "c90444ac330151034eead71e36732aa668206741",
+      "levelid": "custom_level_c90444ac330151034eead71e36732aa668206741"
+    },
+    {
+      "key": "518ba",
+      "songName": "Isolation^3",
+      "hash": "d133ecc6dae2d1f28c1dd657cccd6931a2b80d7d",
+      "levelid": "custom_level_d133ecc6dae2d1f28c1dd657cccd6931a2b80d7d"
+    },
+    {
+      "key": "518b9",
+      "songName": "bbno$ - hot topic",
+      "hash": "9c11877906d54169d91b2f72d8b7458e306b1b78",
+      "levelid": "custom_level_9c11877906d54169d91b2f72d8b7458e306b1b78"
+    },
+    {
+      "key": "518b6",
+      "songName": "Billie Bossa Nova",
+      "hash": "0a84f969ccd5c17d9394e48c497624251b2461f9",
+      "levelid": "custom_level_0a84f969ccd5c17d9394e48c497624251b2461f9"
+    },
+    {
+      "key": "518b5",
+      "songName": " LAST RESORT [Cover by YouthNeverDies and ProjectVela, Onlap]",
+      "hash": "c38d2d545f66542dd59b902faa26999b21462ed6",
+      "levelid": "custom_level_c38d2d545f66542dd59b902faa26999b21462ed6"
+    },
+    {
+      "key": "51824",
+      "songName": "Paramore - Hard Times",
+      "hash": "e9291d218b5750309d92a1a7090ca5273e95e469",
+      "levelid": "custom_level_e9291d218b5750309d92a1a7090ca5273e95e469"
     }
   ],
   "image": ""
