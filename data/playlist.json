@@ -1,214 +1,202 @@
 {
-  "playlistTitle": "2026-05-25T15:18:48.262Z~2026-05-26T15:18:48.262Z",
+  "playlistTitle": "2026-05-26T15:18:48.434Z~2026-05-27T15:18:48.434Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-25T15:18:48.262Z and 2026-05-26T15:18:48.262Z",
+  "discripstion": "Maps published between 2026-05-26T15:18:48.434Z and 2026-05-27T15:18:48.434Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "5197d",
-      "songName": "Dream - Ryan Coss & Dalic",
-      "hash": "a89dfd2a73eb6b5f1a380da3f2f23ddac5d34f0b",
-      "levelid": "custom_level_a89dfd2a73eb6b5f1a380da3f2f23ddac5d34f0b"
+      "key": "519dd",
+      "songName": "my twenty first reason </3 (extended+sped up)",
+      "hash": "e67df3b8197ed20ead68d2861a853ec1b0c7190a",
+      "levelid": "custom_level_e67df3b8197ed20ead68d2861a853ec1b0c7190a"
     },
     {
-      "key": "5197c",
-      "songName": "猫耳メイドのご奉仕タイムですにゃ☆ / ねこじゃが*",
-      "hash": "7ea948e75d1b3ff5d955db24c461bbe1163286ff",
-      "levelid": "custom_level_7ea948e75d1b3ff5d955db24c461bbe1163286ff"
+      "key": "519db",
+      "songName": "That One Soldier Boy Edit",
+      "hash": "40dd0d9a13a4d94d298cdcba0a275b1c11e153d7",
+      "levelid": "custom_level_40dd0d9a13a4d94d298cdcba0a275b1c11e153d7"
     },
     {
-      "key": "5197b",
-      "songName": "可愛くなれたらいいのに feat. ちゅーたん(CV：早見沙織) / HoneyWorks",
-      "hash": "ba3b1c48c680a1a6fd5669152a1dc3110777f9f1",
-      "levelid": "custom_level_ba3b1c48c680a1a6fd5669152a1dc3110777f9f1"
+      "key": "519da",
+      "songName": "my twenty first reason </3 (extended+sped up)",
+      "hash": "ab374808ae629cf77d45c1bd0934f56b295a9a1e",
+      "levelid": "custom_level_ab374808ae629cf77d45c1bd0934f56b295a9a1e"
     },
     {
-      "key": "5197a",
-      "songName": "ディア♡マイフレンド feat. ちゅーたん(CV：早見沙織) / HoneyWorks",
-      "hash": "8da21ad5723442f98fcd7153d2f09e71e68ea635",
-      "levelid": "custom_level_8da21ad5723442f98fcd7153d2f09e71e68ea635"
+      "key": "519d8",
+      "songName": "TryHardNinja - Revenge (ReeK's \"Dude, What's A Genre?\" Remix) (feat. CaptainSparklez)",
+      "hash": "69b7f8d8f41da906582330a87d824ee0c38ee162",
+      "levelid": "custom_level_69b7f8d8f41da906582330a87d824ee0c38ee162"
     },
     {
-      "key": "51979",
-      "songName": "完全放棄宣言 / ナナヲアカリ",
-      "hash": "af34e05b391567c83a58b9667d3e219ebf67d688",
-      "levelid": "custom_level_af34e05b391567c83a58b9667d3e219ebf67d688"
+      "key": "519d2",
+      "songName": "HyperDuck SoundWorks - La leyenda, de Burrito (Burrito Bison OST)",
+      "hash": "eac3fc356d4f8b97eed74ec349826f1ba55957b4",
+      "levelid": "custom_level_eac3fc356d4f8b97eed74ec349826f1ba55957b4"
     },
     {
-      "key": "51978",
-      "songName": "Like That - BABYMONSTER",
-      "hash": "1c1b4bf62402124d2917809e4be6d7039bf654b0",
-      "levelid": "custom_level_1c1b4bf62402124d2917809e4be6d7039bf654b0"
+      "key": "519c6",
+      "songName": "NCT 127 - Kitchen Beat",
+      "hash": "6bea28321494d62831d8215f9f6688b49427b303",
+      "levelid": "custom_level_6bea28321494d62831d8215f9f6688b49427b303"
     },
     {
-      "key": "51977",
-      "songName": "tony v3 (the worst level in the history of beat saber)",
-      "hash": "e87d8fb47d2c3c6606d6493c5296bb5fb9c4b576",
-      "levelid": "custom_level_e87d8fb47d2c3c6606d6493c5296bb5fb9c4b576"
+      "key": "519d1",
+      "songName": "=LOVE - Gekiyaku Chuudoku (劇薬中毒)",
+      "hash": "a785d8e1635aeff9bf82b62488b6b1f05d80bad6",
+      "levelid": "custom_level_a785d8e1635aeff9bf82b62488b6b1f05d80bad6"
     },
     {
-      "key": "51971",
-      "songName": "Double Trouble (Team Rocket)",
-      "hash": "7b37f02cb5dbee6934376ca08c946fe19911bf73",
-      "levelid": "custom_level_7b37f02cb5dbee6934376ca08c946fe19911bf73"
+      "key": "519d0",
+      "songName": "=LOVE - Moratorium (モラトリアム)",
+      "hash": "cea777035c494f8ae8946b54c2c89147786b35c4",
+      "levelid": "custom_level_cea777035c494f8ae8946b54c2c89147786b35c4"
     },
     {
-      "key": "51975",
-      "songName": "Bull's Eye (緋弾のアリアAA OP)",
-      "hash": "9eaf51e3b56941d32770421104c9bb8f01ae9629",
-      "levelid": "custom_level_9eaf51e3b56941d32770421104c9bb8f01ae9629"
+      "key": "519cf",
+      "songName": "Lacuna Coil - Sleepless Empire",
+      "hash": "da9b2d396042663585aebaa17be5030ad11277e5",
+      "levelid": "custom_level_da9b2d396042663585aebaa17be5030ad11277e5"
     },
     {
-      "key": "51973",
-      "songName": "Bad",
-      "hash": "ae0a2b683eb4f9a433335e1fdb03fa9a51c395d5",
-      "levelid": "custom_level_ae0a2b683eb4f9a433335e1fdb03fa9a51c395d5"
+      "key": "519cd",
+      "songName": "Nuke Powder (TS2 VERSION) - MaleouX",
+      "hash": "7b942ff3ce6725ab019a0ae157aa4ea87c02087a",
+      "levelid": "custom_level_7b942ff3ce6725ab019a0ae157aa4ea87c02087a"
     },
     {
-      "key": "51972",
-      "songName": "SHOWTIME",
-      "hash": "88f9a2bd3e87dfd134e2e8dba0727a63c36daf5a",
-      "levelid": "custom_level_88f9a2bd3e87dfd134e2e8dba0727a63c36daf5a"
+      "key": "519c9",
+      "songName": "パルス (緋弾のアリアAA ED)",
+      "hash": "3214fada4118e79080e269d59306c0b3e591bd6f",
+      "levelid": "custom_level_3214fada4118e79080e269d59306c0b3e591bd6f"
     },
     {
-      "key": "51970",
-      "songName": "Cắt đôi nỗi sầu",
-      "hash": "66c4ce84155111cfab03784a09241b18ebe4ad02",
-      "levelid": "custom_level_66c4ce84155111cfab03784a09241b18ebe4ad02"
+      "key": "519c8",
+      "songName": "Hitsumabushi",
+      "hash": "041669513fa40222857ef22e1d917a463185db14",
+      "levelid": "custom_level_041669513fa40222857ef22e1d917a463185db14"
     },
     {
-      "key": "5196e",
-      "songName": "Charli xcx - Talk talk",
-      "hash": "323fc4961c478017413bacb58b0211b07b171489",
-      "levelid": "custom_level_323fc4961c478017413bacb58b0211b07b171489"
+      "key": "519c7",
+      "songName": "Song About Love - Haunt",
+      "hash": "b0cd7dfab050a7c74913847a84ac6e32d1cf1ec7",
+      "levelid": "custom_level_b0cd7dfab050a7c74913847a84ac6e32d1cf1ec7"
     },
     {
-      "key": "5196d",
-      "songName": "ariiol - sOrRy, I'm daria hysteric. ",
-      "hash": "e9d6793881a262ab93e7b7d6c9657c7d09502c8b",
-      "levelid": "custom_level_e9d6793881a262ab93e7b7d6c9657c7d09502c8b"
+      "key": "519c5",
+      "songName": "bang bang bang but its memes",
+      "hash": "4dcb157b001ff4280008a2b15742c186268b6efe",
+      "levelid": "custom_level_4dcb157b001ff4280008a2b15742c186268b6efe"
     },
     {
-      "key": "51948",
-      "songName": "Reality Distortion - Akira Complex & Camellia",
-      "hash": "db8e42069e7def989f74e286d20cff9926c0e777",
-      "levelid": "custom_level_db8e42069e7def989f74e286d20cff9926c0e777"
+      "key": "519c1",
+      "songName": "Origami Angel - Greenbelt Station",
+      "hash": "1204a68efafa8385364f26077688d9a8342d6c49",
+      "levelid": "custom_level_1204a68efafa8385364f26077688d9a8342d6c49"
     },
     {
-      "key": "51966",
-      "songName": "BrAindEaD",
-      "hash": "f6fefcddef9bb38c670e0d51ba7ce2583922a26b",
-      "levelid": "custom_level_f6fefcddef9bb38c670e0d51ba7ce2583922a26b"
+      "key": "519c0",
+      "songName": "It's Going Down Now - Lotus Juice & Azumi Takahashi (Persona 3 Reload OST)",
+      "hash": "88e3819c003b391cac124b629edf602dde51ec10",
+      "levelid": "custom_level_88e3819c003b391cac124b629edf602dde51ec10"
     },
     {
-      "key": "51965",
-      "songName": "SAVEEE meEEEEE",
-      "hash": "ed40cc60a980dd525fb062b681a5538767dbd9dd",
-      "levelid": "custom_level_ed40cc60a980dd525fb062b681a5538767dbd9dd"
+      "key": "519ba",
+      "songName": "Banana Run",
+      "hash": "a127bf791a6a3da40d7140d8fc97300bb7d31efd",
+      "levelid": "custom_level_a127bf791a6a3da40d7140d8fc97300bb7d31efd"
     },
     {
-      "key": "51964",
-      "songName": "asymmetry",
-      "hash": "e851bb045391be62ef3e2f58bb14d9731617fe02",
-      "levelid": "custom_level_e851bb045391be62ef3e2f58bb14d9731617fe02"
+      "key": "519b9",
+      "songName": "6d656f77 - i dont wna cry",
+      "hash": "5ac4392bf5043266d642fc4f39ddbe52a7331395",
+      "levelid": "custom_level_5ac4392bf5043266d642fc4f39ddbe52a7331395"
     },
     {
-      "key": "51963",
-      "songName": "Hands On The Wheel-SchoolBoy Q",
-      "hash": "9d924a76e65f8a5437c3cfd100cd25595dd5c8ee",
-      "levelid": "custom_level_9d924a76e65f8a5437c3cfd100cd25595dd5c8ee"
+      "key": "519a7",
+      "songName": "Sock.clip - Lo Fight ",
+      "hash": "57070b36ca0b9a8e687c80e1fb1290337c319a12",
+      "levelid": "custom_level_57070b36ca0b9a8e687c80e1fb1290337c319a12"
     },
     {
-      "key": "5194d",
-      "songName": "crush x burnt rice",
-      "hash": "f80d2ab44184acdea75f6e1accfc291806a75506",
-      "levelid": "custom_level_f80d2ab44184acdea75f6e1accfc291806a75506"
+      "key": "519a6",
+      "songName": "my twenty first reason </3 (extended+sped up)",
+      "hash": "a03de531bd1242b96a64b4ef3ba58ae690daaa59",
+      "levelid": "custom_level_a03de531bd1242b96a64b4ef3ba58ae690daaa59"
     },
     {
-      "key": "51947",
-      "songName": "Ural Gaisin - Blues",
-      "hash": "4457e8c3e29c99cce1bcd868997264b1729dd7a5",
-      "levelid": "custom_level_4457e8c3e29c99cce1bcd868997264b1729dd7a5"
+      "key": "519a5",
+      "songName": "Iron Maiden Strength - Lolita Scaffold (Full Ver.)",
+      "hash": "407f0d0a05ee34599b7d6028c9a3dd06e59923ee",
+      "levelid": "custom_level_407f0d0a05ee34599b7d6028c9a3dd06e59923ee"
     },
     {
-      "key": "51945",
-      "songName": "Does this song sound better sped up, or slowed down? \\ MC LOCKED - Contigo Baby (cut.)",
-      "hash": "e8a3cf72b76a76419ec9bb2a336d8e0c4b6e6930",
-      "levelid": "custom_level_e8a3cf72b76a76419ec9bb2a336d8e0c4b6e6930"
+      "key": "519a4",
+      "songName": "More Than It Hurts You - The Front Bottoms",
+      "hash": "fa0f1595bb5682f9101bc3fc558089387571bad8",
+      "levelid": "custom_level_fa0f1595bb5682f9101bc3fc558089387571bad8"
     },
     {
-      "key": "51932",
-      "songName": "Queen & Poet - John Michael Howell",
-      "hash": "ddeb77a8b587d9c65fa661d815fcc87474e7e5db",
-      "levelid": "custom_level_ddeb77a8b587d9c65fa661d815fcc87474e7e5db"
+      "key": "519a1",
+      "songName": "re6ce - i dont even own prada shoes lol",
+      "hash": "9069b2d6dfcd3647f51399f79db43d8a19c042d6",
+      "levelid": "custom_level_9069b2d6dfcd3647f51399f79db43d8a19c042d6"
     },
     {
-      "key": "5193f",
-      "songName": "SVE 2026 tiktok extravaganza tiki tiki hot 2025 memes ",
-      "hash": "0a0f4a7314fe04b68f63bf060e7743666c3c24d7",
-      "levelid": "custom_level_0a0f4a7314fe04b68f63bf060e7743666c3c24d7"
+      "key": "519a0",
+      "songName": "imposter syndrome",
+      "hash": "f7e3c6f63c165159710eb61e0727711c6947ea4f",
+      "levelid": "custom_level_f7e3c6f63c165159710eb61e0727711c6947ea4f"
     },
     {
-      "key": "5193e",
-      "songName": "angle pattern test",
-      "hash": "f561746635a388fe70974a606ec6061bb9923895",
-      "levelid": "custom_level_f561746635a388fe70974a606ec6061bb9923895"
+      "key": "51996",
+      "songName": "Atherton - Gamer Trapped In Real Life",
+      "hash": "e682777775a0ce5f3f3cd859ee385dbcb920d64d",
+      "levelid": "custom_level_e682777775a0ce5f3f3cd859ee385dbcb920d64d"
     },
     {
-      "key": "51934",
-      "songName": " Ural Gaisin - Ya molodoy vampir (vamp)",
-      "hash": "5fb1901aede750a975f5794ed34a405524bdf9d3",
-      "levelid": "custom_level_5fb1901aede750a975f5794ed34a405524bdf9d3"
+      "key": "51995",
+      "songName": "[EXTREME VERTIGO WARNING] Thomas Bangalter - Sangria",
+      "hash": "88356d8aebd5d0c2a113917f0bbdf4f7d2bbfe6a",
+      "levelid": "custom_level_88356d8aebd5d0c2a113917f0bbdf4f7d2bbfe6a"
     },
     {
-      "key": "51933",
-      "songName": "Katya Sambuka - Klan",
-      "hash": "4dbdb45368eb40ba77d2942c5264661d43713d71",
-      "levelid": "custom_level_4dbdb45368eb40ba77d2942c5264661d43713d71"
+      "key": "51994",
+      "songName": "Summer Fling",
+      "hash": "e23f6f57e26100af4f882b8e04d7afd3f00458ac",
+      "levelid": "custom_level_e23f6f57e26100af4f882b8e04d7afd3f00458ac"
     },
     {
-      "key": "51931",
-      "songName": "Kobaryo feat. Srezcat - Speed Complexxx",
-      "hash": "efe1eea542de354a3c294f23d35af91fb83f23b9",
-      "levelid": "custom_level_efe1eea542de354a3c294f23d35af91fb83f23b9"
+      "key": "51993",
+      "songName": "Camellia - t/a/n/a/s/i/n/n",
+      "hash": "af4911c2c7f3b7056c0aa9e2817dc1efc30ba5dc",
+      "levelid": "custom_level_af4911c2c7f3b7056c0aa9e2817dc1efc30ba5dc"
     },
     {
-      "key": "5192f",
-      "songName": "Tony The Fat V2",
-      "hash": "ea30852ec4238f86d015cafd15d60c82b11b4021",
-      "levelid": "custom_level_ea30852ec4238f86d015cafd15d60c82b11b4021"
+      "key": "5198d",
+      "songName": "Big d Randy   (Excplicit) ",
+      "hash": "65c67d7bf266efcdea7c6497a6d1958129d6d73c",
+      "levelid": "custom_level_65c67d7bf266efcdea7c6497a6d1958129d6d73c"
     },
     {
-      "key": "51930",
-      "songName": "IOSYS - Cirno's Perfect Math Class",
-      "hash": "728613e71c7d5360446ac287b38a014b76912eeb",
-      "levelid": "custom_level_728613e71c7d5360446ac287b38a014b76912eeb"
+      "key": "5198b",
+      "songName": "ericdoa - Fantasize",
+      "hash": "5470c70b13f4237f88ba0c4980b04aa10ab4c07b",
+      "levelid": "custom_level_5470c70b13f4237f88ba0c4980b04aa10ab4c07b"
     },
     {
-      "key": "5170f",
-      "songName": "The Mailmen - Trust Me",
-      "hash": "5871f6df4c912eef9e203704b3d5f52ba4e15e88",
-      "levelid": "custom_level_5871f6df4c912eef9e203704b3d5f52ba4e15e88"
+      "key": "51982",
+      "songName": "stratosphere",
+      "hash": "db20471454d7431b910efbe5e1ae040dfb82dd94",
+      "levelid": "custom_level_db20471454d7431b910efbe5e1ae040dfb82dd94"
     },
     {
-      "key": "51929",
-      "songName": "danger challenge",
-      "hash": "535537b35c9799afa850b444222ee893dd692da1",
-      "levelid": "custom_level_535537b35c9799afa850b444222ee893dd692da1"
-    },
-    {
-      "key": "51928",
-      "songName": "That Boy Is Dead",
-      "hash": "1180c0767933cf0830b699b9470b81cabab17972",
-      "levelid": "custom_level_1180c0767933cf0830b699b9470b81cabab17972"
-    },
-    {
-      "key": "517d0",
-      "songName": "Ericdoa - Fantasize",
-      "hash": "aec470a281357968d4e519268a123152efe40809",
-      "levelid": "custom_level_aec470a281357968d4e519268a123152efe40809"
+      "key": "51980",
+      "songName": "Sigma Anthem ",
+      "hash": "7842f878dc6db64a20cfcbd64af4b45a8be262f6",
+      "levelid": "custom_level_7842f878dc6db64a20cfcbd64af4b45a8be262f6"
     }
   ],
   "image": ""
