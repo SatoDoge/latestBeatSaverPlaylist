@@ -1,202 +1,256 @@
 {
-  "playlistTitle": "2026-05-26T15:18:48.434Z~2026-05-27T15:18:48.434Z",
+  "playlistTitle": "2026-05-27T15:18:48.087Z~2026-05-28T15:18:48.087Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-26T15:18:48.434Z and 2026-05-27T15:18:48.434Z",
+  "discripstion": "Maps published between 2026-05-27T15:18:48.087Z and 2026-05-28T15:18:48.087Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "519dd",
+      "key": "51a24",
+      "songName": "krooskyy - sleep paralysis",
+      "hash": "a15f595873d0d259454a9d86d24631983180e1ab",
+      "levelid": "custom_level_a15f595873d0d259454a9d86d24631983180e1ab"
+    },
+    {
+      "key": "51a23",
+      "songName": "FEET!",
+      "hash": "ca7a5f4746561c926af4afb10c095931ec87e643",
+      "levelid": "custom_level_ca7a5f4746561c926af4afb10c095931ec87e643"
+    },
+    {
+      "key": "51a22",
+      "songName": "Demi Lovato ft. Cobrah - Fantasy",
+      "hash": "a410a4705f53d133f399ac770c8b5249944cff2c",
+      "levelid": "custom_level_a410a4705f53d133f399ac770c8b5249944cff2c"
+    },
+    {
+      "key": "51a21",
+      "songName": "KLICKAUD - I love you anyway",
+      "hash": "46604c2999406164af1e33df22266af7689d7a23",
+      "levelid": "custom_level_46604c2999406164af1e33df22266af7689d7a23"
+    },
+    {
+      "key": "51a1f",
+      "songName": "ASSIMILATE",
+      "hash": "95123fe8755ff771f363b33d2347bb272aca814b",
+      "levelid": "custom_level_95123fe8755ff771f363b33d2347bb272aca814b"
+    },
+    {
+      "key": "51a1e",
+      "songName": "4k CARPET",
+      "hash": "982ea127a1cb4631274602ab737da301ac389eea",
+      "levelid": "custom_level_982ea127a1cb4631274602ab737da301ac389eea"
+    },
+    {
+      "key": "51a1d",
+      "songName": "LiSA - Crossing Field (Sword Art Online Opening 1) (V4) (VNJS)",
+      "hash": "dcd0f77bf4da33ada0a14f1a8d596c5107707853",
+      "levelid": "custom_level_dcd0f77bf4da33ada0a14f1a8d596c5107707853"
+    },
+    {
+      "key": "51a1c",
+      "songName": " Caravan Palace RANKED ",
+      "hash": "95fb33e01f300e464dd269739ff654e6c27714a4",
+      "levelid": "custom_level_95fb33e01f300e464dd269739ff654e6c27714a4"
+    },
+    {
+      "key": "51a1a",
+      "songName": "Kwik Flip",
+      "hash": "a158a5e66e636ae9ad52b5be8d759da2a40d6ae7",
+      "levelid": "custom_level_a158a5e66e636ae9ad52b5be8d759da2a40d6ae7"
+    },
+    {
+      "key": "519cb",
+      "songName": "First Step - BASTTIE",
+      "hash": "36df4246e3794010c3a5210ddfeaa9003193c891",
+      "levelid": "custom_level_36df4246e3794010c3a5210ddfeaa9003193c891"
+    },
+    {
+      "key": "51a18",
+      "songName": "Gochamecha×Wonderland - RiPoP",
+      "hash": "1b8e78ff08a04dd58156c5ad995f26e900d615f9",
+      "levelid": "custom_level_1b8e78ff08a04dd58156c5ad995f26e900d615f9"
+    },
+    {
+      "key": "51276",
+      "songName": "He-Man And The Masters Of The Universe - EXTENDED Theme Song  (1984)",
+      "hash": "49c6126d899d7b6af5ae25b84cc01b3e2dbdbc24",
+      "levelid": "custom_level_49c6126d899d7b6af5ae25b84cc01b3e2dbdbc24"
+    },
+    {
+      "key": "51a19",
+      "songName": "[1.34.2+] Hazard24 - Interlope",
+      "hash": "2ff23f7cfa6fa572801b861514e217d3acf2fe08",
+      "levelid": "custom_level_2ff23f7cfa6fa572801b861514e217d3acf2fe08"
+    },
+    {
+      "key": "51a17",
+      "songName": "Donne ricche (original)",
+      "hash": "e76db0d6b478d11dc1d43d865dec276c3f73c629",
+      "levelid": "custom_level_e76db0d6b478d11dc1d43d865dec276c3f73c629"
+    },
+    {
+      "key": "51a16",
+      "songName": "プレパレード (とらドラ！ OP)",
+      "hash": "3d048fe74fbb05d22436b0b54426492048673999",
+      "levelid": "custom_level_3d048fe74fbb05d22436b0b54426492048673999"
+    },
+    {
+      "key": "51a15",
+      "songName": "I'm Ready - Chungha",
+      "hash": "eac0e9471f1eff4f2e36d62735ccc2eb84fabbcb",
+      "levelid": "custom_level_eac0e9471f1eff4f2e36d62735ccc2eb84fabbcb"
+    },
+    {
+      "key": "51a12",
+      "songName": "Dropgun - Fire Blazing",
+      "hash": "e36b7578845b8475ff6a7c0b1a4b96a27e026c43",
+      "levelid": "custom_level_e36b7578845b8475ff6a7c0b1a4b96a27e026c43"
+    },
+    {
+      "key": "51a0a",
+      "songName": " Look Alike (TV Size) [Sonic the Hedgehog OVA Opening] - Riyu Konaka",
+      "hash": "4f3703cc61e4ef74d7261dc807990f01056b43ca",
+      "levelid": "custom_level_4f3703cc61e4ef74d7261dc807990f01056b43ca"
+    },
+    {
+      "key": "51a09",
       "songName": "my twenty first reason </3 (extended+sped up)",
-      "hash": "e67df3b8197ed20ead68d2861a853ec1b0c7190a",
-      "levelid": "custom_level_e67df3b8197ed20ead68d2861a853ec1b0c7190a"
+      "hash": "afd372bffe8b4b749549a5bb3c8ad9b96c80e3dc",
+      "levelid": "custom_level_afd372bffe8b4b749549a5bb3c8ad9b96c80e3dc"
     },
     {
-      "key": "519db",
-      "songName": "That One Soldier Boy Edit",
-      "hash": "40dd0d9a13a4d94d298cdcba0a275b1c11e153d7",
-      "levelid": "custom_level_40dd0d9a13a4d94d298cdcba0a275b1c11e153d7"
-    },
-    {
-      "key": "519da",
+      "key": "51a08",
       "songName": "my twenty first reason </3 (extended+sped up)",
-      "hash": "ab374808ae629cf77d45c1bd0934f56b295a9a1e",
-      "levelid": "custom_level_ab374808ae629cf77d45c1bd0934f56b295a9a1e"
+      "hash": "0a3b21f63c989cc12557968afe170bf90e4af7c5",
+      "levelid": "custom_level_0a3b21f63c989cc12557968afe170bf90e4af7c5"
     },
     {
-      "key": "519d8",
-      "songName": "TryHardNinja - Revenge (ReeK's \"Dude, What's A Genre?\" Remix) (feat. CaptainSparklez)",
-      "hash": "69b7f8d8f41da906582330a87d824ee0c38ee162",
-      "levelid": "custom_level_69b7f8d8f41da906582330a87d824ee0c38ee162"
+      "key": "51a05",
+      "songName": "RUN (SLOWED VERSION)",
+      "hash": "2d23f48ff2f765eeaf421cf5d41025befc0f25c0",
+      "levelid": "custom_level_2d23f48ff2f765eeaf421cf5d41025befc0f25c0"
     },
     {
-      "key": "519d2",
-      "songName": "HyperDuck SoundWorks - La leyenda, de Burrito (Burrito Bison OST)",
-      "hash": "eac3fc356d4f8b97eed74ec349826f1ba55957b4",
-      "levelid": "custom_level_eac3fc356d4f8b97eed74ec349826f1ba55957b4"
+      "key": "51a04",
+      "songName": "KIta K. - Uber A Scout",
+      "hash": "81b35269dd92998eb076b90b75071b72fece2b37",
+      "levelid": "custom_level_81b35269dd92998eb076b90b75071b72fece2b37"
     },
     {
-      "key": "519c6",
-      "songName": "NCT 127 - Kitchen Beat",
-      "hash": "6bea28321494d62831d8215f9f6688b49427b303",
-      "levelid": "custom_level_6bea28321494d62831d8215f9f6688b49427b303"
+      "key": "51a00",
+      "songName": "The Epilogue",
+      "hash": "7daee6c2ede3459e572bb921313cef2d24d65957",
+      "levelid": "custom_level_7daee6c2ede3459e572bb921313cef2d24d65957"
     },
     {
-      "key": "519d1",
-      "songName": "=LOVE - Gekiyaku Chuudoku (劇薬中毒)",
-      "hash": "a785d8e1635aeff9bf82b62488b6b1f05d80bad6",
-      "levelid": "custom_level_a785d8e1635aeff9bf82b62488b6b1f05d80bad6"
+      "key": "519fd",
+      "songName": "Freakin' Out",
+      "hash": "ca9da42b9ee45359249761a3370578764a762bad",
+      "levelid": "custom_level_ca9da42b9ee45359249761a3370578764a762bad"
     },
     {
-      "key": "519d0",
-      "songName": "=LOVE - Moratorium (モラトリアム)",
-      "hash": "cea777035c494f8ae8946b54c2c89147786b35c4",
-      "levelid": "custom_level_cea777035c494f8ae8946b54c2c89147786b35c4"
+      "key": "519fb",
+      "songName": "amgl4 -rpatice",
+      "hash": "d03fe45e497b70749d0e4f8a09f671da1094f33f",
+      "levelid": "custom_level_d03fe45e497b70749d0e4f8a09f671da1094f33f"
     },
     {
-      "key": "519cf",
-      "songName": "Lacuna Coil - Sleepless Empire",
-      "hash": "da9b2d396042663585aebaa17be5030ad11277e5",
-      "levelid": "custom_level_da9b2d396042663585aebaa17be5030ad11277e5"
+      "key": "519fa",
+      "songName": "Crush/Burnt Rice",
+      "hash": "e47c7d8182652e84486c5cbb290349c5d830792e",
+      "levelid": "custom_level_e47c7d8182652e84486c5cbb290349c5d830792e"
     },
     {
-      "key": "519cd",
-      "songName": "Nuke Powder (TS2 VERSION) - MaleouX",
-      "hash": "7b942ff3ce6725ab019a0ae157aa4ea87c02087a",
-      "levelid": "custom_level_7b942ff3ce6725ab019a0ae157aa4ea87c02087a"
+      "key": "519f9",
+      "songName": "two days into animal company",
+      "hash": "1aef6bc808450923e8826411d0ff18b6e94d0b64",
+      "levelid": "custom_level_1aef6bc808450923e8826411d0ff18b6e94d0b64"
     },
     {
-      "key": "519c9",
-      "songName": "パルス (緋弾のアリアAA ED)",
-      "hash": "3214fada4118e79080e269d59306c0b3e591bd6f",
-      "levelid": "custom_level_3214fada4118e79080e269d59306c0b3e591bd6f"
+      "key": "519f8",
+      "songName": "Origami Angel - The Title Track",
+      "hash": "db18ddb893ff5a1cc6029f1408a366fdf996ffb2",
+      "levelid": "custom_level_db18ddb893ff5a1cc6029f1408a366fdf996ffb2"
     },
     {
-      "key": "519c8",
-      "songName": "Hitsumabushi",
-      "hash": "041669513fa40222857ef22e1d917a463185db14",
-      "levelid": "custom_level_041669513fa40222857ef22e1d917a463185db14"
+      "key": "519f4",
+      "songName": "Schwank - To the Moon and Back",
+      "hash": "563e4e78d84f9b00653d2c39b595a43ecb101258",
+      "levelid": "custom_level_563e4e78d84f9b00653d2c39b595a43ecb101258"
     },
     {
-      "key": "519c7",
-      "songName": "Song About Love - Haunt",
-      "hash": "b0cd7dfab050a7c74913847a84ac6e32d1cf1ec7",
-      "levelid": "custom_level_b0cd7dfab050a7c74913847a84ac6e32d1cf1ec7"
+      "key": "519f3",
+      "songName": "Pretend - Sprial Born Black Into The Upwards Night",
+      "hash": "7fcf5943e8d9eeb5e2162f6117300eadebde2982",
+      "levelid": "custom_level_7fcf5943e8d9eeb5e2162f6117300eadebde2982"
     },
     {
-      "key": "519c5",
-      "songName": "bang bang bang but its memes",
-      "hash": "4dcb157b001ff4280008a2b15742c186268b6efe",
-      "levelid": "custom_level_4dcb157b001ff4280008a2b15742c186268b6efe"
+      "key": "519f0",
+      "songName": "you heylog",
+      "hash": "064c46956a45ab50dec993136536c8ac2129b121",
+      "levelid": "custom_level_064c46956a45ab50dec993136536c8ac2129b121"
     },
     {
-      "key": "519c1",
-      "songName": "Origami Angel - Greenbelt Station",
-      "hash": "1204a68efafa8385364f26077688d9a8342d6c49",
-      "levelid": "custom_level_1204a68efafa8385364f26077688d9a8342d6c49"
+      "key": "519ef",
+      "songName": "By My Side (Original Song from XO, Kitty, Season 3) - Saint Rene",
+      "hash": "35dfe2470a30dd602ce69e0a18ad1c46551be972",
+      "levelid": "custom_level_35dfe2470a30dd602ce69e0a18ad1c46551be972"
     },
     {
-      "key": "519c0",
-      "songName": "It's Going Down Now - Lotus Juice & Azumi Takahashi (Persona 3 Reload OST)",
-      "hash": "88e3819c003b391cac124b629edf602dde51ec10",
-      "levelid": "custom_level_88e3819c003b391cac124b629edf602dde51ec10"
+      "key": "519ed",
+      "songName": "lost media",
+      "hash": "c1b6e152a232c6c90a94eec519c19ccfff56afc7",
+      "levelid": "custom_level_c1b6e152a232c6c90a94eec519c19ccfff56afc7"
     },
     {
-      "key": "519ba",
-      "songName": "Banana Run",
-      "hash": "a127bf791a6a3da40d7140d8fc97300bb7d31efd",
-      "levelid": "custom_level_a127bf791a6a3da40d7140d8fc97300bb7d31efd"
+      "key": "518d8",
+      "songName": "(V4/Fitbeat) Artemas - Southbound",
+      "hash": "964b302d8465e9d2adf8b213b99ff214cc07177e",
+      "levelid": "custom_level_964b302d8465e9d2adf8b213b99ff214cc07177e"
     },
     {
-      "key": "519b9",
-      "songName": "6d656f77 - i dont wna cry",
-      "hash": "5ac4392bf5043266d642fc4f39ddbe52a7331395",
-      "levelid": "custom_level_5ac4392bf5043266d642fc4f39ddbe52a7331395"
+      "key": "519e8",
+      "songName": "Oof",
+      "hash": "20bc1f997d00012260602ae8a5c9f0ff95f6d8d8",
+      "levelid": "custom_level_20bc1f997d00012260602ae8a5c9f0ff95f6d8d8"
     },
     {
-      "key": "519a7",
-      "songName": "Sock.clip - Lo Fight ",
-      "hash": "57070b36ca0b9a8e687c80e1fb1290337c319a12",
-      "levelid": "custom_level_57070b36ca0b9a8e687c80e1fb1290337c319a12"
+      "key": "519e5",
+      "songName": "Mirrors demo",
+      "hash": "e9a21decd6f83b521daab5c36d67116ff27a7537",
+      "levelid": "custom_level_e9a21decd6f83b521daab5c36d67116ff27a7537"
     },
     {
-      "key": "519a6",
-      "songName": "my twenty first reason </3 (extended+sped up)",
-      "hash": "a03de531bd1242b96a64b4ef3ba58ae690daaa59",
-      "levelid": "custom_level_a03de531bd1242b96a64b4ef3ba58ae690daaa59"
+      "key": "519e3",
+      "songName": "breakdown",
+      "hash": "135dafe046a577cb2e9ad53b7e5c2552b3ff6549",
+      "levelid": "custom_level_135dafe046a577cb2e9ad53b7e5c2552b3ff6549"
     },
     {
-      "key": "519a5",
-      "songName": "Iron Maiden Strength - Lolita Scaffold (Full Ver.)",
-      "hash": "407f0d0a05ee34599b7d6028c9a3dd06e59923ee",
-      "levelid": "custom_level_407f0d0a05ee34599b7d6028c9a3dd06e59923ee"
+      "key": "519e2",
+      "songName": "mi pan x irish drill remix",
+      "hash": "aabed4b5bd6ccf73d007c3459fa4735d29cb628d",
+      "levelid": "custom_level_aabed4b5bd6ccf73d007c3459fa4735d29cb628d"
     },
     {
-      "key": "519a4",
-      "songName": "More Than It Hurts You - The Front Bottoms",
-      "hash": "fa0f1595bb5682f9101bc3fc558089387571bad8",
-      "levelid": "custom_level_fa0f1595bb5682f9101bc3fc558089387571bad8"
+      "key": "519e0",
+      "songName": "Sweet Caroline",
+      "hash": "1904b0fa7b78e50df10f5bd851f2602a1deece9b",
+      "levelid": "custom_level_1904b0fa7b78e50df10f5bd851f2602a1deece9b"
     },
     {
-      "key": "519a1",
-      "songName": "re6ce - i dont even own prada shoes lol",
-      "hash": "9069b2d6dfcd3647f51399f79db43d8a19c042d6",
-      "levelid": "custom_level_9069b2d6dfcd3647f51399f79db43d8a19c042d6"
+      "key": "519e1",
+      "songName": "Pickle pepsi remix",
+      "hash": "9c143c85e19b278c1d91c17b536daab5b909fb8b",
+      "levelid": "custom_level_9c143c85e19b278c1d91c17b536daab5b909fb8b"
     },
     {
-      "key": "519a0",
-      "songName": "imposter syndrome",
-      "hash": "f7e3c6f63c165159710eb61e0727711c6947ea4f",
-      "levelid": "custom_level_f7e3c6f63c165159710eb61e0727711c6947ea4f"
-    },
-    {
-      "key": "51996",
-      "songName": "Atherton - Gamer Trapped In Real Life",
-      "hash": "e682777775a0ce5f3f3cd859ee385dbcb920d64d",
-      "levelid": "custom_level_e682777775a0ce5f3f3cd859ee385dbcb920d64d"
-    },
-    {
-      "key": "51995",
-      "songName": "[EXTREME VERTIGO WARNING] Thomas Bangalter - Sangria",
-      "hash": "88356d8aebd5d0c2a113917f0bbdf4f7d2bbfe6a",
-      "levelid": "custom_level_88356d8aebd5d0c2a113917f0bbdf4f7d2bbfe6a"
-    },
-    {
-      "key": "51994",
-      "songName": "Summer Fling",
-      "hash": "e23f6f57e26100af4f882b8e04d7afd3f00458ac",
-      "levelid": "custom_level_e23f6f57e26100af4f882b8e04d7afd3f00458ac"
-    },
-    {
-      "key": "51993",
-      "songName": "Camellia - t/a/n/a/s/i/n/n",
-      "hash": "af4911c2c7f3b7056c0aa9e2817dc1efc30ba5dc",
-      "levelid": "custom_level_af4911c2c7f3b7056c0aa9e2817dc1efc30ba5dc"
-    },
-    {
-      "key": "5198d",
-      "songName": "Big d Randy   (Excplicit) ",
-      "hash": "65c67d7bf266efcdea7c6497a6d1958129d6d73c",
-      "levelid": "custom_level_65c67d7bf266efcdea7c6497a6d1958129d6d73c"
-    },
-    {
-      "key": "5198b",
-      "songName": "ericdoa - Fantasize",
-      "hash": "5470c70b13f4237f88ba0c4980b04aa10ab4c07b",
-      "levelid": "custom_level_5470c70b13f4237f88ba0c4980b04aa10ab4c07b"
-    },
-    {
-      "key": "51982",
-      "songName": "stratosphere",
-      "hash": "db20471454d7431b910efbe5e1ae040dfb82dd94",
-      "levelid": "custom_level_db20471454d7431b910efbe5e1ae040dfb82dd94"
-    },
-    {
-      "key": "51980",
-      "songName": "Sigma Anthem ",
-      "hash": "7842f878dc6db64a20cfcbd64af4b45a8be262f6",
-      "levelid": "custom_level_7842f878dc6db64a20cfcbd64af4b45a8be262f6"
+      "key": "519df",
+      "songName": "Aria Math",
+      "hash": "5dd627436eec3042aee076c0745d8b2b8c8af626",
+      "levelid": "custom_level_5dd627436eec3042aee076c0745d8b2b8c8af626"
     }
   ],
   "image": ""
