@@ -1,184 +1,250 @@
 {
-  "playlistTitle": "2026-05-28T15:18:48.114Z~2026-05-29T15:18:48.114Z",
+  "playlistTitle": "2026-05-29T15:18:47.948Z~2026-05-30T15:18:47.948Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-05-28T15:18:48.114Z and 2026-05-29T15:18:48.114Z",
+  "discripstion": "Maps published between 2026-05-29T15:18:47.948Z and 2026-05-30T15:18:47.948Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "51a68",
-      "songName": "Love The Day - Fox Stevenson",
-      "hash": "7f1e547a3c921c20b939939d7a2e552e99c0c1dd",
-      "levelid": "custom_level_7f1e547a3c921c20b939939d7a2e552e99c0c1dd"
+      "key": "51ac2",
+      "songName": "eightiesheadachetape - what? huh? excuse me? hello???",
+      "hash": "bd176ee66211ce8a61da6eb67dd87195a4cdb914",
+      "levelid": "custom_level_bd176ee66211ce8a61da6eb67dd87195a4cdb914"
     },
     {
-      "key": "51a67",
-      "songName": "Imil You (Cut)",
-      "hash": "8a2d415e0c1a03fcb5327ae6712ea042bff19730",
-      "levelid": "custom_level_8a2d415e0c1a03fcb5327ae6712ea042bff19730"
+      "key": "51abd",
+      "songName": "Through the screen",
+      "hash": "ce2ba1b1324759f3fcaf2884670caa8475501ec2",
+      "levelid": "custom_level_ce2ba1b1324759f3fcaf2884670caa8475501ec2"
     },
     {
-      "key": "51a66",
-      "songName": "Origami Angel - fin (the long and untold story of how I know it's meant to be)",
-      "hash": "3c9164575a317751acae0a7fdc5501f2bc95e536",
-      "levelid": "custom_level_3c9164575a317751acae0a7fdc5501f2bc95e536"
+      "key": "51abb",
+      "songName": "[SP] Seinfeld Theme, but it's Skrillex",
+      "hash": "3df7c9a43a4547c7882f539cc6b09a013df350e1",
+      "levelid": "custom_level_3df7c9a43a4547c7882f539cc6b09a013df350e1"
     },
     {
-      "key": "518a5",
-      "songName": "[Poodle] DAWN by Vulfmon, Jacob Jeffries & Harrison Whitford",
-      "hash": "45fa68feb5bbdfff1f14cde2f1a4015668dc5af5",
-      "levelid": "custom_level_45fa68feb5bbdfff1f14cde2f1a4015668dc5af5"
+      "key": "51ab7",
+      "songName": "Headmaster Hastings - The Island Song",
+      "hash": "fbe85bd246c06161fdbd5bcd2958df14678f645f",
+      "levelid": "custom_level_fbe85bd246c06161fdbd5bcd2958df14678f645f"
     },
     {
-      "key": "519dc",
-      "songName": " Ms.OOJA - 君は",
-      "hash": "164a39256d79ed0ef99da04caf58de3a1cdc5ce4",
-      "levelid": "custom_level_164a39256d79ed0ef99da04caf58de3a1cdc5ce4"
+      "key": "51a79",
+      "songName": "BABYMONSTER - CHOOM",
+      "hash": "252defce355b0d80aadab0e94e760452dfea06e3",
+      "levelid": "custom_level_252defce355b0d80aadab0e94e760452dfea06e3"
     },
     {
-      "key": "51a53",
-      "songName": "TOGENASHI TOGEARI - Emptiness and Catharsis // トゲナシトゲアリ- 空白とカタルシス",
-      "hash": "ee0fd2e8f7c0e4a195b9204bf3ec3e1afda823b3",
-      "levelid": "custom_level_ee0fd2e8f7c0e4a195b9204bf3ec3e1afda823b3"
+      "key": "51ab5",
+      "songName": "Let's Meet Again in the Next Life - Ftlframe, dissectedRen",
+      "hash": "6757dfaa74ebe2b9355c555c76dac1fdfed78608",
+      "levelid": "custom_level_6757dfaa74ebe2b9355c555c76dac1fdfed78608"
     },
     {
-      "key": "51a52",
-      "songName": "バニラソルト (とらドラ！ ED)",
-      "hash": "caf9f1e78baf86194c8f8d65944799a14e9494fe",
-      "levelid": "custom_level_caf9f1e78baf86194c8f8d65944799a14e9494fe"
+      "key": "51ab1",
+      "songName": "I Want Your Love (And Then Some)",
+      "hash": "65af3faf209f83f2892319c65e65f737092f2bb3",
+      "levelid": "custom_level_65af3faf209f83f2892319c65e65f737092f2bb3"
     },
     {
-      "key": "51a51",
-      "songName": "And with that, the class of 2026 comes to an end",
-      "hash": "8458a068c82f3afeec1ddd732deb46397ef9d84f",
-      "levelid": "custom_level_8458a068c82f3afeec1ddd732deb46397ef9d84f"
+      "key": "51aaf",
+      "songName": "Pedro - Jaxomy x Agatino Romero x Raffaella Carra",
+      "hash": "33c6e0b268651ff9d166741620ea4ae3b45433e0",
+      "levelid": "custom_level_33c6e0b268651ff9d166741620ea4ae3b45433e0"
     },
     {
-      "key": "51a2f",
-      "songName": "終わってる料理番組 (A Trainwreck Cooking Show) - かてらざわ [katerazawa]",
-      "hash": "e033d8a8edc05162c43f01eb966f42e4e5e54d94",
-      "levelid": "custom_level_e033d8a8edc05162c43f01eb966f42e4e5e54d94"
+      "key": "51aad",
+      "songName": "Retro ",
+      "hash": "9a9a375f793bb6163db61a8d7544df579e5d8bf8",
+      "levelid": "custom_level_9a9a375f793bb6163db61a8d7544df579e5d8bf8"
     },
     {
-      "key": "51a4d",
-      "songName": "She Wolf",
-      "hash": "85e6695919c1e7c11a77bb5b440bcf78d5509ab1",
-      "levelid": "custom_level_85e6695919c1e7c11a77bb5b440bcf78d5509ab1"
+      "key": "51aae",
+      "songName": "silky heart (とらドラ！ OP2)",
+      "hash": "dabe4e5b986d70a328469b4c93512ba84ac5d45b",
+      "levelid": "custom_level_dabe4e5b986d70a328469b4c93512ba84ac5d45b"
     },
     {
-      "key": "51a4b",
-      "songName": "Willyrodriguezwastaken - Vampira",
-      "hash": "28cbbd01d516cc166749eb9638b9064360cac003",
-      "levelid": "custom_level_28cbbd01d516cc166749eb9638b9064360cac003"
+      "key": "51aab",
+      "songName": "Nuke Powder \"Interlude\"",
+      "hash": "79c9700b2b245fd161e12c4428bc0bacf27dae0d",
+      "levelid": "custom_level_79c9700b2b245fd161e12c4428bc0bacf27dae0d"
     },
     {
-      "key": "51a4a",
-      "songName": "Ashnikko - WEEDKILLER",
-      "hash": "241d348ae9d1d1ab8484b46952c338a694a0b714",
-      "levelid": "custom_level_241d348ae9d1d1ab8484b46952c338a694a0b714"
+      "key": "51aa9",
+      "songName": "big block",
+      "hash": "cc4503c16146b674b6b3e8fc4083545a5d919d73",
+      "levelid": "custom_level_cc4503c16146b674b6b3e8fc4083545a5d919d73"
     },
     {
-      "key": "51a49",
-      "songName": "Vem de Ré",
-      "hash": "11397a0f4ed53a9e3834f16cd6b387712d53ab88",
-      "levelid": "custom_level_11397a0f4ed53a9e3834f16cd6b387712d53ab88"
+      "key": "51aa8",
+      "songName": "slayr - Set In Stone [Half-Blood]",
+      "hash": "830d0a6ff2c0b628abcecf533b26f760560a16e5",
+      "levelid": "custom_level_830d0a6ff2c0b628abcecf533b26f760560a16e5"
     },
     {
-      "key": "51a48",
-      "songName": "GreenM4n - W3-4: went to the s2 convention (and THIS is all i got...?)",
-      "hash": "270d3da57cb9ff6e7e6f953e15b2c06b365dabb1",
-      "levelid": "custom_level_270d3da57cb9ff6e7e6f953e15b2c06b365dabb1"
+      "key": "51aa3",
+      "songName": "Frizk - Frizk Fundamentals",
+      "hash": "94783d39e6776c3fae026754e32f27e78e5fb222",
+      "levelid": "custom_level_94783d39e6776c3fae026754e32f27e78e5fb222"
     },
     {
-      "key": "51a44",
-      "songName": "Doctor P - Galaxies and Stars",
-      "hash": "9f894a8d757cdd7a940df36b5f3f4c0fb67f838d",
-      "levelid": "custom_level_9f894a8d757cdd7a940df36b5f3f4c0fb67f838d"
+      "key": "51a9f",
+      "songName": "Frums - Credits",
+      "hash": "30d584a17ef06b04f53103af4036322a2673da89",
+      "levelid": "custom_level_30d584a17ef06b04f53103af4036322a2673da89"
     },
     {
-      "key": "51a42",
-      "songName": "YENA - CATCH CATCH",
-      "hash": "8f4495cafaa16b2067df2d9a4e89dbe007590a3f",
-      "levelid": "custom_level_8f4495cafaa16b2067df2d9a4e89dbe007590a3f"
+      "key": "51a9e",
+      "songName": "TinyPawb - Never Played Minecraft Dungeons",
+      "hash": "8015852ccd7432c370ab8db799f793a636f5f4ef",
+      "levelid": "custom_level_8015852ccd7432c370ab8db799f793a636f5f4ef"
     },
     {
-      "key": "51a41",
-      "songName": "Any Chance You Wanna Try It",
-      "hash": "07f806178ea984941a108a2781c639696488fe8b",
-      "levelid": "custom_level_07f806178ea984941a108a2781c639696488fe8b"
+      "key": "51a9c",
+      "songName": "Peach",
+      "hash": "668983e344f06d0ea404dbac8a9f514b4cfef72a",
+      "levelid": "custom_level_668983e344f06d0ea404dbac8a9f514b4cfef72a"
     },
     {
-      "key": "51a3b",
-      "songName": "REAPER - HEADHUNTER",
-      "hash": "e12aa5f50b1d2a1d14b56efdd28895655b4d012a",
-      "levelid": "custom_level_e12aa5f50b1d2a1d14b56efdd28895655b4d012a"
+      "key": "51a9b",
+      "songName": "Ironies",
+      "hash": "c35bf16661b984b5278ec9564e23f104b95231e7",
+      "levelid": "custom_level_c35bf16661b984b5278ec9564e23f104b95231e7"
     },
     {
-      "key": "51a3a",
-      "songName": "So She Did Know",
-      "hash": "37f2454ca6bc87db35995fea8322b549fda9c037",
-      "levelid": "custom_level_37f2454ca6bc87db35995fea8322b549fda9c037"
+      "key": "51a9a",
+      "songName": "My Name Is Anderdingus - XiryuriKalo",
+      "hash": "adb9a1ae1e1924895cdb1f7a57411751613f4297",
+      "levelid": "custom_level_adb9a1ae1e1924895cdb1f7a57411751613f4297"
     },
     {
-      "key": "51a34",
-      "songName": "Backflip - The Front Bottoms",
-      "hash": "922f51e9556395b9c483e895f06ccd9332f47a55",
-      "levelid": "custom_level_922f51e9556395b9c483e895f06ccd9332f47a55"
+      "key": "51a99",
+      "songName": "origins",
+      "hash": "a3cf88c141fd92aae26c91ca4a5b00fed60a1b8b",
+      "levelid": "custom_level_a3cf88c141fd92aae26c91ca4a5b00fed60a1b8b"
     },
     {
-      "key": "51a33",
-      "songName": "Giga & Reol - Okochama Sensou (Childish War)",
-      "hash": "0fee28e31d8850494fa7693ea56f1e2451bdc343",
-      "levelid": "custom_level_0fee28e31d8850494fa7693ea56f1e2451bdc343"
+      "key": "51a98",
+      "songName": "Fast Cars & Superstars (360 map)",
+      "hash": "dd75ce1980a3fe7ead9ba67a5ee42f2d70db00de",
+      "levelid": "custom_level_dd75ce1980a3fe7ead9ba67a5ee42f2d70db00de"
     },
     {
-      "key": "51a31",
-      "songName": "slayyyter - CRANK",
-      "hash": "432e47f148901e2e84769d5fd790cc6c92c405c1",
-      "levelid": "custom_level_432e47f148901e2e84769d5fd790cc6c92c405c1"
+      "key": "51a94",
+      "songName": "juno- Baby Blue (Poodles) ",
+      "hash": "ef7eb84d0ab64805134376838b18328bae56be7f",
+      "levelid": "custom_level_ef7eb84d0ab64805134376838b18328bae56be7f"
     },
     {
-      "key": "51a2e",
-      "songName": "Bounded Universe ",
-      "hash": "b3037f8d1e77e717dfffc8e4956a67b754cb209d",
-      "levelid": "custom_level_b3037f8d1e77e717dfffc8e4956a67b754cb209d"
+      "key": "519fc",
+      "songName": "Thur1um_铥  - spend time idly(봄방학)",
+      "hash": "3456e2148cf08fc6ab3247c38dfd740505ce9d99",
+      "levelid": "custom_level_3456e2148cf08fc6ab3247c38dfd740505ce9d99"
     },
     {
-      "key": "51a2d",
-      "songName": "FARUCO - 24 Hours with Camellya: A Private Record",
-      "hash": "e48e89f04ddf54c7a69661bc99414138c76c4738",
-      "levelid": "custom_level_e48e89f04ddf54c7a69661bc99414138c76c4738"
+      "key": "51a87",
+      "songName": "Can you tiki tiki shut the fuck up",
+      "hash": "56d8f37cb64ab0d49627e2783304d500004cd611",
+      "levelid": "custom_level_56d8f37cb64ab0d49627e2783304d500004cd611"
     },
     {
-      "key": "51a2b",
-      "songName": "ASSIMILATE",
-      "hash": "e3480fce9b0aad7f17b03bda5fc67e6adff0f471",
-      "levelid": "custom_level_e3480fce9b0aad7f17b03bda5fc67e6adff0f471"
+      "key": "51a84",
+      "songName": "Crosses - Vivien",
+      "hash": "db044901c73bb74597c7e00a5fe6aaaa161df1ba",
+      "levelid": "custom_level_db044901c73bb74597c7e00a5fe6aaaa161df1ba"
     },
     {
-      "key": "51a2a",
-      "songName": " Love It When You Hurt Me",
-      "hash": "9e9c73a50ce5e356639787cc0b16b4edab34ecaf",
-      "levelid": "custom_level_9e9c73a50ce5e356639787cc0b16b4edab34ecaf"
+      "key": "51a83",
+      "songName": "big extended circle of torture lol",
+      "hash": "48ee5fd9574677a858eeec50fb1b32e2f745542d",
+      "levelid": "custom_level_48ee5fd9574677a858eeec50fb1b32e2f745542d"
     },
     {
-      "key": "51a28",
-      "songName": "Blue Suede - Hooked on them apple bottom jeans",
-      "hash": "cc66732b5a05bb561ca8d42a46431c287819e393",
-      "levelid": "custom_level_cc66732b5a05bb561ca8d42a46431c287819e393"
+      "key": "51a82",
+      "songName": "1:15 - 8485 (1.15x speed)",
+      "hash": "03b4c12bd70f685bd561437ca69075fc073160da",
+      "levelid": "custom_level_03b4c12bd70f685bd561437ca69075fc073160da"
     },
     {
-      "key": "51a26",
-      "songName": "Umeboshi Chazuke - Dutch Courage",
-      "hash": "8ef47981997c0fa944ad3533e3104063113ecddd",
-      "levelid": "custom_level_8ef47981997c0fa944ad3533e3104063113ecddd"
+      "key": "51a80",
+      "songName": "Something You Regret (Jax X Ribbit Abstraction Song)",
+      "hash": "2d2a2418d726612f009acc80cba994e33ae923ce",
+      "levelid": "custom_level_2d2a2418d726612f009acc80cba994e33ae923ce"
     },
     {
-      "key": "51a25",
-      "songName": "dont mine at night",
-      "hash": "9837d2d9a4ba9873bc1fa87398c9f6e10e818207",
-      "levelid": "custom_level_9837d2d9a4ba9873bc1fa87398c9f6e10e818207"
+      "key": "51a7f",
+      "songName": "Cast - Family Guy - Family Guy Main Title (From \"Family Guy\")",
+      "hash": "49c34c230a2463441358dd7abde40c690d7ac310",
+      "levelid": "custom_level_49c34c230a2463441358dd7abde40c690d7ac310"
+    },
+    {
+      "key": "51a4e",
+      "songName": "RED",
+      "hash": "c7cc19c7c71a4c76972e6fd2a4b889fad6550a13",
+      "levelid": "custom_level_c7cc19c7c71a4c76972e6fd2a4b889fad6550a13"
+    },
+    {
+      "key": "51a7e",
+      "songName": "Split",
+      "hash": "fb85e4912e41b958eb0dfd538315ea7996ed4436",
+      "levelid": "custom_level_fb85e4912e41b958eb0dfd538315ea7996ed4436"
+    },
+    {
+      "key": "51a7d",
+      "songName": "Hyper banana",
+      "hash": "c076ec7a02308d33faf182f876e57d11e4280fba",
+      "levelid": "custom_level_c076ec7a02308d33faf182f876e57d11e4280fba"
+    },
+    {
+      "key": "51a7c",
+      "songName": "Carluzz - gotta go",
+      "hash": "5c0de2ddf8f286eb0722160ad830444a3b8c1c11",
+      "levelid": "custom_level_5c0de2ddf8f286eb0722160ad830444a3b8c1c11"
+    },
+    {
+      "key": "51a7b",
+      "songName": "Boyfriend",
+      "hash": "f24c010cfe99396e3061b74aa6a6818f11d62410",
+      "levelid": "custom_level_f24c010cfe99396e3061b74aa6a6818f11d62410"
+    },
+    {
+      "key": "51a78",
+      "songName": "Re-Do - Modern Baseball",
+      "hash": "830c582d09c203545c5cfb4020a14a2338d8e194",
+      "levelid": "custom_level_830c582d09c203545c5cfb4020a14a2338d8e194"
+    },
+    {
+      "key": "51a77",
+      "songName": "Alone Intelligence - Camellia",
+      "hash": "84d2b372e80888bdb5d7475ec5bb582bc2990662",
+      "levelid": "custom_level_84d2b372e80888bdb5d7475ec5bb582bc2990662"
+    },
+    {
+      "key": "51a75",
+      "songName": "Power Stone",
+      "hash": "c60e46203b0a1ef2a7ad9214ff30af26d9072db0",
+      "levelid": "custom_level_c60e46203b0a1ef2a7ad9214ff30af26d9072db0"
+    },
+    {
+      "key": "51a72",
+      "songName": "All I Did Was Dream Of You - beabadoobee (feat. The Marias)",
+      "hash": "3f0943926b4dfcdc7b831ac50db15196cf71f0db",
+      "levelid": "custom_level_3f0943926b4dfcdc7b831ac50db15196cf71f0db"
+    },
+    {
+      "key": "51a71",
+      "songName": "Miracle Of Sound - Nord Mead",
+      "hash": "1d0d224756a239d5f0213260323f6aefe90d4859",
+      "levelid": "custom_level_1d0d224756a239d5f0213260323f6aefe90d4859"
+    },
+    {
+      "key": "51a6d",
+      "songName": "Toxi$, Aarne, Big Baby Tape - NOBODY",
+      "hash": "d158f3ca5b4c1462951065b69ccaeea216f20895",
+      "levelid": "custom_level_d158f3ca5b4c1462951065b69ccaeea216f20895"
     }
   ],
   "image": ""
