@@ -1,268 +1,244 @@
 {
-  "playlistTitle": "2026-06-01T15:18:48.269Z~2026-06-02T15:18:48.269Z",
+  "playlistTitle": "2026-06-02T15:18:48.137Z~2026-06-03T15:18:48.137Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-06-01T15:18:48.269Z and 2026-06-02T15:18:48.269Z",
+  "discripstion": "Maps published between 2026-06-02T15:18:48.137Z and 2026-06-03T15:18:48.137Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "51bf8",
-      "songName": " Weeaboo Spookfest 2: Necro-Degeneracy",
-      "hash": "af13d21e1291a3837ae3a11654864b6c5924c2f9",
-      "levelid": "custom_level_af13d21e1291a3837ae3a11654864b6c5924c2f9"
-    },
-    {
-      "key": "51bf7",
-      "songName": "MY JEALOUSY - vivi baby, ovg!",
-      "hash": "0edb49c273443db5295367f183b4ee489d1c226d",
-      "levelid": "custom_level_0edb49c273443db5295367f183b4ee489d1c226d"
-    },
-    {
-      "key": "51bf6",
-      "songName": "GOTH FEST",
-      "hash": "29597180d706d0c43b72d612ddd1c56d6e71b5c6",
-      "levelid": "custom_level_29597180d706d0c43b72d612ddd1c56d6e71b5c6"
-    },
-    {
-      "key": "51bf3",
-      "songName": "我真的特别爱你",
-      "hash": "20ab367c5c33f2f0bbdab3630983df55ff8053fc",
-      "levelid": "custom_level_20ab367c5c33f2f0bbdab3630983df55ff8053fc"
-    },
-    {
-      "key": "51bf2",
-      "songName": "hydra-James Landino vs. Akira Complex",
-      "hash": "3b6421716acf69f290141b3b25088ece58110b06",
-      "levelid": "custom_level_3b6421716acf69f290141b3b25088ece58110b06"
-    },
-    {
-      "key": "51bf1",
-      "songName": "Semicenk - Sabrettim (Türkçe / Turkce / Turkish)",
-      "hash": "61b3f225c7166a56ee665500f3fa471a693b567b",
-      "levelid": "custom_level_61b3f225c7166a56ee665500f3fa471a693b567b"
-    },
-    {
-      "key": "51bf0",
-      "songName": "Foolish Of Me - Seven Lions, Jason Ross & Crystal Skies feat. Jonathan Mendelsohn",
-      "hash": "85d0ab625bea3bf57557055164193004617756a0",
-      "levelid": "custom_level_85d0ab625bea3bf57557055164193004617756a0"
-    },
-    {
-      "key": "51bef",
-      "songName": "Porter Robinson - Divinity (feat. Amy Millan)",
-      "hash": "1e8629beb9469eb9793be433b5aeddb74907c7a6",
-      "levelid": "custom_level_1e8629beb9469eb9793be433b5aeddb74907c7a6"
-    },
-    {
-      "key": "51bee",
-      "songName": "[Super ONGEKI Music Pack] SUPER AMBULANCE",
-      "hash": "7effe90513063888e772bac80ed683b7c6cd0966",
-      "levelid": "custom_level_7effe90513063888e772bac80ed683b7c6cd0966"
-    },
-    {
-      "key": "51bed",
-      "songName": "System Of A Down - Chop Suey!",
-      "hash": "51e79a4c41e055f7961c68f8f851ca448810ad96",
-      "levelid": "custom_level_51e79a4c41e055f7961c68f8f851ca448810ad96"
-    },
-    {
-      "key": "51bea",
-      "songName": "きらいスキップ",
-      "hash": "ee373371c8e45f87015ff3e82dffc3becd73547f",
-      "levelid": "custom_level_ee373371c8e45f87015ff3e82dffc3becd73547f"
-    },
-    {
-      "key": "51bec",
-      "songName": "the one whos running the show",
-      "hash": "c17eadce83b57339ac683f377944cf3c9c3fece5",
-      "levelid": "custom_level_c17eadce83b57339ac683f377944cf3c9c3fece5"
-    },
-    {
-      "key": "51beb",
-      "songName": "ハヤテのごとく! (ハヤテのごとく! OP)",
-      "hash": "45ff77197c62cee613f5a59f0e798a24f20b4629",
-      "levelid": "custom_level_45ff77197c62cee613f5a59f0e798a24f20b4629"
-    },
-    {
-      "key": "51be8",
-      "songName": "glaive - how could i be mad?",
-      "hash": "11ca7ac64a837bd0d611c5a256e85673276a8165",
-      "levelid": "custom_level_11ca7ac64a837bd0d611c5a256e85673276a8165"
-    },
-    {
-      "key": "51be7",
-      "songName": "[Feetsaber]SUBCUL CiTY",
-      "hash": "6f13175dab93602cda426cc241e91ba7d7c83e95",
-      "levelid": "custom_level_6f13175dab93602cda426cc241e91ba7d7c83e95"
-    },
-    {
-      "key": "51be6",
-      "songName": "3OH!3 - DONTTRUSTME",
-      "hash": "76af737a8ba566c0f289b3f4abeb9bd70872d1b2",
-      "levelid": "custom_level_76af737a8ba566c0f289b3f4abeb9bd70872d1b2"
-    },
-    {
-      "key": "51be5",
-      "songName": "Mindless Self Indulgence - Prescription",
-      "hash": "9abd5f0e0303bdffb2a2125df5f152260a65be3c",
-      "levelid": "custom_level_9abd5f0e0303bdffb2a2125df5f152260a65be3c"
-    },
-    {
-      "key": "51be2",
-      "songName": "yessirski",
-      "hash": "f29f5d3418773d19e15d74b96a1a19a1aee4a789",
-      "levelid": "custom_level_f29f5d3418773d19e15d74b96a1a19a1aee4a789"
-    },
-    {
-      "key": "51be1",
-      "songName": "origins(old)",
-      "hash": "578330f9baa69a455209bd875c598d7db33403d2",
-      "levelid": "custom_level_578330f9baa69a455209bd875c598d7db33403d2"
-    },
-    {
-      "key": "51be0",
-      "songName": "Soapy",
-      "hash": "8a6e68c7a1177da38963ae1a7ba3482606f039b3",
-      "levelid": "custom_level_8a6e68c7a1177da38963ae1a7ba3482606f039b3"
-    },
-    {
-      "key": "51bde",
-      "songName": "Flashbang Dance",
-      "hash": "ef09a4db41feb02b3fdeab78d82cbf1dce7adbbc",
-      "levelid": "custom_level_ef09a4db41feb02b3fdeab78d82cbf1dce7adbbc"
-    },
-    {
-      "key": "51bdc",
-      "songName": "Imagine Dragons - Believer",
-      "hash": "42c78a014619827c34f708030744b4df86fc2c59",
-      "levelid": "custom_level_42c78a014619827c34f708030744b4df86fc2c59"
-    },
-    {
-      "key": "51bda",
-      "songName": "drink iced coffe",
-      "hash": "22e9e3521881bc102218c4aba4208051f0177718",
-      "levelid": "custom_level_22e9e3521881bc102218c4aba4208051f0177718"
-    },
-    {
-      "key": "51bd9",
-      "songName": "TRUCK",
-      "hash": "9ca7f4dff780a79258c3c5e5df97a367fd46fa8e",
-      "levelid": "custom_level_9ca7f4dff780a79258c3c5e5df97a367fd46fa8e"
-    },
-    {
-      "key": "51bd8",
-      "songName": "HARD ON - KeepitEz_",
-      "hash": "5f01aacc63e56a1a0fe1710c71be4e84dacd061c",
-      "levelid": "custom_level_5f01aacc63e56a1a0fe1710c71be4e84dacd061c"
-    },
-    {
-      "key": "51bd7",
-      "songName": "IDH - Samgaming01, SunoAI",
-      "hash": "cbc270a8434a1340addfc293c56298ef160052cd",
-      "levelid": "custom_level_cbc270a8434a1340addfc293c56298ef160052cd"
-    },
-    {
-      "key": "51bd6",
-      "songName": "MONTAGEM PROVOCA - KHAOS, SEKIMANE",
-      "hash": "fd30241a2f8bab287a2246420d24adaef40aac33",
-      "levelid": "custom_level_fd30241a2f8bab287a2246420d24adaef40aac33"
-    },
-    {
-      "key": "51bd5",
-      "songName": "LUA NA PRACA - DJSamir",
-      "hash": "0d7d22ab6e5542bc01fc1ba0171f9f195bf1c82f",
-      "levelid": "custom_level_0d7d22ab6e5542bc01fc1ba0171f9f195bf1c82f"
-    },
-    {
-      "key": "51bd4",
-      "songName": "Resonance - HOME",
-      "hash": "35bdf8ac528c7b3062ce27d0518412b946e5c6c4",
-      "levelid": "custom_level_35bdf8ac528c7b3062ce27d0518412b946e5c6c4"
-    },
-    {
-      "key": "51bd3",
-      "songName": "Jay Rottie - BOWIE KNIFE",
-      "hash": "6528d2c11dd2256b42c2f96aa710e5374d22674e",
-      "levelid": "custom_level_6528d2c11dd2256b42c2f96aa710e5374d22674e"
-    },
-    {
-      "key": "51bd0",
-      "songName": "Bloody Cape",
-      "hash": "f443853c38edbeb604b6f5aa8641def436dc0881",
-      "levelid": "custom_level_f443853c38edbeb604b6f5aa8641def436dc0881"
-    },
-    {
-      "key": "51bce",
-      "songName": "sombr - Potential",
-      "hash": "a7162b13aa0ba222993d913aa5b1b2f32c6e7d0b",
-      "levelid": "custom_level_a7162b13aa0ba222993d913aa5b1b2f32c6e7d0b"
-    },
-    {
-      "key": "51bcf",
-      "songName": "EoO",
-      "hash": "4748a0ab3a68e3330e5af6dc04613962db2ac749",
-      "levelid": "custom_level_4748a0ab3a68e3330e5af6dc04613962db2ac749"
-    },
-    {
-      "key": "51bcb",
-      "songName": "Boyfriend",
-      "hash": "143483f7dd0cfc22bbf494658d71d828521421d0",
-      "levelid": "custom_level_143483f7dd0cfc22bbf494658d71d828521421d0"
-    },
-    {
-      "key": "51bca",
-      "songName": "Celldweller - The Last Firstborn",
-      "hash": "127200df4c23f4741302f72419c30e5fc53afb1d",
-      "levelid": "custom_level_127200df4c23f4741302f72419c30e5fc53afb1d"
-    },
-    {
-      "key": "51bc9",
-      "songName": "Water the Roses",
-      "hash": "e28a00c1c08063c9bd1faa777554ff72dbff9337",
-      "levelid": "custom_level_e28a00c1c08063c9bd1faa777554ff72dbff9337"
-    },
-    {
-      "key": "51bc8",
-      "songName": "Short Change Hero - The Heavy",
-      "hash": "b03f6f052ccba3330f0841028cd468612c934f43",
-      "levelid": "custom_level_b03f6f052ccba3330f0841028cd468612c934f43"
-    },
-    {
-      "key": "51bbe",
-      "songName": "Scapezzolate",
-      "hash": "3ade10786433263522b26b266bad257a138458b3",
-      "levelid": "custom_level_3ade10786433263522b26b266bad257a138458b3"
-    },
-    {
-      "key": "51bbd",
-      "songName": "APAngryPiggy - Fnaf 1 Song Remix",
-      "hash": "4b7398b7249a459ff24de7f8e017dbd29c98265e",
-      "levelid": "custom_level_4b7398b7249a459ff24de7f8e017dbd29c98265e"
-    },
-    {
-      "key": "51bba",
+      "key": "51c4d",
       "songName": "Xeven & Odin - ⱯKRASiEL",
-      "hash": "a7dead1ed210c63d517b4c82b9f2d7a3dfd95b93",
-      "levelid": "custom_level_a7dead1ed210c63d517b4c82b9f2d7a3dfd95b93"
+      "hash": "4d441836bba5d1d19df756e01e3b265c30295db1",
+      "levelid": "custom_level_4d441836bba5d1d19df756e01e3b265c30295db1"
     },
     {
-      "key": "51bb9",
-      "songName": "Billy Butcher - Excuse me sir",
-      "hash": "7348ba951b8256240d84345a8c2fe7a616b8a948",
-      "levelid": "custom_level_7348ba951b8256240d84345a8c2fe7a616b8a948"
+      "key": "51c4c",
+      "songName": "pls dont ban me",
+      "hash": "48a5e244f99ce35c6c51fffdc2d4d415489235e4",
+      "levelid": "custom_level_48a5e244f99ce35c6c51fffdc2d4d415489235e4"
     },
     {
-      "key": "51bb8",
-      "songName": " Viscid-Vids - Chase Theme of the Anti-Solver Drones!",
-      "hash": "55bf346a54530f932e9437f4adaba9299ad2a0b8",
-      "levelid": "custom_level_55bf346a54530f932e9437f4adaba9299ad2a0b8"
+      "key": "51c4b",
+      "songName": " Dirtyphonics & Sullivan King - Hammer ",
+      "hash": "80582eaab0a4e5eb178dcab72e93326441859e15",
+      "levelid": "custom_level_80582eaab0a4e5eb178dcab72e93326441859e15"
     },
     {
-      "key": "51bb4",
-      "songName": "BOI WHAT - Time's Up",
-      "hash": "a3f844956cc5bc6f621c2ccd9093a6f0955e74b7",
-      "levelid": "custom_level_a3f844956cc5bc6f621c2ccd9093a6f0955e74b7"
+      "key": "51c4a",
+      "songName": "hydra-James Landino vs. Akira Complex",
+      "hash": "96c85fa97abf473a62b4b13763fc2fa407c6107f",
+      "levelid": "custom_level_96c85fa97abf473a62b4b13763fc2fa407c6107f"
+    },
+    {
+      "key": "51c49",
+      "songName": "Sexy Boy ~Soyokaze ni Yorisotte~ - Morning Musume",
+      "hash": "4c33041748705ec09da25ac8829c80f9f1738206",
+      "levelid": "custom_level_4c33041748705ec09da25ac8829c80f9f1738206"
+    },
+    {
+      "key": "51b2d",
+      "songName": "井之華六花（CV.瀨戶桃子）- 瞬く日々へ",
+      "hash": "075d90990101ee7b1b26e72f72c205c1ebe2d396",
+      "levelid": "custom_level_075d90990101ee7b1b26e72f72c205c1ebe2d396"
+    },
+    {
+      "key": "51c44",
+      "songName": "Proof (ハヤテのごとく! ED)",
+      "hash": "183b1ec0c7cb238b8beb66863966325d66fadc95",
+      "levelid": "custom_level_183b1ec0c7cb238b8beb66863966325d66fadc95"
+    },
+    {
+      "key": "51c42",
+      "songName": "Bob Dominator - Mama Ama Tiger",
+      "hash": "6847e7a388c055fe7c1873a836b4de5a6e40d9fc",
+      "levelid": "custom_level_6847e7a388c055fe7c1873a836b4de5a6e40d9fc"
+    },
+    {
+      "key": "51c3d",
+      "songName": "Wii Party OST - Chopper Hoppers, Hammer Heads",
+      "hash": "f5d50ffefc37ab3ba4e0e551c96ffc840437333b",
+      "levelid": "custom_level_f5d50ffefc37ab3ba4e0e551c96ffc840437333b"
+    },
+    {
+      "key": "51c3b",
+      "songName": "gura - wizardly fish things...",
+      "hash": "2a600ab101b000a95829aab9d7da208d029dbb1d",
+      "levelid": "custom_level_2a600ab101b000a95829aab9d7da208d029dbb1d"
+    },
+    {
+      "key": "51c39",
+      "songName": "Joyride (Omen)",
+      "hash": "4e99219a0ef3949b6931cb3358b0be28f76dc8bd",
+      "levelid": "custom_level_4e99219a0ef3949b6931cb3358b0be28f76dc8bd"
+    },
+    {
+      "key": "51c37",
+      "songName": "xyzzyx, klypht., XUNOX - Joseph Smackdown!",
+      "hash": "acc3bcc42c109dc3b7b72316dba7d1c46001b5ee",
+      "levelid": "custom_level_acc3bcc42c109dc3b7b72316dba7d1c46001b5ee"
+    },
+    {
+      "key": "51c38",
+      "songName": "Roronoa Zoro (One Piece) - 3 Sonhos, 3 Espadas | M4rkim",
+      "hash": "cc5656d0fb05dd9f34cfdabb6484952c3e9e362b",
+      "levelid": "custom_level_cc5656d0fb05dd9f34cfdabb6484952c3e9e362b"
+    },
+    {
+      "key": "51c2d",
+      "songName": "Juggernaut. - Down with your Love",
+      "hash": "5bde0e48b1472da6dc02614da8fb35fba3a7e3aa",
+      "levelid": "custom_level_5bde0e48b1472da6dc02614da8fb35fba3a7e3aa"
+    },
+    {
+      "key": "51c31",
+      "songName": "(968) Head in the Ceiling Fan",
+      "hash": "e2020ba77b04cc9bb8cbcbcff33cc2b648d61262",
+      "levelid": "custom_level_e2020ba77b04cc9bb8cbcbcff33cc2b648d61262"
+    },
+    {
+      "key": "51c2f",
+      "songName": "Davy Jones",
+      "hash": "ad81261dde96f9b94feca8bb273741cb7245fc84",
+      "levelid": "custom_level_ad81261dde96f9b94feca8bb273741cb7245fc84"
+    },
+    {
+      "key": "51c2e",
+      "songName": "Shot from a Cannon",
+      "hash": "0bcaca72ac650a225241fbf2c452b646014a6aa1",
+      "levelid": "custom_level_0bcaca72ac650a225241fbf2c452b646014a6aa1"
+    },
+    {
+      "key": "51c2c",
+      "songName": "Thank You for Being Here",
+      "hash": "30ac18736facb1883e02f120534fb08d85c01863",
+      "levelid": "custom_level_30ac18736facb1883e02f120534fb08d85c01863"
+    },
+    {
+      "key": "51c2b",
+      "songName": "Why Is MrBeast Name MrBeast",
+      "hash": "841f975c8cf10cae0f29c0a4bacb6f654eade1f9",
+      "levelid": "custom_level_841f975c8cf10cae0f29c0a4bacb6f654eade1f9"
+    },
+    {
+      "key": "51c2a",
+      "songName": "Washed",
+      "hash": "b52e18f9f2665c3e49dec274f33705c6921acdf7",
+      "levelid": "custom_level_b52e18f9f2665c3e49dec274f33705c6921acdf7"
+    },
+    {
+      "key": "51c28",
+      "songName": "slmdnk! & Bce & 870glizzy - FLOWERS ON THE WALL",
+      "hash": "d8dbf94a1d94ab2f33410ce983921f88d3fa6851",
+      "levelid": "custom_level_d8dbf94a1d94ab2f33410ce983921f88d3fa6851"
+    },
+    {
+      "key": "51c27",
+      "songName": "PATRAO NO COMANDO - SCHWVFTY",
+      "hash": "324d33b1a5c6d4570fd0a662bf94abb504d59be6",
+      "levelid": "custom_level_324d33b1a5c6d4570fd0a662bf94abb504d59be6"
+    },
+    {
+      "key": "51c26",
+      "songName": "[3 Is] The Magic Number - De La Soul",
+      "hash": "fbdeca745b65cd9c92746ba23ea2f2e40bef4b44",
+      "levelid": "custom_level_fbdeca745b65cd9c92746ba23ea2f2e40bef4b44"
+    },
+    {
+      "key": "51c25",
+      "songName": "NOMELON NOLEMON - Dounika nachaisou!",
+      "hash": "cced9113af6b5dbf1c3278188b99c446e86df955",
+      "levelid": "custom_level_cced9113af6b5dbf1c3278188b99c446e86df955"
+    },
+    {
+      "key": "51b63",
+      "songName": "UNETHICAL -  Faouzia",
+      "hash": "8eaef3e20ebf8b34882b06bd5d730cec7c2580b2",
+      "levelid": "custom_level_8eaef3e20ebf8b34882b06bd5d730cec7c2580b2"
+    },
+    {
+      "key": "51c24",
+      "songName": "[720bpm Edit] | System Of A Down - Chop Suey!",
+      "hash": "9ea1a3089c6c1487bb744db9526bd5aaff7745b1",
+      "levelid": "custom_level_9ea1a3089c6c1487bb744db9526bd5aaff7745b1"
+    },
+    {
+      "key": "51c22",
+      "songName": "My Couch Is Dead v2",
+      "hash": "4525e8870d068af72896f174b6b242e50d6fc81c",
+      "levelid": "custom_level_4525e8870d068af72896f174b6b242e50d6fc81c"
+    },
+    {
+      "key": "51c21",
+      "songName": "[One Saber] gladde paling - nieuwe tune",
+      "hash": "533d8e0546f2dc25076e2d7b506c6a0f446c6a8f",
+      "levelid": "custom_level_533d8e0546f2dc25076e2d7b506c6a0f446c6a8f"
+    },
+    {
+      "key": "51c1f",
+      "songName": "DPBIMB",
+      "hash": "bdf366cadf9f5e343c731dee53d9ca2adeefac97",
+      "levelid": "custom_level_bdf366cadf9f5e343c731dee53d9ca2adeefac97"
+    },
+    {
+      "key": "51c1c",
+      "songName": "Bongo Cat - NO BATIDÃO",
+      "hash": "3f3f53bfd4943c0dbf412a5599f4032c980a761e",
+      "levelid": "custom_level_3f3f53bfd4943c0dbf412a5599f4032c980a761e"
+    },
+    {
+      "key": "51c1a",
+      "songName": "Evacuate The Moshpit",
+      "hash": "04dc93c031dcce473736a993a13e2a12256c0c89",
+      "levelid": "custom_level_04dc93c031dcce473736a993a13e2a12256c0c89"
+    },
+    {
+      "key": "51c19",
+      "songName": "its time  ft low",
+      "hash": "e40deda590c7fe714dfcd4509203ce5b755f0477",
+      "levelid": "custom_level_e40deda590c7fe714dfcd4509203ce5b755f0477"
+    },
+    {
+      "key": "51c0f",
+      "songName": "Busy Town - Remzcore",
+      "hash": "4f0397ae26792b23179f99585407a3f095bd84dc",
+      "levelid": "custom_level_4f0397ae26792b23179f99585407a3f095bd84dc"
+    },
+    {
+      "key": "51c0d",
+      "songName": "DOUBLE LIFE",
+      "hash": "7306de27347d59968234e0a5c13ccd645e94bc6d",
+      "levelid": "custom_level_7306de27347d59968234e0a5c13ccd645e94bc6d"
+    },
+    {
+      "key": "51c0b",
+      "songName": "Too Big To Fail - The Glass Pyramids [Hi-Fi Rush OST]",
+      "hash": "0cbb6d6cedd847abfae8be9f380d738584c34b97",
+      "levelid": "custom_level_0cbb6d6cedd847abfae8be9f380d738584c34b97"
+    },
+    {
+      "key": "51c0c",
+      "songName": "Keygen Church - UltraChurch (ULTRAKILL Original Game Soundtrack)",
+      "hash": "a07dd879023c5fadcb85681922d1b97cfde27c22",
+      "levelid": "custom_level_a07dd879023c5fadcb85681922d1b97cfde27c22"
+    },
+    {
+      "key": "51bc7",
+      "songName": "Daniel Pemberton - A Moment",
+      "hash": "0abea44e41539f778dabaefdf7f0ada35e17e4a4",
+      "levelid": "custom_level_0abea44e41539f778dabaefdf7f0ada35e17e4a4"
+    },
+    {
+      "key": "51c04",
+      "songName": "eyes cut deeper",
+      "hash": "f80106a8c939dd30329dad65681575d48aaa8439",
+      "levelid": "custom_level_f80106a8c939dd30329dad65681575d48aaa8439"
+    },
+    {
+      "key": "51bf9",
+      "songName": "subtronics - nitrous mafia",
+      "hash": "2710cd9f5ae711685af64e090d8d5146f56a0c92",
+      "levelid": "custom_level_2710cd9f5ae711685af64e090d8d5146f56a0c92"
     }
   ],
   "image": ""
