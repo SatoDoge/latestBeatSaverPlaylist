@@ -1,286 +1,274 @@
 {
-  "playlistTitle": "2026-06-04T15:18:48.258Z~2026-06-05T15:18:48.258Z",
+  "playlistTitle": "2026-06-05T15:18:48.185Z~2026-06-06T15:18:48.185Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-06-04T15:18:48.258Z and 2026-06-05T15:18:48.258Z",
+  "discripstion": "Maps published between 2026-06-05T15:18:48.185Z and 2026-06-06T15:18:48.185Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "51d58",
-      "songName": "HAGISOPH - Gensoukyou Saisokuchu",
-      "hash": "0d889fe7edc8e1f06e9070e5951807299a29edab",
-      "levelid": "custom_level_0d889fe7edc8e1f06e9070e5951807299a29edab"
+      "key": "51dad",
+      "songName": "Good Kid - Tornado",
+      "hash": "e3b1241a8dc674f7b7e233b33c70ce6848ea1940",
+      "levelid": "custom_level_e3b1241a8dc674f7b7e233b33c70ce6848ea1940"
     },
     {
-      "key": "51d57",
-      "songName": "Good For You X One Of The Girls",
-      "hash": "b2c2e06716d4d2530a24d5c6da54bc7efccb6983",
-      "levelid": "custom_level_b2c2e06716d4d2530a24d5c6da54bc7efccb6983"
+      "key": "51dab",
+      "songName": "hook line n sinker griffinjoz",
+      "hash": "1cae7934c6059de7660cc7d5988ce994da840c48",
+      "levelid": "custom_level_1cae7934c6059de7660cc7d5988ce994da840c48"
     },
     {
-      "key": "51d51",
-      "songName": "Quree - One Forgotten Night (ADOFAI)",
-      "hash": "a8dc57c62b9f97676527d8b61043579d5c0f2afe",
-      "levelid": "custom_level_a8dc57c62b9f97676527d8b61043579d5c0f2afe"
+      "key": "51daa",
+      "songName": "Goodbyes",
+      "hash": "710d3f6432d70ca79e932fee30749b03ed61437d",
+      "levelid": "custom_level_710d3f6432d70ca79e932fee30749b03ed61437d"
     },
     {
-      "key": "51d49",
-      "songName": "dai - You-Destructive (yours ver)",
-      "hash": "790f421b4575a75a65d0ec9a3c517f8f8899507f",
-      "levelid": "custom_level_790f421b4575a75a65d0ec9a3c517f8f8899507f"
+      "key": "51da9",
+      "songName": "【V3 MAP】九色万相生（jiu se wan xiang sheng/Chromatic Beings Everbright）- 群星（various artists）",
+      "hash": "aff485498e1476a461f9f39fa46eb90e288d1c00",
+      "levelid": "custom_level_aff485498e1476a461f9f39fa46eb90e288d1c00"
     },
     {
-      "key": "51d47",
-      "songName": "Coolkid's broken mic",
-      "hash": "f053e2876127f7e9aec2d085af31d2d0ec61b9f6",
-      "levelid": "custom_level_f053e2876127f7e9aec2d085af31d2d0ec61b9f6"
+      "key": "51da8",
+      "songName": "Cougar MacDowall - BEST BOY YARNABY (Yarnaby Theme Song)",
+      "hash": "4e57bdf3cbf7e9027e72e70b360559dae1087f5e",
+      "levelid": "custom_level_4e57bdf3cbf7e9027e72e70b360559dae1087f5e"
     },
     {
-      "key": "51d45",
-      "songName": "ESCAPE",
-      "hash": "c5381a61a3219154792834d659a3b6c8eb63dcd8",
-      "levelid": "custom_level_c5381a61a3219154792834d659a3b6c8eb63dcd8"
+      "key": "51da7",
+      "songName": "DOT96 - MAKE IT FUNKY NOW",
+      "hash": "8faa5e37ff5752243c65507e7b808f6f0838610e",
+      "levelid": "custom_level_8faa5e37ff5752243c65507e7b808f6f0838610e"
     },
     {
-      "key": "51d43",
-      "songName": "Sessonline",
-      "hash": "d8473cd3e0bef3000ff15751fd7e884d169c21e7",
-      "levelid": "custom_level_d8473cd3e0bef3000ff15751fd7e884d169c21e7"
+      "key": "51da6",
+      "songName": "MONTAGEM HIKARI",
+      "hash": "fe9f7b97a5e067ddb81d09b868bace198e9ed5e9",
+      "levelid": "custom_level_fe9f7b97a5e067ddb81d09b868bace198e9ed5e9"
     },
     {
-      "key": "51d41",
-      "songName": "鸳鸯戏-Yuanyang Xi",
-      "hash": "705e1c3ad8617ff6ff6a37bf69727b07099ffc5c",
-      "levelid": "custom_level_705e1c3ad8617ff6ff6a37bf69727b07099ffc5c"
+      "key": "51da4",
+      "songName": "It's me - ILLIT",
+      "hash": "81fe7c7b1fe1d469fb22f348388379e2ca04d035",
+      "levelid": "custom_level_81fe7c7b1fe1d469fb22f348388379e2ca04d035"
     },
     {
-      "key": "51b2f",
-      "songName": "井之華六花（CV.瀨戶桃子）- 夜凪",
-      "hash": "5bfb5d092650de22962e79172f6e1b4e0a9dabd3",
-      "levelid": "custom_level_5bfb5d092650de22962e79172f6e1b4e0a9dabd3"
+      "key": "51d46",
+      "songName": "Mili - The Witch's Breath (Save Ver.)",
+      "hash": "171a90262e7e663e3f18718e5c2ecb8c23ebdff1",
+      "levelid": "custom_level_171a90262e7e663e3f18718e5c2ecb8c23ebdff1"
     },
     {
-      "key": "51d3e",
-      "songName": "七転八起☆至上主義! (ハヤテのごとく! OP2)",
-      "hash": "867f56b3822325bfd450e9d680337499871dd7f3",
-      "levelid": "custom_level_867f56b3822325bfd450e9d680337499871dd7f3"
+      "key": "51d9e",
+      "songName": "Ima Kono Mune ni Tagiru no ha (Short)",
+      "hash": "519568e2d580804da94a24976a6705ff91b915bd",
+      "levelid": "custom_level_519568e2d580804da94a24976a6705ff91b915bd"
     },
     {
-      "key": "51d3d",
-      "songName": "一顆狼星 - 難解",
-      "hash": "6f687b78d87a55ddea00ce1acd998e6f7253d443",
-      "levelid": "custom_level_6f687b78d87a55ddea00ce1acd998e6f7253d443"
+      "key": "51d9d",
+      "songName": "Chasse (ハヤテのごとく! ED3)",
+      "hash": "b81e0e09924fd195c54e02f881302187d81a2ca1",
+      "levelid": "custom_level_b81e0e09924fd195c54e02f881302187d81a2ca1"
     },
     {
-      "key": "51d3c",
-      "songName": "The DOOM Hunter",
-      "hash": "f16f8795b53cc181cc0d72ca82baeb19eaff840b",
-      "levelid": "custom_level_f16f8795b53cc181cc0d72ca82baeb19eaff840b"
+      "key": "51d9c",
+      "songName": "always by myself",
+      "hash": "f12dc8f08d156546c62963017017e55b8d29ed75",
+      "levelid": "custom_level_f12dc8f08d156546c62963017017e55b8d29ed75"
     },
     {
-      "key": "51d3b",
-      "songName": "Sapporo & Hakodate Graded race",
-      "hash": "4505f7b8bd4c84019deb50aa6a56b551a30a2052",
-      "levelid": "custom_level_4505f7b8bd4c84019deb50aa6a56b551a30a2052"
+      "key": "51d9b",
+      "songName": "HOYO-MiX, Dimeng Yuan - Nocturnal Illumination (from \"Genshin Impact\")",
+      "hash": "3204a8b43539126d019b5a0fdae629499193e510",
+      "levelid": "custom_level_3204a8b43539126d019b5a0fdae629499193e510"
     },
     {
-      "key": "51d3a",
-      "songName": "Poptarts Ad 1",
-      "hash": "f08442ce7ade1693ee12bbf8f3baa143f6737692",
-      "levelid": "custom_level_f08442ce7ade1693ee12bbf8f3baa143f6737692"
+      "key": "51d9a",
+      "songName": "Free Bird",
+      "hash": "063f4315354326e47dfd09779c198d84d6c5fe4f",
+      "levelid": "custom_level_063f4315354326e47dfd09779c198d84d6c5fe4f"
     },
     {
-      "key": "51d36",
-      "songName": "Nine Circles",
-      "hash": "000c2e3a6f1a1c110933256fa020a2c473671583",
-      "levelid": "custom_level_000c2e3a6f1a1c110933256fa020a2c473671583"
+      "key": "51d98",
+      "songName": "unhappy (slowed, pitch shifted)",
+      "hash": "d72edea87d5f6a7d4367b445ac605b8aed1779a6",
+      "levelid": "custom_level_d72edea87d5f6a7d4367b445ac605b8aed1779a6"
     },
     {
-      "key": "51d34",
-      "songName": "Tell Me",
-      "hash": "f7fc28937c6979d316ba1964361c41c048f667c9",
-      "levelid": "custom_level_f7fc28937c6979d316ba1964361c41c048f667c9"
+      "key": "51d97",
+      "songName": "SAMBA DE AMIGO",
+      "hash": "e74b30ca6b1c3a219ffca8295fe52d2ed6f63f0d",
+      "levelid": "custom_level_e74b30ca6b1c3a219ffca8295fe52d2ed6f63f0d"
     },
     {
-      "key": "51d32",
-      "songName": "IM ACTUALLY KINDA FAMOUS",
-      "hash": "0936896d60a2e09850f81dee2780bc878e50a9dd",
-      "levelid": "custom_level_0936896d60a2e09850f81dee2780bc878e50a9dd"
+      "key": "51d95",
+      "songName": "[V4] Yonkagor - Circus Hop",
+      "hash": "cd82c9db2768273e1ba656bd5e06da958e9fb7d8",
+      "levelid": "custom_level_cd82c9db2768273e1ba656bd5e06da958e9fb7d8"
     },
     {
-      "key": "51d2f",
-      "songName": "J.Stebbins & Sugano Music - SANDS OF TIME (2020 version)",
-      "hash": "9940edb4a5ef36895c4b797e229c8b38307139a1",
-      "levelid": "custom_level_9940edb4a5ef36895c4b797e229c8b38307139a1"
+      "key": "51d94",
+      "songName": "[Feetsaber]妄想感傷代償連盟",
+      "hash": "c52c28a774ad5cd4f0ff89f15549b265b86b9a77",
+      "levelid": "custom_level_c52c28a774ad5cd4f0ff89f15549b265b86b9a77"
     },
     {
-      "key": "51d2d",
-      "songName": "Explorers of the Internet - bassline",
-      "hash": "bbd8031b9d4bfee9589242f62aaea6e4f623feac",
-      "levelid": "custom_level_bbd8031b9d4bfee9589242f62aaea6e4f623feac"
+      "key": "51d92",
+      "songName": "I Can't Wait To Get There - The Weeknd",
+      "hash": "666e79d06ff400dc7b32e0cb21c7afc0e88fd37a",
+      "levelid": "custom_level_666e79d06ff400dc7b32e0cb21c7afc0e88fd37a"
     },
     {
-      "key": "51d2b",
-      "songName": "Totally normal bf asmr",
-      "hash": "084d53a28284462ad9c437055f5edfd4c3abbd78",
-      "levelid": "custom_level_084d53a28284462ad9c437055f5edfd4c3abbd78"
+      "key": "51d91",
+      "songName": "Wet",
+      "hash": "df8c1cdc24cf9e6b7839501726fcfb234f114777",
+      "levelid": "custom_level_df8c1cdc24cf9e6b7839501726fcfb234f114777"
     },
     {
-      "key": "51d28",
-      "songName": "TheFatRat - MAYDAY (feat. Laura Brehm)",
-      "hash": "daf2368aa1164267ff4282b9699ebd66b215dc28",
-      "levelid": "custom_level_daf2368aa1164267ff4282b9699ebd66b215dc28"
+      "key": "51d90",
+      "songName": "Marilyn Manson - Sweet Dreams (Are Made Of This)",
+      "hash": "cb075c98216004f6b408c21645a7556cc9808c41",
+      "levelid": "custom_level_cb075c98216004f6b408c21645a7556cc9808c41"
     },
     {
-      "key": "51d22",
-      "songName": "Bang Bang Bang",
-      "hash": "91d00d1ba0bd92e92ddb6d16ec9eff2ab16c3891",
-      "levelid": "custom_level_91d00d1ba0bd92e92ddb6d16ec9eff2ab16c3891"
+      "key": "51d8f",
+      "songName": "unpledged alliance - crxw",
+      "hash": "b61a20ffa4b4f644b50d25a06594335ac2777642",
+      "levelid": "custom_level_b61a20ffa4b4f644b50d25a06594335ac2777642"
     },
     {
-      "key": "51d21",
-      "songName": "Mars Simula",
-      "hash": "f8af37d388fd21cef8f13f1cad3d780269844d7e",
-      "levelid": "custom_level_f8af37d388fd21cef8f13f1cad3d780269844d7e"
+      "key": "51d8e",
+      "songName": "medicine - lexycat",
+      "hash": "9934519363edd78ab89df4f0eb62813ba5651c72",
+      "levelid": "custom_level_9934519363edd78ab89df4f0eb62813ba5651c72"
     },
     {
-      "key": "51d20",
-      "songName": "Meant To Be",
-      "hash": "21d7750a1538ab885dddcc795f5f3b497fe99c79",
-      "levelid": "custom_level_21d7750a1538ab885dddcc795f5f3b497fe99c79"
+      "key": "51d8d",
+      "songName": "I.O.I - SPF 100+ (Summer Pop Fantasy)",
+      "hash": "2ab3800bf16c4d605959a4843a97e83be191ca9e",
+      "levelid": "custom_level_2ab3800bf16c4d605959a4843a97e83be191ca9e"
     },
     {
-      "key": "51d1f",
-      "songName": "Braces",
-      "hash": "0fdc0a5e07581816169a34ae519852780a99891e",
-      "levelid": "custom_level_0fdc0a5e07581816169a34ae519852780a99891e"
+      "key": "51d8c",
+      "songName": "cornandbeans - Pimp Slap",
+      "hash": "1893d5e483b8679eba24505dfeac222b3d15fca7",
+      "levelid": "custom_level_1893d5e483b8679eba24505dfeac222b3d15fca7"
     },
     {
-      "key": "51d1c",
-      "songName": "Loser",
-      "hash": "1807d3320b6bb4f7d3844694b240b1a5b5478919",
-      "levelid": "custom_level_1807d3320b6bb4f7d3844694b240b1a5b5478919"
+      "key": "51d8b",
+      "songName": "Ballistic - Status: Expunged",
+      "hash": "8f4cfb5a0c35b18d64277a92bde16063149def49",
+      "levelid": "custom_level_8f4cfb5a0c35b18d64277a92bde16063149def49"
     },
     {
-      "key": "51d1a",
-      "songName": "I GOT THE DRAKE KEY",
-      "hash": "1f56d8aeb8d2ac3d34d16ea49e3e4f42e020e776",
-      "levelid": "custom_level_1f56d8aeb8d2ac3d34d16ea49e3e4f42e020e776"
+      "key": "51d89",
+      "songName": "As I Am",
+      "hash": "4e4311a8e9015efaee747d780080d7294dd453a0",
+      "levelid": "custom_level_4e4311a8e9015efaee747d780080d7294dd453a0"
     },
     {
-      "key": "51d17",
-      "songName": "Occisor",
-      "hash": "79abfebf4ff9048243aeefac493c1e3c875666da",
-      "levelid": "custom_level_79abfebf4ff9048243aeefac493c1e3c875666da"
+      "key": "51d87",
+      "songName": "Teminite - Ghost Ship",
+      "hash": "100a3a03c96969e49b7db68fc0eb4a5ee29bcfc0",
+      "levelid": "custom_level_100a3a03c96969e49b7db68fc0eb4a5ee29bcfc0"
     },
     {
-      "key": "51cd7",
-      "songName": "Angel Eyes  - Jared Benjamin",
-      "hash": "25e4cf8cf7ef5e1802dea18e71fcbb36ee0c115c",
-      "levelid": "custom_level_25e4cf8cf7ef5e1802dea18e71fcbb36ee0c115c"
+      "key": "51d7e",
+      "songName": "The Rumbling",
+      "hash": "9a394a1a5d60e453a6bb650c1f1005e074a79b4f",
+      "levelid": "custom_level_9a394a1a5d60e453a6bb650c1f1005e074a79b4f"
     },
     {
-      "key": "51d14",
-      "songName": "Massive New Krew - Kill 'Em All",
-      "hash": "5eee8e5bdd5930f6c9f47a224ec5f884dbcbf40d",
-      "levelid": "custom_level_5eee8e5bdd5930f6c9f47a224ec5f884dbcbf40d"
+      "key": "51d7d",
+      "songName": "SEGFAULT",
+      "hash": "e165fa5f1595f5da9d201991442da6ea4b7397f7",
+      "levelid": "custom_level_e165fa5f1595f5da9d201991442da6ea4b7397f7"
     },
     {
-      "key": "51d13",
-      "songName": "Children Of The City",
-      "hash": "5f40082e95277ae6a053dd48a29470d31f3d0c4c",
-      "levelid": "custom_level_5f40082e95277ae6a053dd48a29470d31f3d0c4c"
+      "key": "51d7c",
+      "songName": "Margaritaville",
+      "hash": "da756bb2d81af52ba7d3f48651606310e848c6b1",
+      "levelid": "custom_level_da756bb2d81af52ba7d3f48651606310e848c6b1"
     },
     {
-      "key": "51d11",
-      "songName": "Needles and Pins",
-      "hash": "4e93a33f1c458f18dc2957733a99e108a01d276c",
-      "levelid": "custom_level_4e93a33f1c458f18dc2957733a99e108a01d276c"
+      "key": "51d7b",
+      "songName": "Jigsaw Falling Into Place",
+      "hash": "efd2a8190cc5958363587a6200a9236f002fec5c",
+      "levelid": "custom_level_efd2a8190cc5958363587a6200a9236f002fec5c"
     },
     {
-      "key": "51d0c",
-      "songName": "ALL THAT REMAINS",
-      "hash": "961ad6eed18f135270e7ea1154fef22fc9c33d51",
-      "levelid": "custom_level_961ad6eed18f135270e7ea1154fef22fc9c33d51"
+      "key": "51d7a",
+      "songName": "Weird Fishes/Arpeggi",
+      "hash": "d72ea3b987ea2a9894e13de11e73a41c441ed459",
+      "levelid": "custom_level_d72ea3b987ea2a9894e13de11e73a41c441ed459"
     },
     {
-      "key": "51d0b",
-      "songName": " Jeff Williams feat. Casey Lee Williams - Time to Say Goodbye (TV Size)",
-      "hash": "603df6e440b48773b8a43525367d0889db0d7a1d",
-      "levelid": "custom_level_603df6e440b48773b8a43525367d0889db0d7a1d"
+      "key": "51d79",
+      "songName": "The Longest Weekend",
+      "hash": "8740b1e52869e83be505f950e5f5f1c5bf662b1c",
+      "levelid": "custom_level_8740b1e52869e83be505f950e5f5f1c5bf662b1c"
     },
     {
-      "key": "51d0a",
-      "songName": "pluffaduff - i hate this",
-      "hash": "1bf1f978bd4f7d6407cb80239e7809cb2aea0f53",
-      "levelid": "custom_level_1bf1f978bd4f7d6407cb80239e7809cb2aea0f53"
+      "key": "51d78",
+      "songName": "ellis - promises",
+      "hash": "dde543fac4a05cf81b1c97367874751517bcb91f",
+      "levelid": "custom_level_dde543fac4a05cf81b1c97367874751517bcb91f"
     },
     {
-      "key": "51d06",
-      "songName": "Jason Derulo - Want to Want Me",
-      "hash": "00ba71ea69fbee1cbb8327b796914373f6e89d8b",
-      "levelid": "custom_level_00ba71ea69fbee1cbb8327b796914373f6e89d8b"
+      "key": "51d77",
+      "songName": "HOUDINI",
+      "hash": "17ce0840925be228adc40ed6bb2be67e041ac43e",
+      "levelid": "custom_level_17ce0840925be228adc40ed6bb2be67e041ac43e"
     },
     {
-      "key": "51cfd",
-      "songName": "ITZY - SWIPE",
-      "hash": "6585a2453a04629f4a4b07defd5741944aba90c8",
-      "levelid": "custom_level_6585a2453a04629f4a4b07defd5741944aba90c8"
+      "key": "51d6f",
+      "songName": "D-D-Dice - World's end BLACKBOX",
+      "hash": "1683e04b5bf71f984b673dd15d7d7b5bcf2e8277",
+      "levelid": "custom_level_1683e04b5bf71f984b673dd15d7d7b5bcf2e8277"
     },
     {
-      "key": "51d01",
-      "songName": "Mirror Demo (nerfed)",
-      "hash": "0239e3c85a47a6702c5457a4aaf6d613cbd4e914",
-      "levelid": "custom_level_0239e3c85a47a6702c5457a4aaf6d613cbd4e914"
+      "key": "51d6e",
+      "songName": "Sayonara Goodbye(サヨナラグッバイ)",
+      "hash": "cd536e57db4b0df7bfa510c15210d7abc92fbf0a",
+      "levelid": "custom_level_cd536e57db4b0df7bfa510c15210d7abc92fbf0a"
     },
     {
-      "key": "33fc1",
-      "songName": "Vengaboys & Rick Astley - Boom Boom Boom Boom + Never Gonna Give You Up",
-      "hash": "45d19467d4fcd94cc9d261f2934fe86cfd843ca3",
-      "levelid": "custom_level_45d19467d4fcd94cc9d261f2934fe86cfd843ca3"
+      "key": "51d69",
+      "songName": "Hey Brother_ShoulderROM",
+      "hash": "679f128e8986a25b512b002df61a9a17b68869c2",
+      "levelid": "custom_level_679f128e8986a25b512b002df61a9a17b68869c2"
     },
     {
-      "key": "51cef",
-      "songName": "Scribble Tickle Bop - Swapful",
-      "hash": "f6b3baeae69f58dc7128cfbdc52c9a303f9599e8",
-      "levelid": "custom_level_f6b3baeae69f58dc7128cfbdc52c9a303f9599e8"
+      "key": "51d68",
+      "songName": "Night Dancer",
+      "hash": "6879d440f1d6f2f228795caa0009ca7218441fe7",
+      "levelid": "custom_level_6879d440f1d6f2f228795caa0009ca7218441fe7"
     },
     {
-      "key": "51cea",
-      "songName": "Lennon Stella - Summer Feelings (feat. Charlie Puth)",
-      "hash": "c77aafb752948f80cf72a0cbbc848f48ae5d3ae9",
-      "levelid": "custom_level_c77aafb752948f80cf72a0cbbc848f48ae5d3ae9"
+      "key": "51d67",
+      "songName": "Jet set!!!",
+      "hash": "12a58caa63312ca67d8675742f82f21903dabe32",
+      "levelid": "custom_level_12a58caa63312ca67d8675742f82f21903dabe32"
     },
     {
-      "key": "51ce6",
-      "songName": "UPSIDE DOWN (A Hazbin Hotel Song) - Black Gryph0n & Baasik",
-      "hash": "0b6b0b3f73a07f70fd017fa3740f37cfb271fa08",
-      "levelid": "custom_level_0b6b0b3f73a07f70fd017fa3740f37cfb271fa08"
+      "key": "51d63",
+      "songName": "Final Countdown_WristROM",
+      "hash": "411c85ba9a1434d0880af7cf512b7a2a78df9e11",
+      "levelid": "custom_level_411c85ba9a1434d0880af7cf512b7a2a78df9e11"
     },
     {
-      "key": "51ce3",
-      "songName": "DADADADADADADADADADA",
-      "hash": "339c1f4f39a41fa34a671f4598862efc7e008220",
-      "levelid": "custom_level_339c1f4f39a41fa34a671f4598862efc7e008220"
+      "key": "51d61",
+      "songName": "Roller Coaster",
+      "hash": "64fe65fd5783e5b3cf9f21b2b947ce6a812c584f",
+      "levelid": "custom_level_64fe65fd5783e5b3cf9f21b2b947ce6a812c584f"
     },
     {
-      "key": "51ce1",
-      "songName": "From Under Cover (Caught Up in a Love Song) - Foreground Eclipse",
-      "hash": "e2e730fb16bd613d26baa123e8def9f7af6b6edf",
-      "levelid": "custom_level_e2e730fb16bd613d26baa123e8def9f7af6b6edf"
-    },
-    {
-      "key": "51cda",
-      "songName": "Dans la fusée - ft. FUZE III",
-      "hash": "8ff1d4dcc21ef557b4078fb604adb0f1003f4d47",
-      "levelid": "custom_level_8ff1d4dcc21ef557b4078fb604adb0f1003f4d47"
-    },
-    {
-      "key": "51cd5",
-      "songName": "Et alors ? ",
-      "hash": "88ca59e9245410e3b10bac05409f0bd96eb34cad",
-      "levelid": "custom_level_88ca59e9245410e3b10bac05409f0bd96eb34cad"
+      "key": "51d5b",
+      "songName": "Unhappy",
+      "hash": "3baa312eb7b5227d8f57a4eab338814579454df3",
+      "levelid": "custom_level_3baa312eb7b5227d8f57a4eab338814579454df3"
     }
   ],
   "image": ""
