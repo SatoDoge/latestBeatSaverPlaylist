@@ -1,274 +1,208 @@
 {
-  "playlistTitle": "2026-06-09T15:18:48.128Z~2026-06-10T15:18:48.128Z",
+  "playlistTitle": "2026-06-10T15:18:48.479Z~2026-06-11T15:18:48.479Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-06-09T15:18:48.128Z and 2026-06-10T15:18:48.128Z",
+  "discripstion": "Maps published between 2026-06-10T15:18:48.479Z and 2026-06-11T15:18:48.479Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "51f21",
-      "songName": "Shut Up and Dance_MidlineCrossing",
-      "hash": "c06ae1e869f4e1cae373f2a6a0aaf7d80ea650b9",
-      "levelid": "custom_level_c06ae1e869f4e1cae373f2a6a0aaf7d80ea650b9"
+      "key": "51f70",
+      "songName": "Can't Stop the Feeling_ShoulderROM",
+      "hash": "d7f75108f1a9f34052eca47a741619c68a643a70",
+      "levelid": "custom_level_d7f75108f1a9f34052eca47a741619c68a643a70"
     },
     {
-      "key": "51f1b",
-      "songName": "New Divide_ShoulderROM",
-      "hash": "4f3b299a04a80a2900be033d7ec48414e38b426c",
-      "levelid": "custom_level_4f3b299a04a80a2900be033d7ec48414e38b426c"
+      "key": "51f6e",
+      "songName": "Gotta Feeling_PathLength",
+      "hash": "342fcea73766d4b7568efe3c160c836d5bf30f07",
+      "levelid": "custom_level_342fcea73766d4b7568efe3c160c836d5bf30f07"
     },
     {
-      "key": "51f19",
-      "songName": "Afterlife (from the Netflix Series \"Devil May Cry\") - Evanescence",
-      "hash": "6eb60823a23a5d382cb59251caf42b1210a8d931",
-      "levelid": "custom_level_6eb60823a23a5d382cb59251caf42b1210a8d931"
+      "key": "51f6b",
+      "songName": " It's me - ILLIT (LIGHT V2)",
+      "hash": "a690e64807e76cc48aa84eaacfbdb583b3aa206c",
+      "levelid": "custom_level_a690e64807e76cc48aa84eaacfbdb583b3aa206c"
     },
     {
-      "key": "51f16",
-      "songName": "Pets Tseng - The Same Moonlight (乘風2026現場 - 曾沛慈)",
-      "hash": "23f4e411fc75b46c037564cda4bcb61247ca8cee",
-      "levelid": "custom_level_23f4e411fc75b46c037564cda4bcb61247ca8cee"
+      "key": "51f6a",
+      "songName": "[V3 Lights]Srezcat - U-0",
+      "hash": "45e0c564e15812c4783a5fe0cee217c94f6c43e0",
+      "levelid": "custom_level_45e0c564e15812c4783a5fe0cee217c94f6c43e0"
     },
     {
-      "key": "51f14",
-      "songName": "XLOV - Masterpiece",
-      "hash": "1d29b771f971e874ec20668485a8d961c4ab137b",
-      "levelid": "custom_level_1d29b771f971e874ec20668485a8d961c4ab137b"
+      "key": "51f68",
+      "songName": "SAKASAMA",
+      "hash": "e501eefb9027d784a096186e4aae21f48a01b18c",
+      "levelid": "custom_level_e501eefb9027d784a096186e4aae21f48a01b18c"
     },
     {
-      "key": "51f0f",
-      "songName": "Chase the world (アクセル・ワールド OP)",
-      "hash": "00b62eaceaa7a0720384d153b4d2d06616b6cb68",
-      "levelid": "custom_level_00b62eaceaa7a0720384d153b4d2d06616b6cb68"
+      "key": "51f69",
+      "songName": "TOBUTOKI",
+      "hash": "131c9e5b40ac8275244dfc2c87b18e5a2dcf0455",
+      "levelid": "custom_level_131c9e5b40ac8275244dfc2c87b18e5a2dcf0455"
     },
     {
-      "key": "51f08",
-      "songName": "Rainbow Road - Nanobii (Monstercat)",
-      "hash": "b083d2e4db7ea579f8fed6f7b12ef0d4c477e214",
-      "levelid": "custom_level_b083d2e4db7ea579f8fed6f7b12ef0d4c477e214"
+      "key": "51f66",
+      "songName": "L'uomo cannone",
+      "hash": "b9c5c0ade665ebdcd4daf75f728cd1aa5733aa4b",
+      "levelid": "custom_level_b9c5c0ade665ebdcd4daf75f728cd1aa5733aa4b"
     },
     {
-      "key": "51e63",
-      "songName": "(Chronima) - Feel (Cut Ver.) - Hitsujibungaku",
-      "hash": "ed7e7280b823e1e73e39aaf81e1ba039be17b84a",
-      "levelid": "custom_level_ed7e7280b823e1e73e39aaf81e1ba039be17b84a"
+      "key": "51f62",
+      "songName": " Spirit Inspiration [Zetsuen no Tempest Opening] - Nothings Carved In Stone",
+      "hash": "0ced56377115c2dc35bdd78ecf1a57ef636509fc",
+      "levelid": "custom_level_0ced56377115c2dc35bdd78ecf1a57ef636509fc"
     },
     {
-      "key": "51f06",
-      "songName": "Darkside - Saranrat",
-      "hash": "2aa33150f7fc1ae2f0d0e2358de80c4e1a4d6735",
-      "levelid": "custom_level_2aa33150f7fc1ae2f0d0e2358de80c4e1a4d6735"
+      "key": "51f57",
+      "songName": "→unfinished→ (アクセル・ワールド ED)",
+      "hash": "c7749729662ed86051dd35cf9ba1eb99edd6a1dd",
+      "levelid": "custom_level_c7749729662ed86051dd35cf9ba1eb99edd6a1dd"
     },
     {
-      "key": "51f04",
-      "songName": "DigBar - NFL",
-      "hash": "41f997bc9cef79bf1b93134ee28311832a8242ef",
-      "levelid": "custom_level_41f997bc9cef79bf1b93134ee28311832a8242ef"
+      "key": "51f56",
+      "songName": "Vanilla - Gackt",
+      "hash": "1672b5a22b44aad9a29de7f865dcba6371898cc1",
+      "levelid": "custom_level_1672b5a22b44aad9a29de7f865dcba6371898cc1"
     },
     {
-      "key": "51f01",
-      "songName": "pupsies - FEW SMALL PROBLEMS (feat. loony)",
-      "hash": "951d6abf32cebde01585cb08a19397f5ceb4ad3f",
-      "levelid": "custom_level_951d6abf32cebde01585cb08a19397f5ceb4ad3f"
+      "key": "51f53",
+      "songName": "p",
+      "hash": "04ebfd386097277e25b3d17462ced71595f293fe",
+      "levelid": "custom_level_04ebfd386097277e25b3d17462ced71595f293fe"
     },
     {
-      "key": "51f00",
-      "songName": "i have no friends (slowed)",
-      "hash": "f793a116a67036cff38a4ba5c334ae64bd2cf6ff",
-      "levelid": "custom_level_f793a116a67036cff38a4ba5c334ae64bd2cf6ff"
+      "key": "51f52",
+      "songName": "DigBar, XmegaLxl - JET SET FREESTYLE",
+      "hash": "00a895fe6626d9490162d6eb03bb7417d7e1baa1",
+      "levelid": "custom_level_00a895fe6626d9490162d6eb03bb7417d7e1baa1"
     },
     {
-      "key": "51eff",
-      "songName": "RAHHHH",
-      "hash": "e67d1fa04ece029b679845f2bdd6b6f0ca46ecc2",
-      "levelid": "custom_level_e67d1fa04ece029b679845f2bdd6b6f0ca46ecc2"
+      "key": "51f51",
+      "songName": "C418 - Concrete halls",
+      "hash": "e4b7021cec3b668231f26bdfcc023685e38d8242",
+      "levelid": "custom_level_e4b7021cec3b668231f26bdfcc023685e38d8242"
     },
     {
-      "key": "51efe",
-      "songName": "Parkineos & Amygdala - TEKNOCITY  Ft. Errä",
-      "hash": "026be8b1aa5689ed03c7a6a8a1957073b4826159",
-      "levelid": "custom_level_026be8b1aa5689ed03c7a6a8a1957073b4826159"
+      "key": "51f46",
+      "songName": "EFFEKT, HYPER DEMON, and Mr Demon - Deja Vu",
+      "hash": "a8d8872c5e02b48876946edd88eca58c921d74c7",
+      "levelid": "custom_level_a8d8872c5e02b48876946edd88eca58c921d74c7"
     },
     {
-      "key": "51efd",
-      "songName": "Remzcore - Dynamite",
-      "hash": "4f647cbe31048b60ebacc375193ccad7095eab7e",
-      "levelid": "custom_level_4f647cbe31048b60ebacc375193ccad7095eab7e"
+      "key": "51f3f",
+      "songName": "[Feetsaber]ヒビカセ",
+      "hash": "17da524edb3e604e6fc0341e87df19b08e44ad26",
+      "levelid": "custom_level_17da524edb3e604e6fc0341e87df19b08e44ad26"
     },
     {
-      "key": "51ef9",
-      "songName": "[Chroma+] FoxTune - TASTE MY LOVE",
-      "hash": "93a932e852dc69fb0bd4192fce18dfd3b6285f96",
-      "levelid": "custom_level_93a932e852dc69fb0bd4192fce18dfd3b6285f96"
+      "key": "51f3d",
+      "songName": "Cross†Over (feat. LyuU) - HyuN",
+      "hash": "feea5f76371e082a9fe03f56626ef35eacf3e969",
+      "levelid": "custom_level_feea5f76371e082a9fe03f56626ef35eacf3e969"
     },
     {
-      "key": "51ef8",
-      "songName": "kid crashes out at a lego car expansion challenge",
-      "hash": "4ddc970406803fc4dbab8678a6a7998017c40465",
-      "levelid": "custom_level_4ddc970406803fc4dbab8678a6a7998017c40465"
+      "key": "45d32",
+      "songName": "Skrillex, HAWAII SLIM - SPITFIRE",
+      "hash": "0eb78c0c2efdf0eeb0c88ddbdf231da1daf34636",
+      "levelid": "custom_level_0eb78c0c2efdf0eeb0c88ddbdf231da1daf34636"
     },
     {
-      "key": "51ef7",
-      "songName": "(224) GUT GENUG",
-      "hash": "bcc04173d04c769e0410919b55f7c4e31378d70f",
-      "levelid": "custom_level_bcc04173d04c769e0410919b55f7c4e31378d70f"
+      "key": "51f22",
+      "songName": "Too Sweet_MidlineCrossing",
+      "hash": "d2319a9f248071eb72ba7dfd1b3c97c0ebcc6248",
+      "levelid": "custom_level_d2319a9f248071eb72ba7dfd1b3c97c0ebcc6248"
     },
     {
-      "key": "51ef4",
-      "songName": "Tiffany Day - PRETTY4U",
-      "hash": "5b81d5e058cd2f6e48b6e7893a02f09ede139e3a",
-      "levelid": "custom_level_5b81d5e058cd2f6e48b6e7893a02f09ede139e3a"
+      "key": "51f3b",
+      "songName": "be ur man",
+      "hash": "ec82ab0cb82d86196a5f8eebc0d227ceffdbad5a",
+      "levelid": "custom_level_ec82ab0cb82d86196a5f8eebc0d227ceffdbad5a"
     },
     {
-      "key": "51ef3",
-      "songName": "Jersey Alarm Club (#jerseyclub) - a.pathrose",
-      "hash": "275fe8749a45ef8f1107b61d3ea42c61dfc7460a",
-      "levelid": "custom_level_275fe8749a45ef8f1107b61d3ea42c61dfc7460a"
+      "key": "51f38",
+      "songName": "torr - rot",
+      "hash": "23a53284f6934f035d88212da020f71df563b017",
+      "levelid": "custom_level_23a53284f6934f035d88212da020f71df563b017"
     },
     {
-      "key": "51ef0",
-      "songName": "USAO - USAO ULTIMATE HYPER MEGA MIX",
-      "hash": "963bdd5c98ae0e9656ba591eaf0f651b737f0e26",
-      "levelid": "custom_level_963bdd5c98ae0e9656ba591eaf0f651b737f0e26"
+      "key": "51f1c",
+      "songName": "Love Runs Out_ShoulderROM",
+      "hash": "a3d3781b4ea79106bf1c6c55a93f6b5cacb90119",
+      "levelid": "custom_level_a3d3781b4ea79106bf1c6c55a93f6b5cacb90119"
     },
     {
-      "key": "51eef",
-      "songName": "Kaibunsyo　～怪文書（feat梓川）～　Yuri Kuriyama 栗山夕璃",
-      "hash": "15b74261627d375e7352220470483623438092c6",
-      "levelid": "custom_level_15b74261627d375e7352220470483623438092c6"
+      "key": "51f37",
+      "songName": "Du Bist Gut Genug",
+      "hash": "9367e44d77f4e411015a7181eba6aac4333c060e",
+      "levelid": "custom_level_9367e44d77f4e411015a7181eba6aac4333c060e"
     },
     {
-      "key": "51eee",
-      "songName": "Days Of Candy - Beach House",
-      "hash": "068fb3d90925c991f80263164b78d7c4892ce4a8",
-      "levelid": "custom_level_068fb3d90925c991f80263164b78d7c4892ce4a8"
+      "key": "51f36",
+      "songName": "Gears of Fate",
+      "hash": "26c80e09f225c958f10ff10a366dad66eab6f3eb",
+      "levelid": "custom_level_26c80e09f225c958f10ff10a366dad66eab6f3eb"
     },
     {
-      "key": "51eed",
-      "songName": "Minimal Agape　～ミニマルアガペー～　youまん",
-      "hash": "2ce292109593f4002854e2018728fa378ae455f4",
-      "levelid": "custom_level_2ce292109593f4002854e2018728fa378ae455f4"
+      "key": "51f35",
+      "songName": "close my eyes (sped up)",
+      "hash": "6b37a164fc74239f0599c008c7659b342c35b0ca",
+      "levelid": "custom_level_6b37a164fc74239f0599c008c7659b342c35b0ca"
     },
     {
-      "key": "51eeb",
-      "songName": "はやくにげなきゃ",
-      "hash": "2871d14addf69fffef3aaf7cbbbde55fa81b527c",
-      "levelid": "custom_level_2871d14addf69fffef3aaf7cbbbde55fa81b527c"
+      "key": "51f2c",
+      "songName": "Chance meeting#125 -KAF",
+      "hash": "4d56e647171e1b30b56c84037ccacef560075c32",
+      "levelid": "custom_level_4d56e647171e1b30b56c84037ccacef560075c32"
     },
     {
-      "key": "51ee8",
-      "songName": "bbno$ & Yung Gravy (BABY GRAVY) - swiper no swiping!",
-      "hash": "5f146c6526048b7561c2983e19211df1e08e8ae8",
-      "levelid": "custom_level_5f146c6526048b7561c2983e19211df1e08e8ae8"
+      "key": "51f34",
+      "songName": "Take Me (To The Moon)",
+      "hash": "cc3aca37af881a9ad41f0cbca307fb94587b523a",
+      "levelid": "custom_level_cc3aca37af881a9ad41f0cbca307fb94587b523a"
     },
     {
-      "key": "51ee7",
-      "songName": "whats the point (sped up)",
-      "hash": "80cf3e684dfe1ed12a65b1c5d8578c0ba723e4b7",
-      "levelid": "custom_level_80cf3e684dfe1ed12a65b1c5d8578c0ba723e4b7"
+      "key": "51f33",
+      "songName": "not enough",
+      "hash": "ac1b857444add238edfa1f95902b98aa18dbacd9",
+      "levelid": "custom_level_ac1b857444add238edfa1f95902b98aa18dbacd9"
     },
     {
-      "key": "51ee5",
-      "songName": "Cluck",
-      "hash": "fd68e1338e030015e903c0de249d3b2776b28df5",
-      "levelid": "custom_level_fd68e1338e030015e903c0de249d3b2776b28df5"
+      "key": "51f32",
+      "songName": "Gotta Qualify!",
+      "hash": "2be06031996db6ddf0562405e2ded36a29554809",
+      "levelid": "custom_level_2be06031996db6ddf0562405e2ded36a29554809"
     },
     {
-      "key": "51ee6",
-      "songName": "SEM SAÍDA - Nakama, Mc Staff",
-      "hash": "ff072fc862f0d12539c11c57a299e610822d8f74",
-      "levelid": "custom_level_ff072fc862f0d12539c11c57a299e610822d8f74"
+      "key": "51f31",
+      "songName": "Coming Back (feat. Chris Quinton) - WRLD & Solomon France",
+      "hash": "db6e068de415d66893e8acc3def2158716bec05f",
+      "levelid": "custom_level_db6e068de415d66893e8acc3def2158716bec05f"
     },
     {
-      "key": "51ee4",
-      "songName": "BURN IT DOWN",
-      "hash": "9099239b56b6901e98db510fb2217b1d01086d71",
-      "levelid": "custom_level_9099239b56b6901e98db510fb2217b1d01086d71"
+      "key": "51f30",
+      "songName": "KASAI HARCORES - Trinity Homerun",
+      "hash": "885524cd17f69323a789fd3080965f6c487298cc",
+      "levelid": "custom_level_885524cd17f69323a789fd3080965f6c487298cc"
     },
     {
-      "key": "51ee2",
-      "songName": "leaving me 2 die (sped up)",
-      "hash": "ce11dcbd0345304db1ae9723d462217bc83a0f0e",
-      "levelid": "custom_level_ce11dcbd0345304db1ae9723d462217bc83a0f0e"
+      "key": "51f2e",
+      "songName": "CHAINZ",
+      "hash": "9a21da06590674c5f19b1db82ca32498690e3c62",
+      "levelid": "custom_level_9a21da06590674c5f19b1db82ca32498690e3c62"
     },
     {
-      "key": "51ee1",
-      "songName": "[UD 2026 Summer] Camellia - Erasure: A World Without You (feat. Camellia) // 【From Lanota】",
-      "hash": "5f801dad0020742ad66c89f56350c90f9878dfbd",
-      "levelid": "custom_level_5f801dad0020742ad66c89f56350c90f9878dfbd"
+      "key": "51f05",
+      "songName": "Better When Im Dancing",
+      "hash": "01d7c98c3e19b162d323f27c8fc0a75269b98493",
+      "levelid": "custom_level_01d7c98c3e19b162d323f27c8fc0a75269b98493"
     },
     {
-      "key": "51ee0",
-      "songName": "きゅびびびびずむ - cubibibibism",
-      "hash": "03bf4f6dc68c1246df2383211e26faeb2e52382b",
-      "levelid": "custom_level_03bf4f6dc68c1246df2383211e26faeb2e52382b"
-    },
-    {
-      "key": "51ede",
-      "songName": "Play Ball! - Modern Baseball",
-      "hash": "d571cd706df5fe142f9de5f27a75d6941970abdd",
-      "levelid": "custom_level_d571cd706df5fe142f9de5f27a75d6941970abdd"
-    },
-    {
-      "key": "51edd",
-      "songName": "MAMBOCORE - Polish Cow",
-      "hash": "998db2e74c004545c78d5f72aa9c375b332a8ba1",
-      "levelid": "custom_level_998db2e74c004545c78d5f72aa9c375b332a8ba1"
-    },
-    {
-      "key": "51edc",
-      "songName": "Rock DJ -  Robbie Williams",
-      "hash": "2dfa82d050bf4c71089d7a2606b451496c6312be",
-      "levelid": "custom_level_2dfa82d050bf4c71089d7a2606b451496c6312be"
-    },
-    {
-      "key": "51edb",
-      "songName": "Crowder - Grave Robber",
-      "hash": "92cfc2ea30fca967e6912d284bb3441d3d646ab1",
-      "levelid": "custom_level_92cfc2ea30fca967e6912d284bb3441d3d646ab1"
-    },
-    {
-      "key": "51eda",
-      "songName": "Bernadette",
-      "hash": "22958076bf943bff7f1cbcb01facae1fad41ffdd",
-      "levelid": "custom_level_22958076bf943bff7f1cbcb01facae1fad41ffdd"
-    },
-    {
-      "key": "51ed9",
-      "songName": "kpop demon hunters v2",
-      "hash": "c3c51c5f8504c07ca1d76e6b17aa6aa8dcff5bb8",
-      "levelid": "custom_level_c3c51c5f8504c07ca1d76e6b17aa6aa8dcff5bb8"
-    },
-    {
-      "key": "51ed8",
-      "songName": "2HEARTs",
-      "hash": "2d661aea21c65645196c8107e69adb864ec8052a",
-      "levelid": "custom_level_2d661aea21c65645196c8107e69adb864ec8052a"
-    },
-    {
-      "key": "51e88",
-      "songName": "MEOVV - In my hands",
-      "hash": "16e3e599eecc796ed7e8060b50647c3412410bff",
-      "levelid": "custom_level_16e3e599eecc796ed7e8060b50647c3412410bff"
-    },
-    {
-      "key": "51ed5",
-      "songName": "seatrus - ETREME JET SKY HIGH",
-      "hash": "90e9e1c812c42854a0ba33405c84fa1b17f9e604",
-      "levelid": "custom_level_90e9e1c812c42854a0ba33405c84fa1b17f9e604"
-    },
-    {
-      "key": "51ecc",
-      "songName": "Nightcore - Mi Mi Mi (Rock Version) ",
-      "hash": "a39430d9ee115eafbcf2d03092ea5cf1eaecedce",
-      "levelid": "custom_level_a39430d9ee115eafbcf2d03092ea5cf1eaecedce"
-    },
-    {
-      "key": "51eca",
-      "songName": "Smell of the Game",
-      "hash": "06fc3cbd1892f4171047272eca375aa39d053f98",
-      "levelid": "custom_level_06fc3cbd1892f4171047272eca375aa39d053f98"
+      "key": "51f2a",
+      "songName": "Give my regards to Yotsuya-san",
+      "hash": "0b78157915c6c2ac34ef844757e76c8d9365d694",
+      "levelid": "custom_level_0b78157915c6c2ac34ef844757e76c8d9365d694"
     }
   ],
   "image": ""
