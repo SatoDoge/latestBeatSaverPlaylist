@@ -1,238 +1,298 @@
 {
-  "playlistTitle": "2026-06-13T15:18:48.288Z~2026-06-14T15:18:48.288Z",
+  "playlistTitle": "2026-06-14T15:18:48.350Z~2026-06-15T15:18:48.350Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-06-13T15:18:48.288Z and 2026-06-14T15:18:48.288Z",
+  "discripstion": "Maps published between 2026-06-14T15:18:48.350Z and 2026-06-15T15:18:48.350Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "52119",
-      "songName": "Ride it",
-      "hash": "9d200cbe3eb7fa6785bc24e2600386e62f10167f",
-      "levelid": "custom_level_9d200cbe3eb7fa6785bc24e2600386e62f10167f"
+      "key": "52183",
+      "songName": "loveli lori & ovg! - love for you ",
+      "hash": "15a0d057249d0e9007294479d19a57d39eec3e63",
+      "levelid": "custom_level_15a0d057249d0e9007294479d19a57d39eec3e63"
     },
     {
-      "key": "520dd",
-      "songName": "LimbobutuwuIGIDK",
-      "hash": "bf8e32ee8f1707ac3f8454daa0373576df8feb34",
-      "levelid": "custom_level_bf8e32ee8f1707ac3f8454daa0373576df8feb34"
+      "key": "520e5",
+      "songName": "[SPA Fitbeat Pack] Habstrakt, Lizdek - SURGE",
+      "hash": "8ecd108b7d5a7d15ce63167fbc49b2745dcf462c",
+      "levelid": "custom_level_8ecd108b7d5a7d15ce63167fbc49b2745dcf462c"
     },
     {
-      "key": "52117",
-      "songName": "aakairo - ███'█ PERFECT PUPPET 2",
-      "hash": "03c323134c8a75c2cf43820786cf3a278ab6e2f1",
-      "levelid": "custom_level_03c323134c8a75c2cf43820786cf3a278ab6e2f1"
+      "key": "520e3",
+      "songName": "[SPA Fitbeat Pack] Virtual Riot, Eliminate - Aura Farming",
+      "hash": "e1277424c149fe6b9a34e30102dbc922b05d0622",
+      "levelid": "custom_level_e1277424c149fe6b9a34e30102dbc922b05d0622"
     },
     {
-      "key": "52116",
-      "songName": "Queen - Good Company",
-      "hash": "dbebf0b80157e6dff564ab07e60275fe4664da12",
-      "levelid": "custom_level_dbebf0b80157e6dff564ab07e60275fe4664da12"
+      "key": "51b4b",
+      "songName": "[SPA Fitbeat Pack] Dance",
+      "hash": "8fea2a544de6beab6ee7547a1f872dcda4055025",
+      "levelid": "custom_level_8fea2a544de6beab6ee7547a1f872dcda4055025"
     },
     {
-      "key": "52115",
-      "songName": "Overheated",
-      "hash": "0a29c2880dc32c1a0ecf7eef75821b1fef80f450",
-      "levelid": "custom_level_0a29c2880dc32c1a0ecf7eef75821b1fef80f450"
+      "key": "5211e",
+      "songName": "[SPA Fitbeat Pack] Galantis - No Money",
+      "hash": "e40ea1b1c3ceac9f77c387f0eb4c91885d6f6c56",
+      "levelid": "custom_level_e40ea1b1c3ceac9f77c387f0eb4c91885d6f6c56"
     },
     {
-      "key": "52112",
-      "songName": "Darkside - Saranrat",
-      "hash": "b28339f3c4ddcc9504955d4b7d50a11d3683dbb9",
-      "levelid": "custom_level_b28339f3c4ddcc9504955d4b7d50a11d3683dbb9"
+      "key": "5217c",
+      "songName": "[SPA Fitbeat Pack] Royal Republic - Underwear",
+      "hash": "84409ad74aa5676f1c9b7c1bf95ccbcfe6aa0b40",
+      "levelid": "custom_level_84409ad74aa5676f1c9b7c1bf95ccbcfe6aa0b40"
     },
     {
-      "key": "5210d",
-      "songName": "Lie",
-      "hash": "33d773ca66c7da64290d0cfd21e7a062bc5b538b",
-      "levelid": "custom_level_33d773ca66c7da64290d0cfd21e7a062bc5b538b"
+      "key": "52142",
+      "songName": "[SPA Fitbeat Pack] Chihiro Gravagerz",
+      "hash": "02e9632b1d37c5e2cd54838ffd9703a7280625c6",
+      "levelid": "custom_level_02e9632b1d37c5e2cd54838ffd9703a7280625c6"
     },
     {
-      "key": "5210c",
-      "songName": "OVER RIDE",
-      "hash": "ea8d7f618ce06986a1cfbb1371bee7b443c3ff24",
-      "levelid": "custom_level_ea8d7f618ce06986a1cfbb1371bee7b443c3ff24"
+      "key": "5213a",
+      "songName": "[SPA Fitbeat Pack] Nightcore - Earthquake",
+      "hash": "8711a68418456cd7639d50542beebddf48ad69c2",
+      "levelid": "custom_level_8711a68418456cd7639d50542beebddf48ad69c2"
     },
     {
-      "key": "5210b",
-      "songName": "LEVITETO",
-      "hash": "911a3dafc8c05b910864ed1c50838d50a9cc467b",
-      "levelid": "custom_level_911a3dafc8c05b910864ed1c50838d50a9cc467b"
+      "key": "52134",
+      "songName": "[SPA Fitbeat Pack] Dua Lipa - Physical (feat. HWASA)",
+      "hash": "cc7479e78fa3c989bc7203b0c5786802308001ba",
+      "levelid": "custom_level_cc7479e78fa3c989bc7203b0c5786802308001ba"
     },
     {
-      "key": "520a5",
-      "songName": "Liekinheitin - Linda Lampenius X Pete Parkkonen",
-      "hash": "fbb8342b823c3be8c941d7c9a6095c0bf6a39180",
-      "levelid": "custom_level_fbb8342b823c3be8c941d7c9a6095c0bf6a39180"
+      "key": "520a9",
+      "songName": "[SPA Fitbeat Pack] NiziU - Memories",
+      "hash": "8dbcc0136c78fa12cf1c7588d849af8701db5bde",
+      "levelid": "custom_level_8dbcc0136c78fa12cf1c7588d849af8701db5bde"
     },
     {
-      "key": "52103",
-      "songName": "my femcel life",
-      "hash": "2a2b11e7beb51b2b1ecaf4c91eaee02981227cef",
-      "levelid": "custom_level_2a2b11e7beb51b2b1ecaf4c91eaee02981227cef"
+      "key": "52100",
+      "songName": "[SPA Fitbeat Pack] Monsta X - Rush Hour",
+      "hash": "c196072ad2e12a5d587ce4c22cb9cba1bae5621e",
+      "levelid": "custom_level_c196072ad2e12a5d587ce4c22cb9cba1bae5621e"
     },
     {
-      "key": "52102",
-      "songName": "Re-sublimity (神無月の巫女 OP)",
-      "hash": "1922ea02f0a8946eeaf9b7fdb7496715878afc66",
-      "levelid": "custom_level_1922ea02f0a8946eeaf9b7fdb7496715878afc66"
+      "key": "51e1a",
+      "songName": "[SPA Fitbeat Pack] Electric Callboy, The Offspring - Let The Good Times Roll (Chroma)",
+      "hash": "56567cf1d2e677db9c9843918214fb39339b36e3",
+      "levelid": "custom_level_56567cf1d2e677db9c9843918214fb39339b36e3"
     },
     {
-      "key": "52101",
-      "songName": "Meant To Be",
-      "hash": "3d5f02e88f3aa63a5c2a2c9a2d903a4beedd89b7",
-      "levelid": "custom_level_3d5f02e88f3aa63a5c2a2c9a2d903a4beedd89b7"
+      "key": "520cd",
+      "songName": "[SPA Fitbeat Pack] BABYMONSTER - WE GO UP",
+      "hash": "1eedc00c02a9744f3a8543c19e912bdfccc538ea",
+      "levelid": "custom_level_1eedc00c02a9744f3a8543c19e912bdfccc538ea"
     },
     {
-      "key": "520ff",
-      "songName": "Kikuo - Urami no Waltz (feat. Hanatan) (第一幕Mix) [DANCE MAP]",
-      "hash": "eecb952a2e384c52dbfc031fa254df5b87bdb055",
-      "levelid": "custom_level_eecb952a2e384c52dbfc031fa254df5b87bdb055"
+      "key": "51f6c",
+      "songName": "[SPA Fitbeat Pack] Calvin Harris - Acceptable In The 80s",
+      "hash": "4622dfc089e5baa12f3458268633fe089b83d1b6",
+      "levelid": "custom_level_4622dfc089e5baa12f3458268633fe089b83d1b6"
     },
     {
-      "key": "520f7",
-      "songName": "matrix",
-      "hash": "14bffe2b0ce415e20fbfdde389cda0a59b53cf6e",
-      "levelid": "custom_level_14bffe2b0ce415e20fbfdde389cda0a59b53cf6e"
+      "key": "51b5a",
+      "songName": "[SPA Fitbeat Pack] Dead Weight",
+      "hash": "4f06961301d9563c4f56286e7d48c84aef38ae4c",
+      "levelid": "custom_level_4f06961301d9563c4f56286e7d48c84aef38ae4c"
     },
     {
-      "key": "520f4",
-      "songName": " がくがく - Ongaku Wa 1",
-      "hash": "84527bc14e1a9c6b6361c4e709f5b18ab3990f88",
-      "levelid": "custom_level_84527bc14e1a9c6b6361c4e709f5b18ab3990f88"
+      "key": "51b58",
+      "songName": "[SPA Fitbeat Pack] ps$o$",
+      "hash": "5f8f14292df57f9094537c6208a45426339cbf25",
+      "levelid": "custom_level_5f8f14292df57f9094537c6208a45426339cbf25"
     },
     {
-      "key": "520f2",
-      "songName": "Turn Up Remix",
-      "hash": "bee3e2f7eee261640456a1a1342c55693c1eb66b",
-      "levelid": "custom_level_bee3e2f7eee261640456a1a1342c55693c1eb66b"
+      "key": "51b4a",
+      "songName": "[SPA Fitbeat Pack] MORETHANJUSTHYPERTRANCE",
+      "hash": "74da449bd9174338f73206c40ef05b79eda80f12",
+      "levelid": "custom_level_74da449bd9174338f73206c40ef05b79eda80f12"
     },
     {
-      "key": "520ef",
-      "songName": "Viva La Vida",
-      "hash": "55e77fdbd3d0db46094c9c6206407e87d62686b4",
-      "levelid": "custom_level_55e77fdbd3d0db46094c9c6206407e87d62686b4"
+      "key": "5217e",
+      "songName": "Various Artists - Overworld (From \"Mario Kart World\")",
+      "hash": "72150a28cb1cd8adad019059855ad86fb6068682",
+      "levelid": "custom_level_72150a28cb1cd8adad019059855ad86fb6068682"
     },
     {
-      "key": "520ed",
-      "songName": "MAMBOCORE - Mambo You",
-      "hash": "8293125388d560e28def0d143c97835c9b2fe539",
-      "levelid": "custom_level_8293125388d560e28def0d143c97835c9b2fe539"
+      "key": "52166",
+      "songName": "Nyan Cat",
+      "hash": "bc61ea9d4a0f7434b39c6abc47b134e21afbfd69",
+      "levelid": "custom_level_bc61ea9d4a0f7434b39c6abc47b134e21afbfd69"
     },
     {
-      "key": "520eb",
-      "songName": "Arknights|AIYUE、理名、塞壬唱片-MSR - Heavenly Me",
-      "hash": "6ae07b303d54987b82ff005d268e78c83d5d059b",
-      "levelid": "custom_level_6ae07b303d54987b82ff005d268e78c83d5d059b"
+      "key": "52167",
+      "songName": "Believer_WristROM",
+      "hash": "13717b6fcab9634fea61c124f5dca216cff258f1",
+      "levelid": "custom_level_13717b6fcab9634fea61c124f5dca216cff258f1"
     },
     {
-      "key": "520ea",
-      "songName": "the ting goes (jenny sparks remix)",
-      "hash": "02be36a869aae79cfa0a18f143988ccf88d18e32",
-      "levelid": "custom_level_02be36a869aae79cfa0a18f143988ccf88d18e32"
+      "key": "52165",
+      "songName": "I'm Good_TorsoAlternating",
+      "hash": "2df6f47ac8cc69c513337f5a0fd3a12c178e094a",
+      "levelid": "custom_level_2df6f47ac8cc69c513337f5a0fd3a12c178e094a"
     },
     {
-      "key": "520e9",
-      "songName": "ONE DIRECTION BUT YVSHCORE",
-      "hash": "cbe9402f170193fc37c0cda34a38ec6471201ee9",
-      "levelid": "custom_level_cbe9402f170193fc37c0cda34a38ec6471201ee9"
+      "key": "52111",
+      "songName": "ユイカ - お姫様にはなれない",
+      "hash": "953990dc87515faab847373932c43f6ec9447963",
+      "levelid": "custom_level_953990dc87515faab847373932c43f6ec9447963"
     },
     {
-      "key": "520e6",
-      "songName": "Imomushi -芋虫-",
-      "hash": "670666636caff4090aaabae2fcbaf66b1138497a",
-      "levelid": "custom_level_670666636caff4090aaabae2fcbaf66b1138497a"
+      "key": "5215f",
+      "songName": "agony (神無月の巫女 ED)",
+      "hash": "5f01b4271286e9cee9151ea20d2abe520604ca4e",
+      "levelid": "custom_level_5f01b4271286e9cee9151ea20d2abe520604ca4e"
     },
     {
-      "key": "520e1",
-      "songName": "TWO (BBNO$)",
-      "hash": "6b746d9273bc64451225adb2f6b896fcef6835e3",
-      "levelid": "custom_level_6b746d9273bc64451225adb2f6b896fcef6835e3"
+      "key": "5215a",
+      "songName": "Klass E - Barber's Madness",
+      "hash": "b72f48fe19988ea0fe28660225be09f3b27f4a18",
+      "levelid": "custom_level_b72f48fe19988ea0fe28660225be09f3b27f4a18"
     },
     {
-      "key": "520dc",
-      "songName": "stairs",
-      "hash": "061bd3ad6649d049688aca285b09c57785a4f40e",
-      "levelid": "custom_level_061bd3ad6649d049688aca285b09c57785a4f40e"
+      "key": "52152",
+      "songName": "Aitsuki Nakuru - Zinsei Hetaheta Girl",
+      "hash": "774448ea7712de859add7a72d5d66503d177b005",
+      "levelid": "custom_level_774448ea7712de859add7a72d5d66503d177b005"
     },
     {
-      "key": "520db",
-      "songName": "Go Kitty Go!",
-      "hash": "8d7fbdcbf886111f70632d63d861ba79c7df8bbb",
-      "levelid": "custom_level_8d7fbdcbf886111f70632d63d861ba79c7df8bbb"
+      "key": "5214f",
+      "songName": "unhappy",
+      "hash": "2262cce2a679e37639d23f472b2b338f23b8ddd9",
+      "levelid": "custom_level_2262cce2a679e37639d23f472b2b338f23b8ddd9"
     },
     {
-      "key": "520da",
-      "songName": "I SUCK!!",
-      "hash": "e4f8d4c13d4f354c694dd716533b7362bb8996e5",
-      "levelid": "custom_level_e4f8d4c13d4f354c694dd716533b7362bb8996e5"
+      "key": "5214e",
+      "songName": "The MINUTE Pride Month Starts!",
+      "hash": "c32d1dc1b597df6cea528412298044155b38b805",
+      "levelid": "custom_level_c32d1dc1b597df6cea528412298044155b38b805"
     },
     {
-      "key": "520d8",
-      "songName": "blues ending",
-      "hash": "6a03fb5ae37cdeae48c8d6838c52b7408fb1e478",
-      "levelid": "custom_level_6a03fb5ae37cdeae48c8d6838c52b7408fb1e478"
+      "key": "5214d",
+      "songName": "BrokeNCYDE - Scene Girlz",
+      "hash": "35ae62a45e1279eac3a556dfee725b35747c34ca",
+      "levelid": "custom_level_35ae62a45e1279eac3a556dfee725b35747c34ca"
     },
     {
-      "key": "520d7",
-      "songName": "Basement - WIRED",
-      "hash": "b173d763d94ea8ed79ac610fe640e5ade60862a9",
-      "levelid": "custom_level_b173d763d94ea8ed79ac610fe640e5ade60862a9"
+      "key": "5214c",
+      "songName": "Arknights|||AIYUE、理名、塞壬唱片-MSR - Heavenly Me",
+      "hash": "72cbe59706f20166c9d2542c34fc1e596f114782",
+      "levelid": "custom_level_72cbe59706f20166c9d2542c34fc1e596f114782"
     },
     {
-      "key": "520c6",
-      "songName": "Infinite - GRiZ (Chroma+)",
-      "hash": "57a84f24f5b0754895e89bb5ddec08bfde1a8f7e",
-      "levelid": "custom_level_57a84f24f5b0754895e89bb5ddec08bfde1a8f7e"
+      "key": "5214b",
+      "songName": "Rensyu-A130",
+      "hash": "e6055d4f65cbf708bbb7fbb6a531d8061bfb373a",
+      "levelid": "custom_level_e6055d4f65cbf708bbb7fbb6a531d8061bfb373a"
     },
     {
-      "key": "520d4",
-      "songName": "DOWN WITH THE DECAYED",
-      "hash": "08a4509051d492a8b9d913c9ae8983e4c12f5056",
-      "levelid": "custom_level_08a4509051d492a8b9d913c9ae8983e4c12f5056"
+      "key": "5214a",
+      "songName": "TOOBOE - Tablet",
+      "hash": "614520bfb01cfd2f569f85fb28f632dc06a99a28",
+      "levelid": "custom_level_614520bfb01cfd2f569f85fb28f632dc06a99a28"
     },
     {
-      "key": "520d1",
-      "songName": "It-is-also-a-part-of-the-universe (RUS) Тоже является частью вселенной",
-      "hash": "518949a9fa313f4d6b6a948bffe96ff99e3a9146",
-      "levelid": "custom_level_518949a9fa313f4d6b6a948bffe96ff99e3a9146"
+      "key": "52149",
+      "songName": "Shriek",
+      "hash": "19e582c10a3b3fe7c610aac01ef1df162f1f94ec",
+      "levelid": "custom_level_19e582c10a3b3fe7c610aac01ef1df162f1f94ec"
     },
     {
-      "key": "520c5",
-      "songName": "Fog (Kingsammelot Cover)",
-      "hash": "cd636ce48d0692022e6a9a5641d38567b61ef1e2",
-      "levelid": "custom_level_cd636ce48d0692022e6a9a5641d38567b61ef1e2"
+      "key": "52148",
+      "songName": "Dear Agony",
+      "hash": "55e99740568092ea97b7b9bf2bead58131a4a8ee",
+      "levelid": "custom_level_55e99740568092ea97b7b9bf2bead58131a4a8ee"
     },
     {
-      "key": "520c0",
-      "songName": "COLTEMONIKHA - そらとぶひかり",
-      "hash": "54d1ed0e48e04b3dce3a6e3360bf9ab45f740924",
-      "levelid": "custom_level_54d1ed0e48e04b3dce3a6e3360bf9ab45f740924"
+      "key": "5213d",
+      "songName": "Laur - Baphomet",
+      "hash": "13fafdb060805b25653adc42c793dc4eca0b465d",
+      "levelid": "custom_level_13fafdb060805b25653adc42c793dc4eca0b465d"
     },
     {
-      "key": "520be",
-      "songName": "Illusionary Night - ELECTR",
-      "hash": "55b401c15157df14c88dc51f753002856a8cfb0b",
-      "levelid": "custom_level_55b401c15157df14c88dc51f753002856a8cfb0b"
+      "key": "52139",
+      "songName": "энергетики",
+      "hash": "edf9bbc3bfb811a2f127e04b886953c9e45e37a5",
+      "levelid": "custom_level_edf9bbc3bfb811a2f127e04b886953c9e45e37a5"
     },
     {
-      "key": "520bc",
-      "songName": "DtMF",
-      "hash": "183bf442e86552e3fd14496bfd5282ffda0e831b",
-      "levelid": "custom_level_183bf442e86552e3fd14496bfd5282ffda0e831b"
+      "key": "52137",
+      "songName": "365 featuring shygirl",
+      "hash": "46926cea24b8ff9c6d4683ea90963e500202c9ae",
+      "levelid": "custom_level_46926cea24b8ff9c6d4683ea90963e500202c9ae"
     },
     {
-      "key": "520b3",
-      "songName": "ANPANMANNO MAACHI",
-      "hash": "f88325a56df2c61097401261a705a09217f626f2",
-      "levelid": "custom_level_f88325a56df2c61097401261a705a09217f626f2"
+      "key": "52135",
+      "songName": "music",
+      "hash": "f89f894dafdc3dcaa769f41b7d013f015fbc9fa7",
+      "levelid": "custom_level_f89f894dafdc3dcaa769f41b7d013f015fbc9fa7"
     },
     {
-      "key": "517f9",
-      "songName": "Weki Meki - Color Me",
-      "hash": "5056ec25d9421968db7d819e2a85537605cff921",
-      "levelid": "custom_level_5056ec25d9421968db7d819e2a85537605cff921"
+      "key": "52133",
+      "songName": "Blue",
+      "hash": "d22b21a4784a603ffe0425ca65b18507a37081c3",
+      "levelid": "custom_level_d22b21a4784a603ffe0425ca65b18507a37081c3"
+    },
+    {
+      "key": "52132",
+      "songName": "KVNYSH - SAD ABOUT FUNK",
+      "hash": "75218a278e78eaa4285cdce7e748ab59c18c1dd1",
+      "levelid": "custom_level_75218a278e78eaa4285cdce7e748ab59c18c1dd1"
+    },
+    {
+      "key": "52131",
+      "songName": "Like Collared Greens",
+      "hash": "a2be96a2283506fa415174726fc828844fae46df",
+      "levelid": "custom_level_a2be96a2283506fa415174726fc828844fae46df"
+    },
+    {
+      "key": "52130",
+      "songName": "BANDS BANDS BANDS",
+      "hash": "a56f4d3d8b041bc8b8e14d84f527e938937a232f",
+      "levelid": "custom_level_a56f4d3d8b041bc8b8e14d84f527e938937a232f"
+    },
+    {
+      "key": "5212f",
+      "songName": "Heavenly Jumpstyle",
+      "hash": "e6abdf161a9a070e5444b572d3b781a998600f3b",
+      "levelid": "custom_level_e6abdf161a9a070e5444b572d3b781a998600f3b"
+    },
+    {
+      "key": "5212e",
+      "songName": "Castle (nerfed)",
+      "hash": "a60d99e0a21d1de40407c9285aa84db044dd8c56",
+      "levelid": "custom_level_a60d99e0a21d1de40407c9285aa84db044dd8c56"
+    },
+    {
+      "key": "5212c",
+      "songName": "OpticalNoise - Vista",
+      "hash": "d4aa43e6713851a507468e3e17fcbcf384ec4c85",
+      "levelid": "custom_level_d4aa43e6713851a507468e3e17fcbcf384ec4c85"
+    },
+    {
+      "key": "52126",
+      "songName": "the war II",
+      "hash": "3159638ea3b5178f95dcba74c52b8c35a0fa0a59",
+      "levelid": "custom_level_3159638ea3b5178f95dcba74c52b8c35a0fa0a59"
+    },
+    {
+      "key": "52124",
+      "songName": "Castle",
+      "hash": "c2a4851b1d9335bb3c89b8840951a36968a62823",
+      "levelid": "custom_level_c2a4851b1d9335bb3c89b8840951a36968a62823"
+    },
+    {
+      "key": "5211d",
+      "songName": "Through the Darkness (RE9)",
+      "hash": "79190a5109873f75094bf9256d54124d70d452a9",
+      "levelid": "custom_level_79190a5109873f75094bf9256d54124d70d452a9"
+    },
+    {
+      "key": "5211b",
+      "songName": "WiktorVRs Slop",
+      "hash": "30d877b94e96e0893b0979b5f47c0a5b6682d6ac",
+      "levelid": "custom_level_30d877b94e96e0893b0979b5f47c0a5b6682d6ac"
     }
   ],
   "image": ""
