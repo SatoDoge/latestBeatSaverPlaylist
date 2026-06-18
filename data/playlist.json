@@ -1,208 +1,208 @@
 {
-  "playlistTitle": "2026-06-16T15:18:48.253Z~2026-06-17T15:18:48.253Z",
+  "playlistTitle": "2026-06-17T15:18:49.120Z~2026-06-18T15:18:49.120Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-06-16T15:18:48.253Z and 2026-06-17T15:18:48.253Z",
+  "discripstion": "Maps published between 2026-06-17T15:18:49.120Z and 2026-06-18T15:18:49.120Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "52306",
+      "songName": "Blurry Nights - BoyWithUke",
+      "hash": "6b69f62d689b31c82013483225476d6be9ee4c5a",
+      "levelid": "custom_level_6b69f62d689b31c82013483225476d6be9ee4c5a"
+    },
+    {
+      "key": "52305",
+      "songName": "t+pazolite - Haunted Device",
+      "hash": "a6b30abf3eefcc19ec6d098b7852da5fc85a13b7",
+      "levelid": "custom_level_a6b30abf3eefcc19ec6d098b7852da5fc85a13b7"
+    },
+    {
+      "key": "522f7",
+      "songName": "『Hop Snack Junk na HUNNY』- Aogiri High School (Kanan-Sama Wa Akumade Choroi End)",
+      "hash": "ae1bfbe9cd038322aea539fec943b361c916354b",
+      "levelid": "custom_level_ae1bfbe9cd038322aea539fec943b361c916354b"
+    },
+    {
+      "key": "522f0",
+      "songName": "Tek It",
+      "hash": "96ea1ba2775c22d33bb7e2830c129d1fb5adad57",
+      "levelid": "custom_level_96ea1ba2775c22d33bb7e2830c129d1fb5adad57"
+    },
+    {
+      "key": "522ec",
+      "songName": "Ween - Ocean Man (V4)",
+      "hash": "f7210eda07fcdd77fd8c8ebe3232a4da177e7323",
+      "levelid": "custom_level_f7210eda07fcdd77fd8c8ebe3232a4da177e7323"
+    },
+    {
+      "key": "51e30",
+      "songName": "Be With You - Muse",
+      "hash": "7a6b363bcaca2ee4f9c9203e16d8429ab4b42b31",
+      "levelid": "custom_level_7a6b363bcaca2ee4f9c9203e16d8429ab4b42b31"
+    },
+    {
+      "key": "522eb",
+      "songName": "Dono!? Goranshin!?",
+      "hash": "86e67b4bc8b16af1f0b7c23ee28de5597fcc6b64",
+      "levelid": "custom_level_86e67b4bc8b16af1f0b7c23ee28de5597fcc6b64"
+    },
+    {
+      "key": "4f59d",
+      "songName": "Doctor And The Medics - Spirit In The Sky (1986)",
+      "hash": "dd35360df48a1d9c9fca5988d391cd6207e5adff",
+      "levelid": "custom_level_dd35360df48a1d9c9fca5988d391cd6207e5adff"
+    },
+    {
+      "key": "522ea",
+      "songName": "#animalsrungame #animals3d #funny3danimals #3danimation #animals3dusa ",
+      "hash": "30cca5ff30cc33feaa7d3751d3a68329529d0756",
+      "levelid": "custom_level_30cca5ff30cc33feaa7d3751d3a68329529d0756"
+    },
+    {
+      "key": "522e9",
+      "songName": "Enako - Iden Teitei Meltdown (Mahiro & Mihari ver.)",
+      "hash": "87beffcd48244d1d81be75fd7ab48b5c3820f0f6",
+      "levelid": "custom_level_87beffcd48244d1d81be75fd7ab48b5c3820f0f6"
+    },
+    {
+      "key": "522e7",
+      "songName": "Cerise Bouquet - Fruit Punch",
+      "hash": "8491bbc368fb058bdf974b4ec27321b9e3f7f469",
+      "levelid": "custom_level_8491bbc368fb058bdf974b4ec27321b9e3f7f469"
+    },
+    {
+      "key": "522e8",
+      "songName": "Second Flight (おねがい☆ツインズ OP)",
+      "hash": "dd06cb09dee09b4e30fd7197513f533753e5226b",
+      "levelid": "custom_level_dd06cb09dee09b4e30fd7197513f533753e5226b"
+    },
+    {
+      "key": "522e6",
+      "songName": "THAT'S THE WAY I LIKE IT #AN4RCHKORE",
+      "hash": "fdc0ec537bf17aed847694d83af20c3d13e5f7bf",
+      "levelid": "custom_level_fdc0ec537bf17aed847694d83af20c3d13e5f7bf"
+    },
+    {
+      "key": "522e5",
+      "songName": "Sick Of U (with Oliver Tree) (Poodle)",
+      "hash": "897e4e86839c689e926f9cd7f0d3f34bf76c3542",
+      "levelid": "custom_level_897e4e86839c689e926f9cd7f0d3f34bf76c3542"
+    },
+    {
+      "key": "522e3",
+      "songName": "Mori Calliope - Go-Getters",
+      "hash": "5d5ee1aec2a4be69d7d6fe376b1faec7f57e6aea",
+      "levelid": "custom_level_5d5ee1aec2a4be69d7d6fe376b1faec7f57e6aea"
+    },
+    {
+      "key": "522e2",
+      "songName": "19 dollar fortnite card v2",
+      "hash": "574a068226b403100dda31575bae7e8185ad920c",
+      "levelid": "custom_level_574a068226b403100dda31575bae7e8185ad920c"
+    },
+    {
+      "key": "522e1",
+      "songName": "Floxytek vs Billx - 30's Swing Tek (Cut Ver.)",
+      "hash": "091fa46303f5b2932188356014f88e6fe200640b",
+      "levelid": "custom_level_091fa46303f5b2932188356014f88e6fe200640b"
+    },
+    {
+      "key": "522be",
+      "songName": "Ren Carter - Frog (feat. Liv Grace)",
+      "hash": "fc2676d790f8df91daf8bacf201790f482e04e05",
+      "levelid": "custom_level_fc2676d790f8df91daf8bacf201790f482e04e05"
+    },
+    {
+      "key": "522bd",
+      "songName": "エリート - 宵闇月",
+      "hash": "bec9cdd929456c4a8af05ba5dbe69e2413788090",
+      "levelid": "custom_level_bec9cdd929456c4a8af05ba5dbe69e2413788090"
+    },
+    {
+      "key": "522bc",
+      "songName": "Dillon Francis, Knock2 - Goodies ",
+      "hash": "a9f7cf0ae79f7449950230f041c3941cfbd2a8e2",
+      "levelid": "custom_level_a9f7cf0ae79f7449950230f041c3941cfbd2a8e2"
+    },
+    {
+      "key": "522bb",
+      "songName": " Hylna - Imperfection In The Pond Reflections",
+      "hash": "0bc39b1488817e482d8ff87dce06b21739abe414",
+      "levelid": "custom_level_0bc39b1488817e482d8ff87dce06b21739abe414"
+    },
+    {
+      "key": "522ba",
+      "songName": "Floating - OctoCubee",
+      "hash": "1380e9b8f73124c4cd2c579ed54e3da9b2e744f4",
+      "levelid": "custom_level_1380e9b8f73124c4cd2c579ed54e3da9b2e744f4"
+    },
+    {
+      "key": "522b9",
+      "songName": "Local Forecast But There's an Accident",
+      "hash": "16dbd8df26264809aa1b6d6f6e921bab6b1e64c6",
+      "levelid": "custom_level_16dbd8df26264809aa1b6d6f6e921bab6b1e64c6"
+    },
+    {
+      "key": "522b7",
+      "songName": "Yo Phone Linging",
+      "hash": "536e5d8b9cee1abb893ec9036de6bf39f0443411",
+      "levelid": "custom_level_536e5d8b9cee1abb893ec9036de6bf39f0443411"
+    },
+    {
+      "key": "522b2",
+      "songName": "BilliumMoto - Sentinel",
+      "hash": "5b27bc97ccbc44dab1ff9893832d17a621b2b7e6",
+      "levelid": "custom_level_5b27bc97ccbc44dab1ff9893832d17a621b2b7e6"
+    },
+    {
+      "key": "522b1",
+      "songName": "Viking Arena",
+      "hash": "9c8d9afc838d590be1c240ba05ef555ea53b902b",
+      "levelid": "custom_level_9c8d9afc838d590be1c240ba05ef555ea53b902b"
+    },
+    {
+      "key": "522ab",
+      "songName": "れびてーしょん / LEVITATION (NEEDY GIRL OVERDOSE ED) - Tatsuya Kitani",
+      "hash": "f470ef2cbc1eba27d0a9771956835860a06f1595",
+      "levelid": "custom_level_f470ef2cbc1eba27d0a9771956835860a06f1595"
+    },
+    {
+      "key": "522ac",
+      "songName": "The Vanished People - breath",
+      "hash": "dd72c830dc0dfe783f09a8e431b6aeaf20b3d7fe",
+      "levelid": "custom_level_dd72c830dc0dfe783f09a8e431b6aeaf20b3d7fe"
+    },
+    {
+      "key": "522a7",
+      "songName": "Terminal Missa",
+      "hash": "2e11b41cc5d2b588c33876e8e2e3cc17570aacce",
+      "levelid": "custom_level_2e11b41cc5d2b588c33876e8e2e3cc17570aacce"
+    },
+    {
+      "key": "522a6",
+      "songName": "Name & Number - SHIFT K3Y",
+      "hash": "4f84d446759d4e4a3ef4ce22ad163f10d77425b8",
+      "levelid": "custom_level_4f84d446759d4e4a3ef4ce22ad163f10d77425b8"
+    },
+    {
+      "key": "522a4",
+      "songName": "Teenage Dream_TorsoEndurance",
+      "hash": "5e985a2e6b70fa2fb83616fac130232a09ca8112",
+      "levelid": "custom_level_5e985a2e6b70fa2fb83616fac130232a09ca8112"
+    },
+    {
+      "key": "522a3",
+      "songName": "Can't Stop the Feeling_PathLength",
+      "hash": "0c9a8f3f12937293d7b232cc7f7f95e48a57753e",
+      "levelid": "custom_level_0c9a8f3f12937293d7b232cc7f7f95e48a57753e"
+    },
+    {
       "key": "5229e",
       "songName": "Come a little closer",
-      "hash": "3aa53aad0d93a5d870eadfc5550ace5199ca11a7",
-      "levelid": "custom_level_3aa53aad0d93a5d870eadfc5550ace5199ca11a7"
-    },
-    {
-      "key": "5229d",
-      "songName": "the ting goes jenny sparks remix",
-      "hash": "2fa3bca016fe7fad85f1e76c196ecd26aa4e4b03",
-      "levelid": "custom_level_2fa3bca016fe7fad85f1e76c196ecd26aa4e4b03"
-    },
-    {
-      "key": "5229b",
-      "songName": "[SPA Fitbeat Pack] t+pazolite - Smack Again, if You Wish (TPZREMAKE)",
-      "hash": "8cf2ae3d382fab3426bf921be4758e5e987088e2",
-      "levelid": "custom_level_8cf2ae3d382fab3426bf921be4758e5e987088e2"
-    },
-    {
-      "key": "5229a",
-      "songName": "Watch The Crown Fall - SIPPY Remix",
-      "hash": "df13205798e48acd927800e6f3e598e030f2140c",
-      "levelid": "custom_level_df13205798e48acd927800e6f3e598e030f2140c"
-    },
-    {
-      "key": "52298",
-      "songName": "Getty - SUPERGLIDE",
-      "hash": "b8fb326d922c072aa8934b7ed593eec136c237e7",
-      "levelid": "custom_level_b8fb326d922c072aa8934b7ed593eec136c237e7"
-    },
-    {
-      "key": "52297",
-      "songName": "679 - the family guys",
-      "hash": "7380e68547b79f010a6472fe414ea03bc13dd6f0",
-      "levelid": "custom_level_7380e68547b79f010a6472fe414ea03bc13dd6f0"
-    },
-    {
-      "key": "52295",
-      "songName": "Golden Hour",
-      "hash": "20a36503eea87c05051820cdc857011af75df885",
-      "levelid": "custom_level_20a36503eea87c05051820cdc857011af75df885"
-    },
-    {
-      "key": "52294",
-      "songName": "it makes me sick - nevergoodbye",
-      "hash": "5ba78b8a3d54dce47f37e536ca081a6abed160e7",
-      "levelid": "custom_level_5ba78b8a3d54dce47f37e536ca081a6abed160e7"
-    },
-    {
-      "key": "52290",
-      "songName": "Polietilene",
-      "hash": "38d8e99c2a023da6e42a6b2d1ece97586cd771a1",
-      "levelid": "custom_level_38d8e99c2a023da6e42a6b2d1ece97586cd771a1"
-    },
-    {
-      "key": "5228b",
-      "songName": "INFINITE HYPERDRIVE",
-      "hash": "a17cbd47fa10f85c070d327f646649463f139d2c",
-      "levelid": "custom_level_a17cbd47fa10f85c070d327f646649463f139d2c"
-    },
-    {
-      "key": "5228a",
-      "songName": "空の森で (おねがい☆ティーチャー ED)",
-      "hash": "53d2a3f02ca5db92b1029dafd9c1f7f27fdd379d",
-      "levelid": "custom_level_53d2a3f02ca5db92b1029dafd9c1f7f27fdd379d"
-    },
-    {
-      "key": "52283",
-      "songName": "1.13.2 menu",
-      "hash": "857cbaf382a06885bdb19feda9cf31b3e2ab29d4",
-      "levelid": "custom_level_857cbaf382a06885bdb19feda9cf31b3e2ab29d4"
-    },
-    {
-      "key": "5227b",
-      "songName": "Chukyo & Kokura Graded race",
-      "hash": "b53ca40b738586b98c54dd0cc25a62d4fa5db202",
-      "levelid": "custom_level_b53ca40b738586b98c54dd0cc25a62d4fa5db202"
-    },
-    {
-      "key": "52276",
-      "songName": "THE BS LAG TESTER",
-      "hash": "ececafd4e56fa47c6ba3aa1512450989e7d7bee8",
-      "levelid": "custom_level_ececafd4e56fa47c6ba3aa1512450989e7d7bee8"
-    },
-    {
-      "key": "52270",
-      "songName": "雑踏、僕らの街|TOGENASHI TOGEARI",
-      "hash": "d8505e8fa6f64b276178504fc7d41480f21b5d9a",
-      "levelid": "custom_level_d8505e8fa6f64b276178504fc7d41480f21b5d9a"
-    },
-    {
-      "key": "52269",
-      "songName": "Paco de Lucía - Entre Dos Aguas",
-      "hash": "36adea3fb406a8b6a8cd23127c3f5bf4ec8a8029",
-      "levelid": "custom_level_36adea3fb406a8b6a8cd23127c3f5bf4ec8a8029"
-    },
-    {
-      "key": "52267",
-      "songName": "we love your vibe",
-      "hash": "b0b527d5ae35caaf95990d2fc08d4f598bf0048e",
-      "levelid": "custom_level_b0b527d5ae35caaf95990d2fc08d4f598bf0048e"
-    },
-    {
-      "key": "52265",
-      "songName": "Oliver Tree - Life Goes On",
-      "hash": "58caefb37a4b5a4d9b6124a0cc81e9a3e14302fc",
-      "levelid": "custom_level_58caefb37a4b5a4d9b6124a0cc81e9a3e14302fc"
-    },
-    {
-      "key": "52264",
-      "songName": "Hyadain",
-      "hash": "a6c45fbe2bfb6a868a05904c1e66162fc21171ce",
-      "levelid": "custom_level_a6c45fbe2bfb6a868a05904c1e66162fc21171ce"
-    },
-    {
-      "key": "5224d",
-      "songName": "DUBIDUBI",
-      "hash": "999cd2d924b2ae7bdfce7198f4b041271a28f36f",
-      "levelid": "custom_level_999cd2d924b2ae7bdfce7198f4b041271a28f36f"
-    },
-    {
-      "key": "5224a",
-      "songName": "What is it",
-      "hash": "b986f3f38eed17a2e959bb04eae687dcb957d59c",
-      "levelid": "custom_level_b986f3f38eed17a2e959bb04eae687dcb957d59c"
-    },
-    {
-      "key": "52214",
-      "songName": "look me in my hantavirus eyes",
-      "hash": "2035a5dbdf263cd13fc3b400440ce9d057beef6a",
-      "levelid": "custom_level_2035a5dbdf263cd13fc3b400440ce9d057beef6a"
-    },
-    {
-      "key": "52210",
-      "songName": "open your 3rd eye",
-      "hash": "2c1b09b171902f1df7aef36925c2df606ce96cb4",
-      "levelid": "custom_level_2c1b09b171902f1df7aef36925c2df606ce96cb4"
-    },
-    {
-      "key": "5220b",
-      "songName": " BLOOD DRAIN BREAKCORE",
-      "hash": "5f7e4ae6db4c9f5ffce6e729352269564ccb73b3",
-      "levelid": "custom_level_5f7e4ae6db4c9f5ffce6e729352269564ccb73b3"
-    },
-    {
-      "key": "52206",
-      "songName": "Marshmellow, Bastille, and Post Malone - Happier x Sunflower ",
-      "hash": "f6eb4ce4f398ebaa3e8766358522f37df865d815",
-      "levelid": "custom_level_f6eb4ce4f398ebaa3e8766358522f37df865d815"
-    },
-    {
-      "key": "52203",
-      "songName": "too fast",
-      "hash": "c7bb32414b06866b1e985f8be4fd0397b8862ea3",
-      "levelid": "custom_level_c7bb32414b06866b1e985f8be4fd0397b8862ea3"
-    },
-    {
-      "key": "52202",
-      "songName": "Tites Mites",
-      "hash": "80ce224e6d060d257683b3d1d09031067a8ec5c6",
-      "levelid": "custom_level_80ce224e6d060d257683b3d1d09031067a8ec5c6"
-    },
-    {
-      "key": "52201",
-      "songName": "Big Nate's BeatTests",
-      "hash": "b0e29fa248c6764d1525c2e503a1cc1792faab32",
-      "levelid": "custom_level_b0e29fa248c6764d1525c2e503a1cc1792faab32"
-    },
-    {
-      "key": "52200",
-      "songName": "Yeil - In a Dream",
-      "hash": "792fc5295ec4f87f3369695124dc7b1fe1ee172d",
-      "levelid": "custom_level_792fc5295ec4f87f3369695124dc7b1fe1ee172d"
-    },
-    {
-      "key": "521fe",
-      "songName": "horrid",
-      "hash": "479bba84e165243659f9b1a148048d29eba7acec",
-      "levelid": "custom_level_479bba84e165243659f9b1a148048d29eba7acec"
-    },
-    {
-      "key": "521fc",
-      "songName": " mazie - dumb dumb",
-      "hash": "dce58bdb2bf7dd0e0b504033f97a3e9efdc8e7de",
-      "levelid": "custom_level_dce58bdb2bf7dd0e0b504033f97a3e9efdc8e7de"
-    },
-    {
-      "key": "521fa",
-      "songName": "MONTAGEM REBOLA",
-      "hash": "d735b2f11e38e5c96f27043b014e650d57d4326d",
-      "levelid": "custom_level_d735b2f11e38e5c96f27043b014e650d57d4326d"
-    },
-    {
-      "key": "521f1",
-      "songName": "Yeay",
-      "hash": "b1cfd0af036dc6c33982c95dd23ef26e24cd3d6e",
-      "levelid": "custom_level_b1cfd0af036dc6c33982c95dd23ef26e24cd3d6e"
+      "hash": "8d26a1a099a0c3a54db20abf8ebf1848d26847c7",
+      "levelid": "custom_level_8d26a1a099a0c3a54db20abf8ebf1848d26847c7"
     }
   ],
   "image": ""
