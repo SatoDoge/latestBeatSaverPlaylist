@@ -1,220 +1,250 @@
 {
-  "playlistTitle": "2026-06-18T15:18:48.322Z~2026-06-19T15:18:48.322Z",
+  "playlistTitle": "2026-06-19T15:18:48.563Z~2026-06-20T15:18:48.563Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-06-18T15:18:48.322Z and 2026-06-19T15:18:48.322Z",
+  "discripstion": "Maps published between 2026-06-19T15:18:48.563Z and 2026-06-20T15:18:48.563Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "523c3",
+      "songName": "Pine Nut",
+      "hash": "e790d4aeb5c34fc690974a4ae1a7de34d8d38388",
+      "levelid": "custom_level_e790d4aeb5c34fc690974a4ae1a7de34d8d38388"
+    },
+    {
+      "key": "523c1",
+      "songName": "Journey - Lights",
+      "hash": "c56239b90223cc7b7516d0c45778fa3055da3a71",
+      "levelid": "custom_level_c56239b90223cc7b7516d0c45778fa3055da3a71"
+    },
+    {
+      "key": "523c0",
+      "songName": "test, will remove",
+      "hash": "46eb77299b5e4ba8a70d0db5f0dadd06cab8667b",
+      "levelid": "custom_level_46eb77299b5e4ba8a70d0db5f0dadd06cab8667b"
+    },
+    {
+      "key": "523bf",
+      "songName": "kirakira(Middle-size ver.)",
+      "hash": "b5af6e437ddd67b0783d947edab7fc0c7c47744c",
+      "levelid": "custom_level_b5af6e437ddd67b0783d947edab7fc0c7c47744c"
+    },
+    {
+      "key": "523bd",
+      "songName": "Les Pirantes (gladde paling Remix) - Roland Cristal",
+      "hash": "3b9101c0f67e8dd31e33af32565b31f82505430f",
+      "levelid": "custom_level_3b9101c0f67e8dd31e33af32565b31f82505430f"
+    },
+    {
+      "key": "523bb",
+      "songName": "[UD Carnival Week4!] Bounded Universe ~The Last Hour~",
+      "hash": "31d434d3c9f665c923c6e0192b4dac1380bef4f9",
+      "levelid": "custom_level_31d434d3c9f665c923c6e0192b4dac1380bef4f9"
+    },
+    {
+      "key": "52381",
+      "songName": "Once a Upon a December  (From Anastasia the Musical)",
+      "hash": "be0f5d7e56b2d1b694380ae3ef5e67a3bab8a171",
+      "levelid": "custom_level_be0f5d7e56b2d1b694380ae3ef5e67a3bab8a171"
+    },
+    {
+      "key": "523ba",
+      "songName": "zzXxElricVanxXzz",
+      "hash": "27d0c77ec86d6031681315f7697f5b91a8ea9cf0",
+      "levelid": "custom_level_27d0c77ec86d6031681315f7697f5b91a8ea9cf0"
+    },
+    {
+      "key": "523b8",
+      "songName": "[Fitbeat] Flo Rida, T-Pain - Low",
+      "hash": "f54c19270f316c9a8b010fe9219b0362bd7eb3c9",
+      "levelid": "custom_level_f54c19270f316c9a8b010fe9219b0362bd7eb3c9"
+    },
+    {
+      "key": "523b6",
+      "songName": "Charlie's Inferno (Excuse Me Sir)",
+      "hash": "05d379d6dee46b3302e490477900ff6f6cb074ab",
+      "levelid": "custom_level_05d379d6dee46b3302e490477900ff6f6cb074ab"
+    },
+    {
+      "key": "523b3",
+      "songName": "Last regrets (Kanon OP)",
+      "hash": "2b6eafabb93a4658f814d9083cd723913da5ffb0",
+      "levelid": "custom_level_2b6eafabb93a4658f814d9083cd723913da5ffb0"
+    },
+    {
+      "key": "523b1",
+      "songName": "le monsieur des marais (il est mort remix)",
+      "hash": "ece5c0c893b9e00f78c61747077bfdba69dd619a",
+      "levelid": "custom_level_ece5c0c893b9e00f78c61747077bfdba69dd619a"
+    },
+    {
+      "key": "523ac",
+      "songName": "Skrillex - Syndicate",
+      "hash": "2c035d80a1b7a309d939cae9d91fb34e21e51d7b",
+      "levelid": "custom_level_2c035d80a1b7a309d939cae9d91fb34e21e51d7b"
+    },
+    {
+      "key": "523a9",
+      "songName": "PVZ Tree Vs Yeti",
+      "hash": "8d333b27b09559f13cb4917acd5d686fd4a062e0",
+      "levelid": "custom_level_8d333b27b09559f13cb4917acd5d686fd4a062e0"
+    },
+    {
+      "key": "523a8",
+      "songName": "Dual Doom Deathmatch",
+      "hash": "93684515f1e7e02432608104de78a4cd6bde3ff0",
+      "levelid": "custom_level_93684515f1e7e02432608104de78a4cd6bde3ff0"
+    },
+    {
+      "key": "52394",
+      "songName": "Timeless - The Weeknd, Playboi Carti",
+      "hash": "00b1a7076dcced0ffecc34e17248cb2417fca916",
+      "levelid": "custom_level_00b1a7076dcced0ffecc34e17248cb2417fca916"
+    },
+    {
+      "key": "523a1",
+      "songName": "[SPA Fitbeat Pack] Danza Kuduro - Don Omar (feat. Lucenzo)",
+      "hash": "8c6cd4b02b4a7b37efcd27783c3a40c36dc7aa85",
+      "levelid": "custom_level_8c6cd4b02b4a7b37efcd27783c3a40c36dc7aa85"
+    },
+    {
+      "key": "5239c",
+      "songName": "Holy Baam — Chupar Chups (Холи Бам — Песня про Чупар Чупс)",
+      "hash": "9af19de95fddce8c5b8cbbfd85a250caa7d7bd39",
+      "levelid": "custom_level_9af19de95fddce8c5b8cbbfd85a250caa7d7bd39"
+    },
+    {
+      "key": "52397",
+      "songName": "Fragile",
+      "hash": "5854e0327fe1d1b26aff3974a7587890d3c00cbd",
+      "levelid": "custom_level_5854e0327fe1d1b26aff3974a7587890d3c00cbd"
+    },
+    {
+      "key": "52396",
+      "songName": "Charlotte Aux Framboises (colate+kamome sano Remix)",
+      "hash": "a08c60826f32b4f1d02c567dcb054e9e233845ed",
+      "levelid": "custom_level_a08c60826f32b4f1d02c567dcb054e9e233845ed"
+    },
+    {
+      "key": "52392",
+      "songName": "S3RL x PiNKII - Pretty Little Kitty (Neko Nation 2wu)",
+      "hash": "09efffe9c00cd22c233f72c670acd2e6fd678a6c",
+      "levelid": "custom_level_09efffe9c00cd22c233f72c670acd2e6fd678a6c"
+    },
+    {
+      "key": "52391",
+      "songName": "CG5 - I See A Dreamer",
+      "hash": "f1d6fbbbc2fb976215a15455a37311945e1b707b",
+      "levelid": "custom_level_f1d6fbbbc2fb976215a15455a37311945e1b707b"
+    },
+    {
+      "key": "5238f",
+      "songName": "Gram VS Kobaryo - Yggdrasil",
+      "hash": "803f953ade4dba68b88ae4f3ed32ac68b8838a43",
+      "levelid": "custom_level_803f953ade4dba68b88ae4f3ed32ac68b8838a43"
+    },
+    {
+      "key": "5238e",
+      "songName": "First Date",
+      "hash": "e32be1ed3c03947d8765d647b7ff72e154897768",
+      "levelid": "custom_level_e32be1ed3c03947d8765d647b7ff72e154897768"
+    },
+    {
+      "key": "5238c",
+      "songName": "Cojale la Plata al Tigre",
+      "hash": "ab4de49fe695fdb23d528a317433cae1641e6be9",
+      "levelid": "custom_level_ab4de49fe695fdb23d528a317433cae1641e6be9"
+    },
+    {
+      "key": "5238b",
+      "songName": "Graduation Day",
+      "hash": "72fe84debb7a8c27cc0540b2b2c3f07d9f9a74c6",
+      "levelid": "custom_level_72fe84debb7a8c27cc0540b2b2c3f07d9f9a74c6"
+    },
+    {
+      "key": "5238a",
+      "songName": "We Don't Care",
+      "hash": "e3de804ef50e611eed5ccdf8cdc3441ad0f70016",
+      "levelid": "custom_level_e3de804ef50e611eed5ccdf8cdc3441ad0f70016"
+    },
+    {
+      "key": "52371",
+      "songName": "Digital Days - Gooseworx",
+      "hash": "3f4ea655457ea229711dd54edbf8a90c4176bd06",
+      "levelid": "custom_level_3f4ea655457ea229711dd54edbf8a90c4176bd06"
+    },
+    {
+      "key": "52382",
+      "songName": "ANOTHER SHOT",
+      "hash": "33e0392ba2f8de0fdd2e963441cf786504ad96f6",
+      "levelid": "custom_level_33e0392ba2f8de0fdd2e963441cf786504ad96f6"
+    },
+    {
+      "key": "5237c",
+      "songName": "NiziU - Take a picture",
+      "hash": "5d96da527e3d2599d393f828a17bad5e387e2e63",
+      "levelid": "custom_level_5d96da527e3d2599d393f828a17bad5e387e2e63"
+    },
+    {
+      "key": "5237a",
+      "songName": "Dame tu cosita",
+      "hash": "dc205533a1a20174e15eda536759eceebf64ce15",
+      "levelid": "custom_level_dc205533a1a20174e15eda536759eceebf64ce15"
+    },
+    {
+      "key": "52378",
+      "songName": "PLAYERRRS!!!",
+      "hash": "b659c1aac54d0ea573257cde323e108bd5a4b5c1",
+      "levelid": "custom_level_b659c1aac54d0ea573257cde323e108bd5a4b5c1"
+    },
+    {
+      "key": "52377",
+      "songName": "[Feetsaber]MORE ONE NIGHT",
+      "hash": "62faaa10b8fb3d065a7733aa6f2fb7d8a38cca58",
+      "levelid": "custom_level_62faaa10b8fb3d065a7733aa6f2fb7d8a38cca58"
+    },
+    {
+      "key": "52376",
+      "songName": "restaurante rico rico.zip",
+      "hash": "69e48b6bb99a6d1eea9296e324948c58eb01fdc5",
+      "levelid": "custom_level_69e48b6bb99a6d1eea9296e324948c58eb01fdc5"
+    },
+    {
+      "key": "52375",
+      "songName": "randy - ✿LASAGA✿",
+      "hash": "c5248a4efcab05c08f6d490cf555823d804f9061",
+      "levelid": "custom_level_c5248a4efcab05c08f6d490cf555823d804f9061"
+    },
+    {
+      "key": "5236f",
+      "songName": "iluvslapbass",
+      "hash": "5cc3cdd3285682a4436b28a4944a278e9708c051",
+      "levelid": "custom_level_5cc3cdd3285682a4436b28a4944a278e9708c051"
+    },
+    {
+      "key": "5235f",
+      "songName": "Koji Kondo - Bianco Hills (From \"Super Mario Sunshine\")",
+      "hash": "9aa08e11699155e3310380d2cd92266818316c4d",
+      "levelid": "custom_level_9aa08e11699155e3310380d2cd92266818316c4d"
+    },
+    {
+      "key": "52360",
+      "songName": "Qing Madi, VALORANT - EGO",
+      "hash": "09e1b80921f3e60e2c9a25d8163f253a9a1ac704",
+      "levelid": "custom_level_09e1b80921f3e60e2c9a25d8163f253a9a1ac704"
+    },
+    {
+      "key": "5234f",
+      "songName": "ちっちゃな私 covered by 明石繆 - マサラダ",
+      "hash": "802a48aa2c3ab8ddf5f2fc5716ac4f688711faa6",
+      "levelid": "custom_level_802a48aa2c3ab8ddf5f2fc5716ac4f688711faa6"
+    },
+    {
       "key": "5235d",
       "songName": "livetune、初音ミク - Catch the Wave（feat. 初音ミク）",
-      "hash": "1652c78c37242643ca1aabd0c735fcd43c4f362c",
-      "levelid": "custom_level_1652c78c37242643ca1aabd0c735fcd43c4f362c"
-    },
-    {
-      "key": "52351",
-      "songName": "Evgeny Trikoz — Deputat (Евгений Сергеевич — Депутат)",
-      "hash": "c15d75803027a3c8dd651ec30b2445d96e311775",
-      "levelid": "custom_level_c15d75803027a3c8dd651ec30b2445d96e311775"
-    },
-    {
-      "key": "52341",
-      "songName": "JPB - New Horizon (ft. Deverano)",
-      "hash": "0c0a19c75a014a6ac27d3eb9f3ff84f35319c1eb",
-      "levelid": "custom_level_0c0a19c75a014a6ac27d3eb9f3ff84f35319c1eb"
-    },
-    {
-      "key": "52354",
-      "songName": "1000 doors",
-      "hash": "a692563051578a41817ef9a19ce60d9676ca199d",
-      "levelid": "custom_level_a692563051578a41817ef9a19ce60d9676ca199d"
-    },
-    {
-      "key": "52350",
-      "songName": "Evan Fong - mailman",
-      "hash": "02c756d4e0f7bc13693bdc214c11c0b72e664889",
-      "levelid": "custom_level_02c756d4e0f7bc13693bdc214c11c0b72e664889"
-    },
-    {
-      "key": "5234d",
-      "songName": "Gyspy Bard - MLP",
-      "hash": "d520ddca01c3b5b46ae1d44198fed5004ac9f836",
-      "levelid": "custom_level_d520ddca01c3b5b46ae1d44198fed5004ac9f836"
-    },
-    {
-      "key": "5234c",
-      "songName": "Blossom (buffed)",
-      "hash": "c250e9f84ed44d6c1c843854cc5d3e4277c2c34b",
-      "levelid": "custom_level_c250e9f84ed44d6c1c843854cc5d3e4277c2c34b"
-    },
-    {
-      "key": "5234b",
-      "songName": "阿部真央 - Ding-dong",
-      "hash": "96ee701bd8b8bcc8b39c231d034b27afd35fb29f",
-      "levelid": "custom_level_96ee701bd8b8bcc8b39c231d034b27afd35fb29f"
-    },
-    {
-      "key": "52348",
-      "songName": "To the City - Information Society",
-      "hash": "eac732f8b11f5cd7be6395346fa63512c514fb1c",
-      "levelid": "custom_level_eac732f8b11f5cd7be6395346fa63512c514fb1c"
-    },
-    {
-      "key": "52347",
-      "songName": "明日への涙 (おねがい☆ツインズ ED)",
-      "hash": "1572b55cffd748e3c1de06294b073c63f3e41125",
-      "levelid": "custom_level_1572b55cffd748e3c1de06294b073c63f3e41125"
-    },
-    {
-      "key": "52343",
-      "songName": "Painting Rainbows",
-      "hash": "724f1568ca128fd9938b7ee9e663f36d151c84cb",
-      "levelid": "custom_level_724f1568ca128fd9938b7ee9e663f36d151c84cb"
-    },
-    {
-      "key": "52342",
-      "songName": "横浜レイニーブルー",
-      "hash": "50c8c54469d2375fd47c8706a7265667fd73b143",
-      "levelid": "custom_level_50c8c54469d2375fd47c8706a7265667fd73b143"
-    },
-    {
-      "key": "5233d",
-      "songName": "LakiSuno - Street Phonk",
-      "hash": "0faec8d1678d3bc0adbfa09af7a9a008c70ac005",
-      "levelid": "custom_level_0faec8d1678d3bc0adbfa09af7a9a008c70ac005"
-    },
-    {
-      "key": "5233a",
-      "songName": "Keep out!",
-      "hash": "94baab26a938e2453637785353e58828ccbfb0ea",
-      "levelid": "custom_level_94baab26a938e2453637785353e58828ccbfb0ea"
-    },
-    {
-      "key": "52339",
-      "songName": "Sickmode, Lekkerfaces - SORRY MAMA ",
-      "hash": "98b94d4ce7e0ecf8d889a3bb2f607792a7bee7f3",
-      "levelid": "custom_level_98b94d4ce7e0ecf8d889a3bb2f607792a7bee7f3"
-    },
-    {
-      "key": "52337",
-      "songName": "MONTAGEM PERIGOSA",
-      "hash": "4973642e76feff492f684cf6b8e1005360b33ce6",
-      "levelid": "custom_level_4973642e76feff492f684cf6b8e1005360b33ce6"
-    },
-    {
-      "key": "52334",
-      "songName": "96-glass - The Ritual",
-      "hash": "087890421a6fd3eed0ade6e5f79bd99823b073cf",
-      "levelid": "custom_level_087890421a6fd3eed0ade6e5f79bd99823b073cf"
-    },
-    {
-      "key": "52333",
-      "songName": "raverobber - MURDER CLUB & RAVEROBBER vs. \"IM GONNA KILL YOU\" (@ug x @sckx battle track)",
-      "hash": "424d19abfb1fb9edce9f17fff4a0e9ca0e3162c7",
-      "levelid": "custom_level_424d19abfb1fb9edce9f17fff4a0e9ca0e3162c7"
-    },
-    {
-      "key": "5232e",
-      "songName": "Meant to be",
-      "hash": "e0ec4fb4605474cffc5ec209a5d7d303a413c65c",
-      "levelid": "custom_level_e0ec4fb4605474cffc5ec209a5d7d303a413c65c"
-    },
-    {
-      "key": "5232d",
-      "songName": "Friday Pilots Club - Bury Me",
-      "hash": "61df4712cea2f9cd2f10dd29b5f0235e03f11286",
-      "levelid": "custom_level_61df4712cea2f9cd2f10dd29b5f0235e03f11286"
-    },
-    {
-      "key": "5232c",
-      "songName": "Spiral Nexus (KYS NOW - I am barely hanging on)",
-      "hash": "5487c98c5f2f614ecf1cfc19ae03418e838ddf34",
-      "levelid": "custom_level_5487c98c5f2f614ecf1cfc19ae03418e838ddf34"
-    },
-    {
-      "key": "5120f",
-      "songName": "J Balvin & Feid - Doblexxó",
-      "hash": "94cb1269007334d20be4691244d25fa94668f3cc",
-      "levelid": "custom_level_94cb1269007334d20be4691244d25fa94668f3cc"
-    },
-    {
-      "key": "5232b",
-      "songName": "Alonso Mazza - Manteca Mantecosa",
-      "hash": "522391b966a840d8a42828db3da894a4be3a8dee",
-      "levelid": "custom_level_522391b966a840d8a42828db3da894a4be3a8dee"
-    },
-    {
-      "key": "5232a",
-      "songName": "MAD",
-      "hash": "61f821cb50c1535155edfcbe82d729314808049b",
-      "levelid": "custom_level_61f821cb50c1535155edfcbe82d729314808049b"
-    },
-    {
-      "key": "52328",
-      "songName": "2055 - Sleepy Hollow",
-      "hash": "9cc3d17389e02c6240afc22e41553de8e227841a",
-      "levelid": "custom_level_9cc3d17389e02c6240afc22e41553de8e227841a"
-    },
-    {
-      "key": "5231d",
-      "songName": "Kenshi Yonezu - KICK BACK",
-      "hash": "8a51f6474b8d055af9c1fd54b93aa8557a665137",
-      "levelid": "custom_level_8a51f6474b8d055af9c1fd54b93aa8557a665137"
-    },
-    {
-      "key": "52319",
-      "songName": "Baldi's Basics Gummy Bear",
-      "hash": "b5ba0afcc91f63e80cdf3933349384c7824ad8b7",
-      "levelid": "custom_level_b5ba0afcc91f63e80cdf3933349384c7824ad8b7"
-    },
-    {
-      "key": "52317",
-      "songName": "You are the crystal gems (I am not)",
-      "hash": "ed61e5a43e1354c8fe59cf61cb5903bac0cf19a4",
-      "levelid": "custom_level_ed61e5a43e1354c8fe59cf61cb5903bac0cf19a4"
-    },
-    {
-      "key": "52318",
-      "songName": "Sarah Cothran - Baby Why",
-      "hash": "36c3e7fcfe6cd4dd74c5a60ed6a16dc548fbd111",
-      "levelid": "custom_level_36c3e7fcfe6cd4dd74c5a60ed6a16dc548fbd111"
-    },
-    {
-      "key": "52314",
-      "songName": "OXYGEN",
-      "hash": "5562eefad06ba2323ce90b5bbb76e692358832c9",
-      "levelid": "custom_level_5562eefad06ba2323ce90b5bbb76e692358832c9"
-    },
-    {
-      "key": "52310",
-      "songName": "[SPA Fitbeat Pack] yuri - tekito make",
-      "hash": "59f842c3c88d82eb427f08c3bd58ebc0f856bc7d",
-      "levelid": "custom_level_59f842c3c88d82eb427f08c3bd58ebc0f856bc7d"
-    },
-    {
-      "key": "5230b",
-      "songName": "my mcrib vibe",
-      "hash": "800e8a2eeb55d62cb2bbb2cd249d3b70591fcacf",
-      "levelid": "custom_level_800e8a2eeb55d62cb2bbb2cd249d3b70591fcacf"
-    },
-    {
-      "key": "52308",
-      "songName": "XO PET LLIF3",
-      "hash": "c899f3ea1cf0253348e88f7be09fd7c30930ea0b",
-      "levelid": "custom_level_c899f3ea1cf0253348e88f7be09fd7c30930ea0b"
-    },
-    {
-      "key": "52307",
-      "songName": "NiteStation - System Crash (NOODLE AND NON NOODLE MAP!!!)",
-      "hash": "0a6f9a69a57f52f01da818ade4de447500d17f36",
-      "levelid": "custom_level_0a6f9a69a57f52f01da818ade4de447500d17f36"
-    },
-    {
-      "key": "52306",
-      "songName": "Blurry Nights - BoyWithUke",
-      "hash": "03df5fc3fe7ffd02746db6cc6950e0af8ef45189",
-      "levelid": "custom_level_03df5fc3fe7ffd02746db6cc6950e0af8ef45189"
+      "hash": "3cfb18027123ecf7d00ee8ffad584fd6bda2f69e",
+      "levelid": "custom_level_3cfb18027123ecf7d00ee8ffad584fd6bda2f69e"
     }
   ],
   "image": ""
