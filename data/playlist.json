@@ -1,238 +1,184 @@
 {
-  "playlistTitle": "2026-06-25T15:18:48.153Z~2026-06-26T15:18:48.153Z",
+  "playlistTitle": "2026-06-26T15:18:47.832Z~2026-06-27T15:18:47.832Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-06-25T15:18:48.153Z and 2026-06-26T15:18:48.153Z",
+  "discripstion": "Maps published between 2026-06-26T15:18:47.832Z and 2026-06-27T15:18:47.832Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "525f5",
+      "songName": "きゅびずむ / cubism",
+      "hash": "f90b5b0547d1c5bddc663f7424dd20f0e92ffae5",
+      "levelid": "custom_level_f90b5b0547d1c5bddc663f7424dd20f0e92ffae5"
+    },
+    {
+      "key": "525f6",
+      "songName": "A Little Death - The Neighbourhood",
+      "hash": "db2a266df9f014a3a38ee10f73f1b7cc3cebad1d",
+      "levelid": "custom_level_db2a266df9f014a3a38ee10f73f1b7cc3cebad1d"
+    },
+    {
+      "key": "525f4",
+      "songName": "DESTRUCTION 3,2,1-Normal1zer Vs. Broken Nerdz",
+      "hash": "01c5b7905b0e2232fda47a7642238c9e8fdf5e8b",
+      "levelid": "custom_level_01c5b7905b0e2232fda47a7642238c9e8fdf5e8b"
+    },
+    {
+      "key": "525f3",
+      "songName": "Toby Fox - Petal Dance",
+      "hash": "82c753031e0355084947a0c60ae50838ded46ecc",
+      "levelid": "custom_level_82c753031e0355084947a0c60ae50838ded46ecc"
+    },
+    {
+      "key": "525f2",
+      "songName": "Sabisigure(寂時雨)",
+      "hash": "24fef5eb174c05954006e62a19669b72f71bef98",
+      "levelid": "custom_level_24fef5eb174c05954006e62a19669b72f71bef98"
+    },
+    {
+      "key": "525f0",
+      "songName": "Tarantula - Pendulum",
+      "hash": "406c77212105f8e5926ff93a6726ea64e104a4e3",
+      "levelid": "custom_level_406c77212105f8e5926ff93a6726ea64e104a4e3"
+    },
+    {
+      "key": "51f18",
+      "songName": "柿崎ユウタ - 月が綺麗ねと言われたい！ / yuta kakizaki - I Want You to Tell Me the Moon is Beautiful!",
+      "hash": "d8d0f7274e7044b97c60f49e0b41d7169faba768",
+      "levelid": "custom_level_d8d0f7274e7044b97c60f49e0b41d7169faba768"
+    },
+    {
+      "key": "525ee",
+      "songName": "Red fraction (BLACK LAGOON OP)",
+      "hash": "354fac77ab3222be209745b214a27c10c4f0d0c0",
+      "levelid": "custom_level_354fac77ab3222be209745b214a27c10c4f0d0c0"
+    },
+    {
+      "key": "525ec",
+      "songName": "gdfgdgdgd",
+      "hash": "fa697177c715d65677624ada485912441f79fd04",
+      "levelid": "custom_level_fa697177c715d65677624ada485912441f79fd04"
+    },
+    {
+      "key": "525eb",
+      "songName": "Good 4 u",
+      "hash": "31d2f3ac02f10a5bde82dddb4c7ac52daf8f46d9",
+      "levelid": "custom_level_31d2f3ac02f10a5bde82dddb4c7ac52daf8f46d9"
+    },
+    {
+      "key": "525ea",
+      "songName": "Melodiniq - onoken a.k.a. owl＊tree",
+      "hash": "d267a72d3d8ff28a932996b0f6f45b69468a9612",
+      "levelid": "custom_level_d267a72d3d8ff28a932996b0f6f45b69468a9612"
+    },
+    {
+      "key": "525e8",
+      "songName": "homage - 540Bpm jumps",
+      "hash": "d2ef58a8f3705641a3930f5d714914eee42fd729",
+      "levelid": "custom_level_d2ef58a8f3705641a3930f5d714914eee42fd729"
+    },
+    {
+      "key": "525e4",
+      "songName": "The Beths - No Joy",
+      "hash": "ff35cbd0af2d393cd6259f1f329529c909af4447",
+      "levelid": "custom_level_ff35cbd0af2d393cd6259f1f329529c909af4447"
+    },
+    {
+      "key": "525e5",
+      "songName": "fairs 👌",
+      "hash": "b4711ab22a6bb7da7952e28ec5e9dd4900df3621",
+      "levelid": "custom_level_b4711ab22a6bb7da7952e28ec5e9dd4900df3621"
+    },
+    {
+      "key": "525e2",
+      "songName": "LOVE SONG || QKReign",
+      "hash": "a694774ff34ce06c0c31a6a25b5bfb1f1c99b86d",
+      "levelid": "custom_level_a694774ff34ce06c0c31a6a25b5bfb1f1c99b86d"
+    },
+    {
+      "key": "525e1",
+      "songName": "BLINDED || Duumu",
+      "hash": "4ee1b02929763ff75419a57e4d8310ee69844ed9",
+      "levelid": "custom_level_4ee1b02929763ff75419a57e4d8310ee69844ed9"
+    },
+    {
+      "key": "525dd",
+      "songName": "NiziU - HEARTRIS",
+      "hash": "da8990fd70c34626bb1a0d4c4100bceeebc22362",
+      "levelid": "custom_level_da8990fd70c34626bb1a0d4c4100bceeebc22362"
+    },
+    {
+      "key": "525dc",
+      "songName": "Vainstains - Strange Beat",
+      "hash": "56c9b096f7cab40e5c77cb051b3a2d43257e14ff",
+      "levelid": "custom_level_56c9b096f7cab40e5c77cb051b3a2d43257e14ff"
+    },
+    {
+      "key": "525db",
+      "songName": "Seatrus - HeinousReaper",
+      "hash": "674d5dca60e0d4d9a0f0dc9d351b0c6542c57c8f",
+      "levelid": "custom_level_674d5dca60e0d4d9a0f0dc9d351b0c6542c57c8f"
+    },
+    {
+      "key": "525d9",
+      "songName": "テレポーテーション ～恋の未確認～ - Cute POP Mix -（エスパー魔美） - Re-wire Retro",
+      "hash": "8e651deb7acd590486c085935cef7acd87b7ffe9",
+      "levelid": "custom_level_8e651deb7acd590486c085935cef7acd87b7ffe9"
+    },
+    {
+      "key": "525d8",
+      "songName": "'85 Bimmer",
+      "hash": "952c0d00fec6e8bad2a02cdee72d6ecc87136110",
+      "levelid": "custom_level_952c0d00fec6e8bad2a02cdee72d6ecc87136110"
+    },
+    {
+      "key": "525d6",
+      "songName": "Oliver Tree - Hurt",
+      "hash": "5e78ef942f970e8cf2589f14cab2feccf932c1d2",
+      "levelid": "custom_level_5e78ef942f970e8cf2589f14cab2feccf932c1d2"
+    },
+    {
+      "key": "525d3",
+      "songName": "gladde paling - vögel (walddrossel)",
+      "hash": "f258a790a11c6831f371c4c74e485a737a8971d1",
+      "levelid": "custom_level_f258a790a11c6831f371c4c74e485a737a8971d1"
+    },
+    {
+      "key": "525d1",
+      "songName": "Perfect Lie",
+      "hash": "60eeed47adc2798b2f77239ad51bf71381f8e723",
+      "levelid": "custom_level_60eeed47adc2798b2f77239ad51bf71381f8e723"
+    },
+    {
+      "key": "525d0",
+      "songName": "멜트 아이스크림🍨🍦💦",
+      "hash": "621d3dc54792c0520e19970f451fe88c287ed9a3",
+      "levelid": "custom_level_621d3dc54792c0520e19970f451fe88c287ed9a3"
+    },
+    {
+      "key": "525ca",
+      "songName": "saaa - MORNINGLOOM",
+      "hash": "1f4809f530a06deea607d4ad50913ff360a2ff1c",
+      "levelid": "custom_level_1f4809f530a06deea607d4ad50913ff360a2ff1c"
+    },
+    {
+      "key": "525c8",
+      "songName": "NUEKI, TOLCHONOV & SHPORIN - CHEREPASHKA (Sped Up)",
+      "hash": "ed87ff7326eb5213e53798e3d98a39d031f13b09",
+      "levelid": "custom_level_ed87ff7326eb5213e53798e3d98a39d031f13b09"
+    },
+    {
+      "key": "525c5",
+      "songName": "Owl City & Carly Rae Jepsen - Good Time (V4)",
+      "hash": "186ad74fcadb7cf3e2d99ffa482c15e7591cab6a",
+      "levelid": "custom_level_186ad74fcadb7cf3e2d99ffa482c15e7591cab6a"
+    },
+    {
       "key": "525bf",
       "songName": "Tenderlybae - Аскорбинка",
-      "hash": "73e8880c1dcf5142f2f2a3e5ed3e8095285eb71b",
-      "levelid": "custom_level_73e8880c1dcf5142f2f2a3e5ed3e8095285eb71b"
-    },
-    {
-      "key": "525bd",
-      "songName": "Camellia - Love yiff!",
-      "hash": "7486af19a64feae1b4afd203bd5b9527c2ab5048",
-      "levelid": "custom_level_7486af19a64feae1b4afd203bd5b9527c2ab5048"
-    },
-    {
-      "key": "525ba",
-      "songName": "Hypercharged - Electric Callboy X Brawl Stars",
-      "hash": "96c1e335d1964cabf2770a9af6a001416134dbd8",
-      "levelid": "custom_level_96c1e335d1964cabf2770a9af6a001416134dbd8"
-    },
-    {
-      "key": "525bc",
-      "songName": "Chaos Construct",
-      "hash": "133e61d7315f8030d4e79ac3f90bd15614445d3d",
-      "levelid": "custom_level_133e61d7315f8030d4e79ac3f90bd15614445d3d"
-    },
-    {
-      "key": "525bb",
-      "songName": "android52 - Fall In Love",
-      "hash": "f8b0a1162bc81a8eff388f97c396c8d33c6ffa14",
-      "levelid": "custom_level_f8b0a1162bc81a8eff388f97c396c8d33c6ffa14"
-    },
-    {
-      "key": "506d1",
-      "songName": "The Nolans - Im In The Mood For Dancing (1979)",
-      "hash": "ffc003add62681d07835dd002dc60bbe4761a41f",
-      "levelid": "custom_level_ffc003add62681d07835dd002dc60bbe4761a41f"
-    },
-    {
-      "key": "525b7",
-      "songName": "Down Down Down (Casualties: Unknown) (by ivycomb feat. OodleZz)",
-      "hash": "b7b45b4bbc85eea1076dbb4785c0d8c3ad7196e3",
-      "levelid": "custom_level_b7b45b4bbc85eea1076dbb4785c0d8c3ad7196e3"
-    },
-    {
-      "key": "52525",
-      "songName": "HoneyWorks  - キラキラ feat.ハコニワリリィ",
-      "hash": "7d3d9e3b02f91cd6d9040e77ceb9233e384f11d9",
-      "levelid": "custom_level_7d3d9e3b02f91cd6d9040e77ceb9233e384f11d9"
-    },
-    {
-      "key": "525b6",
-      "songName": "Milk Talk - Enchanting Stranger (Forza Horizon 6 Original Soundtrack) ",
-      "hash": "2337176961665cf6694bf17813be0d41ebda61bd",
-      "levelid": "custom_level_2337176961665cf6694bf17813be0d41ebda61bd"
-    },
-    {
-      "key": "5257d",
-      "songName": " Hana - Kuukirikigaku Shoujo to Shounen no Uta [Subahibi OP]",
-      "hash": "3b7d25982eb8b49de6d151506f062c525b919331",
-      "levelid": "custom_level_3b7d25982eb8b49de6d151506f062c525b919331"
-    },
-    {
-      "key": "525b4",
-      "songName": "ルーマー Rumor - HACHI cover ",
-      "hash": "f0b8501d9c4423f7fb53f3a3b8678d98f1593d7d",
-      "levelid": "custom_level_f0b8501d9c4423f7fb53f3a3b8678d98f1593d7d"
-    },
-    {
-      "key": "525b3",
-      "songName": "Virgin's high! (スカイガールズ OP)",
-      "hash": "9ea6e1277602fb47a557314e352329b9a92f0738",
-      "levelid": "custom_level_9ea6e1277602fb47a557314e352329b9a92f0738"
-    },
-    {
-      "key": "525b2",
-      "songName": "JVKE, ZVC- made for me (Poodle)",
-      "hash": "7d3391d0c9f8567ebb3bf4e88acdc83626730518",
-      "levelid": "custom_level_7d3391d0c9f8567ebb3bf4e88acdc83626730518"
-    },
-    {
-      "key": "525af",
-      "songName": "Creepy Nuts - Bling-Bang-Bang-Born",
-      "hash": "ced416b8ec8abcc174e1a8d0e759aaed2277daed",
-      "levelid": "custom_level_ced416b8ec8abcc174e1a8d0e759aaed2277daed"
-    },
-    {
-      "key": "525ae",
-      "songName": "Duel of the Fates Remix",
-      "hash": "993e1e772de3f2a19b3758d23a7adf08dccae59a",
-      "levelid": "custom_level_993e1e772de3f2a19b3758d23a7adf08dccae59a"
-    },
-    {
-      "key": "525ad",
-      "songName": "Candy",
-      "hash": "267c7b3d511128b9a53037ae90896a61c19b428b",
-      "levelid": "custom_level_267c7b3d511128b9a53037ae90896a61c19b428b"
-    },
-    {
-      "key": "525ac",
-      "songName": "Urbanstep & Micah Martin - Parallel (Volterix Remix)",
-      "hash": "34adfcc2123f47feca9f43753fc82458b5387dfb",
-      "levelid": "custom_level_34adfcc2123f47feca9f43753fc82458b5387dfb"
-    },
-    {
-      "key": "525aa",
-      "songName": "Kaneda7 - FEATHER PILLOWS",
-      "hash": "9a90c476814e7485996d00da882b3ce0474e0dc3",
-      "levelid": "custom_level_9a90c476814e7485996d00da882b3ce0474e0dc3"
-    },
-    {
-      "key": "525a8",
-      "songName": "Jiyuu no Tsubasa",
-      "hash": "cc0ec2dbef7b57f3fca444e56fa1f3131222a82b",
-      "levelid": "custom_level_cc0ec2dbef7b57f3fca444e56fa1f3131222a82b"
-    },
-    {
-      "key": "525a7",
-      "songName": "Edamame (BBNO$)",
-      "hash": "697ebbf4ccc6d67b57c7081f9b3509d461a7b476",
-      "levelid": "custom_level_697ebbf4ccc6d67b57c7081f9b3509d461a7b476"
-    },
-    {
-      "key": "525a6",
-      "songName": "Foreigner ( glaive) - v2",
-      "hash": "93ce7cfb0182b210f557ba75644fcb28dbe5edb9",
-      "levelid": "custom_level_93ce7cfb0182b210f557ba75644fcb28dbe5edb9"
-    },
-    {
-      "key": "525a4",
-      "songName": "Feist - My Moon My Man",
-      "hash": "072e766f7d6887253652dffea4814a6318cf254f",
-      "levelid": "custom_level_072e766f7d6887253652dffea4814a6318cf254f"
-    },
-    {
-      "key": "525a1",
-      "songName": "Josiah Slatt - West Wood V2",
-      "hash": "45f0c9cb7e2639e64cbb7e5dff2fd22b6f56cee4",
-      "levelid": "custom_level_45f0c9cb7e2639e64cbb7e5dff2fd22b6f56cee4"
-    },
-    {
-      "key": "5259c",
-      "songName": "Love Honk No. 5",
-      "hash": "e276ac57dc05c3e1be5b5555d1ca4e1ad1b4d259",
-      "levelid": "custom_level_e276ac57dc05c3e1be5b5555d1ca4e1ad1b4d259"
-    },
-    {
-      "key": "52596",
-      "songName": "BIG BAD WOLF baldi basics meme",
-      "hash": "7638ad9e317bb7472a2a3dae80b4502e3588944c",
-      "levelid": "custom_level_7638ad9e317bb7472a2a3dae80b4502e3588944c"
-    },
-    {
-      "key": "52595",
-      "songName": "skin 620",
-      "hash": "3ff30bb2e388bb82f24570397df1e66587b6fa75",
-      "levelid": "custom_level_3ff30bb2e388bb82f24570397df1e66587b6fa75"
-    },
-    {
-      "key": "52594",
-      "songName": "Over You",
-      "hash": "15305a9781dcabc2038a094b7a873ce1f915a37a",
-      "levelid": "custom_level_15305a9781dcabc2038a094b7a873ce1f915a37a"
-    },
-    {
-      "key": "52593",
-      "songName": "Joyride",
-      "hash": "241ec45ef9a29d979bc7e7e24e6f30bb5a0c765d",
-      "levelid": "custom_level_241ec45ef9a29d979bc7e7e24e6f30bb5a0c765d"
-    },
-    {
-      "key": "5258e",
-      "songName": "PinkPantheress - Stateside (with Zara Larsson)",
-      "hash": "d55540d6facf31d24ad97f06b043728eecc0acb8",
-      "levelid": "custom_level_d55540d6facf31d24ad97f06b043728eecc0acb8"
-    },
-    {
-      "key": "5258d",
-      "songName": "Dreamcrusher - Adore",
-      "hash": "662f411a09db2de72c1d934c7a9a542be9c6ec45",
-      "levelid": "custom_level_662f411a09db2de72c1d934c7a9a542be9c6ec45"
-    },
-    {
-      "key": "5258c",
-      "songName": "红日",
-      "hash": "4d139980d51c9508ed7e022dade3593919416e0b",
-      "levelid": "custom_level_4d139980d51c9508ed7e022dade3593919416e0b"
-    },
-    {
-      "key": "5258b",
-      "songName": "Gangsta Rap - Ni**a Ni**a Ni**a",
-      "hash": "f83dda2c22625402d0cf79bed97f5a80f6652e10",
-      "levelid": "custom_level_f83dda2c22625402d0cf79bed97f5a80f6652e10"
-    },
-    {
-      "key": "52588",
-      "songName": "Sakamoto Sakura - Warrior",
-      "hash": "60fa78b722814b2b1033373e37d685e69199358d",
-      "levelid": "custom_level_60fa78b722814b2b1033373e37d685e69199358d"
-    },
-    {
-      "key": "5254b",
-      "songName": "The Everlasting Calamity That Shifts The Time - Space Continuum On A Nanosecondal Basis",
-      "hash": "09d11ace33c7bd9dc40efa3546dceef83ef20bf1",
-      "levelid": "custom_level_09d11ace33c7bd9dc40efa3546dceef83ef20bf1"
-    },
-    {
-      "key": "52587",
-      "songName": "Apple - Chirp ringtone",
-      "hash": "a60a73dc7609c8cd922db0bc0e913d93b2f61ff3",
-      "levelid": "custom_level_a60a73dc7609c8cd922db0bc0e913d93b2f61ff3"
-    },
-    {
-      "key": "52586",
-      "songName": "royalty",
-      "hash": "b8904acb42aa18f3a3fd15798e92d2ca0b06254c",
-      "levelid": "custom_level_b8904acb42aa18f3a3fd15798e92d2ca0b06254c"
-    },
-    {
-      "key": "52585",
-      "songName": "QuomodocunquizE",
-      "hash": "09f2c75c20a6bce310350359effebac4bc2b4354",
-      "levelid": "custom_level_09f2c75c20a6bce310350359effebac4bc2b4354"
-    },
-    {
-      "key": "52584",
-      "songName": "The Land Before Time",
-      "hash": "1df356ace4fd744d8431a16f41f9f96766e46218",
-      "levelid": "custom_level_1df356ace4fd744d8431a16f41f9f96766e46218"
+      "hash": "3a70b011e65f2640b1e158aa6b0fd453914b9d64",
+      "levelid": "custom_level_3a70b011e65f2640b1e158aa6b0fd453914b9d64"
     }
   ],
   "image": ""
