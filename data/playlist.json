@@ -1,286 +1,214 @@
 {
-  "playlistTitle": "2026-06-28T15:18:48.072Z~2026-06-29T15:18:48.072Z",
+  "playlistTitle": "2026-06-29T15:18:48.712Z~2026-06-30T15:18:48.712Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-06-28T15:18:48.072Z and 2026-06-29T15:18:48.072Z",
+  "discripstion": "Maps published between 2026-06-29T15:18:48.712Z and 2026-06-30T15:18:48.712Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "5268f",
-      "songName": "bedrott",
-      "hash": "060a70975aa33dc526ad95bf7cdb880745ec59da",
-      "levelid": "custom_level_060a70975aa33dc526ad95bf7cdb880745ec59da"
+      "key": "526d9",
+      "songName": "Delivery from a Sanctuary",
+      "hash": "7201d27f0541dd896e7894ba0a9df0133935df87",
+      "levelid": "custom_level_7201d27f0541dd896e7894ba0a9df0133935df87"
     },
     {
-      "key": "5268c",
-      "songName": "TOXIC (feat. Shabel Tonya)",
-      "hash": "253fa903ee2392e6e728bfb7189f66572331e896",
-      "levelid": "custom_level_253fa903ee2392e6e728bfb7189f66572331e896"
+      "key": "526d7",
+      "songName": "Lida - Коля, Коля 2",
+      "hash": "75b1402b187bcecc197196e0120a16b2c4d34ea6",
+      "levelid": "custom_level_75b1402b187bcecc197196e0120a16b2c4d34ea6"
     },
     {
-      "key": "5268b",
-      "songName": "Bad Omens - Dying To Love",
-      "hash": "1d533dfa7a1950197db15930d810609c0a09ca16",
-      "levelid": "custom_level_1d533dfa7a1950197db15930d810609c0a09ca16"
+      "key": "526d0",
+      "songName": "DESTRUCTION 3,2,1-Normal1zer Vs. Broken Nerdz",
+      "hash": "22399e8ef7f6cbcfb1e3b543577b8b18027e8b0b",
+      "levelid": "custom_level_22399e8ef7f6cbcfb1e3b543577b8b18027e8b0b"
     },
     {
-      "key": "5268a",
-      "songName": " 𝓘𝓽 𝓦𝓪𝓼 𝓐 𝓖𝓸𝓸𝓭 𝓓𝓪𝔂. x @logout #JerseyClub",
-      "hash": "e9f91060251b16dd34ab6c34240495787def1548",
-      "levelid": "custom_level_e9f91060251b16dd34ab6c34240495787def1548"
+      "key": "526d6",
+      "songName": "Akai Haato - Doll",
+      "hash": "e8158028fe872057cae5218f82eff5ad45c2f265",
+      "levelid": "custom_level_e8158028fe872057cae5218f82eff5ad45c2f265"
     },
     {
-      "key": "52685",
-      "songName": "HALLO CEL - CandyCookieChocolate (feat. Kasane Teto, Hatsune Miku)",
-      "hash": "a2be57df994d2ad61fdfeb37f65d12211c571e61",
-      "levelid": "custom_level_a2be57df994d2ad61fdfeb37f65d12211c571e61"
+      "key": "526d5",
+      "songName": "ruffneck",
+      "hash": "67a4982a2db7ec7408412fe4576bdba9501816c0",
+      "levelid": "custom_level_67a4982a2db7ec7408412fe4576bdba9501816c0"
     },
     {
-      "key": "52683",
-      "songName": "why, or why not (ひぐらしのなく頃に ED)",
-      "hash": "793747bfc56860fffc7367a87ff56d03b28dca60",
-      "levelid": "custom_level_793747bfc56860fffc7367a87ff56d03b28dca60"
+      "key": "526d3",
+      "songName": "ChroNoiR - Bloody Groovy (La+ Darknesss × Amane Kanata  Cover.)",
+      "hash": "45e27a5f4de4ebfb9caee0732832c2a4490ae653",
+      "levelid": "custom_level_45e27a5f4de4ebfb9caee0732832c2a4490ae653"
     },
     {
-      "key": "52681",
-      "songName": "C-Show - GIMME DA BLOOD",
-      "hash": "7c321814dc8cc34e54fbd2fab4441398aa56bdba",
-      "levelid": "custom_level_7c321814dc8cc34e54fbd2fab4441398aa56bdba"
+      "key": "526d2",
+      "songName": "Tharoza - Mindcontroller",
+      "hash": "2ecc220dd4bb6e2f0a05a58145d3cd06575ec490",
+      "levelid": "custom_level_2ecc220dd4bb6e2f0a05a58145d3cd06575ec490"
     },
     {
-      "key": "52680",
-      "songName": "PHANTASMAGORIA - Gynx & EGGPRIEST",
-      "hash": "890545919fadea270c61a2e778d3424b55758921",
-      "levelid": "custom_level_890545919fadea270c61a2e778d3424b55758921"
+      "key": "526d1",
+      "songName": "Blank Media Games - The Coven Rises (Town of Salem)",
+      "hash": "b397b5d62374c99f995e7862b25d266e9665bd62",
+      "levelid": "custom_level_b397b5d62374c99f995e7862b25d266e9665bd62"
     },
     {
-      "key": "5267c",
-      "songName": "HUNDREDFOLD - STAND AS ONE (FEAT. 100 ARTISTS)",
-      "hash": "c7ba44114c1c12ddb2c3a47181447b750cb499fd",
-      "levelid": "custom_level_c7ba44114c1c12ddb2c3a47181447b750cb499fd"
+      "key": "526cf",
+      "songName": "奈落の花 (ひぐらしのなく頃に解 OP)",
+      "hash": "c1dbbc5dfd4f536e06f895d55b348dde7e1030f8",
+      "levelid": "custom_level_c1dbbc5dfd4f536e06f895d55b348dde7e1030f8"
     },
     {
-      "key": "5267e",
-      "songName": "Russkaja - Autodrom",
-      "hash": "711a05d115523f076f9ea902ee3191fa5ed09973",
-      "levelid": "custom_level_711a05d115523f076f9ea902ee3191fa5ed09973"
+      "key": "526c8",
+      "songName": "Heaven Pierce Her - Event Horizon (Reach for the Sun and Burn! Burn! Burn!) (From \"ULTRAKILL\")",
+      "hash": "baa25b4b96f675b922cc574ccab43e36652446cf",
+      "levelid": "custom_level_baa25b4b96f675b922cc574ccab43e36652446cf"
     },
     {
-      "key": "5267d",
-      "songName": "Poop Time",
-      "hash": "65741233152a076862993be51c244a96f14e3a10",
-      "levelid": "custom_level_65741233152a076862993be51c244a96f14e3a10"
+      "key": "526b6",
+      "songName": "G,A,M,E,O,V,E,R",
+      "hash": "2b268d7e715d4821f676e3ba667a96b65bb9923e",
+      "levelid": "custom_level_2b268d7e715d4821f676e3ba667a96b65bb9923e"
     },
     {
-      "key": "5267a",
-      "songName": "Wada Takeaki (Kurage-P) - SHOW OFF (Leo/need × 初音ミク cover)",
-      "hash": "065297d8b917eea7a9a825461bbc61373a50a3bf",
-      "levelid": "custom_level_065297d8b917eea7a9a825461bbc61373a50a3bf"
+      "key": "526b4",
+      "songName": "Lchavasse - Windglass",
+      "hash": "934ae78804e76c908c758d6d723b4bd29034db1c",
+      "levelid": "custom_level_934ae78804e76c908c758d6d723b4bd29034db1c"
     },
     {
-      "key": "52678",
-      "songName": "The Devil Incarnate",
-      "hash": "f45f2612213a7a6af802ebcbf4e4bcbb487b3fdb",
-      "levelid": "custom_level_f45f2612213a7a6af802ebcbf4e4bcbb487b3fdb"
+      "key": "526b3",
+      "songName": "You Know What They Do To Guys Like Us In Prison",
+      "hash": "7443c949e81fdfbf49b36983d4909d37774d07e9",
+      "levelid": "custom_level_7443c949e81fdfbf49b36983d4909d37774d07e9"
     },
     {
-      "key": "52675",
-      "songName": "Weezer - Piece Of Cake",
-      "hash": "9b3bba444f5d7722849b2906869363927bc5b2ec",
-      "levelid": "custom_level_9b3bba444f5d7722849b2906869363927bc5b2ec"
+      "key": "526b2",
+      "songName": "SURGE",
+      "hash": "61e089ffbd33bff5228460ec464d6d7e456ced89",
+      "levelid": "custom_level_61e089ffbd33bff5228460ec464d6d7e456ced89"
     },
     {
-      "key": "52673",
-      "songName": "Workout Plan",
-      "hash": "976304171346bf43327ccddbe69da358ce732f82",
-      "levelid": "custom_level_976304171346bf43327ccddbe69da358ce732f82"
+      "key": "526ad",
+      "songName": "150 bpm practice map",
+      "hash": "ec40386392ddcd9189b3297a9d3797c1575c06f6",
+      "levelid": "custom_level_ec40386392ddcd9189b3297a9d3797c1575c06f6"
     },
     {
-      "key": "52672",
-      "songName": "Get Em High",
-      "hash": "20792148874a1ce51b8bb91da821a7e55a1becba",
-      "levelid": "custom_level_20792148874a1ce51b8bb91da821a7e55a1becba"
+      "key": "526ac",
+      "songName": "minigameee",
+      "hash": "e70b4bc6ec20e0c11172ac02357cfd7a2c87aeda",
+      "levelid": "custom_level_e70b4bc6ec20e0c11172ac02357cfd7a2c87aeda"
     },
     {
-      "key": "52671",
-      "songName": "Shiseikan ni Sayonara ～死生観にさよなら～ Abaraya あばらや",
-      "hash": "ad47699d8aceeb6c07f0f714e3721a7735ab9afe",
-      "levelid": "custom_level_ad47699d8aceeb6c07f0f714e3721a7735ab9afe"
+      "key": "526ab",
+      "songName": "I dont wanna live like this anymore",
+      "hash": "ced4c55cb0257c49a9107a07c6d952776144a3df",
+      "levelid": "custom_level_ced4c55cb0257c49a9107a07c6d952776144a3df"
     },
     {
-      "key": "52670",
-      "songName": "wide",
-      "hash": "d9843690acef2f1b9e9bdd30a4d4dd289d4c8a2f",
-      "levelid": "custom_level_d9843690acef2f1b9e9bdd30a4d4dd289d4c8a2f"
+      "key": "526a9",
+      "songName": "Femtanyl - SICK OF IT",
+      "hash": "e32040d4e4f7b0fa03d868a820516511327333a3",
+      "levelid": "custom_level_e32040d4e4f7b0fa03d868a820516511327333a3"
     },
     {
-      "key": "5266c",
-      "songName": "Sabrina Carpenter - Espresso",
-      "hash": "5b78f18d22e6a01cb03473da45bb4e27904c790f",
-      "levelid": "custom_level_5b78f18d22e6a01cb03473da45bb4e27904c790f"
+      "key": "526a7",
+      "songName": "Cum for me",
+      "hash": "73d1c93053dd7dc731919776abbc826628aa6f5f",
+      "levelid": "custom_level_73d1c93053dd7dc731919776abbc826628aa6f5f"
     },
     {
-      "key": "5266b",
-      "songName": "Toby Fox - Cutie Mew Mew Magic",
-      "hash": "e4925be699e387179a8a63d730f80ec5ad6c3df9",
-      "levelid": "custom_level_e4925be699e387179a8a63d730f80ec5ad6c3df9"
+      "key": "526a5",
+      "songName": "The Dark Forest",
+      "hash": "38f1845d8d361a98875392b7c77bffde43d21460",
+      "levelid": "custom_level_38f1845d8d361a98875392b7c77bffde43d21460"
     },
     {
-      "key": "52668",
-      "songName": "Expect",
-      "hash": "8428f38984c5f76cea4b664c05f6133dced37ae6",
-      "levelid": "custom_level_8428f38984c5f76cea4b664c05f6133dced37ae6"
+      "key": "526a3",
+      "songName": "Dawn",
+      "hash": "a4386d1c9317725cbfb243ee7303036608c9ba8b",
+      "levelid": "custom_level_a4386d1c9317725cbfb243ee7303036608c9ba8b"
     },
     {
-      "key": "52667",
-      "songName": "a horrible trash map",
-      "hash": "8fb1d443c06a6a28f34c897eb20568c64346495e",
-      "levelid": "custom_level_8fb1d443c06a6a28f34c897eb20568c64346495e"
+      "key": "526a4",
+      "songName": "Do It Hard",
+      "hash": "a7e7c5cef4904cffc8c41702e34be23c914569a3",
+      "levelid": "custom_level_a7e7c5cef4904cffc8c41702e34be23c914569a3"
     },
     {
-      "key": "52666",
-      "songName": "Never Let Me Down",
-      "hash": "56bbc29336afb65d1b2e987011a64b92104a2f57",
-      "levelid": "custom_level_56bbc29336afb65d1b2e987011a64b92104a2f57"
+      "key": "5269f",
+      "songName": "TV Girl - Taking What's Not Yours",
+      "hash": "947ba233884520b5deb22424130b8c76f868e02d",
+      "levelid": "custom_level_947ba233884520b5deb22424130b8c76f868e02d"
     },
     {
-      "key": "52665",
-      "songName": "MAN WITH A MISSION - Dead End in Tokyo",
-      "hash": "b9e04c9b8bcc2c41c627b9557d280d9d7bd58d1b",
-      "levelid": "custom_level_b9e04c9b8bcc2c41c627b9557d280d9d7bd58d1b"
+      "key": "5269e",
+      "songName": "FGTEEV - Walk Like Shawn",
+      "hash": "490bf6a0da6b30efd116d45327c66d05707bd08b",
+      "levelid": "custom_level_490bf6a0da6b30efd116d45327c66d05707bd08b"
     },
     {
-      "key": "52664",
-      "songName": "Ultimate Number Challenge",
-      "hash": "56bdfee7397208d94d7dd58f341b0cd31babff1d",
-      "levelid": "custom_level_56bdfee7397208d94d7dd58f341b0cd31babff1d"
+      "key": "5269c",
+      "songName": "Stay - Rihanna",
+      "hash": "27009fc30393209a655c47f6a013543437107d8b",
+      "levelid": "custom_level_27009fc30393209a655c47f6a013543437107d8b"
     },
     {
-      "key": "52663",
-      "songName": "Cyrogen",
-      "hash": "77fca35a4f976d512f3669c44c9c3eb32a9c7fd3",
-      "levelid": "custom_level_77fca35a4f976d512f3669c44c9c3eb32a9c7fd3"
+      "key": "52699",
+      "songName": "Lily Mizusaki - Step Quietly",
+      "hash": "48bb2bb1f3abed819f05ccb99b1397d427d9e43e",
+      "levelid": "custom_level_48bb2bb1f3abed819f05ccb99b1397d427d9e43e"
     },
     {
-      "key": "5265e",
-      "songName": "Dr Dingledog Dickhair - bark fart theory",
-      "hash": "f1ce9a8547ceae75d7f27f03873192b514509653",
-      "levelid": "custom_level_f1ce9a8547ceae75d7f27f03873192b514509653"
+      "key": "52698",
+      "songName": "Baumkuchen test",
+      "hash": "81a3cc4fd172a5c51c02f8d7a98a2686d63cb921",
+      "levelid": "custom_level_81a3cc4fd172a5c51c02f8d7a98a2686d63cb921"
     },
     {
-      "key": "52623",
-      "songName": "hardstyle etiquette",
-      "hash": "7f6277e302eb6deee6921937e2db173d691e0db2",
-      "levelid": "custom_level_7f6277e302eb6deee6921937e2db173d691e0db2"
+      "key": "52697",
+      "songName": "pinata - I'm talking to you! / アンタに言ってんの！ ft. UTAU teto",
+      "hash": "92c42d1a22dc87ff7761627b40cf01f7dd82c1dd",
+      "levelid": "custom_level_92c42d1a22dc87ff7761627b40cf01f7dd82c1dd"
     },
     {
-      "key": "5265b",
-      "songName": "PLS JUST SUFF3R - Fresca",
-      "hash": "4c2526cb4abb60ee2d371906167ced8ab50b98ad",
-      "levelid": "custom_level_4c2526cb4abb60ee2d371906167ced8ab50b98ad"
+      "key": "52696",
+      "songName": "The Truth Box",
+      "hash": "463b60e6c8060e0e8e708b8ef58d8d237be838db",
+      "levelid": "custom_level_463b60e6c8060e0e8e708b8ef58d8d237be838db"
     },
     {
-      "key": "5265a",
-      "songName": "LocatingThumb.mp3",
-      "hash": "75b72e73994694d84c32db88d38cac1feebbeefd",
-      "levelid": "custom_level_75b72e73994694d84c32db88d38cac1feebbeefd"
+      "key": "52695",
+      "songName": "Public Civilian News",
+      "hash": "954be1675d3055704ec6ef8caab203276943229a",
+      "levelid": "custom_level_954be1675d3055704ec6ef8caab203276943229a"
     },
     {
-      "key": "52659",
-      "songName": "OVER NOW EXTENDED",
-      "hash": "86536eb21a00a5d03be4eee6d4b39674bc4cf62d",
-      "levelid": "custom_level_86536eb21a00a5d03be4eee6d4b39674bc4cf62d"
+      "key": "52694",
+      "songName": "SocksFor1's Old Outro",
+      "hash": "e0c54b16dc30a72cae3d234ea63cbbe69d97d72a",
+      "levelid": "custom_level_e0c54b16dc30a72cae3d234ea63cbbe69d97d72a"
     },
     {
-      "key": "52654",
-      "songName": "We Could Be Together",
-      "hash": "0dde82101a4cef9fc39fedc9d3dc66b2b2580d37",
-      "levelid": "custom_level_0dde82101a4cef9fc39fedc9d3dc66b2b2580d37"
+      "key": "52693",
+      "songName": "defender of time",
+      "hash": "09e56da493aaeddbd613a99cd3a39f452b22c445",
+      "levelid": "custom_level_09e56da493aaeddbd613a99cd3a39f452b22c445"
     },
     {
-      "key": "52655",
-      "songName": "Awh Shweet",
-      "hash": "9b7f26b9ca2f6b6ab6c3d41e8b42cf8de3b30f1d",
-      "levelid": "custom_level_9b7f26b9ca2f6b6ab6c3d41e8b42cf8de3b30f1d"
+      "key": "52692",
+      "songName": "Raven - Kenshi Yonezu (short ver.)",
+      "hash": "1af01c2e9c85d690dafd5025146c371a2c0630cf",
+      "levelid": "custom_level_1af01c2e9c85d690dafd5025146c371a2c0630cf"
     },
     {
-      "key": "5264e",
-      "songName": "EMPIRE STATE OF MIND",
-      "hash": "8b79deeeb8c0f57eadbb8deefcdb8289e1a8070b",
-      "levelid": "custom_level_8b79deeeb8c0f57eadbb8deefcdb8289e1a8070b"
-    },
-    {
-      "key": "5264d",
-      "songName": "KITSCHKRIEG - GUT GEUNG",
-      "hash": "526b47701469aad1a1fedcaeae12cbec17f459ee",
-      "levelid": "custom_level_526b47701469aad1a1fedcaeae12cbec17f459ee"
-    },
-    {
-      "key": "5264c",
-      "songName": "[FitBeat]  Break The Chains - Jim Yosef ",
-      "hash": "f6f60cb2dca7b49ab9ccf247ae3a2899fbe1cc78",
-      "levelid": "custom_level_f6f60cb2dca7b49ab9ccf247ae3a2899fbe1cc78"
-    },
-    {
-      "key": "5264a",
-      "songName": "GO GO GO 89ers Nightcore",
-      "hash": "89911efe76a504993f95bfb0da89dcdc2db49138",
-      "levelid": "custom_level_89911efe76a504993f95bfb0da89dcdc2db49138"
-    },
-    {
-      "key": "5262c",
-      "songName": "Mindless Self Indulgence - Born to Be Beheaded",
-      "hash": "98d837f634cb9a6743e3a164ead56166b03e7d0b",
-      "levelid": "custom_level_98d837f634cb9a6743e3a164ead56166b03e7d0b"
-    },
-    {
-      "key": "52627",
-      "songName": "Mindless Self Indulgence - Tornado",
-      "hash": "0762950e90340db6dfdc984a61e8997018354eb3",
-      "levelid": "custom_level_0762950e90340db6dfdc984a61e8997018354eb3"
-    },
-    {
-      "key": "5260c",
-      "songName": "Mindless Self Indulgence - Cocaine and Toupees",
-      "hash": "74cf796e97bfe32e68d2030b48f41ad41fefbaa1",
-      "levelid": "custom_level_74cf796e97bfe32e68d2030b48f41ad41fefbaa1"
-    },
-    {
-      "key": "5260b",
-      "songName": "Mindless Self Indulgence - On It",
-      "hash": "e6fa3470583106f404275c8645df5dedd8e7fe9b",
-      "levelid": "custom_level_e6fa3470583106f404275c8645df5dedd8e7fe9b"
-    },
-    {
-      "key": "52644",
-      "songName": "Swedish National Anthem (BSWC 2026 Warmup)",
-      "hash": "af1b07a80a81746074ba91501addbabea1f64bc9",
-      "levelid": "custom_level_af1b07a80a81746074ba91501addbabea1f64bc9"
-    },
-    {
-      "key": "52643",
-      "songName": "Marnix van Sint-Aldegonde - Wilhelmus",
-      "hash": "6d28dab327d4194d6fe5312f0422cc6f47fc8670",
-      "levelid": "custom_level_6d28dab327d4194d6fe5312f0422cc6f47fc8670"
-    },
-    {
-      "key": "52649",
-      "songName": "Nightowl - Discord sings Technologic",
-      "hash": "2fbb9ec5107477a7d86fe0bbfca8ae74a7d2cc99",
-      "levelid": "custom_level_2fbb9ec5107477a7d86fe0bbfca8ae74a7d2cc99"
-    },
-    {
-      "key": "52647",
-      "songName": "MONTAGEM ONE MORE GAME",
-      "hash": "218ebf87781741425cb245fe72562b8acbfc99a1",
-      "levelid": "custom_level_218ebf87781741425cb245fe72562b8acbfc99a1"
-    },
-    {
-      "key": "52646",
-      "songName": "ifnya - adore",
-      "hash": "a43772a947b5566d9cadd732170816429d7fc230",
-      "levelid": "custom_level_a43772a947b5566d9cadd732170816429d7fc230"
+      "key": "52691",
+      "songName": "Murasaki Shion x La+ Darknesss - Lip-Sync",
+      "hash": "6c085b7164b723b70b3a41aaa5426beab8e221cc",
+      "levelid": "custom_level_6c085b7164b723b70b3a41aaa5426beab8e221cc"
     }
   ],
   "image": ""
