@@ -1,244 +1,202 @@
 {
-  "playlistTitle": "2026-07-06T15:18:48.255Z~2026-07-07T15:18:48.255Z",
+  "playlistTitle": "2026-07-07T15:18:48.177Z~2026-07-08T15:18:48.177Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-07-06T15:18:48.255Z and 2026-07-07T15:18:48.255Z",
+  "discripstion": "Maps published between 2026-07-07T15:18:48.177Z and 2026-07-08T15:18:48.177Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "529bd",
-      "songName": "MOON(哀愁ユーロ) - DJ TAKA feat.Erika",
-      "hash": "883f03d6dbf5559fe405865a301bc76f9994e584",
-      "levelid": "custom_level_883f03d6dbf5559fe405865a301bc76f9994e584"
+      "key": "52a37",
+      "songName": "Shucks Maxed Out",
+      "hash": "8c1f610f4297e13ef7916f7c5689b56384ff2ae3",
+      "levelid": "custom_level_8c1f610f4297e13ef7916f7c5689b56384ff2ae3"
     },
     {
-      "key": "529ae",
-      "songName": "Neopatentate",
-      "hash": "360dfd5e131160adf39156a5e9cf90eedf5798c3",
-      "levelid": "custom_level_360dfd5e131160adf39156a5e9cf90eedf5798c3"
+      "key": "52a35",
+      "songName": "Temporary",
+      "hash": "9e5a0050ec2054f80872637f0e0c9ad7adb7e9f5",
+      "levelid": "custom_level_9e5a0050ec2054f80872637f0e0c9ad7adb7e9f5"
     },
     {
-      "key": "5294a",
-      "songName": "AQUAELIE - Tewi Within",
-      "hash": "50807c354b285d5b1c4b324649b94dbfe78c60f6",
-      "levelid": "custom_level_50807c354b285d5b1c4b324649b94dbfe78c60f6"
+      "key": "52a31",
+      "songName": "BENEE - Zero to Hero (From A Minecraft Movie)",
+      "hash": "57751f802bd8895d2c9021c3d723a74a7f2149a2",
+      "levelid": "custom_level_57751f802bd8895d2c9021c3d723a74a7f2149a2"
     },
     {
-      "key": "529a3",
-      "songName": "Bring Me The Horizon - Dehumanized",
-      "hash": "6ea459839d5d86e71a86756099f08536c7ae4acc",
-      "levelid": "custom_level_6ea459839d5d86e71a86756099f08536c7ae4acc"
+      "key": "52a2d",
+      "songName": "Gabriela Robin - Cats on Mars",
+      "hash": "682dc337226f8ad2957ab99430ff4622352a0014",
+      "levelid": "custom_level_682dc337226f8ad2957ab99430ff4622352a0014"
     },
     {
-      "key": "529a2",
-      "songName": "Ninajirachi - Fuck My Computer",
-      "hash": "9151c30ffba6828e9426ee4caaa3b0bfcf584ba4",
-      "levelid": "custom_level_9151c30ffba6828e9426ee4caaa3b0bfcf584ba4"
+      "key": "52a2a",
+      "songName": "Sh0wtime & ZoeEngine - TWINTURBO303",
+      "hash": "541780c42822ba2584b8af203e5be8254dc60261",
+      "levelid": "custom_level_541780c42822ba2584b8af203e5be8254dc60261"
     },
     {
-      "key": "5299b",
-      "songName": "Beautiful day",
-      "hash": "78b83d30b5977765be76d439d316cc28297cf0ef",
-      "levelid": "custom_level_78b83d30b5977765be76d439d316cc28297cf0ef"
+      "key": "52a29",
+      "songName": "Camellia - { eXLIPXe }",
+      "hash": "eeafd55f147179d905bf1569124d4873d5ccaff8",
+      "levelid": "custom_level_eeafd55f147179d905bf1569124d4873d5ccaff8"
     },
     {
-      "key": "52999",
-      "songName": "Bro, I found Ts on Yt shorts (part two)",
-      "hash": "13f528962e431508515b59e222eeb6cd524b164b",
-      "levelid": "custom_level_13f528962e431508515b59e222eeb6cd524b164b"
+      "key": "52a20",
+      "songName": "I Hate What I Am",
+      "hash": "6466b108cc90984e0388ca200c4f2cba5626cd8a",
+      "levelid": "custom_level_6466b108cc90984e0388ca200c4f2cba5626cd8a"
     },
     {
-      "key": "52998",
-      "songName": "凱旋行進曲 超龍ver",
-      "hash": "a66df20022fc6a9a3e647f81b45ade1aa3782a42",
-      "levelid": "custom_level_a66df20022fc6a9a3e647f81b45ade1aa3782a42"
+      "key": "52a1f",
+      "songName": "Man In the Sky",
+      "hash": "c7f977cd013a1332d9afacc1e77414a6845d6748",
+      "levelid": "custom_level_c7f977cd013a1332d9afacc1e77414a6845d6748"
     },
     {
-      "key": "52996",
-      "songName": "Missing Promise (ひぐらしのなく頃に卒 ED)",
-      "hash": "6e3ed39f368ed5a396ccc4c96d81f30f5361490b",
-      "levelid": "custom_level_6e3ed39f368ed5a396ccc4c96d81f30f5361490b"
+      "key": "52a12",
+      "songName": "V8 (Seventeen) - Singasong",
+      "hash": "176d7574d3c8772869fbba665db79fda8e3a31ef",
+      "levelid": "custom_level_176d7574d3c8772869fbba665db79fda8e3a31ef"
     },
     {
-      "key": "52993",
-      "songName": "ゆうゆ - 天樂",
-      "hash": "aadd49a46f38d4bd1f41603f83d6bb301f2246a8",
-      "levelid": "custom_level_aadd49a46f38d4bd1f41603f83d6bb301f2246a8"
+      "key": "52a0d",
+      "songName": "夏夢ノイジー (サマータイムレンダ OP2)",
+      "hash": "e1a21d81edaf1c345b39b6dce56e98bb143f5da1",
+      "levelid": "custom_level_e1a21d81edaf1c345b39b6dce56e98bb143f5da1"
     },
     {
-      "key": "52990",
-      "songName": "PSYQUI - Education (tech ver.)",
-      "hash": "715fd671575a3be684abe0cdb5c44d6ed8d60c03",
-      "levelid": "custom_level_715fd671575a3be684abe0cdb5c44d6ed8d60c03"
+      "key": "52a01",
+      "songName": "Toby Fox & Camellia - Flower Man",
+      "hash": "e1f521ab3d6bb2be8d0b5a24e4a454e05c685f38",
+      "levelid": "custom_level_e1f521ab3d6bb2be8d0b5a24e4a454e05c685f38"
     },
     {
-      "key": "5298e",
-      "songName": "Flop And Go (A)",
-      "hash": "c23bfb09f714e29d642b2672ab42f1b69cd89829",
-      "levelid": "custom_level_c23bfb09f714e29d642b2672ab42f1b69cd89829"
+      "key": "529f3",
+      "songName": "homer let the barts out",
+      "hash": "12568eb139ded1854aba15584655b64ba84135cb",
+      "levelid": "custom_level_12568eb139ded1854aba15584655b64ba84135cb"
     },
     {
-      "key": "5298d",
-      "songName": "Gravity Zero (feat. Ruru) by Guchiri, Ruru",
-      "hash": "1e8ffcc828ff4c569afe46c09d5c865d3155d1f3",
-      "levelid": "custom_level_1e8ffcc828ff4c569afe46c09d5c865d3155d1f3"
+      "key": "529ee",
+      "songName": "All About That Bass (Remix)",
+      "hash": "ce744ecd460bf2225978cb863879c16e4fc6980f",
+      "levelid": "custom_level_ce744ecd460bf2225978cb863879c16e4fc6980f"
     },
     {
-      "key": "5298c",
-      "songName": "Pray for the left",
-      "hash": "c26341ec439553baa5c31b2aeb3cdb3b52173e0c",
-      "levelid": "custom_level_c26341ec439553baa5c31b2aeb3cdb3b52173e0c"
+      "key": "529ed",
+      "songName": "SIX SEVEN",
+      "hash": "8a3b39ee4ece5c981eab70af41c7a4bacd738f29",
+      "levelid": "custom_level_8a3b39ee4ece5c981eab70af41c7a4bacd738f29"
     },
     {
-      "key": "5298a",
-      "songName": "Somebody Eastin Thumb Used to Know",
-      "hash": "92eeac66737dfef60a5b586f5d03d99ba571b587",
-      "levelid": "custom_level_92eeac66737dfef60a5b586f5d03d99ba571b587"
+      "key": "529eb",
+      "songName": "True Hero (Challenge Tech)",
+      "hash": "fd7949e29feef82483add5a34f226086bda3af52",
+      "levelid": "custom_level_fd7949e29feef82483add5a34f226086bda3af52"
     },
     {
-      "key": "5298b",
-      "songName": "beuty an a thum",
-      "hash": "bf2d83feb1792236fd77c80c0366280d52be3071",
-      "levelid": "custom_level_bf2d83feb1792236fd77c80c0366280d52be3071"
+      "key": "529ea",
+      "songName": "phoqus - Vocatis Inanis (Tower Defense Simulator)",
+      "hash": "b39c31c06b970d60a54a6d8adf0395e55f70284b",
+      "levelid": "custom_level_b39c31c06b970d60a54a6d8adf0395e55f70284b"
     },
     {
-      "key": "52988",
-      "songName": "Machine Girl - Ionic Funk - 20xx Battle Music -",
-      "hash": "71df4efb62c53f4fd67cb91e39b061a8a712e672",
-      "levelid": "custom_level_71df4efb62c53f4fd67cb91e39b061a8a712e672"
+      "key": "52868",
+      "songName": "BE LIKE ME #AN4RCHKORE",
+      "hash": "4c979e08a3315967e02591c3cf77a4c8a019f7ea",
+      "levelid": "custom_level_4c979e08a3315967e02591c3cf77a4c8a019f7ea"
     },
     {
-      "key": "52985",
-      "songName": "Lavern - Hold Me",
-      "hash": "c3b6da6a0d2a69485dada0b29a7e77b65d376dd1",
-      "levelid": "custom_level_c3b6da6a0d2a69485dada0b29a7e77b65d376dd1"
+      "key": "529e8",
+      "songName": "Die in a fire - The Living Tombstones",
+      "hash": "7af95dc733ccc6ab6c021c6d01c62f9103fbdb24",
+      "levelid": "custom_level_7af95dc733ccc6ab6c021c6d01c62f9103fbdb24"
     },
     {
-      "key": "52984",
-      "songName": "Backseat Girl",
-      "hash": "4f04eeb018d21a186a9ae512c8d5f613345e33e4",
-      "levelid": "custom_level_4f04eeb018d21a186a9ae512c8d5f613345e33e4"
+      "key": "529e7",
+      "songName": "[Feetsaber]FULi AUTO BUSTER",
+      "hash": "2c98ab309758c1ab9ba97fd3db156439a2b0b00f",
+      "levelid": "custom_level_2c98ab309758c1ab9ba97fd3db156439a2b0b00f"
     },
     {
-      "key": "52983",
-      "songName": "Camellia - Hiasobi (Play With Fire) ",
-      "hash": "6a2f9ac184e7e4c1dba5b87991928e68aacfb102",
-      "levelid": "custom_level_6a2f9ac184e7e4c1dba5b87991928e68aacfb102"
+      "key": "529e4",
+      "songName": "Clarity X Better Off Alone",
+      "hash": "823f1f67f5430652ab38054819ee0e44165e9fdc",
+      "levelid": "custom_level_823f1f67f5430652ab38054819ee0e44165e9fdc"
     },
     {
-      "key": "52982",
-      "songName": "the war II",
-      "hash": "84f62a27da4d7bef60b87183843bee5cd7a066e6",
-      "levelid": "custom_level_84f62a27da4d7bef60b87183843bee5cd7a066e6"
+      "key": "529e1",
+      "songName": "ГИМН КАЧКОВ (JOCK ANTHEM)",
+      "hash": "fdda8c2dd49780de9df8151e688ef815e424cd53",
+      "levelid": "custom_level_fdda8c2dd49780de9df8151e688ef815e424cd53"
     },
     {
-      "key": "524aa",
-      "songName": "DuoCore - Furious",
-      "hash": "3dbd9099018fb40eb3f27476589c2f1d0753c5f4",
-      "levelid": "custom_level_3dbd9099018fb40eb3f27476589c2f1d0753c5f4"
+      "key": "529e2",
+      "songName": "ILYBB - [NCS Release]",
+      "hash": "a087a7b5a1485cc3e4d59045b2b0b3f0181e1049",
+      "levelid": "custom_level_a087a7b5a1485cc3e4d59045b2b0b3f0181e1049"
     },
     {
-      "key": "52981",
-      "songName": "Beny Phonk",
-      "hash": "c526dde51ebd221d69096c572fca40f89bb68c78",
-      "levelid": "custom_level_c526dde51ebd221d69096c572fca40f89bb68c78"
+      "key": "529e0",
+      "songName": "Flower Man (DELTARUNE: Chapter 5)",
+      "hash": "d69133b25f857fa36f7b6b0d0f2024b2e6456b6a",
+      "levelid": "custom_level_d69133b25f857fa36f7b6b0d0f2024b2e6456b6a"
     },
     {
-      "key": "52980",
-      "songName": "Fujii Kaze - Garden",
-      "hash": "06d724ae9abe64fbe7251da9d953c2885d9c296e",
-      "levelid": "custom_level_06d724ae9abe64fbe7251da9d953c2885d9c296e"
+      "key": "529d4",
+      "songName": "[Super ONGEKI Music Pack] Stellar:Dream",
+      "hash": "a44d8ad15b8461ddf834e14df003588101550139",
+      "levelid": "custom_level_a44d8ad15b8461ddf834e14df003588101550139"
     },
     {
-      "key": "528fd",
-      "songName": "[V3] Kiss & Tell A Phone - VOILÁ",
-      "hash": "daa3385645d10e11965a88ce0e3c070ebc8a74e6",
-      "levelid": "custom_level_daa3385645d10e11965a88ce0e3c070ebc8a74e6"
+      "key": "529d3",
+      "songName": "Dialtone",
+      "hash": "fc84122aec209ae9215024f5379bdead9ecc229d",
+      "levelid": "custom_level_fc84122aec209ae9215024f5379bdead9ecc229d"
     },
     {
-      "key": "5297c",
-      "songName": "I Hope That Kid F***ing Dies (Denni)",
-      "hash": "9257da50282b5d16986930454f30438335011f63",
-      "levelid": "custom_level_9257da50282b5d16986930454f30438335011f63"
+      "key": "529cc",
+      "songName": "Oops!",
+      "hash": "e8dd56d02d72653a2e07eb08265b839a9ab34469",
+      "levelid": "custom_level_e8dd56d02d72653a2e07eb08265b839a9ab34469"
     },
     {
-      "key": "52979",
-      "songName": "Bakugan Battle Brawlers Intro Theme",
-      "hash": "eeed03614a95ff1f54485795390364245738cee6",
-      "levelid": "custom_level_eeed03614a95ff1f54485795390364245738cee6"
+      "key": "529cb",
+      "songName": "OVER:Acceleration - Xeveir and Xeron vs. OdiN",
+      "hash": "a5a1bf3fafe8673974489811264c7c5b81724e3c",
+      "levelid": "custom_level_a5a1bf3fafe8673974489811264c7c5b81724e3c"
     },
     {
-      "key": "52977",
-      "songName": ".NET RUN - Fuck That Bass",
-      "hash": "a0ac7fd6e1d5ef8a06197b636f94a0b6b05ef3de",
-      "levelid": "custom_level_a0ac7fd6e1d5ef8a06197b636f94a0b6b05ef3de"
+      "key": "529ca",
+      "songName": "Looping the Memes",
+      "hash": "903872aa4b0157a50c717a70370b3f54f2dda27c",
+      "levelid": "custom_level_903872aa4b0157a50c717a70370b3f54f2dda27c"
     },
     {
-      "key": "52976",
-      "songName": "In Da Cornfield (Short Cut)",
-      "hash": "238739fbb519f2620c08e8f4687f2acbea454126",
-      "levelid": "custom_level_238739fbb519f2620c08e8f4687f2acbea454126"
+      "key": "529c9",
+      "songName": "Kenshi Yonezu - IRIS OUT (From: Chainsaw Man Movie: Reze Arc)",
+      "hash": "6cedf4230d9b62aa4308df7b5b2e15bbdf35471b",
+      "levelid": "custom_level_6cedf4230d9b62aa4308df7b5b2e15bbdf35471b"
     },
     {
-      "key": "52972",
-      "songName": "Ariana Grande - Problem (Cover) ",
-      "hash": "b000825b4ea30ce54926f5d866adc51f9e053445",
-      "levelid": "custom_level_b000825b4ea30ce54926f5d866adc51f9e053445"
+      "key": "529c7",
+      "songName": "CHopi",
+      "hash": "485d78edebba95563082447591f60d4826565f16",
+      "levelid": "custom_level_485d78edebba95563082447591f60d4826565f16"
     },
     {
-      "key": "5296f",
-      "songName": "Kygo, Khalid & Gryffin - Save My Love",
-      "hash": "6dbd872a0b29bd752ddfba5533b46e5479a08ea7",
-      "levelid": "custom_level_6dbd872a0b29bd752ddfba5533b46e5479a08ea7"
+      "key": "529c8",
+      "songName": "Guilty All the Same",
+      "hash": "dfb052089e0cd9c0a1c4b2a3265bb77bd17108a5",
+      "levelid": "custom_level_dfb052089e0cd9c0a1c4b2a3265bb77bd17108a5"
     },
     {
-      "key": "5296c",
-      "songName": "Taktikcal nuk inkonimg",
-      "hash": "018bd462007ffdbfc2c8cb0d3630ae6cbd70de34",
-      "levelid": "custom_level_018bd462007ffdbfc2c8cb0d3630ae6cbd70de34"
-    },
-    {
-      "key": "52967",
-      "songName": "Astrocyte - OPHIDIAN",
-      "hash": "2c3913d649c833f81a4863d9b22ee4c3b4d66f4e",
-      "levelid": "custom_level_2c3913d649c833f81a4863d9b22ee4c3b4d66f4e"
-    },
-    {
-      "key": "52966",
-      "songName": "OSTON - Why couldn't it be me?",
-      "hash": "f9a8846c5b24d7845a7ba7ad6a4803fd8952fc41",
-      "levelid": "custom_level_f9a8846c5b24d7845a7ba7ad6a4803fd8952fc41"
-    },
-    {
-      "key": "52964",
-      "songName": "We do not care",
-      "hash": "2bdb34c91b99c6ee31d43fdd3ae73694173effa8",
-      "levelid": "custom_level_2bdb34c91b99c6ee31d43fdd3ae73694173effa8"
-    },
-    {
-      "key": "52962",
-      "songName": "Sail",
-      "hash": "ff2a3b388f7572384f13bf5ee4d5558d5e9c258e",
-      "levelid": "custom_level_ff2a3b388f7572384f13bf5ee4d5558d5e9c258e"
-    },
-    {
-      "key": "5295d",
-      "songName": "Bandit - And On And On",
-      "hash": "f1b78b77032f1a90299664a26c00afffd19640c5",
-      "levelid": "custom_level_f1b78b77032f1a90299664a26c00afffd19640c5"
-    },
-    {
-      "key": "5295b",
-      "songName": "The Hardest Karaoke Song In The World",
-      "hash": "8eb525d9396a0d8a54b22e8d2425a79537d47afb",
-      "levelid": "custom_level_8eb525d9396a0d8a54b22e8d2425a79537d47afb"
-    },
-    {
-      "key": "52955",
-      "songName": "Carrox - Saunaralli Remix",
-      "hash": "0780211fc1b55ec06e2010335ee706f436c083b5",
-      "levelid": "custom_level_0780211fc1b55ec06e2010335ee706f436c083b5"
+      "key": "529c6",
+      "songName": "PLV - Rabteu, NIVK",
+      "hash": "57880e5356de9b97eb9168b1a73f34ab582448fc",
+      "levelid": "custom_level_57880e5356de9b97eb9168b1a73f34ab582448fc"
     }
   ],
   "image": ""
