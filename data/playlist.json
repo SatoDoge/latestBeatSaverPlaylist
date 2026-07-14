@@ -1,178 +1,244 @@
 {
-  "playlistTitle": "2026-07-12T15:18:48.286Z~2026-07-13T15:18:48.286Z",
+  "playlistTitle": "2026-07-13T15:18:48.102Z~2026-07-14T15:18:48.102Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-07-12T15:18:48.286Z and 2026-07-13T15:18:48.286Z",
+  "discripstion": "Maps published between 2026-07-13T15:18:48.102Z and 2026-07-14T15:18:48.102Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "52c51",
+      "songName": "Chop Trip Cooking Time",
+      "hash": "c98fd306578b375190e5573bcd930e0afa3da5e5",
+      "levelid": "custom_level_c98fd306578b375190e5573bcd930e0afa3da5e5"
+    },
+    {
+      "key": "52c50",
+      "songName": "almost monday - enjoy the ride",
+      "hash": "544cf97f79bd011235b951aabc51f931e4125def",
+      "levelid": "custom_level_544cf97f79bd011235b951aabc51f931e4125def"
+    },
+    {
+      "key": "52c4f",
+      "songName": "yung bratz ",
+      "hash": "27f7b8a5db25c7d15743ba6fffdc8e98742300e8",
+      "levelid": "custom_level_27f7b8a5db25c7d15743ba6fffdc8e98742300e8"
+    },
+    {
+      "key": "52c4e",
+      "songName": "I don't want to be free - markiplier",
+      "hash": "fa43b452171537b8032e452cf272b1ec8bb06faf",
+      "levelid": "custom_level_fa43b452171537b8032e452cf272b1ec8bb06faf"
+    },
+    {
+      "key": "52c4d",
+      "songName": "The Living Proof - Losing Control",
+      "hash": "25ffcd04897f479570bd89ff074bc3bec6d877d2",
+      "levelid": "custom_level_25ffcd04897f479570bd89ff074bc3bec6d877d2"
+    },
+    {
+      "key": "52c4a",
+      "songName": "logan - if snakes in the wall was on crack",
+      "hash": "659e5f86694422c9402bd3d50ea9067e3f33bf18",
+      "levelid": "custom_level_659e5f86694422c9402bd3d50ea9067e3f33bf18"
+    },
+    {
+      "key": "52c45",
+      "songName": "Homer Let the Barts Out",
+      "hash": "fd75ccb85e26ab9a58b202b5c02e64ccb75984a3",
+      "levelid": "custom_level_fd75ccb85e26ab9a58b202b5c02e64ccb75984a3"
+    },
+    {
+      "key": "52c44",
+      "songName": "dead ringer with lyrics",
+      "hash": "f4334366e7a43000ebfdec632b94d9c3291d1ef4",
+      "levelid": "custom_level_f4334366e7a43000ebfdec632b94d9c3291d1ef4"
+    },
+    {
+      "key": "52c43",
+      "songName": "testing",
+      "hash": "43d7ae808094fcd2a20b724f900c73818cb001a4",
+      "levelid": "custom_level_43d7ae808094fcd2a20b724f900c73818cb001a4"
+    },
+    {
+      "key": "52c42",
+      "songName": "ピュアストーン -Cute Rock Mix-(赤い光弾ジリオン) - Re-wire Retro",
+      "hash": "5ccbcb3cdbf305c96a144cac17f49556f1727dbb",
+      "levelid": "custom_level_5ccbcb3cdbf305c96a144cac17f49556f1727dbb"
+    },
+    {
+      "key": "52c41",
+      "songName": "DJ Raisei - Fractured Angel",
+      "hash": "0224f540a8b8d6bdf8277d180d3bac95bd4e7035",
+      "levelid": "custom_level_0224f540a8b8d6bdf8277d180d3bac95bd4e7035"
+    },
+    {
+      "key": "52c40",
+      "songName": "MiA KHALiFA",
+      "hash": "1a0c2d7c7ac90c1d90e63d07ae48053a480a4335",
+      "levelid": "custom_level_1a0c2d7c7ac90c1d90e63d07ae48053a480a4335"
+    },
+    {
+      "key": "52c3f",
+      "songName": "Headphones (DANCE)",
+      "hash": "81ca5d8a786704de2a29c5d98c8a865d3d66b48f",
+      "levelid": "custom_level_81ca5d8a786704de2a29c5d98c8a865d3d66b48f"
+    },
+    {
+      "key": "52c3c",
+      "songName": "World-Line (STEINS;GATE 0 ED2)",
+      "hash": "bfd97dc1c2c2d6bf92735f656176869e22657a4f",
+      "levelid": "custom_level_bfd97dc1c2c2d6bf92735f656176869e22657a4f"
+    },
+    {
+      "key": "52c3a",
+      "songName": "blazing in da darj tech",
+      "hash": "cf3bd6f4a45db5b2f4a0435d4b374c6d84add510",
+      "levelid": "custom_level_cf3bd6f4a45db5b2f4a0435d4b374c6d84add510"
+    },
+    {
+      "key": "52c0e",
+      "songName": "Ramen-Man - Samurai Pizza Cats feat.  BABYBEARD",
+      "hash": "e453dc2e9a70c30876233f219eed55bf8c8bdb83",
+      "levelid": "custom_level_e453dc2e9a70c30876233f219eed55bf8c8bdb83"
+    },
+    {
+      "key": "52c37",
+      "songName": "氷の炎 Flame of Ice (cut)  - Les Rallizes Dénudés - The Archives of Dizastar Sources (Discs 3+4)",
+      "hash": "09b282e3d6f3d9fec573ae961ef2b4c0e6cdd7bc",
+      "levelid": "custom_level_09b282e3d6f3d9fec573ae961ef2b4c0e6cdd7bc"
+    },
+    {
+      "key": "52c2a",
+      "songName": "ヨガはにんきもの / 野原しんのすけ",
+      "hash": "1181cfa0585858769bfaa4348eee4e5656b8fa3d",
+      "levelid": "custom_level_1181cfa0585858769bfaa4348eee4e5656b8fa3d"
+    },
+    {
+      "key": "52c29",
+      "songName": "Morning Light, L'Aube - 2022 Remastered (Les Rallizes Dénudés)",
+      "hash": "09be6ab359af10749785e75ee2d81b787f64a7eb",
+      "levelid": "custom_level_09be6ab359af10749785e75ee2d81b787f64a7eb"
+    },
+    {
+      "key": "52c27",
+      "songName": "Places",
+      "hash": "8ad77de84538615c8d715d0ff9a0d19a949ccccc",
+      "levelid": "custom_level_8ad77de84538615c8d715d0ff9a0d19a949ccccc"
+    },
+    {
+      "key": "52c28",
+      "songName": "[VNJS] LeaF - ℵ₀ (Aleph-0)",
+      "hash": "f01b036024c12d45b102442ccedc58dd39eb122c",
+      "levelid": "custom_level_f01b036024c12d45b102442ccedc58dd39eb122c"
+    },
+    {
+      "key": "52c24",
+      "songName": "Good Kid - Osmosis",
+      "hash": "781228a4150cd1fc1c216bb8dedb6dae30ede414",
+      "levelid": "custom_level_781228a4150cd1fc1c216bb8dedb6dae30ede414"
+    },
+    {
+      "key": "52c25",
+      "songName": "夏☆DASH!! - 1000ちゃん&ミリオ",
+      "hash": "610a280db3f7b50d9c2e767cdbe5919d6f3c31ab",
+      "levelid": "custom_level_610a280db3f7b50d9c2e767cdbe5919d6f3c31ab"
+    },
+    {
+      "key": "52c23",
+      "songName": "Three Days Grace - Infra-Red",
+      "hash": "4537d53ae4a0bdf46691a07fe506155de11d9ad8",
+      "levelid": "custom_level_4537d53ae4a0bdf46691a07fe506155de11d9ad8"
+    },
+    {
+      "key": "52c21",
+      "songName": "Only For A Moment",
+      "hash": "ed6b01f7f38f76800e8a9ad4098699e6214d0653",
+      "levelid": "custom_level_ed6b01f7f38f76800e8a9ad4098699e6214d0653"
+    },
+    {
+      "key": "52c1d",
+      "songName": "JVKE - this is what space feels like",
+      "hash": "4b9be7aac65447829d9d7025d7fc2fefd43ca6d5",
+      "levelid": "custom_level_4b9be7aac65447829d9d7025d7fc2fefd43ca6d5"
+    },
+    {
+      "key": "52c1b",
+      "songName": "RJ Pasin - Singularity",
+      "hash": "884f5c6ba8f80da0e38e2dda08db91e2d4eb504c",
+      "levelid": "custom_level_884f5c6ba8f80da0e38e2dda08db91e2d4eb504c"
+    },
+    {
+      "key": "52c19",
+      "songName": "KAF - My logic (Kobaryo's FTN-Remix)",
+      "hash": "5a1aeb298b7b27134c1dcf0c3b1e2757d0a2cb47",
+      "levelid": "custom_level_5a1aeb298b7b27134c1dcf0c3b1e2757d0a2cb47"
+    },
+    {
+      "key": "52c18",
+      "songName": "CHROMA",
+      "hash": "5097031d6f5089c6953f2b414b0df988eff923d4",
+      "levelid": "custom_level_5097031d6f5089c6953f2b414b0df988eff923d4"
+    },
+    {
+      "key": "52c13",
+      "songName": "-45 - Total Eclipse of The Sun",
+      "hash": "999a5f17b691e08451ed3d7db77b37f81fad32bd",
+      "levelid": "custom_level_999a5f17b691e08451ed3d7db77b37f81fad32bd"
+    },
+    {
+      "key": "52c0d",
+      "songName": "(V3) Habstrakt & Lizdek - SURGE ",
+      "hash": "c8021d0bd48316798c10a468a4c0e7032ec8c3f4",
+      "levelid": "custom_level_c8021d0bd48316798c10a468a4c0e7032ec8c3f4"
+    },
+    {
+      "key": "52c11",
+      "songName": "Kings Challenge",
+      "hash": "7e51517a500bfffe23519fc7899e4784784f7f14",
+      "levelid": "custom_level_7e51517a500bfffe23519fc7899e4784784f7f14"
+    },
+    {
+      "key": "52c0a",
+      "songName": "Toby Fox - From Now On (Camellia Remix)",
+      "hash": "09545817dbc042179217f9f38a098d668da379b9",
+      "levelid": "custom_level_09545817dbc042179217f9f38a098d668da379b9"
+    },
+    {
+      "key": "52c09",
+      "songName": "Disconnected Again - Pegboard Nerds, Teminite & VGR",
+      "hash": "783ea18bcaeee5250cbd8f5d9c026a0bda1ba268",
+      "levelid": "custom_level_783ea18bcaeee5250cbd8f5d9c026a0bda1ba268"
+    },
+    {
+      "key": "52c06",
+      "songName": "Falling In Reverse -Last Resort (Poodles)",
+      "hash": "03e9a206ba268095a5da70921b19964a1f610448",
+      "levelid": "custom_level_03e9a206ba268095a5da70921b19964a1f610448"
+    },
+    {
+      "key": "52c05",
+      "songName": "flos feat.Tomata Ocha",
+      "hash": "4a68f877ef69481b7393e0935a7ff4f08da0cd98",
+      "levelid": "custom_level_4a68f877ef69481b7393e0935a7ff4f08da0cd98"
+    },
+    {
+      "key": "52c04",
+      "songName": "NUKE",
+      "hash": "9cccea622cb59fd77344364bf2d2aad60d004363",
+      "levelid": "custom_level_9cccea622cb59fd77344364bf2d2aad60d004363"
+    },
+    {
+      "key": "52bb5",
+      "songName": "A Pocket of Moss and Magic  feat. 茶太 - Kirara Magic",
+      "hash": "c28f0f8733b52c8d126c7b2c8a167d362bc36c4b",
+      "levelid": "custom_level_c28f0f8733b52c8d126c7b2c8a167d362bc36c4b"
+    },
+    {
       "key": "52c03",
-      "songName": "Camellia - #1f1e33 (Another long ''''#ant1p01e'''' version)",
-      "hash": "e8686b23097028901bce95e0b68d0daa746371b5",
-      "levelid": "custom_level_e8686b23097028901bce95e0b68d0daa746371b5"
-    },
-    {
-      "key": "52bfe",
-      "songName": "Kodaman - Nostalgia 98",
-      "hash": "b1c9d924abced973e528d6af7a505457a07ca49c",
-      "levelid": "custom_level_b1c9d924abced973e528d6af7a505457a07ca49c"
-    },
-    {
-      "key": "52bf1",
-      "songName": "36°C U・B・U",
-      "hash": "e59f45f440ff353af7bb3c3fbdfb539f58e0098b",
-      "levelid": "custom_level_e59f45f440ff353af7bb3c3fbdfb539f58e0098b"
-    },
-    {
-      "key": "52bfc",
-      "songName": "life force",
-      "hash": "4d0861e0ef9745af19cd9c13f8c599071ce7c26a",
-      "levelid": "custom_level_4d0861e0ef9745af19cd9c13f8c599071ce7c26a"
-    },
-    {
-      "key": "51b11",
-      "songName": "華乃 - 執着地点",
-      "hash": "e84926559a00437b020a8ca9ba5393643e922e4d",
-      "levelid": "custom_level_e84926559a00437b020a8ca9ba5393643e922e4d"
-    },
-    {
-      "key": "52bf7",
-      "songName": "LAST GAME (STEINS;GATE 0 ED)",
-      "hash": "38b22325651454ccf933b06dce6ba290a7a9e9ed",
-      "levelid": "custom_level_38b22325651454ccf933b06dce6ba290a7a9e9ed"
-    },
-    {
-      "key": "52a32",
-      "songName": "Ether Strike('Divine Mercy'Extended)-Akira Complex",
-      "hash": "507f050581fe380c3e7f4b6ee7925c10e0170b1e",
-      "levelid": "custom_level_507f050581fe380c3e7f4b6ee7925c10e0170b1e"
-    },
-    {
-      "key": "52bf5",
-      "songName": "Laur: SEV-26",
-      "hash": "2d2c5d40c45a9880d52ec89c2fb79dbec5461a9f",
-      "levelid": "custom_level_2d2c5d40c45a9880d52ec89c2fb79dbec5461a9f"
-    },
-    {
-      "key": "52bef",
-      "songName": "Jeffrey Epstein splonge blob",
-      "hash": "414e96d336e9b357adaff62dff86914ee3b1d871",
-      "levelid": "custom_level_414e96d336e9b357adaff62dff86914ee3b1d871"
-    },
-    {
-      "key": "52bed",
-      "songName": "Unhappy",
-      "hash": "c106f5060cd5918e55f3333848665c3de40261d1",
-      "levelid": "custom_level_c106f5060cd5918e55f3333848665c3de40261d1"
-    },
-    {
-      "key": "52bec",
-      "songName": "Willy Wonka Was A Child Murderer",
-      "hash": "9b776a4cd2e66873c6609cfd8436b7eda80c8ad6",
-      "levelid": "custom_level_9b776a4cd2e66873c6609cfd8436b7eda80c8ad6"
-    },
-    {
-      "key": "52beb",
-      "songName": "Fever",
-      "hash": "d70ef2d7eef35f5366132a9d6fe8666e5fafb666",
-      "levelid": "custom_level_d70ef2d7eef35f5366132a9d6fe8666e5fafb666"
-    },
-    {
-      "key": "52be9",
-      "songName": "KNOWER - Time Traveler ",
-      "hash": "7ed382cc8bb7c8cbae180292b904f1d90193e867",
-      "levelid": "custom_level_7ed382cc8bb7c8cbae180292b904f1d90193e867"
-    },
-    {
-      "key": "52be7",
-      "songName": "Tech idek tbh vibrah in ts n paw ",
-      "hash": "cfa70fabe55b36b84bb74bccc1b193f77aae5ea3",
-      "levelid": "custom_level_cfa70fabe55b36b84bb74bccc1b193f77aae5ea3"
-    },
-    {
-      "key": "52be6",
-      "songName": "Orchids",
-      "hash": "c72372cdc078d09c22c99a1ba7e6b7bdf5902e6a",
-      "levelid": "custom_level_c72372cdc078d09c22c99a1ba7e6b7bdf5902e6a"
-    },
-    {
-      "key": "52be5",
-      "songName": "Camellia - R U Still xxxx",
-      "hash": "26c415da115a7b8c886605bd302c99aba78aa587",
-      "levelid": "custom_level_26c415da115a7b8c886605bd302c99aba78aa587"
-    },
-    {
-      "key": "52be4",
-      "songName": "monoqlom - aremite",
-      "hash": "f809786e0f8d526a52c6849e13f2b062950a358a",
-      "levelid": "custom_level_f809786e0f8d526a52c6849e13f2b062950a358a"
-    },
-    {
-      "key": "52be3",
-      "songName": "[UDS] Kou! & TBN - Neo-Chromoxidation (2025 Remaster)",
-      "hash": "16a622dd49fa5a9a90db6b54e64f4f9e66ffab0a",
-      "levelid": "custom_level_16a622dd49fa5a9a90db6b54e64f4f9e66ffab0a"
-    },
-    {
-      "key": "52be1",
-      "songName": "Freak Show",
-      "hash": "3f9e9c2fbfbf0fd04f1fa04472dbb18fb3b756fb",
-      "levelid": "custom_level_3f9e9c2fbfbf0fd04f1fa04472dbb18fb3b756fb"
-    },
-    {
-      "key": "52be0",
-      "songName": "AND HIS NAME IS JOHN CENA",
-      "hash": "4917350938855b46af1c80128fee39886c1548f1",
-      "levelid": "custom_level_4917350938855b46af1c80128fee39886c1548f1"
-    },
-    {
-      "key": "52bdf",
-      "songName": "MICHAL DONT LEAVE ME HERE",
-      "hash": "1bfcc1cea5ab30edbc89d5797f715b572a3a99ec",
-      "levelid": "custom_level_1bfcc1cea5ab30edbc89d5797f715b572a3a99ec"
-    },
-    {
-      "key": "52bde",
-      "songName": "subway surfers bass booted",
-      "hash": "53b62434d8d49a225c80178df0c3ee2ceed7b623",
-      "levelid": "custom_level_53b62434d8d49a225c80178df0c3ee2ceed7b623"
-    },
-    {
-      "key": "52bdd",
-      "songName": "Defy Gravity X God is Kanye",
-      "hash": "a4e90d19fda6f2486dcf9789e2c341989bb9c113",
-      "levelid": "custom_level_a4e90d19fda6f2486dcf9789e2c341989bb9c113"
-    },
-    {
-      "key": "52bdc",
-      "songName": "du bist gut genug",
-      "hash": "b0e98aca88c3cdcb20f07ecb03d7f1ba649c50d1",
-      "levelid": "custom_level_b0e98aca88c3cdcb20f07ecb03d7f1ba649c50d1"
-    },
-    {
-      "key": "52bdb",
-      "songName": "THREE, TWO, ONE... GO!",
-      "hash": "e2f660997bec3590add50b4839489785ccc8ed42",
-      "levelid": "custom_level_e2f660997bec3590add50b4839489785ccc8ed42"
-    },
-    {
-      "key": "52bd5",
-      "songName": "TAK × Sobrem - DIE IN",
-      "hash": "9d04f8e6aec2f073581b02a925195dbf6bcbb0e4",
-      "levelid": "custom_level_9d04f8e6aec2f073581b02a925195dbf6bcbb0e4"
-    },
-    {
-      "key": "52bd4",
-      "songName": "My Mother Wants Me Dead",
-      "hash": "1fd87c97dcee9a4c41ca6b5aee96d9a3ec737b7e",
-      "levelid": "custom_level_1fd87c97dcee9a4c41ca6b5aee96d9a3ec737b7e"
-    },
-    {
-      "key": "52bcd",
-      "songName": "Lord of Nothing",
-      "hash": "f2133d6a71bb270c912c74554704ec7688e37a61",
-      "levelid": "custom_level_f2133d6a71bb270c912c74554704ec7688e37a61"
+      "songName": "Camellia - #1f1e33 (Another long ''#ant1p01e'' version)",
+      "hash": "9f4e93b5a7e1f4e1ca1103615ed75e177893c3a0",
+      "levelid": "custom_level_9f4e93b5a7e1f4e1ca1103615ed75e177893c3a0"
     }
   ],
   "image": ""
