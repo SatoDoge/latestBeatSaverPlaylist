@@ -1,298 +1,424 @@
 {
-  "playlistTitle": "2026-07-25T15:18:49.045Z~2026-07-26T15:18:49.045Z",
+  "playlistTitle": "2026-07-26T15:18:48.079Z~2026-07-27T15:18:48.079Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-07-25T15:18:49.045Z and 2026-07-26T15:18:49.045Z",
+  "discripstion": "Maps published between 2026-07-26T15:18:48.079Z and 2026-07-27T15:18:48.079Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "5315e",
-      "songName": "ハレハレヤ - メガテラ・ゼロ",
-      "hash": "7e815b5706e16382335f85650c7d9b905238bb00",
-      "levelid": "custom_level_7e815b5706e16382335f85650c7d9b905238bb00"
+      "key": "531e5",
+      "songName": "Learn to Draw",
+      "hash": "67a1812a39dc190a34ca8ad4e7e278ed60b326b8",
+      "levelid": "custom_level_67a1812a39dc190a34ca8ad4e7e278ed60b326b8"
     },
     {
-      "key": "52a22",
-      "songName": "[V3Lights and Poodle]Frost fragment - Boutokuteki Sentaku no Alegría feat. Mayumi Morinaga Short ver.",
-      "hash": "9cadccf6fc61994cd566eaacc28763ea6a35a979",
-      "levelid": "custom_level_9cadccf6fc61994cd566eaacc28763ea6a35a979"
+      "key": "531e4",
+      "songName": "[V3] ADÉLA - Ain't in LA",
+      "hash": "1822b9cb6e50572e50375179d9e1b4796361b2de",
+      "levelid": "custom_level_1822b9cb6e50572e50375179d9e1b4796361b2de"
     },
     {
-      "key": "53164",
-      "songName": "go　feat.Hatsune Miku",
-      "hash": "3c29df5d33acefce2231bc83b8081e0d12cfd55c",
-      "levelid": "custom_level_3c29df5d33acefce2231bc83b8081e0d12cfd55c"
+      "key": "53092",
+      "songName": "[Beat The Heat 2026] Bad Bunny - NUEVAYoL",
+      "hash": "456c5d7368fb52d8125456666dce9fd17e6f6eab",
+      "levelid": "custom_level_456c5d7368fb52d8125456666dce9fd17e6f6eab"
     },
     {
-      "key": "53131",
-      "songName": "Hug Me In! - 西沢はぐみ",
-      "hash": "d30f73e42e88786eff4aa2d09cc449dfaa05c79a",
-      "levelid": "custom_level_d30f73e42e88786eff4aa2d09cc449dfaa05c79a"
+      "key": "531ca",
+      "songName": "[Beat the Heat 2026] Camellia feat. Nanahira - FULLFLAVOR ONDO",
+      "hash": "3fd8d52bed5464644d5b414ae5e6d764ef088fb2",
+      "levelid": "custom_level_3fd8d52bed5464644d5b414ae5e6d764ef088fb2"
     },
     {
-      "key": "53168",
-      "songName": "Atomic War - Veilr",
-      "hash": "3bd25a2b20555a95926e6f5c2217e7e8c5037163",
-      "levelid": "custom_level_3bd25a2b20555a95926e6f5c2217e7e8c5037163"
+      "key": "5312a",
+      "songName": "[Beat the Heat 2026] WJSN - Boogie Up",
+      "hash": "39403c93e0e9ddda6ab2d95b9ad4970c7a06c4f3",
+      "levelid": "custom_level_39403c93e0e9ddda6ab2d95b9ad4970c7a06c4f3"
     },
     {
-      "key": "53167",
-      "songName": "Ricky Martin - Un, Dos, Tres, MariHA (Lazy Flow Remix)",
-      "hash": "885c7d569b16148a058bb55dacb05becc9d76a95",
-      "levelid": "custom_level_885c7d569b16148a058bb55dacb05becc9d76a95"
+      "key": "53129",
+      "songName": "[Beat the Heat 2026] LUNARSOLAR - DADADA",
+      "hash": "32a3f9c4ffb0d85a9fbe3c4ae71d2c4ea931ef0b",
+      "levelid": "custom_level_32a3f9c4ffb0d85a9fbe3c4ae71d2c4ea931ef0b"
     },
     {
-      "key": "53161",
-      "songName": "Yasuo-P - えれくとりっく・えんじぇぅ covered by イル＝フローラ＆しゅがーぐらいだー",
-      "hash": "0cad2fc1241d276acf5dd3b95df99efb7ab26908",
-      "levelid": "custom_level_0cad2fc1241d276acf5dd3b95df99efb7ab26908"
+      "key": "5316b",
+      "songName": "[Beat The Heat 2026] INOHA - A Next Time",
+      "hash": "6effebcd1f462320cdabd6e53e207cc42df4e710",
+      "levelid": "custom_level_6effebcd1f462320cdabd6e53e207cc42df4e710"
     },
     {
-      "key": "53160",
-      "songName": "tsubi club - ( ╥﹏╥ )",
-      "hash": "e1cfee06f95f6a658b04fed0e38084dff47aa284",
-      "levelid": "custom_level_e1cfee06f95f6a658b04fed0e38084dff47aa284"
+      "key": "53051",
+      "songName": "[Beat The Heat 2026] Helvellyn - Former Hero",
+      "hash": "6e4a369cea5f61ffac1716d667824d98d41543cf",
+      "levelid": "custom_level_6e4a369cea5f61ffac1716d667824d98d41543cf"
     },
     {
-      "key": "5315d",
-      "songName": "Brave Song (Angel Beats! ED)",
-      "hash": "3a1e2b90b12547601444deee57ac4e3b1f21a222",
-      "levelid": "custom_level_3a1e2b90b12547601444deee57ac4e3b1f21a222"
+      "key": "53156",
+      "songName": "[Beat the Heat 2026] Flora - Kirara Magic & PIKASONIC",
+      "hash": "accee697d24efe7b3199845921e9bd8ec71d9005",
+      "levelid": "custom_level_accee697d24efe7b3199845921e9bd8ec71d9005"
     },
     {
-      "key": "5315c",
-      "songName": "Made Of Pain - Discarded Human",
-      "hash": "1f815b8ca849956c6802278eb641d804286bcccb",
-      "levelid": "custom_level_1f815b8ca849956c6802278eb641d804286bcccb"
+      "key": "53124",
+      "songName": "[Beat the Heat 2026] Hearts2Hearts - FOCUS (HANAEL Remix)",
+      "hash": "bfe10726edf5c5e8b408b2a5fed4a5b43b4ea81a",
+      "levelid": "custom_level_bfe10726edf5c5e8b408b2a5fed4a5b43b4ea81a"
     },
     {
-      "key": "53159",
-      "songName": "飛ぶ時",
-      "hash": "2ba816edd78c33f82fc3b4bc4b61ba0d6f9b5002",
-      "levelid": "custom_level_2ba816edd78c33f82fc3b4bc4b61ba0d6f9b5002"
+      "key": "530f4",
+      "songName": "[Beat the Heat 2026] ALI -  LOST IN PARADISE (ft. ALKO)",
+      "hash": "4604ced4322221e25e4143ed073b10d5658820bd",
+      "levelid": "custom_level_4604ced4322221e25e4143ed073b10d5658820bd"
     },
     {
-      "key": "53158",
-      "songName": "katagiri wa Denki Kitsune no Yume o Miru ka?",
-      "hash": "721964dae75b2e28b5ec208520ac92c0114da629",
-      "levelid": "custom_level_721964dae75b2e28b5ec208520ac92c0114da629"
+      "key": "530e5",
+      "songName": "[Beat the Heat 2026] ITZY - Motto",
+      "hash": "c6470e4310885c9022d4119d37b86ae728edc316",
+      "levelid": "custom_level_c6470e4310885c9022d4119d37b86ae728edc316"
     },
     {
-      "key": "53157",
-      "songName": "Laminar - Cold December",
-      "hash": "b58e96d24fcf96c9305c0ed9ae06465bf853dfcd",
-      "levelid": "custom_level_b58e96d24fcf96c9305c0ed9ae06465bf853dfcd"
+      "key": "530e4",
+      "songName": "[Beat the Heat 2026] TWICE - Likey",
+      "hash": "af7e931e909ed4ad29fb832c3b4dbbe1d4e8b39e",
+      "levelid": "custom_level_af7e931e909ed4ad29fb832c3b4dbbe1d4e8b39e"
     },
     {
-      "key": "53155",
-      "songName": "ヒマワリ (himawari)  -RIYU from BeForU-",
-      "hash": "5e305d2d5756b4e4493df7c05ca878b078a2377f",
-      "levelid": "custom_level_5e305d2d5756b4e4493df7c05ca878b078a2377f"
+      "key": "530c9",
+      "songName": "[BEAT THE HEAT 2026] T+ VS SHARK - t+pazolite",
+      "hash": "5d10bf485823c4128188ea8a25c50db4c934219e",
+      "levelid": "custom_level_5d10bf485823c4128188ea8a25c50db4c934219e"
     },
     {
-      "key": "53154",
-      "songName": "BUSTED - Tokyo Machine, Teminite & Boom Kitty",
-      "hash": "0561bb97c822ed05caa4ce820cefd8cfe1437651",
-      "levelid": "custom_level_0561bb97c822ed05caa4ce820cefd8cfe1437651"
+      "key": "52f1f",
+      "songName": "[Beat The Heat 2026] Rascal Flatts - Life Is A Highway",
+      "hash": "60b607b2aba18736c136d70b82cd31cfed87594e",
+      "levelid": "custom_level_60b607b2aba18736c136d70b82cd31cfed87594e"
     },
     {
-      "key": "53153",
-      "songName": "Mitsukiyo - Unwelcome School (t+pazolite Remix)",
-      "hash": "99586eb7f280a530a705d1cd5f4a4ccb88edd068",
-      "levelid": "custom_level_99586eb7f280a530a705d1cd5f4a4ccb88edd068"
+      "key": "530c2",
+      "songName": "[Beat The Heat 2026] Guru Josh Project, Klaas - Infinity 2008 [V4]",
+      "hash": "c115a94ae1dc701559e6a2f3e0df7d098fac3d29",
+      "levelid": "custom_level_c115a94ae1dc701559e6a2f3e0df7d098fac3d29"
     },
     {
-      "key": "53152",
-      "songName": "shy the eternal - rain",
-      "hash": "beb00d8b89b95f3d3ea84615cf7de348ddcc30c1",
-      "levelid": "custom_level_beb00d8b89b95f3d3ea84615cf7de348ddcc30c1"
+      "key": "530a4",
+      "songName": "[Beat The Heat 2026] LOVELI LORI & ovg! - Love For You",
+      "hash": "82b867ac3a6fc8bad96a3dac1259f025907d35de",
+      "levelid": "custom_level_82b867ac3a6fc8bad96a3dac1259f025907d35de"
     },
     {
-      "key": "53137",
-      "songName": "metrognome",
-      "hash": "e11bd8f7b656043f93aba26be850f44ca325f00d",
-      "levelid": "custom_level_e11bd8f7b656043f93aba26be850f44ca325f00d"
+      "key": "530a3",
+      "songName": "[Beat The Heat 2026] Calvin Harris - My Way [V4]",
+      "hash": "a01061740ac0ec5599a90248f8cdfa42f12b4410",
+      "levelid": "custom_level_a01061740ac0ec5599a90248f8cdfa42f12b4410"
     },
     {
-      "key": "5314a",
-      "songName": "Teenieping Carol Song (Season 4)",
-      "hash": "1bc7eaa726d95d78e8a673eeb7cfa60e0e7681e6",
-      "levelid": "custom_level_1bc7eaa726d95d78e8a673eeb7cfa60e0e7681e6"
+      "key": "530a1",
+      "songName": "[Beat The Heat 2026]  ZICO, Lilas Ikuta - DUET ",
+      "hash": "0de6057ac76682959afc3f5dca269ead99751801",
+      "levelid": "custom_level_0de6057ac76682959afc3f5dca269ead99751801"
     },
     {
-      "key": "53148",
-      "songName": "My Big pp",
-      "hash": "31dadce5e36e3507764676de331bbed0a38d853f",
-      "levelid": "custom_level_31dadce5e36e3507764676de331bbed0a38d853f"
+      "key": "530a2",
+      "songName": "[Beat The Heat 2026] JVKE, Nick Jonas - this is what forever feels like",
+      "hash": "6f28ee5cee820207477fcec276da0db0433aab82",
+      "levelid": "custom_level_6f28ee5cee820207477fcec276da0db0433aab82"
     },
     {
-      "key": "53146",
-      "songName": "Alex C. (feat. Yasmin K.) - Angel Of Darkness (Nightcore Mix)",
-      "hash": "fe866684194420762f07b351c20e3ca06fcc4527",
-      "levelid": "custom_level_fe866684194420762f07b351c20e3ca06fcc4527"
+      "key": "5306a",
+      "songName": " [Beat the Heat 2026] takehirotei - Gensokyo;Restoration",
+      "hash": "232d6e57ff279c317b722df4618cf964f8a81abf",
+      "levelid": "custom_level_232d6e57ff279c317b722df4618cf964f8a81abf"
     },
     {
-      "key": "53145",
-      "songName": "The Band",
-      "hash": "3d9bad25ac89595ecc890f024b971a2b729c87dd",
-      "levelid": "custom_level_3d9bad25ac89595ecc890f024b971a2b729c87dd"
+      "key": "53069",
+      "songName": "[Beat the Heat 2026] sound sepher - Desire Drive (Short Edit)",
+      "hash": "97a9354cd03bc699826bae5beb7f1053f75892ef",
+      "levelid": "custom_level_97a9354cd03bc699826bae5beb7f1053f75892ef"
     },
     {
-      "key": "53144",
-      "songName": "ゆず - 表裏一体 (TV Size)",
-      "hash": "91ca4e738843ad4f8336a3445b8da150f6c4390e",
-      "levelid": "custom_level_91ca4e738843ad4f8336a3445b8da150f6c4390e"
+      "key": "52f48",
+      "songName": "[Beat the Heat 2026] Atarayo - 夏霞 (Natsugasumi)",
+      "hash": "689f4c1bbbe16d05e49659b4a460aa04589ec676",
+      "levelid": "custom_level_689f4c1bbbe16d05e49659b4a460aa04589ec676"
     },
     {
-      "key": "53138",
-      "songName": "WOTFI 2025 SMG4 \"Worlds Collide\"",
-      "hash": "980f94ec415b043b78e19969fea62327d40d7b7c",
-      "levelid": "custom_level_980f94ec415b043b78e19969fea62327d40d7b7c"
+      "key": "5303e",
+      "songName": "[Beat The Heat 2026] - Title Theme [Nintendo Switch Sports OST]",
+      "hash": "80aee981901acb507911d366d07b7e96648b74ef",
+      "levelid": "custom_level_80aee981901acb507911d366d07b7e96648b74ef"
     },
     {
-      "key": "53136",
-      "songName": "[DDR Port] Wild Rush - FACTOR-X [VNJS] [One Saber]",
-      "hash": "bda6ab0db734fc1e6ce04222b12da5eb11c734b0",
-      "levelid": "custom_level_bda6ab0db734fc1e6ce04222b12da5eb11c734b0"
+      "key": "5303c",
+      "songName": "[Beat The Heat 2026] - Title Theme [Nintendo Switch Sports OST]",
+      "hash": "9c01df5777d7343534f818fa2b96a55e5cce4c45",
+      "levelid": "custom_level_9c01df5777d7343534f818fa2b96a55e5cce4c45"
     },
     {
-      "key": "5312f",
-      "songName": "I'm Sorry Mom",
-      "hash": "ddf8f698231d0edfd6922822125d11cab2c8c7c1",
-      "levelid": "custom_level_ddf8f698231d0edfd6922822125d11cab2c8c7c1"
+      "key": "52e1d",
+      "songName": "[Beat The Heat 2026] Atsuko Asahi - Dolphin Shoals (from \"Mario Kart 8\")",
+      "hash": "d71d4119379fea40666eb33beb0fe5f3f978fc1b",
+      "levelid": "custom_level_d71d4119379fea40666eb33beb0fe5f3f978fc1b"
     },
     {
-      "key": "5312e",
-      "songName": "ANNA & Sillyelly - HELLO KITTY (Bevilix's Bootleg)",
-      "hash": "f6ad71b9cfaae87b4442093cc86007b4749c09e3",
-      "levelid": "custom_level_f6ad71b9cfaae87b4442093cc86007b4749c09e3"
+      "key": "53019",
+      "songName": "[Beat The Heat 2026] Tame Impala, JENNIE - Dracula (JENNIE Remix) [V4]",
+      "hash": "8acc5d756913e6d5be30e9297fdad209f90819c8",
+      "levelid": "custom_level_8acc5d756913e6d5be30e9297fdad209f90819c8"
     },
     {
-      "key": "5312d",
-      "songName": "Aahh disappearing scream meme sound effect",
-      "hash": "937b6e39220b7994a571f64b11f61004fe7cb26b",
-      "levelid": "custom_level_937b6e39220b7994a571f64b11f61004fe7cb26b"
+      "key": "52f1e",
+      "songName": "[Beat the Heat 2026] Various Artists - Title (from \"Super Mario Party Jamboree\")",
+      "hash": "d8554f1cc28dfc1cc061b3f27fa058e8c77fe12f",
+      "levelid": "custom_level_d8554f1cc28dfc1cc061b3f27fa058e8c77fe12f"
     },
     {
-      "key": "5312c",
-      "songName": "Miku Song",
-      "hash": "943282ce4ab89c244e94c4deb56f910fde6dce5c",
-      "levelid": "custom_level_943282ce4ab89c244e94c4deb56f910fde6dce5c"
+      "key": "52ec7",
+      "songName": "[Beat The Heat 2026] HOYO-MiX - Sway to My Beat in Cosmos",
+      "hash": "52df5fe47378a7b4bf6710f76b5281bd6bbd6279",
+      "levelid": "custom_level_52df5fe47378a7b4bf6710f76b5281bd6bbd6279"
     },
     {
-      "key": "5312b",
-      "songName": "Camellia - Chou*Chou*Kou*Soku*De*Mae*Sai*Soku!!! Speed*Star*Kanade (feat. Nanahira)",
-      "hash": "48870645456ce70415ed7de355abeecc7d491aa8",
-      "levelid": "custom_level_48870645456ce70415ed7de355abeecc7d491aa8"
+      "key": "52e43",
+      "songName": "[Beat The Heat 2026] Linkin Park - Overflow",
+      "hash": "ebdcf7ff5d1eb2b32fa51e97262add0afccb99a1",
+      "levelid": "custom_level_ebdcf7ff5d1eb2b32fa51e97262add0afccb99a1"
     },
     {
-      "key": "530dc",
+      "key": "52e20",
+      "songName": "[Beat The Heat 2026] Ryo Nagamatsu - Ballad of the Wind Fish (Lizz Robinett cover) (from \"The Legend of Zelda: Link's Awakening\")",
+      "hash": "0f69ff830abefc845391c40d028e69de90fe64a8",
+      "levelid": "custom_level_0f69ff830abefc845391c40d028e69de90fe64a8"
+    },
+    {
+      "key": "52e1e",
+      "songName": "[Beat The Heat 2026] Israel \"IZ\" Kamakawiwoʻole - Somewhere Over the Rainbow",
+      "hash": "9bdc4fb95c37fcab2c4f68eec51e4aeb35098f25",
+      "levelid": "custom_level_9bdc4fb95c37fcab2c4f68eec51e4aeb35098f25"
+    },
+    {
+      "key": "52d66",
+      "songName": "[Beat the Heat 2026] REDALiCE - ALiVE",
+      "hash": "be179836c6f28a0ba9d709d7b3b7dbfd0a2e03c5",
+      "levelid": "custom_level_be179836c6f28a0ba9d709d7b3b7dbfd0a2e03c5"
+    },
+    {
+      "key": "51e3a",
+      "songName": "[Beat The Heat 2026] Electric Callboy - Hurrikan (Fitbeat)",
+      "hash": "62362602619d53bbfd163e26906a7edf92f9a3c0",
+      "levelid": "custom_level_62362602619d53bbfd163e26906a7edf92f9a3c0"
+    },
+    {
+      "key": "531dd",
+      "songName": "ABM - '次元通信' (Signaling) 初音ミク & 重音テト",
+      "hash": "f3103aedeff4ef5f2d2984366726df1e5512fdf3",
+      "levelid": "custom_level_f3103aedeff4ef5f2d2984366726df1e5512fdf3"
+    },
+    {
+      "key": "531dc",
+      "songName": "Starjunk 95 - Bubblegum Trash",
+      "hash": "d52b3d9bfc91db5e1fc4bdefd4ad32900b039a0d",
+      "levelid": "custom_level_d52b3d9bfc91db5e1fc4bdefd4ad32900b039a0d"
+    },
+    {
+      "key": "531db",
+      "songName": "Walk off the Earth — My Stupid Heart (Kid's Version)",
+      "hash": "681581a86d75a6e7f98029a1cf2a8f252f57129e",
+      "levelid": "custom_level_681581a86d75a6e7f98029a1cf2a8f252f57129e"
+    },
+    {
+      "key": "531da",
+      "songName": "Toxic",
+      "hash": "5e128665cd6dede46a5cfdbdfe66ea072b67532e",
+      "levelid": "custom_level_5e128665cd6dede46a5cfdbdfe66ea072b67532e"
+    },
+    {
+      "key": "531d9",
+      "songName": "Higgo - Don't Wanna Be Talking",
+      "hash": "46e5f0c10bf5c737638e9d0f3208a94f43b242e7",
+      "levelid": "custom_level_46e5f0c10bf5c737638e9d0f3208a94f43b242e7"
+    },
+    {
+      "key": "531d8",
+      "songName": "Alesha Dixon - The Boy Does Nothing",
+      "hash": "9ffa06756d7ae08da4b6b07e9d988caa872b4bfd",
+      "levelid": "custom_level_9ffa06756d7ae08da4b6b07e9d988caa872b4bfd"
+    },
+    {
+      "key": "531d1",
+      "songName": "徒花ネクロマンシー (ゾンビランドサガ OP)",
+      "hash": "87e503f4894c4e839f414c3e1b22592944816da3",
+      "levelid": "custom_level_87e503f4894c4e839f414c3e1b22592944816da3"
+    },
+    {
+      "key": "531cf",
+      "songName": "Blue (Da Ba Dee) (Epic Dark Techno)",
+      "hash": "3340d5d29844dd3b8344c4e1a501542fe2f06783",
+      "levelid": "custom_level_3340d5d29844dd3b8344c4e1a501542fe2f06783"
+    },
+    {
+      "key": "531ce",
+      "songName": "Walk off the Earth — My Stupid Heart",
+      "hash": "5f2b6de2aef973b903a7eacedadc8013e83e5735",
+      "levelid": "custom_level_5f2b6de2aef973b903a7eacedadc8013e83e5735"
+    },
+    {
+      "key": "531c9",
+      "songName": "What the fuck (meme)",
+      "hash": "34c7b8757f41e261490de1b1664b7f1c0809af8c",
+      "levelid": "custom_level_34c7b8757f41e261490de1b1664b7f1c0809af8c"
+    },
+    {
+      "key": "531c6",
+      "songName": "Larping The Rooms - The Larping Tombstone",
+      "hash": "77216da280f4b63820c66e5e4552fe7bb1ea9aad",
+      "levelid": "custom_level_77216da280f4b63820c66e5e4552fe7bb1ea9aad"
+    },
+    {
+      "key": "531c5",
+      "songName": "Team Grimoire & Laur - Apotheosis",
+      "hash": "236383e56f35ab43f485b3aee70d9a3d5e418436",
+      "levelid": "custom_level_236383e56f35ab43f485b3aee70d9a3d5e418436"
+    },
+    {
+      "key": "531c4",
+      "songName": "Tokyo Night",
+      "hash": "2d6f809561d7fc0600707e03f1e46a917d087a60",
+      "levelid": "custom_level_2d6f809561d7fc0600707e03f1e46a917d087a60"
+    },
+    {
+      "key": "531c3",
+      "songName": "夏の羽音",
+      "hash": "c66f445d3cb3500f0eebf552fab516c801755a41",
+      "levelid": "custom_level_c66f445d3cb3500f0eebf552fab516c801755a41"
+    },
+    {
+      "key": "531c0",
+      "songName": "God-ish【Covered by Kotoha】",
+      "hash": "03784793417defb8b71f490972b761d7a09d9603",
+      "levelid": "custom_level_03784793417defb8b71f490972b761d7a09d9603"
+    },
+    {
+      "key": "531bc",
+      "songName": "Alek Olsen - someday i'll get it(remap)",
+      "hash": "1923a094086765e97a965f470254f421087d0cd2",
+      "levelid": "custom_level_1923a094086765e97a965f470254f421087d0cd2"
+    },
+    {
+      "key": "531bb",
+      "songName": "LOST (Slaughterhouse ver, Extended)",
+      "hash": "b74718854271aff33d567aa396129b880110d3ec",
+      "levelid": "custom_level_b74718854271aff33d567aa396129b880110d3ec"
+    },
+    {
+      "key": "531b9",
+      "songName": "The TV Made Me Do It",
+      "hash": "b9c649d356e81cbe582014bdaabb4e4446ed56f0",
+      "levelid": "custom_level_b9c649d356e81cbe582014bdaabb4e4446ed56f0"
+    },
+    {
+      "key": "531b4",
+      "songName": "Brisket Rooms Musical",
+      "hash": "cb3fb6a06b817a4be78f3a15d8601132df426d9b",
+      "levelid": "custom_level_cb3fb6a06b817a4be78f3a15d8601132df426d9b"
+    },
+    {
+      "key": "531b3",
+      "songName": "whatever gladde paling remix",
+      "hash": "8445c72915c9f71b6b86d031a5da2df96047f430",
+      "levelid": "custom_level_8445c72915c9f71b6b86d031a5da2df96047f430"
+    },
+    {
+      "key": "531a8",
+      "songName": "HERE I COME - Milestone c00lkidd Chase Theme (From 'Forsaken')",
+      "hash": "fb94e264a5825bbde1a77164219a85f6f9c5c099",
+      "levelid": "custom_level_fb94e264a5825bbde1a77164219a85f6f9c5c099"
+    },
+    {
+      "key": "5317f",
       "songName": "4 BY 4 BEATS",
-      "hash": "08acdbd3227c75dec28ec035b27e140ad0b9052f",
-      "levelid": "custom_level_08acdbd3227c75dec28ec035b27e140ad0b9052f"
+      "hash": "5c9b409daceda9b921d17bf564b7349a0dd272bc",
+      "levelid": "custom_level_5c9b409daceda9b921d17bf564b7349a0dd272bc"
     },
     {
-      "key": "53126",
-      "songName": "Whipped Cream Big Dream",
-      "hash": "6aab23ead37fe768186003c5bc17cc15ec62a47e",
-      "levelid": "custom_level_6aab23ead37fe768186003c5bc17cc15ec62a47e"
+      "key": "531a3",
+      "songName": "Creeper Rap x Get Out",
+      "hash": "47804a5b117a03ad8c067bbd736c5b30baec5cad",
+      "levelid": "custom_level_47804a5b117a03ad8c067bbd736c5b30baec5cad"
     },
     {
-      "key": "53125",
-      "songName": "I am waiting for you last summer - Grindhouse",
-      "hash": "8a07d232998b0912a7260b0c22db66881a2a169a",
-      "levelid": "custom_level_8a07d232998b0912a7260b0c22db66881a2a169a"
+      "key": "5319b",
+      "songName": "Hyper Potions & t+pazolite - THERMOFUNK",
+      "hash": "b079b513304100b384a0c2f4e42119a0ffb38139",
+      "levelid": "custom_level_b079b513304100b384a0c2f4e42119a0ffb38139"
     },
     {
-      "key": "53123",
-      "songName": "WOTFI 2022 SMG4",
-      "hash": "dde6ae329d4bb06e44b75b4d88cf5597b24bd90d",
-      "levelid": "custom_level_dde6ae329d4bb06e44b75b4d88cf5597b24bd90d"
+      "key": "53181",
+      "songName": "Larping the Rooms",
+      "hash": "dbe561d859a273c20ca1e18e421c9dfa97991a72",
+      "levelid": "custom_level_dbe561d859a273c20ca1e18e421c9dfa97991a72"
     },
     {
-      "key": "53122",
-      "songName": "Pondelnici - Zbij fetaka!",
-      "hash": "0ddc77ab13d4f5081e5575762cbaa8775d1f492f",
-      "levelid": "custom_level_0ddc77ab13d4f5081e5575762cbaa8775d1f492f"
+      "key": "5317e",
+      "songName": "Sila starejch vin",
+      "hash": "64b1decfa15e29141ec9a98f5f674a957b0a0e01",
+      "levelid": "custom_level_64b1decfa15e29141ec9a98f5f674a957b0a0e01"
     },
     {
-      "key": "53121",
-      "songName": "Mauern aus Granit by Ness (chartet by BeastboyblueCat) Expert +",
-      "hash": "ea82d569a15e2cbf8e2ea10bf93df760f64b65b2",
-      "levelid": "custom_level_ea82d569a15e2cbf8e2ea10bf93df760f64b65b2"
+      "key": "5317d",
+      "songName": "demonspeed",
+      "hash": "11c2bb53bfe335da35d89f6db9207fe2c6585a30",
+      "levelid": "custom_level_11c2bb53bfe335da35d89f6db9207fe2c6585a30"
     },
     {
-      "key": "53120",
-      "songName": "Demi Lovato - Cool for the Summer (LXMINAL's hardstyle remix)",
-      "hash": "db8821ed741c7884f9e7239d40b5e09e21d1bf60",
-      "levelid": "custom_level_db8821ed741c7884f9e7239d40b5e09e21d1bf60"
+      "key": "5308f",
+      "songName": "Juggernaut. - Mephisto (BSWC 2026 Grand Finals Tiebreaker)",
+      "hash": "45dd2d6e74bf8e4bccde5175eeb98b44b362a7c5",
+      "levelid": "custom_level_45dd2d6e74bf8e4bccde5175eeb98b44b362a7c5"
     },
     {
-      "key": "5311f",
-      "songName": "Afton Family",
-      "hash": "bbe02c9f6b5939572c6ae565535426e1bac7a597",
-      "levelid": "custom_level_bbe02c9f6b5939572c6ae565535426e1bac7a597"
+      "key": "53177",
+      "songName": "iShowSpeed Meets a Black Enderman",
+      "hash": "5bd25597e425ca128a4330517baaffc604ce194c",
+      "levelid": "custom_level_5bd25597e425ca128a4330517baaffc604ce194c"
     },
     {
-      "key": "5311e",
-      "songName": "Is this real",
-      "hash": "9658fb4f8e5c0268e2ea87aed3ba5f6c9079560f",
-      "levelid": "custom_level_9658fb4f8e5c0268e2ea87aed3ba5f6c9079560f"
+      "key": "53176",
+      "songName": "9Lana - チンチロリズム",
+      "hash": "f48b21745acadeacd940550d4bc62c68766c3e94",
+      "levelid": "custom_level_f48b21745acadeacd940550d4bc62c68766c3e94"
     },
     {
-      "key": "5311c",
-      "songName": "Ari Pulkkinen - Angry Birds Theme",
-      "hash": "145120cd83f7d4c33db04ab3c95f600c5827fbdc",
-      "levelid": "custom_level_145120cd83f7d4c33db04ab3c95f600c5827fbdc"
+      "key": "53174",
+      "songName": "【Oshi no Ko】- Season 3 (B no Revenge)",
+      "hash": "8b0661ad8f4c89cd3ead5be725dbf110b3eb0e7b",
+      "levelid": "custom_level_8b0661ad8f4c89cd3ead5be725dbf110b3eb0e7b"
     },
     {
-      "key": "5311b",
-      "songName": "Зелье - Wicsur",
-      "hash": "9d79910e030c0907959dec3542ebadb98c89b113",
-      "levelid": "custom_level_9d79910e030c0907959dec3542ebadb98c89b113"
+      "key": "53175",
+      "songName": "Kyutatsuki - Dimension Wars",
+      "hash": "28351758e5b3e5ff31a8cb5009d4f586024d0168",
+      "levelid": "custom_level_28351758e5b3e5ff31a8cb5009d4f586024d0168"
     },
     {
-      "key": "5311a",
-      "songName": "Thumbpions",
-      "hash": "8d4e5d5d3a2face11f2fa02a159bdecb1178b864",
-      "levelid": "custom_level_8d4e5d5d3a2face11f2fa02a159bdecb1178b864"
+      "key": "5316d",
+      "songName": "WOTFI 2020 SMG4",
+      "hash": "8c2605ac7f0ae497a1fc06ec947de4a051c7f9df",
+      "levelid": "custom_level_8c2605ac7f0ae497a1fc06ec947de4a051c7f9df"
     },
     {
-      "key": "52f55",
-      "songName": "Beyond the sacred star",
-      "hash": "5b1e8c55518bf0ab9b05040dee2aa3c0ce4bbd5d",
-      "levelid": "custom_level_5b1e8c55518bf0ab9b05040dee2aa3c0ce4bbd5d"
+      "key": "5316a",
+      "songName": "Umapyoi Densetsu(BRAVE's EUROBEAT Mix) - Uma Musume",
+      "hash": "eb39126a349b092466f56fe6d3b6669bf871c7bb",
+      "levelid": "custom_level_eb39126a349b092466f56fe6d3b6669bf871c7bb"
     },
     {
-      "key": "53118",
-      "songName": "Shattered - O.A.R. (Chroma+)",
-      "hash": "c9b17dbc76d2230128b38c4321cc4ab141770dae",
-      "levelid": "custom_level_c9b17dbc76d2230128b38c4321cc4ab141770dae"
-    },
-    {
-      "key": "53119",
-      "songName": "Bye bye Russia (meme)",
-      "hash": "1d77c2fdb291cedb1c8448697e92be9f6cc87a46",
-      "levelid": "custom_level_1d77c2fdb291cedb1c8448697e92be9f6cc87a46"
-    },
-    {
-      "key": "53116",
-      "songName": "WOTFI 2025 SMG4 \"Worlds Collide\" BEST VERSION",
-      "hash": "32ee3f5e41ffb12de2bd6db4f9701e36d2479307",
-      "levelid": "custom_level_32ee3f5e41ffb12de2bd6db4f9701e36d2479307"
-    },
-    {
-      "key": "53114",
-      "songName": "Belive In Myself",
-      "hash": "d35bdb169d1680165d2452939d8c668f480a4614",
-      "levelid": "custom_level_d35bdb169d1680165d2452939d8c668f480a4614"
-    },
-    {
-      "key": "530dd",
-      "songName": "Mili - Harmonious",
-      "hash": "3ef069c697e1cd28b2072e08cdfb7f38c9bbfd0c",
-      "levelid": "custom_level_3ef069c697e1cd28b2072e08cdfb7f38c9bbfd0c"
+      "key": "53169",
+      "songName": "Lightning Crashes - Live",
+      "hash": "dd971273b9949841f558af3afb24e7b8b4556bc6",
+      "levelid": "custom_level_dd971273b9949841f558af3afb24e7b8b4556bc6"
     }
   ],
   "image": ""
