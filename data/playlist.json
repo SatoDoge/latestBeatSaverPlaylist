@@ -1,250 +1,274 @@
 {
-  "playlistTitle": "2026-08-02T15:18:48.289Z~2026-08-03T15:18:48.289Z",
+  "playlistTitle": "2026-08-03T15:18:48.083Z~2026-08-04T15:18:48.083Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-08-02T15:18:48.289Z and 2026-08-03T15:18:48.289Z",
+  "discripstion": "Maps published between 2026-08-03T15:18:48.083Z and 2026-08-04T15:18:48.083Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "534f8",
-      "songName": "Ceui - COLORFUL DAYS!!",
-      "hash": "54598e6c4a139765ab507926440d79792448677d",
-      "levelid": "custom_level_54598e6c4a139765ab507926440d79792448677d"
+      "key": "535b2",
+      "songName": "Leave It To Fate",
+      "hash": "2491792151fa013cf2e312b4ea53ad08d97ed335",
+      "levelid": "custom_level_2491792151fa013cf2e312b4ea53ad08d97ed335"
     },
     {
-      "key": "534f7",
-      "songName": "type london",
-      "hash": "ea4c58ee2d60df29ac95ed2a5e2e3555fe4838c8",
-      "levelid": "custom_level_ea4c58ee2d60df29ac95ed2a5e2e3555fe4838c8"
+      "key": "535af",
+      "songName": "Dolls United - Eine Insel mit Zwei Bergen",
+      "hash": "5a166cd5e2f7200d0ec6e256931cfd2f37a792df",
+      "levelid": "custom_level_5a166cd5e2f7200d0ec6e256931cfd2f37a792df"
     },
     {
-      "key": "534f4",
-      "songName": "byrmalda",
-      "hash": "cc46e892731ed1aff78b41188f034cbbad30e07c",
-      "levelid": "custom_level_cc46e892731ed1aff78b41188f034cbbad30e07c"
+      "key": "535b1",
+      "songName": "ratata",
+      "hash": "1625949f03493d135dd6390ea6e278806785e816",
+      "levelid": "custom_level_1625949f03493d135dd6390ea6e278806785e816"
     },
     {
-      "key": "534f0",
-      "songName": "Senator Devon",
-      "hash": "c72fd6282bf5b75f7dba921e9088917fc3cd3d21",
-      "levelid": "custom_level_c72fd6282bf5b75f7dba921e9088917fc3cd3d21"
+      "key": "535b0",
+      "songName": "Seventeen going under",
+      "hash": "983324990baf52bc01ba934d8464852be80dfcdc",
+      "levelid": "custom_level_983324990baf52bc01ba934d8464852be80dfcdc"
     },
     {
-      "key": "533f5",
-      "songName": "おいでよ亀有",
-      "hash": "8c638dae0e98d846cb1d8e7f3c711c48a0b439e2",
-      "levelid": "custom_level_8c638dae0e98d846cb1d8e7f3c711c48a0b439e2"
+      "key": "535ac",
+      "songName": "Red Velvet - Surfin' Boy",
+      "hash": "8d6aaeedc9cce2e3e94ad1a321f7b3a5257b956b",
+      "levelid": "custom_level_8d6aaeedc9cce2e3e94ad1a321f7b3a5257b956b"
     },
     {
-      "key": "534e4",
-      "songName": "恋愛サーキュレーション (化物語 OP4)",
-      "hash": "ed284476836f63a1cc41d2f09370428f2f342dcf",
-      "levelid": "custom_level_ed284476836f63a1cc41d2f09370428f2f342dcf"
+      "key": "535a5",
+      "songName": "disoc8 - DRUGZ IN MY SYSTEM (feat. asht0nn & suddendeathovertime)",
+      "hash": "af0e7d3fd98c291eeac3244400a9f6a24d2655f1",
+      "levelid": "custom_level_af0e7d3fd98c291eeac3244400a9f6a24d2655f1"
     },
     {
-      "key": "534e3",
-      "songName": "GHENGAR - MALEVOLENT SHRINE",
-      "hash": "c0ba1152193ccb9a415bd3be9752c67ab69f2a0e",
-      "levelid": "custom_level_c0ba1152193ccb9a415bd3be9752c67ab69f2a0e"
+      "key": "535a4",
+      "songName": "True Hero",
+      "hash": "3fec693abde4c7823107eef9b876bc2fbd26fa7b",
+      "levelid": "custom_level_3fec693abde4c7823107eef9b876bc2fbd26fa7b"
     },
     {
-      "key": "534df",
-      "songName": "Doctor Who - Rose Tyler's Theme",
-      "hash": "f89b5493ad8b1558cb48cc21a0d677159cb89ff9",
-      "levelid": "custom_level_f89b5493ad8b1558cb48cc21a0d677159cb89ff9"
+      "key": "535a3",
+      "songName": "Conversations",
+      "hash": "d7e385e9cffac6fcfada4de94d0407e3f5df8ff8",
+      "levelid": "custom_level_d7e385e9cffac6fcfada4de94d0407e3f5df8ff8"
     },
     {
-      "key": "534da",
-      "songName": "DR3 Victory",
-      "hash": "f9275da9664ff2ffbf710d65362980869442a3a2",
-      "levelid": "custom_level_f9275da9664ff2ffbf710d65362980869442a3a2"
+      "key": "5359d",
+      "songName": "Debris & Dazers - Double D",
+      "hash": "799217d8f4b40f8ce5f5cd3b70fc03cf2189d115",
+      "levelid": "custom_level_799217d8f4b40f8ce5f5cd3b70fc03cf2189d115"
     },
     {
-      "key": "534d8",
-      "songName": "Customized Justice",
-      "hash": "b6881b67d4b3d80da0f8de39dd5366d27ff99bf8",
-      "levelid": "custom_level_b6881b67d4b3d80da0f8de39dd5366d27ff99bf8"
+      "key": "5359c",
+      "songName": "[V4] Studi01 - Cats in Pink (ft. CrescentIsCat) [Our Summer Dreams Album]",
+      "hash": "3fe700a7d239f033ac950630d0df304bc0280f4a",
+      "levelid": "custom_level_3fe700a7d239f033ac950630d0df304bc0280f4a"
     },
     {
-      "key": "534cf",
-      "songName": "speed test",
-      "hash": "937483397d7947334a5aad00358f54334ffce839",
-      "levelid": "custom_level_937483397d7947334a5aad00358f54334ffce839"
+      "key": "5359b",
+      "songName": "K-Forest vs. Reku Mochizuki - Elusive Enforcer",
+      "hash": "81a136d0ea3085dfad07d516ae8818c9673dcb19",
+      "levelid": "custom_level_81a136d0ea3085dfad07d516ae8818c9673dcb19"
     },
     {
-      "key": "534ce",
-      "songName": "chinesedog",
-      "hash": "c24fc5a97fb1a01208d631c5576139d84912efb4",
-      "levelid": "custom_level_c24fc5a97fb1a01208d631c5576139d84912efb4"
+      "key": "53428",
+      "songName": "僕達は天使だった",
+      "hash": "a67875873eb856384d6430dbfbb2ba6726fd6791",
+      "levelid": "custom_level_a67875873eb856384d6430dbfbb2ba6726fd6791"
     },
     {
-      "key": "534c6",
-      "songName": "Niall Horan - Little More Time",
-      "hash": "577e0203b53967053964c0d926cd736b431a10ac",
-      "levelid": "custom_level_577e0203b53967053964c0d926cd736b431a10ac"
+      "key": "53598",
+      "songName": "sugar sweet nightmare (化物語 OP5)",
+      "hash": "7a3129569535bbd89fcff69c37090b36b6ca2a6f",
+      "levelid": "custom_level_7a3129569535bbd89fcff69c37090b36b6ca2a6f"
     },
     {
-      "key": "534be",
-      "songName": "STRANGER",
-      "hash": "85cac25b82af70bef8a57d446e2482374e357d82",
-      "levelid": "custom_level_85cac25b82af70bef8a57d446e2482374e357d82"
+      "key": "53597",
+      "songName": "Linda Lampenius & Pete Parkkonen - Liekinheitin",
+      "hash": "a773a259c8ba4bf12ca30ccdba0060a7f46e8964",
+      "levelid": "custom_level_a773a259c8ba4bf12ca30ccdba0060a7f46e8964"
     },
     {
-      "key": "534bc",
-      "songName": "Weezer - I Just Threw Out the Love of My Dreams",
-      "hash": "8cec44e48fe47802fe352cb9b82ed147455523e3",
-      "levelid": "custom_level_8cec44e48fe47802fe352cb9b82ed147455523e3"
+      "key": "53584",
+      "songName": "HyuN - Infinity Heaven（Short edition）",
+      "hash": "6591653f8d4418390aa9dfc5394fd901e4799889",
+      "levelid": "custom_level_6591653f8d4418390aa9dfc5394fd901e4799889"
     },
     {
-      "key": "534b5",
-      "songName": "No Other Heart - Mac DeMarco",
-      "hash": "f93caa0e10aea360d7625ce78387d511949d65c5",
-      "levelid": "custom_level_f93caa0e10aea360d7625ce78387d511949d65c5"
+      "key": "5357c",
+      "songName": "Unhappy",
+      "hash": "60a36141c3d44ae2b2b19e771672f8e8a41d4e19",
+      "levelid": "custom_level_60a36141c3d44ae2b2b19e771672f8e8a41d4e19"
     },
     {
-      "key": "534af",
-      "songName": "Best OF Both Worlds (TV Size)",
-      "hash": "ab90aa597c419a9e43a90fce2e8138eb345dd2b5",
-      "levelid": "custom_level_ab90aa597c419a9e43a90fce2e8138eb345dd2b5"
+      "key": "53577",
+      "songName": "Camellia - liquated",
+      "hash": "14b6e207a6ad991ba7373d98f4659fe7484d3fa6",
+      "levelid": "custom_level_14b6e207a6ad991ba7373d98f4659fe7484d3fa6"
     },
     {
-      "key": "534a2",
-      "songName": "Russian Roulette",
-      "hash": "1630dadaf27bd0674b2ca485701f2e65e73ae39f",
-      "levelid": "custom_level_1630dadaf27bd0674b2ca485701f2e65e73ae39f"
+      "key": "52ea2",
+      "songName": "SCATTERBRAIN - BITTER",
+      "hash": "841f67ead68826f0e3167d06103992df9fbc163a",
+      "levelid": "custom_level_841f67ead68826f0e3167d06103992df9fbc163a"
     },
     {
-      "key": "534a0",
-      "songName": "Climax☆JUMPING!",
-      "hash": "4fcf975d6d3dca9fbe3121f6a09712104a7ee283",
-      "levelid": "custom_level_4fcf975d6d3dca9fbe3121f6a09712104a7ee283"
+      "key": "53566",
+      "songName": "Kobaryo - Hope Rewrites",
+      "hash": "b9b24f39e54072203789dc5f0371dd9eb265a045",
+      "levelid": "custom_level_b9b24f39e54072203789dc5f0371dd9eb265a045"
     },
     {
-      "key": "5349a",
-      "songName": "The Lake South",
-      "hash": "8f3e258b11f22a3c07652dcd83923d23a8d71ce2",
-      "levelid": "custom_level_8f3e258b11f22a3c07652dcd83923d23a8d71ce2"
+      "key": "53564",
+      "songName": "PO PIEP PO  - Tr!xy (Schpiel's challenge 2)",
+      "hash": "b77d46a6bb279bee34f302ea8933370f9c811b4a",
+      "levelid": "custom_level_b77d46a6bb279bee34f302ea8933370f9c811b4a"
     },
     {
-      "key": "53497",
-      "songName": "Haywyre - Gone For Good",
-      "hash": "5b0af1de2d02a6abb2d3c3acc399e94466cc1615",
-      "levelid": "custom_level_5b0af1de2d02a6abb2d3c3acc399e94466cc1615"
+      "key": "53562",
+      "songName": "For Some Time ",
+      "hash": "f5177bfcf8fb2d60aea37e189e13efb956580b8d",
+      "levelid": "custom_level_f5177bfcf8fb2d60aea37e189e13efb956580b8d"
     },
     {
-      "key": "53492",
-      "songName": "this level is very cool",
-      "hash": "ddb57f99214158f72fd9bbbd61b5a60172ac8653",
-      "levelid": "custom_level_ddb57f99214158f72fd9bbbd61b5a60172ac8653"
+      "key": "53561",
+      "songName": "RAYE - I Hate The Way I Look Today.",
+      "hash": "babc2e8155958cac6a99243698dd69fda71ce7ca",
+      "levelid": "custom_level_babc2e8155958cac6a99243698dd69fda71ce7ca"
     },
     {
-      "key": "5347a",
-      "songName": "Karl Flodin - Through The Glades, Pt. 1",
-      "hash": "ac28cd7699e507ab3111e4ed330cd2a413aecf49",
-      "levelid": "custom_level_ac28cd7699e507ab3111e4ed330cd2a413aecf49"
+      "key": "5355e",
+      "songName": "Shizumeru Machi (Sinking Town)",
+      "hash": "b2aba2edd9dd12278f709a69ed44561037a8efbc",
+      "levelid": "custom_level_b2aba2edd9dd12278f709a69ed44561037a8efbc"
     },
     {
-      "key": "5347f",
-      "songName": "HOT SHOT",
-      "hash": "f0f699509491b941043b248df05e4d4d4f28fe5c",
-      "levelid": "custom_level_f0f699509491b941043b248df05e4d4d4f28fe5c"
+      "key": "5355c",
+      "songName": "YOU’RE NOT MY BROTHER!! (Super Mario Bros Parody)",
+      "hash": "37710e79f085a7ef33a8479eb2da77990c7bf313",
+      "levelid": "custom_level_37710e79f085a7ef33a8479eb2da77990c7bf313"
     },
     {
-      "key": "5347d",
-      "songName": "Yong Girl Rah",
-      "hash": "2c0379bc089228f2a702bc1c202b0a78e3be3efd",
-      "levelid": "custom_level_2c0379bc089228f2a702bc1c202b0a78e3be3efd"
+      "key": "5355a",
+      "songName": "AEFKA FUNK - DJ KVNXD",
+      "hash": "e4d46a8b544609c8b26317cb4e4ddb8300d68f16",
+      "levelid": "custom_level_e4d46a8b544609c8b26317cb4e4ddb8300d68f16"
     },
     {
-      "key": "5298f",
-      "songName": "suicidal love",
-      "hash": "d465956b9eb8dc3f579accdab4d0a1365cfad75b",
-      "levelid": "custom_level_d465956b9eb8dc3f579accdab4d0a1365cfad75b"
+      "key": "53556",
+      "songName": "El Monte",
+      "hash": "1237ee91b5d038c78823024608f9ca590f143d00",
+      "levelid": "custom_level_1237ee91b5d038c78823024608f9ca590f143d00"
     },
     {
-      "key": "5347c",
-      "songName": "ykds's Light Test I",
-      "hash": "acd1c4cd13d6ebed75e23701e168259ffa1ad5f7",
-      "levelid": "custom_level_acd1c4cd13d6ebed75e23701e168259ffa1ad5f7"
+      "key": "53555",
+      "songName": "Chef pee pee bad birthday song",
+      "hash": "b7ece4daa391bf072235b2604fe82afaf05630c6",
+      "levelid": "custom_level_b7ece4daa391bf072235b2604fe82afaf05630c6"
     },
     {
-      "key": "53479",
-      "songName": "KURU KURU KURURIN",
-      "hash": "5867f417757019f350de36c0611d29d232ad2d55",
-      "levelid": "custom_level_5867f417757019f350de36c0611d29d232ad2d55"
+      "key": "53554",
+      "songName": "Jkyl & Hyde - UR HERE",
+      "hash": "4c9d81122641ac9549c29ff5eba4d7c5a4667788",
+      "levelid": "custom_level_4c9d81122641ac9549c29ff5eba4d7c5a4667788"
     },
     {
-      "key": "53473",
-      "songName": "Vansire - Brown Study",
-      "hash": "a499f13e4fb3c04f95637990d4ef2502f6485bd0",
-      "levelid": "custom_level_a499f13e4fb3c04f95637990d4ef2502f6485bd0"
+      "key": "53553",
+      "songName": "Horror Skunx - It's me, It's Verity",
+      "hash": "bcc4765f31a66d5ae1bbe626846fa67275024a8b",
+      "levelid": "custom_level_bcc4765f31a66d5ae1bbe626846fa67275024a8b"
     },
     {
-      "key": "5346f",
-      "songName": "Q-Brick - Eye.To.Eye.With.Creation.VHSRiP.mkv【feat. pǝʇlɐS】",
-      "hash": "16015ca4959640f4a7d4977e7bfdca63128c9221",
-      "levelid": "custom_level_16015ca4959640f4a7d4977e7bfdca63128c9221"
+      "key": "53552",
+      "songName": "Singing Chinese Lady Meme",
+      "hash": "64a6b8c2a6f6caa6127fcc2371c6182fa6f2bc91",
+      "levelid": "custom_level_64a6b8c2a6f6caa6127fcc2371c6182fa6f2bc91"
     },
     {
-      "key": "53471",
-      "songName": "Pain ",
-      "hash": "26cdf5dcfa0dfc6afed0e5f92e62bf24de496ee4",
-      "levelid": "custom_level_26cdf5dcfa0dfc6afed0e5f92e62bf24de496ee4"
+      "key": "53548",
+      "songName": "3 note's",
+      "hash": "42cefad9f2a69bcac977fd20064dfbbd1063fecc",
+      "levelid": "custom_level_42cefad9f2a69bcac977fd20064dfbbd1063fecc"
     },
     {
-      "key": "53470",
-      "songName": "Joji - 1AM FREESTYLE",
-      "hash": "11b4513f673ef496172dd9659c7beb068ef9fb75",
-      "levelid": "custom_level_11b4513f673ef496172dd9659c7beb068ef9fb75"
+      "key": "53546",
+      "songName": "runThis - Sunburn",
+      "hash": "4915061f7f3218443ee6e3ffde50d4196abc33d7",
+      "levelid": "custom_level_4915061f7f3218443ee6e3ffde50d4196abc33d7"
     },
     {
-      "key": "5346e",
-      "songName": "im a chud im a chud",
-      "hash": "3b6127853d1b018a92de74d4484e4bd78ee32c8f",
-      "levelid": "custom_level_3b6127853d1b018a92de74d4484e4bd78ee32c8f"
+      "key": "53545",
+      "songName": "прыгай дура!",
+      "hash": "9a193bf6732554fe58096825b20c1bcbc2884bba",
+      "levelid": "custom_level_9a193bf6732554fe58096825b20c1bcbc2884bba"
     },
     {
-      "key": "5346d",
-      "songName": "Chroma - Dark Sheep",
-      "hash": "1dc6a421e43359ef3c7c9bf6151761eabf4a71ea",
-      "levelid": "custom_level_1dc6a421e43359ef3c7c9bf6151761eabf4a71ea"
+      "key": "53543",
+      "songName": "GOT7 - Look",
+      "hash": "d733319a7eb445031395d5932b61ae35eb1adfd0",
+      "levelid": "custom_level_d733319a7eb445031395d5932b61ae35eb1adfd0"
     },
     {
-      "key": "53468",
-      "songName": "伤心的人别听慢歌",
-      "hash": "d01f6d946f0eea7cc554ca35aadd482bd4cd54d8",
-      "levelid": "custom_level_d01f6d946f0eea7cc554ca35aadd482bd4cd54d8"
+      "key": "53542",
+      "songName": "JUNIOR SENIOR - MOVE YOUR FEET (ASUNDER FLIP)",
+      "hash": "6337690698e937cbe84abc9c76c142d53c557e5d",
+      "levelid": "custom_level_6337690698e937cbe84abc9c76c142d53c557e5d"
     },
     {
-      "key": "53467",
-      "songName": "A Little Bit Bad",
-      "hash": "67a4be00e4de5015ce340c53775b35ccfec6ffe6",
-      "levelid": "custom_level_67a4be00e4de5015ce340c53775b35ccfec6ffe6"
+      "key": "5353f",
+      "songName": "HOYO-MiX - Girtablullu",
+      "hash": "b5f718854235299b0860179173fc2e2d0aa86a0f",
+      "levelid": "custom_level_b5f718854235299b0860179173fc2e2d0aa86a0f"
     },
     {
-      "key": "53466",
-      "songName": "THIS IS AMERICA.",
-      "hash": "3a8d2c13a418488394dbe8de2919bee9b68c3de2",
-      "levelid": "custom_level_3a8d2c13a418488394dbe8de2919bee9b68c3de2"
+      "key": "5353c",
+      "songName": "Better Came Along",
+      "hash": "c61b9a2801c9ec6f86121405c90ea8953284663a",
+      "levelid": "custom_level_c61b9a2801c9ec6f86121405c90ea8953284663a"
     },
     {
-      "key": "53465",
-      "songName": "MONTAGEM DAUNTLESS",
-      "hash": "9002b346cb8b1e097d529637522af9df712c76b0",
-      "levelid": "custom_level_9002b346cb8b1e097d529637522af9df712c76b0"
+      "key": "53537",
+      "songName": "Kou! - 飃流飃零",
+      "hash": "435f10a3a581ad96eba1fe8861a59bb6396aa4ed",
+      "levelid": "custom_level_435f10a3a581ad96eba1fe8861a59bb6396aa4ed"
     },
     {
-      "key": "53463",
-      "songName": "YBM - Yararara (feat. Kasane Teto)",
-      "hash": "d0ae86ffd2c78f4c91ab719957fbd825cf2cb5fb",
-      "levelid": "custom_level_d0ae86ffd2c78f4c91ab719957fbd825cf2cb5fb"
+      "key": "53531",
+      "songName": "Greg Heffley Remix Meme",
+      "hash": "a0b0f23b33fb68951f80583fe4524ee20aa9ab83",
+      "levelid": "custom_level_a0b0f23b33fb68951f80583fe4524ee20aa9ab83"
     },
     {
-      "key": "53462",
-      "songName": "again&again - stuck",
-      "hash": "49e7698a68821db6ec5ce989b41d73dacbf63bfe",
-      "levelid": "custom_level_49e7698a68821db6ec5ce989b41d73dacbf63bfe"
+      "key": "5352f",
+      "songName": "Why can't I be happy",
+      "hash": "0da11aa37d3bebbebac2cab35c1a3ddc80798db3",
+      "levelid": "custom_level_0da11aa37d3bebbebac2cab35c1a3ddc80798db3"
+    },
+    {
+      "key": "53520",
+      "songName": "KASAI HARCORES - Cycle Hit (Short Edit)",
+      "hash": "b244b456ffb2fa7bfad7f8536ce4b227234df2ee",
+      "levelid": "custom_level_b244b456ffb2fa7bfad7f8536ce4b227234df2ee"
+    },
+    {
+      "key": "5351f",
+      "songName": "beabadoobee - Apple Cider",
+      "hash": "91f0ef4cca44c901a0ec0202cda5ea154130cb6d",
+      "levelid": "custom_level_91f0ef4cca44c901a0ec0202cda5ea154130cb6d"
+    },
+    {
+      "key": "53515",
+      "songName": "Cascada - Bad Boy",
+      "hash": "26e23c3185771a640ecb02ded8e6c15657863572",
+      "levelid": "custom_level_26e23c3185771a640ecb02ded8e6c15657863572"
+    },
+    {
+      "key": "5350d",
+      "songName": "cry 2",
+      "hash": "5e0f418f55524e65789785466a3a89ca57671f73",
+      "levelid": "custom_level_5e0f418f55524e65789785466a3a89ca57671f73"
     }
   ],
   "image": ""
