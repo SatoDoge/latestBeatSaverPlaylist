@@ -1,232 +1,220 @@
 {
-  "playlistTitle": "2026-08-04T15:18:48.263Z~2026-08-05T15:18:48.263Z",
+  "playlistTitle": "2026-08-05T15:18:48.173Z~2026-08-06T15:18:48.173Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-08-04T15:18:48.263Z and 2026-08-05T15:18:48.263Z",
+  "discripstion": "Maps published between 2026-08-05T15:18:48.173Z and 2026-08-06T15:18:48.173Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "53637",
-      "songName": "dive to the heart - Kodak Yak",
-      "hash": "aba77459af541479d02d59e249385a3b1a9e7f5e",
-      "levelid": "custom_level_aba77459af541479d02d59e249385a3b1a9e7f5e"
+      "key": "53690",
+      "songName": "A1- It's just a burning memory",
+      "hash": "841c284f7e53a8aac22b615d99ed029776caa8cd",
+      "levelid": "custom_level_841c284f7e53a8aac22b615d99ed029776caa8cd"
     },
     {
-      "key": "53633",
-      "songName": "NIGHTkilla - Nine Circles (Short ver.)",
-      "hash": "1cba081d2af1a32e1bf1d7f9831d3e2037a0f355",
-      "levelid": "custom_level_1cba081d2af1a32e1bf1d7f9831d3e2037a0f355"
+      "key": "53684",
+      "songName": "Montagem Pitty",
+      "hash": "56e5a56ae3668de692ac515474bb33d2e711f2d5",
+      "levelid": "custom_level_56e5a56ae3668de692ac515474bb33d2e711f2d5"
     },
     {
-      "key": "53632",
-      "songName": "(Shitpost] Trou du Q",
-      "hash": "cfbf8b76c777c8e30200ec27bc093cb47ef713e5",
-      "levelid": "custom_level_cfbf8b76c777c8e30200ec27bc093cb47ef713e5"
+      "key": "5367c",
+      "songName": "Huhhhhhhhh",
+      "hash": "c3ad968606e7bdb4d4e3406406324cb83c5bbe46",
+      "levelid": "custom_level_c3ad968606e7bdb4d4e3406406324cb83c5bbe46"
     },
     {
-      "key": "53631",
-      "songName": "HATSUBOSHI GAKUEN - Love & Joy",
-      "hash": "6a960f41b318eccad836302aa0b78cc290aa7997",
-      "levelid": "custom_level_6a960f41b318eccad836302aa0b78cc290aa7997"
+      "key": "5367a",
+      "songName": "TAK - PPPP (feat. Hatsune Miku, Kasane Teto)",
+      "hash": "9dc82858200eaca2b9fd3bb7872b6f1eb2d0610e",
+      "levelid": "custom_level_9dc82858200eaca2b9fd3bb7872b6f1eb2d0610e"
     },
     {
-      "key": "53630",
-      "songName": "カルテ No.2222 Cover by 白砂あやね",
-      "hash": "9be75f0d9b23d7247c8ad79eb00219c531a1ce0b",
-      "levelid": "custom_level_9be75f0d9b23d7247c8ad79eb00219c531a1ce0b"
+      "key": "53672",
+      "songName": "legend FT. backchat",
+      "hash": "10366bcee0c944331c441c4ceb0ee6965fa028a6",
+      "levelid": "custom_level_10366bcee0c944331c441c4ceb0ee6965fa028a6"
     },
     {
-      "key": "5362f",
-      "songName": "[Shitpost] Pipi dans la baignoire",
-      "hash": "142fc0b3cd9299031b222c98ee9c6ebaff86e919",
-      "levelid": "custom_level_142fc0b3cd9299031b222c98ee9c6ebaff86e919"
+      "key": "53640",
+      "songName": "FlaskDisco",
+      "hash": "4ee475b60eb4d424451f4cb2bc433b0e275140cd",
+      "levelid": "custom_level_4ee475b60eb4d424451f4cb2bc433b0e275140cd"
     },
     {
-      "key": "5362e",
-      "songName": "OFF THE WALL - XXXTENTACION",
-      "hash": "f4e57e22251bf6025b28d39b80eb479f12edfbad",
-      "levelid": "custom_level_f4e57e22251bf6025b28d39b80eb479f12edfbad"
+      "key": "53671",
+      "songName": "キセキ～未来へ～(奇迹～向着未来～）",
+      "hash": "2aaae76898627fc904bff3cbe2f7c03996013c11",
+      "levelid": "custom_level_2aaae76898627fc904bff3cbe2f7c03996013c11"
     },
     {
-      "key": "53628",
-      "songName": "mor th3 #stranger #keyoo",
-      "hash": "6fd9f7806c398e1c0f68b55013657809dfd6fcf4",
-      "levelid": "custom_level_6fd9f7806c398e1c0f68b55013657809dfd6fcf4"
+      "key": "5366f",
+      "songName": "時の河",
+      "hash": "82af2f699cb987cb1fd8d577f3e30579c36f902e",
+      "levelid": "custom_level_82af2f699cb987cb1fd8d577f3e30579c36f902e"
     },
     {
-      "key": "533cc",
-      "songName": "ariiol-IOR",
-      "hash": "484acc6e86e9e96e2f04f118f481621ce9f8560f",
-      "levelid": "custom_level_484acc6e86e9e96e2f04f118f481621ce9f8560f"
+      "key": "5366d",
+      "songName": "二言目 (偽物語 OP)",
+      "hash": "9edf079c960e27368ee8c6a46c72a84158c4219a",
+      "levelid": "custom_level_9edf079c960e27368ee8c6a46c72a84158c4219a"
     },
     {
-      "key": "5342c",
-      "songName": "Dang Dang 気になる",
-      "hash": "96a5b211aa929a6734b0989a6fd92a52280efa04",
-      "levelid": "custom_level_96a5b211aa929a6734b0989a6fd92a52280efa04"
+      "key": "5366c",
+      "songName": "aura",
+      "hash": "95f0d66e907200e3d84478ea533fbe0c68ec1bb8",
+      "levelid": "custom_level_95f0d66e907200e3d84478ea533fbe0c68ec1bb8"
     },
     {
-      "key": "53626",
-      "songName": "君の知らない物語 (化物語 ED)",
-      "hash": "1ec6f5e4ed20f86d763aeb26a2e2422bc8053300",
-      "levelid": "custom_level_1ec6f5e4ed20f86d763aeb26a2e2422bc8053300"
+      "key": "5366b",
+      "songName": "Haggstrom",
+      "hash": "6813c7262e616794c2029fb31315018346d09aeb",
+      "levelid": "custom_level_6813c7262e616794c2029fb31315018346d09aeb"
     },
     {
-      "key": "53625",
-      "songName": "Perfectly Out Of Place",
-      "hash": "07f49a49aa37b62d4c925452127dcf782a0efc38",
-      "levelid": "custom_level_07f49a49aa37b62d4c925452127dcf782a0efc38"
+      "key": "5366a",
+      "songName": "Type B",
+      "hash": "95f8f3649a8d9be8385d0cf41e19a99a648f71e5",
+      "levelid": "custom_level_95f8f3649a8d9be8385d0cf41e19a99a648f71e5"
     },
     {
-      "key": "5361c",
-      "songName": "Bilateral",
-      "hash": "e34a29aa7b9e5cbc5996e37cae2933a878f48de0",
-      "levelid": "custom_level_e34a29aa7b9e5cbc5996e37cae2933a878f48de0"
+      "key": "53669",
+      "songName": "ウミユリ海底谭",
+      "hash": "829d81e2f2372cbabdfba83c6f79a3948344a7f3",
+      "levelid": "custom_level_829d81e2f2372cbabdfba83c6f79a3948344a7f3"
     },
     {
-      "key": "5361b",
-      "songName": "Disco Disco Party Party",
-      "hash": "5391904afd7661948f34d9048cfb180085d95abb",
-      "levelid": "custom_level_5391904afd7661948f34d9048cfb180085d95abb"
+      "key": "53667",
+      "songName": "s0rrow - unhappy",
+      "hash": "dea429e551a961155a987ee24373e63a8ee5c3b8",
+      "levelid": "custom_level_dea429e551a961155a987ee24373e63a8ee5c3b8"
     },
     {
-      "key": "5361a",
-      "songName": "Summer",
-      "hash": "7642c0a9a776307136d5affa4844f34e6453498d",
-      "levelid": "custom_level_7642c0a9a776307136d5affa4844f34e6453498d"
+      "key": "53585",
+      "songName": "[UDSFS] DJ Raisei - Ginkyo Sekai 【feat. Kasane Teto】",
+      "hash": "6243482343620112de392eeace8b1217818ce36e",
+      "levelid": "custom_level_6243482343620112de392eeace8b1217818ce36e"
     },
     {
-      "key": "53618",
-      "songName": "Shrimp Alfredo - Caseoh",
-      "hash": "747070f8dfbdd2af90cd47ee7438213473f4942a",
-      "levelid": "custom_level_747070f8dfbdd2af90cd47ee7438213473f4942a"
+      "key": "53661",
+      "songName": "5 note's",
+      "hash": "036ad7f56d2803315cf914a06ac65e037f60735d",
+      "levelid": "custom_level_036ad7f56d2803315cf914a06ac65e037f60735d"
     },
     {
-      "key": "535b9",
-      "songName": "Summertime - cinnamons",
-      "hash": "1a06fbf3d7859baaebab923c03369fc514aa0458",
-      "levelid": "custom_level_1a06fbf3d7859baaebab923c03369fc514aa0458"
+      "key": "5365f",
+      "songName": "Lost Sky - Vision",
+      "hash": "02b613e966d2cfdb0de1d644d58b1be465d3987d",
+      "levelid": "custom_level_02b613e966d2cfdb0de1d644d58b1be465d3987d"
     },
     {
-      "key": "5360f",
-      "songName": "Signaling - AnythingBecomeMoe",
-      "hash": "39690c7d2967eb6ac32ea1b913272389341dcaf3",
-      "levelid": "custom_level_39690c7d2967eb6ac32ea1b913272389341dcaf3"
+      "key": "5365e",
+      "songName": "Nightwatcher",
+      "hash": "d6d817ddc45a8ace4f72097dbaf6476e04a2a10e",
+      "levelid": "custom_level_d6d817ddc45a8ace4f72097dbaf6476e04a2a10e"
     },
     {
-      "key": "53610",
-      "songName": "Jon-YAKITORY - Konton Boogie Chogakusei ver (cut) [2rb]",
-      "hash": "048c54544dd85cf1b49fa411efa6cf20c4b156dd",
-      "levelid": "custom_level_048c54544dd85cf1b49fa411efa6cf20c4b156dd"
+      "key": "5365c",
+      "songName": "Runaway",
+      "hash": "e2baf77ab60781e9fc001e09460c8a8fb754f447",
+      "levelid": "custom_level_e2baf77ab60781e9fc001e09460c8a8fb754f447"
     },
     {
-      "key": "5360e",
-      "songName": "Loud wind",
-      "hash": "a861482f65498576c41656a1f313e298fcdef543",
-      "levelid": "custom_level_a861482f65498576c41656a1f313e298fcdef543"
+      "key": "5365a",
+      "songName": "mamehinata",
+      "hash": "267e317c9910bcbbcd7365a10626d84cd26c218e",
+      "levelid": "custom_level_267e317c9910bcbbcd7365a10626d84cd26c218e"
     },
     {
-      "key": "5360d",
-      "songName": "ALL (H)OURS - GIMME GIMME",
-      "hash": "ec880d49ab05e5b8be1ce7dfa822a0afe2b16fbe",
-      "levelid": "custom_level_ec880d49ab05e5b8be1ce7dfa822a0afe2b16fbe"
+      "key": "53657",
+      "songName": "Denzel Curry - SHAKE 88 (feat. Sam Sneak)",
+      "hash": "d20448ef0fef91b9df292100fd5ffd992d5bef6c",
+      "levelid": "custom_level_d20448ef0fef91b9df292100fd5ffd992d5bef6c"
     },
     {
-      "key": "53608",
-      "songName": "misery. - pupsies",
-      "hash": "aaa1ead9c4f4694cb1348a78ad1e66c53c7335ec",
-      "levelid": "custom_level_aaa1ead9c4f4694cb1348a78ad1e66c53c7335ec"
+      "key": "53656",
+      "songName": "Brown Study",
+      "hash": "c2d7ffef7d786101d381b025c7c0ff0ace038681",
+      "levelid": "custom_level_c2d7ffef7d786101d381b025c7c0ff0ace038681"
     },
     {
-      "key": "53603",
-      "songName": "NewJeans - Supernatural",
-      "hash": "23ab85d322620e35920b0b8701194043e495aa9f",
-      "levelid": "custom_level_23ab85d322620e35920b0b8701194043e495aa9f"
+      "key": "53655",
+      "songName": "green day - SHE'S A SHE'S A SHE SHE SHE'S A SHE'S A",
+      "hash": "bae64681af69fc51f4bc70aeaa8a5c63f20ffe9e",
+      "levelid": "custom_level_bae64681af69fc51f4bc70aeaa8a5c63f20ffe9e"
     },
     {
-      "key": "535fc",
-      "songName": "sorry i cannot fulfill this request",
-      "hash": "cd3ede118d9dcfd4530c1f88b276dfedfbf3054b",
-      "levelid": "custom_level_cd3ede118d9dcfd4530c1f88b276dfedfbf3054b"
+      "key": "53606",
+      "songName": "Story of a Warrior - John Michael Howell",
+      "hash": "ff62463a7e21abdba3f75d84a47037d8a2ea5d0e",
+      "levelid": "custom_level_ff62463a7e21abdba3f75d84a47037d8a2ea5d0e"
     },
     {
-      "key": "535ef",
-      "songName": "Snow Strippers - Kinda Like It That Way",
-      "hash": "4d5394f154d872f406a3bc0529b983f9352bb043",
-      "levelid": "custom_level_4d5394f154d872f406a3bc0529b983f9352bb043"
+      "key": "53650",
+      "songName": "foxcatboyo - no touchy!!1! [SCHIZO MAPPING PROTOCOL MAP PACK]",
+      "hash": "65697efd709f4bad1b0e55510d5a4f127a1cc4d8",
+      "levelid": "custom_level_65697efd709f4bad1b0e55510d5a4f127a1cc4d8"
     },
     {
-      "key": "535ed",
-      "songName": "The Wrecks - Always, Everytime",
-      "hash": "a0b95552cbe40eb0009d184339500fdd1e4f85c8",
-      "levelid": "custom_level_a0b95552cbe40eb0009d184339500fdd1e4f85c8"
+      "key": "5364f",
+      "songName": "I Like Me Better",
+      "hash": "9a779706beda49b61c71e0c12282763a60fe2326",
+      "levelid": "custom_level_9a779706beda49b61c71e0c12282763a60fe2326"
     },
     {
-      "key": "535e0",
-      "songName": "umm idk why!!",
-      "hash": "4bc82d38612dcb30f3eeeec814e89d48b1a8eb63",
-      "levelid": "custom_level_4bc82d38612dcb30f3eeeec814e89d48b1a8eb63"
+      "key": "5364e",
+      "songName": "SeanVR1981 Singing",
+      "hash": "d27396c5b8e1e5ea7cfd654e70e9f6ba7d1c9199",
+      "levelid": "custom_level_d27396c5b8e1e5ea7cfd654e70e9f6ba7d1c9199"
     },
     {
-      "key": "535d7",
-      "songName": "shortest map ever lol",
-      "hash": "96a0072884becebd4918c1bb97dbee747530e776",
-      "levelid": "custom_level_96a0072884becebd4918c1bb97dbee747530e776"
+      "key": "53646",
+      "songName": "Marmalade Dream - BOKSED Edit",
+      "hash": "621d168b2f22196f8222d664cea78e424d2c68e5",
+      "levelid": "custom_level_621d168b2f22196f8222d664cea78e424d2c68e5"
     },
     {
-      "key": "535d6",
-      "songName": "Apollyon (easier ver.)",
-      "hash": "ab77fae64b9045dc224bb280c88ae879aa191e39",
-      "levelid": "custom_level_ab77fae64b9045dc224bb280c88ae879aa191e39"
+      "key": "53645",
+      "songName": "S2 E1 hyperflip tips they don't want you to know",
+      "hash": "7f2bf0c78662b242290eee66816248327cb7eb7b",
+      "levelid": "custom_level_7f2bf0c78662b242290eee66816248327cb7eb7b"
     },
     {
-      "key": "535d3",
-      "songName": "Abstraction [Big Band Version]",
-      "hash": "b412f43c659399a79f28b176eba27eeea6bc9ff4",
-      "levelid": "custom_level_b412f43c659399a79f28b176eba27eeea6bc9ff4"
+      "key": "53644",
+      "songName": "Meow Meow Funk",
+      "hash": "5fd5636aae4a13195de175de2a27850ab58be525",
+      "levelid": "custom_level_5fd5636aae4a13195de175de2a27850ab58be525"
     },
     {
-      "key": "535cf",
-      "songName": "Raven's Pride",
-      "hash": "04fe0b8efbfd63f809208a170b3b4e2081ea903c",
-      "levelid": "custom_level_04fe0b8efbfd63f809208a170b3b4e2081ea903c"
+      "key": "53641",
+      "songName": "[V4] Schwank - Fresh!",
+      "hash": "bdf222c5b100c554eaf27192f05a486fa7d0c58d",
+      "levelid": "custom_level_bdf222c5b100c554eaf27192f05a486fa7d0c58d"
     },
     {
-      "key": "535ce",
-      "songName": "Chokotto LOVE(Rhythm Heaven remix)",
-      "hash": "8d476a27a981fb68938a1e0b321e1371ead4a8bb",
-      "levelid": "custom_level_8d476a27a981fb68938a1e0b321e1371ead4a8bb"
+      "key": "5363e",
+      "songName": "4 note's",
+      "hash": "a2b9ec8142d98ea7fc2ee2ad368e4c51c0332fcf",
+      "levelid": "custom_level_a2b9ec8142d98ea7fc2ee2ad368e4c51c0332fcf"
     },
     {
-      "key": "535cd",
-      "songName": "Gotta Qualify!",
-      "hash": "dbac4bbc755c0219c54496d16999c532b05425cf",
-      "levelid": "custom_level_dbac4bbc755c0219c54496d16999c532b05425cf"
+      "key": "5363d",
+      "songName": "Today's lunch",
+      "hash": "0a653ce33ae6ffcc122ec37f756a41ba37b50413",
+      "levelid": "custom_level_0a653ce33ae6ffcc122ec37f756a41ba37b50413"
     },
     {
-      "key": "535cc",
-      "songName": "Eats For Three - Young Sheldon",
-      "hash": "173a5cbf29e7079964f3a8a07819afd6055ea1e2",
-      "levelid": "custom_level_173a5cbf29e7079964f3a8a07819afd6055ea1e2"
+      "key": "53639",
+      "songName": "メルティー feat. Miku",
+      "hash": "ac08a5e720a291aa5631170ffe6f47c10378246b",
+      "levelid": "custom_level_ac08a5e720a291aa5631170ffe6f47c10378246b"
     },
     {
-      "key": "535c9",
-      "songName": "Kansas - Carry on Wayward Son",
-      "hash": "a813695bbf7a9e8aeed6b13e14512e794810e9c5",
-      "levelid": "custom_level_a813695bbf7a9e8aeed6b13e14512e794810e9c5"
-    },
-    {
-      "key": "535c3",
-      "songName": "Domer - Huligan",
-      "hash": "b7ffe852093c8e0d0469e12d4edaefc6a0ac459f",
-      "levelid": "custom_level_b7ffe852093c8e0d0469e12d4edaefc6a0ac459f"
-    },
-    {
-      "key": "535be",
-      "songName": "The Quick Brown Fox - DAS LOVE BOP",
-      "hash": "483b88724253a0d4529fb2ce41488cb01313ad01",
-      "levelid": "custom_level_483b88724253a0d4529fb2ce41488cb01313ad01"
+      "key": "53638",
+      "songName": "STAY - Lofi Fruits Music",
+      "hash": "d343b26f531a2b124268ae786d806c539a91df80",
+      "levelid": "custom_level_d343b26f531a2b124268ae786d806c539a91df80"
     }
   ],
   "image": ""
