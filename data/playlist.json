@@ -1,274 +1,190 @@
 {
-  "playlistTitle": "2026-08-11T15:18:48.371Z~2026-08-12T15:18:48.371Z",
+  "playlistTitle": "2026-08-12T15:18:48.144Z~2026-08-13T15:18:48.144Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-08-11T15:18:48.371Z and 2026-08-12T15:18:48.371Z",
+  "discripstion": "Maps published between 2026-08-12T15:18:48.144Z and 2026-08-13T15:18:48.144Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "538db",
-      "songName": "I got this - IGB",
-      "hash": "6c9d0a30e1c20b09ba14599f85d7dc964d082323",
-      "levelid": "custom_level_6c9d0a30e1c20b09ba14599f85d7dc964d082323"
+      "key": "53906",
+      "songName": "Blood Rave test",
+      "hash": "b04301ebfd1101c00c16481c8cc891a52c764d5b",
+      "levelid": "custom_level_b04301ebfd1101c00c16481c8cc891a52c764d5b"
     },
     {
-      "key": "538d2",
-      "songName": "tpazolite hong kong tea soda 2014",
-      "hash": "171ecc9943bcd2cae1608ea677c13d5c7a81dda1",
-      "levelid": "custom_level_171ecc9943bcd2cae1608ea677c13d5c7a81dda1"
+      "key": "5391e",
+      "songName": "Various Artists - Overworld (From \"Mario Kart World\")",
+      "hash": "737faa43656252fd05e1ec891d6574ce2b0f3a1f",
+      "levelid": "custom_level_737faa43656252fd05e1ec891d6574ce2b0f3a1f"
     },
     {
-      "key": "537a6",
-      "songName": "恋愛したいっ！",
-      "hash": "c048c2b69347371f8d5fbf10e66f6824ba6a22b1",
-      "levelid": "custom_level_c048c2b69347371f8d5fbf10e66f6824ba6a22b1"
+      "key": "5391d",
+      "songName": "16 note's",
+      "hash": "6aaf889612b6074ca7bd07fc6022414a179606ff",
+      "levelid": "custom_level_6aaf889612b6074ca7bd07fc6022414a179606ff"
     },
     {
-      "key": "538d0",
-      "songName": "[Half Saber] good night baby (feat. Moe Shop)",
-      "hash": "419fb92c538319147ef1b16071a5783c10108a2d",
-      "levelid": "custom_level_419fb92c538319147ef1b16071a5783c10108a2d"
+      "key": "5391b",
+      "songName": "Sweet Boy - Malcolm Todd ",
+      "hash": "b92ab4309965d9fc28b244c17ce7d0b05e70e8cd",
+      "levelid": "custom_level_b92ab4309965d9fc28b244c17ce7d0b05e70e8cd"
     },
     {
-      "key": "538ce",
-      "songName": "The Trammps - Disco Inferno (V4)",
-      "hash": "2f662d128324f7fd4ab5c7c351a6af524882a14a",
-      "levelid": "custom_level_2f662d128324f7fd4ab5c7c351a6af524882a14a"
+      "key": "5391a",
+      "songName": "Sauce It Up",
+      "hash": "96e71d407b5ba3dabad436a38e2a64dd13e01c3f",
+      "levelid": "custom_level_96e71d407b5ba3dabad436a38e2a64dd13e01c3f"
     },
     {
-      "key": "538cc",
-      "songName": "chocolate insomnia (〈物語〉シリーズ セカンドシーズン 猫物語（白） OP)",
-      "hash": "28af77eba6e232e913fb2760ba60b960e2823f81",
-      "levelid": "custom_level_28af77eba6e232e913fb2760ba60b960e2823f81"
+      "key": "538d4",
+      "songName": "恋の呪文はスキトキメキトキス -Cute Rock Mix-(さすがの猿飛) - Re-wire Retro",
+      "hash": "51fd7fc506dff19391054454cab42d7b7accf22b",
+      "levelid": "custom_level_51fd7fc506dff19391054454cab42d7b7accf22b"
     },
     {
-      "key": "538c0",
-      "songName": "SWITCH ON!",
-      "hash": "27d232f382adce394fabb0dc723846ccac3aa394",
-      "levelid": "custom_level_27d232f382adce394fabb0dc723846ccac3aa394"
+      "key": "53918",
+      "songName": "K.O",
+      "hash": "3825ff532f5ad49c8a50610673a972dd8d4353cf",
+      "levelid": "custom_level_3825ff532f5ad49c8a50610673a972dd8d4353cf"
     },
     {
-      "key": "538cb",
-      "songName": "UNWELCOME SCHOOL!!!",
-      "hash": "390ac4e8fabcdea7590b0a5bf42dcaa8c066a902",
-      "levelid": "custom_level_390ac4e8fabcdea7590b0a5bf42dcaa8c066a902"
+      "key": "53253",
+      "songName": "HARRY - It's Me (HARRY Hi-TECH FULL-ON BOOTLEG)",
+      "hash": "1fa13fa4825c752bb60c867587ebd43190553372",
+      "levelid": "custom_level_1fa13fa4825c752bb60c867587ebd43190553372"
     },
     {
-      "key": "538c9",
-      "songName": "Wublin Island",
-      "hash": "33065934c6a8d8838fac198414ac9bf7b8871c18",
-      "levelid": "custom_level_33065934c6a8d8838fac198414ac9bf7b8871c18"
+      "key": "4efaf",
+      "songName": "Olivia Newton John - Magic (1980)",
+      "hash": "2b910a0a2d92531c7ff1ede9ba4d9ecae7475f7c",
+      "levelid": "custom_level_2b910a0a2d92531c7ff1ede9ba4d9ecae7475f7c"
     },
     {
-      "key": "538c8",
-      "songName": "KURSE OF KHARTOUM",
-      "hash": "c5e294b54dc36ac265e678177d9f5b4afad6665f",
-      "levelid": "custom_level_c5e294b54dc36ac265e678177d9f5b4afad6665f"
+      "key": "53917",
+      "songName": "Crush, Anderson. Paak - Flashing Lights",
+      "hash": "a6e8e7e92b8a923e3448a64dfbd1a90680fded91",
+      "levelid": "custom_level_a6e8e7e92b8a923e3448a64dfbd1a90680fded91"
     },
     {
-      "key": "538c7",
-      "songName": "Xyris - Gléodreám",
-      "hash": "a0fc8b34b03bd2796b3dbdb59e04687f78ddafd4",
-      "levelid": "custom_level_a0fc8b34b03bd2796b3dbdb59e04687f78ddafd4"
+      "key": "537c2",
+      "songName": "Best FriendS",
+      "hash": "286e683988c1a4cabc0ccbc1d349c50e94a3a7f9",
+      "levelid": "custom_level_286e683988c1a4cabc0ccbc1d349c50e94a3a7f9"
     },
     {
-      "key": "538c4",
-      "songName": "SU(C.) V.I.P FUNK w/ PVB!CHXYR",
-      "hash": "f0f16f84b63f88ffa42fa009e894f96eb297568b",
-      "levelid": "custom_level_f0f16f84b63f88ffa42fa009e894f96eb297568b"
+      "key": "53914",
+      "songName": "happy bite (〈物語〉シリーズ セカンドシーズン 傾物語 OP)",
+      "hash": "82478c6e9610861c05081967a280ef2bae306451",
+      "levelid": "custom_level_82478c6e9610861c05081967a280ef2bae306451"
     },
     {
-      "key": "538c2",
-      "songName": "Baracuda - Ass Up (DJ Ten Partytime Remix)",
-      "hash": "c9c197a6de0318d633c41f878d81ac83b07a849e",
-      "levelid": "custom_level_c9c197a6de0318d633c41f878d81ac83b07a849e"
+      "key": "537d3",
+      "songName": "Gut Genug - KitschKrieg, Blumengarten, and Shirin David",
+      "hash": "d5e2899e26ff77d5a7f10d971802310539fc886a",
+      "levelid": "custom_level_d5e2899e26ff77d5a7f10d971802310539fc886a"
     },
     {
-      "key": "538c3",
-      "songName": "Camellia - Zhuzhzhalka76",
-      "hash": "897f640353ad2f44d29e6fc27868c5af284bf449",
-      "levelid": "custom_level_897f640353ad2f44d29e6fc27868c5af284bf449"
+      "key": "5390c",
+      "songName": "Cardopusher Please Come Home Your Dinner Is Getting Cold - Reslard",
+      "hash": "3c8f48a430c933af6ea604ca333ded43266a3ec5",
+      "levelid": "custom_level_3c8f48a430c933af6ea604ca333ded43266a3ec5"
     },
     {
-      "key": "538c1",
-      "songName": "Labyrinth",
-      "hash": "e7bd995487d4aef9e743d5c16b70fd65c2048479",
-      "levelid": "custom_level_e7bd995487d4aef9e743d5c16b70fd65c2048479"
+      "key": "5390a",
+      "songName": "asteria & kets4eki - BFM (w/ Britney Manson)",
+      "hash": "0903c7d5524caf1d642f179d5ee47b481aecdaa1",
+      "levelid": "custom_level_0903c7d5524caf1d642f179d5ee47b481aecdaa1"
     },
     {
-      "key": "538bf",
-      "songName": "r u s s e l b u c k - IN DA DOGHOUSE",
-      "hash": "ab9fc9fc307ed932e7741259b8da71fb45b89185",
-      "levelid": "custom_level_ab9fc9fc307ed932e7741259b8da71fb45b89185"
+      "key": "53909",
+      "songName": "MusicbyAden - Monster",
+      "hash": "047f2383bbee31e78e4fc0e0938ecaf5bce4de53",
+      "levelid": "custom_level_047f2383bbee31e78e4fc0e0938ecaf5bce4de53"
     },
     {
-      "key": "538bd",
-      "songName": "KISKIL-LILLA - Laur",
-      "hash": "f0ad06a5e31a1c18bc8aa556868819fe149790c5",
-      "levelid": "custom_level_f0ad06a5e31a1c18bc8aa556868819fe149790c5"
+      "key": "53908",
+      "songName": "NEW DAY",
+      "hash": "2ced48e5e5cb0615a37aba991ea99d527ac71ce1",
+      "levelid": "custom_level_2ced48e5e5cb0615a37aba991ea99d527ac71ce1"
     },
     {
-      "key": "538bc",
-      "songName": "jeonghyeon & SUNGYOO - All I Need",
-      "hash": "997cb1a93cd65c9201b9bed2e12c8618b14b1eda",
-      "levelid": "custom_level_997cb1a93cd65c9201b9bed2e12c8618b14b1eda"
+      "key": "53907",
+      "songName": "EpikBeatz6000 - harmonic session 4",
+      "hash": "3525e8d0e92c1463ba1f72f659b85fdd6326e5e4",
+      "levelid": "custom_level_3525e8d0e92c1463ba1f72f659b85fdd6326e5e4"
     },
     {
-      "key": "538bb",
-      "songName": "La Lune - Madeon [the sky remix] 2rb",
-      "hash": "80214e995a436c4d8fdab990f848955b402bd5cb",
-      "levelid": "custom_level_80214e995a436c4d8fdab990f848955b402bd5cb"
+      "key": "53905",
+      "songName": "Paperweight",
+      "hash": "e172872d7418523333871aa18b3e89fcb68b06b7",
+      "levelid": "custom_level_e172872d7418523333871aa18b3e89fcb68b06b7"
     },
     {
-      "key": "538ba",
-      "songName": "Like This (CHIKARA Remix)",
-      "hash": "d9c01b173cb683c33a8c1bd4bbdd960cb92f0b4f",
-      "levelid": "custom_level_d9c01b173cb683c33a8c1bd4bbdd960cb92f0b4f"
+      "key": "538ff",
+      "songName": "DJ Myosuke vs Laur - The Disaster Sounds",
+      "hash": "e2735b706fd42cd8ba4d3b07c95b2096a91557ec",
+      "levelid": "custom_level_e2735b706fd42cd8ba4d3b07c95b2096a91557ec"
     },
     {
-      "key": "538b9",
-      "songName": "KARUT - Our Oath (takehirotei remix)",
-      "hash": "f3bb19de561e90495247af5358f6cf2e150d97dd",
-      "levelid": "custom_level_f3bb19de561e90495247af5358f6cf2e150d97dd"
+      "key": "538f7",
+      "songName": "he was boiling up sht in a kettle",
+      "hash": "7952b429eb952824007457058125cf6d532a9bdf",
+      "levelid": "custom_level_7952b429eb952824007457058125cf6d532a9bdf"
     },
     {
-      "key": "538b8",
-      "songName": "Worlds A Fuck",
-      "hash": "f74c5ca27069817584a42a46e0b7902b1d3968ae",
-      "levelid": "custom_level_f74c5ca27069817584a42a46e0b7902b1d3968ae"
+      "key": "538f4",
+      "songName": "Bros Such A Digger Funk",
+      "hash": "725411422d5563b2f6d74f8bcda83cd02d833a9c",
+      "levelid": "custom_level_725411422d5563b2f6d74f8bcda83cd02d833a9c"
     },
     {
-      "key": "538b4",
-      "songName": "crazylove",
-      "hash": "3d5aaee99756babe44afb1f4d7e53515912d3aba",
-      "levelid": "custom_level_3d5aaee99756babe44afb1f4d7e53515912d3aba"
+      "key": "538f2",
+      "songName": "Bronze Whale - Good Enough",
+      "hash": "499bfb433929702d248f04fec3e2f412f863518f",
+      "levelid": "custom_level_499bfb433929702d248f04fec3e2f412f863518f"
     },
     {
-      "key": "538ae",
-      "songName": "Round Wave Crusher - Supercritical",
-      "hash": "85f8933015c4feadd2c7b780cae78b57410546dc",
-      "levelid": "custom_level_85f8933015c4feadd2c7b780cae78b57410546dc"
+      "key": "538ee",
+      "songName": "[2000s Rock & Metal Pack] Ain't No Rest For The Wicked - Cage The Elephant",
+      "hash": "4536022def452aa543fc4cd5a51b105d621437e4",
+      "levelid": "custom_level_4536022def452aa543fc4cd5a51b105d621437e4"
     },
     {
-      "key": "538af",
-      "songName": "strawberry rush",
-      "hash": "56c8711aa8585db6b5010aee3af92bed2bf7f016",
-      "levelid": "custom_level_56c8711aa8585db6b5010aee3af92bed2bf7f016"
+      "key": "538f1",
+      "songName": "underscores - spoiled little brat (sewnfkt remix)",
+      "hash": "33601b605d30a0479681530d3fad6b78666ede15",
+      "levelid": "custom_level_33601b605d30a0479681530d3fad6b78666ede15"
     },
     {
-      "key": "538aa",
-      "songName": "Bull of Heaven - 028 - Even to the Edge of Doom",
-      "hash": "1839fefa8bd3855436aff45f237b3e45084a961b",
-      "levelid": "custom_level_1839fefa8bd3855436aff45f237b3e45084a961b"
+      "key": "538f0",
+      "songName": "I flooded the toilet at Chipotle | EDP445",
+      "hash": "ad93423a533854016a2fc7608e3c6d2432ad4076",
+      "levelid": "custom_level_ad93423a533854016a2fc7608e3c6d2432ad4076"
     },
     {
-      "key": "538a7",
-      "songName": "aespa ft. Ty Dollar $ign - Switchblade",
-      "hash": "742d75b623e8fcfba888981e4fc6217513af69fe",
-      "levelid": "custom_level_742d75b623e8fcfba888981e4fc6217513af69fe"
+      "key": "538ed",
+      "songName": "M2U - Magnolia",
+      "hash": "c8ecf8ba73ce965e5e45ae54197dfd40848355c1",
+      "levelid": "custom_level_c8ecf8ba73ce965e5e45ae54197dfd40848355c1"
     },
     {
-      "key": "538a5",
-      "songName": "Pluko & ISOxo - S1TH",
-      "hash": "f85e2fa664b68176d0c0e590145690ed73f420b5",
-      "levelid": "custom_level_f85e2fa664b68176d0c0e590145690ed73f420b5"
+      "key": "538e6",
+      "songName": "Pree Me at the party",
+      "hash": "93bc553df17956ef2523aaecda9aa0b5da3bc021",
+      "levelid": "custom_level_93bc553df17956ef2523aaecda9aa0b5da3bc021"
     },
     {
-      "key": "538a2",
-      "songName": "The Rare Occasions - Backwards",
-      "hash": "493acbd68c0265e76087a9383b2b6f05cc588cae",
-      "levelid": "custom_level_493acbd68c0265e76087a9383b2b6f05cc588cae"
+      "key": "538e3",
+      "songName": "15 note's",
+      "hash": "bd72c8d0787cf45a398d38f41e72a6bff9e83939",
+      "levelid": "custom_level_bd72c8d0787cf45a398d38f41e72a6bff9e83939"
     },
     {
-      "key": "538a0",
-      "songName": "Haywyre - Gone For Good",
-      "hash": "0c35d6918ba1a903d6875bcbdbbb0d8a35fab335",
-      "levelid": "custom_level_0c35d6918ba1a903d6875bcbdbbb0d8a35fab335"
-    },
-    {
-      "key": "5389e",
-      "songName": "Renard - ALL AMERICAN DUBSTEP",
-      "hash": "6f08177bd7532b74cc4f99810d986aaa3a3dfe7b",
-      "levelid": "custom_level_6f08177bd7532b74cc4f99810d986aaa3a3dfe7b"
-    },
-    {
-      "key": "5389c",
-      "songName": "MEME",
-      "hash": "9b481b81c8c39bba34c365bae5d09afe2dcece51",
-      "levelid": "custom_level_9b481b81c8c39bba34c365bae5d09afe2dcece51"
-    },
-    {
-      "key": "5389b",
-      "songName": "Like That",
-      "hash": "23400aaa86aa64a50d4e7816d52e4168c3e609a7",
-      "levelid": "custom_level_23400aaa86aa64a50d4e7816d52e4168c3e609a7"
-    },
-    {
-      "key": "5389a",
-      "songName": "distorted memories",
-      "hash": "8560ed8352ecd24167a34bdcc1f46ded35b38a96",
-      "levelid": "custom_level_8560ed8352ecd24167a34bdcc1f46ded35b38a96"
-    },
-    {
-      "key": "53899",
-      "songName": "Merp Merp",
-      "hash": "d51280803fb192a00a4b741206e24d39cffd24f3",
-      "levelid": "custom_level_d51280803fb192a00a4b741206e24d39cffd24f3"
-    },
-    {
-      "key": "53898",
-      "songName": "kurtains - to do !",
-      "hash": "ee5ea3484aa9ede6b0c0e8c6cf70eae82c76d509",
-      "levelid": "custom_level_ee5ea3484aa9ede6b0c0e8c6cf70eae82c76d509"
-    },
-    {
-      "key": "53894",
-      "songName": "drill2026",
-      "hash": "feaab7dda1becc4328a1a0d7b94731f77ea41130",
-      "levelid": "custom_level_feaab7dda1becc4328a1a0d7b94731f77ea41130"
-    },
-    {
-      "key": "5388b",
-      "songName": "14 note's ",
-      "hash": "8f3ed4fc933a41b0539ccfd7286bcceb33ce9fa0",
-      "levelid": "custom_level_8f3ed4fc933a41b0539ccfd7286bcceb33ce9fa0"
-    },
-    {
-      "key": "53889",
-      "songName": "LH4L - IN 2 ",
-      "hash": "55b4042f84bd62c43090b8cf0659e47d297749ff",
-      "levelid": "custom_level_55b4042f84bd62c43090b8cf0659e47d297749ff"
-    },
-    {
-      "key": "53888",
-      "songName": "old people completely M.T.E out",
-      "hash": "a38edd7b95953fea79f34a63058344e3a1db7f6f",
-      "levelid": "custom_level_a38edd7b95953fea79f34a63058344e3a1db7f6f"
-    },
-    {
-      "key": "53887",
-      "songName": "Imperial Circus Dead Decadence - Hyakkiyako -Pandemonic Night Parade Old-",
-      "hash": "6dbf24cbfe984b2c5717feaebc1ec03f5dec4444",
-      "levelid": "custom_level_6dbf24cbfe984b2c5717feaebc1ec03f5dec4444"
-    },
-    {
-      "key": "53884",
-      "songName": "the greatest song ever  abou a cat",
-      "hash": "cbc77ab6f7ea35f48036ee5335d8910b77aa7432",
-      "levelid": "custom_level_cbc77ab6f7ea35f48036ee5335d8910b77aa7432"
-    },
-    {
-      "key": "53881",
-      "songName": "SPHERe V2",
-      "hash": "4e8730a1b1e654900e759f94951fc99f96a6cd20",
-      "levelid": "custom_level_4e8730a1b1e654900e759f94951fc99f96a6cd20"
-    },
-    {
-      "key": "53882",
-      "songName": "Mind Disorder",
-      "hash": "426183916bfa5fd5803b9baed1d986adf3266521",
-      "levelid": "custom_level_426183916bfa5fd5803b9baed1d986adf3266521"
+      "key": "538de",
+      "songName": "Dal Av - The Art Of Cruelty",
+      "hash": "27f9840870c3dd4535c6fee024414d012715884a",
+      "levelid": "custom_level_27f9840870c3dd4535c6fee024414d012715884a"
     }
   ],
   "image": ""
