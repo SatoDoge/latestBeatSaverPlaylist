@@ -1,226 +1,286 @@
 {
-  "playlistTitle": "2026-08-17T15:18:50.457Z~2026-08-18T15:18:50.457Z",
+  "playlistTitle": "2026-08-18T15:18:48.134Z~2026-08-19T15:18:48.134Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-08-17T15:18:50.457Z and 2026-08-18T15:18:50.457Z",
+  "discripstion": "Maps published between 2026-08-18T15:18:48.134Z and 2026-08-19T15:18:48.134Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "5359f",
-      "songName": "Nanatsukaze - メシア",
-      "hash": "09efe45c9c1c48a99ca81aacdab7583811422e9b",
-      "levelid": "custom_level_09efe45c9c1c48a99ca81aacdab7583811422e9b"
+      "key": "53b71",
+      "songName": "Walking Home (DELTARUNE Chapter 5 Soundtrack) - Toby Fox",
+      "hash": "b5657ab06d359ca43bf43c9a4a51e558c699d2ae",
+      "levelid": "custom_level_b5657ab06d359ca43bf43c9a4a51e558c699d2ae"
     },
     {
-      "key": "538c6",
-      "songName": "たこやきマントマン主題歌",
-      "hash": "bea6d6b0ce2d4e7a2eca44fa4fce9872fb3d130b",
-      "levelid": "custom_level_bea6d6b0ce2d4e7a2eca44fa4fce9872fb3d130b"
+      "key": "53b70",
+      "songName": "sobani itainoni",
+      "hash": "8dd11936e409c04bbee99ff9a668b7cdbcfde495",
+      "levelid": "custom_level_8dd11936e409c04bbee99ff9a668b7cdbcfde495"
     },
     {
-      "key": "53b1b",
-      "songName": "その声を覚えてる (〈物語〉シリーズ セカンドシーズン ED2)",
-      "hash": "9d9d2e4d57bb831ae17276ba5cf44f74db78bb3b",
-      "levelid": "custom_level_9d9d2e4d57bb831ae17276ba5cf44f74db78bb3b"
+      "key": "53b6f",
+      "songName": "AXIA～ダイスキでダイキライ～ ワルキューレ [Macross Delta]",
+      "hash": "2f7d30bff5a1e6dbd1140ac71782a81cbc595c93",
+      "levelid": "custom_level_2f7d30bff5a1e6dbd1140ac71782a81cbc595c93"
     },
     {
-      "key": "53b17",
-      "songName": "FNF Dead Air - Fancy Island",
-      "hash": "8d6692c2aea26966ce7eee095af585f75a19f43a",
-      "levelid": "custom_level_8d6692c2aea26966ce7eee095af585f75a19f43a"
+      "key": "539b2",
+      "songName": "虹になりたい",
+      "hash": "f898e163b6a2292c71634238b20e5988d6295f4d",
+      "levelid": "custom_level_f898e163b6a2292c71634238b20e5988d6295f4d"
     },
     {
-      "key": "53b14",
-      "songName": "Dream Away feat. Yukacco(Hylen Remix) - DJ Noriken & DJ Genki",
-      "hash": "e701484b9d33157e6ab65ce07c4e5c2be61e867e",
-      "levelid": "custom_level_e701484b9d33157e6ab65ce07c4e5c2be61e867e"
+      "key": "53b6c",
+      "songName": "sittten imp",
+      "hash": "65dc9cbc29f9236e02dfa0f31c0efe2840eb1629",
+      "levelid": "custom_level_65dc9cbc29f9236e02dfa0f31c0efe2840eb1629"
     },
     {
-      "key": "53b13",
-      "songName": "grannys house",
-      "hash": "46f59c1fb68cca58bf2682eac8ddd2a6989b83fa",
-      "levelid": "custom_level_46f59c1fb68cca58bf2682eac8ddd2a6989b83fa"
+      "key": "53b6b",
+      "songName": "snowdrop (〈物語〉シリーズ セカンドシーズン ED3)",
+      "hash": "fabaded7429698f1796e53c8ac0599cd0bad8138",
+      "levelid": "custom_level_fabaded7429698f1796e53c8ac0599cd0bad8138"
     },
     {
-      "key": "53b12",
-      "songName": "T+ Vs Shark",
-      "hash": "a64b100bb65ddc7a2355ba00becb6d521251e1c6",
-      "levelid": "custom_level_a64b100bb65ddc7a2355ba00becb6d521251e1c6"
+      "key": "53b6a",
+      "songName": "BUTTERFLIES",
+      "hash": "fbc1b2c1e6a0e7fd1a27c8fe723c6ade306aab01",
+      "levelid": "custom_level_fbc1b2c1e6a0e7fd1a27c8fe723c6ade306aab01"
     },
     {
-      "key": "53b11",
-      "songName": "escape",
-      "hash": "4015b8c3dfd24e6c16fb0a878a6f1b6f22f79af7",
-      "levelid": "custom_level_4015b8c3dfd24e6c16fb0a878a6f1b6f22f79af7"
+      "key": "53b67",
+      "songName": "aespa lemonade",
+      "hash": "5a48e6c04d547d04797b17cf2805c5be8a4303fd",
+      "levelid": "custom_level_5a48e6c04d547d04797b17cf2805c5be8a4303fd"
     },
     {
-      "key": "53b0e",
-      "songName": "uk bitches w/ kurtains - ovine hall",
-      "hash": "62e163e6f8aac822bf53e310e6dd56d389bf9ffa",
-      "levelid": "custom_level_62e163e6f8aac822bf53e310e6dd56d389bf9ffa"
+      "key": "53b66",
+      "songName": "TheSaiyanVictoria: Every Ruin Needs A Replay",
+      "hash": "048b8f733f2ccbfdee84febaf0b9099459820f94",
+      "levelid": "custom_level_048b8f733f2ccbfdee84febaf0b9099459820f94"
     },
     {
-      "key": "53b0d",
-      "songName": "www",
-      "hash": "03ea92f335af3355afda521f069445b8e0a808d9",
-      "levelid": "custom_level_03ea92f335af3355afda521f069445b8e0a808d9"
+      "key": "53b64",
+      "songName": "shy the eternal - mr lonely",
+      "hash": "d270a62644b0190814b3b2a5944853ae012144ca",
+      "levelid": "custom_level_d270a62644b0190814b3b2a5944853ae012144ca"
     },
     {
-      "key": "53b0c",
-      "songName": "SR20DET",
-      "hash": "89b69725eeaa1607bb2ccc2b82430eafc8067597",
-      "levelid": "custom_level_89b69725eeaa1607bb2ccc2b82430eafc8067597"
+      "key": "53b61",
+      "songName": "best friends",
+      "hash": "457266093a7aa400dd4a929bde603aaf22f6baf8",
+      "levelid": "custom_level_457266093a7aa400dd4a929bde603aaf22f6baf8"
     },
     {
-      "key": "53b0b",
-      "songName": "Peace & Violence",
-      "hash": "de93771759850638b90518a481c2b0c5240d22e6",
-      "levelid": "custom_level_de93771759850638b90518a481c2b0c5240d22e6"
+      "key": "53b60",
+      "songName": "Atomic Land",
+      "hash": "e3914c0933e44c4fb54f6ec48c11a399b29400ed",
+      "levelid": "custom_level_e3914c0933e44c4fb54f6ec48c11a399b29400ed"
     },
     {
-      "key": "53b0a",
-      "songName": "ICE",
-      "hash": "e2a247f44c921c44a372810b9bc6d3673232d90d",
-      "levelid": "custom_level_e2a247f44c921c44a372810b9bc6d3673232d90d"
+      "key": "53b5f",
+      "songName": "Camellia - Venomous Firefly",
+      "hash": "89358b3c5841cca2610529a0f18c388b616e0c0d",
+      "levelid": "custom_level_89358b3c5841cca2610529a0f18c388b616e0c0d"
     },
     {
-      "key": "53b08",
-      "songName": "WHAT IS BEAT SABER MULTIPLAYER",
-      "hash": "75814b5a70b9c64245ef6f89043586eac2cb43e3",
-      "levelid": "custom_level_75814b5a70b9c64245ef6f89043586eac2cb43e3"
+      "key": "53b5e",
+      "songName": "Great Little Challenge",
+      "hash": "a35a7105cf336959f290de6c95a7c320a792c1f9",
+      "levelid": "custom_level_a35a7105cf336959f290de6c95a7c320a792c1f9"
     },
     {
-      "key": "53b06",
-      "songName": "Brand new chanel$",
-      "hash": "284f9845d5995c95c443bd60b9393b89034d0f22",
-      "levelid": "custom_level_284f9845d5995c95c443bd60b9393b89034d0f22"
+      "key": "53b5d",
+      "songName": "Romance of the Black Grief - Les Rallizes Dénudés",
+      "hash": "d97b0a0c28becb687c82a6db7584b400eff22ad4",
+      "levelid": "custom_level_d97b0a0c28becb687c82a6db7584b400eff22ad4"
     },
     {
-      "key": "53b05",
-      "songName": "Kingmaker",
-      "hash": "33c86c3779769d74409ed59f6a393ce3691e59e0",
-      "levelid": "custom_level_33c86c3779769d74409ed59f6a393ce3691e59e0"
+      "key": "53b5b",
+      "songName": "Enter The Mirror (cut) - YaneUra Oct.'80 - Les Rallizes Dénudés",
+      "hash": "8798ce7562a8f4566b058e8ac77304409eb7a1d9",
+      "levelid": "custom_level_8798ce7562a8f4566b058e8ac77304409eb7a1d9"
     },
     {
-      "key": "53b04",
-      "songName": "Eastinandddopey! PLAY THIS",
-      "hash": "61477dc149b9f47c2d26e07c92d1a924cb7a4192",
-      "levelid": "custom_level_61477dc149b9f47c2d26e07c92d1a924cb7a4192"
+      "key": "53b5a",
+      "songName": "Hot Saturn",
+      "hash": "68f2ad295c94fe70299734eafff2d4aa2f460fb9",
+      "levelid": "custom_level_68f2ad295c94fe70299734eafff2d4aa2f460fb9"
     },
     {
-      "key": "53b01",
-      "songName": "Les 3 Fromages - Cheese Powers",
-      "hash": "6cddee93783514abd53fd6ddee6e007403fb1e7e",
-      "levelid": "custom_level_6cddee93783514abd53fd6ddee6e007403fb1e7e"
+      "key": "53b59",
+      "songName": "The Last One - Les Rallizes Dénudés",
+      "hash": "ab9f0e1e413a8dd4a2d7e496f03a274628e00edf",
+      "levelid": "custom_level_ab9f0e1e413a8dd4a2d7e496f03a274628e00edf"
     },
     {
-      "key": "53b03",
-      "songName": "It's Conditional",
-      "hash": "c813ac8cf7a2f307ce8b96faea256d70717f2d1d",
-      "levelid": "custom_level_c813ac8cf7a2f307ce8b96faea256d70717f2d1d"
+      "key": "53b58",
+      "songName": "Butterflies (Zeli)",
+      "hash": "3e02592e1ef143e6263485d4d1b6d9ebcd546ba2",
+      "levelid": "custom_level_3e02592e1ef143e6263485d4d1b6d9ebcd546ba2"
     },
     {
-      "key": "53b02",
-      "songName": "It's Conditional",
-      "hash": "591a5e2905bef19bedc4b58910810355c8aa3981",
-      "levelid": "custom_level_591a5e2905bef19bedc4b58910810355c8aa3981"
+      "key": "53b50",
+      "songName": "KAF x Moe Shop - My Life",
+      "hash": "a8407cdacdfbd55cb974fb926733c5c1ba4c9563",
+      "levelid": "custom_level_a8407cdacdfbd55cb974fb926733c5c1ba4c9563"
     },
     {
-      "key": "53b00",
-      "songName": "Haunted",
-      "hash": "bdb3f04b5e3dea55773d44f8b5819b9a93ec569e",
-      "levelid": "custom_level_bdb3f04b5e3dea55773d44f8b5819b9a93ec569e"
+      "key": "53b4e",
+      "songName": "bazooka prod slywly [2rb]",
+      "hash": "0c2b3b9b9369145f670cdefd5c15d9cceccb76fe",
+      "levelid": "custom_level_0c2b3b9b9369145f670cdefd5c15d9cceccb76fe"
     },
     {
-      "key": "53aff",
-      "songName": "WONHO - LOSE",
-      "hash": "2e78ba6ada607e02984e147557bc2fd3b6aaf833",
-      "levelid": "custom_level_2e78ba6ada607e02984e147557bc2fd3b6aaf833"
+      "key": "53b4d",
+      "songName": "Jumper - Mexican Version [2rb]",
+      "hash": "b1b78f9c21a06ef107663dd994894a53e93077be",
+      "levelid": "custom_level_b1b78f9c21a06ef107663dd994894a53e93077be"
     },
     {
-      "key": "53afc",
-      "songName": "Make Your Wish",
-      "hash": "209d8614cdf35ee020fd61b866557323f50103da",
-      "levelid": "custom_level_209d8614cdf35ee020fd61b866557323f50103da"
+      "key": "53b4c",
+      "songName": "CrabRave 2rb upload",
+      "hash": "672933d3cf1ecfcf588875dc57e42f00ccf54627",
+      "levelid": "custom_level_672933d3cf1ecfcf588875dc57e42f00ccf54627"
     },
     {
-      "key": "53afb",
-      "songName": "Explorers of the Internet - yoya",
-      "hash": "89219fdb4efc7b4634200dc0b95c8ca9d0204fe9",
-      "levelid": "custom_level_89219fdb4efc7b4634200dc0b95c8ca9d0204fe9"
+      "key": "53b4b",
+      "songName": "Imil - Evacuate the Moshpit (2rb)",
+      "hash": "f11e1acdae4396cbf3aa65d89f4438bac6d3be0d",
+      "levelid": "custom_level_f11e1acdae4396cbf3aa65d89f4438bac6d3be0d"
     },
     {
-      "key": "53afa",
-      "songName": "Love Potions",
-      "hash": "f866b28c60bf1b6fad81b0c16709c5fde8c71b29",
-      "levelid": "custom_level_f866b28c60bf1b6fad81b0c16709c5fde8c71b29"
+      "key": "53b4a",
+      "songName": "Overworld Theme",
+      "hash": "0d5327bae322fff5d563278366ea97ee80c4afb2",
+      "levelid": "custom_level_0d5327bae322fff5d563278366ea97ee80c4afb2"
     },
     {
-      "key": "53af9",
-      "songName": "Ben Type Beat 😂😂😂",
-      "hash": "0c6f78709763f79c53be01b46fe909e2a5944264",
-      "levelid": "custom_level_0c6f78709763f79c53be01b46fe909e2a5944264"
+      "key": "53b49",
+      "songName": "26 note's",
+      "hash": "a1fb07a5686d450714212cc4bd1609c5e0ac290e",
+      "levelid": "custom_level_a1fb07a5686d450714212cc4bd1609c5e0ac290e"
     },
     {
-      "key": "53aed",
-      "songName": "OOBE",
-      "hash": "2f47d904131ff0cafaa3f5e45af3098dfdf061fd",
-      "levelid": "custom_level_2f47d904131ff0cafaa3f5e45af3098dfdf061fd"
+      "key": "53b48",
+      "songName": "25 note's",
+      "hash": "251c070e4934a09b654b94f6067a635326637350",
+      "levelid": "custom_level_251c070e4934a09b654b94f6067a635326637350"
     },
     {
-      "key": "53aec",
-      "songName": "toxic gossip train ft teto",
-      "hash": "84968bbceb1b5c09a2c012a60fe0326e95eb0581",
-      "levelid": "custom_level_84968bbceb1b5c09a2c012a60fe0326e95eb0581"
+      "key": "53b47",
+      "songName": "24 note's",
+      "hash": "52774b773f7db053f684bc161295c0de467af4c6",
+      "levelid": "custom_level_52774b773f7db053f684bc161295c0de467af4c6"
     },
     {
-      "key": "53aeb",
-      "songName": "Delightful Introduction",
-      "hash": "e35b62d26c38ead26fbc280468a563e061944498",
-      "levelid": "custom_level_e35b62d26c38ead26fbc280468a563e061944498"
+      "key": "53b45",
+      "songName": "23 note's",
+      "hash": "033ca2abfd557ac6951df191ac4e54559b70f761",
+      "levelid": "custom_level_033ca2abfd557ac6951df191ac4e54559b70f761"
     },
     {
-      "key": "53ae7",
-      "songName": " Red velvet",
-      "hash": "52fd53ef111537e0d3245f1a253dbaa4928c4010",
-      "levelid": "custom_level_52fd53ef111537e0d3245f1a253dbaa4928c4010"
+      "key": "53b46",
+      "songName": "Marry you",
+      "hash": "fdca67a700171218f5c6c531e43f1ee43c28e3fe",
+      "levelid": "custom_level_fdca67a700171218f5c6c531e43f1ee43c28e3fe"
     },
     {
-      "key": "53ae4",
-      "songName": "All I Did Was Dream of You",
-      "hash": "af667e9a997f4fc226476216c5c67056020885f7",
-      "levelid": "custom_level_af667e9a997f4fc226476216c5c67056020885f7"
+      "key": "53b44",
+      "songName": "Polyester Edit - VHM4D",
+      "hash": "0dc268051450940bb9e0b553f795f9f299d2bffa",
+      "levelid": "custom_level_0dc268051450940bb9e0b553f795f9f299d2bffa"
     },
     {
-      "key": "53adc",
-      "songName": "Mr. Kitty - I Want To Hurt Myself",
-      "hash": "92e95877c81fef260896cb9b4f302238c3613c67",
-      "levelid": "custom_level_92e95877c81fef260896cb9b4f302238c3613c67"
+      "key": "53b43",
+      "songName": "Ashrount vs. D-D-Dice - Lament Rain (Forlorn Long Ver.)",
+      "hash": "96117de4ad7249b8ca17b0eb848ee03269fd1045",
+      "levelid": "custom_level_96117de4ad7249b8ca17b0eb848ee03269fd1045"
     },
     {
-      "key": "53ad0",
-      "songName": "Aether Realm - Cycle",
-      "hash": "b8595415d2921458774aab8434f09c22319b1676",
-      "levelid": "custom_level_b8595415d2921458774aab8434f09c22319b1676"
+      "key": "53b42",
+      "songName": "Incinerator",
+      "hash": "f4e1fc55cc92b614d7905124c6c4490465b8e8f8",
+      "levelid": "custom_level_f4e1fc55cc92b614d7905124c6c4490465b8e8f8"
     },
     {
-      "key": "53acb",
-      "songName": "Bananaphone (Popacollaa Cover)",
-      "hash": "3e8d1b35df63a1994a81e05faa4f4abf86ba0d75",
-      "levelid": "custom_level_3e8d1b35df63a1994a81e05faa4f4abf86ba0d75"
+      "key": "53b41",
+      "songName": "Break Through Myself",
+      "hash": "a773694bb362751d6b0a44a430e18f14005acae7",
+      "levelid": "custom_level_a773694bb362751d6b0a44a430e18f14005acae7"
     },
     {
-      "key": "53ac8",
-      "songName": "HOYO-MiX - Two To Tango",
-      "hash": "feeb7afb55e76abf483c06de2ae0f56894d679b4",
-      "levelid": "custom_level_feeb7afb55e76abf483c06de2ae0f56894d679b4"
+      "key": "53b3c",
+      "songName": "[Super ONGEKI Music Pack ] Vibes 2k20",
+      "hash": "0405f0013251945a71daa093a6568c35344eb34a",
+      "levelid": "custom_level_0405f0013251945a71daa093a6568c35344eb34a"
     },
     {
-      "key": "53ac7",
-      "songName": "feel it-the tamperer",
-      "hash": "278ca54ccf0d3bba7a35874d883257d1a175f186",
-      "levelid": "custom_level_278ca54ccf0d3bba7a35874d883257d1a175f186"
+      "key": "53b39",
+      "songName": "Yura Yura Sweet Genocide",
+      "hash": "192bef99bb93dffe3dc381b16f27258c4671bafd",
+      "levelid": "custom_level_192bef99bb93dffe3dc381b16f27258c4671bafd"
+    },
+    {
+      "key": "53b37",
+      "songName": "Fashion Week - It's Different Remix",
+      "hash": "74f5bd5cbb9f7d8faba45f08a8c037f15b0ecb71",
+      "levelid": "custom_level_74f5bd5cbb9f7d8faba45f08a8c037f15b0ecb71"
+    },
+    {
+      "key": "53b30",
+      "songName": "Say It Back",
+      "hash": "ba5e579f5a64ecd9aa73978cc2dda560b7aeafbd",
+      "levelid": "custom_level_ba5e579f5a64ecd9aa73978cc2dda560b7aeafbd"
+    },
+    {
+      "key": "53b2e",
+      "songName": "requIre x tanger - house music",
+      "hash": "2f23a0d93af4c5c7ae2b51f2c3e8ed281b393831",
+      "levelid": "custom_level_2f23a0d93af4c5c7ae2b51f2c3e8ed281b393831"
+    },
+    {
+      "key": "53b2d",
+      "songName": "Twin Size Mattress - The Front Bottoms",
+      "hash": "2e21504a91c358d362093cccc12bbd19f1a9d92a",
+      "levelid": "custom_level_2e21504a91c358d362093cccc12bbd19f1a9d92a"
+    },
+    {
+      "key": "53b2b",
+      "songName": "Fuori Dal Tunnel",
+      "hash": "ac01c68d0f5f5eb6690a4af2ecdefb70364724eb",
+      "levelid": "custom_level_ac01c68d0f5f5eb6690a4af2ecdefb70364724eb"
+    },
+    {
+      "key": "53b25",
+      "songName": "22 note's",
+      "hash": "67cbfcf75f210271777fc1156df4b14b3e6aa6d5",
+      "levelid": "custom_level_67cbfcf75f210271777fc1156df4b14b3e6aa6d5"
+    },
+    {
+      "key": "53b24",
+      "songName": "21 note's",
+      "hash": "ce5e53c2a1120c0e77d63b81d7c0be1c919fec41",
+      "levelid": "custom_level_ce5e53c2a1120c0e77d63b81d7c0be1c919fec41"
+    },
+    {
+      "key": "53b23",
+      "songName": "20 note's",
+      "hash": "940fc4a9e85001d843061074c07995755cccbb16",
+      "levelid": "custom_level_940fc4a9e85001d843061074c07995755cccbb16"
+    },
+    {
+      "key": "53b22",
+      "songName": "I Look Alive",
+      "hash": "ca248e22291b68bd70ceeaf549639600a60c839c",
+      "levelid": "custom_level_ca248e22291b68bd70ceeaf549639600a60c839c"
+    },
+    {
+      "key": "53b21",
+      "songName": "Rockit Music - Lullaby Dies",
+      "hash": "7acf82efa35d8018e51b92e961147baf700cb059",
+      "levelid": "custom_level_7acf82efa35d8018e51b92e961147baf700cb059"
     }
   ],
   "image": ""
