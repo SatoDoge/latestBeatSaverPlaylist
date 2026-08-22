@@ -1,322 +1,166 @@
 {
-  "playlistTitle": "2026-08-20T15:18:49.784Z~2026-08-21T15:18:49.784Z",
+  "playlistTitle": "2026-08-21T15:18:48.019Z~2026-08-22T15:18:48.019Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-08-20T15:18:49.784Z and 2026-08-21T15:18:49.784Z",
+  "discripstion": "Maps published between 2026-08-21T15:18:48.019Z and 2026-08-22T15:18:48.019Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "53c2f",
-      "songName": "BALD!",
-      "hash": "8106cc20e5715057f8bfdcb35afc52aeab261067",
-      "levelid": "custom_level_8106cc20e5715057f8bfdcb35afc52aeab261067"
+      "key": "53c69",
+      "songName": "雨き声残響",
+      "hash": "a90f4fdc271beb8f66748bf38a40a811527ee371",
+      "levelid": "custom_level_a90f4fdc271beb8f66748bf38a40a811527ee371"
     },
     {
-      "key": "53c2c",
-      "songName": "EmoCosine - Run My Way",
-      "hash": "6e232bf9d67d7bf8f29e8b0b23a6c53ffbadd9f6",
-      "levelid": "custom_level_6e232bf9d67d7bf8f29e8b0b23a6c53ffbadd9f6"
+      "key": "53c64",
+      "songName": "Jodellavitanonhocapitouncazzo",
+      "hash": "e66c36c2609d4ca3f6ca858921602a697f3a509b",
+      "levelid": "custom_level_e66c36c2609d4ca3f6ca858921602a697f3a509b"
     },
     {
-      "key": "53c2b",
-      "songName": "Skrillex, Fred again.., Flowdan - Rumble (Guy Arthur Remix) (V4) (VNJS)",
-      "hash": "d3cedfb6290636b8df3b89bd25c50d9a540800c7",
-      "levelid": "custom_level_d3cedfb6290636b8df3b89bd25c50d9a540800c7"
+      "key": "53c61",
+      "songName": "風のマジカル / 小泉 今日子　Kaze no Magical / Kyoko Koizumi",
+      "hash": "dfb067c2aeb1b48e3fb0b46e2735566f8277cdc4",
+      "levelid": "custom_level_dfb067c2aeb1b48e3fb0b46e2735566f8277cdc4"
     },
     {
-      "key": "53c2a",
-      "songName": "Duno - Je ne comprends pas (LESSS EDIT)",
-      "hash": "685938414b27b1b60ded6e83384b10121f2a66a7",
-      "levelid": "custom_level_685938414b27b1b60ded6e83384b10121f2a66a7"
+      "key": "53c63",
+      "songName": "border (憑物語 ED)",
+      "hash": "f101c638f9e44c44ab978d90adca2a23876de5f7",
+      "levelid": "custom_level_f101c638f9e44c44ab978d90adca2a23876de5f7"
     },
     {
-      "key": "53b1a",
-      "songName": "[Electric Syndrome] (Chroma+) Exyl - No Way Back",
-      "hash": "acf5d630b32cd6710a78afc0349acd2182908793",
-      "levelid": "custom_level_acf5d630b32cd6710a78afc0349acd2182908793"
+      "key": "53c62",
+      "songName": "corefish - SANDPAPER",
+      "hash": "90b91721667a994a584c1cc285a0b937aa817918",
+      "levelid": "custom_level_90b91721667a994a584c1cc285a0b937aa817918"
     },
     {
-      "key": "53b19",
-      "songName": "[Electric Syndrome] (V3) The Living Tombstone x CG5 - Temporary Love",
-      "hash": "c684ea56dd232cebe2243e6a357fd834d7a192f2",
-      "levelid": "custom_level_c684ea56dd232cebe2243e6a357fd834d7a192f2"
+      "key": "53c60",
+      "songName": "YOURE GONNA LOVE OUR PIZZA FART",
+      "hash": "e31b887aa0707a8dafa7ed1887517f19ab32308e",
+      "levelid": "custom_level_e31b887aa0707a8dafa7ed1887517f19ab32308e"
     },
     {
-      "key": "53c26",
-      "songName": "Dream Away feat. Yukacco(Hylen Remix) - DJ Noriken & DJ Genki",
-      "hash": "078a7dd0515c221afea9f4dede759ed82a54ee56",
-      "levelid": "custom_level_078a7dd0515c221afea9f4dede759ed82a54ee56"
+      "key": "53c5f",
+      "songName": "...",
+      "hash": "4cc27eebc425e0c8e250011ab5ab865b7e07c98b",
+      "levelid": "custom_level_4cc27eebc425e0c8e250011ab5ab865b7e07c98b"
     },
     {
-      "key": "53bd8",
-      "songName": "[Electric Syndrome] Sad Money & Kaskade-Come Away(feat. Sabrina Claudio)",
-      "hash": "624b28d269280cd2f0da2b660b62fde1b8180256",
-      "levelid": "custom_level_624b28d269280cd2f0da2b660b62fde1b8180256"
+      "key": "53c5d",
+      "songName": "what is this beat saber song tho",
+      "hash": "7bb28a97906ade6360279558f81c4820c8599a63",
+      "levelid": "custom_level_7bb28a97906ade6360279558f81c4820c8599a63"
     },
     {
-      "key": "53bd7",
-      "songName": "[Electric Syndrome] t+pazolite & Massive New Krew feat. Lily - with U",
-      "hash": "5ca608b0852adbda72684756b9538aed24dd7a1b",
-      "levelid": "custom_level_5ca608b0852adbda72684756b9538aed24dd7a1b"
+      "key": "53c5a",
+      "songName": "Marmalade Dream - BOKSED Edit",
+      "hash": "9281a8a10e2b8731ece5c4a8c5458f2d909d8ba2",
+      "levelid": "custom_level_9281a8a10e2b8731ece5c4a8c5458f2d909d8ba2"
     },
     {
-      "key": "53b36",
-      "songName": "[Electric Syndrome]Tiesto & Oliver Heldens-The Right Song (feat. Natalie La Rose)",
-      "hash": "b9097f8a1c9f3d733f55059dac6e6767706e15e5",
-      "levelid": "custom_level_b9097f8a1c9f3d733f55059dac6e6767706e15e5"
+      "key": "53c56",
+      "songName": "debito di siono",
+      "hash": "173302ec47535661af707999cecfa6dc6126257c",
+      "levelid": "custom_level_173302ec47535661af707999cecfa6dc6126257c"
     },
     {
-      "key": "53c25",
-      "songName": "[Electric Syndrome] (Chroma+) Treb, Tanger - DYNAMITE",
-      "hash": "d7e35d79e2cea5d95d430735a47eb6df0c0e9e55",
-      "levelid": "custom_level_d7e35d79e2cea5d95d430735a47eb6df0c0e9e55"
+      "key": "53c57",
+      "songName": "BORN TO FAIL",
+      "hash": "573d51d8e28f04e3773efb3805463e57b39629b9",
+      "levelid": "custom_level_573d51d8e28f04e3773efb3805463e57b39629b9"
     },
     {
-      "key": "53c24",
-      "songName": "[Electric Syndrome Pack] Noma W/ Apo11o ft. Yuyoyuppe - LETHAL;WEAPON",
-      "hash": "fb4f3aba0fe49f7b65f5c36e4bc694c36b75ac4e",
-      "levelid": "custom_level_fb4f3aba0fe49f7b65f5c36e4bc694c36b75ac4e"
+      "key": "53c53",
+      "songName": "Elysium",
+      "hash": "a9be87d1ac9b76fe7f2e34d181e7187ed0f1dd1f",
+      "levelid": "custom_level_a9be87d1ac9b76fe7f2e34d181e7187ed0f1dd1f"
     },
     {
-      "key": "53c01",
-      "songName": "[Electric Syndrome Pack] Mitsunori Ikeda - Fallen Angel (feat. Aimee B) (from \"Panty & Stocking with Garterbelt\")",
-      "hash": "1cb875c98c730f6bff0c61be61afc1227057f259",
-      "levelid": "custom_level_1cb875c98c730f6bff0c61be61afc1227057f259"
+      "key": "53c4e",
+      "songName": "commercial trolling",
+      "hash": "b31bc298e973e6d4d2c0d34d9da945fc93ab0b36",
+      "levelid": "custom_level_b31bc298e973e6d4d2c0d34d9da945fc93ab0b36"
     },
     {
-      "key": "53bea",
-      "songName": "[Electric Syndrome] Josh Baker, Eliza Rose-Down To The Bone",
-      "hash": "22dd00989da685dc935363b1a23d2928099ac5a4",
-      "levelid": "custom_level_22dd00989da685dc935363b1a23d2928099ac5a4"
+      "key": "53c4b",
+      "songName": "BUTTERFLIES",
+      "hash": "91fe4ec85b8dd2cfeebc91c8d58f48fc7be41532",
+      "levelid": "custom_level_91fe4ec85b8dd2cfeebc91c8d58f48fc7be41532"
     },
     {
-      "key": "53b9e",
-      "songName": "[Electric Syndrome] SLANDER,NGHTMRE,ZOHARA-Free",
-      "hash": "d9dbb7cd757277e5b2337eee81d94d15bb14a4da",
-      "levelid": "custom_level_d9dbb7cd757277e5b2337eee81d94d15bb14a4da"
+      "key": "53c48",
+      "songName": "There's a Cat Licking Your Birthday Cake",
+      "hash": "635a4213ef9658797aee9106035d42679368fde2",
+      "levelid": "custom_level_635a4213ef9658797aee9106035d42679368fde2"
     },
     {
-      "key": "53b35",
-      "songName": "[Electric Syndrome] Zatox - Rumble In The Jungle (Radio Edit)",
-      "hash": "7bc81730c07546394f47c3b25130f29cdcef2620",
-      "levelid": "custom_level_7bc81730c07546394f47c3b25130f29cdcef2620"
+      "key": "53c44",
+      "songName": "[Feetsaber]City No Pop",
+      "hash": "671018dd45b7c89b292ec9ccf58181d5d5f4f753",
+      "levelid": "custom_level_671018dd45b7c89b292ec9ccf58181d5d5f4f753"
     },
     {
-      "key": "53ae9",
-      "songName": "[Electric Syndrome] Korn, ft. Skrillex and Kill The Noise - Narcissistic Cannibal",
-      "hash": "c64ef6fffeb368fd9e7e0a665efb8e4a87c8deca",
-      "levelid": "custom_level_c64ef6fffeb368fd9e7e0a665efb8e4a87c8deca"
+      "key": "53c41",
+      "songName": "Rainbow Rave Parade - Chime",
+      "hash": "f66f9eff86318824372eb2c9e2128010cf48f9c8",
+      "levelid": "custom_level_f66f9eff86318824372eb2c9e2128010cf48f9c8"
     },
     {
-      "key": "53bfa",
-      "songName": "[Electric Syndrome] Teminite - State Of Mind",
-      "hash": "ad629f00035895a3a365c2ae5724e97fb809b5a0",
-      "levelid": "custom_level_ad629f00035895a3a365c2ae5724e97fb809b5a0"
+      "key": "53c3f",
+      "songName": "BOSS HAUS",
+      "hash": "3b731c9852937d6ad78cf18b3cb8fee9cf9a90b4",
+      "levelid": "custom_level_3b731c9852937d6ad78cf18b3cb8fee9cf9a90b4"
     },
     {
-      "key": "53b98",
-      "songName": "[Electric Syndrome] Battle! (Jacinthe) - Pokémon Legends: Z-A",
-      "hash": "6133058f3e51b652f25c9523328194c055fcfd37",
-      "levelid": "custom_level_6133058f3e51b652f25c9523328194c055fcfd37"
+      "key": "53c3e",
+      "songName": "man of of the year",
+      "hash": "2acf6b8eec462c2211e0b3e2b89c921aee7db09f",
+      "levelid": "custom_level_2acf6b8eec462c2211e0b3e2b89c921aee7db09f"
     },
     {
-      "key": "53b62",
-      "songName": "渇いた叫び",
-      "hash": "7573f0ae953961ddcf1386a7b6c45fb324d4e5c7",
-      "levelid": "custom_level_7573f0ae953961ddcf1386a7b6c45fb324d4e5c7"
+      "key": "53c3d",
+      "songName": "Departure!",
+      "hash": "7a24cd2860434c3cad7c1be4e927a539477867f9",
+      "levelid": "custom_level_7a24cd2860434c3cad7c1be4e927a539477867f9"
     },
     {
-      "key": "53c23",
-      "songName": " MandoPony - Survive The Night",
-      "hash": "31df828350999c38727e4e054230f006763b9417",
-      "levelid": "custom_level_31df828350999c38727e4e054230f006763b9417"
+      "key": "53c3b",
+      "songName": "close to me shapes and beats song",
+      "hash": "ba5f7e3949dd9443d2824055d0213f51beb5d16c",
+      "levelid": "custom_level_ba5f7e3949dd9443d2824055d0213f51beb5d16c"
     },
     {
-      "key": "53c22",
-      "songName": "オレンジミント (憑物語 OP)",
-      "hash": "fcf958135310dfb6b9cb26783836800343a9a6cc",
-      "levelid": "custom_level_fcf958135310dfb6b9cb26783836800343a9a6cc"
+      "key": "53c37",
+      "songName": "flare",
+      "hash": "6b462bb84fb3b63ad18cb0c883f751bca17134d8",
+      "levelid": "custom_level_6b462bb84fb3b63ad18cb0c883f751bca17134d8"
     },
     {
-      "key": "53c21",
-      "songName": "New Religion",
-      "hash": "51963d050506c52cb77645b50a26b23a6505422e",
-      "levelid": "custom_level_51963d050506c52cb77645b50a26b23a6505422e"
+      "key": "53c33",
+      "songName": "Holy War Hospital",
+      "hash": "bc17cd8e49518a7c0541c23f508a47b3d668c9f1",
+      "levelid": "custom_level_bc17cd8e49518a7c0541c23f508a47b3d668c9f1"
     },
     {
-      "key": "53c16",
-      "songName": "Tomoya Tomita - Outer Rings (From \"Kirby's Epic Yarn\")",
-      "hash": "84555fc3aee6a4c540d4f547fe721adf202e3ced",
-      "levelid": "custom_level_84555fc3aee6a4c540d4f547fe721adf202e3ced"
+      "key": "53c32",
+      "songName": "Одинокая луна (Lonely Moon) - Артём Качер (Artyom Kacher)",
+      "hash": "8a9a8294f97ffa49d018c18c75c6441d84e4a265",
+      "levelid": "custom_level_8a9a8294f97ffa49d018c18c75c6441d84e4a265"
     },
     {
-      "key": "53c15",
-      "songName": "Move Along",
-      "hash": "857d392129c48fbcac410a028889f4309dc3261b",
-      "levelid": "custom_level_857d392129c48fbcac410a028889f4309dc3261b"
+      "key": "53c31",
+      "songName": "Toxic gossip train",
+      "hash": "62b19e672b70331911fb02c2af08d743ab0444ef",
+      "levelid": "custom_level_62b19e672b70331911fb02c2af08d743ab0444ef"
     },
     {
-      "key": "53c14",
-      "songName": "i just want to eat my cheese",
-      "hash": "e7c523541ff23e3ab7a92449d1aff638955faed3",
-      "levelid": "custom_level_e7c523541ff23e3ab7a92449d1aff638955faed3"
-    },
-    {
-      "key": "53c13",
-      "songName": "Beat Saber maps that keep me awake at night",
-      "hash": "20a8914b08d36197baf221bcd5bdb43fbed58e57",
-      "levelid": "custom_level_20a8914b08d36197baf221bcd5bdb43fbed58e57"
-    },
-    {
-      "key": "53c11",
-      "songName": "Little Mix - Touch ",
-      "hash": "a7a3b2121519511e0c7b7cf866d5fffd6d17985e",
-      "levelid": "custom_level_a7a3b2121519511e0c7b7cf866d5fffd6d17985e"
-    },
-    {
-      "key": "53c10",
-      "songName": "Dead Flower Blossom",
-      "hash": "7fc04f6fe6edf88c3693f4102319df9f69d0682c",
-      "levelid": "custom_level_7fc04f6fe6edf88c3693f4102319df9f69d0682c"
-    },
-    {
-      "key": "53c0b",
-      "songName": "RXMALIAN & SIXQUEET - Spectrum",
-      "hash": "23667b971ac9d13a1968aa8c9112bec0fb2c3fc1",
-      "levelid": "custom_level_23667b971ac9d13a1968aa8c9112bec0fb2c3fc1"
-    },
-    {
-      "key": "53c08",
-      "songName": "The Beatles - Something ",
-      "hash": "6f939226011082701b7b4725903166bae274df79",
-      "levelid": "custom_level_6f939226011082701b7b4725903166bae274df79"
-    },
-    {
-      "key": "53c07",
-      "songName": "YES GODD",
-      "hash": "30be22c89a1dbef2eb6e2ad4b49900d19b378692",
-      "levelid": "custom_level_30be22c89a1dbef2eb6e2ad4b49900d19b378692"
-    },
-    {
-      "key": "53c00",
-      "songName": "BOXXY - SPONGEWOB [SP4H]",
-      "hash": "d44485cf6fcd548018c29976adf40ac9bbed76f6",
-      "levelid": "custom_level_d44485cf6fcd548018c29976adf40ac9bbed76f6"
-    },
-    {
-      "key": "53c03",
-      "songName": "My Little Pony - Stay Curious",
-      "hash": "134e672310fe17d8887889b57deb5d6b1e9f9174",
-      "levelid": "custom_level_134e672310fe17d8887889b57deb5d6b1e9f9174"
-    },
-    {
-      "key": "53c02",
-      "songName": "Kanashibari ni Attara ～かなしばりに遭ったら～ Abaraya あばらや",
-      "hash": "a4e864a7f095f4d3844d70b8c543f2d861c08417",
-      "levelid": "custom_level_a4e864a7f095f4d3844d70b8c543f2d861c08417"
-    },
-    {
-      "key": "53bff",
-      "songName": "x2 deuka",
-      "hash": "760da5eb3d94e5dffa28d2dd35b0b4ebe9303453",
-      "levelid": "custom_level_760da5eb3d94e5dffa28d2dd35b0b4ebe9303453"
-    },
-    {
-      "key": "53bfc",
-      "songName": "3 layer dip stack",
-      "hash": "7f38cab7b65d93a65a12a8938f73b38cf7bbadc5",
-      "levelid": "custom_level_7f38cab7b65d93a65a12a8938f73b38cf7bbadc5"
-    },
-    {
-      "key": "53bfb",
-      "songName": "oh wake up oh",
-      "hash": "091cc6255fe9d7ab2ae3e37f4345194106bd3ab7",
-      "levelid": "custom_level_091cc6255fe9d7ab2ae3e37f4345194106bd3ab7"
-    },
-    {
-      "key": "53bf7",
-      "songName": "MONTAGEM URANIUM (slowed)",
-      "hash": "ba88ad7b051857cd161e29d0c847e8babe5223c4",
-      "levelid": "custom_level_ba88ad7b051857cd161e29d0c847e8babe5223c4"
-    },
-    {
-      "key": "53bf5",
-      "songName": "sasakure.UK - the EmpErroR",
-      "hash": "6644e0aa169f5fc242db2eabce0773d2440b100a",
-      "levelid": "custom_level_6644e0aa169f5fc242db2eabce0773d2440b100a"
-    },
-    {
-      "key": "53bf4",
-      "songName": "Earthless - Lost in the Cold Sun (unfinished)",
-      "hash": "4fef931e9c0acc3fdfe87a08a7cd32cd8045d8e4",
-      "levelid": "custom_level_4fef931e9c0acc3fdfe87a08a7cd32cd8045d8e4"
-    },
-    {
-      "key": "53bf3",
-      "songName": "SUPERNOVA (nu//finder's \"Hollow Avantgarde\" Remix) - Kyotsugon",
-      "hash": "d2b3726b3275b015e90b5d5ba911e60c9072256a",
-      "levelid": "custom_level_d2b3726b3275b015e90b5d5ba911e60c9072256a"
-    },
-    {
-      "key": "53bf1",
-      "songName": "Animal - KATSEYE",
-      "hash": "52726bdefac8932c61aba4b6752c56c6aadee357",
-      "levelid": "custom_level_52726bdefac8932c61aba4b6752c56c6aadee357"
-    },
-    {
-      "key": "53bf0",
-      "songName": "Clevefan886 - Cleveland Show Remix",
-      "hash": "d43022e2446f930e432914eaf69cc3d844534ca6",
-      "levelid": "custom_level_d43022e2446f930e432914eaf69cc3d844534ca6"
-    },
-    {
-      "key": "53bef",
-      "songName": " (yes the song name is literally \" \")",
-      "hash": "55593a106c9af0e101d7bb8f41d5821368c9e131",
-      "levelid": "custom_level_55593a106c9af0e101d7bb8f41d5821368c9e131"
-    },
-    {
-      "key": "53bee",
-      "songName": "Isn’t She Lovely TADC Version",
-      "hash": "a54b7dc8981b1edbda1a2edf785723b9f80917dd",
-      "levelid": "custom_level_a54b7dc8981b1edbda1a2edf785723b9f80917dd"
-    },
-    {
-      "key": "53be9",
-      "songName": "Turn Echo",
-      "hash": "b8e5f695901999cb579f022d9c00c3947438d108",
-      "levelid": "custom_level_b8e5f695901999cb579f022d9c00c3947438d108"
-    },
-    {
-      "key": "53be5",
-      "songName": "Stone Ocean (TV Size)",
-      "hash": "47162f82a54239d474b9506c4c1f906ab833a97e",
-      "levelid": "custom_level_47162f82a54239d474b9506c4c1f906ab833a97e"
-    },
-    {
-      "key": "53be2",
-      "songName": "Disconnected Again",
-      "hash": "7aafb2a2f01e17bd09afc926e699c01aeeb35f5b",
-      "levelid": "custom_level_7aafb2a2f01e17bd09afc926e699c01aeeb35f5b"
-    },
-    {
-      "key": "52e2b",
-      "songName": "[Vivify] AJR - The Plane That Never Lands",
-      "hash": "45f4679ee65972c2f025d3c20316d42742c4d270",
-      "levelid": "custom_level_45f4679ee65972c2f025d3c20316d42742c4d270"
-    },
-    {
-      "key": "53bdd",
-      "songName": "Fantasie Impromptu",
-      "hash": "15ba97d5a0a5e9455ef672b9afae4e34f7964442",
-      "levelid": "custom_level_15ba97d5a0a5e9455ef672b9afae4e34f7964442"
-    },
-    {
-      "key": "53bd9",
-      "songName": "Renai Decorate",
-      "hash": "8d72918a36b7dd0719a776325a1e431657b7098b",
-      "levelid": "custom_level_8d72918a36b7dd0719a776325a1e431657b7098b"
+      "key": "53c30",
+      "songName": "The Kiki service",
+      "hash": "76d040596b926b20a9163cb3f98070f56adfbb95",
+      "levelid": "custom_level_76d040596b926b20a9163cb3f98070f56adfbb95"
     }
   ],
   "image": ""
