@@ -1,184 +1,226 @@
 {
-  "playlistTitle": "2026-08-31T15:18:48.312Z~2026-09-01T15:18:48.312Z",
+  "playlistTitle": "2026-09-01T15:18:48.398Z~2026-09-02T15:18:48.398Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-08-31T15:18:48.312Z and 2026-09-01T15:18:48.312Z",
+  "discripstion": "Maps published between 2026-09-01T15:18:48.398Z and 2026-09-02T15:18:48.398Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "54061",
-      "songName": "sean is bald",
-      "hash": "2440a0c3c9d0711c9e77447cf0edaeed7c23b167",
-      "levelid": "custom_level_2440a0c3c9d0711c9e77447cf0edaeed7c23b167"
+      "key": "5409c",
+      "songName": "Love Eli - LOCKJAWED",
+      "hash": "977eb76eb6a56674197af1888ba88e6d25d09d2e",
+      "levelid": "custom_level_977eb76eb6a56674197af1888ba88e6d25d09d2e"
     },
     {
-      "key": "5405d",
-      "songName": "Archspire - Carrion Ladder",
-      "hash": "80ff3e9654c4dbec4bac9b03a442c21e337da7d0",
-      "levelid": "custom_level_80ff3e9654c4dbec4bac9b03a442c21e337da7d0"
+      "key": "540da",
+      "songName": "Diventero qualcuno",
+      "hash": "56e14f698dcb2ee2efe0e97b41ec1757188e6309",
+      "levelid": "custom_level_56e14f698dcb2ee2efe0e97b41ec1757188e6309"
     },
     {
-      "key": "5405c",
-      "songName": "承認してください、ジーニーさん! - TRAP CHICK",
-      "hash": "4e30bf74986e1f41117d558fc469010bb4f025ff",
-      "levelid": "custom_level_4e30bf74986e1f41117d558fc469010bb4f025ff"
+      "key": "540d9",
+      "songName": "6 Foot 7 Foot (feat. Cory Gunz) by Lil Wayne | Hip Hop Mixtape 2 | Beat Saber",
+      "hash": "0d9f678cdef764dc37460cc28ac8e69857754b33",
+      "levelid": "custom_level_0d9f678cdef764dc37460cc28ac8e69857754b33"
     },
     {
-      "key": "5405b",
-      "songName": "azure (続・終物語 ED)",
-      "hash": "e395318e7762bdeb9af4598a0e05b18ed9d93bd5",
-      "levelid": "custom_level_e395318e7762bdeb9af4598a0e05b18ed9d93bd5"
+      "key": "540d8",
+      "songName": "The Death of a Sim",
+      "hash": "a55bc29ac73bd2ffad8cd1137250ffe4951aa20e",
+      "levelid": "custom_level_a55bc29ac73bd2ffad8cd1137250ffe4951aa20e"
     },
     {
-      "key": "5405a",
-      "songName": "RA TA BASS BASS",
-      "hash": "099c393c903e72a0764c1b235dacc1636210796d",
-      "levelid": "custom_level_099c393c903e72a0764c1b235dacc1636210796d"
+      "key": "540c7",
+      "songName": "Monster's lair",
+      "hash": "1146b68d785dc06d1c44e614da2c1a87adf2bb9b",
+      "levelid": "custom_level_1146b68d785dc06d1c44e614da2c1a87adf2bb9b"
     },
     {
-      "key": "54059",
-      "songName": "Getty - Bang Bang",
-      "hash": "b84ae069547844259a8915562f6bb56cdb0fc8a0",
-      "levelid": "custom_level_b84ae069547844259a8915562f6bb56cdb0fc8a0"
+      "key": "540c8",
+      "songName": "beat saber",
+      "hash": "a1e3f42be2cb7fe23d9999acf2e34cdb5465b731",
+      "levelid": "custom_level_a1e3f42be2cb7fe23d9999acf2e34cdb5465b731"
     },
     {
-      "key": "54057",
-      "songName": " Invisible Frenzy",
-      "hash": "c4e66527545f059e03e379f45825763a45aabba0",
-      "levelid": "custom_level_c4e66527545f059e03e379f45825763a45aabba0"
+      "key": "540c4",
+      "songName": "wotaku - あの日、あの部屋で、あったこと (feat. SHIKI)",
+      "hash": "926d231b6bde8ae0cfba379b56d90c783f95384b",
+      "levelid": "custom_level_926d231b6bde8ae0cfba379b56d90c783f95384b"
     },
     {
-      "key": "54055",
-      "songName": "Bro can't even spell Texas correctly ",
-      "hash": "9e9cbf64096086c2a05b798bb5df8131060843ee",
-      "levelid": "custom_level_9e9cbf64096086c2a05b798bb5df8131060843ee"
+      "key": "540c3",
+      "songName": "Lifehouse - Halfway Gone",
+      "hash": "bd1cbecccc48afc800f63751846b35ec5213a1df",
+      "levelid": "custom_level_bd1cbecccc48afc800f63751846b35ec5213a1df"
     },
     {
-      "key": "54053",
-      "songName": "BIRDS: SLAYYYTERS VERSION",
-      "hash": "a9f6da4c30e7af38bc2e1a72162b522e60868be6",
-      "levelid": "custom_level_a9f6da4c30e7af38bc2e1a72162b522e60868be6"
+      "key": "540c2",
+      "songName": "icecream° (〈物語〉シリーズ オフ&モンスターシーズン 愚物語 OP)",
+      "hash": "abd639a9adb139719dcc71f45c77f63849610a50",
+      "levelid": "custom_level_abd639a9adb139719dcc71f45c77f63849610a50"
     },
     {
-      "key": "54052",
-      "songName": "Toby Fox - Another Medium",
-      "hash": "8f2d10fb968d61886278c4883bfca44454e24357",
-      "levelid": "custom_level_8f2d10fb968d61886278c4883bfca44454e24357"
+      "key": "540bd",
+      "songName": "0 People's Waltz",
+      "hash": "12503ada9bc7c19d0bd2cbb5e8d80a9b2e15f720",
+      "levelid": "custom_level_12503ada9bc7c19d0bd2cbb5e8d80a9b2e15f720"
     },
     {
-      "key": "54051",
-      "songName": "Finale",
-      "hash": "d78781cc6ccca3e5108a29925ae837ade026c81a",
-      "levelid": "custom_level_d78781cc6ccca3e5108a29925ae837ade026c81a"
+      "key": "540bc",
+      "songName": "Hail The Sun - Live Forever",
+      "hash": "47e6fa573346291b9e012295cdee1719989bb89e",
+      "levelid": "custom_level_47e6fa573346291b9e012295cdee1719989bb89e"
     },
     {
-      "key": "54050",
-      "songName": "Crashout",
-      "hash": "64310c947cc8176557bd4107ec88cb9d46886799",
-      "levelid": "custom_level_64310c947cc8176557bd4107ec88cb9d46886799"
+      "key": "540b6",
+      "songName": "Laur - Lash Out",
+      "hash": "511178519071864b2c00ef4689f937688d5f0be8",
+      "levelid": "custom_level_511178519071864b2c00ef4689f937688d5f0be8"
     },
     {
-      "key": "5404e",
-      "songName": "adult swim intro",
-      "hash": "e8e6dbf0879700db6b046ac07ad74e9a4884da4d",
-      "levelid": "custom_level_e8e6dbf0879700db6b046ac07ad74e9a4884da4d"
+      "key": "540b4",
+      "songName": "SEVERED ARM  ",
+      "hash": "55dc92317a83626e33deb9833c5e4907bd274c64",
+      "levelid": "custom_level_55dc92317a83626e33deb9833c5e4907bd274c64"
     },
     {
-      "key": "5404d",
-      "songName": "MİLKBLOOD-LOVESHOT EYES",
-      "hash": "130e8a18531a139587b1daaa74eac3216c67be9d",
-      "levelid": "custom_level_130e8a18531a139587b1daaa74eac3216c67be9d"
+      "key": "540b1",
+      "songName": " Girls' Generation-HRS - Skibidi",
+      "hash": "c09910e7a17b8ff16601e579eaf45726d783fcdb",
+      "levelid": "custom_level_c09910e7a17b8ff16601e579eaf45726d783fcdb"
     },
     {
-      "key": "5404c",
-      "songName": "Become Azel!!",
-      "hash": "88cbb46a599780512791cc6698273317ac2a5d57",
-      "levelid": "custom_level_88cbb46a599780512791cc6698273317ac2a5d57"
+      "key": "540b2",
+      "songName": "Tung Tung Sahurcles VIP - TheRealMannyHeffley",
+      "hash": "f90b0261030e788703e1684ed0263184b8964418",
+      "levelid": "custom_level_f90b0261030e788703e1684ed0263184b8964418"
     },
     {
-      "key": "54048",
-      "songName": "BustyBarbra's Distrack!",
-      "hash": "01877f3f522bcd383cb148de61192b9ac9a4b525",
-      "levelid": "custom_level_01877f3f522bcd383cb148de61192b9ac9a4b525"
+      "key": "540ae",
+      "songName": "For You I Will - Monica",
+      "hash": "400d0cfbebbf606bdfd3b5280f48540054f0946f",
+      "levelid": "custom_level_400d0cfbebbf606bdfd3b5280f48540054f0946f"
     },
     {
-      "key": "54045",
-      "songName": "Sophisticated Lady",
-      "hash": "39bd26862e0aea55fd7e1268229e2d980036cc36",
-      "levelid": "custom_level_39bd26862e0aea55fd7e1268229e2d980036cc36"
+      "key": "540ad",
+      "songName": "LINKIN PARK - Faint",
+      "hash": "042f8bd8e862691daebe0d9d762a0353e9ecf84d",
+      "levelid": "custom_level_042f8bd8e862691daebe0d9d762a0353e9ecf84d"
     },
     {
-      "key": "54044",
-      "songName": "HAHAHAHA",
-      "hash": "1bde6de93f0f53c92c4451e8bddf7a70c61d702c",
-      "levelid": "custom_level_1bde6de93f0f53c92c4451e8bddf7a70c61d702c"
+      "key": "540ab",
+      "songName": "Kotori - Death From Above [2rb]",
+      "hash": "8a2ff3780a75a55d293e09d4c2e535a458f24977",
+      "levelid": "custom_level_8a2ff3780a75a55d293e09d4c2e535a458f24977"
     },
     {
-      "key": "5403f",
-      "songName": "Granny's House",
-      "hash": "6778dcc1342a6c7f166a4d8d3a2f5a6c489285fe",
-      "levelid": "custom_level_6778dcc1342a6c7f166a4d8d3a2f5a6c489285fe"
+      "key": "540a9",
+      "songName": "Porter Robinson - Russian Roulette",
+      "hash": "528685a069ce80677d04fa8b20ec885f87731140",
+      "levelid": "custom_level_528685a069ce80677d04fa8b20ec885f87731140"
     },
     {
-      "key": "5403d",
-      "songName": "the laugh track. ice nine kills",
-      "hash": "d81975a9445960742940a413594693d6b38913f9",
-      "levelid": "custom_level_d81975a9445960742940a413594693d6b38913f9"
+      "key": "540a8",
+      "songName": "Kobaryo - Zero Risk Syndrome [2rb]",
+      "hash": "6ceebb4fcf9b567160771a44ebd33e868594ba54",
+      "levelid": "custom_level_6ceebb4fcf9b567160771a44ebd33e868594ba54"
     },
     {
-      "key": "5403b",
-      "songName": "[Super ONGEKI Music Pack] Stardust:RAY",
-      "hash": "5dcc53a4f5ee8c82bd936ab8fb91a39a1cd539ee",
-      "levelid": "custom_level_5dcc53a4f5ee8c82bd936ab8fb91a39a1cd539ee"
+      "key": "540a2",
+      "songName": "Xyris - Wandering Star Seeker [2rb]",
+      "hash": "dac10976570e4716b5be24e257fb1237a7481aae",
+      "levelid": "custom_level_dac10976570e4716b5be24e257fb1237a7481aae"
     },
     {
-      "key": "5403a",
-      "songName": "The Dead Dance",
-      "hash": "83e0c48b8649781f0b78e56c4a0b424a53a89dab",
-      "levelid": "custom_level_83e0c48b8649781f0b78e56c4a0b424a53a89dab"
+      "key": "540a1",
+      "songName": "Test",
+      "hash": "2badcfe24cd8f88f0da2ec0e25d8089e235302c5",
+      "levelid": "custom_level_2badcfe24cd8f88f0da2ec0e25d8089e235302c5"
     },
     {
-      "key": "54036",
-      "songName": "Like It (with Bad Bunny & J Balvin) by Cardi B | Hip Hop Mixtape 2 | Beat Saber",
-      "hash": "11ae59182df1179e335885e8b347eed3dcfca11e",
-      "levelid": "custom_level_11ae59182df1179e335885e8b347eed3dcfca11e"
+      "key": "5409f",
+      "songName": "Fuox",
+      "hash": "adddb07c7004de49a257bd6f353dbbf3fbaae559",
+      "levelid": "custom_level_adddb07c7004de49a257bd6f353dbbf3fbaae559"
     },
     {
-      "key": "54035",
-      "songName": "Crank the bass, Play the muzik - Knock2",
-      "hash": "54fcf7f3f08fa8ca3b0a7daf87ca6acd636969bd",
-      "levelid": "custom_level_54fcf7f3f08fa8ca3b0a7daf87ca6acd636969bd"
+      "key": "54098",
+      "songName": "My first map",
+      "hash": "3b1d68047af46c56ace74d99dfab55b7dea8952a",
+      "levelid": "custom_level_3b1d68047af46c56ace74d99dfab55b7dea8952a"
     },
     {
-      "key": "54021",
-      "songName": "Stick Season (her Version)  (Poodle and bloqs)",
-      "hash": "54901c92a95f18cada596a86d61cedea517662a2",
-      "levelid": "custom_level_54901c92a95f18cada596a86d61cedea517662a2"
+      "key": "54093",
+      "songName": "Man Proposes, God Disposes",
+      "hash": "49afb89f0d7c4d27d062216b770d649d827e9df3",
+      "levelid": "custom_level_49afb89f0d7c4d27d062216b770d649d827e9df3"
     },
     {
-      "key": "54020",
-      "songName": "ALL OF ME - d4vd",
-      "hash": "d9e56c3f81ef8d396289d278237b7066c39d2b4e",
-      "levelid": "custom_level_d9e56c3f81ef8d396289d278237b7066c39d2b4e"
+      "key": "54092",
+      "songName": "PTSD Metal sounds",
+      "hash": "e0e11bcb2757b760ededf04c7d88227208c6b242",
+      "levelid": "custom_level_e0e11bcb2757b760ededf04c7d88227208c6b242"
     },
     {
-      "key": "5401f",
-      "songName": "[Lightshow] STAR BREAKER",
-      "hash": "7f2c31a9ed264720aeb73555a1b4a1d1214769ee",
-      "levelid": "custom_level_7f2c31a9ed264720aeb73555a1b4a1d1214769ee"
+      "key": "54091",
+      "songName": "saviour0broken_heart.mp3.mp3",
+      "hash": "f8f76c459d063fc8e47b2ad451aa34799f97ea0b",
+      "levelid": "custom_level_f8f76c459d063fc8e47b2ad451aa34799f97ea0b"
     },
     {
-      "key": "5401b",
-      "songName": "Type R - ASTELLION (vivid/stasis edit)",
-      "hash": "c7e8213c8ea90b5be26e31e09bd73bceef297d1e",
-      "levelid": "custom_level_c7e8213c8ea90b5be26e31e09bd73bceef297d1e"
+      "key": "5408c",
+      "songName": "Mulberry Street - Twenty One Pilots",
+      "hash": "2f135e7b79870dddfcc1e699755f4a4d571d059e",
+      "levelid": "custom_level_2f135e7b79870dddfcc1e699755f4a4d571d059e"
     },
     {
-      "key": "5401a",
-      "songName": "kaypooma - reFract::dense",
-      "hash": "085ca75db3195b3ee5632e6bf2b2522c2edd9f42",
-      "levelid": "custom_level_085ca75db3195b3ee5632e6bf2b2522c2edd9f42"
+      "key": "5408b",
+      "songName": "LE SSERAFIM x Ado ft. Nile Rodgers - UNFORGIVEN Japanese ver. (Sped up)",
+      "hash": "a423b3acc2aaac1f6dbda07502ae690c3bc32d43",
+      "levelid": "custom_level_a423b3acc2aaac1f6dbda07502ae690c3bc32d43"
+    },
+    {
+      "key": "5407f",
+      "songName": "Surround Sound (feat. 21 Savage & Baby Tate) by JID | Hip Hop Mixtape 2 | Beat Saber",
+      "hash": "1c64e161414c5766ba50704c1390a46c8721dc12",
+      "levelid": "custom_level_1c64e161414c5766ba50704c1390a46c8721dc12"
+    },
+    {
+      "key": "5407d",
+      "songName": "Toby Fox - 4rd Sanctuary",
+      "hash": "24cda718d6062c80654dda3fc4b21418724f5f6b",
+      "levelid": "custom_level_24cda718d6062c80654dda3fc4b21418724f5f6b"
+    },
+    {
+      "key": "5407e",
+      "songName": "my first dubstep - Bluesauce",
+      "hash": "945735067b7091780ecbfef93ed19fbe6171305e",
+      "levelid": "custom_level_945735067b7091780ecbfef93ed19fbe6171305e"
+    },
+    {
+      "key": "54072",
+      "songName": "Bigger Than You - Bleed 2",
+      "hash": "60cd08c5cb3573a91287a0464ca5037ccc1b58bd",
+      "levelid": "custom_level_60cd08c5cb3573a91287a0464ca5037ccc1b58bd"
+    },
+    {
+      "key": "5406b",
+      "songName": "{FITBEAT} Electrified - TheFatRat",
+      "hash": "8c634d8a42264dc764af2f1fd78ed08787880ef6",
+      "levelid": "custom_level_8c634d8a42264dc764af2f1fd78ed08787880ef6"
+    },
+    {
+      "key": "54022",
+      "songName": "Bad News - Stellar ft. Black Gryph0n & Baasik",
+      "hash": "83e2b827ca08ff77370379e7c133962b6fb2de4e",
+      "levelid": "custom_level_83e2b827ca08ff77370379e7c133962b6fb2de4e"
+    },
+    {
+      "key": "54068",
+      "songName": "Do you have some fires?",
+      "hash": "6e9c1ab5bd03b16f89a08a99b1f05f4c2064175b",
+      "levelid": "custom_level_6e9c1ab5bd03b16f89a08a99b1f05f4c2064175b"
     }
   ],
   "image": ""
