@@ -1,250 +1,178 @@
 {
-  "playlistTitle": "2026-09-02T15:18:48.251Z~2026-09-03T15:18:48.251Z",
+  "playlistTitle": "2026-09-03T15:18:48.298Z~2026-09-04T15:18:48.298Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-09-02T15:18:48.251Z and 2026-09-03T15:18:48.251Z",
+  "discripstion": "Maps published between 2026-09-03T15:18:48.298Z and 2026-09-04T15:18:48.298Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "5417b",
+      "songName": "Stasis",
+      "hash": "4f0f00159edd1d1381da859bdcdbe05005009360",
+      "levelid": "custom_level_4f0f00159edd1d1381da859bdcdbe05005009360"
+    },
+    {
+      "key": "5417a",
+      "songName": "Vine Boom",
+      "hash": "274e5e0bd0dc553f4fd519072cfe4548dd1d4797",
+      "levelid": "custom_level_274e5e0bd0dc553f4fd519072cfe4548dd1d4797"
+    },
+    {
+      "key": "54173",
+      "songName": "Thumbsiery",
+      "hash": "48115cf7e9e4e9aaae16fdef37b7591fd45e7dd2",
+      "levelid": "custom_level_48115cf7e9e4e9aaae16fdef37b7591fd45e7dd2"
+    },
+    {
+      "key": "54172",
+      "songName": "Thumb Away",
+      "hash": "2401cdba61f6b4efc1f50484a032189ce349f949",
+      "levelid": "custom_level_2401cdba61f6b4efc1f50484a032189ce349f949"
+    },
+    {
+      "key": "54171",
+      "songName": "Metal Pipe",
+      "hash": "25176340765912371185919be80973a85dd9d3c5",
+      "levelid": "custom_level_25176340765912371185919be80973a85dd9d3c5"
+    },
+    {
+      "key": "5416f",
+      "songName": "mosi mosi? - 楽音",
+      "hash": "39a32795878953943d8adec3cbf53b7c63947d7f",
+      "levelid": "custom_level_39a32795878953943d8adec3cbf53b7c63947d7f"
+    },
+    {
+      "key": "54166",
+      "songName": "UNDEAD (〈物語〉シリーズ オフ&モンスターシーズン ED)",
+      "hash": "58049ac843be72fc8897e0ebab3ac6f5eb822689",
+      "levelid": "custom_level_58049ac843be72fc8897e0ebab3ac6f5eb822689"
+    },
+    {
+      "key": "54161",
+      "songName": "TS7 x K Dot - Send It",
+      "hash": "c8dbc8e0c5800249d479ca72fcfdcc59754c8250",
+      "levelid": "custom_level_c8dbc8e0c5800249d479ca72fcfdcc59754c8250"
+    },
+    {
+      "key": "5415f",
+      "songName": "[MapSaber] Camellia - Berzerkerz' Warfare 345",
+      "hash": "3fce3c4ce107ab82e4824a2f7ec78637ee7c235b",
+      "levelid": "custom_level_3fce3c4ce107ab82e4824a2f7ec78637ee7c235b"
+    },
+    {
+      "key": "54156",
+      "songName": "Turbo - Black Cat",
+      "hash": "6f28347b6650ffde540ba340c0de82783eaa5b38",
+      "levelid": "custom_level_6f28347b6650ffde540ba340c0de82783eaa5b38"
+    },
+    {
+      "key": "54149",
+      "songName": "[Feetsaber]Dragostea Din Tei",
+      "hash": "3d4b0c26914fa60a7927cddd4f8c196afdfff964",
+      "levelid": "custom_level_3d4b0c26914fa60a7927cddd4f8c196afdfff964"
+    },
+    {
+      "key": "54147",
+      "songName": "testing testing testing",
+      "hash": "72e7223a0c8f0a5aaf75ef4d993a44fb4c2ccd8b",
+      "levelid": "custom_level_72e7223a0c8f0a5aaf75ef4d993a44fb4c2ccd8b"
+    },
+    {
+      "key": "54146",
+      "songName": "Raya",
+      "hash": "c2d8d916129f14333bd72be297b33eda1c80325a",
+      "levelid": "custom_level_c2d8d916129f14333bd72be297b33eda1c80325a"
+    },
+    {
+      "key": "54145",
+      "songName": "No way this meme is already dead bro",
+      "hash": "77e3b7f844999b730df5d07bf00b926f2d5a1eb3",
+      "levelid": "custom_level_77e3b7f844999b730df5d07bf00b926f2d5a1eb3"
+    },
+    {
+      "key": "54144",
+      "songName": "Isabel - Will My Heart Survive (Nightcore Mix)",
+      "hash": "a7a5ac3088d16e799cf232034a76281d07c76173",
+      "levelid": "custom_level_a7a5ac3088d16e799cf232034a76281d07c76173"
+    },
+    {
+      "key": "54142",
+      "songName": "Backstreet bounce",
+      "hash": "f83ffe5aa44392776943b5ff045c22ceecada16e",
+      "levelid": "custom_level_f83ffe5aa44392776943b5ff045c22ceecada16e"
+    },
+    {
+      "key": "54141",
+      "songName": "【東方】Demetori - 二色蓮花蝶 ～ Red, White and Black Butterfly",
+      "hash": "61b975dc60a4817e894c0df5641f87e0bc1370a7",
+      "levelid": "custom_level_61b975dc60a4817e894c0df5641f87e0bc1370a7"
+    },
+    {
+      "key": "5413f",
+      "songName": "Kyutatsuki - Null Distance",
+      "hash": "fcedeba2aae332326088d3acfaa60ddb84f1a732",
+      "levelid": "custom_level_fcedeba2aae332326088d3acfaa60ddb84f1a732"
+    },
+    {
+      "key": "5413e",
+      "songName": "ふたつの木馬-KIKUO",
+      "hash": "c675a8d6180a014742eebb38bf40d70f3e2b237a",
+      "levelid": "custom_level_c675a8d6180a014742eebb38bf40d70f3e2b237a"
+    },
+    {
+      "key": "54135",
+      "songName": "fusq - Suiito",
+      "hash": "50f3dc13151234b46c8ef481117806ba97058572",
+      "levelid": "custom_level_50f3dc13151234b46c8ef481117806ba97058572"
+    },
+    {
+      "key": "54136",
+      "songName": "heavens",
+      "hash": "cf92a187d70b832fc334be130cf4270f32823c33",
+      "levelid": "custom_level_cf92a187d70b832fc334be130cf4270f32823c33"
+    },
+    {
+      "key": "54134",
+      "songName": "Every Lifetime (Poodle and bloqs)",
+      "hash": "f57869fbbbea2769468d0db5efc70a5b2e3512ed",
+      "levelid": "custom_level_f57869fbbbea2769468d0db5efc70a5b2e3512ed"
+    },
+    {
+      "key": "54133",
+      "songName": " Parry Gripp - It’s Raining Tacos",
+      "hash": "7a9bb4eac03d24593687831919eb96824f38e30b",
+      "levelid": "custom_level_7a9bb4eac03d24593687831919eb96824f38e30b"
+    },
+    {
+      "key": "5412f",
+      "songName": "LOST",
+      "hash": "e3cb54f5f12fc72ed051194f68ed38bade24ce6d",
+      "levelid": "custom_level_e3cb54f5f12fc72ed051194f68ed38bade24ce6d"
+    },
+    {
+      "key": "5412d",
+      "songName": "Lemm - Chronoër∆ (feat. Hanakuma Chifuyu)",
+      "hash": "f164bdc2c7db7caa0683bdc4bcf536e966797894",
+      "levelid": "custom_level_f164bdc2c7db7caa0683bdc4bcf536e966797894"
+    },
+    {
+      "key": "5412a",
+      "songName": "Aliyah's Interlude - IT GIRL",
+      "hash": "cc766cab26f482e286bf7b04461fb44e598f5a90",
+      "levelid": "custom_level_cc766cab26f482e286bf7b04461fb44e598f5a90"
+    },
+    {
+      "key": "54129",
+      "songName": "DJ Frostfur - Little Raver Bunny",
+      "hash": "f6cd82c09c3fc3667f2ac350ea4ac0ab5dea27de",
+      "levelid": "custom_level_f6cd82c09c3fc3667f2ac350ea4ac0ab5dea27de"
+    },
+    {
       "key": "54122",
       "songName": " beabadoobee - All I Did Was Dream of You (feat. The Marías)",
-      "hash": "de11e71232d9fdd5b372ff61da7cfd7cde94f244",
-      "levelid": "custom_level_de11e71232d9fdd5b372ff61da7cfd7cde94f244"
-    },
-    {
-      "key": "53fc6",
-      "songName": "Dynasty - MIIA - Vivify (Original!!!)",
-      "hash": "4029b19fbd881888573362d083a32cb33a573746",
-      "levelid": "custom_level_4029b19fbd881888573362d083a32cb33a573746"
-    },
-    {
-      "key": "5411f",
-      "songName": "隷獣 ",
-      "hash": "ee9c632497ecfad70761399551df82a3e5ffd6d3",
-      "levelid": "custom_level_ee9c632497ecfad70761399551df82a3e5ffd6d3"
-    },
-    {
-      "key": "5411b",
-      "songName": "Wonderlands x Showtime - Seibai ItaAAAAAsu!",
-      "hash": "c8218dedcd0ffa5c1285a3d77e6db4d4d4226497",
-      "levelid": "custom_level_c8218dedcd0ffa5c1285a3d77e6db4d4d4226497"
-    },
-    {
-      "key": "5411e",
-      "songName": "Grandma Brownie's Chocolate Chunker Wunker Bunkers",
-      "hash": "ae31709d049558dfb496bc81b790fd24c8005037",
-      "levelid": "custom_level_ae31709d049558dfb496bc81b790fd24c8005037"
-    },
-    {
-      "key": "5411d",
-      "songName": "ニュジ波辰爾 - マッチョ・ドラゴン×ETA",
-      "hash": "05a5e375a191a4705ee65fa318a79b5edc7fcfa4",
-      "levelid": "custom_level_05a5e375a191a4705ee65fa318a79b5edc7fcfa4"
-    },
-    {
-      "key": "5411a",
-      "songName": "caramel ribbon cursetard (〈物語〉シリーズ オフ&モンスターシーズン 撫物語 OP)",
-      "hash": "df4e3a90f9a6e694931b95ac4093b56a9fe6e00d",
-      "levelid": "custom_level_df4e3a90f9a6e694931b95ac4093b56a9fe6e00d"
-    },
-    {
-      "key": "54117",
-      "songName": "Korvath - All night",
-      "hash": "25453a4791cbb3cd5b333b475dd5091f404205a7",
-      "levelid": "custom_level_25453a4791cbb3cd5b333b475dd5091f404205a7"
-    },
-    {
-      "key": "540ce",
-      "songName": "TRAP CHICK - Approve please, Genie! (feat. Kasane Teto, Otomachi Una)",
-      "hash": "f18563c4e573398754c471911ae1ab996e528aa2",
-      "levelid": "custom_level_f18563c4e573398754c471911ae1ab996e528aa2"
-    },
-    {
-      "key": "54112",
-      "songName": "Dave and Bambi - Wasteland",
-      "hash": "ffe86cb0db103d5288e7c18baeda6023a6e765fa",
-      "levelid": "custom_level_ffe86cb0db103d5288e7c18baeda6023a6e765fa"
-    },
-    {
-      "key": "54111",
-      "songName": "Ririsa Amano (CV: Kaori Maeda) & Mikari Tachibana (CV: Akari Kito) - Watch Me • 天乃リリサ (CV: 前田佳織里) & 橘美花莉 (CV: 鬼頭明里) - Watch Me",
-      "hash": "d6f2ba284aea047dd9a2bb3522b21bd0fce7bb90",
-      "levelid": "custom_level_d6f2ba284aea047dd9a2bb3522b21bd0fce7bb90"
-    },
-    {
-      "key": "5410d",
-      "songName": "For U",
-      "hash": "932b27af1fc0b733c6109249564e4d2dc0c77dfa",
-      "levelid": "custom_level_932b27af1fc0b733c6109249564e4d2dc0c77dfa"
-    },
-    {
-      "key": "5410c",
-      "songName": "KILLMATTER - FLINSTONED FUCKERY",
-      "hash": "a4bd9db9eeb6044f49dedaa24896f9fcbca5fdd6",
-      "levelid": "custom_level_a4bd9db9eeb6044f49dedaa24896f9fcbca5fdd6"
-    },
-    {
-      "key": "5410b",
-      "songName": ".l",
-      "hash": "2b277090b4fab721b4b4da05d74d21c836927f04",
-      "levelid": "custom_level_2b277090b4fab721b4b4da05d74d21c836927f04"
-    },
-    {
-      "key": "5410a",
-      "songName": "Aira - Memoria / Hatsune Miku",
-      "hash": "9300430c164bac8842f26b65ccfdb054fe21fc7c",
-      "levelid": "custom_level_9300430c164bac8842f26b65ccfdb054fe21fc7c"
-    },
-    {
-      "key": "54108",
-      "songName": "Zubin - Hospital Garden",
-      "hash": "282686e53c64c6f6ff3f73e69cc8d62c9c66139d",
-      "levelid": "custom_level_282686e53c64c6f6ff3f73e69cc8d62c9c66139d"
-    },
-    {
-      "key": "54107",
-      "songName": "Fuck no",
-      "hash": "66ad59da733aeb9096f81571d348eb47a57c51c0",
-      "levelid": "custom_level_66ad59da733aeb9096f81571d348eb47a57c51c0"
-    },
-    {
-      "key": "54104",
-      "songName": "fingys ultimate harsh streams challenge v4",
-      "hash": "38b12077a2dfb66c000f7368c6d8b99b9f13d3cc",
-      "levelid": "custom_level_38b12077a2dfb66c000f7368c6d8b99b9f13d3cc"
-    },
-    {
-      "key": "540ff",
-      "songName": "what is this beat saber song tho #beatsaber",
-      "hash": "b3e8d045dbe904a60c6121824705a73c94027e54",
-      "levelid": "custom_level_b3e8d045dbe904a60c6121824705a73c94027e54"
-    },
-    {
-      "key": "540fd",
-      "songName": "Star Color Pendant! Color Charge!",
-      "hash": "4a23472b0b99f676d689cafa1dfa75a377b21a01",
-      "levelid": "custom_level_4a23472b0b99f676d689cafa1dfa75a377b21a01"
-    },
-    {
-      "key": "540f5",
-      "songName": "rialce",
-      "hash": "9a92b83a68111e051a07b2616438dca1fdea23aa",
-      "levelid": "custom_level_9a92b83a68111e051a07b2616438dca1fdea23aa"
-    },
-    {
-      "key": "540f3",
-      "songName": "Make It POP!",
-      "hash": "83ea58c89d60aeaec5173c5e397ffe9cfe4f7a4e",
-      "levelid": "custom_level_83ea58c89d60aeaec5173c5e397ffe9cfe4f7a4e"
-    },
-    {
-      "key": "540ac",
-      "songName": "Forsaken - big trolling",
-      "hash": "bebf78a628f54a5cefded858bb2f2594e8aa5d9b",
-      "levelid": "custom_level_bebf78a628f54a5cefded858bb2f2594e8aa5d9b"
-    },
-    {
-      "key": "540f0",
-      "songName": "The Quick Brown Fox - Break (impossible shitpost number 4)",
-      "hash": "51acca17d08364d47d9e8007391c64a623e1a6eb",
-      "levelid": "custom_level_51acca17d08364d47d9e8007391c64a623e1a6eb"
-    },
-    {
-      "key": "540ee",
-      "songName": "Kishlak - Ej",
-      "hash": "241802b41f4b02ad38f3cc149104c05db61d9774",
-      "levelid": "custom_level_241802b41f4b02ad38f3cc149104c05db61d9774"
-    },
-    {
-      "key": "540ec",
-      "songName": "YURUSHITE",
-      "hash": "4ece62cda5c368176e94395b73635b2c0dd516ef",
-      "levelid": "custom_level_4ece62cda5c368176e94395b73635b2c0dd516ef"
-    },
-    {
-      "key": "540e8",
-      "songName": "r300k - King's Tomb",
-      "hash": "23f9656690864c3b92286729736cf8d54e224a1a",
-      "levelid": "custom_level_23f9656690864c3b92286729736cf8d54e224a1a"
-    },
-    {
-      "key": "540e7",
-      "songName": "KiiiKiii - 404 (New Era)",
-      "hash": "c0a8e9dae854c51d766778cfb6e088f9d8b0d8d7",
-      "levelid": "custom_level_c0a8e9dae854c51d766778cfb6e088f9d8b0d8d7"
-    },
-    {
-      "key": "540e6",
-      "songName": "Hexagonal Diamonds",
-      "hash": "86adec663b0435671141a8e2e8d1f9b221b4173a",
-      "levelid": "custom_level_86adec663b0435671141a8e2e8d1f9b221b4173a"
-    },
-    {
-      "key": "540e5",
-      "songName": "XNOR XNOR XNOR | Wood",
-      "hash": "fa9ea3ef5e63631b49b3d4a7c43c21950fc06f41",
-      "levelid": "custom_level_fa9ea3ef5e63631b49b3d4a7c43c21950fc06f41"
-    },
-    {
-      "key": "540e3",
-      "songName": "There Is A Cat In The Hat Serial Killer👀👌",
-      "hash": "85da67a03ada784d3b5229e963ef1547d1c8aff2",
-      "levelid": "custom_level_85da67a03ada784d3b5229e963ef1547d1c8aff2"
-    },
-    {
-      "key": "540e1",
-      "songName": "YOASOBI - Idol (Aries Shephard EDM Remix)",
-      "hash": "e2e74bf23e98c11722734fe75ce5c24934b1032e",
-      "levelid": "custom_level_e2e74bf23e98c11722734fe75ce5c24934b1032e"
-    },
-    {
-      "key": "540e0",
-      "songName": "BEST FRIEND - d4vd",
-      "hash": "abaf148a4285ca8069404ecd9c6adec61791cef7",
-      "levelid": "custom_level_abaf148a4285ca8069404ecd9c6adec61791cef7"
-    },
-    {
-      "key": "530eb",
-      "songName": "Muscadine Bloodline - Me On You",
-      "hash": "a1c5fdc9e0d4641b57285db0c86ee1e8e4225357",
-      "levelid": "custom_level_a1c5fdc9e0d4641b57285db0c86ee1e8e4225357"
-    },
-    {
-      "key": "52d30",
-      "songName": "Post Malone, ERNEST - Devil I've Been",
-      "hash": "2ae68bd30e4dd788f8c6eef8542dea686ad45518",
-      "levelid": "custom_level_2ae68bd30e4dd788f8c6eef8542dea686ad45518"
-    },
-    {
-      "key": "52c96",
-      "songName": "Ella Langley - Choosin' Texas",
-      "hash": "2219c75b88ab854e908e511bc903caa9797d5356",
-      "levelid": "custom_level_2219c75b88ab854e908e511bc903caa9797d5356"
-    },
-    {
-      "key": "52c36",
-      "songName": "Russell Dickerson, Fetty Wap - Boots",
-      "hash": "078d0c9c27d5abc2a62a0cfa102cebff796e4445",
-      "levelid": "custom_level_078d0c9c27d5abc2a62a0cfa102cebff796e4445"
-    },
-    {
-      "key": "52c2d",
-      "songName": "Morgan Wallen - Drinkin' Til It Does",
-      "hash": "db217a157f244bd91e068ed9b3fb850cf27e70c1",
-      "levelid": "custom_level_db217a157f244bd91e068ed9b3fb850cf27e70c1"
-    },
-    {
-      "key": "538e4",
-      "songName": "ERNEST - Sayin' You Love Me",
-      "hash": "c18702eb673aef250904a6f7db9c222d788d37ab",
-      "levelid": "custom_level_c18702eb673aef250904a6f7db9c222d788d37ab"
-    },
-    {
-      "key": "538ca",
-      "songName": "BOI WHAT - Rock Bottom",
-      "hash": "206197e15678c50951e2d542e6e5eec97c9a4fcb",
-      "levelid": "custom_level_206197e15678c50951e2d542e6e5eec97c9a4fcb"
+      "hash": "7061ac94f746cac2dab6c0185b1d86b0986aa2f6",
+      "levelid": "custom_level_7061ac94f746cac2dab6c0185b1d86b0986aa2f6"
     }
   ],
   "image": ""
