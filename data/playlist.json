@@ -1,178 +1,190 @@
 {
-  "playlistTitle": "2026-09-03T15:18:48.298Z~2026-09-04T15:18:48.298Z",
+  "playlistTitle": "2026-09-04T15:18:48.712Z~2026-09-05T15:18:48.712Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-09-03T15:18:48.298Z and 2026-09-04T15:18:48.298Z",
+  "discripstion": "Maps published between 2026-09-04T15:18:48.712Z and 2026-09-05T15:18:48.712Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "5417b",
-      "songName": "Stasis",
-      "hash": "4f0f00159edd1d1381da859bdcdbe05005009360",
-      "levelid": "custom_level_4f0f00159edd1d1381da859bdcdbe05005009360"
+      "key": "541c7",
+      "songName": "Battlejuice - Low Life On The Highway (My Friend Pedro OST)",
+      "hash": "86b0aa7ee54553c8009dd20b79537b03a62e5c33",
+      "levelid": "custom_level_86b0aa7ee54553c8009dd20b79537b03a62e5c33"
     },
     {
-      "key": "5417a",
-      "songName": "Vine Boom",
-      "hash": "274e5e0bd0dc553f4fd519072cfe4548dd1d4797",
-      "levelid": "custom_level_274e5e0bd0dc553f4fd519072cfe4548dd1d4797"
+      "key": "541c2",
+      "songName": "Torch",
+      "hash": "7f99789564281ceed5cf67e65c69b6f15264365c",
+      "levelid": "custom_level_7f99789564281ceed5cf67e65c69b6f15264365c"
     },
     {
-      "key": "54173",
-      "songName": "Thumbsiery",
-      "hash": "48115cf7e9e4e9aaae16fdef37b7591fd45e7dd2",
-      "levelid": "custom_level_48115cf7e9e4e9aaae16fdef37b7591fd45e7dd2"
+      "key": "541bf",
+      "songName": "beabadoobee - Lovesong",
+      "hash": "90824076810f32f2e43d72553acbf8b7404a66e0",
+      "levelid": "custom_level_90824076810f32f2e43d72553acbf8b7404a66e0"
     },
     {
-      "key": "54172",
-      "songName": "Thumb Away",
-      "hash": "2401cdba61f6b4efc1f50484a032189ce349f949",
-      "levelid": "custom_level_2401cdba61f6b4efc1f50484a032189ce349f949"
+      "key": "5331e",
+      "songName": "TAKO∞TAKOVER - Ninomae Ina'nis",
+      "hash": "0a3935ebd15839cc39ab07a2697e32c487394f02",
+      "levelid": "custom_level_0a3935ebd15839cc39ab07a2697e32c487394f02"
     },
     {
-      "key": "54171",
-      "songName": "Metal Pipe",
-      "hash": "25176340765912371185919be80973a85dd9d3c5",
-      "levelid": "custom_level_25176340765912371185919be80973a85dd9d3c5"
+      "key": "541b9",
+      "songName": "PSI-missing (とある魔術の禁書目録 OP)",
+      "hash": "1efab10535d8c54d607eb6405e893af2719099b3",
+      "levelid": "custom_level_1efab10535d8c54d607eb6405e893af2719099b3"
     },
     {
-      "key": "5416f",
-      "songName": "mosi mosi? - 楽音",
-      "hash": "39a32795878953943d8adec3cbf53b7c63947d7f",
-      "levelid": "custom_level_39a32795878953943d8adec3cbf53b7c63947d7f"
+      "key": "541b8",
+      "songName": "Thinking Of",
+      "hash": "3026dfa810ecb95e6278a48d26f592a22d31c892",
+      "levelid": "custom_level_3026dfa810ecb95e6278a48d26f592a22d31c892"
     },
     {
-      "key": "54166",
-      "songName": "UNDEAD (〈物語〉シリーズ オフ&モンスターシーズン ED)",
-      "hash": "58049ac843be72fc8897e0ebab3ac6f5eb822689",
-      "levelid": "custom_level_58049ac843be72fc8897e0ebab3ac6f5eb822689"
+      "key": "541b7",
+      "songName": "popstar",
+      "hash": "74fdfb0cb3cbf0c0b6d6ef137f39348950c96b9d",
+      "levelid": "custom_level_74fdfb0cb3cbf0c0b6d6ef137f39348950c96b9d"
     },
     {
-      "key": "54161",
-      "songName": "TS7 x K Dot - Send It",
-      "hash": "c8dbc8e0c5800249d479ca72fcfdcc59754c8250",
-      "levelid": "custom_level_c8dbc8e0c5800249d479ca72fcfdcc59754c8250"
+      "key": "541b5",
+      "songName": "A・ZU・NA - Monochrome Labyrinth",
+      "hash": "7ee90987c10a6e1f9577f60974c97f50232e6942",
+      "levelid": "custom_level_7ee90987c10a6e1f9577f60974c97f50232e6942"
     },
     {
-      "key": "5415f",
-      "songName": "[MapSaber] Camellia - Berzerkerz' Warfare 345",
-      "hash": "3fce3c4ce107ab82e4824a2f7ec78637ee7c235b",
-      "levelid": "custom_level_3fce3c4ce107ab82e4824a2f7ec78637ee7c235b"
+      "key": "541b3",
+      "songName": "Swedish House Mafia - Another Minute",
+      "hash": "631b8b68ac92e7c8aee291f0daa9621f7a6e2a2d",
+      "levelid": "custom_level_631b8b68ac92e7c8aee291f0daa9621f7a6e2a2d"
     },
     {
-      "key": "54156",
-      "songName": "Turbo - Black Cat",
-      "hash": "6f28347b6650ffde540ba340c0de82783eaa5b38",
-      "levelid": "custom_level_6f28347b6650ffde540ba340c0de82783eaa5b38"
+      "key": "54181",
+      "songName": "tuki. - ひゅるりらぱっぱ",
+      "hash": "d10131f792038213da7b51a3f371b3c76e32e269",
+      "levelid": "custom_level_d10131f792038213da7b51a3f371b3c76e32e269"
     },
     {
-      "key": "54149",
-      "songName": "[Feetsaber]Dragostea Din Tei",
-      "hash": "3d4b0c26914fa60a7927cddd4f8c196afdfff964",
-      "levelid": "custom_level_3d4b0c26914fa60a7927cddd4f8c196afdfff964"
+      "key": "541ad",
+      "songName": "[200 map special] It Runs Through Me - Tom Misch (feat. De La Soul)",
+      "hash": "352bc7b0c3198cc936488568f75236365a20cf64",
+      "levelid": "custom_level_352bc7b0c3198cc936488568f75236365a20cf64"
     },
     {
-      "key": "54147",
-      "songName": "testing testing testing",
-      "hash": "72e7223a0c8f0a5aaf75ef4d993a44fb4c2ccd8b",
-      "levelid": "custom_level_72e7223a0c8f0a5aaf75ef4d993a44fb4c2ccd8b"
+      "key": "540fc",
+      "songName": "Eccentric - Fusion Machine (VIP)",
+      "hash": "bae048e621b7c66bdfa820a1af67cb53aa589187",
+      "levelid": "custom_level_bae048e621b7c66bdfa820a1af67cb53aa589187"
     },
     {
-      "key": "54146",
-      "songName": "Raya",
-      "hash": "c2d8d916129f14333bd72be297b33eda1c80325a",
-      "levelid": "custom_level_c2d8d916129f14333bd72be297b33eda1c80325a"
+      "key": "541ab",
+      "songName": "117starFC - DAME TU COSITA",
+      "hash": "330785c818934631d4828c211943f50ad6c76839",
+      "levelid": "custom_level_330785c818934631d4828c211943f50ad6c76839"
     },
     {
-      "key": "54145",
-      "songName": "No way this meme is already dead bro",
-      "hash": "77e3b7f844999b730df5d07bf00b926f2d5a1eb3",
-      "levelid": "custom_level_77e3b7f844999b730df5d07bf00b926f2d5a1eb3"
+      "key": "541a5",
+      "songName": "Tisoki & Control Freak - SHOOT 2 KILL",
+      "hash": "33adf099e9ece578b4570be533a64ba0cd5b83fe",
+      "levelid": "custom_level_33adf099e9ece578b4570be533a64ba0cd5b83fe"
     },
     {
-      "key": "54144",
-      "songName": "Isabel - Will My Heart Survive (Nightcore Mix)",
-      "hash": "a7a5ac3088d16e799cf232034a76281d07c76173",
-      "levelid": "custom_level_a7a5ac3088d16e799cf232034a76281d07c76173"
+      "key": "541a0",
+      "songName": "GRIMACE-CG5",
+      "hash": "bb96d256cb909f1961440d15f659ed09ee0de565",
+      "levelid": "custom_level_bb96d256cb909f1961440d15f659ed09ee0de565"
     },
     {
-      "key": "54142",
-      "songName": "Backstreet bounce",
-      "hash": "f83ffe5aa44392776943b5ff045c22ceecada16e",
-      "levelid": "custom_level_f83ffe5aa44392776943b5ff045c22ceecada16e"
+      "key": "5419a",
+      "songName": "Knife In My Back (test)",
+      "hash": "b6e54cca35560f1f0307666172be094185784dfc",
+      "levelid": "custom_level_b6e54cca35560f1f0307666172be094185784dfc"
     },
     {
-      "key": "54141",
-      "songName": "【東方】Demetori - 二色蓮花蝶 ～ Red, White and Black Butterfly",
-      "hash": "61b975dc60a4817e894c0df5641f87e0bc1370a7",
-      "levelid": "custom_level_61b975dc60a4817e894c0df5641f87e0bc1370a7"
+      "key": "54199",
+      "songName": "Joe's Rap",
+      "hash": "835c8728befd0af9d90250657a21bee5b8d900ae",
+      "levelid": "custom_level_835c8728befd0af9d90250657a21bee5b8d900ae"
     },
     {
-      "key": "5413f",
-      "songName": "Kyutatsuki - Null Distance",
-      "hash": "fcedeba2aae332326088d3acfaa60ddb84f1a732",
-      "levelid": "custom_level_fcedeba2aae332326088d3acfaa60ddb84f1a732"
+      "key": "54197",
+      "songName": "Where is this from",
+      "hash": "b94f4b554e20a14bb1d40579ae34f706e947ad11",
+      "levelid": "custom_level_b94f4b554e20a14bb1d40579ae34f706e947ad11"
     },
     {
-      "key": "5413e",
-      "songName": "ふたつの木馬-KIKUO",
-      "hash": "c675a8d6180a014742eebb38bf40d70f3e2b237a",
-      "levelid": "custom_level_c675a8d6180a014742eebb38bf40d70f3e2b237a"
+      "key": "5418f",
+      "songName": "eastin pooki bear",
+      "hash": "f2d1483d4650edff6342f2089a6516e58b228c45",
+      "levelid": "custom_level_f2d1483d4650edff6342f2089a6516e58b228c45"
     },
     {
-      "key": "54135",
-      "songName": "fusq - Suiito",
-      "hash": "50f3dc13151234b46c8ef481117806ba97058572",
-      "levelid": "custom_level_50f3dc13151234b46c8ef481117806ba97058572"
+      "key": "5418e",
+      "songName": "Finale 3",
+      "hash": "0aed87fee63875c593fdbe7f40baa4a6fdc3ad6c",
+      "levelid": "custom_level_0aed87fee63875c593fdbe7f40baa4a6fdc3ad6c"
     },
     {
-      "key": "54136",
-      "songName": "heavens",
-      "hash": "cf92a187d70b832fc334be130cf4270f32823c33",
-      "levelid": "custom_level_cf92a187d70b832fc334be130cf4270f32823c33"
+      "key": "5418d",
+      "songName": "ucanonlygetthisfeelingfromakid",
+      "hash": "7ad00cade63253259334cdcb3c8f7b79b785dcff",
+      "levelid": "custom_level_7ad00cade63253259334cdcb3c8f7b79b785dcff"
     },
     {
-      "key": "54134",
-      "songName": "Every Lifetime (Poodle and bloqs)",
-      "hash": "f57869fbbbea2769468d0db5efc70a5b2e3512ed",
-      "levelid": "custom_level_f57869fbbbea2769468d0db5efc70a5b2e3512ed"
+      "key": "5418c",
+      "songName": "astral blossim",
+      "hash": "e37772c9fb311ce7b9d7c4b7ad0c7124dfd2b3b1",
+      "levelid": "custom_level_e37772c9fb311ce7b9d7c4b7ad0c7124dfd2b3b1"
     },
     {
-      "key": "54133",
-      "songName": " Parry Gripp - It’s Raining Tacos",
-      "hash": "7a9bb4eac03d24593687831919eb96824f38e30b",
-      "levelid": "custom_level_7a9bb4eac03d24593687831919eb96824f38e30b"
+      "key": "5418a",
+      "songName": "t+pazolite vs P*Light - IZANA ",
+      "hash": "f481bde00b7c5f5b54877603ee93ed3f1575a2c3",
+      "levelid": "custom_level_f481bde00b7c5f5b54877603ee93ed3f1575a2c3"
     },
     {
-      "key": "5412f",
-      "songName": "LOST",
-      "hash": "e3cb54f5f12fc72ed051194f68ed38bade24ce6d",
-      "levelid": "custom_level_e3cb54f5f12fc72ed051194f68ed38bade24ce6d"
+      "key": "54189",
+      "songName": "Schwarzer Himmel",
+      "hash": "35b2875c2d07913df257c26b336bbfc5098b2cb7",
+      "levelid": "custom_level_35b2875c2d07913df257c26b336bbfc5098b2cb7"
     },
     {
-      "key": "5412d",
-      "songName": "Lemm - Chronoër∆ (feat. Hanakuma Chifuyu)",
-      "hash": "f164bdc2c7db7caa0683bdc4bcf536e966797894",
-      "levelid": "custom_level_f164bdc2c7db7caa0683bdc4bcf536e966797894"
+      "key": "54188",
+      "songName": "Crim Nanakusa - Pastascat ft. Nanahira",
+      "hash": "0bb6eaeac6ae4798f6546b8f4c5ea8372203f8d9",
+      "levelid": "custom_level_0bb6eaeac6ae4798f6546b8f4c5ea8372203f8d9"
     },
     {
-      "key": "5412a",
-      "songName": "Aliyah's Interlude - IT GIRL",
-      "hash": "cc766cab26f482e286bf7b04461fb44e598f5a90",
-      "levelid": "custom_level_cc766cab26f482e286bf7b04461fb44e598f5a90"
+      "key": "54186",
+      "songName": "Reaction Video Dream",
+      "hash": "31abe3625999a17662d598f3c08af5f6e5e4e26c",
+      "levelid": "custom_level_31abe3625999a17662d598f3c08af5f6e5e4e26c"
     },
     {
-      "key": "54129",
-      "songName": "DJ Frostfur - Little Raver Bunny",
-      "hash": "f6cd82c09c3fc3667f2ac350ea4ac0ab5dea27de",
-      "levelid": "custom_level_f6cd82c09c3fc3667f2ac350ea4ac0ab5dea27de"
+      "key": "54185",
+      "songName": "timbaland / has a meaning",
+      "hash": "ff5be01a4fbdb3765967b98805719cbf759cf66b",
+      "levelid": "custom_level_ff5be01a4fbdb3765967b98805719cbf759cf66b"
     },
     {
-      "key": "54122",
-      "songName": " beabadoobee - All I Did Was Dream of You (feat. The Marías)",
-      "hash": "7061ac94f746cac2dab6c0185b1d86b0986aa2f6",
-      "levelid": "custom_level_7061ac94f746cac2dab6c0185b1d86b0986aa2f6"
+      "key": "54184",
+      "songName": "Say Something - Lucas & Steve, RetroVision",
+      "hash": "2fdfe9b2bc7fe4f9a930748fd314b9ad20265373",
+      "levelid": "custom_level_2fdfe9b2bc7fe4f9a930748fd314b9ad20265373"
+    },
+    {
+      "key": "5417f",
+      "songName": " Door there is a door i was a door",
+      "hash": "5da64588a8ccaee4ca0cc80c101d7d2ec6af286c",
+      "levelid": "custom_level_5da64588a8ccaee4ca0cc80c101d7d2ec6af286c"
+    },
+    {
+      "key": "5417c",
+      "songName": "Pellek - 「Wandering The Romantic Road」 (Skeleton Knight In Another World OP 2)",
+      "hash": "24bcf3f4a47e15cbaad54c35fc38eed25a42b9c3",
+      "levelid": "custom_level_24bcf3f4a47e15cbaad54c35fc38eed25a42b9c3"
     }
   ],
   "image": ""
