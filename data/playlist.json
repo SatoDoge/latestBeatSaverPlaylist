@@ -1,244 +1,184 @@
 {
-  "playlistTitle": "2026-09-06T15:18:48.085Z~2026-09-07T15:18:48.085Z",
+  "playlistTitle": "2026-09-07T15:18:48.321Z~2026-09-08T15:18:48.321Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-09-06T15:18:48.085Z and 2026-09-07T15:18:48.085Z",
+  "discripstion": "Maps published between 2026-09-07T15:18:48.321Z and 2026-09-08T15:18:48.321Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "542d6",
-      "songName": "Figli D'arte",
-      "hash": "1cc7b425e4f5a48d96735d83e58d143f181b2720",
-      "levelid": "custom_level_1cc7b425e4f5a48d96735d83e58d143f181b2720"
+      "key": "54318",
+      "songName": "[★★★] DJ Raisei & RYOQUCHA - ☆Toki no Tabibito☆ (feat.重音テト)",
+      "hash": "2f2e7f384617ed8cf425fd968be4ba14e3ac663d",
+      "levelid": "custom_level_2f2e7f384617ed8cf425fd968be4ba14e3ac663d"
     },
     {
-      "key": "542c5",
-      "songName": "Chroma - sink to the deep sea world",
-      "hash": "0692e320ba0cf55db6f5eaa17de1336aad6cb116",
-      "levelid": "custom_level_0692e320ba0cf55db6f5eaa17de1336aad6cb116"
+      "key": "54368",
+      "songName": "Butaotome - Gekokujoujou",
+      "hash": "a3dab91925d20219f46ae0171a1279e7bcf92304",
+      "levelid": "custom_level_a3dab91925d20219f46ae0171a1279e7bcf92304"
     },
     {
-      "key": "542c4",
-      "songName": "空之下",
-      "hash": "42a239b264213af88813c56c6c307382311f32bd",
-      "levelid": "custom_level_42a239b264213af88813c56c6c307382311f32bd"
+      "key": "54369",
+      "songName": "Always Look On The Bright Side Of Life",
+      "hash": "887db1873e28ac332752acb3bd904b9e77936c19",
+      "levelid": "custom_level_887db1873e28ac332752acb3bd904b9e77936c19"
     },
     {
-      "key": "542c0",
-      "songName": "My Shirt ",
-      "hash": "9ef8072d4884ca91f2316cef5424409a6c202e90",
-      "levelid": "custom_level_9ef8072d4884ca91f2316cef5424409a6c202e90"
+      "key": "54367",
+      "songName": "Martin rose",
+      "hash": "fc0c92086f6a9f9136564366b405e19994501a24",
+      "levelid": "custom_level_fc0c92086f6a9f9136564366b405e19994501a24"
     },
     {
-      "key": "542b6",
-      "songName": "masterpiece (とある魔術の禁書目録 OP2)",
-      "hash": "c123541214a7843725d78108e6f4c7ea7528fd96",
-      "levelid": "custom_level_c123541214a7843725d78108e6f4c7ea7528fd96"
+      "key": "54366",
+      "songName": "Chud",
+      "hash": "237dabde741b6d1b26950ee437f8baa5396929e8",
+      "levelid": "custom_level_237dabde741b6d1b26950ee437f8baa5396929e8"
     },
     {
-      "key": "542b5",
-      "songName": "Beans",
-      "hash": "d5de0101594e4b85cc1912b9c29a3050b32e20e1",
-      "levelid": "custom_level_d5de0101594e4b85cc1912b9c29a3050b32e20e1"
+      "key": "54359",
+      "songName": "Pigeon 2",
+      "hash": "15f79082328f89022b843c69542aa9cfb01ade31",
+      "levelid": "custom_level_15f79082328f89022b843c69542aa9cfb01ade31"
     },
     {
-      "key": "542b3",
-      "songName": "Wasted Love (Aejisei Remix)",
-      "hash": "77a36b7a7575cdbd4ed32c8348149c44b18a47f0",
-      "levelid": "custom_level_77a36b7a7575cdbd4ed32c8348149c44b18a47f0"
+      "key": "54358",
+      "songName": "誓い言〜スコシだけもう一度〜 (とある魔術の禁書目録 ED2)",
+      "hash": "315c022217c6ee2616aa5559bc3701b1b3c9b8c8",
+      "levelid": "custom_level_315c022217c6ee2616aa5559bc3701b1b3c9b8c8"
     },
     {
-      "key": "542b1",
-      "songName": "CANVAS feat. Quimar - Carmina (fallen shepherd Remix)",
-      "hash": "8f2e6b79c9b0a573f1766bdb8df0deb7f9d11ef6",
-      "levelid": "custom_level_8f2e6b79c9b0a573f1766bdb8df0deb7f9d11ef6"
+      "key": "5431e",
+      "songName": "Crawling - Unlike Pluto",
+      "hash": "3b19afe836bd472810e792d122b200647a0ca271",
+      "levelid": "custom_level_3b19afe836bd472810e792d122b200647a0ca271"
     },
     {
-      "key": "542b0",
-      "songName": "too much dressing",
-      "hash": "9e28ac5497a201da585a66575225df6ed930f3f9",
-      "levelid": "custom_level_9e28ac5497a201da585a66575225df6ed930f3f9"
+      "key": "5431c",
+      "songName": "duodecimal sunset",
+      "hash": "f8ead6cd233fff06be6c265093568abd571ef3a3",
+      "levelid": "custom_level_f8ead6cd233fff06be6c265093568abd571ef3a3"
     },
     {
-      "key": "542ab",
-      "songName": "雄之助/Yunosuke - [夢ノ結唱] Freak Out Hr.",
-      "hash": "02fd51947f3c39e454ba019bcf11268ce1756adb",
-      "levelid": "custom_level_02fd51947f3c39e454ba019bcf11268ce1756adb"
+      "key": "5431b",
+      "songName": "no choice",
+      "hash": "b043995d55a3887b16e4664acaba4ea393eaf754",
+      "levelid": "custom_level_b043995d55a3887b16e4664acaba4ea393eaf754"
     },
     {
-      "key": "542ac",
-      "songName": "Boys",
-      "hash": "a768ac16f0f37cc97a2f3116cda93e4e940eed63",
-      "levelid": "custom_level_a768ac16f0f37cc97a2f3116cda93e4e940eed63"
+      "key": "54319",
+      "songName": "Chud",
+      "hash": "2cbaee650156d47b5fc8e21ea94e63c17ba94af3",
+      "levelid": "custom_level_2cbaee650156d47b5fc8e21ea94e63c17ba94af3"
     },
     {
-      "key": "542a8",
-      "songName": "[VNJS] [MapSaber] sasakure.UK - AMARA (The Great Intelligence) (from \"Project SEKAI\")",
-      "hash": "839136c28fe9a48d9108e68b53a5608ad00a49cb",
-      "levelid": "custom_level_839136c28fe9a48d9108e68b53a5608ad00a49cb"
+      "key": "5430f",
+      "songName": "Boneless wing",
+      "hash": "3f03904a2cf7099f3e9385603ef44b99b25217da",
+      "levelid": "custom_level_3f03904a2cf7099f3e9385603ef44b99b25217da"
     },
     {
-      "key": "542a6",
-      "songName": "matouraty test if you smile you lose",
-      "hash": "d13c63293883359bb0ac349005b85e6f8a572db1",
-      "levelid": "custom_level_d13c63293883359bb0ac349005b85e6f8a572db1"
+      "key": "5430d",
+      "songName": "Micropenis",
+      "hash": "254fc046083535ff0e4f7848c5e8d533cfcc5d85",
+      "levelid": "custom_level_254fc046083535ff0e4f7848c5e8d533cfcc5d85"
     },
     {
-      "key": "542a4",
-      "songName": "MONSTA X - MAGIC",
-      "hash": "4590d12bc136f1928f7ec6b3f5510e09cf0c5728",
-      "levelid": "custom_level_4590d12bc136f1928f7ec6b3f5510e09cf0c5728"
+      "key": "5430c",
+      "songName": "Monster - Meg & Dia",
+      "hash": "ffeb347b296ea29deff167976a7db273af2c2e99",
+      "levelid": "custom_level_ffeb347b296ea29deff167976a7db273af2c2e99"
     },
     {
-      "key": "542a1",
-      "songName": "Schwank - OPEN YOUR 3RD EYE",
-      "hash": "7aeea6d6f24d1a4890554da6bf5ed2ea841b0436",
-      "levelid": "custom_level_7aeea6d6f24d1a4890554da6bf5ed2ea841b0436"
+      "key": "5430a",
+      "songName": "BREAKING NEWS",
+      "hash": "406c46730cf10e6f3be8fb4b182ff13deac28262",
+      "levelid": "custom_level_406c46730cf10e6f3be8fb4b182ff13deac28262"
     },
     {
-      "key": "5429b",
-      "songName": "haunt - song to keep myself from relapsing",
-      "hash": "1f3e6c7b3f1ee7518452de4fea8c26a6cd66f987",
-      "levelid": "custom_level_1f3e6c7b3f1ee7518452de4fea8c26a6cd66f987"
+      "key": "54308",
+      "songName": "kick",
+      "hash": "825ba1c645d7adc329c432e1dfa871309bb05099",
+      "levelid": "custom_level_825ba1c645d7adc329c432e1dfa871309bb05099"
     },
     {
-      "key": "5429e",
-      "songName": "Neverending Night",
-      "hash": "8fb818ed7ec406dbd9eaa77b1f52efa7cc75ff99",
-      "levelid": "custom_level_8fb818ed7ec406dbd9eaa77b1f52efa7cc75ff99"
+      "key": "54307",
+      "songName": "Twerknation28 Believes In Jesus Christ",
+      "hash": "cd419999d70e4910cc5592640a23ca1d2d0319e2",
+      "levelid": "custom_level_cd419999d70e4910cc5592640a23ca1d2d0319e2"
     },
     {
-      "key": "54295",
-      "songName": "Igorrr - Cicadidae",
-      "hash": "6970af2ab8a227582969fee767b9233f754c8414",
-      "levelid": "custom_level_6970af2ab8a227582969fee767b9233f754c8414"
+      "key": "54306",
+      "songName": "I AM NOT A CUTE FEMBOY!!! -w-",
+      "hash": "95a1170bf95329e3cdbf30ca78e2e8b4a5b9e980",
+      "levelid": "custom_level_95a1170bf95329e3cdbf30ca78e2e8b4a5b9e980"
     },
     {
-      "key": "54294",
-      "songName": "my love life needs a lobotomy",
-      "hash": "0b078940aaec03b6129318ad6daf6cb011161657",
-      "levelid": "custom_level_0b078940aaec03b6129318ad6daf6cb011161657"
+      "key": "54304",
+      "songName": "Unslept",
+      "hash": "5ee043c2a8b096d24c910f824c258d6732fd060b",
+      "levelid": "custom_level_5ee043c2a8b096d24c910f824c258d6732fd060b"
     },
     {
-      "key": "54293",
-      "songName": "ericdoa - witchcraft",
-      "hash": "0499686d897f089d4ae18e2099983108a1d77361",
-      "levelid": "custom_level_0499686d897f089d4ae18e2099983108a1d77361"
+      "key": "542fd",
+      "songName": "Renard - ENDLESS QUEER",
+      "hash": "fcccc37d6b80e671b1b67f42bdefc30a461631b8",
+      "levelid": "custom_level_fcccc37d6b80e671b1b67f42bdefc30a461631b8"
     },
     {
-      "key": "54291",
-      "songName": "The Weeknd - Give Me Mercy",
-      "hash": "a590b7fcf680728fb3d74d141dd6b1afc75a93d7",
-      "levelid": "custom_level_a590b7fcf680728fb3d74d141dd6b1afc75a93d7"
+      "key": "542fa",
+      "songName": "Glitch Cat, RXMALIAN, TSVNEO - let you go",
+      "hash": "e437043844cb43785356f42f790c789c7df105e1",
+      "levelid": "custom_level_e437043844cb43785356f42f790c789c7df105e1"
     },
     {
-      "key": "5428f",
-      "songName": "awfulbeat.flac",
-      "hash": "17ea31b66d3e6ac726ca58b2386a9e07502d3ecb",
-      "levelid": "custom_level_17ea31b66d3e6ac726ca58b2386a9e07502d3ecb"
+      "key": "542f7",
+      "songName": "im here for a good time not a long time",
+      "hash": "beae078aeea1ad59c2538a76623fb607213d2619",
+      "levelid": "custom_level_beae078aeea1ad59c2538a76623fb607213d2619"
     },
     {
-      "key": "5428c",
-      "songName": "(616) GURKEY TURKEY HOODTRAP",
-      "hash": "3ad8c4f42d9919857763013bab16f04acd1cfa93",
-      "levelid": "custom_level_3ad8c4f42d9919857763013bab16f04acd1cfa93"
+      "key": "542f2",
+      "songName": "NEXZ - SAUCIN′",
+      "hash": "1b0fb4cb617466ad947e05f86532ca60b67f0cfb",
+      "levelid": "custom_level_1b0fb4cb617466ad947e05f86532ca60b67f0cfb"
     },
     {
-      "key": "54281",
-      "songName": "SLANDER, Spiritbox, Vastive - Under My Skin",
-      "hash": "52b3b33f661ca623da37c27f186c3c8bf10605c5",
-      "levelid": "custom_level_52b3b33f661ca623da37c27f186c3c8bf10605c5"
+      "key": "542f1",
+      "songName": "Kobaryo - New Game Plus",
+      "hash": "ba2a40c16561be8637ec99c87ebed7d8bdff8b52",
+      "levelid": "custom_level_ba2a40c16561be8637ec99c87ebed7d8bdff8b52"
     },
     {
-      "key": "54280",
-      "songName": "[STC2H] Lieless - 911",
-      "hash": "4dfc3bdfc4a7da31a61524ad6e620ae74f817522",
-      "levelid": "custom_level_4dfc3bdfc4a7da31a61524ad6e620ae74f817522"
+      "key": "542f0",
+      "songName": "SZA - F2F",
+      "hash": "44dff257697e419ea2766004acb4f62367626894",
+      "levelid": "custom_level_44dff257697e419ea2766004acb4f62367626894"
     },
     {
-      "key": "5427f",
-      "songName": "[STC2H] Toby Fox - Petal Dance",
-      "hash": "58aac5daf77a18b8cf85ad088b867301952c0e12",
-      "levelid": "custom_level_58aac5daf77a18b8cf85ad088b867301952c0e12"
+      "key": "542e8",
+      "songName": "Fallen Symphony",
+      "hash": "74c891440c2bb5dd361084e60edc2c306e690f8f",
+      "levelid": "custom_level_74c891440c2bb5dd361084e60edc2c306e690f8f"
     },
     {
-      "key": "5427e",
-      "songName": "[STC2H] ROSE - Speed Over Beethoven",
-      "hash": "4fd65779288a9dbcdf28718eaeeb410f2901f477",
-      "levelid": "custom_level_4fd65779288a9dbcdf28718eaeeb410f2901f477"
+      "key": "542e5",
+      "songName": "Five Star Hotel - Parallel Deserts",
+      "hash": "8f8a64f6107e5b549b5db569f7972f4ba81b7abd",
+      "levelid": "custom_level_8f8a64f6107e5b549b5db569f7972f4ba81b7abd"
     },
     {
-      "key": "5427d",
-      "songName": "[STC2H] Sweet Trip - Dsco",
-      "hash": "4d2281b0bde29a1b2ec225472b8d0131836d2d77",
-      "levelid": "custom_level_4d2281b0bde29a1b2ec225472b8d0131836d2d77"
+      "key": "542a7",
+      "songName": " FROZT, Andrew A - Sleeping Till Noon (feat. Moav)",
+      "hash": "72cfd2a03f93c9c58f52186f54e0510266aae986",
+      "levelid": "custom_level_72cfd2a03f93c9c58f52186f54e0510266aae986"
     },
     {
-      "key": "5427c",
-      "songName": "YENA - WICKED LOVE",
-      "hash": "3c630230d828b0bf830f5f789fac1250a77cf05e",
-      "levelid": "custom_level_3c630230d828b0bf830f5f789fac1250a77cf05e"
-    },
-    {
-      "key": "5427b",
-      "songName": "Amber",
-      "hash": "7c42994744b7edc5a06a62bf515813b25786816b",
-      "levelid": "custom_level_7c42994744b7edc5a06a62bf515813b25786816b"
-    },
-    {
-      "key": "5427a",
-      "songName": "Katy Perry - Last Friday Night (TYNAN Flip)",
-      "hash": "bd145e363363e44a58b8d9f9f0969601f175d016",
-      "levelid": "custom_level_bd145e363363e44a58b8d9f9f0969601f175d016"
-    },
-    {
-      "key": "54277",
-      "songName": "[MAPSABER] Flo Rida - Low (ft. T-Pain) [sportmode remix]",
-      "hash": "5e0e291f98deb486e772f751b919d16ea7d9d2ac",
-      "levelid": "custom_level_5e0e291f98deb486e772f751b919d16ea7d9d2ac"
-    },
-    {
-      "key": "54273",
-      "songName": "Big Wopper Bomboclat Wallahi",
-      "hash": "f1dedcb8f8f7b9fd10da27b065206994e3ec5654",
-      "levelid": "custom_level_f1dedcb8f8f7b9fd10da27b065206994e3ec5654"
-    },
-    {
-      "key": "54272",
-      "songName": "aaaaaaaaaaaaaaaaaaaaa",
-      "hash": "2bb4f45576630d54a7818a70824f33bd651cf8d6",
-      "levelid": "custom_level_2bb4f45576630d54a7818a70824f33bd651cf8d6"
-    },
-    {
-      "key": "54271",
-      "songName": "AGAIN",
-      "hash": "2c3786c832d2287a333edc09aa32c6993dade374",
-      "levelid": "custom_level_2c3786c832d2287a333edc09aa32c6993dade374"
-    },
-    {
-      "key": "54270",
-      "songName": "Star Shopping",
-      "hash": "d97b4d684156445232cce55d86195399dcaf470c",
-      "levelid": "custom_level_d97b4d684156445232cce55d86195399dcaf470c"
-    },
-    {
-      "key": "5426e",
-      "songName": "Noisestrom - Crab Rave",
-      "hash": "e71d90304f615bf9afa2f313dbb212db6c556ac3",
-      "levelid": "custom_level_e71d90304f615bf9afa2f313dbb212db6c556ac3"
-    },
-    {
-      "key": "5425e",
-      "songName": "RadasK - Take this!",
-      "hash": "06cf84ab33aeff9dd6594d81c712acfb48c1dd48",
-      "levelid": "custom_level_06cf84ab33aeff9dd6594d81c712acfb48c1dd48"
-    },
-    {
-      "key": "5425b",
-      "songName": "THE WORLD REVOLVING(Arranged by BEMANI Sound Team \"Sacha\")",
-      "hash": "2cfe904f3cf245512d14acc44a9e734d5a397960",
-      "levelid": "custom_level_2cfe904f3cf245512d14acc44a9e734d5a397960"
+      "key": "542e0",
+      "songName": "as if",
+      "hash": "0e5842a8ed5a1e7f07b74fbe1e7dfdc48fb4d95d",
+      "levelid": "custom_level_0e5842a8ed5a1e7f07b74fbe1e7dfdc48fb4d95d"
     }
   ],
   "image": ""
