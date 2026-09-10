@@ -1,340 +1,196 @@
 {
-  "playlistTitle": "2026-09-08T15:18:47.932Z~2026-09-09T15:18:47.932Z",
+  "playlistTitle": "2026-09-09T15:18:48.818Z~2026-09-10T15:18:48.818Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-09-08T15:18:47.932Z and 2026-09-09T15:18:47.932Z",
+  "discripstion": "Maps published between 2026-09-09T15:18:48.818Z and 2026-09-10T15:18:48.818Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "543d6",
-      "songName": "DJ Genki vs Gram - Einherjar Joker (Requiem EXTENDED MIX)",
-      "hash": "2f3e25e97873d088bf381a9679bb4db389fc161c",
-      "levelid": "custom_level_2f3e25e97873d088bf381a9679bb4db389fc161c"
+      "key": "54427",
+      "songName": " Make Me Go - Ordinary Kid",
+      "hash": "a90508bb5147d47689c9007e04a72d1f6881fadd",
+      "levelid": "custom_level_a90508bb5147d47689c9007e04a72d1f6881fadd"
     },
     {
-      "key": "543d5",
-      "songName": "Dance With Me - Sir, Please",
-      "hash": "ca8b41d8cb63f79ad73849a66172f7d0bf439038",
-      "levelid": "custom_level_ca8b41d8cb63f79ad73849a66172f7d0bf439038"
+      "key": "54426",
+      "songName": "12am - DELTARUNE",
+      "hash": "16dd72489a638115951c62504ca1e310a121d1ee",
+      "levelid": "custom_level_16dd72489a638115951c62504ca1e310a121d1ee"
     },
     {
-      "key": "543d2",
-      "songName": "not so orchids",
-      "hash": "0b09aebee7ca06957f4ec9d669138dac9a77f89e",
-      "levelid": "custom_level_0b09aebee7ca06957f4ec9d669138dac9a77f89e"
+      "key": "54424",
+      "songName": "We All Want Summer",
+      "hash": "433ceb228be7b863ed74eae3ef442a4c7176cfef",
+      "levelid": "custom_level_433ceb228be7b863ed74eae3ef442a4c7176cfef"
     },
     {
-      "key": "543d1",
-      "songName": "The Beatles - We Can Work It Out",
-      "hash": "1f73b53bec9586d23bf290ce64d153d2832d7cbf",
-      "levelid": "custom_level_1f73b53bec9586d23bf290ce64d153d2832d7cbf"
+      "key": "54421",
+      "songName": "OFFICIAL HIGE DANDISM - Mixed Nuts (TV Size)",
+      "hash": "12c9ec1bd0fceb7303564260eabfa75909cc07c1",
+      "levelid": "custom_level_12c9ec1bd0fceb7303564260eabfa75909cc07c1"
     },
     {
-      "key": "543d0",
-      "songName": "johnny sins chamber 31 (gta iii intro)",
-      "hash": "34de14b250ca3a74c75406e09e35968d39542e5c",
-      "levelid": "custom_level_34de14b250ca3a74c75406e09e35968d39542e5c"
+      "key": "54420",
+      "songName": "MICA VAN GOGH",
+      "hash": "e01cb4a8860a49b61d8bd9ca54bffee45e86bc96",
+      "levelid": "custom_level_e01cb4a8860a49b61d8bd9ca54bffee45e86bc96"
     },
     {
-      "key": "541c0",
-      "songName": "heartless being",
-      "hash": "355c515b303607958705c00f17ce6c0ce985b626",
-      "levelid": "custom_level_355c515b303607958705c00f17ce6c0ce985b626"
+      "key": "5441c",
+      "songName": "Magic∞world (とある魔術の禁書目録II ED)",
+      "hash": "31832fa71ead7a389672acdb5845ce81c4ef0c3f",
+      "levelid": "custom_level_31832fa71ead7a389672acdb5845ce81c4ef0c3f"
     },
     {
-      "key": "543cf",
-      "songName": "ラフレシア",
-      "hash": "30cee9b4a9119a7de763abebeac28dcd67173328",
-      "levelid": "custom_level_30cee9b4a9119a7de763abebeac28dcd67173328"
+      "key": "5441a",
+      "songName": "FULL THROTTLE - Fried by Fluoride",
+      "hash": "f32fbad05078f3b95732bfd207351056beb09d07",
+      "levelid": "custom_level_f32fbad05078f3b95732bfd207351056beb09d07"
     },
     {
-      "key": "543cd",
-      "songName": "Norowashitene? ",
-      "hash": "61a619ab67299bbc1ffedc01a8c980f04c1dd6c0",
-      "levelid": "custom_level_61a619ab67299bbc1ffedc01a8c980f04c1dd6c0"
+      "key": "54418",
+      "songName": "death bed  (coffee for your head)  (Poodles and bloqs)",
+      "hash": "7c19ef7cba67be106786142787aa40cf54c2af15",
+      "levelid": "custom_level_7c19ef7cba67be106786142787aa40cf54c2af15"
     },
     {
-      "key": "543ce",
-      "songName": "TAK - PPPP (KaguraMea, Yano Kuromu cover)",
-      "hash": "45acdfedf480dc2c7e96a297c99fdd524fce55e2",
-      "levelid": "custom_level_45acdfedf480dc2c7e96a297c99fdd524fce55e2"
+      "key": "54416",
+      "songName": "Bleach",
+      "hash": "a9b3f3a89cd09326eb127ba697b7ce5bca802b2c",
+      "levelid": "custom_level_a9b3f3a89cd09326eb127ba697b7ce5bca802b2c"
     },
     {
-      "key": "543cc",
-      "songName": "Edgars bukovskis - Fire (Rock Version)",
-      "hash": "57b81b193b430740b1f57f7a7c144c051cfd11f1",
-      "levelid": "custom_level_57b81b193b430740b1f57f7a7c144c051cfd11f1"
+      "key": "54415",
+      "songName": "Do you know how many mass shooters there have been in America over the last 10 years?",
+      "hash": "44a85a19562fdb1491384b48fa592d57c5d415d7",
+      "levelid": "custom_level_44a85a19562fdb1491384b48fa592d57c5d415d7"
     },
     {
-      "key": "543cb",
-      "songName": "No buts! (とある魔術の禁書目録II OP)",
-      "hash": "df807f9494ef119ff504e30e41eb2d644c93817d",
-      "levelid": "custom_level_df807f9494ef119ff504e30e41eb2d644c93817d"
+      "key": "543fc",
+      "songName": "Ludicin - Artificially Flavored Pink Jelly Bean",
+      "hash": "0134e25243ce793a0441052b1ce33601bf4fa37b",
+      "levelid": "custom_level_0134e25243ce793a0441052b1ce33601bf4fa37b"
     },
     {
-      "key": "543ca",
-      "songName": "Alximo - Paparazzi (Dubstep) (CHALLENGE MAP)",
-      "hash": "52642f71d32ab6b6714640d6efdb629d1dd46cb6",
-      "levelid": "custom_level_52642f71d32ab6b6714640d6efdb629d1dd46cb6"
+      "key": "5440e",
+      "songName": "how2pet Me nice",
+      "hash": "bdc24a09ea9b9779cb34756a8e0b290a9d521850",
+      "levelid": "custom_level_bdc24a09ea9b9779cb34756a8e0b290a9d521850"
     },
     {
-      "key": "543c9",
-      "songName": "Tune Up! - Bounce (Nightcore & Cut Ver. + Bitcrushed)",
-      "hash": "a79f5500a870b4f19bd766d6b647e5fb77abe32f",
-      "levelid": "custom_level_a79f5500a870b4f19bd766d6b647e5fb77abe32f"
+      "key": "543fd",
+      "songName": "Follow The Beat (Saber Safely)",
+      "hash": "08bafc5b6345a88190a3f0c4ef1f9da4c2f33780",
+      "levelid": "custom_level_08bafc5b6345a88190a3f0c4ef1f9da4c2f33780"
     },
     {
-      "key": "543b7",
-      "songName": "Revolving Friends",
-      "hash": "356c550e92a7b5eff55f574eaeb453c8724398be",
-      "levelid": "custom_level_356c550e92a7b5eff55f574eaeb453c8724398be"
+      "key": "543f5",
+      "songName": "Girl All the Bad Guys Want - Bowling For Soup",
+      "hash": "3be5f468f35c0afa55e85226c49c139c9bd6517e",
+      "levelid": "custom_level_3be5f468f35c0afa55e85226c49c139c9bd6517e"
     },
     {
-      "key": "54392",
-      "songName": "Rip Out Your Eyes - Marino",
-      "hash": "96148a4ae9e64d54654f8b67955ae275274ec595",
-      "levelid": "custom_level_96148a4ae9e64d54654f8b67955ae275274ec595"
+      "key": "543f2",
+      "songName": "Dan ~ REFORM ~ FINAL - ETA Dan",
+      "hash": "e2517fc29b74b31081148caf4c01e5a8cb01bdac",
+      "levelid": "custom_level_e2517fc29b74b31081148caf4c01e5a8cb01bdac"
     },
     {
-      "key": "5438f",
-      "songName": "KAT X Aku P ft. POPY - Affection Addiction",
-      "hash": "8ebb6f149ade7955eb810ea454e11a261203c6b4",
-      "levelid": "custom_level_8ebb6f149ade7955eb810ea454e11a261203c6b4"
+      "key": "543f1",
+      "songName": "nihahahaha",
+      "hash": "9f3b7c0bc23bfe3e42372e17bc694d88a70a623d",
+      "levelid": "custom_level_9f3b7c0bc23bfe3e42372e17bc694d88a70a623d"
     },
     {
-      "key": "5438e",
-      "songName": "Fearless never clear",
-      "hash": "afff8e9283ab439a8f4c3f7a26be00b365d8a2e7",
-      "levelid": "custom_level_afff8e9283ab439a8f4c3f7a26be00b365d8a2e7"
+      "key": "543f0",
+      "songName": "unallowed",
+      "hash": "c4d0503e6b7e06498c44f642613c33531f5666f5",
+      "levelid": "custom_level_c4d0503e6b7e06498c44f642613c33531f5666f5"
     },
     {
-      "key": "5438d",
-      "songName": "Romari Time! (Genshin Impact)",
-      "hash": "1a2dbe374e1ddaf25c65694f0f83d93f4624c161",
-      "levelid": "custom_level_1a2dbe374e1ddaf25c65694f0f83d93f4624c161"
+      "key": "543ef",
+      "songName": "ahh",
+      "hash": "4f5db7737a4e9fee6cb274514534f3b25219a549",
+      "levelid": "custom_level_4f5db7737a4e9fee6cb274514534f3b25219a549"
     },
     {
-      "key": "5438c",
-      "songName": "Blacklolita - Frustrate",
-      "hash": "e23891dde5cae84f7f17abb7df106dcf57437ed0",
-      "levelid": "custom_level_e23891dde5cae84f7f17abb7df106dcf57437ed0"
+      "key": "543ed",
+      "songName": "Nafeesisboujee - Stephanie",
+      "hash": "3e7e1460213f88a7c92ad2169662ce1178ca7364",
+      "levelid": "custom_level_3e7e1460213f88a7c92ad2169662ce1178ca7364"
     },
     {
-      "key": "5438a",
-      "songName": "I GOT DEPORTED BY 6",
-      "hash": "f4e114d415307e76efa790c0355c8918f1c8e666",
-      "levelid": "custom_level_f4e114d415307e76efa790c0355c8918f1c8e666"
+      "key": "543eb",
+      "songName": "DJ Myosuke & Noizenecio - Architecture",
+      "hash": "826944ae58b4fb5e2d92a7b64224d38cd3b369c5",
+      "levelid": "custom_level_826944ae58b4fb5e2d92a7b64224d38cd3b369c5"
     },
     {
-      "key": "54386",
-      "songName": "WHEN YOUR PALICO'S BAG IS FULL BUT IT'S JUST ROCKS",
-      "hash": "3cf45069f342defb2581370a6cac0f03cfef5897",
-      "levelid": "custom_level_3cf45069f342defb2581370a6cac0f03cfef5897"
+      "key": "543e9",
+      "songName": "cammelia - kikai no tsubasa",
+      "hash": "384b622dfb1ff1819a4372553030dc2c368b04df",
+      "levelid": "custom_level_384b622dfb1ff1819a4372553030dc2c368b04df"
     },
     {
-      "key": "54385",
-      "songName": "Twisted Hearts",
-      "hash": "b6bf2c521e9fd24dc2532e7234dc54dcae1ddd53",
-      "levelid": "custom_level_b6bf2c521e9fd24dc2532e7234dc54dcae1ddd53"
+      "key": "543e7",
+      "songName": "Carpenter Brut - Turbo Killer",
+      "hash": "b6f9e7838abf3bf3e95788d7305bd6821d5f1af4",
+      "levelid": "custom_level_b6f9e7838abf3bf3e95788d7305bd6821d5f1af4"
     },
     {
-      "key": "54382",
-      "songName": "d4vd - MARCESCENCE",
-      "hash": "1542e32ec1d7474ac4bd627404bad12e07e9fae6",
-      "levelid": "custom_level_1542e32ec1d7474ac4bd627404bad12e07e9fae6"
+      "key": "543e5",
+      "songName": "dariastep v2",
+      "hash": "90d350340daa6072feec7cb4511bef1bd3ba815a",
+      "levelid": "custom_level_90d350340daa6072feec7cb4511bef1bd3ba815a"
     },
     {
-      "key": "54381",
-      "songName": "S3RL, Alaguan, Brisk, Kayliana - That Night",
-      "hash": "664c46410873fc7324a65faeb01ad990c9fbc957",
-      "levelid": "custom_level_664c46410873fc7324a65faeb01ad990c9fbc957"
+      "key": "541d0",
+      "songName": "Deftones - You've Seen the Butcher",
+      "hash": "f8ccf8cd9e927951f60c86086444cf1819dfb355",
+      "levelid": "custom_level_f8ccf8cd9e927951f60c86086444cf1819dfb355"
     },
     {
-      "key": "5437f",
-      "songName": "KNOWER - The Government Knows",
-      "hash": "48676b8c8dfe18b7b87c4f8565b54af2aa49b044",
-      "levelid": "custom_level_48676b8c8dfe18b7b87c4f8565b54af2aa49b044"
+      "key": "543e4",
+      "songName": " Air raid siren",
+      "hash": "516e72030da923a48570c5ca7d2640eeec40c1af",
+      "levelid": "custom_level_516e72030da923a48570c5ca7d2640eeec40c1af"
     },
     {
-      "key": "5437c",
-      "songName": "3rd Prototype & Emdi - House",
-      "hash": "0f1711f0054f2c0d550f2740a472d6426b07e687",
-      "levelid": "custom_level_0f1711f0054f2c0d550f2740a472d6426b07e687"
+      "key": "542ba",
+      "songName": "[Vivify] Pokémon Black & White - Accumula Town",
+      "hash": "5a4e34c6ac5764c1894d2c32ce7dcd05d93c5b0a",
+      "levelid": "custom_level_5a4e34c6ac5764c1894d2c32ce7dcd05d93c5b0a"
     },
     {
-      "key": "5437b",
-      "songName": "Red Leather - WATCH MY DADDY DIE",
-      "hash": "bc99554a129c2c09616209e32911f83353ee5a49",
-      "levelid": "custom_level_bc99554a129c2c09616209e32911f83353ee5a49"
+      "key": "543e3",
+      "songName": "Evangelion",
+      "hash": "dffd66d33445f9aac6908badeb76c772188fd5e3",
+      "levelid": "custom_level_dffd66d33445f9aac6908badeb76c772188fd5e3"
     },
     {
-      "key": "54373",
-      "songName": "the quick brown fox - The big black",
-      "hash": "79c6a9f18f67456da2a7243a203722adcba43eee",
-      "levelid": "custom_level_79c6a9f18f67456da2a7243a203722adcba43eee"
+      "key": "543e2",
+      "songName": "Axia no Kaze(Short ver.)",
+      "hash": "17d3ff27c62f968699bfa044e9e434cc767e2617",
+      "levelid": "custom_level_17d3ff27c62f968699bfa044e9e434cc767e2617"
     },
     {
-      "key": "54370",
-      "songName": "NO WAY THIS WORKED",
-      "hash": "33eeea646070dc0f9e0e5ba9506e9a326eea2083",
-      "levelid": "custom_level_33eeea646070dc0f9e0e5ba9506e9a326eea2083"
+      "key": "543e1",
+      "songName": "Baqua ighallag farodaf progabarebc equilea dolugheg",
+      "hash": "1e8d038210f108a9d7f283c7d675112e99dcc8bc",
+      "levelid": "custom_level_1e8d038210f108a9d7f283c7d675112e99dcc8bc"
     },
     {
-      "key": "54371",
-      "songName": "KREEKCRAFT WHAT IS THAT",
-      "hash": "afccd5b512c20b2290464e42cf935b9b9a4e0dcf",
-      "levelid": "custom_level_afccd5b512c20b2290464e42cf935b9b9a4e0dcf"
+      "key": "543e0",
+      "songName": "[V4] The Larping Tombstone - Looping the Rooms (Larp Remix)",
+      "hash": "bd32957510eb8f68dcf8beeab82305fc6f477d05",
+      "levelid": "custom_level_bd32957510eb8f68dcf8beeab82305fc6f477d05"
     },
     {
-      "key": "54372",
-      "songName": "6 month transformation",
-      "hash": "086cb4bb41afa5765ddb26d402e0b546f8469f4c",
-      "levelid": "custom_level_086cb4bb41afa5765ddb26d402e0b546f8469f4c"
-    },
-    {
-      "key": "5436f",
-      "songName": "Leah Kate - Twinkle Twinkle (Sped Up & Cut Ver.)",
-      "hash": "2395c31875de89a16f09a7d24f61e08f79a5d457",
-      "levelid": "custom_level_2395c31875de89a16f09a7d24f61e08f79a5d457"
-    },
-    {
-      "key": "5436e",
-      "songName": "White Ceiling (Live cut)",
-      "hash": "10a00d956daf26c00f4064eb9ca83e08238c990c",
-      "levelid": "custom_level_10a00d956daf26c00f4064eb9ca83e08238c990c"
-    },
-    {
-      "key": "5436d",
-      "songName": "[2000s Nostalgia Pack] [FITBEAT] Destiny's Child - Survivor",
-      "hash": "edd16ac52e5d88b9a9cc43e23a6ef3969184a48c",
-      "levelid": "custom_level_edd16ac52e5d88b9a9cc43e23a6ef3969184a48c"
-    },
-    {
-      "key": "542bf",
-      "songName": "[2000s Nostalgia Pack] Digital Love - Daft Punk",
-      "hash": "6dea091452fd003c0a272d978ed248f99ff01666",
-      "levelid": "custom_level_6dea091452fd003c0a272d978ed248f99ff01666"
-    },
-    {
-      "key": "54313",
-      "songName": "[2000s Nostalgia Pack] (V4) Daft Punk - Instant Crush",
-      "hash": "21e71b43a988cbb58a31019a709438c768043765",
-      "levelid": "custom_level_21e71b43a988cbb58a31019a709438c768043765"
-    },
-    {
-      "key": "54140",
-      "songName": "[2000s Nostalgia Pack] David Guetta Ft. Sia - Titanium [V4]",
-      "hash": "89b6eea6181493003b203ca28884cc33f322b502",
-      "levelid": "custom_level_89b6eea6181493003b203ca28884cc33f322b502"
-    },
-    {
-      "key": "54302",
-      "songName": "[2000s Nostalgia Pack] Nelly - Hot In Herre",
-      "hash": "74a396fa8829cb1a21ecc105a0bd922795afd719",
-      "levelid": "custom_level_74a396fa8829cb1a21ecc105a0bd922795afd719"
-    },
-    {
-      "key": "5430b",
-      "songName": "[2000s Nostalgia Pack] Linkin Park - Bleed It Out",
-      "hash": "bb8a02adba2dfdefb7997d4baf99e4a0a889475f",
-      "levelid": "custom_level_bb8a02adba2dfdefb7997d4baf99e4a0a889475f"
-    },
-    {
-      "key": "542fb",
-      "songName": "[2000s Nostalgia Pack] Justin Timberlake (feat. Timbaland) - SexyBack",
-      "hash": "3b94293972d92c091844de68da73ab0ee71be9e5",
-      "levelid": "custom_level_3b94293972d92c091844de68da73ab0ee71be9e5"
-    },
-    {
-      "key": "542da",
-      "songName": " [2000s Nostalgia Pack] Nero-Promises (Skrillex & Nero Remix)",
-      "hash": "8daaf1a713736d35928cf9f20bf1c700f226620c",
-      "levelid": "custom_level_8daaf1a713736d35928cf9f20bf1c700f226620c"
-    },
-    {
-      "key": "54179",
-      "songName": "[2000s Nostalgia Pack] Jennifer Lopez, Pitbull - On The Floor (Radio Edit) [Chroma]",
-      "hash": "1bef4ff478538a1d48a98fc39e8b6a8df4c6c05b",
-      "levelid": "custom_level_1bef4ff478538a1d48a98fc39e8b6a8df4c6c05b"
-    },
-    {
-      "key": "53e89",
-      "songName": "[2000s Nostalgia Pack] Kygo - Stole The Show [Chroma]",
-      "hash": "52be5b62840937ffa99cdfe2a3613240b9a3f34a",
-      "levelid": "custom_level_52be5b62840937ffa99cdfe2a3613240b9a3f34a"
-    },
-    {
-      "key": "542a0",
-      "songName": "[2000s Nostalgia Pack] Thnks fr th Mmrs - Fall Out Boy",
-      "hash": "b1201adc2725f01db31638ee44f531d82e2bd5ec",
-      "levelid": "custom_level_b1201adc2725f01db31638ee44f531d82e2bd5ec"
-    },
-    {
-      "key": "53e8e",
-      "songName": "[2000s Nostalgia Pack] Ne-Yo - Closer [Chroma]",
-      "hash": "4d23f90a733261b198afb262f4fd2d41bc177ba3",
-      "levelid": "custom_level_4d23f90a733261b198afb262f4fd2d41bc177ba3"
-    },
-    {
-      "key": "540f8",
-      "songName": " [2000s Nostalgia Pack] Kelly Clarkson - Since U Been Gone",
-      "hash": "89107bfdb9dd8c64c4e61989c4346c139b60d6a9",
-      "levelid": "custom_level_89107bfdb9dd8c64c4e61989c4346c139b60d6a9"
-    },
-    {
-      "key": "53b1e",
-      "songName": "[2000s Nostalgia Pack] Right Round - Flo Rida (feat. Ke$ha)",
-      "hash": "990d6867daf68c3f15648867ca3383cadfae9ca7",
-      "levelid": "custom_level_990d6867daf68c3f15648867ca3383cadfae9ca7"
-    },
-    {
-      "key": "54106",
-      "songName": "[2000s Nostalgia Pack] Fergie Ft. Ludacris - Glamorous [Noodle + Chroma]",
-      "hash": "b4e160685a5654282ecd25faa92527756b6d993b",
-      "levelid": "custom_level_b4e160685a5654282ecd25faa92527756b6d993b"
-    },
-    {
-      "key": "53e87",
-      "songName": "[2000s Nostalgia Pack] Pussy Cat Dolls - When I Grow Up  [V4]",
-      "hash": "732136f138a0642ab5cac9f62af284f449be2f94",
-      "levelid": "custom_level_732136f138a0642ab5cac9f62af284f449be2f94"
-    },
-    {
-      "key": "53e8a",
-      "songName": "[2000s Nostalgia Pack] a-ha - Take On Me [Noodle + Chroma]",
-      "hash": "9daf710aa181ee0af2174cd36c6b009eebcfa703",
-      "levelid": "custom_level_9daf710aa181ee0af2174cd36c6b009eebcfa703"
-    },
-    {
-      "key": "536d8",
-      "songName": "[2000s Nostalgia Pack] Katy Perry - Firework",
-      "hash": "e588c0ce7ad155b7e74f3df5883dd9e831450e77",
-      "levelid": "custom_level_e588c0ce7ad155b7e74f3df5883dd9e831450e77"
-    },
-    {
-      "key": "53f73",
-      "songName": "[2000s Nostalgia Pack] Ke$ha - Die Young",
-      "hash": "bd2d7c2212c88d9683e2ad5428e0354c2e05ebf3",
-      "levelid": "custom_level_bd2d7c2212c88d9683e2ad5428e0354c2e05ebf3"
-    },
-    {
-      "key": "5436c",
-      "songName": "watching the stars",
-      "hash": "fe0c22d1e9ee0a8c464141fdb19b0be98fb36a50",
-      "levelid": "custom_level_fe0c22d1e9ee0a8c464141fdb19b0be98fb36a50"
-    },
-    {
-      "key": "5436b",
-      "songName": "Aether Ritual",
-      "hash": "44ee63d704a7f56a811bf9b07fe3e744792f95d9",
-      "levelid": "custom_level_44ee63d704a7f56a811bf9b07fe3e744792f95d9"
-    },
-    {
-      "key": "5436a",
-      "songName": "You're legally obligated to push him. It's the law.",
-      "hash": "70bd7c6f96c03e706cd61ef51a61e86fae94f3ba",
-      "levelid": "custom_level_70bd7c6f96c03e706cd61ef51a61e86fae94f3ba"
+      "key": "543de",
+      "songName": "Jancs - jeans off. (PROD. WAYZISS)",
+      "hash": "c3ee5ba5ef28875f83cebe1544f81d22ed84f57a",
+      "levelid": "custom_level_c3ee5ba5ef28875f83cebe1544f81d22ed84f57a"
     }
   ],
   "image": ""
