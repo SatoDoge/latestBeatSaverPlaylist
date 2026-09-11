@@ -1,196 +1,166 @@
 {
-  "playlistTitle": "2026-09-09T15:18:48.818Z~2026-09-10T15:18:48.818Z",
+  "playlistTitle": "2026-09-10T15:18:48.345Z~2026-09-11T15:18:48.345Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-09-09T15:18:48.818Z and 2026-09-10T15:18:48.818Z",
+  "discripstion": "Maps published between 2026-09-10T15:18:48.345Z and 2026-09-11T15:18:48.345Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "54427",
-      "songName": " Make Me Go - Ordinary Kid",
-      "hash": "a90508bb5147d47689c9007e04a72d1f6881fadd",
-      "levelid": "custom_level_a90508bb5147d47689c9007e04a72d1f6881fadd"
+      "key": "54469",
+      "songName": "I Follow Rivers",
+      "hash": "4b846a00021b17c4c6739bcbacb4b5d681f4dd29",
+      "levelid": "custom_level_4b846a00021b17c4c6739bcbacb4b5d681f4dd29"
     },
     {
-      "key": "54426",
-      "songName": "12am - DELTARUNE",
-      "hash": "16dd72489a638115951c62504ca1e310a121d1ee",
-      "levelid": "custom_level_16dd72489a638115951c62504ca1e310a121d1ee"
+      "key": "54465",
+      "songName": "TRFN - Afraid of Love",
+      "hash": "d0edeb8b0039cdcd2f5c2cc4f69baa6daefc0792",
+      "levelid": "custom_level_d0edeb8b0039cdcd2f5c2cc4f69baa6daefc0792"
     },
     {
-      "key": "54424",
+      "key": "54464",
+      "songName": "Invisible Frenzy",
+      "hash": "101ca94e9f0b6f64a9089496336ae8cb1e3bc955",
+      "levelid": "custom_level_101ca94e9f0b6f64a9089496336ae8cb1e3bc955"
+    },
+    {
+      "key": "54455",
+      "songName": "AmoxiSantos -  Bück dich, ich beglückliche dich (Crayz Bass Version)",
+      "hash": "d375c8cee1298323010abe2da100078fc1d41fd4",
+      "levelid": "custom_level_d375c8cee1298323010abe2da100078fc1d41fd4"
+    },
+    {
+      "key": "54451",
+      "songName": "KrimsonTheFox - Ram Rush",
+      "hash": "0322a8103cf4ef0f7e13bdf61e6f80cd720638ca",
+      "levelid": "custom_level_0322a8103cf4ef0f7e13bdf61e6f80cd720638ca"
+    },
+    {
+      "key": "54450",
+      "songName": "Paul Owen - Butcher Vanity  The Slaughters Mine (Metal Cover)",
+      "hash": "e7f759f5ea45ac32d0ffa645f73e4bb24222a189",
+      "levelid": "custom_level_e7f759f5ea45ac32d0ffa645f73e4bb24222a189"
+    },
+    {
+      "key": "5444f",
+      "songName": "asmi - That's The Way It Goes",
+      "hash": "2dcce417b531d21f9ea8df4989c76a6b50ce0977",
+      "levelid": "custom_level_2dcce417b531d21f9ea8df4989c76a6b50ce0977"
+    },
+    {
+      "key": "5444e",
       "songName": "We All Want Summer",
-      "hash": "433ceb228be7b863ed74eae3ef442a4c7176cfef",
-      "levelid": "custom_level_433ceb228be7b863ed74eae3ef442a4c7176cfef"
+      "hash": "3e6b59b7b896a65527350d0f44ba470084de9d94",
+      "levelid": "custom_level_3e6b59b7b896a65527350d0f44ba470084de9d94"
     },
     {
-      "key": "54421",
-      "songName": "OFFICIAL HIGE DANDISM - Mixed Nuts (TV Size)",
-      "hash": "12c9ec1bd0fceb7303564260eabfa75909cc07c1",
-      "levelid": "custom_level_12c9ec1bd0fceb7303564260eabfa75909cc07c1"
+      "key": "5444c",
+      "songName": "See visionS (とある魔術の禁書目録II OP2)",
+      "hash": "b2b94aace93919e895a7bedca6e8aa4b75563621",
+      "levelid": "custom_level_b2b94aace93919e895a7bedca6e8aa4b75563621"
     },
     {
-      "key": "54420",
-      "songName": "MICA VAN GOGH",
-      "hash": "e01cb4a8860a49b61d8bd9ca54bffee45e86bc96",
-      "levelid": "custom_level_e01cb4a8860a49b61d8bd9ca54bffee45e86bc96"
+      "key": "54447",
+      "songName": "IRISOUT",
+      "hash": "79a9959c69131c64afdd964fb491b45e52ec8559",
+      "levelid": "custom_level_79a9959c69131c64afdd964fb491b45e52ec8559"
     },
     {
-      "key": "5441c",
-      "songName": "Magic∞world (とある魔術の禁書目録II ED)",
-      "hash": "31832fa71ead7a389672acdb5845ce81c4ef0c3f",
-      "levelid": "custom_level_31832fa71ead7a389672acdb5845ce81c4ef0c3f"
+      "key": "54446",
+      "songName": "t+pazolite - Count down 321",
+      "hash": "fcda60f0f8b4f6e5a55b9ff07183f38308e9c90d",
+      "levelid": "custom_level_fcda60f0f8b4f6e5a55b9ff07183f38308e9c90d"
     },
     {
-      "key": "5441a",
-      "songName": "FULL THROTTLE - Fried by Fluoride",
-      "hash": "f32fbad05078f3b95732bfd207351056beb09d07",
-      "levelid": "custom_level_f32fbad05078f3b95732bfd207351056beb09d07"
+      "key": "54445",
+      "songName": " The Tech Thieves & Besomorph - Dangerous",
+      "hash": "3ba183a25bd8cbf05669c99b8d26cf03c767da83",
+      "levelid": "custom_level_3ba183a25bd8cbf05669c99b8d26cf03c767da83"
     },
     {
-      "key": "54418",
-      "songName": "death bed  (coffee for your head)  (Poodles and bloqs)",
-      "hash": "7c19ef7cba67be106786142787aa40cf54c2af15",
-      "levelid": "custom_level_7c19ef7cba67be106786142787aa40cf54c2af15"
+      "key": "54444",
+      "songName": "Honeypie",
+      "hash": "55ba3f97ea87414668b45f151e2b2fa9ed47d4b8",
+      "levelid": "custom_level_55ba3f97ea87414668b45f151e2b2fa9ed47d4b8"
     },
     {
-      "key": "54416",
-      "songName": "Bleach",
-      "hash": "a9b3f3a89cd09326eb127ba697b7ce5bca802b2c",
-      "levelid": "custom_level_a9b3f3a89cd09326eb127ba697b7ce5bca802b2c"
+      "key": "54443",
+      "songName": "I've had enough of you Billie bust up track notes are now in",
+      "hash": "8249f7d49233e8adfacb75dc7ea24b407b40fbdd",
+      "levelid": "custom_level_8249f7d49233e8adfacb75dc7ea24b407b40fbdd"
     },
     {
-      "key": "54415",
-      "songName": "Do you know how many mass shooters there have been in America over the last 10 years?",
-      "hash": "44a85a19562fdb1491384b48fa592d57c5d415d7",
-      "levelid": "custom_level_44a85a19562fdb1491384b48fa592d57c5d415d7"
+      "key": "54441",
+      "songName": "On My Knees - Rüfüs Du Sol",
+      "hash": "285733a4de3bf516fe38b9d88758a36a8bc48ad1",
+      "levelid": "custom_level_285733a4de3bf516fe38b9d88758a36a8bc48ad1"
     },
     {
-      "key": "543fc",
-      "songName": "Ludicin - Artificially Flavored Pink Jelly Bean",
-      "hash": "0134e25243ce793a0441052b1ce33601bf4fa37b",
-      "levelid": "custom_level_0134e25243ce793a0441052b1ce33601bf4fa37b"
+      "key": "54440",
+      "songName": "DISPLAY BUSTY EDITION",
+      "hash": "a38857d9f0db31c46597e7678593712673920065",
+      "levelid": "custom_level_a38857d9f0db31c46597e7678593712673920065"
     },
     {
-      "key": "5440e",
-      "songName": "how2pet Me nice",
-      "hash": "bdc24a09ea9b9779cb34756a8e0b290a9d521850",
-      "levelid": "custom_level_bdc24a09ea9b9779cb34756a8e0b290a9d521850"
+      "key": "5443e",
+      "songName": "Tohma - Magical Girl Eudaemonics (feat. Hatsune Miku)",
+      "hash": "5dc54c59a00420aca70320eaefac6ff7e2e88949",
+      "levelid": "custom_level_5dc54c59a00420aca70320eaefac6ff7e2e88949"
     },
     {
-      "key": "543fd",
-      "songName": "Follow The Beat (Saber Safely)",
-      "hash": "08bafc5b6345a88190a3f0c4ef1f9da4c2f33780",
-      "levelid": "custom_level_08bafc5b6345a88190a3f0c4ef1f9da4c2f33780"
+      "key": "5443b",
+      "songName": "Zedd & Jasmine Thompson - Funny (Dominic Strike Remix)",
+      "hash": "2472e1705f212aa94f461545a97eb1d4b6d32f1d",
+      "levelid": "custom_level_2472e1705f212aa94f461545a97eb1d4b6d32f1d"
     },
     {
-      "key": "543f5",
-      "songName": "Girl All the Bad Guys Want - Bowling For Soup",
-      "hash": "3be5f468f35c0afa55e85226c49c139c9bd6517e",
-      "levelid": "custom_level_3be5f468f35c0afa55e85226c49c139c9bd6517e"
+      "key": "5443a",
+      "songName": "Stan",
+      "hash": "bea8f7ca58b9798ab337e18d56608610f9bdf00f",
+      "levelid": "custom_level_bea8f7ca58b9798ab337e18d56608610f9bdf00f"
     },
     {
-      "key": "543f2",
-      "songName": "Dan ~ REFORM ~ FINAL - ETA Dan",
-      "hash": "e2517fc29b74b31081148caf4c01e5a8cb01bdac",
-      "levelid": "custom_level_e2517fc29b74b31081148caf4c01e5a8cb01bdac"
+      "key": "54436",
+      "songName": "Guitarsssss",
+      "hash": "276fa14e8fdf215840c77cd2cb6b32d53a86ae9c",
+      "levelid": "custom_level_276fa14e8fdf215840c77cd2cb6b32d53a86ae9c"
     },
     {
-      "key": "543f1",
-      "songName": "nihahahaha",
-      "hash": "9f3b7c0bc23bfe3e42372e17bc694d88a70a623d",
-      "levelid": "custom_level_9f3b7c0bc23bfe3e42372e17bc694d88a70a623d"
+      "key": "54437",
+      "songName": "pink diamond",
+      "hash": "a98dfe72a07b152a7d9c10f57c82d9176b2d9a5b",
+      "levelid": "custom_level_a98dfe72a07b152a7d9c10f57c82d9176b2d9a5b"
     },
     {
-      "key": "543f0",
-      "songName": "unallowed",
-      "hash": "c4d0503e6b7e06498c44f642613c33531f5666f5",
-      "levelid": "custom_level_c4d0503e6b7e06498c44f642613c33531f5666f5"
+      "key": "54432",
+      "songName": "Maroon 5 - One More Night  ( Long Poodles)",
+      "hash": "fd0566b2e41aaf6a08afb03059effa84d2fb9377",
+      "levelid": "custom_level_fd0566b2e41aaf6a08afb03059effa84d2fb9377"
     },
     {
-      "key": "543ef",
-      "songName": "ahh",
-      "hash": "4f5db7737a4e9fee6cb274514534f3b25219a549",
-      "levelid": "custom_level_4f5db7737a4e9fee6cb274514534f3b25219a549"
+      "key": "5442f",
+      "songName": "NyxTheShield - Black Apple",
+      "hash": "42c71d5e0967b7397ce008699b22e13956673cb2",
+      "levelid": "custom_level_42c71d5e0967b7397ce008699b22e13956673cb2"
     },
     {
-      "key": "543ed",
-      "songName": "Nafeesisboujee - Stephanie",
-      "hash": "3e7e1460213f88a7c92ad2169662ce1178ca7364",
-      "levelid": "custom_level_3e7e1460213f88a7c92ad2169662ce1178ca7364"
+      "key": "5442c",
+      "songName": "Matt land - pamela (SuperEuroBeat)",
+      "hash": "5f2886cb011267e4128b4255f907b916d8ce5f17",
+      "levelid": "custom_level_5f2886cb011267e4128b4255f907b916d8ce5f17"
     },
     {
-      "key": "543eb",
-      "songName": "DJ Myosuke & Noizenecio - Architecture",
-      "hash": "826944ae58b4fb5e2d92a7b64224d38cd3b369c5",
-      "levelid": "custom_level_826944ae58b4fb5e2d92a7b64224d38cd3b369c5"
+      "key": "5442b",
+      "songName": "Manon Rena - Let me hear it",
+      "hash": "7e219f29166dbd13453a1e69a50f837e14432408",
+      "levelid": "custom_level_7e219f29166dbd13453a1e69a50f837e14432408"
     },
     {
-      "key": "543e9",
-      "songName": "cammelia - kikai no tsubasa",
-      "hash": "384b622dfb1ff1819a4372553030dc2c368b04df",
-      "levelid": "custom_level_384b622dfb1ff1819a4372553030dc2c368b04df"
-    },
-    {
-      "key": "543e7",
-      "songName": "Carpenter Brut - Turbo Killer",
-      "hash": "b6f9e7838abf3bf3e95788d7305bd6821d5f1af4",
-      "levelid": "custom_level_b6f9e7838abf3bf3e95788d7305bd6821d5f1af4"
-    },
-    {
-      "key": "543e5",
-      "songName": "dariastep v2",
-      "hash": "90d350340daa6072feec7cb4511bef1bd3ba815a",
-      "levelid": "custom_level_90d350340daa6072feec7cb4511bef1bd3ba815a"
-    },
-    {
-      "key": "541d0",
-      "songName": "Deftones - You've Seen the Butcher",
-      "hash": "f8ccf8cd9e927951f60c86086444cf1819dfb355",
-      "levelid": "custom_level_f8ccf8cd9e927951f60c86086444cf1819dfb355"
-    },
-    {
-      "key": "543e4",
-      "songName": " Air raid siren",
-      "hash": "516e72030da923a48570c5ca7d2640eeec40c1af",
-      "levelid": "custom_level_516e72030da923a48570c5ca7d2640eeec40c1af"
-    },
-    {
-      "key": "542ba",
-      "songName": "[Vivify] Pokémon Black & White - Accumula Town",
-      "hash": "5a4e34c6ac5764c1894d2c32ce7dcd05d93c5b0a",
-      "levelid": "custom_level_5a4e34c6ac5764c1894d2c32ce7dcd05d93c5b0a"
-    },
-    {
-      "key": "543e3",
-      "songName": "Evangelion",
-      "hash": "dffd66d33445f9aac6908badeb76c772188fd5e3",
-      "levelid": "custom_level_dffd66d33445f9aac6908badeb76c772188fd5e3"
-    },
-    {
-      "key": "543e2",
-      "songName": "Axia no Kaze(Short ver.)",
-      "hash": "17d3ff27c62f968699bfa044e9e434cc767e2617",
-      "levelid": "custom_level_17d3ff27c62f968699bfa044e9e434cc767e2617"
-    },
-    {
-      "key": "543e1",
-      "songName": "Baqua ighallag farodaf progabarebc equilea dolugheg",
-      "hash": "1e8d038210f108a9d7f283c7d675112e99dcc8bc",
-      "levelid": "custom_level_1e8d038210f108a9d7f283c7d675112e99dcc8bc"
-    },
-    {
-      "key": "543e0",
-      "songName": "[V4] The Larping Tombstone - Looping the Rooms (Larp Remix)",
-      "hash": "bd32957510eb8f68dcf8beeab82305fc6f477d05",
-      "levelid": "custom_level_bd32957510eb8f68dcf8beeab82305fc6f477d05"
-    },
-    {
-      "key": "543de",
-      "songName": "Jancs - jeans off. (PROD. WAYZISS)",
-      "hash": "c3ee5ba5ef28875f83cebe1544f81d22ed84f57a",
-      "levelid": "custom_level_c3ee5ba5ef28875f83cebe1544f81d22ed84f57a"
+      "key": "5442a",
+      "songName": "Skybreak - Crystal Heart (SZR FLIP)",
+      "hash": "67b418e9cb1a8ae37d525b960616329a951ba928",
+      "levelid": "custom_level_67b418e9cb1a8ae37d525b960616329a951ba928"
     }
   ],
   "image": ""
