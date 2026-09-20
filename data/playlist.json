@@ -1,214 +1,274 @@
 {
-  "playlistTitle": "2026-09-18T15:18:48.259Z~2026-09-19T15:18:48.259Z",
+  "playlistTitle": "2026-09-19T15:18:48.170Z~2026-09-20T15:18:48.170Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-09-18T15:18:48.259Z and 2026-09-19T15:18:48.259Z",
+  "discripstion": "Maps published between 2026-09-19T15:18:48.170Z and 2026-09-20T15:18:48.170Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "5481b",
+      "songName": "CAMPIONE DEI NOVANTA",
+      "hash": "da81bb8692dc7b12ef71561c12d114de5494d2e2",
+      "levelid": "custom_level_da81bb8692dc7b12ef71561c12d114de5494d2e2"
+    },
+    {
+      "key": "54819",
+      "songName": "SPOOKY 2",
+      "hash": "c47cb555f8d1ee6587041e71288f4d397c08ba0b",
+      "levelid": "custom_level_c47cb555f8d1ee6587041e71288f4d397c08ba0b"
+    },
+    {
+      "key": "54818",
+      "songName": "Into The Unknown",
+      "hash": "54162fe957fd6ae0e75c5bb138f87fa96ed529c0",
+      "levelid": "custom_level_54162fe957fd6ae0e75c5bb138f87fa96ed529c0"
+    },
+    {
+      "key": "54816",
+      "songName": "freeway - below!",
+      "hash": "00149d7b143bd8ef7e5d0d1ed903f07089f192a2",
+      "levelid": "custom_level_00149d7b143bd8ef7e5d0d1ed903f07089f192a2"
+    },
+    {
+      "key": "54812",
+      "songName": "Azari - D/N/A (Sakigane Poshika Cover)",
+      "hash": "5068a98334099ed32f57beaa3671f49b4dc4494a",
+      "levelid": "custom_level_5068a98334099ed32f57beaa3671f49b4dc4494a"
+    },
+    {
+      "key": "5480b",
+      "songName": "memes",
+      "hash": "30b4e6287e14d6ee8678dee9b7e3495ec91792ba",
+      "levelid": "custom_level_30b4e6287e14d6ee8678dee9b7e3495ec91792ba"
+    },
+    {
+      "key": "5480a",
+      "songName": "Real Force (とある科学の超電磁砲 ED2)",
+      "hash": "0b1dce6efd404daf6d0070d29bd693b9845c3a73",
+      "levelid": "custom_level_0b1dce6efd404daf6d0070d29bd693b9845c3a73"
+    },
+    {
+      "key": "54808",
+      "songName": "Engine start no problem",
+      "hash": "db33bfd7df1b245f622af6f9abca81d7ffddc1fb",
+      "levelid": "custom_level_db33bfd7df1b245f622af6f9abca81d7ffddc1fb"
+    },
+    {
+      "key": "547fb",
+      "songName": "safety",
+      "hash": "a94304bde452097a6ad3632c710e67135481adb6",
+      "levelid": "custom_level_a94304bde452097a6ad3632c710e67135481adb6"
+    },
+    {
+      "key": "547df",
+      "songName": "Kotori - Death From above",
+      "hash": "04cdd8ee40cee891a2a5d522cbe958df1638b591",
+      "levelid": "custom_level_04cdd8ee40cee891a2a5d522cbe958df1638b591"
+    },
+    {
+      "key": "547ce",
+      "songName": "Michael Jackson - Smooth Criminal",
+      "hash": "3aa127fa94203a8a53fe13bba3987900b7e3168c",
+      "levelid": "custom_level_3aa127fa94203a8a53fe13bba3987900b7e3168c"
+    },
+    {
+      "key": "547d6",
+      "songName": "Various Artists - Autumn Mountain Battle (From \"Paper Mario: The Origami King\")",
+      "hash": "177aa03db6714d3b9fef33750c3d847217fe9c5f",
+      "levelid": "custom_level_177aa03db6714d3b9fef33750c3d847217fe9c5f"
+    },
+    {
+      "key": "547cd",
+      "songName": "Who Is This?",
+      "hash": "e456e425e6a09b8e7277e44ddee6433feac65873",
+      "levelid": "custom_level_e456e425e6a09b8e7277e44ddee6433feac65873"
+    },
+    {
+      "key": "547c4",
+      "songName": "GoodBye - Flauwher",
+      "hash": "4aa0cc5bd79eb60c4243e2097272e5bfed298d66",
+      "levelid": "custom_level_4aa0cc5bd79eb60c4243e2097272e5bfed298d66"
+    },
+    {
+      "key": "547c3",
+      "songName": "Paul Bazooka - Behemoth",
+      "hash": "8b4a05dd2ef7ab4e8a3bf9f83f75140e42c7741f",
+      "levelid": "custom_level_8b4a05dd2ef7ab4e8a3bf9f83f75140e42c7741f"
+    },
+    {
+      "key": "547c2",
+      "songName": "FC Random Note's day 1",
+      "hash": "cbb3022533fdb84f0f41daea77c6c40549d45aaa",
+      "levelid": "custom_level_cbb3022533fdb84f0f41daea77c6c40549d45aaa"
+    },
+    {
+      "key": "547c0",
+      "songName": "Matrix (bl studio loop) (slowed)",
+      "hash": "751a91119c2b17bc07b4f3755836133a2e799965",
+      "levelid": "custom_level_751a91119c2b17bc07b4f3755836133a2e799965"
+    },
+    {
+      "key": "547bf",
+      "songName": "[Shitpost] What This Dealer",
+      "hash": "72689a27c5526e3e41ada259a805d1c4cec25458",
+      "levelid": "custom_level_72689a27c5526e3e41ada259a805d1c4cec25458"
+    },
+    {
+      "key": "547bd",
+      "songName": "Shanty of Lost Skullls",
+      "hash": "fbfe8f09f766fe529af3c6ae7aa969369020d934",
+      "levelid": "custom_level_fbfe8f09f766fe529af3c6ae7aa969369020d934"
+    },
+    {
+      "key": "547bb",
+      "songName": "Celeste Original Soundtrack - 01 - Prologue",
+      "hash": "1a9d8a0b39c81342485a9e0e083ec4bd1cce0d2d",
+      "levelid": "custom_level_1a9d8a0b39c81342485a9e0e083ec4bd1cce0d2d"
+    },
+    {
+      "key": "547ba",
+      "songName": "Nevermind",
+      "hash": "58e34f7752dd6ea1d24e4915744ff8e1d9ad1514",
+      "levelid": "custom_level_58e34f7752dd6ea1d24e4915744ff8e1d9ad1514"
+    },
+    {
+      "key": "547b9",
+      "songName": "Unslept (0.85x)",
+      "hash": "c5c570945dab7cbb96073a7cf069d0a9eaab7fc0",
+      "levelid": "custom_level_c5c570945dab7cbb96073a7cf069d0a9eaab7fc0"
+    },
+    {
+      "key": "547b3",
+      "songName": "loose cannon",
+      "hash": "311f7361d3c1fe64c6e1f88f5a0758d9eb07c7e6",
+      "levelid": "custom_level_311f7361d3c1fe64c6e1f88f5a0758d9eb07c7e6"
+    },
+    {
+      "key": "547b2",
+      "songName": "Made My Night - LE SSERAFIM",
+      "hash": "5ef48a672633bcdfaebc354b77d8291cc7f3b2f3",
+      "levelid": "custom_level_5ef48a672633bcdfaebc354b77d8291cc7f3b2f3"
+    },
+    {
+      "key": "547af",
+      "songName": "yu@kio - Candy Chaos",
+      "hash": "4c25bf23652d55f71ea65f29e16fba3b3c2a1c0e",
+      "levelid": "custom_level_4c25bf23652d55f71ea65f29e16fba3b3c2a1c0e"
+    },
+    {
+      "key": "547ad",
+      "songName": "Thumbaway (farewell)",
+      "hash": "e23afcb61696cd9b1aa6f57680dcda617b5b8a66",
+      "levelid": "custom_level_e23afcb61696cd9b1aa6f57680dcda617b5b8a66"
+    },
+    {
+      "key": "547ac",
+      "songName": "700 bpm practice but wide pauls",
+      "hash": "3438bdebbd38cf2bfd0dad7bced3fce293247549",
+      "levelid": "custom_level_3438bdebbd38cf2bfd0dad7bced3fce293247549"
+    },
+    {
+      "key": "547ab",
+      "songName": "sink into the deep world of darkness",
+      "hash": "4d7c060f4d19c682139853547d69c2784931c9c4",
+      "levelid": "custom_level_4d7c060f4d19c682139853547d69c2784931c9c4"
+    },
+    {
+      "key": "54109",
+      "songName": "[Sonic Symphony] Hideki Naganuma - Back 2 Back (From \"Sonic Rush\")",
+      "hash": "2e784b1770fb07a6bd12dc29e49e9050965c81b7",
+      "levelid": "custom_level_2e784b1770fb07a6bd12dc29e49e9050965c81b7"
+    },
+    {
+      "key": "547aa",
+      "songName": "I'm Huggy! - FNF Huggy Mix OST",
+      "hash": "14a7ac2b2af004af400a52d625ac0755e8f64bea",
+      "levelid": "custom_level_14a7ac2b2af004af400a52d625ac0755e8f64bea"
+    },
+    {
+      "key": "547a9",
+      "songName": "I don't think i've seen anyone else post videos about laser dance.",
+      "hash": "de49409b3afb223acefca58aae63b278624271dc",
+      "levelid": "custom_level_de49409b3afb223acefca58aae63b278624271dc"
+    },
+    {
+      "key": "547a7",
+      "songName": "SOFI TUKKER, J. Balvin-COOK",
+      "hash": "63167ee320c9593acdd6f9753505882fe3217bd7",
+      "levelid": "custom_level_63167ee320c9593acdd6f9753505882fe3217bd7"
+    },
+    {
+      "key": "547a6",
+      "songName": "Busty Telephones",
+      "hash": "571ac3926d028fb0d221944a09b300d43af4addb",
+      "levelid": "custom_level_571ac3926d028fb0d221944a09b300d43af4addb"
+    },
+    {
+      "key": "547a5",
+      "songName": "Toyota Yaris",
+      "hash": "1008dbe71369f4e38db078eb8443b2286a773d87",
+      "levelid": "custom_level_1008dbe71369f4e38db078eb8443b2286a773d87"
+    },
+    {
+      "key": "547a4",
+      "songName": "S33K H3LP",
+      "hash": "ad2931083b7c31085b8d574be2b7f7708663b628",
+      "levelid": "custom_level_ad2931083b7c31085b8d574be2b7f7708663b628"
+    },
+    {
+      "key": "5479c",
+      "songName": "CG5 & Abdul Cisse - BITE OF 87 ",
+      "hash": "65af5d447025e99fdee61e23bd32de1f55e7610e",
+      "levelid": "custom_level_65af5d447025e99fdee61e23bd32de1f55e7610e"
+    },
+    {
+      "key": "54797",
+      "songName": "Cmotpu Ya Si'a'u",
+      "hash": "48d51bf4e925f7516c1e88039d64fa3dc4693e8e",
+      "levelid": "custom_level_48d51bf4e925f7516c1e88039d64fa3dc4693e8e"
+    },
+    {
+      "key": "5477d",
+      "songName": "Kobaryo - NEUTRON SANDBOX -SWR Version-",
+      "hash": "7b0eb4fa3689ca983079ab4ae364a56fa18f5b08",
+      "levelid": "custom_level_7b0eb4fa3689ca983079ab4ae364a56fa18f5b08"
+    },
+    {
+      "key": "5477a",
+      "songName": "Kobaryo - SLOWFALL GUILLOTINE PROMPT",
+      "hash": "9796a4885671a60031f85100d8991b71703654b0",
+      "levelid": "custom_level_9796a4885671a60031f85100d8991b71703654b0"
+    },
+    {
+      "key": "54772",
+      "songName": "[SWR Pack] Kobaryo - SUPER IMPOSTER (feat. HiTNEX-X)",
+      "hash": "ad60139979ed23fa87da888331e9b6d75a8bc979",
+      "levelid": "custom_level_ad60139979ed23fa87da888331e9b6d75a8bc979"
+    },
+    {
+      "key": "546c7",
+      "songName": "Kobaryo - Computer Cornflakes v2.0",
+      "hash": "9bbec937f1a3809d7e09f5cd212c49522a942f6b",
+      "levelid": "custom_level_9bbec937f1a3809d7e09f5cd212c49522a942f6b"
+    },
+    {
+      "key": "54775",
+      "songName": "Wynona's Big Brown Beaver",
+      "hash": "6d9719a084ed37471dbbae1782a60a201e2d75c0",
+      "levelid": "custom_level_6d9719a084ed37471dbbae1782a60a201e2d75c0"
+    },
+    {
+      "key": "54774",
+      "songName": "[Chroma] Eastside - Good Kid",
+      "hash": "466a56d1cba0bbbfbb4edd3e4779c37dc7cd57f2",
+      "levelid": "custom_level_466a56d1cba0bbbfbb4edd3e4779c37dc7cd57f2"
+    },
+    {
       "key": "54767",
       "songName": "Nantoka-P - Francium (Nanahira Cover)",
-      "hash": "1607ddd8676735f77898d6b7def91a53c921217a",
-      "levelid": "custom_level_1607ddd8676735f77898d6b7def91a53c921217a"
-    },
-    {
-      "key": "5474b",
-      "songName": "Perm - Bruno Mars",
-      "hash": "ed7f8c249e092b40c33064006b2c35f217a2e50f",
-      "levelid": "custom_level_ed7f8c249e092b40c33064006b2c35f217a2e50f"
-    },
-    {
-      "key": "54732",
-      "songName": "Kovaa Ajoo - Lakko X Herba",
-      "hash": "0c506047c1e81e7fdeea316c19b5978e45799bc3",
-      "levelid": "custom_level_0c506047c1e81e7fdeea316c19b5978e45799bc3"
-    },
-    {
-      "key": "54735",
-      "songName": "[REMASTERED] Hafo - Frank Wild, Kafuu",
-      "hash": "0936ffa2dc3e8794a88b46663c14439eaf5d52ee",
-      "levelid": "custom_level_0936ffa2dc3e8794a88b46663c14439eaf5d52ee"
-    },
-    {
-      "key": "5472b",
-      "songName": "Otakara BGM - Frustration Chain",
-      "hash": "40192ded59caf519cf1abeb48d3e0bde3843ff69",
-      "levelid": "custom_level_40192ded59caf519cf1abeb48d3e0bde3843ff69"
-    },
-    {
-      "key": "54729",
-      "songName": "Aversion, Unresolved, Spectral",
-      "hash": "f78f080406c5d7c72b6a42fde992b3c3670434c7",
-      "levelid": "custom_level_f78f080406c5d7c72b6a42fde992b3c3670434c7"
-    },
-    {
-      "key": "5470a",
-      "songName": "Edgars bukovskis - Mi hai lasciato solo",
-      "hash": "121e7069bf3bdd1bb42063329935e0dc387e8210",
-      "levelid": "custom_level_121e7069bf3bdd1bb42063329935e0dc387e8210"
-    },
-    {
-      "key": "54708",
-      "songName": "LEVEL5-judgelight- (とある科学の超電磁砲 OP2)",
-      "hash": "9e297857b89b0c05b6eb7a15bc3780660865a698",
-      "levelid": "custom_level_9e297857b89b0c05b6eb7a15bc3780660865a698"
-    },
-    {
-      "key": "54707",
-      "songName": "Final Masquerade",
-      "hash": "0c1ab879d69de0f81e6d7bb192e5aff3e8a02820",
-      "levelid": "custom_level_0c1ab879d69de0f81e6d7bb192e5aff3e8a02820"
-    },
-    {
-      "key": "54706",
-      "songName": "The Clamps, Moneo, Wiguez - La Calle Del Aire",
-      "hash": "29a142b8dda824eefdf8ce460fd4bf8ed857487f",
-      "levelid": "custom_level_29a142b8dda824eefdf8ce460fd4bf8ed857487f"
-    },
-    {
-      "key": "54705",
-      "songName": "Kids minecraft house gets deleted",
-      "hash": "3a4bc150864849fc0b7e36551632d5832f4a4454",
-      "levelid": "custom_level_3a4bc150864849fc0b7e36551632d5832f4a4454"
-    },
-    {
-      "key": "54704",
-      "songName": "Aghhhhh.....",
-      "hash": "92b8fa81f800e330e4d056c843ed24a06bee4601",
-      "levelid": "custom_level_92b8fa81f800e330e4d056c843ed24a06bee4601"
-    },
-    {
-      "key": "54701",
-      "songName": " Fractalia (by Owen Clayton Condon) - Third Coast Percussion",
-      "hash": "853b251bbb407ba7f557019e066df3abd176a227",
-      "levelid": "custom_level_853b251bbb407ba7f557019e066df3abd176a227"
-    },
-    {
-      "key": "546ff",
-      "songName": "Untitled #1",
-      "hash": "dd55e7a2c210ee1218a5386a750c6f906bf77881",
-      "levelid": "custom_level_dd55e7a2c210ee1218a5386a750c6f906bf77881"
-    },
-    {
-      "key": "546fd",
-      "songName": "Human Music",
-      "hash": "744eeff4847c1ddc2fed15b5840f882fc243d3be",
-      "levelid": "custom_level_744eeff4847c1ddc2fed15b5840f882fc243d3be"
-    },
-    {
-      "key": "546f8",
-      "songName": "The 2nd Color",
-      "hash": "4c9cc8e7ac4683dfe3b46bf4221287964c8f6a1d",
-      "levelid": "custom_level_4c9cc8e7ac4683dfe3b46bf4221287964c8f6a1d"
-    },
-    {
-      "key": "546f0",
-      "songName": "inoqx - BURDEN",
-      "hash": "e668464c3e16a1bd91fd6ee4117cb51a9480cd10",
-      "levelid": "custom_level_e668464c3e16a1bd91fd6ee4117cb51a9480cd10"
-    },
-    {
-      "key": "546ed",
-      "songName": "Where Are The Flowers",
-      "hash": "e8e37901851f768ab6a4e1f0f1a50f77ab6e027f",
-      "levelid": "custom_level_e8e37901851f768ab6a4e1f0f1a50f77ab6e027f"
-    },
-    {
-      "key": "546ec",
-      "songName": "Cannibalism",
-      "hash": "9fc2e76def1f1737a12a38df9001e34e981c0a58",
-      "levelid": "custom_level_9fc2e76def1f1737a12a38df9001e34e981c0a58"
-    },
-    {
-      "key": "546eb",
-      "songName": "Phantom Siita - botばっか (bot bakka)",
-      "hash": "feed8bdc69210f9c36cfcedaf64401c0f80aec10",
-      "levelid": "custom_level_feed8bdc69210f9c36cfcedaf64401c0f80aec10"
-    },
-    {
-      "key": "546e8",
-      "songName": "Richard Armitage and the Dwarf Cast - Far Over the Misty Mountains Cold",
-      "hash": "c7d90460706b26f697ffbbb903414e360528aa81",
-      "levelid": "custom_level_c7d90460706b26f697ffbbb903414e360528aa81"
-    },
-    {
-      "key": "546e7",
-      "songName": "FAHHH",
-      "hash": "ed6bdeb620452c3060a3c02c88508439905b9648",
-      "levelid": "custom_level_ed6bdeb620452c3060a3c02c88508439905b9648"
-    },
-    {
-      "key": "546e6",
-      "songName": "Bearson - Go To Sleep (SYRE Remix)",
-      "hash": "42d180af5c7fa87f911d748c3e87a0bc61744de2",
-      "levelid": "custom_level_42d180af5c7fa87f911d748c3e87a0bc61744de2"
-    },
-    {
-      "key": "546ce",
-      "songName": "Peanut Butter Jerry time",
-      "hash": "d5cdb0a9500b379e802446e7235d659541d55b81",
-      "levelid": "custom_level_d5cdb0a9500b379e802446e7235d659541d55b81"
-    },
-    {
-      "key": "546e4",
-      "songName": "demons",
-      "hash": "9c1f4797c796de121b1a5ca2fc80486597b7ae1a",
-      "levelid": "custom_level_9c1f4797c796de121b1a5ca2fc80486597b7ae1a"
-    },
-    {
-      "key": "546e5",
-      "songName": "Sex",
-      "hash": "536a3cc113f1a1a6b93bf1b9979968bc0805170f",
-      "levelid": "custom_level_536a3cc113f1a1a6b93bf1b9979968bc0805170f"
-    },
-    {
-      "key": "546df",
-      "songName": "Revenant Underchart(????)",
-      "hash": "9e2069ef0d9922717263e43c436657d608001fc8",
-      "levelid": "custom_level_9e2069ef0d9922717263e43c436657d608001fc8"
-    },
-    {
-      "key": "546d4",
-      "songName": "Montell2099, XIRA & Sublab - Exodia (vkno Remix)",
-      "hash": "4c9422fea87328db7a4ff2aaad1dfcbf0152d42f",
-      "levelid": "custom_level_4c9422fea87328db7a4ff2aaad1dfcbf0152d42f"
-    },
-    {
-      "key": "546d5",
-      "songName": "[Spider Slider Ver.] I'm About to Lose It, but I'm Doing Fine",
-      "hash": "985c8758893543012b988e8ff5b8bab5ce248723",
-      "levelid": "custom_level_985c8758893543012b988e8ff5b8bab5ce248723"
-    },
-    {
-      "key": "546d3",
-      "songName": "tiriririri Phonk",
-      "hash": "7244b69e6199c062b5e90df6e28ac556bf66fa37",
-      "levelid": "custom_level_7244b69e6199c062b5e90df6e28ac556bf66fa37"
-    },
-    {
-      "key": "5468c",
-      "songName": "You What???? ",
-      "hash": "4079a398c0235b20a571982401ea1b56d1a73750",
-      "levelid": "custom_level_4079a398c0235b20a571982401ea1b56d1a73750"
-    },
-    {
-      "key": "546c3",
-      "songName": "DJ Mass MAD Izm* - Red. By Full Metal Jacket",
-      "hash": "d4c79782173e9c056f55c9647b8347cd884c5ad8",
-      "levelid": "custom_level_d4c79782173e9c056f55c9647b8347cd884c5ad8"
-    },
-    {
-      "key": "54698",
-      "songName": "Curren Chan (CV. Yu Sasahara) -  #Saykawaii ",
-      "hash": "5090fe940c9ef86fc68814d4f80a19d2e07b2a9f",
-      "levelid": "custom_level_5090fe940c9ef86fc68814d4f80a19d2e07b2a9f"
-    },
-    {
-      "key": "546bf",
-      "songName": "QuomodocunquizE (FINISHED)",
-      "hash": "122b35a1bdaa92ba41dc65318fa30d858095ec80",
-      "levelid": "custom_level_122b35a1bdaa92ba41dc65318fa30d858095ec80"
+      "hash": "542528afe591d6d0f824285fbdd3733a49e873f3",
+      "levelid": "custom_level_542528afe591d6d0f824285fbdd3733a49e873f3"
     }
   ],
   "image": ""
