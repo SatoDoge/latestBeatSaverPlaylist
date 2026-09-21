@@ -1,274 +1,196 @@
 {
-  "playlistTitle": "2026-09-19T15:18:48.170Z~2026-09-20T15:18:48.170Z",
+  "playlistTitle": "2026-09-20T15:18:48.321Z~2026-09-21T15:18:48.321Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-09-19T15:18:48.170Z and 2026-09-20T15:18:48.170Z",
+  "discripstion": "Maps published between 2026-09-20T15:18:48.321Z and 2026-09-21T15:18:48.321Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "5481b",
-      "songName": "CAMPIONE DEI NOVANTA",
-      "hash": "da81bb8692dc7b12ef71561c12d114de5494d2e2",
-      "levelid": "custom_level_da81bb8692dc7b12ef71561c12d114de5494d2e2"
+      "key": "5485a",
+      "songName": "Toby Fox - Power of SPAMTON (Unused Track)",
+      "hash": "d8801589c895161c7ac173e828fae027ed1bcc2b",
+      "levelid": "custom_level_d8801589c895161c7ac173e828fae027ed1bcc2b"
     },
     {
-      "key": "54819",
-      "songName": "SPOOKY 2",
-      "hash": "c47cb555f8d1ee6587041e71288f4d397c08ba0b",
-      "levelid": "custom_level_c47cb555f8d1ee6587041e71288f4d397c08ba0b"
+      "key": "54859",
+      "songName": "musically black kid",
+      "hash": "9221cf0bd805fd5789d3367e8ae040e4793a56bb",
+      "levelid": "custom_level_9221cf0bd805fd5789d3367e8ae040e4793a56bb"
     },
     {
-      "key": "54818",
-      "songName": "Into The Unknown",
-      "hash": "54162fe957fd6ae0e75c5bb138f87fa96ed529c0",
-      "levelid": "custom_level_54162fe957fd6ae0e75c5bb138f87fa96ed529c0"
+      "key": "54857",
+      "songName": "BEAT UP CHANEL$ (Slayyyter)",
+      "hash": "54ecab29f81a19a89bcada8f9002605dd25fde08",
+      "levelid": "custom_level_54ecab29f81a19a89bcada8f9002605dd25fde08"
     },
     {
-      "key": "54816",
-      "songName": "freeway - below!",
-      "hash": "00149d7b143bd8ef7e5d0d1ed903f07089f192a2",
-      "levelid": "custom_level_00149d7b143bd8ef7e5d0d1ed903f07089f192a2"
+      "key": "54854",
+      "songName": "Drun of justice",
+      "hash": "66ccb58e4d86b6d157d0f1748f7a898e24bdf7e1",
+      "levelid": "custom_level_66ccb58e4d86b6d157d0f1748f7a898e24bdf7e1"
     },
     {
-      "key": "54812",
-      "songName": "Azari - D/N/A (Sakigane Poshika Cover)",
-      "hash": "5068a98334099ed32f57beaa3671f49b4dc4494a",
-      "levelid": "custom_level_5068a98334099ed32f57beaa3671f49b4dc4494a"
+      "key": "54851",
+      "songName": "Badtrip Boys - Like Animals (RU)",
+      "hash": "8dfbd0ec2e1225ddb0f1bb7ba7fdbd0b760a72d6",
+      "levelid": "custom_level_8dfbd0ec2e1225ddb0f1bb7ba7fdbd0b760a72d6"
     },
     {
-      "key": "5480b",
-      "songName": "memes",
-      "hash": "30b4e6287e14d6ee8678dee9b7e3495ec91792ba",
-      "levelid": "custom_level_30b4e6287e14d6ee8678dee9b7e3495ec91792ba"
+      "key": "5484c",
+      "songName": "future gazer (とある科学の超電磁砲OVA OP)",
+      "hash": "39a473f3cd5401f736755f616ebeb655ab41585d",
+      "levelid": "custom_level_39a473f3cd5401f736755f616ebeb655ab41585d"
     },
     {
-      "key": "5480a",
-      "songName": "Real Force (とある科学の超電磁砲 ED2)",
-      "hash": "0b1dce6efd404daf6d0070d29bd693b9845c3a73",
-      "levelid": "custom_level_0b1dce6efd404daf6d0070d29bd693b9845c3a73"
+      "key": "5484b",
+      "songName": "Quater Life",
+      "hash": "6bd9a4ee92e2615b2ab12675f774d1d55a4dab28",
+      "levelid": "custom_level_6bd9a4ee92e2615b2ab12675f774d1d55a4dab28"
     },
     {
-      "key": "54808",
-      "songName": "Engine start no problem",
-      "hash": "db33bfd7df1b245f622af6f9abca81d7ffddc1fb",
-      "levelid": "custom_level_db33bfd7df1b245f622af6f9abca81d7ffddc1fb"
+      "key": "54849",
+      "songName": "i didn't need you anyway",
+      "hash": "11a7330f8069570a0ae8408a726222f432159c2c",
+      "levelid": "custom_level_11a7330f8069570a0ae8408a726222f432159c2c"
     },
     {
-      "key": "547fb",
-      "songName": "safety",
-      "hash": "a94304bde452097a6ad3632c710e67135481adb6",
-      "levelid": "custom_level_a94304bde452097a6ad3632c710e67135481adb6"
+      "key": "54847",
+      "songName": "Asphyxiations Lullaby - Buried Realm",
+      "hash": "1868a14c9d33b27822be20a3ee51cd784066747e",
+      "levelid": "custom_level_1868a14c9d33b27822be20a3ee51cd784066747e"
     },
     {
-      "key": "547df",
-      "songName": "Kotori - Death From above",
-      "hash": "04cdd8ee40cee891a2a5d522cbe958df1638b591",
-      "levelid": "custom_level_04cdd8ee40cee891a2a5d522cbe958df1638b591"
+      "key": "54848",
+      "songName": "YNG Martyr  BURR (JV)",
+      "hash": "5c70d7761f9c4298639025bb0dc2b1ac0cdae03a",
+      "levelid": "custom_level_5c70d7761f9c4298639025bb0dc2b1ac0cdae03a"
     },
     {
-      "key": "547ce",
-      "songName": "Michael Jackson - Smooth Criminal",
-      "hash": "3aa127fa94203a8a53fe13bba3987900b7e3168c",
-      "levelid": "custom_level_3aa127fa94203a8a53fe13bba3987900b7e3168c"
+      "key": "54846",
+      "songName": "d2s1- soon ( floor)",
+      "hash": "7e677468e577f49a7b6469fe4316d1e491b2ba21",
+      "levelid": "custom_level_7e677468e577f49a7b6469fe4316d1e491b2ba21"
     },
     {
-      "key": "547d6",
-      "songName": "Various Artists - Autumn Mountain Battle (From \"Paper Mario: The Origami King\")",
-      "hash": "177aa03db6714d3b9fef33750c3d847217fe9c5f",
-      "levelid": "custom_level_177aa03db6714d3b9fef33750c3d847217fe9c5f"
+      "key": "54844",
+      "songName": "hot wheels acceleracers theme",
+      "hash": "e39501a05a52f725b00f79247be1ead806e8f922",
+      "levelid": "custom_level_e39501a05a52f725b00f79247be1ead806e8f922"
     },
     {
-      "key": "547cd",
-      "songName": "Who Is This?",
-      "hash": "e456e425e6a09b8e7277e44ddee6433feac65873",
-      "levelid": "custom_level_e456e425e6a09b8e7277e44ddee6433feac65873"
+      "key": "54817",
+      "songName": "I'm Huggy! (Pico Mix) - FNF Huggy Mix OST",
+      "hash": "76d72348efc370359a8fb1c7a69dc5da1c9c431d",
+      "levelid": "custom_level_76d72348efc370359a8fb1c7a69dc5da1c9c431d"
     },
     {
-      "key": "547c4",
-      "songName": "GoodBye - Flauwher",
-      "hash": "4aa0cc5bd79eb60c4243e2097272e5bfed298d66",
-      "levelid": "custom_level_4aa0cc5bd79eb60c4243e2097272e5bfed298d66"
+      "key": "54843",
+      "songName": "insides",
+      "hash": "9d09e741d159ff6b7557e39b005bcf8d58faf2f2",
+      "levelid": "custom_level_9d09e741d159ff6b7557e39b005bcf8d58faf2f2"
     },
     {
-      "key": "547c3",
-      "songName": "Paul Bazooka - Behemoth",
-      "hash": "8b4a05dd2ef7ab4e8a3bf9f83f75140e42c7741f",
-      "levelid": "custom_level_8b4a05dd2ef7ab4e8a3bf9f83f75140e42c7741f"
+      "key": "5483f",
+      "songName": "test",
+      "hash": "7b697d6995cf1f0dcc705d342790b5d1b6a0fbee",
+      "levelid": "custom_level_7b697d6995cf1f0dcc705d342790b5d1b6a0fbee"
     },
     {
-      "key": "547c2",
-      "songName": "FC Random Note's day 1",
-      "hash": "cbb3022533fdb84f0f41daea77c6c40549d45aaa",
-      "levelid": "custom_level_cbb3022533fdb84f0f41daea77c6c40549d45aaa"
+      "key": "5483a",
+      "songName": "mitsukiyo & Lee Jin-ah - Target For Love [Ludicin's Hardcore Bootleg]",
+      "hash": "d4d1f8c01eef97c6fbee5f0f7da4d3c676519b6b",
+      "levelid": "custom_level_d4d1f8c01eef97c6fbee5f0f7da4d3c676519b6b"
     },
     {
-      "key": "547c0",
-      "songName": "Matrix (bl studio loop) (slowed)",
-      "hash": "751a91119c2b17bc07b4f3755836133a2e799965",
-      "levelid": "custom_level_751a91119c2b17bc07b4f3755836133a2e799965"
+      "key": "54838",
+      "songName": "Vanishing Point",
+      "hash": "5789dbd684ef69a7ec280a4c727e343951ecb4a7",
+      "levelid": "custom_level_5789dbd684ef69a7ec280a4c727e343951ecb4a7"
     },
     {
-      "key": "547bf",
-      "songName": "[Shitpost] What This Dealer",
-      "hash": "72689a27c5526e3e41ada259a805d1c4cec25458",
-      "levelid": "custom_level_72689a27c5526e3e41ada259a805d1c4cec25458"
+      "key": "54837",
+      "songName": "hide n seek",
+      "hash": "5fa9922728a906f75ee08ccdd873ce16a4b3cdce",
+      "levelid": "custom_level_5fa9922728a906f75ee08ccdd873ce16a4b3cdce"
     },
     {
-      "key": "547bd",
-      "songName": "Shanty of Lost Skullls",
-      "hash": "fbfe8f09f766fe529af3c6ae7aa969369020d934",
-      "levelid": "custom_level_fbfe8f09f766fe529af3c6ae7aa969369020d934"
+      "key": "54616",
+      "songName": "Ira Del Vacío",
+      "hash": "4e8a2962fb90b3d1ee7ca71aa82032e273ca6231",
+      "levelid": "custom_level_4e8a2962fb90b3d1ee7ca71aa82032e273ca6231"
     },
     {
-      "key": "547bb",
-      "songName": "Celeste Original Soundtrack - 01 - Prologue",
-      "hash": "1a9d8a0b39c81342485a9e0e083ec4bd1cce0d2d",
-      "levelid": "custom_level_1a9d8a0b39c81342485a9e0e083ec4bd1cce0d2d"
+      "key": "5401c",
+      "songName": "MMVI Rompa - BOMBAY",
+      "hash": "2b390ad801d5834f030c1964cc0941fbd9556cc3",
+      "levelid": "custom_level_2b390ad801d5834f030c1964cc0941fbd9556cc3"
     },
     {
-      "key": "547ba",
-      "songName": "Nevermind",
-      "hash": "58e34f7752dd6ea1d24e4915744ff8e1d9ad1514",
-      "levelid": "custom_level_58e34f7752dd6ea1d24e4915744ff8e1d9ad1514"
+      "key": "5482d",
+      "songName": "..FEISTY (feat. Bia)",
+      "hash": "189c352a44c1cb0412234269ae49427120829f08",
+      "levelid": "custom_level_189c352a44c1cb0412234269ae49427120829f08"
     },
     {
-      "key": "547b9",
-      "songName": "Unslept (0.85x)",
-      "hash": "c5c570945dab7cbb96073a7cf069d0a9eaab7fc0",
-      "levelid": "custom_level_c5c570945dab7cbb96073a7cf069d0a9eaab7fc0"
+      "key": "5482e",
+      "songName": "Menlo Park",
+      "hash": "b813d67fee200a5109b0c1b216f54d9e63495198",
+      "levelid": "custom_level_b813d67fee200a5109b0c1b216f54d9e63495198"
     },
     {
-      "key": "547b3",
-      "songName": "loose cannon",
-      "hash": "311f7361d3c1fe64c6e1f88f5a0758d9eb07c7e6",
-      "levelid": "custom_level_311f7361d3c1fe64c6e1f88f5a0758d9eb07c7e6"
+      "key": "5482c",
+      "songName": "seanvr1981 plays SeanVR1981 saying Stupid Bombs",
+      "hash": "cbeeb2598087e15131e03855a983716be8b84cd8",
+      "levelid": "custom_level_cbeeb2598087e15131e03855a983716be8b84cd8"
     },
     {
-      "key": "547b2",
-      "songName": "Made My Night - LE SSERAFIM",
-      "hash": "5ef48a672633bcdfaebc354b77d8291cc7f3b2f3",
-      "levelid": "custom_level_5ef48a672633bcdfaebc354b77d8291cc7f3b2f3"
+      "key": "5337d",
+      "songName": "swayinggg",
+      "hash": "b7cc3ee99ec038006f63baf497f213ad60d3ea55",
+      "levelid": "custom_level_b7cc3ee99ec038006f63baf497f213ad60d3ea55"
     },
     {
-      "key": "547af",
-      "songName": "yu@kio - Candy Chaos",
-      "hash": "4c25bf23652d55f71ea65f29e16fba3b3c2a1c0e",
-      "levelid": "custom_level_4c25bf23652d55f71ea65f29e16fba3b3c2a1c0e"
+      "key": "5482a",
+      "songName": "ParagonX9 - Infiltration",
+      "hash": "e2e88b0213b05bed8fc37185b6cd908c7f3548ce",
+      "levelid": "custom_level_e2e88b0213b05bed8fc37185b6cd908c7f3548ce"
     },
     {
-      "key": "547ad",
-      "songName": "Thumbaway (farewell)",
-      "hash": "e23afcb61696cd9b1aa6f57680dcda617b5b8a66",
-      "levelid": "custom_level_e23afcb61696cd9b1aa6f57680dcda617b5b8a66"
+      "key": "54829",
+      "songName": "DJ Project - La Timpul Lor",
+      "hash": "a5efab823d5551a5699bc6a4d48e4c4b4b560f2a",
+      "levelid": "custom_level_a5efab823d5551a5699bc6a4d48e4c4b4b560f2a"
     },
     {
-      "key": "547ac",
-      "songName": "700 bpm practice but wide pauls",
-      "hash": "3438bdebbd38cf2bfd0dad7bced3fce293247549",
-      "levelid": "custom_level_3438bdebbd38cf2bfd0dad7bced3fce293247549"
+      "key": "54828",
+      "songName": "SeanVR1981 saying Stupid Bombs",
+      "hash": "9f75283d7b61c9984be3b1c8c60b706564cebf93",
+      "levelid": "custom_level_9f75283d7b61c9984be3b1c8c60b706564cebf93"
     },
     {
-      "key": "547ab",
-      "songName": "sink into the deep world of darkness",
-      "hash": "4d7c060f4d19c682139853547d69c2784931c9c4",
-      "levelid": "custom_level_4d7c060f4d19c682139853547d69c2784931c9c4"
+      "key": "54827",
+      "songName": "Sunshine, Lollipops And Rainbows",
+      "hash": "080958a4c93257b0d6117bc1c5f60027bd26c83a",
+      "levelid": "custom_level_080958a4c93257b0d6117bc1c5f60027bd26c83a"
     },
     {
-      "key": "54109",
-      "songName": "[Sonic Symphony] Hideki Naganuma - Back 2 Back (From \"Sonic Rush\")",
-      "hash": "2e784b1770fb07a6bd12dc29e49e9050965c81b7",
-      "levelid": "custom_level_2e784b1770fb07a6bd12dc29e49e9050965c81b7"
+      "key": "5481c",
+      "songName": "Tate Mcrae - TIT FOR TAT",
+      "hash": "9babc45a0314b226d556f6d62fcd319891e9f8b9",
+      "levelid": "custom_level_9babc45a0314b226d556f6d62fcd319891e9f8b9"
     },
     {
-      "key": "547aa",
-      "songName": "I'm Huggy! - FNF Huggy Mix OST",
-      "hash": "14a7ac2b2af004af400a52d625ac0755e8f64bea",
-      "levelid": "custom_level_14a7ac2b2af004af400a52d625ac0755e8f64bea"
+      "key": "546e1",
+      "songName": "D-D-Dice vs. Ashrount - DREAD AREA",
+      "hash": "6747a8ddb2e98cf152a2f67b78ec0efeac5067e4",
+      "levelid": "custom_level_6747a8ddb2e98cf152a2f67b78ec0efeac5067e4"
     },
     {
-      "key": "547a9",
-      "songName": "I don't think i've seen anyone else post videos about laser dance.",
-      "hash": "de49409b3afb223acefca58aae63b278624271dc",
-      "levelid": "custom_level_de49409b3afb223acefca58aae63b278624271dc"
-    },
-    {
-      "key": "547a7",
-      "songName": "SOFI TUKKER, J. Balvin-COOK",
-      "hash": "63167ee320c9593acdd6f9753505882fe3217bd7",
-      "levelid": "custom_level_63167ee320c9593acdd6f9753505882fe3217bd7"
-    },
-    {
-      "key": "547a6",
-      "songName": "Busty Telephones",
-      "hash": "571ac3926d028fb0d221944a09b300d43af4addb",
-      "levelid": "custom_level_571ac3926d028fb0d221944a09b300d43af4addb"
-    },
-    {
-      "key": "547a5",
-      "songName": "Toyota Yaris",
-      "hash": "1008dbe71369f4e38db078eb8443b2286a773d87",
-      "levelid": "custom_level_1008dbe71369f4e38db078eb8443b2286a773d87"
-    },
-    {
-      "key": "547a4",
-      "songName": "S33K H3LP",
-      "hash": "ad2931083b7c31085b8d574be2b7f7708663b628",
-      "levelid": "custom_level_ad2931083b7c31085b8d574be2b7f7708663b628"
-    },
-    {
-      "key": "5479c",
-      "songName": "CG5 & Abdul Cisse - BITE OF 87 ",
-      "hash": "65af5d447025e99fdee61e23bd32de1f55e7610e",
-      "levelid": "custom_level_65af5d447025e99fdee61e23bd32de1f55e7610e"
-    },
-    {
-      "key": "54797",
-      "songName": "Cmotpu Ya Si'a'u",
-      "hash": "48d51bf4e925f7516c1e88039d64fa3dc4693e8e",
-      "levelid": "custom_level_48d51bf4e925f7516c1e88039d64fa3dc4693e8e"
-    },
-    {
-      "key": "5477d",
-      "songName": "Kobaryo - NEUTRON SANDBOX -SWR Version-",
-      "hash": "7b0eb4fa3689ca983079ab4ae364a56fa18f5b08",
-      "levelid": "custom_level_7b0eb4fa3689ca983079ab4ae364a56fa18f5b08"
-    },
-    {
-      "key": "5477a",
-      "songName": "Kobaryo - SLOWFALL GUILLOTINE PROMPT",
-      "hash": "9796a4885671a60031f85100d8991b71703654b0",
-      "levelid": "custom_level_9796a4885671a60031f85100d8991b71703654b0"
-    },
-    {
-      "key": "54772",
-      "songName": "[SWR Pack] Kobaryo - SUPER IMPOSTER (feat. HiTNEX-X)",
-      "hash": "ad60139979ed23fa87da888331e9b6d75a8bc979",
-      "levelid": "custom_level_ad60139979ed23fa87da888331e9b6d75a8bc979"
-    },
-    {
-      "key": "546c7",
-      "songName": "Kobaryo - Computer Cornflakes v2.0",
-      "hash": "9bbec937f1a3809d7e09f5cd212c49522a942f6b",
-      "levelid": "custom_level_9bbec937f1a3809d7e09f5cd212c49522a942f6b"
-    },
-    {
-      "key": "54775",
-      "songName": "Wynona's Big Brown Beaver",
-      "hash": "6d9719a084ed37471dbbae1782a60a201e2d75c0",
-      "levelid": "custom_level_6d9719a084ed37471dbbae1782a60a201e2d75c0"
-    },
-    {
-      "key": "54774",
-      "songName": "[Chroma] Eastside - Good Kid",
-      "hash": "466a56d1cba0bbbfbb4edd3e4779c37dc7cd57f2",
-      "levelid": "custom_level_466a56d1cba0bbbfbb4edd3e4779c37dc7cd57f2"
-    },
-    {
-      "key": "54767",
-      "songName": "Nantoka-P - Francium (Nanahira Cover)",
-      "hash": "542528afe591d6d0f824285fbdd3733a49e873f3",
-      "levelid": "custom_level_542528afe591d6d0f824285fbdd3733a49e873f3"
+      "key": "544eb",
+      "songName": "[Fitbeat] WE GOT THE MOVES",
+      "hash": "befd24a7390b498aa3d31676afae06f71b020a19",
+      "levelid": "custom_level_befd24a7390b498aa3d31676afae06f71b020a19"
     }
   ],
   "image": ""
