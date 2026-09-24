@@ -1,202 +1,208 @@
 {
-  "playlistTitle": "2026-09-22T15:18:51.414Z~2026-09-23T15:18:51.414Z",
+  "playlistTitle": "2026-09-23T15:18:48.279Z~2026-09-24T15:18:48.279Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-09-22T15:18:51.414Z and 2026-09-23T15:18:51.414Z",
+  "discripstion": "Maps published between 2026-09-23T15:18:48.279Z and 2026-09-24T15:18:48.279Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "548f4",
-      "songName": "Bad ",
-      "hash": "0b38182bbb28f26b495015a23481edb6c368b2c2",
-      "levelid": "custom_level_0b38182bbb28f26b495015a23481edb6c368b2c2"
+      "key": "5494a",
+      "songName": "Joseph",
+      "hash": "33908ec6232e6cdcfb044bc1cd80e79d348ae6c5",
+      "levelid": "custom_level_33908ec6232e6cdcfb044bc1cd80e79d348ae6c5"
     },
     {
-      "key": "548f3",
-      "songName": "Feel So Right",
-      "hash": "3d7ff8df3a893b2ca0ac023607071d0c1c792a96",
-      "levelid": "custom_level_3d7ff8df3a893b2ca0ac023607071d0c1c792a96"
+      "key": "54949",
+      "songName": " Black Box [NieR:Automata Ver1.1a 2nd Season Opening] - Lisa",
+      "hash": "986cc509630f38baf83bbd0cf031f241578e8dde",
+      "levelid": "custom_level_986cc509630f38baf83bbd0cf031f241578e8dde"
     },
     {
-      "key": "548f2",
-      "songName": "Paperella Gay",
-      "hash": "f6f63d3b0c49a8e13eb3e3a57ce8f6ef66d186ef",
-      "levelid": "custom_level_f6f63d3b0c49a8e13eb3e3a57ce8f6ef66d186ef"
+      "key": "54948",
+      "songName": "Electrify",
+      "hash": "d0a2cee2b9ff9194858dfdef1ba659c5b0ec344f",
+      "levelid": "custom_level_d0a2cee2b9ff9194858dfdef1ba659c5b0ec344f"
     },
     {
-      "key": "548f1",
-      "songName": "musically black kid (the squeakquel)",
-      "hash": "efa1aa7023ceb1b3dcfe26e5753880ac198d9100",
-      "levelid": "custom_level_efa1aa7023ceb1b3dcfe26e5753880ac198d9100"
+      "key": "54947",
+      "songName": "Brinks /w slimegoon9",
+      "hash": "2ac70a2846c4a41b49a9b2ede4e3c6d208d4b48f",
+      "levelid": "custom_level_2ac70a2846c4a41b49a9b2ede4e3c6d208d4b48f"
     },
     {
-      "key": "548ef",
-      "songName": "Spelunker",
-      "hash": "252a5b918dda1c882eeab0b2ccdade17942ebcb9",
-      "levelid": "custom_level_252a5b918dda1c882eeab0b2ccdade17942ebcb9"
+      "key": "54939",
+      "songName": "Back to Mars ",
+      "hash": "6b6885511ab12a26da7a570a667177a259d4ef44",
+      "levelid": "custom_level_6b6885511ab12a26da7a570a667177a259d4ef44"
     },
     {
-      "key": "548ed",
-      "songName": "Ittai Itsukara (Short Ver.) -Tsukimura Temari",
-      "hash": "17f7081ee6b0d10b3f16b20ee3ffa9aa68b4065e",
-      "levelid": "custom_level_17f7081ee6b0d10b3f16b20ee3ffa9aa68b4065e"
+      "key": "54946",
+      "songName": "rock it",
+      "hash": "8ca09b5792132430d17177e5d25155b6dd1cd469",
+      "levelid": "custom_level_8ca09b5792132430d17177e5d25155b6dd1cd469"
     },
     {
-      "key": "548da",
-      "songName": "sister's noise (とある科学の超電磁砲S OP)",
-      "hash": "3cc1d0be385fb42f50a6218f9dba5db8af9e3b1d",
-      "levelid": "custom_level_3cc1d0be385fb42f50a6218f9dba5db8af9e3b1d"
+      "key": "54945",
+      "songName": "Tim Haywood - Street Party (Extended Mix)",
+      "hash": "6b2a7beeecbc0e74bfe19e8c2c518d2e41b2f94c",
+      "levelid": "custom_level_6b2a7beeecbc0e74bfe19e8c2c518d2e41b2f94c"
     },
     {
-      "key": "548d9",
-      "songName": "MiniKing Logo Song",
-      "hash": "819223934a90ebd82551380771ba0afe84ba695c",
-      "levelid": "custom_level_819223934a90ebd82551380771ba0afe84ba695c"
+      "key": "54944",
+      "songName": "LEFT OF ME",
+      "hash": "e63dd8b1989c6d98e4e09fb2cb2ee00343fd3ce5",
+      "levelid": "custom_level_e63dd8b1989c6d98e4e09fb2cb2ee00343fd3ce5"
     },
     {
-      "key": "548d5",
-      "songName": "Parry Gripp - I Got No iPhone",
-      "hash": "ff688ac049f8128a712249183e4ef0986c9f158c",
-      "levelid": "custom_level_ff688ac049f8128a712249183e4ef0986c9f158c"
+      "key": "504dc",
+      "songName": "[Chroma] Guilty Kiss - Nameless Love Song",
+      "hash": "6fc3803df82eb8e2f713cbac980065e8a409d8e0",
+      "levelid": "custom_level_6fc3803df82eb8e2f713cbac980065e8a409d8e0"
     },
     {
-      "key": "548d3",
-      "songName": "Random (memes) I found on discord ",
-      "hash": "2d90d67239200b72d5d97ec4875322ee8e35b36c",
-      "levelid": "custom_level_2d90d67239200b72d5d97ec4875322ee8e35b36c"
+      "key": "54943",
+      "songName": "Grow Slowly (とある科学の超電磁砲S ED)",
+      "hash": "db52a860cac23ee3d1572394e150e22ce699cf34",
+      "levelid": "custom_level_db52a860cac23ee3d1572394e150e22ce699cf34"
     },
     {
-      "key": "548d1",
-      "songName": "Your Verity",
-      "hash": "9ad68d265e9a24740c2987ef32a7006512643499",
-      "levelid": "custom_level_9ad68d265e9a24740c2987ef32a7006512643499"
+      "key": "54942",
+      "songName": "QED feat.saewool＆重音テトSV-MIMI",
+      "hash": "48a231a63d802acda753dc29fe23dfc3d6fc55ca",
+      "levelid": "custom_level_48a231a63d802acda753dc29fe23dfc3d6fc55ca"
     },
     {
-      "key": "548d0",
-      "songName": "Wide Putin Walking",
-      "hash": "b4c196bb699987dbcbba2701cbc40fd191f637d3",
-      "levelid": "custom_level_b4c196bb699987dbcbba2701cbc40fd191f637d3"
+      "key": "54941",
+      "songName": " Kobaryo & Matatabi Sound System + DJ NECOJITA + Shinonome I/F + blaxervant - fun TIME",
+      "hash": "3c5c0572ba858ec29401ed2d7838bdb28925b9d1",
+      "levelid": "custom_level_3c5c0572ba858ec29401ed2d7838bdb28925b9d1"
     },
     {
-      "key": "548cf",
-      "songName": "カミサマ・ネコサマ",
-      "hash": "d7ba009f0d49f1b0e2108b5f5adff67f1a24cec4",
-      "levelid": "custom_level_d7ba009f0d49f1b0e2108b5f5adff67f1a24cec4"
+      "key": "54940",
+      "songName": "TomDark - YEAAAAHH",
+      "hash": "740cf874b5611e1f5b69e5e49e8b63b937808456",
+      "levelid": "custom_level_740cf874b5611e1f5b69e5e49e8b63b937808456"
     },
     {
-      "key": "548ce",
-      "songName": "DAS LOVE BOP",
-      "hash": "74972b3b3b447d9a49d05551f74e3f77b3066dd4",
-      "levelid": "custom_level_74972b3b3b447d9a49d05551f74e3f77b3066dd4"
+      "key": "5493d",
+      "songName": "Remzcore - Justice",
+      "hash": "33bf6487777227b7d940bf96f277792bd5b9ccc7",
+      "levelid": "custom_level_33bf6487777227b7d940bf96f277792bd5b9ccc7"
     },
     {
-      "key": "548cd",
-      "songName": "Apartments",
-      "hash": "8be172848b49ed85ab904fc5de56efcb0effebaa",
-      "levelid": "custom_level_8be172848b49ed85ab904fc5de56efcb0effebaa"
+      "key": "5493c",
+      "songName": "MiniKing - Just because (ただただ) Part 1 (150bpm)",
+      "hash": "57ac0ce547346f403e3443f67d333d05ec7eba22",
+      "levelid": "custom_level_57ac0ce547346f403e3443f67d333d05ec7eba22"
     },
     {
-      "key": "548cc",
-      "songName": "oreostep",
-      "hash": "5318d521bcb7b87ec0707acef83929610c6c9658",
-      "levelid": "custom_level_5318d521bcb7b87ec0707acef83929610c6c9658"
+      "key": "5493b",
+      "songName": " The Kid LAROI - Diva | ft. Lil Tecca",
+      "hash": "735d43eea073efc52b73b78d8938e9b2a1feb301",
+      "levelid": "custom_level_735d43eea073efc52b73b78d8938e9b2a1feb301"
     },
     {
-      "key": "548cb",
-      "songName": "prettifun - Dead First",
-      "hash": "1f78093d7df64f00305b0a6e4898084ec565d530",
-      "levelid": "custom_level_1f78093d7df64f00305b0a6e4898084ec565d530"
+      "key": "54938",
+      "songName": "CG5 - Show Yourself [CG5I EXCLUSIVE]",
+      "hash": "7b580e05b038c2f000c4d419cbc798eb5563fd83",
+      "levelid": "custom_level_7b580e05b038c2f000c4d419cbc798eb5563fd83"
     },
     {
-      "key": "548ca",
-      "songName": "Busty1K",
-      "hash": "bc75fce341f57b1562b3636927be677031e3ffc2",
-      "levelid": "custom_level_bc75fce341f57b1562b3636927be677031e3ffc2"
+      "key": "54937",
+      "songName": "Tia - Deal with the Devil (Short Ver.)",
+      "hash": "48f6f7ff3c66892bc3486a62c33e64636b24e4a3",
+      "levelid": "custom_level_48f6f7ff3c66892bc3486a62c33e64636b24e4a3"
     },
     {
-      "key": "548c5",
-      "songName": "goreshit - wasting my time [2rb streams]",
-      "hash": "4bca380c943a5fc36677dd70a94ea6a91dbc2cf4",
-      "levelid": "custom_level_4bca380c943a5fc36677dd70a94ea6a91dbc2cf4"
+      "key": "54936",
+      "songName": "CG5 - Masquerade Party [CG5I EXCLUSIVE]",
+      "hash": "d3c1f818a3d978d2ffd74445470d8d3385be58e7",
+      "levelid": "custom_level_d3c1f818a3d978d2ffd74445470d8d3385be58e7"
     },
     {
-      "key": "548c4",
-      "songName": "laxcity - train/of_thought [2rb]",
-      "hash": "cdbd6d889b2c3dcad57733f17e66b8b8f5dcce17",
-      "levelid": "custom_level_cdbd6d889b2c3dcad57733f17e66b8b8f5dcce17"
+      "key": "54935",
+      "songName": "CG5 - I See A Dreamer [CG5I EXCLUSIVE]",
+      "hash": "b8fcf72737a0fd58e0572cf97a2b8446c78d1a54",
+      "levelid": "custom_level_b8fcf72737a0fd58e0572cf97a2b8446c78d1a54"
     },
     {
-      "key": "548c3",
-      "songName": "Adust Rain - Seven Style [ 2rb]",
-      "hash": "9659016d1cc5afbd716e4eb52c673918c015fb54",
-      "levelid": "custom_level_9659016d1cc5afbd716e4eb52c673918c015fb54"
+      "key": "54934",
+      "songName": "Frozen - Celldweller vs Blue Stahli",
+      "hash": "b0b8d4c7cf6e8c5e67920373a9d42f82df1cc17c",
+      "levelid": "custom_level_b0b8d4c7cf6e8c5e67920373a9d42f82df1cc17c"
     },
     {
-      "key": "548c2",
-      "songName": "leave me alone",
-      "hash": "ffe5a272a0d4f922dac99d5befd647711e8e4b7b",
-      "levelid": "custom_level_ffe5a272a0d4f922dac99d5befd647711e8e4b7b"
+      "key": "54932",
+      "songName": "MiniKing - Life is too short (140bpm)",
+      "hash": "37cb1e3ba9f7f9c8c4a325d7dd6d8b353d52295a",
+      "levelid": "custom_level_37cb1e3ba9f7f9c8c4a325d7dd6d8b353d52295a"
     },
     {
-      "key": "548c0",
-      "songName": "Smells Like Teen Spirit",
-      "hash": "648c423bc6a670950562e5681d9eb7ab6f61cdfb",
-      "levelid": "custom_level_648c423bc6a670950562e5681d9eb7ab6f61cdfb"
+      "key": "54933",
+      "songName": "CG5 - Lonely King [CG5I EXCLUSIVE]",
+      "hash": "4b4b3d03fdc4eaad5f46dee902b6f7acf378e673",
+      "levelid": "custom_level_4b4b3d03fdc4eaad5f46dee902b6f7acf378e673"
     },
     {
-      "key": "548b3",
-      "songName": " Tomas Herudek - Handwork",
-      "hash": "ee7f0f7edf9b12b127596146d4506403c52c4db0",
-      "levelid": "custom_level_ee7f0f7edf9b12b127596146d4506403c52c4db0"
+      "key": "5492b",
+      "songName": "Push it Back",
+      "hash": "9130bff248462a9fd42cd218bd46ed1d5d6b8092",
+      "levelid": "custom_level_9130bff248462a9fd42cd218bd46ed1d5d6b8092"
     },
     {
-      "key": "548a5",
-      "songName": "Her Boyfriend",
-      "hash": "1228bbb9fb958991a7f639257b8919522ae71376",
-      "levelid": "custom_level_1228bbb9fb958991a7f639257b8919522ae71376"
+      "key": "5492a",
+      "songName": "wetdream",
+      "hash": "496264b00a21b1a57b708e3e5e2d752ce632c146",
+      "levelid": "custom_level_496264b00a21b1a57b708e3e5e2d752ce632c146"
     },
     {
-      "key": "548a2",
-      "songName": "Brum Drill Drill",
-      "hash": "77272c44368348ffd876211974d9483cc85106b9",
-      "levelid": "custom_level_77272c44368348ffd876211974d9483cc85106b9"
+      "key": "54915",
+      "songName": "Top of the World (Nerf)",
+      "hash": "7ec539b74fff8a0634a1ad7d1dfa6c897b1a1b1f",
+      "levelid": "custom_level_7ec539b74fff8a0634a1ad7d1dfa6c897b1a1b1f"
     },
     {
-      "key": "548a0",
-      "songName": "[JBSL 12] Various Artists - Umapyoi Densetsu (Short ver.)",
-      "hash": "05e9b6ab86099214a92151144b0c51dfa4a23fa1",
-      "levelid": "custom_level_05e9b6ab86099214a92151144b0c51dfa4a23fa1"
+      "key": "54917",
+      "songName": "Camellia - Myths You Forgot",
+      "hash": "bcd28aa65181d6ebb299c4b8896df2217ec16487",
+      "levelid": "custom_level_bcd28aa65181d6ebb299c4b8896df2217ec16487"
     },
     {
-      "key": "5489f",
-      "songName": "Orchids but harder this time",
-      "hash": "56b94117c62bee518c2b67a272736c5d262fffd6",
-      "levelid": "custom_level_56b94117c62bee518c2b67a272736c5d262fffd6"
+      "key": "54916",
+      "songName": "CLAUDIA -libertia-",
+      "hash": "b700dd613076f2dbfb2384ff6d06d453476adfa9",
+      "levelid": "custom_level_b700dd613076f2dbfb2384ff6d06d453476adfa9"
     },
     {
-      "key": "5489d",
-      "songName": " misery.",
-      "hash": "7712f7ad94e0d52f14c10e99f72208e2a8430041",
-      "levelid": "custom_level_7712f7ad94e0d52f14c10e99f72208e2a8430041"
+      "key": "54911",
+      "songName": "Prower - Rohkeutta Etsiä",
+      "hash": "f82dfa406406fcd989e2e54132393daa0bbe4c39",
+      "levelid": "custom_level_f82dfa406406fcd989e2e54132393daa0bbe4c39"
     },
     {
-      "key": "5489a",
-      "songName": "Tesla (Slowed Electro Mix) - Fixupboy",
-      "hash": "e9d1b52068d1c4c5f7461cded1158ae2eafce8e1",
-      "levelid": "custom_level_e9d1b52068d1c4c5f7461cded1158ae2eafce8e1"
+      "key": "548b5",
+      "songName": "Noob Song",
+      "hash": "cdd81d6df65d875151e7e8ef3987254f13d71977",
+      "levelid": "custom_level_cdd81d6df65d875151e7e8ef3987254f13d71977"
     },
     {
-      "key": "54899",
-      "songName": "Stupid memes out of context",
-      "hash": "f02d3af2ae302c3f5496f8bf33c05d1dc61d5c08",
-      "levelid": "custom_level_f02d3af2ae302c3f5496f8bf33c05d1dc61d5c08"
+      "key": "548fe",
+      "songName": "トッケビの花",
+      "hash": "7d1e5c0a59015490112463f058c03818a9a62e79",
+      "levelid": "custom_level_7d1e5c0a59015490112463f058c03818a9a62e79"
     },
     {
-      "key": "54897",
-      "songName": "Middzy",
-      "hash": "19d04756d96de7369316f64e4b52d2039d9c479b",
-      "levelid": "custom_level_19d04756d96de7369316f64e4b52d2039d9c479b"
+      "key": "548fd",
+      "songName": "Chase & Status - Time (feat. Delilah)",
+      "hash": "09f5eeaccf9ff9d91cb2fae07cb5abeddd464170",
+      "levelid": "custom_level_09f5eeaccf9ff9d91cb2fae07cb5abeddd464170"
+    },
+    {
+      "key": "548fc",
+      "songName": "Surface",
+      "hash": "b3f3f8f8c977465e07851e0bee5995ddafa270a3",
+      "levelid": "custom_level_b3f3f8f8c977465e07851e0bee5995ddafa270a3"
     }
   ],
   "image": ""
