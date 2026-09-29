@@ -1,256 +1,244 @@
 {
-  "playlistTitle": "2026-09-27T15:18:48.134Z~2026-09-28T15:18:48.134Z",
+  "playlistTitle": "2026-09-28T15:18:48.368Z~2026-09-29T15:18:48.368Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-09-27T15:18:48.134Z and 2026-09-28T15:18:48.134Z",
+  "discripstion": "Maps published between 2026-09-28T15:18:48.368Z and 2026-09-29T15:18:48.368Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "54aa7",
-      "songName": "GELADEIRA TSUNAMI",
-      "hash": "27a331ba8c1a4c3a0478231c4ea066b4061b6017",
-      "levelid": "custom_level_27a331ba8c1a4c3a0478231c4ea066b4061b6017"
+      "key": "54b06",
+      "songName": " APT. by ROSÉ & Bruno Mars | Release Trailer | Shock Drop | Beat Saber",
+      "hash": "4f2d4e56971a3aaeaf65fed6c57ca570b73331c3",
+      "levelid": "custom_level_4f2d4e56971a3aaeaf65fed6c57ca570b73331c3"
     },
     {
-      "key": "54aa5",
-      "songName": "t",
-      "hash": "a87b1b264a02d1dfd4523d6c659ab5ef4b0f574a",
-      "levelid": "custom_level_a87b1b264a02d1dfd4523d6c659ab5ef4b0f574a"
+      "key": "54b03",
+      "songName": "MAGFEST",
+      "hash": "c752f3714454955b55dfd5350c06467e5084f584",
+      "levelid": "custom_level_c752f3714454955b55dfd5350c06467e5084f584"
     },
     {
-      "key": "54aa3",
-      "songName": "ONDA ANDAR-one way ticket",
-      "hash": "a6fc9ff8729a427f5a84a55e0ab396fe075ecefb",
-      "levelid": "custom_level_a6fc9ff8729a427f5a84a55e0ab396fe075ecefb"
+      "key": "54b00",
+      "songName": "琵琶曲DJ",
+      "hash": "d5baf75da2b1cd5019c3ccffba8dcfe2a10ce6f1",
+      "levelid": "custom_level_d5baf75da2b1cd5019c3ccffba8dcfe2a10ce6f1"
     },
     {
-      "key": "54aa2",
-      "songName": "T3L3PH0N3",
-      "hash": "c481a3d6c2f8dfaf2870a9e7f0392a39db5d4695",
-      "levelid": "custom_level_c481a3d6c2f8dfaf2870a9e7f0392a39db5d4695"
+      "key": "54aff",
+      "songName": "Snnsei - Slay Medium Club",
+      "hash": "b6ab23589f4f6007e21722cf9d4521d34c11e98e",
+      "levelid": "custom_level_b6ab23589f4f6007e21722cf9d4521d34c11e98e"
     },
     {
-      "key": "54aa1",
-      "songName": "Triple Threat - VS Impostor Legacy_Security DLC OST",
-      "hash": "8a87922f3b4edabc950eb6c0bbbf798ed43df4ae",
-      "levelid": "custom_level_8a87922f3b4edabc950eb6c0bbbf798ed43df4ae"
+      "key": "54afe",
+      "songName": "Snnsei - Slay Hard Dark",
+      "hash": "0661869c3b347f8ee9f6df50d16112d97ca24f36",
+      "levelid": "custom_level_0661869c3b347f8ee9f6df50d16112d97ca24f36"
     },
     {
-      "key": "54a9a",
-      "songName": "Every Time LAZZY2WICE ",
-      "hash": "c70cd7a569e6220bd25ef60475662d6f0f82115e",
-      "levelid": "custom_level_c70cd7a569e6220bd25ef60475662d6f0f82115e"
+      "key": "54afd",
+      "songName": "Snnsei - Slay Easy Intense",
+      "hash": "47bc4ea0823b7b9e0b4759034d0d7b0d0b6a11f5",
+      "levelid": "custom_level_47bc4ea0823b7b9e0b4759034d0d7b0d0b6a11f5"
     },
     {
-      "key": "54a9d",
-      "songName": "Shinra-Bansho - Last Lost Night",
-      "hash": "5086494c785408a9ac255ea6ab993ffccc8faea1",
-      "levelid": "custom_level_5086494c785408a9ac255ea6ab993ffccc8faea1"
+      "key": "54afa",
+      "songName": "dual existence (とある科学の超電磁砲T OP2)",
+      "hash": "0f453e874d92a6efa216101943d084747372a77b",
+      "levelid": "custom_level_0f453e874d92a6efa216101943d084747372a77b"
     },
     {
-      "key": "54a9f",
-      "songName": "Reo Uratani -  Silver-winged Star (20th Anniversary Version)",
-      "hash": "97a2546e0f4846eacee6c6a1cd1d53de383ce797",
-      "levelid": "custom_level_97a2546e0f4846eacee6c6a1cd1d53de383ce797"
+      "key": "54af3",
+      "songName": "Brokencyde - Girls, Girls, Girls",
+      "hash": "6d15ecceca1a0c9ba5f972ac56b788e333e18ce4",
+      "levelid": "custom_level_6d15ecceca1a0c9ba5f972ac56b788e333e18ce4"
     },
     {
-      "key": "54a9c",
-      "songName": "nameless story (とある科学の超電磁砲T ED)",
-      "hash": "67bb4c3db986d1f10dae55d345ebec20c1cb56fc",
-      "levelid": "custom_level_67bb4c3db986d1f10dae55d345ebec20c1cb56fc"
+      "key": "54af0",
+      "songName": "SwehgBone - Worst rap beat in existence",
+      "hash": "7b9e4f8fcd8f718c7be75c88851c7a9eb1411bb1",
+      "levelid": "custom_level_7b9e4f8fcd8f718c7be75c88851c7a9eb1411bb1"
     },
     {
-      "key": "54a99",
-      "songName": "Orbital Flow (Yeeps OST)",
-      "hash": "bba5af344e5e35da21bfd08df3554924aeb8eadf",
-      "levelid": "custom_level_bba5af344e5e35da21bfd08df3554924aeb8eadf"
+      "key": "54aed",
+      "songName": "The Pit",
+      "hash": "348e5b7e69ed4d72984a95d8ff6a17cb8f0d8b85",
+      "levelid": "custom_level_348e5b7e69ed4d72984a95d8ff6a17cb8f0d8b85"
     },
     {
-      "key": "54a98",
-      "songName": "Forge Ahead (Yeeps OST)",
-      "hash": "abb313569e9977e7ddf74fb52f5ed40d1485d258",
-      "levelid": "custom_level_abb313569e9977e7ddf74fb52f5ed40d1485d258"
+      "key": "54aec",
+      "songName": "Kobaryo - Vicious [ANTi] Heroism -SWR Version-",
+      "hash": "fab3974279c565c185449e5690a4d84ef1620c7b",
+      "levelid": "custom_level_fab3974279c565c185449e5690a4d84ef1620c7b"
     },
     {
-      "key": "54a97",
-      "songName": "C-Foam (Yeeps OST)",
-      "hash": "7af71dd598b69c1c67d8c4a5212d04c5470e3553",
-      "levelid": "custom_level_7af71dd598b69c1c67d8c4a5212d04c5470e3553"
+      "key": "54aeb",
+      "songName": "Torturous Symphony",
+      "hash": "9bd6db9e6bc37ef448ec15b80f673f42163af4ae",
+      "levelid": "custom_level_9bd6db9e6bc37ef448ec15b80f673f42163af4ae"
     },
     {
-      "key": "54a96",
-      "songName": "0rCh1d$",
-      "hash": "1c0ab0eea49f8c1a4ffbbb0adc26226c2f1c05fa",
-      "levelid": "custom_level_1c0ab0eea49f8c1a4ffbbb0adc26226c2f1c05fa"
+      "key": "54ae5",
+      "songName": "真理絵 - Clover Day's",
+      "hash": "6e349f0e896aab6c7796395d0fc13ca14667f3dc",
+      "levelid": "custom_level_6e349f0e896aab6c7796395d0fc13ca14667f3dc"
     },
     {
-      "key": "54a94",
-      "songName": "MiniKing - Ice Matcha (105bpm)",
-      "hash": "1ffbc340a61573fd1fdd05b8db04c9ff0a778e86",
-      "levelid": "custom_level_1ffbc340a61573fd1fdd05b8db04c9ff0a778e86"
+      "key": "54ae4",
+      "songName": "冥土の土産にグーパンチっ☆- マスタード (feat. t+pazolite)",
+      "hash": "78b94d229542229fe80022e26bd0c71d14a5605d",
+      "levelid": "custom_level_78b94d229542229fe80022e26bd0c71d14a5605d"
     },
     {
-      "key": "54a8f",
-      "songName": "Thomas The Dank Engine ",
-      "hash": "2f5d8db5173691e6038371d5ab0f2217c9df6524",
-      "levelid": "custom_level_2f5d8db5173691e6038371d5ab0f2217c9df6524"
+      "key": "54a95",
+      "songName": "Spektrem - Shine (Original Mix)",
+      "hash": "a0bf7d48ba63e018a84951f2a216b551dcc9a9df",
+      "levelid": "custom_level_a0bf7d48ba63e018a84951f2a216b551dcc9a9df"
     },
     {
-      "key": "54a87",
-      "songName": "CG5 & GlitchWhisper - 1 OF US",
-      "hash": "1ff80b1fb715d0fa9a98b7b0fbac737bfbfd5444",
-      "levelid": "custom_level_1ff80b1fb715d0fa9a98b7b0fbac737bfbfd5444"
+      "key": "54ae3",
+      "songName": "Celldweller - So Long Sentiment (Metal Revision by Paul Udarov)",
+      "hash": "f0c2b8a3992b0afdae5e570706a9727935ade651",
+      "levelid": "custom_level_f0c2b8a3992b0afdae5e570706a9727935ade651"
     },
     {
-      "key": "54a85",
-      "songName": "sprinter/intercity",
-      "hash": "a297738d88d1187ca7e4656a6a0dcc2fb921c17a",
-      "levelid": "custom_level_a297738d88d1187ca7e4656a6a0dcc2fb921c17a"
+      "key": "54ae1",
+      "songName": "Snnsei - Alatif Club",
+      "hash": "b0838c6a2dd972adba47b2751770d5e4a964dad0",
+      "levelid": "custom_level_b0838c6a2dd972adba47b2751770d5e4a964dad0"
     },
     {
-      "key": "54a82",
-      "songName": "MiniKing - Josun 1 (132bpm)",
-      "hash": "48c3b4fab2a0d7251fe030b1cb7036d9259af09a",
-      "levelid": "custom_level_48c3b4fab2a0d7251fe030b1cb7036d9259af09a"
+      "key": "54ae0",
+      "songName": "Snnsei - Alatif Beat",
+      "hash": "3877a2ce7988c8d3bbec13488f254b3093d0f87f",
+      "levelid": "custom_level_3877a2ce7988c8d3bbec13488f254b3093d0f87f"
     },
     {
-      "key": "54a7e",
-      "songName": "um sayin nah sayin",
-      "hash": "3f1abdf13950cd81ea25051c164d86f0f5fd8494",
-      "levelid": "custom_level_3f1abdf13950cd81ea25051c164d86f0f5fd8494"
+      "key": "54ade",
+      "songName": "Coming Home - Nerdout [Poodles]",
+      "hash": "dcaa92c348781bef00f7e8089588a4680eceea5f",
+      "levelid": "custom_level_dcaa92c348781bef00f7e8089588a4680eceea5f"
     },
     {
-      "key": "54a7c",
-      "songName": "Snnsei - 3aychora",
-      "hash": "a758c1c730d2bbba1f688067ffed4d442d2c28cf",
-      "levelid": "custom_level_a758c1c730d2bbba1f688067ffed4d442d2c28cf"
-    },
-    {
-      "key": "54a7b",
-      "songName": "Snnsei - Intro",
-      "hash": "9cea382615a59f7023dd0eee7d5848229fa7b91f",
-      "levelid": "custom_level_9cea382615a59f7023dd0eee7d5848229fa7b91f"
-    },
-    {
-      "key": "54a7a",
-      "songName": "helpless",
-      "hash": "5b81f136ec8debd23853474714e40de5e0ea29be",
-      "levelid": "custom_level_5b81f136ec8debd23853474714e40de5e0ea29be"
-    },
-    {
-      "key": "54a79",
-      "songName": "SUPER CHALLENGE",
-      "hash": "6656f54ff6c40be8dfb79d0b7968cddfeb92e379",
-      "levelid": "custom_level_6656f54ff6c40be8dfb79d0b7968cddfeb92e379"
-    },
-    {
-      "key": "54a76",
-      "songName": "Helblinde - The Solace of Oblivion",
-      "hash": "484b38a55ec1541d4072eacfe181f9a0bd36b18f",
-      "levelid": "custom_level_484b38a55ec1541d4072eacfe181f9a0bd36b18f"
-    },
-    {
-      "key": "54a72",
-      "songName": "Lord Verity Master Of Humanity",
-      "hash": "989138192e99ea45ad59b7d4cb0fd3ab9f2ab44a",
-      "levelid": "custom_level_989138192e99ea45ad59b7d4cb0fd3ab9f2ab44a"
-    },
-    {
-      "key": "54a70",
-      "songName": "Awakening With You (Turboslash Remix)",
-      "hash": "293bd135eb81da31cff70a8aab7d68dde8399099",
-      "levelid": "custom_level_293bd135eb81da31cff70a8aab7d68dde8399099"
-    },
-    {
-      "key": "54a6e",
-      "songName": "Neon Overdrive",
-      "hash": "e6c3cadb6478a69186eb0ad52fc0f5d024135e6a",
-      "levelid": "custom_level_e6c3cadb6478a69186eb0ad52fc0f5d024135e6a"
-    },
-    {
-      "key": "54a6f",
-      "songName": "busty verity audio",
-      "hash": "6b9dfbd5fe818a4c0287f980ec13d11404db52e5",
-      "levelid": "custom_level_6b9dfbd5fe818a4c0287f980ec13d11404db52e5"
-    },
-    {
-      "key": "54a6c",
-      "songName": "Nanã",
-      "hash": "48b2e75fded820cc151e11c8d0a8c6aeacefef81",
-      "levelid": "custom_level_48b2e75fded820cc151e11c8d0a8c6aeacefef81"
-    },
-    {
-      "key": "54a6b",
-      "songName": "Flip Reset",
-      "hash": "38069682a19353a969ef7f8bc81e97321e26015c",
-      "levelid": "custom_level_38069682a19353a969ef7f8bc81e97321e26015c"
-    },
-    {
-      "key": "54a68",
-      "songName": "Bossfight - Farbror Melker Fixar Fiskdamm (Fastbom Cover)",
-      "hash": "f5b64e42a20f1a834b85abc14ca50e2e2da54d54",
-      "levelid": "custom_level_f5b64e42a20f1a834b85abc14ca50e2e2da54d54"
-    },
-    {
-      "key": "54a65",
-      "songName": "czekotubka",
-      "hash": "de42676a037f25c4e2a2e02d39878d9b619356a5",
-      "levelid": "custom_level_de42676a037f25c4e2a2e02d39878d9b619356a5"
-    },
-    {
-      "key": "54a64",
-      "songName": "tower of memories",
-      "hash": "beb0c845776bfb6c20bed18ecf39cc4f546afdfe",
-      "levelid": "custom_level_beb0c845776bfb6c20bed18ecf39cc4f546afdfe"
-    },
-    {
-      "key": "54a62",
-      "songName": "Fleshgod Apocalypse - The Fool",
-      "hash": "192d4ae65fbf7335a3636cbec7ddd7a9219a6cbd",
-      "levelid": "custom_level_192d4ae65fbf7335a3636cbec7ddd7a9219a6cbd"
-    },
-    {
-      "key": "54a61",
-      "songName": "Salvation Code",
-      "hash": "956402f4b5806c478d0bc53e2d351b42e47d6d21",
-      "levelid": "custom_level_956402f4b5806c478d0bc53e2d351b42e47d6d21"
-    },
-    {
-      "key": "54a5a",
-      "songName": "A$AP Rocky - HELICOPTER",
-      "hash": "865f74db52bcb4e0bcc1f3048688c1ea93ec6594",
-      "levelid": "custom_level_865f74db52bcb4e0bcc1f3048688c1ea93ec6594"
-    },
-    {
-      "key": "54a57",
-      "songName": "Tspeiro - Choose Your Fighter",
-      "hash": "8372157d1478109bc104d73a432f30581763801e",
-      "levelid": "custom_level_8372157d1478109bc104d73a432f30581763801e"
-    },
-    {
-      "key": "54a55",
+      "key": "54adc",
       "songName": "Dreams of an absolution ",
-      "hash": "b7d13778be6ee97dda7c2522ed5000ef1576723d",
-      "levelid": "custom_level_b7d13778be6ee97dda7c2522ed5000ef1576723d"
+      "hash": "cb437c8454ca0e80ed52f8ee3aacf4a34a32795e",
+      "levelid": "custom_level_cb437c8454ca0e80ed52f8ee3aacf4a34a32795e"
     },
     {
-      "key": "54a50",
-      "songName": "my poopy hangs from a thread jersey club",
-      "hash": "a014f232a386ab58527763a43f0b71907dc7f721",
-      "levelid": "custom_level_a014f232a386ab58527763a43f0b71907dc7f721"
+      "key": "54add",
+      "songName": "Recession Banger",
+      "hash": "15be4d166f2a19966660d8cf0982c738506fcbb7",
+      "levelid": "custom_level_15be4d166f2a19966660d8cf0982c738506fcbb7"
     },
     {
-      "key": "54a4a",
-      "songName": "Morning mudd",
-      "hash": "3d5398d1de5545520f2decd9800a8d8a250c3ef7",
-      "levelid": "custom_level_3d5398d1de5545520f2decd9800a8d8a250c3ef7"
+      "key": "54adb",
+      "songName": "GIRLSET - CHAT",
+      "hash": "9a78b75cb11a8e707cc3ad74533555895ca2d3a4",
+      "levelid": "custom_level_9a78b75cb11a8e707cc3ad74533555895ca2d3a4"
     },
     {
-      "key": "54a47",
-      "songName": "Thousand Miles-The Kid LAROI",
-      "hash": "2680776f53d7abf8b05eef43fbef5a2e20a27f5d",
-      "levelid": "custom_level_2680776f53d7abf8b05eef43fbef5a2e20a27f5d"
+      "key": "54ad9",
+      "songName": "bedrott - speed challenge",
+      "hash": "28d683eace04d0a68383c6adaecb39939d9de1c7",
+      "levelid": "custom_level_28d683eace04d0a68383c6adaecb39939d9de1c7"
+    },
+    {
+      "key": "54ad7",
+      "songName": "It Has to Be This Way (Cut Ver.)",
+      "hash": "445355a3f49ba931e1372b82464c9c716722a207",
+      "levelid": "custom_level_445355a3f49ba931e1372b82464c9c716722a207"
+    },
+    {
+      "key": "54ad6",
+      "songName": "River Flows in You (wiwit Arrangement)",
+      "hash": "75fab13ee915f9bdac866bdb240b35c5bf98d527",
+      "levelid": "custom_level_75fab13ee915f9bdac866bdb240b35c5bf98d527"
+    },
+    {
+      "key": "54ad5",
+      "songName": "Sparka på bollen",
+      "hash": "847b2a244b06a66aee5c1b6e29391463cc3861d5",
+      "levelid": "custom_level_847b2a244b06a66aee5c1b6e29391463cc3861d5"
+    },
+    {
+      "key": "54ad4",
+      "songName": "o maior inimigo da Geladeira Tsunami",
+      "hash": "94f5c4764a3ad7b2c3145c2c4b7ef9603f2af0b5",
+      "levelid": "custom_level_94f5c4764a3ad7b2c3145c2c4b7ef9603f2af0b5"
+    },
+    {
+      "key": "54ad3",
+      "songName": "Let Go",
+      "hash": "357232d93fb5dd434ac16766cd43a271abb8413a",
+      "levelid": "custom_level_357232d93fb5dd434ac16766cd43a271abb8413a"
+    },
+    {
+      "key": "54ad1",
+      "songName": "Over You",
+      "hash": "8ce621339b86a1ff7d56910674d51259041814a6",
+      "levelid": "custom_level_8ce621339b86a1ff7d56910674d51259041814a6"
+    },
+    {
+      "key": "54acc",
+      "songName": "Bendel - Windtrace",
+      "hash": "856b649428fc09d02fd72e37e4abffa4b135a548",
+      "levelid": "custom_level_856b649428fc09d02fd72e37e4abffa4b135a548"
+    },
+    {
+      "key": "54aca",
+      "songName": "t+pazolite - RAVE-O-LUTION 456",
+      "hash": "03af185ab8ca966a6d521b7612dd8ca20c54dd11",
+      "levelid": "custom_level_03af185ab8ca966a6d521b7612dd8ca20c54dd11"
+    },
+    {
+      "key": "54ac1",
+      "songName": "Høw  dø i møve úp",
+      "hash": "73447b596631e96a2349810757d59129a6c1edf2",
+      "levelid": "custom_level_73447b596631e96a2349810757d59129a6c1edf2"
+    },
+    {
+      "key": "54ac0",
+      "songName": "MiniKing - Yummy Spicy Chewy Rice Cake 떡볶이 맛있어 (105bpm)",
+      "hash": "60d5b3c7f5affa1f7d6ae952b72b53c2e2ddeed5",
+      "levelid": "custom_level_60d5b3c7f5affa1f7d6ae952b72b53c2e2ddeed5"
+    },
+    {
+      "key": "54abd",
+      "songName": "Kevin MacLeod - Monkeys Spinning Monkeys (2026 LOST LANDS DUBSTEP REMIX)",
+      "hash": "313366dcadc3b7192350d94324f84cb247498e17",
+      "levelid": "custom_level_313366dcadc3b7192350d94324f84cb247498e17"
+    },
+    {
+      "key": "54abc",
+      "songName": "Monster Bear (Yeeps OST)",
+      "hash": "c49892cd1fa7a8c44e4418df9d7eea577a1ef910",
+      "levelid": "custom_level_c49892cd1fa7a8c44e4418df9d7eea577a1ef910"
+    },
+    {
+      "key": "54ab5",
+      "songName": "GDE MAMA?",
+      "hash": "4d4c24643e1bf930e4e49f9ffd983e8ef131a9a3",
+      "levelid": "custom_level_4d4c24643e1bf930e4e49f9ffd983e8ef131a9a3"
+    },
+    {
+      "key": "54ab4",
+      "songName": "DONT PLAY",
+      "hash": "def28cd5e484a379415e11f5e28790b084976390",
+      "levelid": "custom_level_def28cd5e484a379415e11f5e28790b084976390"
+    },
+    {
+      "key": "54aac",
+      "songName": "eastinanddopey reacts to the reesaber preset",
+      "hash": "c64658f2c1ee921799e12ff0638e8132d261aa44",
+      "levelid": "custom_level_c64658f2c1ee921799e12ff0638e8132d261aa44"
+    },
+    {
+      "key": "549ea",
+      "songName": "[Bidirectional] DJ Randy - Thrill Ride (Walibi Holland)",
+      "hash": "c43319a68f0c1ee9eb301d82b97cebf91a1f3887",
+      "levelid": "custom_level_c43319a68f0c1ee9eb301d82b97cebf91a1f3887"
     }
   ],
   "image": ""
