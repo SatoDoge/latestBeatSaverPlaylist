@@ -1,244 +1,274 @@
 {
-  "playlistTitle": "2026-09-28T15:18:48.368Z~2026-09-29T15:18:48.368Z",
+  "playlistTitle": "2026-09-29T15:18:48.247Z~2026-09-30T15:18:48.247Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-09-28T15:18:48.368Z and 2026-09-29T15:18:48.368Z",
+  "discripstion": "Maps published between 2026-09-29T15:18:48.247Z and 2026-09-30T15:18:48.247Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "54b06",
-      "songName": " APT. by ROSÉ & Bruno Mars | Release Trailer | Shock Drop | Beat Saber",
-      "hash": "4f2d4e56971a3aaeaf65fed6c57ca570b73331c3",
-      "levelid": "custom_level_4f2d4e56971a3aaeaf65fed6c57ca570b73331c3"
+      "key": "54b57",
+      "songName": "Centipede",
+      "hash": "1c6e4ab8a4da302c1cd1d2138f5eecabb54e0ae3",
+      "levelid": "custom_level_1c6e4ab8a4da302c1cd1d2138f5eecabb54e0ae3"
     },
     {
-      "key": "54b03",
-      "songName": "MAGFEST",
-      "hash": "c752f3714454955b55dfd5350c06467e5084f584",
-      "levelid": "custom_level_c752f3714454955b55dfd5350c06467e5084f584"
+      "key": "549d9",
+      "songName": "asobo!",
+      "hash": "10539093bae01b6b06715e95c9c3591cedbf6c03",
+      "levelid": "custom_level_10539093bae01b6b06715e95c9c3591cedbf6c03"
     },
     {
-      "key": "54b00",
-      "songName": "琵琶曲DJ",
-      "hash": "d5baf75da2b1cd5019c3ccffba8dcfe2a10ce6f1",
-      "levelid": "custom_level_d5baf75da2b1cd5019c3ccffba8dcfe2a10ce6f1"
+      "key": "54b56",
+      "songName": "DEMON'S SHOT",
+      "hash": "febd9f63d095416a5e122a5aef34fd2a7e3f32e7",
+      "levelid": "custom_level_febd9f63d095416a5e122a5aef34fd2a7e3f32e7"
     },
     {
-      "key": "54aff",
-      "songName": "Snnsei - Slay Medium Club",
-      "hash": "b6ab23589f4f6007e21722cf9d4521d34c11e98e",
-      "levelid": "custom_level_b6ab23589f4f6007e21722cf9d4521d34c11e98e"
+      "key": "54b55",
+      "songName": "A COMIC BOOK SAVED MY LIFE",
+      "hash": "38608fbc85657c5905f4a407bae85910e5d326fe",
+      "levelid": "custom_level_38608fbc85657c5905f4a407bae85910e5d326fe"
     },
     {
-      "key": "54afe",
-      "songName": "Snnsei - Slay Hard Dark",
-      "hash": "0661869c3b347f8ee9f6df50d16112d97ca24f36",
-      "levelid": "custom_level_0661869c3b347f8ee9f6df50d16112d97ca24f36"
+      "key": "54b44",
+      "songName": "NCT 2020 - RESONANCE ",
+      "hash": "15fbb146c408d89146790cc2fb491cd2676e7bb0",
+      "levelid": "custom_level_15fbb146c408d89146790cc2fb491cd2676e7bb0"
     },
     {
-      "key": "54afd",
-      "songName": "Snnsei - Slay Easy Intense",
-      "hash": "47bc4ea0823b7b9e0b4759034d0d7b0d0b6a11f5",
-      "levelid": "custom_level_47bc4ea0823b7b9e0b4759034d0d7b0d0b6a11f5"
+      "key": "54b54",
+      "songName": "Can you feel it? / 촉이 와",
+      "hash": "dbce8d0c3994285ab5bb8ffdb59c9dfcce34abe6",
+      "levelid": "custom_level_dbce8d0c3994285ab5bb8ffdb59c9dfcce34abe6"
     },
     {
-      "key": "54afa",
-      "songName": "dual existence (とある科学の超電磁砲T OP2)",
-      "hash": "0f453e874d92a6efa216101943d084747372a77b",
-      "levelid": "custom_level_0f453e874d92a6efa216101943d084747372a77b"
+      "key": "54b53",
+      "songName": "Sara Bareilles - Say You're Sorry",
+      "hash": "ddc68af618d096a495ab8ca2bc4645a8a7538a40",
+      "levelid": "custom_level_ddc68af618d096a495ab8ca2bc4645a8a7538a40"
     },
     {
-      "key": "54af3",
-      "songName": "Brokencyde - Girls, Girls, Girls",
-      "hash": "6d15ecceca1a0c9ba5f972ac56b788e333e18ce4",
-      "levelid": "custom_level_6d15ecceca1a0c9ba5f972ac56b788e333e18ce4"
+      "key": "54b4f",
+      "songName": " uRyo & Notk.Y - uRge of Nihilit.Y",
+      "hash": "11113f6f7ca1dc3cee84a8a3fbd7ec2d2b68d14e",
+      "levelid": "custom_level_11113f6f7ca1dc3cee84a8a3fbd7ec2d2b68d14e"
     },
     {
-      "key": "54af0",
-      "songName": "SwehgBone - Worst rap beat in existence",
-      "hash": "7b9e4f8fcd8f718c7be75c88851c7a9eb1411bb1",
-      "levelid": "custom_level_7b9e4f8fcd8f718c7be75c88851c7a9eb1411bb1"
+      "key": "54b49",
+      "songName": "A night comes!",
+      "hash": "9c6e78a6d9eb364414dae97a2a6233c046b5e4e6",
+      "levelid": "custom_level_9c6e78a6d9eb364414dae97a2a6233c046b5e4e6"
     },
     {
-      "key": "54aed",
-      "songName": "The Pit",
-      "hash": "348e5b7e69ed4d72984a95d8ff6a17cb8f0d8b85",
-      "levelid": "custom_level_348e5b7e69ed4d72984a95d8ff6a17cb8f0d8b85"
+      "key": "54b48",
+      "songName": "青嵐のあとで (とある科学の超電磁砲T ED2)",
+      "hash": "dff5ffcdabc7b22ed26a852ddbaaca65f604aa3a",
+      "levelid": "custom_level_dff5ffcdabc7b22ed26a852ddbaaca65f604aa3a"
     },
     {
-      "key": "54aec",
-      "songName": "Kobaryo - Vicious [ANTi] Heroism -SWR Version-",
-      "hash": "fab3974279c565c185449e5690a4d84ef1620c7b",
-      "levelid": "custom_level_fab3974279c565c185449e5690a4d84ef1620c7b"
+      "key": "54b47",
+      "songName": "Max Diax - TARNATION",
+      "hash": "812f7e00f2274462b7973fb3c1a91be2b075c41e",
+      "levelid": "custom_level_812f7e00f2274462b7973fb3c1a91be2b075c41e"
     },
     {
-      "key": "54aeb",
-      "songName": "Torturous Symphony",
-      "hash": "9bd6db9e6bc37ef448ec15b80f673f42163af4ae",
-      "levelid": "custom_level_9bd6db9e6bc37ef448ec15b80f673f42163af4ae"
+      "key": "54b46",
+      "songName": "stop calling",
+      "hash": "f137924e704c474e95cd12cb3f6739f2a68f0290",
+      "levelid": "custom_level_f137924e704c474e95cd12cb3f6739f2a68f0290"
     },
     {
-      "key": "54ae5",
-      "songName": "真理絵 - Clover Day's",
-      "hash": "6e349f0e896aab6c7796395d0fc13ca14667f3dc",
-      "levelid": "custom_level_6e349f0e896aab6c7796395d0fc13ca14667f3dc"
+      "key": "494b0",
+      "songName": "Vulf Intro",
+      "hash": "fe1123ed53c9667e8a3c221ab0677bedb48d82f2",
+      "levelid": "custom_level_fe1123ed53c9667e8a3c221ab0677bedb48d82f2"
     },
     {
-      "key": "54ae4",
-      "songName": "冥土の土産にグーパンチっ☆- マスタード (feat. t+pazolite)",
-      "hash": "78b94d229542229fe80022e26bd0c71d14a5605d",
-      "levelid": "custom_level_78b94d229542229fe80022e26bd0c71d14a5605d"
+      "key": "54b42",
+      "songName": "Heavy Is the Crown",
+      "hash": "1c327816b81e73ea8ffe5e3bd4b8930f6b0a5300",
+      "levelid": "custom_level_1c327816b81e73ea8ffe5e3bd4b8930f6b0a5300"
     },
     {
-      "key": "54a95",
-      "songName": "Spektrem - Shine (Original Mix)",
-      "hash": "a0bf7d48ba63e018a84951f2a216b551dcc9a9df",
-      "levelid": "custom_level_a0bf7d48ba63e018a84951f2a216b551dcc9a9df"
+      "key": "54b41",
+      "songName": "BrokeNCYDE - Shake!",
+      "hash": "27aabad7ea2accf41a7a62f611d55ce01df33ed9",
+      "levelid": "custom_level_27aabad7ea2accf41a7a62f611d55ce01df33ed9"
     },
     {
-      "key": "54ae3",
-      "songName": "Celldweller - So Long Sentiment (Metal Revision by Paul Udarov)",
-      "hash": "f0c2b8a3992b0afdae5e570706a9727935ade651",
-      "levelid": "custom_level_f0c2b8a3992b0afdae5e570706a9727935ade651"
+      "key": "54b3e",
+      "songName": "ericdoa - sheaskedwhatmylifeislike",
+      "hash": "d067d16738827a5b35afa07fc9d2ecd25ebf992e",
+      "levelid": "custom_level_d067d16738827a5b35afa07fc9d2ecd25ebf992e"
     },
     {
-      "key": "54ae1",
-      "songName": "Snnsei - Alatif Club",
-      "hash": "b0838c6a2dd972adba47b2751770d5e4a964dad0",
-      "levelid": "custom_level_b0838c6a2dd972adba47b2751770d5e4a964dad0"
+      "key": "54b3d",
+      "songName": "FINALE (VIBRO 1000 LANE)",
+      "hash": "2aa52856292402598d731461b23d46452cb3ad40",
+      "levelid": "custom_level_2aa52856292402598d731461b23d46452cb3ad40"
     },
     {
-      "key": "54ae0",
-      "songName": "Snnsei - Alatif Beat",
-      "hash": "3877a2ce7988c8d3bbec13488f254b3093d0f87f",
-      "levelid": "custom_level_3877a2ce7988c8d3bbec13488f254b3093d0f87f"
+      "key": "54b3b",
+      "songName": "Tanger - Firestarter",
+      "hash": "d3acb9f58f775b16f3e1f452341deca4d095694f",
+      "levelid": "custom_level_d3acb9f58f775b16f3e1f452341deca4d095694f"
     },
     {
-      "key": "54ade",
-      "songName": "Coming Home - Nerdout [Poodles]",
-      "hash": "dcaa92c348781bef00f7e8089588a4680eceea5f",
-      "levelid": "custom_level_dcaa92c348781bef00f7e8089588a4680eceea5f"
+      "key": "54b19",
+      "songName": "人間E判定 / ヨーメイ",
+      "hash": "5c7bf2d33b2c22ebe8acdb3beeb1ae9021dd9b88",
+      "levelid": "custom_level_5c7bf2d33b2c22ebe8acdb3beeb1ae9021dd9b88"
     },
     {
-      "key": "54adc",
-      "songName": "Dreams of an absolution ",
-      "hash": "cb437c8454ca0e80ed52f8ee3aacf4a34a32795e",
-      "levelid": "custom_level_cb437c8454ca0e80ed52f8ee3aacf4a34a32795e"
+      "key": "54b38",
+      "songName": "Hope",
+      "hash": "cb22cb440388ac70c9d651ec651954ef0d2dcff9",
+      "levelid": "custom_level_cb22cb440388ac70c9d651ec651954ef0d2dcff9"
     },
     {
-      "key": "54add",
-      "songName": "Recession Banger",
-      "hash": "15be4d166f2a19966660d8cf0982c738506fcbb7",
-      "levelid": "custom_level_15be4d166f2a19966660d8cf0982c738506fcbb7"
+      "key": "54b37",
+      "songName": "Lonliness",
+      "hash": "f37f8976bd673584c80d88b67d703c92cf99b675",
+      "levelid": "custom_level_f37f8976bd673584c80d88b67d703c92cf99b675"
     },
     {
-      "key": "54adb",
-      "songName": "GIRLSET - CHAT",
-      "hash": "9a78b75cb11a8e707cc3ad74533555895ca2d3a4",
-      "levelid": "custom_level_9a78b75cb11a8e707cc3ad74533555895ca2d3a4"
+      "key": "54b36",
+      "songName": "SYN CHALL EASY",
+      "hash": "1190243fd6a896829195f3e942ec7882dbdc0eef",
+      "levelid": "custom_level_1190243fd6a896829195f3e942ec7882dbdc0eef"
     },
     {
-      "key": "54ad9",
-      "songName": "bedrott - speed challenge",
-      "hash": "28d683eace04d0a68383c6adaecb39939d9de1c7",
-      "levelid": "custom_level_28d683eace04d0a68383c6adaecb39939d9de1c7"
+      "key": "54b34",
+      "songName": "BUSTY BARBRA'S LONG LOST CIRCLE CHALLENGE",
+      "hash": "81b580e3468fea292921d9ed36b051cf0ef19b1b",
+      "levelid": "custom_level_81b580e3468fea292921d9ed36b051cf0ef19b1b"
     },
     {
-      "key": "54ad7",
-      "songName": "It Has to Be This Way (Cut Ver.)",
-      "hash": "445355a3f49ba931e1372b82464c9c716722a207",
-      "levelid": "custom_level_445355a3f49ba931e1372b82464c9c716722a207"
+      "key": "54b33",
+      "songName": "Ice Storm",
+      "hash": "31876fd95af5048c759fc41ba3118c7c84969d47",
+      "levelid": "custom_level_31876fd95af5048c759fc41ba3118c7c84969d47"
     },
     {
-      "key": "54ad6",
-      "songName": "River Flows in You (wiwit Arrangement)",
-      "hash": "75fab13ee915f9bdac866bdb240b35c5bf98d527",
-      "levelid": "custom_level_75fab13ee915f9bdac866bdb240b35c5bf98d527"
+      "key": "54b32",
+      "songName": "harmoe - Love is a potion [\"I Shall Survive Using Potions!\" Opening]",
+      "hash": "5547021a0f172eeb6db17f20c528710a938c5ced",
+      "levelid": "custom_level_5547021a0f172eeb6db17f20c528710a938c5ced"
     },
     {
-      "key": "54ad5",
-      "songName": "Sparka på bollen",
-      "hash": "847b2a244b06a66aee5c1b6e29391463cc3861d5",
-      "levelid": "custom_level_847b2a244b06a66aee5c1b6e29391463cc3861d5"
+      "key": "54b31",
+      "songName": "Where The Goth Girls At? - Queens of the Stone Age",
+      "hash": "4f2a0b3dee0423f4534e29664849e2f098a579eb",
+      "levelid": "custom_level_4f2a0b3dee0423f4534e29664849e2f098a579eb"
     },
     {
-      "key": "54ad4",
-      "songName": "o maior inimigo da Geladeira Tsunami",
-      "hash": "94f5c4764a3ad7b2c3145c2c4b7ef9603f2af0b5",
-      "levelid": "custom_level_94f5c4764a3ad7b2c3145c2c4b7ef9603f2af0b5"
+      "key": "54b30",
+      "songName": "Hole Weak",
+      "hash": "b51ae239bd3acfcd0cdd31e2f2975ec7774a76b9",
+      "levelid": "custom_level_b51ae239bd3acfcd0cdd31e2f2975ec7774a76b9"
     },
     {
-      "key": "54ad3",
-      "songName": "Let Go",
-      "hash": "357232d93fb5dd434ac16766cd43a271abb8413a",
-      "levelid": "custom_level_357232d93fb5dd434ac16766cd43a271abb8413a"
+      "key": "54b2d",
+      "songName": "Lady Gaga - Bad Romance (Tung Tung Sahur ver.)",
+      "hash": "f781c5b9ccc22a5ee040d3d91d939e04c0eb259a",
+      "levelid": "custom_level_f781c5b9ccc22a5ee040d3d91d939e04c0eb259a"
     },
     {
-      "key": "54ad1",
-      "songName": "Over You",
-      "hash": "8ce621339b86a1ff7d56910674d51259041814a6",
-      "levelid": "custom_level_8ce621339b86a1ff7d56910674d51259041814a6"
+      "key": "54b27",
+      "songName": "disoc8 & d3r - MAKE IT BUN",
+      "hash": "584359a48ed84260d1da6cbeb1da5ff4ae827718",
+      "levelid": "custom_level_584359a48ed84260d1da6cbeb1da5ff4ae827718"
     },
     {
-      "key": "54acc",
-      "songName": "Bendel - Windtrace",
-      "hash": "856b649428fc09d02fd72e37e4abffa4b135a548",
-      "levelid": "custom_level_856b649428fc09d02fd72e37e4abffa4b135a548"
+      "key": "54b25",
+      "songName": "America'a Fastest 5G network",
+      "hash": "b655f8d6094fc91d9d7a34418ed4029a11aa768f",
+      "levelid": "custom_level_b655f8d6094fc91d9d7a34418ed4029a11aa768f"
     },
     {
-      "key": "54aca",
-      "songName": "t+pazolite - RAVE-O-LUTION 456",
-      "hash": "03af185ab8ca966a6d521b7612dd8ca20c54dd11",
-      "levelid": "custom_level_03af185ab8ca966a6d521b7612dd8ca20c54dd11"
+      "key": "54b22",
+      "songName": "underscores - The Peace",
+      "hash": "5e5e1ee3dee5ffd31c974aa46fc506174897ed22",
+      "levelid": "custom_level_5e5e1ee3dee5ffd31c974aa46fc506174897ed22"
     },
     {
-      "key": "54ac1",
-      "songName": "Høw  dø i møve úp",
-      "hash": "73447b596631e96a2349810757d59129a6c1edf2",
-      "levelid": "custom_level_73447b596631e96a2349810757d59129a6c1edf2"
+      "key": "54b21",
+      "songName": "when i see you - Josiah Queen",
+      "hash": "f9d0f4a3c8357ff74659c4bbf4577b88f769a7cc",
+      "levelid": "custom_level_f9d0f4a3c8357ff74659c4bbf4577b88f769a7cc"
     },
     {
-      "key": "54ac0",
-      "songName": "MiniKing - Yummy Spicy Chewy Rice Cake 떡볶이 맛있어 (105bpm)",
-      "hash": "60d5b3c7f5affa1f7d6ae952b72b53c2e2ddeed5",
-      "levelid": "custom_level_60d5b3c7f5affa1f7d6ae952b72b53c2e2ddeed5"
+      "key": "54b1f",
+      "songName": "MiniKing - Kimch, Cheese, Fried Rice 김치치즈볶음밥 (105bpm)",
+      "hash": "a8e419bda4233c0ac2a1a7eda5badce2927d254e",
+      "levelid": "custom_level_a8e419bda4233c0ac2a1a7eda5badce2927d254e"
     },
     {
-      "key": "54abd",
-      "songName": "Kevin MacLeod - Monkeys Spinning Monkeys (2026 LOST LANDS DUBSTEP REMIX)",
-      "hash": "313366dcadc3b7192350d94324f84cb247498e17",
-      "levelid": "custom_level_313366dcadc3b7192350d94324f84cb247498e17"
+      "key": "54b1d",
+      "songName": "MiniKing - Techno WA (138bpm)",
+      "hash": "e5c0024e730e2d06aaabbfdfc6fd8e648d86520b",
+      "levelid": "custom_level_e5c0024e730e2d06aaabbfdfc6fd8e648d86520b"
     },
     {
-      "key": "54abc",
-      "songName": "Monster Bear (Yeeps OST)",
-      "hash": "c49892cd1fa7a8c44e4418df9d7eea577a1ef910",
-      "levelid": "custom_level_c49892cd1fa7a8c44e4418df9d7eea577a1ef910"
+      "key": "54b1b",
+      "songName": "chipzel - Focus",
+      "hash": "811dd54aa995db3d2c0901109b0b99317f6d8703",
+      "levelid": "custom_level_811dd54aa995db3d2c0901109b0b99317f6d8703"
     },
     {
-      "key": "54ab5",
-      "songName": "GDE MAMA?",
-      "hash": "4d4c24643e1bf930e4e49f9ffd983e8ef131a9a3",
-      "levelid": "custom_level_4d4c24643e1bf930e4e49f9ffd983e8ef131a9a3"
+      "key": "54b17",
+      "songName": "Carth Sylvan - Every episode of House M.D. (Mouse Bites)",
+      "hash": "30d14cdfdd45adf3da385b2e223aec0bdb76d697",
+      "levelid": "custom_level_30d14cdfdd45adf3da385b2e223aec0bdb76d697"
     },
     {
-      "key": "54ab4",
-      "songName": "DONT PLAY",
-      "hash": "def28cd5e484a379415e11f5e28790b084976390",
-      "levelid": "custom_level_def28cd5e484a379415e11f5e28790b084976390"
+      "key": "54ae2",
+      "songName": "Polish Cow (Cut Ver.)",
+      "hash": "ad2882b23902c352b9c9d640ab5acc8f40c62e14",
+      "levelid": "custom_level_ad2882b23902c352b9c9d640ab5acc8f40c62e14"
     },
     {
-      "key": "54aac",
-      "songName": "eastinanddopey reacts to the reesaber preset",
-      "hash": "c64658f2c1ee921799e12ff0638e8132d261aa44",
-      "levelid": "custom_level_c64658f2c1ee921799e12ff0638e8132d261aa44"
+      "key": "54ad8",
+      "songName": "Chess (Slowed) (Radio Edit) (Clean)",
+      "hash": "c84bf6f08345c8e70a0bfdbd6d000484277db205",
+      "levelid": "custom_level_c84bf6f08345c8e70a0bfdbd6d000484277db205"
     },
     {
-      "key": "549ea",
-      "songName": "[Bidirectional] DJ Randy - Thrill Ride (Walibi Holland)",
-      "hash": "c43319a68f0c1ee9eb301d82b97cebf91a1f3887",
-      "levelid": "custom_level_c43319a68f0c1ee9eb301d82b97cebf91a1f3887"
+      "key": "54b14",
+      "songName": "FantasticYouth - 小喋日和 (Koshaberi Biyori) | 「Komi Can't Communicate End」",
+      "hash": "7f2c248ffb106d60688c7bc1de0ca08cac57269f",
+      "levelid": "custom_level_7f2c248ffb106d60688c7bc1de0ca08cac57269f"
+    },
+    {
+      "key": "54b0d",
+      "songName": "CG5 - I See A Dreame           (Timbaland)",
+      "hash": "97c907b33cfced684859c5ba8333c1b4f4a8b663",
+      "levelid": "custom_level_97c907b33cfced684859c5ba8333c1b4f4a8b663"
+    },
+    {
+      "key": "54b0b",
+      "songName": "Hurry up, We're late for Boston!",
+      "hash": "0c74deeedea956d10d0a41034d2a7a06a9ac0c2c",
+      "levelid": "custom_level_0c74deeedea956d10d0a41034d2a7a06a9ac0c2c"
+    },
+    {
+      "key": "54b0a",
+      "songName": "sokoninaru - Tenohira de Odoru",
+      "hash": "8878f40f5e748d0683e932ba53ebfe12e02a52e2",
+      "levelid": "custom_level_8878f40f5e748d0683e932ba53ebfe12e02a52e2"
+    },
+    {
+      "key": "54b09",
+      "songName": "George Kranz - Din Daa Daa (From \"Breakin' 2: Electric Boogaloo\")",
+      "hash": "dcc88a1ff99213619257ba7ee1d0d803d325545c",
+      "levelid": "custom_level_dcc88a1ff99213619257ba7ee1d0d803d325545c"
+    },
+    {
+      "key": "54b07",
+      "songName": " PIKASONIC - Otona!",
+      "hash": "ed2005a41d39a9f4473a1bc954581deec4d8259a",
+      "levelid": "custom_level_ed2005a41d39a9f4473a1bc954581deec4d8259a"
     }
   ],
   "image": ""
