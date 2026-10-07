@@ -1,172 +1,220 @@
 {
-  "playlistTitle": "2026-10-05T15:18:47.929Z~2026-10-06T15:18:47.929Z",
+  "playlistTitle": "2026-10-06T15:18:48.343Z~2026-10-07T15:18:48.343Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-10-05T15:18:47.929Z and 2026-10-06T15:18:47.929Z",
+  "discripstion": "Maps published between 2026-10-06T15:18:48.343Z and 2026-10-07T15:18:48.343Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "54d48",
-      "songName": "STAR BREAKER [Remade]",
-      "hash": "f861def09abef1e885a87654a44859a61339e760",
-      "levelid": "custom_level_f861def09abef1e885a87654a44859a61339e760"
+      "key": "54d9a",
+      "songName": "test",
+      "hash": "6d7c4601936ad1acf044c62f77354bc4e95c090e",
+      "levelid": "custom_level_6d7c4601936ad1acf044c62f77354bc4e95c090e"
     },
     {
-      "key": "54d47",
-      "songName": "ABM - '展示中毒' (Displayholic) feat. 初音ミク",
-      "hash": "7d31bbfd7847d5c1a725fbbcce04b9ffe65be14f",
-      "levelid": "custom_level_7d31bbfd7847d5c1a725fbbcce04b9ffe65be14f"
+      "key": "54d99",
+      "songName": "black coast",
+      "hash": "79a6181e513c98bdbc1f751c406c230dce7eb5fa",
+      "levelid": "custom_level_79a6181e513c98bdbc1f751c406c230dce7eb5fa"
     },
     {
-      "key": "54d45",
-      "songName": "Awesome as I wanna Be",
-      "hash": "993c9fcf5f4af45ffdabfb413df907542769db58",
-      "levelid": "custom_level_993c9fcf5f4af45ffdabfb413df907542769db58"
+      "key": "54d98",
+      "songName": "Static ft. Hatsune Miku - FLAVOR FOLEY",
+      "hash": "aa4d88f5ff68050840e29248bfcf87d6f1d6c991",
+      "levelid": "custom_level_aa4d88f5ff68050840e29248bfcf87d6f1d6c991"
     },
     {
-      "key": "54d44",
-      "songName": "W&W - OIIA OIIA (Spinning Cat)",
-      "hash": "2f0bae3f2fb9d5f9e15390f70d0fe2370ac7ea64",
-      "levelid": "custom_level_2f0bae3f2fb9d5f9e15390f70d0fe2370ac7ea64"
+      "key": "54d92",
+      "songName": "FZMZ - 「DREAM OF BUTTERFLY」|  Reincarnated as a Sword 2 OP",
+      "hash": "012c1132d8d1812c38d7b49244dd51bfb1ddbd97",
+      "levelid": "custom_level_012c1132d8d1812c38d7b49244dd51bfb1ddbd97"
     },
     {
-      "key": "54d41",
-      "songName": "どりぃむアラモード (魔法の姉妹ルルットリリィ ED2)",
-      "hash": "0836ab017595cdaadba877bc81ccfe98b039538e",
-      "levelid": "custom_level_0836ab017595cdaadba877bc81ccfe98b039538e"
+      "key": "54d86",
+      "songName": "[V3 Lights]Command of Kaiba",
+      "hash": "2171791b8d6cc461dda58abf2e44d69d7a4f1ab6",
+      "levelid": "custom_level_2171791b8d6cc461dda58abf2e44d69d7a4f1ab6"
     },
     {
-      "key": "54d40",
-      "songName": "残クレアルファード　購入〜3年後",
-      "hash": "919e1b4ed86daea82f54fa2471fc9f21759647f2",
-      "levelid": "custom_level_919e1b4ed86daea82f54fa2471fc9f21759647f2"
+      "key": "54d8f",
+      "songName": "Nakiso - ☆Bakenohana☆ (かめりあ's \"憑椿\" Remix) // [Championship 2026]",
+      "hash": "0beba87b250d51cda93d6ea56a21271ab464264c",
+      "levelid": "custom_level_0beba87b250d51cda93d6ea56a21271ab464264c"
     },
     {
-      "key": "54d3f",
-      "songName": "NewJeans - Hype Boy",
-      "hash": "7c6bc656159ac58578efe4ed33a36f92f72feaac",
-      "levelid": "custom_level_7c6bc656159ac58578efe4ed33a36f92f72feaac"
+      "key": "54d8b",
+      "songName": "Sick",
+      "hash": "da207c66c060710c3422754f4c462abff571fdf2",
+      "levelid": "custom_level_da207c66c060710c3422754f4c462abff571fdf2"
     },
     {
-      "key": "54d23",
-      "songName": "Final Boss Salmonarch - Splatoon Raiders",
-      "hash": "78bab4e019d981d964d60fe0b4cc29cf25d64827",
-      "levelid": "custom_level_78bab4e019d981d964d60fe0b4cc29cf25d64827"
+      "key": "54d8a",
+      "songName": "青春ライン (おおきく振りかぶって OP2)",
+      "hash": "77374b94800780175b88b1f7302ba00b1860a3a4",
+      "levelid": "custom_level_77374b94800780175b88b1f7302ba00b1860a3a4"
     },
     {
-      "key": "54d2f",
-      "songName": "Be There For You",
-      "hash": "e1779716786f3542d30cf8f940f26777620a53c4",
-      "levelid": "custom_level_e1779716786f3542d30cf8f940f26777620a53c4"
+      "key": "54d88",
+      "songName": "Trendsetter",
+      "hash": "04ac214cd2bd247082807982bfce65536d0c8570",
+      "levelid": "custom_level_04ac214cd2bd247082807982bfce65536d0c8570"
     },
     {
-      "key": "54d25",
-      "songName": "священная война",
-      "hash": "53a33403213cc10b9f3b2bc478fd4e6aa2c9a2c6",
-      "levelid": "custom_level_53a33403213cc10b9f3b2bc478fd4e6aa2c9a2c6"
+      "key": "54d89",
+      "songName": "[NERFED] seatrus - Abendstern [From リズムゲームアディクション！]",
+      "hash": "ec534ef584a003a79679fb77e9515b46be4e7fdd",
+      "levelid": "custom_level_ec534ef584a003a79679fb77e9515b46be4e7fdd"
     },
     {
-      "key": "54d20",
-      "songName": "WHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAT",
-      "hash": "2cdb7db0c66a7a472c6ee3bace005fd5294565be",
-      "levelid": "custom_level_2cdb7db0c66a7a472c6ee3bace005fd5294565be"
+      "key": "54d87",
+      "songName": "Pepper Spray / Crankdat",
+      "hash": "236f8f21f4396ea1d0f9d222bd96d72648189622",
+      "levelid": "custom_level_236f8f21f4396ea1d0f9d222bd96d72648189622"
     },
     {
-      "key": "54d1e",
-      "songName": "uyuyi",
-      "hash": "b26df910849e1c26c3fa89dc1ddf6b5c295e8dca",
-      "levelid": "custom_level_b26df910849e1c26c3fa89dc1ddf6b5c295e8dca"
+      "key": "54d85",
+      "songName": "grief",
+      "hash": "5f2d0ae31b29a0493a500ddd5b71214b330f389f",
+      "levelid": "custom_level_5f2d0ae31b29a0493a500ddd5b71214b330f389f"
     },
     {
-      "key": "54d1d",
-      "songName": "妖精大戦争　～ Fairy Wars【バンブラP】",
-      "hash": "2920938aaf94ecde136f26102f371d70dd22dfc5",
-      "levelid": "custom_level_2920938aaf94ecde136f26102f371d70dd22dfc5"
+      "key": "54d82",
+      "songName": "Not gonna hold y’all… Some days I feel like I need a clone just to get everything done. 😂 Good thing staying hydrated is one thing I don’t have to overthink thanks to",
+      "hash": "96df94f0e765ac0eb272636ceff0e6c093970daa",
+      "levelid": "custom_level_96df94f0e765ac0eb272636ceff0e6c093970daa"
     },
     {
-      "key": "54d1c",
-      "songName": "IS THAT A GUBBY!!??",
-      "hash": "bb4f8e25ef4f058192516570a37189d010dbe7ed",
-      "levelid": "custom_level_bb4f8e25ef4f058192516570a37189d010dbe7ed"
+      "key": "54d7c",
+      "songName": "X TAMAMO X - HYPERSONIC",
+      "hash": "ff3740365c8c52713a15df2a756c694f675afdf7",
+      "levelid": "custom_level_ff3740365c8c52713a15df2a756c694f675afdf7"
     },
     {
-      "key": "54d19",
-      "songName": "Rollin' Hi!",
-      "hash": "2baa16bb2dec59b8483989980b06f0f007f3f3d5",
-      "levelid": "custom_level_2baa16bb2dec59b8483989980b06f0f007f3f3d5"
+      "key": "54d7a",
+      "songName": "smore",
+      "hash": "7e391ba185f6be9c8cfb7d47f5d05c5cc2cef0d1",
+      "levelid": "custom_level_7e391ba185f6be9c8cfb7d47f5d05c5cc2cef0d1"
     },
     {
-      "key": "54d17",
-      "songName": "Meteoric Impact",
-      "hash": "e6f536402b4f3d7df285dd74bbc5ee67b1b82b2f",
-      "levelid": "custom_level_e6f536402b4f3d7df285dd74bbc5ee67b1b82b2f"
+      "key": "54d79",
+      "songName": "Nothing matters so do what u want ",
+      "hash": "7452391012384ba6c9397491bf93195fd392a043",
+      "levelid": "custom_level_7452391012384ba6c9397491bf93195fd392a043"
     },
     {
-      "key": "54d16",
-      "songName": "L Performs Mickey Mouse",
-      "hash": "edacdad489de26be1e0ddca6658271ff4f627544",
-      "levelid": "custom_level_edacdad489de26be1e0ddca6658271ff4f627544"
+      "key": "54d76",
+      "songName": "Like Him",
+      "hash": "0e571c9656106072eaa7ba8639f235025f2f4f38",
+      "levelid": "custom_level_0e571c9656106072eaa7ba8639f235025f2f4f38"
     },
     {
-      "key": "54cfa",
-      "songName": "(Fitbeat / V4) P!NK - U + Ur Hand",
-      "hash": "efc7868592d545c96f9727be4d799e91dbba0f0a",
-      "levelid": "custom_level_efc7868592d545c96f9727be4d799e91dbba0f0a"
+      "key": "54d75",
+      "songName": "FLAVOR FOLEY - 炜WARD ROMANCE ft. Feng Yi",
+      "hash": "ab973aa271f4fc35000f57f7ff77c303e393b7a0",
+      "levelid": "custom_level_ab973aa271f4fc35000f57f7ff77c303e393b7a0"
     },
     {
-      "key": "54d0d",
-      "songName": "Cyclops army",
-      "hash": "b82c099b3b0859ab0cb00120bf2a86a0076a78b7",
-      "levelid": "custom_level_b82c099b3b0859ab0cb00120bf2a86a0076a78b7"
+      "key": "54d74",
+      "songName": "[WIP] lapix - & Intelligence",
+      "hash": "360c139b6b52d1824443de53e1c4e7f50085782a",
+      "levelid": "custom_level_360c139b6b52d1824443de53e1c4e7f50085782a"
     },
     {
-      "key": "54d0c",
-      "songName": "ILLIT - It's Me (Ballroom Style Remix)",
-      "hash": "6f1395c6e884d10f7a775dc533d4e41504ce4ef0",
-      "levelid": "custom_level_6f1395c6e884d10f7a775dc533d4e41504ce4ef0"
+      "key": "54d4e",
+      "songName": "Aiobahn feat.9Lana - letter",
+      "hash": "52c0eca09f334b34cd73632ccb4e3ececd48414b",
+      "levelid": "custom_level_52c0eca09f334b34cd73632ccb4e3ececd48414b"
     },
     {
-      "key": "54d02",
-      "songName": "CA7RIEL, Paco Amoroso, PinkPantheress, Fred again.. - Sexy Magic  (from GTAVI: The Album)",
-      "hash": "af77272b8d5e6137c811dfdb8290927e2df35f60",
-      "levelid": "custom_level_af77272b8d5e6137c811dfdb8290927e2df35f60"
+      "key": "54d73",
+      "songName": "High-CG5",
+      "hash": "96c2084413ec6843c2d1ae554d8dd1118508a0aa",
+      "levelid": "custom_level_96c2084413ec6843c2d1ae554d8dd1118508a0aa"
     },
     {
-      "key": "54cfd",
-      "songName": "Decalius - Agony",
-      "hash": "0e07dc675f0d87524bd21492cafa1bbcb11d584a",
-      "levelid": "custom_level_0e07dc675f0d87524bd21492cafa1bbcb11d584a"
+      "key": "54d69",
+      "songName": "Akiko Shikata - Ricordando Il Passato",
+      "hash": "88c383ee6d340070953aef8a333e483b73ba538c",
+      "levelid": "custom_level_88c383ee6d340070953aef8a333e483b73ba538c"
     },
     {
-      "key": "54cfc",
-      "songName": "Breaking Bad Remix Seasons 1-2",
-      "hash": "46212997e6b40b9ca09ba7d05d168216ada5525b",
-      "levelid": "custom_level_46212997e6b40b9ca09ba7d05d168216ada5525b"
+      "key": "54d71",
+      "songName": "TUIDE - SUN KISS",
+      "hash": "ecd713821ba77022f108183e29ee995cd2692d43",
+      "levelid": "custom_level_ecd713821ba77022f108183e29ee995cd2692d43"
     },
     {
-      "key": "54cfb",
-      "songName": "WannaCry",
-      "hash": "087f3cad0c2e3afb0eff5e2aeb80696bb0eb0d8c",
-      "levelid": "custom_level_087f3cad0c2e3afb0eff5e2aeb80696bb0eb0d8c"
+      "key": "54d6d",
+      "songName": "Neon (Sonic The Hedgehog 3) One Ok Rock",
+      "hash": "3c003ac4ca2a87bb8647a876f4f523dfaa1b39c9",
+      "levelid": "custom_level_3c003ac4ca2a87bb8647a876f4f523dfaa1b39c9"
     },
     {
-      "key": "54cf9",
-      "songName": "lose myself in you",
-      "hash": "502c066715ae550e14783d0a43a4a0b7fd44f295",
-      "levelid": "custom_level_502c066715ae550e14783d0a43a4a0b7fd44f295"
+      "key": "54d61",
+      "songName": "Sasuke Haraguchi - Medicine",
+      "hash": "923fe52f104a079ebf92a7358cffdf3e83321c41",
+      "levelid": "custom_level_923fe52f104a079ebf92a7358cffdf3e83321c41"
     },
     {
-      "key": "54cf8",
-      "songName": "Living like tomorrows non-existent",
-      "hash": "7835cf0409d1288d49ca2d24477661cb4194e679",
-      "levelid": "custom_level_7835cf0409d1288d49ca2d24477661cb4194e679"
+      "key": "54d65",
+      "songName": "Pegboard Nerds - Flying Purple People Eater",
+      "hash": "b96917bbb68b227d18ff19bcb73d8033071233e1",
+      "levelid": "custom_level_b96917bbb68b227d18ff19bcb73d8033071233e1"
     },
     {
-      "key": "54cf7",
-      "songName": "Mountain Dew Super Bowl Commercial (2025)",
-      "hash": "183f21e1630414d84b26936dacff45bbf94c9a73",
-      "levelid": "custom_level_183f21e1630414d84b26936dacff45bbf94c9a73"
+      "key": "54d62",
+      "songName": "CG5 × Kyle Exum - LALALove [CG5I EXCLUSIVE]",
+      "hash": "b0c8005414e9994abe97c72df25617b801cf7894",
+      "levelid": "custom_level_b0c8005414e9994abe97c72df25617b801cf7894"
+    },
+    {
+      "key": "54d60",
+      "songName": "Memories Are You -The Core Cut- by Yasumasa Kitagawa, YU-KA",
+      "hash": "1a36216c314beb35462a2753f3459d8a35b86081",
+      "levelid": "custom_level_1a36216c314beb35462a2753f3459d8a35b86081"
+    },
+    {
+      "key": "54d5c",
+      "songName": "Electric Callboy - Elevator Operator",
+      "hash": "fbd84373cedd7058baa1702e9094daeb3a799bac",
+      "levelid": "custom_level_fbd84373cedd7058baa1702e9094daeb3a799bac"
+    },
+    {
+      "key": "54d5b",
+      "songName": "Warmer - OVSKY",
+      "hash": "c4825cfe045586a16dd654f6493cf40be484957a",
+      "levelid": "custom_level_c4825cfe045586a16dd654f6493cf40be484957a"
+    },
+    {
+      "key": "54d59",
+      "songName": "Bro thought ts was a disney movie",
+      "hash": "8cd96b3e49b72c1d17a59c0365d39817440444b2",
+      "levelid": "custom_level_8cd96b3e49b72c1d17a59c0365d39817440444b2"
+    },
+    {
+      "key": "54d58",
+      "songName": "sean o'pry edit",
+      "hash": "2e96e938e84c6cf756019cd5a3907598d144e29f",
+      "levelid": "custom_level_2e96e938e84c6cf756019cd5a3907598d144e29f"
+    },
+    {
+      "key": "54d56",
+      "songName": "SP-# - Tinnitus (Schwank's PTSD Remix)",
+      "hash": "904321b31f041e2a568d7bec0d40dbe15067ddac",
+      "levelid": "custom_level_904321b31f041e2a568d7bec0d40dbe15067ddac"
+    },
+    {
+      "key": "54d4f",
+      "songName": "ZRS Practice Doubles",
+      "hash": "920801272ec3788a136d8427c8e3a63135bfbd79",
+      "levelid": "custom_level_920801272ec3788a136d8427c8e3a63135bfbd79"
+    },
+    {
+      "key": "54d4c",
+      "songName": "society",
+      "hash": "1addc8348e5ea361eeba353ab30898d98b9732b3",
+      "levelid": "custom_level_1addc8348e5ea361eeba353ab30898d98b9732b3"
     }
   ],
   "image": ""
