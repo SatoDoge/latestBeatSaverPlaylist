@@ -1,280 +1,166 @@
 {
-  "playlistTitle": "2026-10-11T15:18:48.512Z~2026-10-12T15:18:48.512Z",
+  "playlistTitle": "2026-10-12T15:18:53.210Z~2026-10-13T15:18:53.210Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-10-11T15:18:48.512Z and 2026-10-12T15:18:48.512Z",
+  "discripstion": "Maps published between 2026-10-12T15:18:53.210Z and 2026-10-13T15:18:53.210Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "54fe1",
-      "songName": "[BSWC 2027] phonon - polyriddim",
-      "hash": "593ee42a7c886b101582861f8560edba29f625b0",
-      "levelid": "custom_level_593ee42a7c886b101582861f8560edba29f625b0"
+      "key": "55038",
+      "songName": "Sati Akura - Tetoris (RUS Cover)",
+      "hash": "8c4b6468bd00800631c125ffef8ef46a4c158c65",
+      "levelid": "custom_level_8c4b6468bd00800631c125ffef8ef46a4c158c65"
     },
     {
-      "key": "54fdd",
-      "songName": "Edgy",
-      "hash": "8ffd73e0f5c7dc4f17d4ba8b859c208315b134ae",
-      "levelid": "custom_level_8ffd73e0f5c7dc4f17d4ba8b859c208315b134ae"
+      "key": "55035",
+      "songName": "ユリイ・カノン - メロディック・ハロウィンナイト",
+      "hash": "820c1dd3afb9408a2da943307657ca0e163f9cc4",
+      "levelid": "custom_level_820c1dd3afb9408a2da943307657ca0e163f9cc4"
     },
     {
-      "key": "54fd8",
-      "songName": "RYOQUCHA - 謹賀新年ハイテック2026",
-      "hash": "8a55fecd828f16d0ab9bf8c7cd066960b9d5cd9f",
-      "levelid": "custom_level_8a55fecd828f16d0ab9bf8c7cd066960b9d5cd9f"
+      "key": "55036",
+      "songName": "Toby Fox - Fallen Down (Reprise) (From \"Undertale\")",
+      "hash": "944c1c8c18865d81ac214adef47014f6618e7d9f",
+      "levelid": "custom_level_944c1c8c18865d81ac214adef47014f6618e7d9f"
     },
     {
-      "key": "54fd7",
-      "songName": "The Living Tombstone - I Cant Fix You (Bevilix's Bootleg)",
-      "hash": "404c0e3ba8cf619d83461dc925b3bba513c296b4",
-      "levelid": "custom_level_404c0e3ba8cf619d83461dc925b3bba513c296b4"
+      "key": "55034",
+      "songName": "ようこそマジカル・スクールへ (赤ずきんチャチャ ED3)",
+      "hash": "a1062c97fa1c214b943bd2a850885e964d26ccee",
+      "levelid": "custom_level_a1062c97fa1c214b943bd2a850885e964d26ccee"
     },
     {
-      "key": "54fd6",
-      "songName": "チャチャにおまかせ (赤ずきんチャチャ ED2)",
-      "hash": "bbc1bea4a61f52fce2d8dfd09cc574f3439a8355",
-      "levelid": "custom_level_bbc1bea4a61f52fce2d8dfd09cc574f3439a8355"
+      "key": "5501e",
+      "songName": "Flare",
+      "hash": "bc041eee0db84aa0237cc55c64a1e59dccd7038f",
+      "levelid": "custom_level_bc041eee0db84aa0237cc55c64a1e59dccd7038f"
     },
     {
-      "key": "54fd4",
-      "songName": "Forget You",
-      "hash": "4c46639a03f20f748a369d0c3ccba578f6045c76",
-      "levelid": "custom_level_4c46639a03f20f748a369d0c3ccba578f6045c76"
+      "key": "5501d",
+      "songName": "Osamason",
+      "hash": "067556a8c45b773d0fa2907dd6246b795482552b",
+      "levelid": "custom_level_067556a8c45b773d0fa2907dd6246b795482552b"
     },
     {
-      "key": "54fcf",
-      "songName": "CG5 - Fanatic",
-      "hash": "29d36aa77cefeddca46bc2370c1fb609d50e0fe7",
-      "levelid": "custom_level_29d36aa77cefeddca46bc2370c1fb609d50e0fe7"
+      "key": "5501c",
+      "songName": "Laur - Viyella's Nightmare (Game Size)",
+      "hash": "1a22310ff948b1063afe339a6e9185fd5d94e4c7",
+      "levelid": "custom_level_1a22310ff948b1063afe339a6e9185fd5d94e4c7"
     },
     {
-      "key": "54fce",
-      "songName": "Master of humanity",
-      "hash": "ea59f8fe0e982c7f563bfa66ab471c2db1582448",
-      "levelid": "custom_level_ea59f8fe0e982c7f563bfa66ab471c2db1582448"
+      "key": "5501b",
+      "songName": "M.I.A. - Paper Planes",
+      "hash": "ba438841026825aff60a74a1d9e80c0cc6e9ef60",
+      "levelid": "custom_level_ba438841026825aff60a74a1d9e80c0cc6e9ef60"
     },
     {
-      "key": "54fcc",
-      "songName": "The aura farmer",
-      "hash": "1211cbacbc76a01ade7946fddcd2ce5cde8c4d84",
-      "levelid": "custom_level_1211cbacbc76a01ade7946fddcd2ce5cde8c4d84"
+      "key": "55019",
+      "songName": "flare",
+      "hash": "03ab06c746b97bf31e754620dfb60d957151003b",
+      "levelid": "custom_level_03ab06c746b97bf31e754620dfb60d957151003b"
     },
     {
-      "key": "54fcd",
-      "songName": "[Map Archives] Dirty Palm - Call My Name (Fitbeat)",
-      "hash": "7226c6df26378ae79509368d69cec7856bd024e8",
-      "levelid": "custom_level_7226c6df26378ae79509368d69cec7856bd024e8"
+      "key": "55011",
+      "songName": "Swimming Pools",
+      "hash": "6e57aa34e85377179a21b19bc9b190260550afc2",
+      "levelid": "custom_level_6e57aa34e85377179a21b19bc9b190260550afc2"
     },
     {
-      "key": "54fcb",
-      "songName": "MAKES ME FEEL BETTER by OnenO & Perilous Futur",
-      "hash": "08a95d46817c194fa0bf3dfa3259c2a2da53b612",
-      "levelid": "custom_level_08a95d46817c194fa0bf3dfa3259c2a2da53b612"
+      "key": "5500f",
+      "songName": "Mickey Darling - SAY THAT YOU MISS ME",
+      "hash": "e96c25c9620a61d144e776b999c6b3e6e9285599",
+      "levelid": "custom_level_e96c25c9620a61d144e776b999c6b3e6e9285599"
     },
     {
-      "key": "54fc8",
-      "songName": "PAIN by Le Destroy & The Red Glare",
-      "hash": "c8c32fe73df91508dabfddafd89477455349f2d6",
-      "levelid": "custom_level_c8c32fe73df91508dabfddafd89477455349f2d6"
+      "key": "55010",
+      "songName": "KAT x Aku P ft. POPY - Affection Addiction",
+      "hash": "ec86970fd4430d4530a5550de01ab06f70ace874",
+      "levelid": "custom_level_ec86970fd4430d4530a5550de01ab06f70ace874"
     },
     {
-      "key": "54fc6",
-      "songName": "Theme of Laura - Siletn Hill 2 (no voiceover)",
-      "hash": "593e78a656124a32b38987ca9c51cf4ec20ba185",
-      "levelid": "custom_level_593e78a656124a32b38987ca9c51cf4ec20ba185"
+      "key": "5500e",
+      "songName": "Instantaneous Space",
+      "hash": "953967a93708a201730f766740fe20e926256e13",
+      "levelid": "custom_level_953967a93708a201730f766740fe20e926256e13"
     },
     {
-      "key": "54fc5",
-      "songName": "JID - Somebody",
-      "hash": "730627a474e29a28e8ac4984f97b70be0d3a1017",
-      "levelid": "custom_level_730627a474e29a28e8ac4984f97b70be0d3a1017"
+      "key": "5500d",
+      "songName": "From Now On (lightshow)",
+      "hash": "cab30bdcc4218bcd12bc98e3b6206ac0f55e9201",
+      "levelid": "custom_level_cab30bdcc4218bcd12bc98e3b6206ac0f55e9201"
     },
     {
-      "key": "54fc3",
-      "songName": "Clark Rainbow - BSOD",
-      "hash": "f43e7b9f1ac5ff71d93b7be3d5b150cca83a409c",
-      "levelid": "custom_level_f43e7b9f1ac5ff71d93b7be3d5b150cca83a409c"
+      "key": "5500c",
+      "songName": "Nintendo Land Ninjas (chroma version) Easy",
+      "hash": "38b7a3ebee1d2b848cfaecf9073b3bfa797195d0",
+      "levelid": "custom_level_38b7a3ebee1d2b848cfaecf9073b3bfa797195d0"
     },
     {
-      "key": "54fc2",
-      "songName": "Kebabs",
-      "hash": "2e15e85b92a35f38b20ec042a0254cee03744311",
-      "levelid": "custom_level_2e15e85b92a35f38b20ec042a0254cee03744311"
+      "key": "5500b",
+      "songName": "Nintendo Land Ninjas (chroma version) EXTRA HARD",
+      "hash": "7d07247b20f96e866c9cf1dbddcc772d0a389bcf",
+      "levelid": "custom_level_7d07247b20f96e866c9cf1dbddcc772d0a389bcf"
     },
     {
-      "key": "54fa4",
-      "songName": "365 featuring shygirl",
-      "hash": "b1bf28230c367478b60788709e0f34e7d3af717c",
-      "levelid": "custom_level_b1bf28230c367478b60788709e0f34e7d3af717c"
+      "key": "55009",
+      "songName": "Camellia - NĀGALOKAḤ Prologue: Realm of Dragons",
+      "hash": "68050560a0e01e9eb8569f30b4e7bfe91f37bdbb",
+      "levelid": "custom_level_68050560a0e01e9eb8569f30b4e7bfe91f37bdbb"
     },
     {
-      "key": "54fa3",
-      "songName": "Everything is romantic",
-      "hash": "9fa53f820940fbc8de4020ab45fb6d502ec0fd81",
-      "levelid": "custom_level_9fa53f820940fbc8de4020ab45fb6d502ec0fd81"
+      "key": "54ff5",
+      "songName": "First Touch Alone",
+      "hash": "618d6eba3ca3efca3ad028986891ae7ecc01f944",
+      "levelid": "custom_level_618d6eba3ca3efca3ad028986891ae7ecc01f944"
     },
     {
-      "key": "54fa2",
-      "songName": "Club classics featuring bb trickz",
-      "hash": "67c3ea064830f4bb472978f9bd3329d1c214edb9",
-      "levelid": "custom_level_67c3ea064830f4bb472978f9bd3329d1c214edb9"
+      "key": "54ff4",
+      "songName": "Oh my little baby boy",
+      "hash": "e4f487195a1b8cc86fb8471943eef674b61b895c",
+      "levelid": "custom_level_e4f487195a1b8cc86fb8471943eef674b61b895c"
     },
     {
-      "key": "54fa1",
-      "songName": "Sympathy is a knife featuring ariana grande",
-      "hash": "a509fad40af2b46a1a7e1228b0f6545cb5359215",
-      "levelid": "custom_level_a509fad40af2b46a1a7e1228b0f6545cb5359215"
+      "key": "54ff2",
+      "songName": "Holly Slaphouse",
+      "hash": "553491f59446972476d446f57e0935343f36ff3e",
+      "levelid": "custom_level_553491f59446972476d446f57e0935343f36ff3e"
     },
     {
-      "key": "54fa0",
-      "songName": "Von dutch",
-      "hash": "18b8c70b063c9052b0b62815377ba94e03d7295e",
-      "levelid": "custom_level_18b8c70b063c9052b0b62815377ba94e03d7295e"
+      "key": "54ff0",
+      "songName": "Sunflower - Post Malone",
+      "hash": "c2feca6eaf6fa7d30451b94989172d09df245cc2",
+      "levelid": "custom_level_c2feca6eaf6fa7d30451b94989172d09df245cc2"
     },
     {
-      "key": "54f9f",
-      "songName": "Guess featuring billie eilish",
-      "hash": "355e9cef840d647d89ff8cb503aa4bce9c326970",
-      "levelid": "custom_level_355e9cef840d647d89ff8cb503aa4bce9c326970"
+      "key": "54fee",
+      "songName": "Ouija Board",
+      "hash": "2efc0d18608692dda33035f1380fb379759fba77",
+      "levelid": "custom_level_2efc0d18608692dda33035f1380fb379759fba77"
     },
     {
-      "key": "54f9e",
-      "songName": "365",
-      "hash": "fcaf2ed931c1b299610fbb22506b8d32e225de41",
-      "levelid": "custom_level_fcaf2ed931c1b299610fbb22506b8d32e225de41"
+      "key": "54fed",
+      "songName": "KingVillager Grand Test",
+      "hash": "dce2761d17fc858222008e045925c812ab83b7c6",
+      "levelid": "custom_level_dce2761d17fc858222008e045925c812ab83b7c6"
     },
     {
-      "key": "54fc1",
-      "songName": "The Simpsons - Skibidi Bap Mmm Dada!",
-      "hash": "27d824211f520433f3bd7ebf94e117e36972649b",
-      "levelid": "custom_level_27d824211f520433f3bd7ebf94e117e36972649b"
+      "key": "54feb",
+      "songName": "Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition)",
+      "hash": "f726eee81f45fd255925e7ae273cf53ec76f782b",
+      "levelid": "custom_level_f726eee81f45fd255925e7ae273cf53ec76f782b"
     },
     {
-      "key": "54fbf",
-      "songName": "Mi Amor",
-      "hash": "18a1590f2adf49b42db8286ca68f75a3ac439d46",
-      "levelid": "custom_level_18a1590f2adf49b42db8286ca68f75a3ac439d46"
+      "key": "54fe5",
+      "songName": "In the Name of the Father - PRESIDENT",
+      "hash": "9b3b407f8178b12c77d524f7d6b8db24f609e82f",
+      "levelid": "custom_level_9b3b407f8178b12c77d524f7d6b8db24f609e82f"
     },
     {
-      "key": "54fbc",
-      "songName": "Deck The Halls",
-      "hash": "89af9dc8dbab5a6cdb0507de02b8e49d9d426a7a",
-      "levelid": "custom_level_89af9dc8dbab5a6cdb0507de02b8e49d9d426a7a"
-    },
-    {
-      "key": "54fba",
-      "songName": "Phalaenopsis aphrodite",
-      "hash": "7e6e7383ee363addd4e11e83d2377acad5717a6b",
-      "levelid": "custom_level_7e6e7383ee363addd4e11e83d2377acad5717a6b"
-    },
-    {
-      "key": "54fb9",
-      "songName": "SPECIALZ",
-      "hash": "8b93f48b3b8749405e37eff0944e5d5f0ca87636",
-      "levelid": "custom_level_8b93f48b3b8749405e37eff0944e5d5f0ca87636"
-    },
-    {
-      "key": "54fb8",
-      "songName": "Laur - Noisy Parade",
-      "hash": "33c0e3062b1ff8ec4d75d36a9d1b5d284d8c998f",
-      "levelid": "custom_level_33c0e3062b1ff8ec4d75d36a9d1b5d284d8c998f"
-    },
-    {
-      "key": "54fb5",
-      "songName": "Nintendo Land Ninjas (chroma version)",
-      "hash": "4ab81520c832066ee732e8d9f962a53d26cbc1d1",
-      "levelid": "custom_level_4ab81520c832066ee732e8d9f962a53d26cbc1d1"
-    },
-    {
-      "key": "54fb3",
-      "songName": "Nintendo Land Ninjas",
-      "hash": "2ee9c24ab3b0d69e8944b89b118531b48d2f2959",
-      "levelid": "custom_level_2ee9c24ab3b0d69e8944b89b118531b48d2f2959"
-    },
-    {
-      "key": "54fb2",
-      "songName": "TooMuch",
-      "hash": "f9c46eaf6f3e9dc0a6306a3a68d97590ecfc57c0",
-      "levelid": "custom_level_f9c46eaf6f3e9dc0a6306a3a68d97590ecfc57c0"
-    },
-    {
-      "key": "54faf",
-      "songName": "pull back",
-      "hash": "1085d4617f07ac3dc9a097420a8d11af25ddc373",
-      "levelid": "custom_level_1085d4617f07ac3dc9a097420a8d11af25ddc373"
-    },
-    {
-      "key": "54fae",
-      "songName": "khj",
-      "hash": "a74348513ec94c7dd78f211181dfdd00934bd52c",
-      "levelid": "custom_level_a74348513ec94c7dd78f211181dfdd00934bd52c"
-    },
-    {
-      "key": "54fac",
-      "songName": "Influenceurs - Squeezie",
-      "hash": "338bacf5440895bd9b5f596808e21b2ee3999190",
-      "levelid": "custom_level_338bacf5440895bd9b5f596808e21b2ee3999190"
-    },
-    {
-      "key": "54faa",
-      "songName": "apprécie moi à ma juste valeur - détesté",
-      "hash": "71c3fd31774cb2aab419e251f029f237ba1c5d65",
-      "levelid": "custom_level_71c3fd31774cb2aab419e251f029f237ba1c5d65"
-    },
-    {
-      "key": "54fa9",
-      "songName": "[V4] underscores - Do It",
-      "hash": "ee0e4ccbc4f062455d89704f8eb253a5a3d8cc05",
-      "levelid": "custom_level_ee0e4ccbc4f062455d89704f8eb253a5a3d8cc05"
-    },
-    {
-      "key": "54fa8",
-      "songName": "love is danger",
-      "hash": "f3ac7391567bd0a8636e406b48966b785e8f5d86",
-      "levelid": "custom_level_f3ac7391567bd0a8636e406b48966b785e8f5d86"
-    },
-    {
-      "key": "54fa7",
-      "songName": "Snowchild - The Weeknd",
-      "hash": "f5ee7a2c4370947a7e7afed6fb456d750c98cc86",
-      "levelid": "custom_level_f5ee7a2c4370947a7e7afed6fb456d750c98cc86"
-    },
-    {
-      "key": "54be6",
-      "songName": "The Thrash Particle",
-      "hash": "c0bdbf3f95ba1817ac06003e8fb5d31a67a3829c",
-      "levelid": "custom_level_c0bdbf3f95ba1817ac06003e8fb5d31a67a3829c"
-    },
-    {
-      "key": "54fa6",
-      "songName": "[X2MC] lovity - VERITY + FALSITY + CRUELTY + OBSCURITY + LOVETY",
-      "hash": "e4912b5bccd565ef86b2556f9130f47fbae65ea9",
-      "levelid": "custom_level_e4912b5bccd565ef86b2556f9130f47fbae65ea9"
-    },
-    {
-      "key": "54fa5",
-      "songName": "Suspended Motif",
-      "hash": "6fb17979110ff85d5a23f1cd96098783678938b7",
-      "levelid": "custom_level_6fb17979110ff85d5a23f1cd96098783678938b7"
-    },
-    {
-      "key": "54f9b",
-      "songName": "Sono Solo un Cespuglio",
-      "hash": "4323ad9571529d7330f74c21bd31587b8c1f0123",
-      "levelid": "custom_level_4323ad9571529d7330f74c21bd31587b8c1f0123"
-    },
-    {
-      "key": "54f90",
-      "songName": "[Fitbeat] Metrik - Parallel (feat. Grafix)",
-      "hash": "4f3c73f897b975f6c4e4a207c66fa35b191af32c",
-      "levelid": "custom_level_4f3c73f897b975f6c4e4a207c66fa35b191af32c"
-    },
-    {
-      "key": "54f95",
-      "songName": "Savvy - Slap Me Again",
-      "hash": "3a03cbc050c8bf883debfca35c2238d51319bebd",
-      "levelid": "custom_level_3a03cbc050c8bf883debfca35c2238d51319bebd"
+      "key": "54fe4",
+      "songName": "Break Me Out",
+      "hash": "d0eaf3a887d8738c94586a43e8bcc079df789899",
+      "levelid": "custom_level_d0eaf3a887d8738c94586a43e8bcc079df789899"
     }
   ],
   "image": ""
