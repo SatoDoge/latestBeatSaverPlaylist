@@ -1,256 +1,256 @@
 {
-  "playlistTitle": "2026-10-15T15:18:48.231Z~2026-10-16T15:18:48.231Z",
+  "playlistTitle": "2026-10-16T15:18:48.250Z~2026-10-17T15:18:48.250Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-10-15T15:18:48.231Z and 2026-10-16T15:18:48.231Z",
+  "discripstion": "Maps published between 2026-10-16T15:18:48.250Z and 2026-10-17T15:18:48.250Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "55182",
-      "songName": "東方妖々夢 /toho yoyomu ~the maximum moving about~ - SEKKENYA",
-      "hash": "8cd30daae79d65c56f80c632ea28b56d3511f3d1",
-      "levelid": "custom_level_8cd30daae79d65c56f80c632ea28b56d3511f3d1"
+      "key": "551d4",
+      "songName": "poltergiest, røøtz, Jordo - Into The Void (feat. Jordan Lindley) (short ver)",
+      "hash": "cad2d8fab8bd0fc468fcf2c2ebd96b567678e3cf",
+      "levelid": "custom_level_cad2d8fab8bd0fc468fcf2c2ebd96b567678e3cf"
     },
     {
-      "key": "55180",
-      "songName": "DJ Raisei - Ginkyo Sekai (feat. Kasane Teto)",
-      "hash": "0054492df05f36612d0a32f9be0d4d6c40cc605c",
-      "levelid": "custom_level_0054492df05f36612d0a32f9be0d4d6c40cc605c"
+      "key": "551d1",
+      "songName": "BlackY VS Yooh VS siromaru VS xi VS モリモリあつし - 創 -汝ら新世界へ歩む者なり-",
+      "hash": "550a444a191097a3ca3bacb0e9bdcb366139ce69",
+      "levelid": "custom_level_550a444a191097a3ca3bacb0e9bdcb366139ce69"
     },
     {
-      "key": "5517f",
-      "songName": "Danger! High Voltage - Soulchild Radio Mix. Electric Six",
-      "hash": "229a26b545dbc6d135454b1808a6fd9c666b6936",
-      "levelid": "custom_level_229a26b545dbc6d135454b1808a6fd9c666b6936"
+      "key": "551cf",
+      "songName": "Nazad v Kresty",
+      "hash": "8b7441eb526547571136182adb7f39efaf393290",
+      "levelid": "custom_level_8b7441eb526547571136182adb7f39efaf393290"
     },
     {
-      "key": "5517e",
+      "key": "551cd",
+      "songName": "[Phigros]technoplanet - Desultory Signals",
+      "hash": "e5efd60989baf7bfc96d06e0fe72ad3b1d266868",
+      "levelid": "custom_level_e5efd60989baf7bfc96d06e0fe72ad3b1d266868"
+    },
+    {
+      "key": "551cc",
+      "songName": "Pit - NANAOAKARI",
+      "hash": "7e1d15bdaf354469268159fcc9957ea51bf6aaba",
+      "levelid": "custom_level_7e1d15bdaf354469268159fcc9957ea51bf6aaba"
+    },
+    {
+      "key": "551c9",
+      "songName": "漢祭り【OTOKO MATSURI】",
+      "hash": "953fca67c91a335dd60035af1778e9ce872189cd",
+      "levelid": "custom_level_953fca67c91a335dd60035af1778e9ce872189cd"
+    },
+    {
+      "key": "551c8",
+      "songName": "Antigravity",
+      "hash": "6d3123cd8b87d01255a588c4e69c9d44a16ab59c",
+      "levelid": "custom_level_6d3123cd8b87d01255a588c4e69c9d44a16ab59c"
+    },
+    {
+      "key": "551c7",
+      "songName": "Tanchiky - Hyper New Year",
+      "hash": "98ee9e23a579e84a2a47ff20d2ed64a4accb0e87",
+      "levelid": "custom_level_98ee9e23a579e84a2a47ff20d2ed64a4accb0e87"
+    },
+    {
+      "key": "51314",
+      "songName": "Melodiniq - onoken a.k.a. owl＊tree",
+      "hash": "7f3a999b4a7311d216613e0b8dbb5c27a9bce5e0",
+      "levelid": "custom_level_7f3a999b4a7311d216613e0b8dbb5c27a9bce5e0"
+    },
+    {
+      "key": "551c5",
+      "songName": "Magical Sanctuary (Cut)",
+      "hash": "4f13d1f6bb7849d1a54917d5ee9e2c99e6500461",
+      "levelid": "custom_level_4f13d1f6bb7849d1a54917d5ee9e2c99e6500461"
+    },
+    {
+      "key": "551c2",
+      "songName": "晴れてハレルヤ (魔法陣グルグル OP2)",
+      "hash": "f5947836220ddf41a8408e2c0ab131a21fe53ab9",
+      "levelid": "custom_level_f5947836220ddf41a8408e2c0ab131a21fe53ab9"
+    },
+    {
+      "key": "551c1",
+      "songName": "Right In Two",
+      "hash": "c3258d564bbeb2401bab658261d7f738a886a251",
+      "levelid": "custom_level_c3258d564bbeb2401bab658261d7f738a886a251"
+    },
+    {
+      "key": "551c0",
+      "songName": "glaive & kurtains - The Troubles",
+      "hash": "ae83daa317fe073feb3118673ed9466335941449",
+      "levelid": "custom_level_ae83daa317fe073feb3118673ed9466335941449"
+    },
+    {
+      "key": "551bd",
+      "songName": "With You",
+      "hash": "f211d5f93eecbe9144399b1e946c71d398e3516d",
+      "levelid": "custom_level_f211d5f93eecbe9144399b1e946c71d398e3516d"
+    },
+    {
+      "key": "551bc",
+      "songName": "kaerb uoy llit uoy dneB ",
+      "hash": "c02e2d8fa17f6275e6eaa0170177984c582b679f",
+      "levelid": "custom_level_c02e2d8fa17f6275e6eaa0170177984c582b679f"
+    },
+    {
+      "key": "551bb",
+      "songName": "untitled",
+      "hash": "318c50b5b81a3b776790a804836c5a8a833cdf86",
+      "levelid": "custom_level_318c50b5b81a3b776790a804836c5a8a833cdf86"
+    },
+    {
+      "key": "551b9",
+      "songName": "TAK - Nya Nya Nya Chu Nya (feat. Kotoha)",
+      "hash": "ffd8390dfddfd7e85c9a35dc34d54df8980d30d6",
+      "levelid": "custom_level_ffd8390dfddfd7e85c9a35dc34d54df8980d30d6"
+    },
+    {
+      "key": "551b7",
+      "songName": "Admirável Chip Novo",
+      "hash": "5026d441418965f4d598ceec3a1197d1b583fc72",
+      "levelid": "custom_level_5026d441418965f4d598ceec3a1197d1b583fc72"
+    },
+    {
+      "key": "5512e",
+      "songName": "[ChromaGLS] Mo Falk - Nutella",
+      "hash": "c5ac18d0f59136454c7bc2955ac1962f06e26e81",
+      "levelid": "custom_level_c5ac18d0f59136454c7bc2955ac1962f06e26e81"
+    },
+    {
+      "key": "551b1",
+      "songName": "EGG (Fart)",
+      "hash": "40ae3b937ae99a22fb832e74998232ffd913f135",
+      "levelid": "custom_level_40ae3b937ae99a22fb832e74998232ffd913f135"
+    },
+    {
+      "key": "551ae",
       "songName": "BOMB IRAN",
-      "hash": "fde6f7fb0e68fe08d962d422bff1aed3142d3c56",
-      "levelid": "custom_level_fde6f7fb0e68fe08d962d422bff1aed3142d3c56"
+      "hash": "85ae956b7bdad98efedcbbc3ffa88d00a56bc9ec",
+      "levelid": "custom_level_85ae956b7bdad98efedcbbc3ffa88d00a56bc9ec"
     },
     {
-      "key": "5517d",
-      "songName": "Marvel Factory - marrying my waifu",
-      "hash": "1a3861e493b9760201c01cb37081aee318e29463",
-      "levelid": "custom_level_1a3861e493b9760201c01cb37081aee318e29463"
+      "key": "551ad",
+      "songName": "Last Wish",
+      "hash": "64c8ea83150c0cdb1d76c9c334f7663d8f3d0f5e",
+      "levelid": "custom_level_64c8ea83150c0cdb1d76c9c334f7663d8f3d0f5e"
     },
     {
-      "key": "5517c",
-      "songName": "MONSTER - gumi",
-      "hash": "c68501a58a9b3cc9898df0784c636e22208e2ae5",
-      "levelid": "custom_level_c68501a58a9b3cc9898df0784c636e22208e2ae5"
+      "key": "551a9",
+      "songName": "Take A Slice",
+      "hash": "5657b906f9d79cd115fb13b250519ee48f4df883",
+      "levelid": "custom_level_5657b906f9d79cd115fb13b250519ee48f4df883"
     },
     {
-      "key": "550a4",
-      "songName": "愛美-black witch (芹香ver.)",
-      "hash": "a3572d88ecb4d2f7a76412ef19683ba270654720",
-      "levelid": "custom_level_a3572d88ecb4d2f7a76412ef19683ba270654720"
+      "key": "551a8",
+      "songName": "BACKROOMS BACTERIA",
+      "hash": "d8ba65561420d6b09e7cf255b3d44dd51e124132",
+      "levelid": "custom_level_d8ba65561420d6b09e7cf255b3d44dd51e124132"
     },
     {
-      "key": "5517b",
-      "songName": "愛包ダンスホール",
-      "hash": "5cf981dbd524c96637e19b3c3debdad90e7669f8",
-      "levelid": "custom_level_5cf981dbd524c96637e19b3c3debdad90e7669f8"
+      "key": "551a5",
+      "songName": "why did it say missing mods",
+      "hash": "44c48f451f35858ecd84359ecbee45f19c1941c7",
+      "levelid": "custom_level_44c48f451f35858ecd84359ecbee45f19c1941c7"
     },
     {
-      "key": "54fd0",
-      "songName": "ZAQ - QUEEN",
-      "hash": "931761e590fd946b47416e81cdff32c619f4be19",
-      "levelid": "custom_level_931761e590fd946b47416e81cdff32c619f4be19"
+      "key": "551a2",
+      "songName": "Bark Fart God From AliExpress",
+      "hash": "b07886421ce8bb8713a7462ef02971397643e018",
+      "levelid": "custom_level_b07886421ce8bb8713a7462ef02971397643e018"
     },
     {
-      "key": "55109",
-      "songName": "[MapSaber: Mapper Mimics] funamusea - Wasteland",
-      "hash": "62d2a39a98451cdcb87b5ea5519ee1025ebf056b",
-      "levelid": "custom_level_62d2a39a98451cdcb87b5ea5519ee1025ebf056b"
+      "key": "551a1",
+      "songName": "Chandol - DOUBT",
+      "hash": "9e24def72609d40869a4c95fc10f5e003655d95d",
+      "levelid": "custom_level_9e24def72609d40869a4c95fc10f5e003655d95d"
     },
     {
-      "key": "5517a",
-      "songName": "Wind Climbing 〜風にあそばれて〜 (魔法陣グルグル ED)",
-      "hash": "f0bbe9d77d7ca6d17a67ab0f95153748ce9e89e7",
-      "levelid": "custom_level_f0bbe9d77d7ca6d17a67ab0f95153748ce9e89e7"
+      "key": "55195",
+      "songName": "ORBIT - LUCID",
+      "hash": "a9401f40b6a47470ce0d695ce1b96fa295dad1c9",
+      "levelid": "custom_level_a9401f40b6a47470ce0d695ce1b96fa295dad1c9"
     },
     {
-      "key": "55179",
-      "songName": "♡桃色片想い♡",
-      "hash": "3b98d6aae7433f8ac335e9fd85734e9818668905",
-      "levelid": "custom_level_3b98d6aae7433f8ac335e9fd85734e9818668905"
+      "key": "54b7e",
+      "songName": "KiiiKiii - Pop Off Pop Off",
+      "hash": "b66d76fbff9993521827da14bfbfb971e1ea7d54",
+      "levelid": "custom_level_b66d76fbff9993521827da14bfbfb971e1ea7d54"
     },
     {
-      "key": "55178",
-      "songName": "What a snack run looked like in 1989 with just one dollar",
-      "hash": "36605e5f770cfde190197e8687c70e11b0eb3bc0",
-      "levelid": "custom_level_36605e5f770cfde190197e8687c70e11b0eb3bc0"
+      "key": "55190",
+      "songName": "KiiiKiii - Blue Hour",
+      "hash": "39b4968a2fa4ba5e24e195f39c06f7439f2ed6d5",
+      "levelid": "custom_level_39b4968a2fa4ba5e24e195f39c06f7439f2ed6d5"
     },
     {
-      "key": "55175",
+      "key": "5519e",
+      "songName": "just two arc notes ",
+      "hash": "063b2f9c85328bdd7c591d93e861d266c0249ab7",
+      "levelid": "custom_level_063b2f9c85328bdd7c591d93e861d266c0249ab7"
+    },
+    {
+      "key": "5519a",
+      "songName": "lllllllllllll",
+      "hash": "3e537bd6635466f86f0610dc2cdbb5cd612aac33",
+      "levelid": "custom_level_3e537bd6635466f86f0610dc2cdbb5cd612aac33"
+    },
+    {
+      "key": "55064",
+      "songName": "KAMZONER - pepsi p",
+      "hash": "69b719ed27e814c9d8ed39c48c349269dfd8c6e7",
+      "levelid": "custom_level_69b719ed27e814c9d8ed39c48c349269dfd8c6e7"
+    },
+    {
+      "key": "55197",
+      "songName": "Wan!-tanger",
+      "hash": "5d73f8e35cbdd3046bf5bbbcca782067752dc543",
+      "levelid": "custom_level_5d73f8e35cbdd3046bf5bbbcca782067752dc543"
+    },
+    {
+      "key": "5518d",
+      "songName": "when your friend plays beatsaber ",
+      "hash": "4987381997ed5ab190f4c3257becc5605534625c",
+      "levelid": "custom_level_4987381997ed5ab190f4c3257becc5605534625c"
+    },
+    {
+      "key": "5518c",
+      "songName": "Y'all remember SpongeBob in the hood?",
+      "hash": "4edfd0b0b195c8ab49473ea6ad68c66e99196957",
+      "levelid": "custom_level_4edfd0b0b195c8ab49473ea6ad68c66e99196957"
+    },
+    {
+      "key": "55189",
+      "songName": "dog sucker punches dude in the face ",
+      "hash": "ea3d515527d0d7e6d6b742be75c4f22e83e4d743",
+      "levelid": "custom_level_ea3d515527d0d7e6d6b742be75c4f22e83e4d743"
+    },
+    {
+      "key": "55188",
       "songName": "My Ordinary Life",
-      "hash": "cb48bd9ec6d18e31c91a7d21cdca3ed0d713e69c",
-      "levelid": "custom_level_cb48bd9ec6d18e31c91a7d21cdca3ed0d713e69c"
+      "hash": "3696378fd2be70caa2861bb2473fc1705d87d945",
+      "levelid": "custom_level_3696378fd2be70caa2861bb2473fc1705d87d945"
     },
     {
-      "key": "55173",
-      "songName": "die or die ",
-      "hash": "172d22fad452f6490c3ce0a198906be19caf1172",
-      "levelid": "custom_level_172d22fad452f6490c3ce0a198906be19caf1172"
+      "key": "55187",
+      "songName": "Distance",
+      "hash": "7bc0ec51774f4c918648ab490ef20225f38444fa",
+      "levelid": "custom_level_7bc0ec51774f4c918648ab490ef20225f38444fa"
     },
     {
-      "key": "55172",
-      "songName": "dante red - HelloWorld",
-      "hash": "404be36a8641b9357bfd43c25868ec685e8fe663",
-      "levelid": "custom_level_404be36a8641b9357bfd43c25868ec685e8fe663"
+      "key": "55186",
+      "songName": "Horror Skunx - It's me, It's Verity",
+      "hash": "009ef7ffec9dd3905a2b81e8f7ef0bedff5d8740",
+      "levelid": "custom_level_009ef7ffec9dd3905a2b81e8f7ef0bedff5d8740"
     },
     {
-      "key": "55127",
-      "songName": "Hong Kra Jok - Safeplanet",
-      "hash": "0d7939a10716125b4ab259829b3cfb7d47d394ed",
-      "levelid": "custom_level_0d7939a10716125b4ab259829b3cfb7d47d394ed"
-    },
-    {
-      "key": "55126",
-      "songName": "Jot Mai - THE TOYS",
-      "hash": "df70a3c3e93b6319d6861affce001c0a216efbe4",
-      "levelid": "custom_level_df70a3c3e93b6319d6861affce001c0a216efbe4"
-    },
-    {
-      "key": "55125",
-      "songName": "Jeb Tee Yung Ru Suek [Ost. U-PRINCE Series] - NONT TANONT",
-      "hash": "199a0352177c6ab0d4f064acbeac3d64d3ba8469",
-      "levelid": "custom_level_199a0352177c6ab0d4f064acbeac3d64d3ba8469"
-    },
-    {
-      "key": "5512a",
-      "songName": "Khao Kon - URBOYTJ",
-      "hash": "12be797711047253c9dc8773f5b2ef51953c57c3",
-      "levelid": "custom_level_12be797711047253c9dc8773f5b2ef51953c57c3"
-    },
-    {
-      "key": "55124",
-      "songName": "Khon Mai Champen - Getsunova",
-      "hash": "10d7821cc794d3f9560ce67552c8fa254ae7183d",
-      "levelid": "custom_level_10d7821cc794d3f9560ce67552c8fa254ae7183d"
-    },
-    {
-      "key": "55123",
-      "songName": "Mai Diang Sa - Big Ass",
-      "hash": "387831e2399ae8eda13796aca0845ce7a7a191d6",
-      "levelid": "custom_level_387831e2399ae8eda13796aca0845ce7a7a191d6"
-    },
-    {
-      "key": "55122",
-      "songName": "Phae Thang - Labanoon",
-      "hash": "c2499269d7f48df321447b3b2eea44bb676a96b3",
-      "levelid": "custom_level_c2499269d7f48df321447b3b2eea44bb676a96b3"
-    },
-    {
-      "key": "55121",
-      "songName": "Khon Mee Sanay - Pang Nakarin",
-      "hash": "9e6db466e47ec08e3be0cabd2ba794b5635be544",
-      "levelid": "custom_level_9e6db466e47ec08e3be0cabd2ba794b5635be544"
-    },
-    {
-      "key": "55120",
-      "songName": "Aow - Atom Chanakan",
-      "hash": "fb26c127940d6e712d907e3b9a2a13570e97c7e8",
-      "levelid": "custom_level_fb26c127940d6e712d907e3b9a2a13570e97c7e8"
-    },
-    {
-      "key": "5511f",
-      "songName": "I'm Sorry (Sida) - The Rube",
-      "hash": "b6db7fe3efba0aed88f3baf14bc04ed5fe2e88dc",
-      "levelid": "custom_level_b6db7fe3efba0aed88f3baf14bc04ed5fe2e88dc"
-    },
-    {
-      "key": "55151",
-      "songName": "Final Power",
-      "hash": "083c4b08d668596fc4a70c402df866edadd455b7",
-      "levelid": "custom_level_083c4b08d668596fc4a70c402df866edadd455b7"
-    },
-    {
-      "key": "55150",
-      "songName": "Xmas Suicide",
-      "hash": "601daad2e6b5cb467f2e54bae47f8fd5c0e1c0f6",
-      "levelid": "custom_level_601daad2e6b5cb467f2e54bae47f8fd5c0e1c0f6"
-    },
-    {
-      "key": "5514f",
-      "songName": "#doyalike",
-      "hash": "8d8c77b1db8a186c6d53b6ecf0298842b3589ef4",
-      "levelid": "custom_level_8d8c77b1db8a186c6d53b6ecf0298842b3589ef4"
-    },
-    {
-      "key": "5514a",
-      "songName": "13LACK 13ALLOONZ | BLACK BALLOONS",
-      "hash": "4a036af6a6c167d550b2ab6376edc76e9d4e99d3",
-      "levelid": "custom_level_4a036af6a6c167d550b2ab6376edc76e9d4e99d3"
-    },
-    {
-      "key": "55145",
-      "songName": "it ebbs and flows like the tide...",
-      "hash": "353275a82f450b1ffa4721aec33d2f885448fea8",
-      "levelid": "custom_level_353275a82f450b1ffa4721aec33d2f885448fea8"
-    },
-    {
-      "key": "55136",
-      "songName": "Haunted Device",
-      "hash": "6956d282446aa64c4b16df26012908d4a17e4109",
-      "levelid": "custom_level_6956d282446aa64c4b16df26012908d4a17e4109"
-    },
-    {
-      "key": "5512b",
-      "songName": "tachyzoite",
-      "hash": "bea8086d92249fa373276f9e8aa71d9b4a2e0132",
-      "levelid": "custom_level_bea8086d92249fa373276f9e8aa71d9b4a2e0132"
-    },
-    {
-      "key": "55129",
-      "songName": "[MapSaber #2] lapix & RYOQUCHA - Metaphomation",
-      "hash": "8a15bcdef47f693dd2914202d1ffa687e258b74c",
-      "levelid": "custom_level_8a15bcdef47f693dd2914202d1ffa687e258b74c"
-    },
-    {
-      "key": "55128",
-      "songName": "o",
-      "hash": "35facb5c641a4627d8a8e4b6d63066cb93e1986a",
-      "levelid": "custom_level_35facb5c641a4627d8a8e4b6d63066cb93e1986a"
-    },
-    {
-      "key": "5511e",
-      "songName": "Join us for a bite",
-      "hash": "28cb53c11bb2295d3e95fdf8f8eef0c3a267db0a",
-      "levelid": "custom_level_28cb53c11bb2295d3e95fdf8f8eef0c3a267db0a"
-    },
-    {
-      "key": "5511d",
-      "songName": "52 bombaclat",
-      "hash": "8f5326e6ad3a7ec80ecf29bef52004d3ca3fa93c",
-      "levelid": "custom_level_8f5326e6ad3a7ec80ecf29bef52004d3ca3fa93c"
-    },
-    {
-      "key": "5511c",
-      "songName": "Electric Callboy - Revery",
-      "hash": "2d2046efb80f1ce004166e08687ad46af4436ab1",
-      "levelid": "custom_level_2d2046efb80f1ce004166e08687ad46af4436ab1"
-    },
-    {
-      "key": "5511b",
-      "songName": "How to use Arc/Chain Notes",
-      "hash": "76308afa822e8b4fa20a12f2005f9c6e80e0b91a",
-      "levelid": "custom_level_76308afa822e8b4fa20a12f2005f9c6e80e0b91a"
-    },
-    {
-      "key": "5511a",
-      "songName": "Prince and the Revolution - When Doves Cry",
-      "hash": "538a4780ae34c7b2053f6ac6ef3175f335bc6535",
-      "levelid": "custom_level_538a4780ae34c7b2053f6ac6ef3175f335bc6535"
-    },
-    {
-      "key": "55119",
-      "songName": "Purple Sunflower",
-      "hash": "ae299ac1b034c0343c8ee83148b757394a949a25",
-      "levelid": "custom_level_ae299ac1b034c0343c8ee83148b757394a949a25"
+      "key": "55166",
+      "songName": "Shimmering Scars - Muse",
+      "hash": "2965c45767fea67a867e134715e4b680408eb9ce",
+      "levelid": "custom_level_2965c45767fea67a867e134715e4b680408eb9ce"
     }
   ],
   "image": ""
