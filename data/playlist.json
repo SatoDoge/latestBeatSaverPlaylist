@@ -1,130 +1,190 @@
 {
-  "playlistTitle": "2026-10-19T15:18:52.217Z~2026-10-20T15:18:52.217Z",
+  "playlistTitle": "2026-10-20T15:18:48.837Z~2026-10-21T15:18:48.837Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-10-19T15:18:52.217Z and 2026-10-20T15:18:52.217Z",
+  "discripstion": "Maps published between 2026-10-20T15:18:48.837Z and 2026-10-21T15:18:48.837Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "55358",
-      "songName": "Liar",
-      "hash": "1b697259d2f1a00419744c3fa8a9b1a67251e0df",
-      "levelid": "custom_level_1b697259d2f1a00419744c3fa8a9b1a67251e0df"
+      "key": "553ae",
+      "songName": " RUQOA - Wish Upon a Star/Feat. Ugu",
+      "hash": "4c35edf2affc815c733726a085aa2d0a8036d074",
+      "levelid": "custom_level_4c35edf2affc815c733726a085aa2d0a8036d074"
     },
     {
-      "key": "55357",
-      "songName": "Mori Calliope - Reimei Compass",
-      "hash": "270ff65f3eadbe921c8313f86b72b0f55a7c1f38",
-      "levelid": "custom_level_270ff65f3eadbe921c8313f86b72b0f55a7c1f38"
+      "key": "553ad",
+      "songName": "Icon For Hire - Venom (Sped Up)",
+      "hash": "798f0cd43cd81b514aab9b7f44ed4084d5ed1106",
+      "levelid": "custom_level_798f0cd43cd81b514aab9b7f44ed4084d5ed1106"
     },
     {
-      "key": "55356",
-      "songName": "Manic Bloom - Running From The Scene",
-      "hash": "1f3ed20c87e91cf92a9c4333bc03d84e4e8f2305",
-      "levelid": "custom_level_1f3ed20c87e91cf92a9c4333bc03d84e4e8f2305"
+      "key": "553a8",
+      "songName": "Jaroslav Beck - Beat Saber",
+      "hash": "47f81caaca45a463e88828f504fb5c184b136fe1",
+      "levelid": "custom_level_47f81caaca45a463e88828f504fb5c184b136fe1"
     },
     {
-      "key": "55349",
-      "songName": "Round&Round&Round (魔法陣グルグル(2017) ED)",
-      "hash": "28f6f8cac46a9019fbfd97e6b3436646de0e90c4",
-      "levelid": "custom_level_28f6f8cac46a9019fbfd97e6b3436646de0e90c4"
+      "key": "553a4",
+      "songName": "Like That",
+      "hash": "7debe3af40ab7a13fad189585dc38b34754b2b09",
+      "levelid": "custom_level_7debe3af40ab7a13fad189585dc38b34754b2b09"
     },
     {
-      "key": "55343",
-      "songName": "dog eats bean burrito in 1 second",
-      "hash": "6d86a0b6cba2789ce9839e6c1af33c25d0f71b23",
-      "levelid": "custom_level_6d86a0b6cba2789ce9839e6c1af33c25d0f71b23"
+      "key": "553a1",
+      "songName": "a stand power that can boil water",
+      "hash": "889fa20e2d2418f0da75146e84477c0b31e9a575",
+      "levelid": "custom_level_889fa20e2d2418f0da75146e84477c0b31e9a575"
     },
     {
-      "key": "55341",
-      "songName": "7AM",
-      "hash": "389fafd56f3aab5aa4ff3ad80e4ea3acf9e83e7f",
-      "levelid": "custom_level_389fafd56f3aab5aa4ff3ad80e4ea3acf9e83e7f"
+      "key": "5539f",
+      "songName": "חגיגה (אין לי כוח להמשיך --- --- -- ---- ----- ---- -- ------)",
+      "hash": "1bed166b8ca8551b4c4147cd3b921179871e5db8",
+      "levelid": "custom_level_1bed166b8ca8551b4c4147cd3b921179871e5db8"
     },
     {
-      "key": "5533f",
-      "songName": "Camellia - Body F10ating in the Zero Gravity Space",
-      "hash": "8cdb7ea7b53de560e4a22530ef1f21bb7c2f5a1a",
-      "levelid": "custom_level_8cdb7ea7b53de560e4a22530ef1f21bb7c2f5a1a"
+      "key": "5539b",
+      "songName": "huncaiblavendertokmatwrlavender",
+      "hash": "63471c571dd3f6c97015d15c116fa70dbbd849a6",
+      "levelid": "custom_level_63471c571dd3f6c97015d15c116fa70dbbd849a6"
     },
     {
-      "key": "5533e",
-      "songName": "Mrahc ",
-      "hash": "722acee47aa480aa3f161ee580db44b632cf0194",
-      "levelid": "custom_level_722acee47aa480aa3f161ee580db44b632cf0194"
+      "key": "5539a",
+      "songName": "(NOODLE EXTENSIONS) huh 2.0 ",
+      "hash": "f982aca814b79f85f345c5ac8a40bb8f2ed436b7",
+      "levelid": "custom_level_f982aca814b79f85f345c5ac8a40bb8f2ed436b7"
     },
     {
-      "key": "5533a",
-      "songName": "My Way - KATSEYE",
-      "hash": "c4af717b43157dd6242b71bbd83cf049e1d6ce2b",
-      "levelid": "custom_level_c4af717b43157dd6242b71bbd83cf049e1d6ce2b"
+      "key": "55399",
+      "songName": "AARONON - my darkest dreams",
+      "hash": "8fee4adf1691c9ac75f79ed4267ca54a93b2b22e",
+      "levelid": "custom_level_8fee4adf1691c9ac75f79ed4267ca54a93b2b22e"
     },
     {
-      "key": "55338",
-      "songName": "SMOKE IT OFF (sped up)",
-      "hash": "d610f213633fbad31fa89b91eebd65184be5b2f1",
-      "levelid": "custom_level_d610f213633fbad31fa89b91eebd65184be5b2f1"
+      "key": "55397",
+      "songName": "流星ダンスフロア (魔法陣グルグル(2017) OP2)",
+      "hash": "5cfb30ecaac83df4ce903b415760777994bcde72",
+      "levelid": "custom_level_5cfb30ecaac83df4ce903b415760777994bcde72"
     },
     {
-      "key": "55336",
-      "songName": "SUPER STAR -MITSURU- - She is my wife",
-      "hash": "f9ecc40cba1beac663781269b6640ffb6e3819c4",
-      "levelid": "custom_level_f9ecc40cba1beac663781269b6640ffb6e3819c4"
+      "key": "5538e",
+      "songName": "にゃんとかにゃるる - 生田絵梨花",
+      "hash": "a8ccbfe4b069e75d82d20e85ee364bb0cd344ef4",
+      "levelid": "custom_level_a8ccbfe4b069e75d82d20e85ee364bb0cd344ef4"
     },
     {
-      "key": "5532f",
-      "songName": "Quiet Suicide",
-      "hash": "4c006d9ae2e7c007394898726429dde8c0a26fe7",
-      "levelid": "custom_level_4c006d9ae2e7c007394898726429dde8c0a26fe7"
+      "key": "55394",
+      "songName": "Espero a minha vez Nx0",
+      "hash": "1f0fad908a328d819ffafa257f021185dfc0c44d",
+      "levelid": "custom_level_1f0fad908a328d819ffafa257f021185dfc0c44d"
     },
     {
-      "key": "5531a",
-      "songName": "Dirty Bird",
-      "hash": "72fde2cccab93bbf42b66d89a5bedd9dddd11d14",
-      "levelid": "custom_level_72fde2cccab93bbf42b66d89a5bedd9dddd11d14"
+      "key": "55391",
+      "songName": "猫叉Master (Nekomata Master) - Scars of FAUNA",
+      "hash": "effb131b42ee9b5f446379153df366766e132077",
+      "levelid": "custom_level_effb131b42ee9b5f446379153df366766e132077"
     },
     {
-      "key": "55311",
-      "songName": "NUMB LINKIN PARK SO THUMBY (By Propeanut & Zawb) ",
-      "hash": "df6aada8e07b7dc46f3243cd043e555af3fda00a",
-      "levelid": "custom_level_df6aada8e07b7dc46f3243cd043e555af3fda00a"
+      "key": "5538f",
+      "songName": "Phasmophobia ",
+      "hash": "31c6c7e1162a7b1c8dff36faa8da3db53b256009",
+      "levelid": "custom_level_31c6c7e1162a7b1c8dff36faa8da3db53b256009"
     },
     {
-      "key": "552b1",
-      "songName": "The Verity Band - Be My Friend",
-      "hash": "c21e2838d567e03adaea1de7725f5ada4510c8bd",
-      "levelid": "custom_level_c21e2838d567e03adaea1de7725f5ada4510c8bd"
+      "key": "5538d",
+      "songName": "How to DRASTICALLY Speed Up Steam Downloads NO CLICKBAIT",
+      "hash": "7047fbd80ddba51c1b2701c2aa535f4af466c97c",
+      "levelid": "custom_level_7047fbd80ddba51c1b2701c2aa535f4af466c97c"
     },
     {
-      "key": "552fb",
-      "songName": "Charli xcx - Yeah",
-      "hash": "7df718dcad6650c128847369e07521efc292454a",
-      "levelid": "custom_level_7df718dcad6650c128847369e07521efc292454a"
+      "key": "55389",
+      "songName": "ily - my mother wants me dead",
+      "hash": "e1294c71602a3be48f10efac966f07b818d88b2e",
+      "levelid": "custom_level_e1294c71602a3be48f10efac966f07b818d88b2e"
     },
     {
-      "key": "552f4",
-      "songName": "Getty & t+pazolite - Twisted Drop Party",
-      "hash": "2799a5e8c1b0de12a2eade877d03b5760ea6607c",
-      "levelid": "custom_level_2799a5e8c1b0de12a2eade877d03b5760ea6607c"
+      "key": "55387",
+      "songName": " [555BPM] Luuna, Lieless, Yarimov - Fine Day",
+      "hash": "9bfab2af0e76862f0cbd3b3a28210f7af426a27e",
+      "levelid": "custom_level_9bfab2af0e76862f0cbd3b3a28210f7af426a27e"
     },
     {
-      "key": "552d8",
-      "songName": "det",
-      "hash": "6f847283a0888e99faa6e83c14d7d4677b521705",
-      "levelid": "custom_level_6f847283a0888e99faa6e83c14d7d4677b521705"
+      "key": "55385",
+      "songName": "[2000s Rock & Metal] Gonna See My Friend - Pearl Jam",
+      "hash": "13c7f528e9523f6bac61438ba7422faac41a0318",
+      "levelid": "custom_level_13c7f528e9523f6bac61438ba7422faac41a0318"
     },
     {
-      "key": "552d4",
-      "songName": "Tiffany Day - AMERICAN GIRL",
-      "hash": "fb1987eadbdc89c088a3a38da7d6b7f4d9c05023",
-      "levelid": "custom_level_fb1987eadbdc89c088a3a38da7d6b7f4d9c05023"
+      "key": "55384",
+      "songName": "Lebron James in Beat Saber!? (Just A Chain only map)",
+      "hash": "daa49fede9658dca02b90a5a16058d1582b68b60",
+      "levelid": "custom_level_daa49fede9658dca02b90a5a16058d1582b68b60"
     },
     {
-      "key": "552d3",
-      "songName": "BER ZER KER",
-      "hash": "93f3e333c2535a6326481251abcbf2fb11ef52d4",
-      "levelid": "custom_level_93f3e333c2535a6326481251abcbf2fb11ef52d4"
+      "key": "55383",
+      "songName": "Pirated Copy Of Deadlocked",
+      "hash": "355050e03461985dfd53d588fc18442e7393f3ee",
+      "levelid": "custom_level_355050e03461985dfd53d588fc18442e7393f3ee"
+    },
+    {
+      "key": "55381",
+      "songName": "On and On",
+      "hash": "b3232c69a4b71f118d04e11fcf026efef1b6f5a1",
+      "levelid": "custom_level_b3232c69a4b71f118d04e11fcf026efef1b6f5a1"
+    },
+    {
+      "key": "55380",
+      "songName": "[ChromaGLS] TESSERACTS & CODE BREAKERZ - THUNDER",
+      "hash": "879b2f5a0bf5c129bbadd9768e76863efd423bee",
+      "levelid": "custom_level_879b2f5a0bf5c129bbadd9768e76863efd423bee"
+    },
+    {
+      "key": "5537f",
+      "songName": "Carry On  - Avenged Sevenfold",
+      "hash": "19e67477f03b5d1e75560e788215575c6bd706d1",
+      "levelid": "custom_level_19e67477f03b5d1e75560e788215575c6bd706d1"
+    },
+    {
+      "key": "55372",
+      "songName": "Usagi Aikoukai (cosMo×syuri22) - BlueMoon Princess",
+      "hash": "58ede6d8b4ea8d03d04c42784d00ddd66b2e7628",
+      "levelid": "custom_level_58ede6d8b4ea8d03d04c42784d00ddd66b2e7628"
+    },
+    {
+      "key": "55370",
+      "songName": "Her Boyfriend",
+      "hash": "c0bfd356582849bf3bd9060b82243878198359e8",
+      "levelid": "custom_level_c0bfd356582849bf3bd9060b82243878198359e8"
+    },
+    {
+      "key": "5536d",
+      "songName": "Camellia - epimerization",
+      "hash": "5996e70c14810dfd15132d733b97f9d4e33e0af0",
+      "levelid": "custom_level_5996e70c14810dfd15132d733b97f9d4e33e0af0"
+    },
+    {
+      "key": "5536b",
+      "songName": "Kelly Bailey - LG orbifold",
+      "hash": "1b63ab01ad86b7751c07f92666c34e317a201487",
+      "levelid": "custom_level_1b63ab01ad86b7751c07f92666c34e317a201487"
+    },
+    {
+      "key": "55362",
+      "songName": "one poodle to 3 poodle ",
+      "hash": "e11ab8799e993367e2bf836325ed182dead54ea8",
+      "levelid": "custom_level_e11ab8799e993367e2bf836325ed182dead54ea8"
+    },
+    {
+      "key": "55361",
+      "songName": "IVE - Looks Can Kill",
+      "hash": "77b41c4a691765c386c44ca1001c334ca0b15593",
+      "levelid": "custom_level_77b41c4a691765c386c44ca1001c334ca0b15593"
+    },
+    {
+      "key": "55359",
+      "songName": "WATERFALL",
+      "hash": "5e30922c5e2cd00384e7cbd49fd746a33ff061b0",
+      "levelid": "custom_level_5e30922c5e2cd00384e7cbd49fd746a33ff061b0"
     }
   ],
   "image": ""
