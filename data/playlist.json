@@ -1,190 +1,316 @@
 {
-  "playlistTitle": "2026-10-20T15:18:48.837Z~2026-10-21T15:18:48.837Z",
+  "playlistTitle": "2026-10-21T15:18:48.321Z~2026-10-22T15:18:48.321Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-10-20T15:18:48.837Z and 2026-10-21T15:18:48.837Z",
+  "discripstion": "Maps published between 2026-10-21T15:18:48.321Z and 2026-10-22T15:18:48.321Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "553ae",
-      "songName": " RUQOA - Wish Upon a Star/Feat. Ugu",
-      "hash": "4c35edf2affc815c733726a085aa2d0a8036d074",
-      "levelid": "custom_level_4c35edf2affc815c733726a085aa2d0a8036d074"
+      "key": "55405",
+      "songName": "A Man Without Love - Miku Cover by step stone",
+      "hash": "f45fa5f88b49c551cbb5163aa3d2436c61085950",
+      "levelid": "custom_level_f45fa5f88b49c551cbb5163aa3d2436c61085950"
     },
     {
-      "key": "553ad",
-      "songName": "Icon For Hire - Venom (Sped Up)",
-      "hash": "798f0cd43cd81b514aab9b7f44ed4084d5ed1106",
-      "levelid": "custom_level_798f0cd43cd81b514aab9b7f44ed4084d5ed1106"
+      "key": "553f4",
+      "songName": "hello bpm",
+      "hash": "89b720dcf57218e81dfe2e692d824b645a701901",
+      "levelid": "custom_level_89b720dcf57218e81dfe2e692d824b645a701901"
     },
     {
-      "key": "553a8",
+      "key": "553f3",
+      "songName": "Magical Circle (魔法陣グルグル(2017) ED2)",
+      "hash": "be729de1fa1fa1caec9fbd5ba7b54f76d783085c",
+      "levelid": "custom_level_be729de1fa1fa1caec9fbd5ba7b54f76d783085c"
+    },
+    {
+      "key": "553f2",
+      "songName": "The Quick Brown Fox - Break",
+      "hash": "56e72ba3e52ee09da855f1a0383fb508814c72f1",
+      "levelid": "custom_level_56e72ba3e52ee09da855f1a0383fb508814c72f1"
+    },
+    {
+      "key": "553ef",
+      "songName": "Sunflower",
+      "hash": "3ed32df99eb03f1def874252f47b18b2481543ac",
+      "levelid": "custom_level_3ed32df99eb03f1def874252f47b18b2481543ac"
+    },
+    {
+      "key": "553ee",
+      "songName": "Hunter Eyes",
+      "hash": "0eb02bf60b6b2975f77dad0392a79e1da195198c",
+      "levelid": "custom_level_0eb02bf60b6b2975f77dad0392a79e1da195198c"
+    },
+    {
+      "key": "553eb",
+      "songName": "Mata a Tus Ídolos",
+      "hash": "e758d4f2552a94e7f748fc0197cfc4e82267fd69",
+      "levelid": "custom_level_e758d4f2552a94e7f748fc0197cfc4e82267fd69"
+    },
+    {
+      "key": "553ea",
+      "songName": "MAIOOBBSNIATBY",
+      "hash": "ec0ce3700ad024c56730811270073ca931bb292a",
+      "levelid": "custom_level_ec0ce3700ad024c56730811270073ca931bb292a"
+    },
+    {
+      "key": "553e9",
+      "songName": "hoyomix - to hone mind and thought",
+      "hash": "80a28f4e1ccc204d8844652046bb1b4c4fd06a72",
+      "levelid": "custom_level_80a28f4e1ccc204d8844652046bb1b4c4fd06a72"
+    },
+    {
+      "key": "553e5",
+      "songName": "L",
+      "hash": "48bfdb3808f65edb3fbc1cb51f7c22169ddf7d51",
+      "levelid": "custom_level_48bfdb3808f65edb3fbc1cb51f7c22169ddf7d51"
+    },
+    {
+      "key": "553e2",
+      "songName": "Escape - (feat Summer Haze)",
+      "hash": "8b5924c874c0b14625378bbdffe677c988d31831",
+      "levelid": "custom_level_8b5924c874c0b14625378bbdffe677c988d31831"
+    },
+    {
+      "key": "553e1",
+      "songName": "where's my head at_",
+      "hash": "9ac70df4bcfa6acc3281b1389c7104522a26e777",
+      "levelid": "custom_level_9ac70df4bcfa6acc3281b1389c7104522a26e777"
+    },
+    {
+      "key": "553e0",
+      "songName": "Busty Beat Practice",
+      "hash": "3bbeb12a3f4856a8a3fe7de85514e6a94c37bce2",
+      "levelid": "custom_level_3bbeb12a3f4856a8a3fe7de85514e6a94c37bce2"
+    },
+    {
+      "key": "553df",
+      "songName": "RudeLies & Facading -Arabian Nights",
+      "hash": "b4643a204d8d73106b0818508b927a59d86b6a54",
+      "levelid": "custom_level_b4643a204d8d73106b0818508b927a59d86b6a54"
+    },
+    {
+      "key": "553da",
+      "songName": "Zomeki Thunder",
+      "hash": "e1318e405488c18b52b2ccfab9371d6216833181",
+      "levelid": "custom_level_e1318e405488c18b52b2ccfab9371d6216833181"
+    },
+    {
+      "key": "553d7",
+      "songName": "SEOPETEMBER",
+      "hash": "9e951d2121defd7bfa3139f378ba4115d6d1b3d0",
+      "levelid": "custom_level_9e951d2121defd7bfa3139f378ba4115d6d1b3d0"
+    },
+    {
+      "key": "553d6",
+      "songName": "[Genres of Halloween FINALE] TRAP CHICK - Execution Clap (Shortened)",
+      "hash": "4be9c5d41dfc87017de3b49dd287c4c417f35268",
+      "levelid": "custom_level_4be9c5d41dfc87017de3b49dd287c4c417f35268"
+    },
+    {
+      "key": "553d5",
+      "songName": "you can't make good brownies",
+      "hash": "a835d5d29d307d0255de63f132cdd0b418124f41",
+      "levelid": "custom_level_a835d5d29d307d0255de63f132cdd0b418124f41"
+    },
+    {
+      "key": "553d4",
+      "songName": "cen",
+      "hash": "f443f54103632329a17bb7f73942fee623a46ae6",
+      "levelid": "custom_level_f443f54103632329a17bb7f73942fee623a46ae6"
+    },
+    {
+      "key": "553d3",
+      "songName": "forcing my brother to touch grass",
+      "hash": "a0a11c931267be15a6c63ee6524fb75dd780c582",
+      "levelid": "custom_level_a0a11c931267be15a6c63ee6524fb75dd780c582"
+    },
+    {
+      "key": "553d2",
       "songName": "Jaroslav Beck - Beat Saber",
-      "hash": "47f81caaca45a463e88828f504fb5c184b136fe1",
-      "levelid": "custom_level_47f81caaca45a463e88828f504fb5c184b136fe1"
+      "hash": "30320d8c8ca2875c57e20564153cc696d7440255",
+      "levelid": "custom_level_30320d8c8ca2875c57e20564153cc696d7440255"
     },
     {
-      "key": "553a4",
-      "songName": "Like That",
-      "hash": "7debe3af40ab7a13fad189585dc38b34754b2b09",
-      "levelid": "custom_level_7debe3af40ab7a13fad189585dc38b34754b2b09"
+      "key": "553d1",
+      "songName": "FAINT",
+      "hash": "180a4fdcb86eaad45ee1d55b6564196919e856dc",
+      "levelid": "custom_level_180a4fdcb86eaad45ee1d55b6564196919e856dc"
     },
     {
-      "key": "553a1",
-      "songName": "a stand power that can boil water",
-      "hash": "889fa20e2d2418f0da75146e84477c0b31e9a575",
-      "levelid": "custom_level_889fa20e2d2418f0da75146e84477c0b31e9a575"
+      "key": "553d0",
+      "songName": "Rahul Sipligunj, Vishal Mishra - Naacho Naacho",
+      "hash": "21c2bded2311c05a473838df73b5e6e0d3d6f346",
+      "levelid": "custom_level_21c2bded2311c05a473838df73b5e6e0d3d6f346"
     },
     {
-      "key": "5539f",
-      "songName": "חגיגה (אין לי כוח להמשיך --- --- -- ---- ----- ---- -- ------)",
-      "hash": "1bed166b8ca8551b4c4147cd3b921179871e5db8",
-      "levelid": "custom_level_1bed166b8ca8551b4c4147cd3b921179871e5db8"
+      "key": "553cf",
+      "songName": "Schwank - HULLABALOO WRECKING CREW",
+      "hash": "0af28d07c802c9bd7b1f2be78dc30d46c3f61419",
+      "levelid": "custom_level_0af28d07c802c9bd7b1f2be78dc30d46c3f61419"
     },
     {
-      "key": "5539b",
-      "songName": "huncaiblavendertokmatwrlavender",
-      "hash": "63471c571dd3f6c97015d15c116fa70dbbd849a6",
-      "levelid": "custom_level_63471c571dd3f6c97015d15c116fa70dbbd849a6"
+      "key": "553ca",
+      "songName": "[Genres of Halloween FINALE] Jack's Lament (Low Base Cover)",
+      "hash": "5864f55b514d8d2bf75e5b6805e2b43e322d0f75",
+      "levelid": "custom_level_5864f55b514d8d2bf75e5b6805e2b43e322d0f75"
     },
     {
-      "key": "5539a",
-      "songName": "(NOODLE EXTENSIONS) huh 2.0 ",
-      "hash": "f982aca814b79f85f345c5ac8a40bb8f2ed436b7",
-      "levelid": "custom_level_f982aca814b79f85f345c5ac8a40bb8f2ed436b7"
+      "key": "55348",
+      "songName": "[Genres of Halloween FINALE] Bodysnatcher - Rory Webley",
+      "hash": "1aecde98419e5a739d1b13f7b309b003da8f2a75",
+      "levelid": "custom_level_1aecde98419e5a739d1b13f7b309b003da8f2a75"
     },
     {
-      "key": "55399",
-      "songName": "AARONON - my darkest dreams",
-      "hash": "8fee4adf1691c9ac75f79ed4267ca54a93b2b22e",
-      "levelid": "custom_level_8fee4adf1691c9ac75f79ed4267ca54a93b2b22e"
+      "key": "553c7",
+      "songName": "[Genres Of Halloween FINALE] AIKA, Eleanor Forte - Perfect Imperfections ",
+      "hash": "9a7a107226236cc95b2ef382c4d8ca2f06460b83",
+      "levelid": "custom_level_9a7a107226236cc95b2ef382c4d8ca2f06460b83"
     },
     {
-      "key": "55397",
-      "songName": "流星ダンスフロア (魔法陣グルグル(2017) OP2)",
-      "hash": "5cfb30ecaac83df4ce903b415760777994bcde72",
-      "levelid": "custom_level_5cfb30ecaac83df4ce903b415760777994bcde72"
+      "key": "553bb",
+      "songName": "[Genres of Halloween FINALE]Kesha-Cannibal",
+      "hash": "54a5ee123fe7830d811d7b46263ffdc605332710",
+      "levelid": "custom_level_54a5ee123fe7830d811d7b46263ffdc605332710"
     },
     {
-      "key": "5538e",
-      "songName": "にゃんとかにゃるる - 生田絵梨花",
-      "hash": "a8ccbfe4b069e75d82d20e85ee364bb0cd344ef4",
-      "levelid": "custom_level_a8ccbfe4b069e75d82d20e85ee364bb0cd344ef4"
+      "key": "55371",
+      "songName": "[Genres of Halloween FINALE] The Newton Brothers - Five Nights at Freddy's",
+      "hash": "3b813a9836dc97512d203c0b09258dcb6fc66fc9",
+      "levelid": "custom_level_3b813a9836dc97512d203c0b09258dcb6fc66fc9"
     },
     {
-      "key": "55394",
-      "songName": "Espero a minha vez Nx0",
-      "hash": "1f0fad908a328d819ffafa257f021185dfc0c44d",
-      "levelid": "custom_level_1f0fad908a328d819ffafa257f021185dfc0c44d"
+      "key": "55286",
+      "songName": "[Genres of Halloween Finale] Sleep - My Chemical Romance",
+      "hash": "3293c3a365359b8b031236bfadba6d1059f8f794",
+      "levelid": "custom_level_3293c3a365359b8b031236bfadba6d1059f8f794"
     },
     {
-      "key": "55391",
-      "songName": "猫叉Master (Nekomata Master) - Scars of FAUNA",
-      "hash": "effb131b42ee9b5f446379153df366766e132077",
-      "levelid": "custom_level_effb131b42ee9b5f446379153df366766e132077"
+      "key": "55339",
+      "songName": "[Genres of Halloween FINALE] (V4) Ice Nine Kills - Welcome to Horrorwood",
+      "hash": "65de067b69824da3a6d4c2f33dee32d0bd72f4e1",
+      "levelid": "custom_level_65de067b69824da3a6d4c2f33dee32d0bd72f4e1"
     },
     {
-      "key": "5538f",
-      "songName": "Phasmophobia ",
-      "hash": "31c6c7e1162a7b1c8dff36faa8da3db53b256009",
-      "levelid": "custom_level_31c6c7e1162a7b1c8dff36faa8da3db53b256009"
+      "key": "54924",
+      "songName": "[Genres of Halloween FINALE] Editor-P (Ft. Argon) - Hatred Flame (VNJS)",
+      "hash": "260280766abdaa1e9b634fe927a626c6115d405b",
+      "levelid": "custom_level_260280766abdaa1e9b634fe927a626c6115d405b"
     },
     {
-      "key": "5538d",
-      "songName": "How to DRASTICALLY Speed Up Steam Downloads NO CLICKBAIT",
-      "hash": "7047fbd80ddba51c1b2701c2aa535f4af466c97c",
-      "levelid": "custom_level_7047fbd80ddba51c1b2701c2aa535f4af466c97c"
+      "key": "551d2",
+      "songName": "[Genres of Halloween FINALE] Camellia - SLIME INCIDENT",
+      "hash": "f29cd48b8071d67e1af50555d845c8522db3ef4b",
+      "levelid": "custom_level_f29cd48b8071d67e1af50555d845c8522db3ef4b"
     },
     {
-      "key": "55389",
-      "songName": "ily - my mother wants me dead",
-      "hash": "e1294c71602a3be48f10efac966f07b818d88b2e",
-      "levelid": "custom_level_e1294c71602a3be48f10efac966f07b818d88b2e"
+      "key": "55194",
+      "songName": "[Genres of Halloween FINALE] Tanger - The Great Hallow's Eve Heist: Stewart Skeleton's DASTARDLY \"Get Rich Quick!\" Scheme ",
+      "hash": "83bdea7e2dfa771130b843a7e32cf5a4f42554d0",
+      "levelid": "custom_level_83bdea7e2dfa771130b843a7e32cf5a4f42554d0"
     },
     {
-      "key": "55387",
-      "songName": " [555BPM] Luuna, Lieless, Yarimov - Fine Day",
-      "hash": "9bfab2af0e76862f0cbd3b3a28210f7af426a27e",
-      "levelid": "custom_level_9bfab2af0e76862f0cbd3b3a28210f7af426a27e"
+      "key": "553c9",
+      "songName": "[EUC 2026] Codex Reversion – Crystal Sirens",
+      "hash": "9586f5dd242861b7f3c63b59e532b4630d3554a2",
+      "levelid": "custom_level_9586f5dd242861b7f3c63b59e532b4630d3554a2"
     },
     {
-      "key": "55385",
-      "songName": "[2000s Rock & Metal] Gonna See My Friend - Pearl Jam",
-      "hash": "13c7f528e9523f6bac61438ba7422faac41a0318",
-      "levelid": "custom_level_13c7f528e9523f6bac61438ba7422faac41a0318"
+      "key": "553c6",
+      "songName": "Camellia - Quicksand",
+      "hash": "3bc87e889ce4f83c741872b628c8419e2ea32535",
+      "levelid": "custom_level_3bc87e889ce4f83c741872b628c8419e2ea32535"
     },
     {
-      "key": "55384",
-      "songName": "Lebron James in Beat Saber!? (Just A Chain only map)",
-      "hash": "daa49fede9658dca02b90a5a16058d1582b68b60",
-      "levelid": "custom_level_daa49fede9658dca02b90a5a16058d1582b68b60"
+      "key": "553c3",
+      "songName": "Underscores - Loansharks",
+      "hash": "705a83fa7e0e9b64ab58aa384a333fc6acbb31ea",
+      "levelid": "custom_level_705a83fa7e0e9b64ab58aa384a333fc6acbb31ea"
     },
     {
-      "key": "55383",
-      "songName": "Pirated Copy Of Deadlocked",
-      "hash": "355050e03461985dfd53d588fc18442e7393f3ee",
-      "levelid": "custom_level_355050e03461985dfd53d588fc18442e7393f3ee"
+      "key": "553c2",
+      "songName": "[Vivify] My Way So What! (1.40.8)",
+      "hash": "bd22ab83f5a9290805a6595d2c5c8e671da4c6de",
+      "levelid": "custom_level_bd22ab83f5a9290805a6595d2c5c8e671da4c6de"
     },
     {
-      "key": "55381",
-      "songName": "On and On",
-      "hash": "b3232c69a4b71f118d04e11fcf026efef1b6f5a1",
-      "levelid": "custom_level_b3232c69a4b71f118d04e11fcf026efef1b6f5a1"
+      "key": "553c1",
+      "songName": "Billy Ocean - When the Going Gets Tough, The Tough Get Going",
+      "hash": "9e9f0bc2f22fb74b0dc624fd45372577f039c4ee",
+      "levelid": "custom_level_9e9f0bc2f22fb74b0dc624fd45372577f039c4ee"
     },
     {
-      "key": "55380",
-      "songName": "[ChromaGLS] TESSERACTS & CODE BREAKERZ - THUNDER",
-      "hash": "879b2f5a0bf5c129bbadd9768e76863efd423bee",
-      "levelid": "custom_level_879b2f5a0bf5c129bbadd9768e76863efd423bee"
+      "key": "553c0",
+      "songName": "onoken - Sylaphz",
+      "hash": "d94bce0c0e75348fbf1533b30e7e316ec705b69d",
+      "levelid": "custom_level_d94bce0c0e75348fbf1533b30e7e316ec705b69d"
     },
     {
-      "key": "5537f",
-      "songName": "Carry On  - Avenged Sevenfold",
-      "hash": "19e67477f03b5d1e75560e788215575c6bd706d1",
-      "levelid": "custom_level_19e67477f03b5d1e75560e788215575c6bd706d1"
+      "key": "553bc",
+      "songName": "SHOOTING STAR",
+      "hash": "1e0d2a997cccc8df86cbff83a759a848181f7918",
+      "levelid": "custom_level_1e0d2a997cccc8df86cbff83a759a848181f7918"
     },
     {
-      "key": "55372",
-      "songName": "Usagi Aikoukai (cosMo×syuri22) - BlueMoon Princess",
-      "hash": "58ede6d8b4ea8d03d04c42784d00ddd66b2e7628",
-      "levelid": "custom_level_58ede6d8b4ea8d03d04c42784d00ddd66b2e7628"
+      "key": "553b9",
+      "songName": "Camellia - Spin Eternally",
+      "hash": "70e1d5ee81a0801a843b20d996ae73269e6e04a6",
+      "levelid": "custom_level_70e1d5ee81a0801a843b20d996ae73269e6e04a6"
     },
     {
-      "key": "55370",
-      "songName": "Her Boyfriend",
-      "hash": "c0bfd356582849bf3bd9060b82243878198359e8",
-      "levelid": "custom_level_c0bfd356582849bf3bd9060b82243878198359e8"
+      "key": "553ba",
+      "songName": "Bendy And The lnk Machine",
+      "hash": "8c49289ef9999dbecb0cdd986578107824f3a571",
+      "levelid": "custom_level_8c49289ef9999dbecb0cdd986578107824f3a571"
     },
     {
-      "key": "5536d",
-      "songName": "Camellia - epimerization",
-      "hash": "5996e70c14810dfd15132d733b97f9d4e33e0af0",
-      "levelid": "custom_level_5996e70c14810dfd15132d733b97f9d4e33e0af0"
+      "key": "553b8",
+      "songName": "First Step",
+      "hash": "7d79ff1625cbf4bb9b30b53b3f06f3fcc5e2000f",
+      "levelid": "custom_level_7d79ff1625cbf4bb9b30b53b3f06f3fcc5e2000f"
     },
     {
-      "key": "5536b",
-      "songName": "Kelly Bailey - LG orbifold",
-      "hash": "1b63ab01ad86b7751c07f92666c34e317a201487",
-      "levelid": "custom_level_1b63ab01ad86b7751c07f92666c34e317a201487"
+      "key": "553b6",
+      "songName": "YA VSEHDA HOTEL BIT KLASNIM",
+      "hash": "989e5429d6d888cc6cc1ec6dd2a7350d8e452868",
+      "levelid": "custom_level_989e5429d6d888cc6cc1ec6dd2a7350d8e452868"
     },
     {
-      "key": "55362",
-      "songName": "one poodle to 3 poodle ",
-      "hash": "e11ab8799e993367e2bf836325ed182dead54ea8",
-      "levelid": "custom_level_e11ab8799e993367e2bf836325ed182dead54ea8"
+      "key": "553b5",
+      "songName": "IVE - Hush",
+      "hash": "37e035b2460d95321a8bc8fbd0baba27660988b1",
+      "levelid": "custom_level_37e035b2460d95321a8bc8fbd0baba27660988b1"
     },
     {
-      "key": "55361",
-      "songName": "IVE - Looks Can Kill",
-      "hash": "77b41c4a691765c386c44ca1001c334ca0b15593",
-      "levelid": "custom_level_77b41c4a691765c386c44ca1001c334ca0b15593"
+      "key": "553b4",
+      "songName": "IVE - Wild Bird",
+      "hash": "4b872aff2a069dd0f8560159404e0a2202fccad7",
+      "levelid": "custom_level_4b872aff2a069dd0f8560159404e0a2202fccad7"
     },
     {
-      "key": "55359",
-      "songName": "WATERFALL",
-      "hash": "5e30922c5e2cd00384e7cbd49fd746a33ff061b0",
-      "levelid": "custom_level_5e30922c5e2cd00384e7cbd49fd746a33ff061b0"
+      "key": "553b3",
+      "songName": "last dance",
+      "hash": "4a92c6e2b20968d122ac1a837b450cea2b6fc77b",
+      "levelid": "custom_level_4a92c6e2b20968d122ac1a837b450cea2b6fc77b"
+    },
+    {
+      "key": "553b2",
+      "songName": " Erehamonika remixed by kors k - Der Wald",
+      "hash": "d8cc3f359808191f6a1f96af7966c79373b1a639",
+      "levelid": "custom_level_d8cc3f359808191f6a1f96af7966c79373b1a639"
+    },
+    {
+      "key": "553b1",
+      "songName": "e",
+      "hash": "c1d4b952de417e15a7eee9aeb4176d62bff2251b",
+      "levelid": "custom_level_c1d4b952de417e15a7eee9aeb4176d62bff2251b"
+    },
+    {
+      "key": "553af",
+      "songName": "Neppa【Tanger Remix】",
+      "hash": "7b94037732df4f0db9117af199d5a93fc9e51a33",
+      "levelid": "custom_level_7b94037732df4f0db9117af199d5a93fc9e51a33"
     }
   ],
   "image": ""
