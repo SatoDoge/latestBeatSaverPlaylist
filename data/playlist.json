@@ -1,232 +1,202 @@
 {
-  "playlistTitle": "2026-10-28T15:18:50.753Z~2026-10-29T15:18:50.753Z",
+  "playlistTitle": "2026-10-29T15:18:48.141Z~2026-10-30T15:18:48.141Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-10-28T15:18:50.753Z and 2026-10-29T15:18:50.753Z",
+  "discripstion": "Maps published between 2026-10-29T15:18:48.141Z and 2026-10-30T15:18:48.141Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
+      "key": "5570a",
+      "songName": "[Genres Of Halloween FINALE] (V4) Steampianist, TriAxis - The Experiment (feat. Vocaloid Gumi)",
+      "hash": "11059b2fc299f7fb7ca2ac6d72e5bbd7b25102b0",
+      "levelid": "custom_level_11059b2fc299f7fb7ca2ac6d72e5bbd7b25102b0"
+    },
+    {
+      "key": "55705",
+      "songName": "Like A Boss",
+      "hash": "a3943022ce462746a8499c89a01cbf8d1c9094e3",
+      "levelid": "custom_level_a3943022ce462746a8499c89a01cbf8d1c9094e3"
+    },
+    {
+      "key": "55703",
+      "songName": "note test 2",
+      "hash": "485cc72f2f174ea92851a6003284382fc2532dc8",
+      "levelid": "custom_level_485cc72f2f174ea92851a6003284382fc2532dc8"
+    },
+    {
+      "key": "555cb",
+      "songName": "永遠に一回の - 藤川千愛",
+      "hash": "f9e0163dcdf4af7bbdf79b4953aec1dafc3eb1af",
+      "levelid": "custom_level_f9e0163dcdf4af7bbdf79b4953aec1dafc3eb1af"
+    },
+    {
+      "key": "556ff",
+      "songName": "Get Dangerous! ",
+      "hash": "553b0f1ea07ad2ff8251f2b0fc1e0780ae411e23",
+      "levelid": "custom_level_553b0f1ea07ad2ff8251f2b0fc1e0780ae411e23"
+    },
+    {
+      "key": "556fe",
+      "songName": "Pick Your Poison ",
+      "hash": "999075bf74df16546891f4344b992f34ba3fb6f7",
+      "levelid": "custom_level_999075bf74df16546891f4344b992f34ba3fb6f7"
+    },
+    {
+      "key": "556fa",
+      "songName": "毎日コハルビヨリ (ヤマノススメ セカンドシーズン OP2)",
+      "hash": "e7c4635cc7264f254d3a0971e3626c1f3f5634ab",
+      "levelid": "custom_level_e7c4635cc7264f254d3a0971e3626c1f3f5634ab"
+    },
+    {
+      "key": "556b2",
+      "songName": "YOU&愛Heaven",
+      "hash": "0c3143ba7436c8bd402d092f02c142bccfa1d4c5",
+      "levelid": "custom_level_0c3143ba7436c8bd402d092f02c142bccfa1d4c5"
+    },
+    {
+      "key": "556f0",
+      "songName": " Knock2 - sound di alarm",
+      "hash": "8962c832c41b42ee298ecd03977f90fc57921036",
+      "levelid": "custom_level_8962c832c41b42ee298ecd03977f90fc57921036"
+    },
+    {
+      "key": "556ed",
+      "songName": "ZeRo GalaCtICy",
+      "hash": "e06552cbb8c4b43b35c8ddb1884011723ac8a328",
+      "levelid": "custom_level_e06552cbb8c4b43b35c8ddb1884011723ac8a328"
+    },
+    {
+      "key": "556ee",
+      "songName": "Aekhlorią - Ashes of Nothing",
+      "hash": "52509a848ed77f79c2b66ec1af7de265d5d04a93",
+      "levelid": "custom_level_52509a848ed77f79c2b66ec1af7de265d5d04a93"
+    },
+    {
+      "key": "556ec",
+      "songName": "Twenty One Pilots - Center Mass",
+      "hash": "044334a57666032e7483773003168d41343e54c7",
+      "levelid": "custom_level_044334a57666032e7483773003168d41343e54c7"
+    },
+    {
+      "key": "556eb",
+      "songName": "#jerseyclub *Bounty*",
+      "hash": "773479d8a904fd36472979f2bb0afc7d66f2405c",
+      "levelid": "custom_level_773479d8a904fd36472979f2bb0afc7d66f2405c"
+    },
+    {
+      "key": "556ea",
+      "songName": "Friday",
+      "hash": "f1ac451b838e5df312910d177a0286124e3ff769",
+      "levelid": "custom_level_f1ac451b838e5df312910d177a0286124e3ff769"
+    },
+    {
+      "key": "556e8",
+      "songName": "NIVIRO - The Ghost (Nightcore)",
+      "hash": "a952436d6a9934c0a11485187e9855b8dc0502fe",
+      "levelid": "custom_level_a952436d6a9934c0a11485187e9855b8dc0502fe"
+    },
+    {
+      "key": "556e7",
+      "songName": "I Can't Help But Wonder",
+      "hash": "6b81f8e67707b4170fdd201cb744c4f1cf37c694",
+      "levelid": "custom_level_6b81f8e67707b4170fdd201cb744c4f1cf37c694"
+    },
+    {
+      "key": "556a8",
+      "songName": "Anyone Can find Love (Except You) ",
+      "hash": "86148ac5be9900ce02fed888c6f9c9848584c8d4",
+      "levelid": "custom_level_86148ac5be9900ce02fed888c6f9c9848584c8d4"
+    },
+    {
+      "key": "556e3",
+      "songName": "okway ",
+      "hash": "26acb6962c55c5edb0e4dc9418a3fccc124e71e4",
+      "levelid": "custom_level_26acb6962c55c5edb0e4dc9418a3fccc124e71e4"
+    },
+    {
+      "key": "556e2",
+      "songName": "Tiffany Day - COPYCAT",
+      "hash": "bbce7f5ecc955cacbdab260756cd09b9040c4b47",
+      "levelid": "custom_level_bbce7f5ecc955cacbdab260756cd09b9040c4b47"
+    },
+    {
+      "key": "556e0",
+      "songName": "Quadratics",
+      "hash": "af134a2d6a23244bf69dfbcc455762e19f1c0ae7",
+      "levelid": "custom_level_af134a2d6a23244bf69dfbcc455762e19f1c0ae7"
+    },
+    {
+      "key": "556df",
+      "songName": "Dantes Inferno",
+      "hash": "2c6134f18043bf8676b232d2bbaa386ce5594bf5",
+      "levelid": "custom_level_2c6134f18043bf8676b232d2bbaa386ce5594bf5"
+    },
+    {
+      "key": "556de",
+      "songName": "Black Sabbath - Paranoid (2009 Remaster)",
+      "hash": "fd782852f8d6a22d7e9cf8fce77fbf54c00cf661",
+      "levelid": "custom_level_fd782852f8d6a22d7e9cf8fce77fbf54c00cf661"
+    },
+    {
+      "key": "556dd",
+      "songName": "Lust (frenchcore)",
+      "hash": "405d867300e8339f733b54b84d521eb04d9fa060",
+      "levelid": "custom_level_405d867300e8339f733b54b84d521eb04d9fa060"
+    },
+    {
+      "key": "556dc",
+      "songName": "Display",
+      "hash": "4e90e6d437e343707b309e6e2e3d7030ccf2c54c",
+      "levelid": "custom_level_4e90e6d437e343707b309e6e2e3d7030ccf2c54c"
+    },
+    {
+      "key": "556d7",
+      "songName": "My Lighthouse - Rend Collective",
+      "hash": "cb40ff0bcf2decc60fbeaf8786f646b3b0e651ef",
+      "levelid": "custom_level_cb40ff0bcf2decc60fbeaf8786f646b3b0e651ef"
+    },
+    {
+      "key": "556d5",
+      "songName": "METALCORE TEST SNIPPET OR WHATEVER",
+      "hash": "fa52f03ae54fc5ae017d65b65681fc7a65a96423",
+      "levelid": "custom_level_fa52f03ae54fc5ae017d65b65681fc7a65a96423"
+    },
+    {
+      "key": "556d4",
+      "songName": "Advanced BeatSaber Tutorial",
+      "hash": "e73aaa7108a3417692545de65138dce1ba3a6ff1",
+      "levelid": "custom_level_e73aaa7108a3417692545de65138dce1ba3a6ff1"
+    },
+    {
+      "key": "556ce",
+      "songName": "katagiri - Nyan Nyan Naughty Night",
+      "hash": "6ba997fd46ff820074d8fcd975ff8e35f751828a",
+      "levelid": "custom_level_6ba997fd46ff820074d8fcd975ff8e35f751828a"
+    },
+    {
+      "key": "556cc",
+      "songName": "60 minutes of silences ....",
+      "hash": "2fe8309555547d69f0c92bb20dcfccd8372fcb16",
+      "levelid": "custom_level_2fe8309555547d69f0c92bb20dcfccd8372fcb16"
+    },
+    {
+      "key": "556c7",
+      "songName": "Silentroom x Shun - Rainshower",
+      "hash": "1e482dd6b6c70888912bfd95308669f66ae8c64a",
+      "levelid": "custom_level_1e482dd6b6c70888912bfd95308669f66ae8c64a"
+    },
+    {
+      "key": "5568b",
+      "songName": "[Genres Of Halloween FINALE] (Chroma+) Azari - Scapegoat (feat. Rosu)",
+      "hash": "abc135ed3d872cd40ec5cbc4c687eebb5aeea511",
+      "levelid": "custom_level_abc135ed3d872cd40ec5cbc4c687eebb5aeea511"
+    },
+    {
       "key": "556c4",
       "songName": "The Angel Pt. 5",
-      "hash": "27eefb1291f9164af9d8ecf9cc181e36aaf0104b",
-      "levelid": "custom_level_27eefb1291f9164af9d8ecf9cc181e36aaf0104b"
-    },
-    {
-      "key": "556c3",
-      "songName": "Stack Black",
-      "hash": "5322850873db76512d0b862ff86e81db061d59a0",
-      "levelid": "custom_level_5322850873db76512d0b862ff86e81db061d59a0"
-    },
-    {
-      "key": "556c2",
-      "songName": "Ryuji Iuchi - Bubbly Washing Machine (From \"Super Monkey Ball 2\")",
-      "hash": "43c1aec26e84b9b2c0584d72ed7878d18a94f59f",
-      "levelid": "custom_level_43c1aec26e84b9b2c0584d72ed7878d18a94f59f"
-    },
-    {
-      "key": "5566b",
-      "songName": "渡る世間は鬼ばかり",
-      "hash": "27a896a19116fb7585ed4702f01da563f5a6575e",
-      "levelid": "custom_level_27a896a19116fb7585ed4702f01da563f5a6575e"
-    },
-    {
-      "key": "556bf",
-      "songName": "Sculpted",
-      "hash": "351a9b3dbce4d8539a9f193b2b4370e1554a79ea",
-      "levelid": "custom_level_351a9b3dbce4d8539a9f193b2b4370e1554a79ea"
-    },
-    {
-      "key": "556be",
-      "songName": "Tinkling Smile (ヤマノススメ セカンドシーズン ED)",
-      "hash": "3e7f7ff7460273a093bf106171187fcbfb01470e",
-      "levelid": "custom_level_3e7f7ff7460273a093bf106171187fcbfb01470e"
-    },
-    {
-      "key": "556bc",
-      "songName": "Liz Kay - When Love Becomes A Lie (Nightcore Mix)",
-      "hash": "1fb12d44ed18c637f647332d1d099cf887055b58",
-      "levelid": "custom_level_1fb12d44ed18c637f647332d1d099cf887055b58"
-    },
-    {
-      "key": "556b9",
-      "songName": "Ratata",
-      "hash": "ff1fbb0142b9f59c8dcd3b9c6842961fc73f5355",
-      "levelid": "custom_level_ff1fbb0142b9f59c8dcd3b9c6842961fc73f5355"
-    },
-    {
-      "key": "556b8",
-      "songName": "Way it goes",
-      "hash": "b0b6bc85dab54420d576030a2afca00c3b1a6f9b",
-      "levelid": "custom_level_b0b6bc85dab54420d576030a2afca00c3b1a6f9b"
-    },
-    {
-      "key": "556b7",
-      "songName": "Ur ghost is so pretty X_x",
-      "hash": "fd33ca0916826bfa063df7824604f760ccd24567",
-      "levelid": "custom_level_fd33ca0916826bfa063df7824604f760ccd24567"
-    },
-    {
-      "key": "556b5",
-      "songName": "Can You Cry In Space?",
-      "hash": "97d63b81c5fec51d6853529b73ef2f8e23bcdda8",
-      "levelid": "custom_level_97d63b81c5fec51d6853529b73ef2f8e23bcdda8"
-    },
-    {
-      "key": "556b4",
-      "songName": "Girl Wen U Bust",
-      "hash": "3a00f362b3b073d244c8b6e265e498bc78b647f8",
-      "levelid": "custom_level_3a00f362b3b073d244c8b6e265e498bc78b647f8"
-    },
-    {
-      "key": "556b1",
-      "songName": "What if i jump",
-      "hash": "459b62ac85ac946f1c440d331117afc229a93df9",
-      "levelid": "custom_level_459b62ac85ac946f1c440d331117afc229a93df9"
-    },
-    {
-      "key": "556ad",
-      "songName": "sixty percent",
-      "hash": "d8e6a67cabf4ab5173f8b63b585b2e42fda6913e",
-      "levelid": "custom_level_d8e6a67cabf4ab5173f8b63b585b2e42fda6913e"
-    },
-    {
-      "key": "556ac",
-      "songName": "Rain (Boldly in the Pretend) (feat. Jazz D'Arcy)",
-      "hash": "d4b5754da67c032f6927c4b6ef1fe48dab2d4360",
-      "levelid": "custom_level_d4b5754da67c032f6927c4b6ef1fe48dab2d4360"
-    },
-    {
-      "key": "556ab",
-      "songName": "Mollie Elizabeth - Run Rabbit",
-      "hash": "8cdfbad13b482abcf5441df8beafbeb1149861f9",
-      "levelid": "custom_level_8cdfbad13b482abcf5441df8beafbeb1149861f9"
-    },
-    {
-      "key": "556a9",
-      "songName": "mac likes liv",
-      "hash": "8936d7f418bd2431fdef3962b8643337f9b604e3",
-      "levelid": "custom_level_8936d7f418bd2431fdef3962b8643337f9b604e3"
-    },
-    {
-      "key": "556a6",
-      "songName": "POLYESTER",
-      "hash": "61e2b1f2a8e3b223aea3de99724f17e508fe615c",
-      "levelid": "custom_level_61e2b1f2a8e3b223aea3de99724f17e508fe615c"
-    },
-    {
-      "key": "556a4",
-      "songName": "Shovel Knight - The Schemer (Tinker Knight Battle) (NTSC Version)",
-      "hash": "a04a0ad1dbd5a347d89590239284592dfb723be8",
-      "levelid": "custom_level_a04a0ad1dbd5a347d89590239284592dfb723be8"
-    },
-    {
-      "key": "556a3",
-      "songName": "SOCIETY",
-      "hash": "183288653b68d86633395d1335548e8916c23474",
-      "levelid": "custom_level_183288653b68d86633395d1335548e8916c23474"
-    },
-    {
-      "key": "556a1",
-      "songName": "Emei - Better People to Leave on Read",
-      "hash": "4b4d483297d1ee0a4ce457efa7efdb9772dd4487",
-      "levelid": "custom_level_4b4d483297d1ee0a4ce457efa7efdb9772dd4487"
-    },
-    {
-      "key": "5569e",
-      "songName": "eagle",
-      "hash": "878b126849c013f04951367c0b59b9bba4d8f9d5",
-      "levelid": "custom_level_878b126849c013f04951367c0b59b9bba4d8f9d5"
-    },
-    {
-      "key": "5569c",
-      "songName": "[Vivify] Final Slaughter",
-      "hash": "c8249024a46049aa9b8c6989c423bec8a3cdd05e",
-      "levelid": "custom_level_c8249024a46049aa9b8c6989c423bec8a3cdd05e"
-    },
-    {
-      "key": "55693",
-      "songName": "Stack Black - Melty Blood Type Lumina",
-      "hash": "2170d0d751dbee11b696e585415751cddec09f42",
-      "levelid": "custom_level_2170d0d751dbee11b696e585415751cddec09f42"
-    },
-    {
-      "key": "55692",
-      "songName": "Lost Requiem - Ludicin",
-      "hash": "6083b0921e3757bf48bc17ded45d6053ebbc2d7c",
-      "levelid": "custom_level_6083b0921e3757bf48bc17ded45d6053ebbc2d7c"
-    },
-    {
-      "key": "55690",
-      "songName": "Kobaryo - Bookmaker",
-      "hash": "72f50ac88b955120273c5a2cb812741cda0b1faf",
-      "levelid": "custom_level_72f50ac88b955120273c5a2cb812741cda0b1faf"
-    },
-    {
-      "key": "5568e",
-      "songName": "eightiesheadachetape - fifty thousand ones and zeroes",
-      "hash": "01b48e3d0b7f3330687c440dc5e072ae85d7649c",
-      "levelid": "custom_level_01b48e3d0b7f3330687c440dc5e072ae85d7649c"
-    },
-    {
-      "key": "55280",
-      "songName": "PUPPYPLAY!",
-      "hash": "8090505f41ee777e629c3640e3ad0c2298550257",
-      "levelid": "custom_level_8090505f41ee777e629c3640e3ad0c2298550257"
-    },
-    {
-      "key": "5568d",
-      "songName": "They call me sonic - Internet Allstars",
-      "hash": "05d2665078d985bef62019b33996eebc39c2a5ae",
-      "levelid": "custom_level_05d2665078d985bef62019b33996eebc39c2a5ae"
-    },
-    {
-      "key": "5568c",
-      "songName": "Aftermath - Blade and Bath",
-      "hash": "d3419a4bb138e0efef7a92ed88c906c88162ce50",
-      "levelid": "custom_level_d3419a4bb138e0efef7a92ed88c906c88162ce50"
-    },
-    {
-      "key": "5568a",
-      "songName": "FUc",
-      "hash": "5ea5ce041d8bad04fc9040cb53fe8800f0697c70",
-      "levelid": "custom_level_5ea5ce041d8bad04fc9040cb53fe8800f0697c70"
-    },
-    {
-      "key": "55682",
-      "songName": "Google Snake Sound Effects",
-      "hash": "8b03e464fda8773e4381d8846f2864400471ad4a",
-      "levelid": "custom_level_8b03e464fda8773e4381d8846f2864400471ad4a"
-    },
-    {
-      "key": "55624",
-      "songName": "Wunderschön",
-      "hash": "3d065fc28b745c615cc71abe9dede7859b12d2c1",
-      "levelid": "custom_level_3d065fc28b745c615cc71abe9dede7859b12d2c1"
-    },
-    {
-      "key": "55681",
-      "songName": "JT Music - After Hours ft. Zach Boucher",
-      "hash": "9eb2b5e5ea82d562057436ff1335a9c6e6edb712",
-      "levelid": "custom_level_9eb2b5e5ea82d562057436ff1335a9c6e6edb712"
-    },
-    {
-      "key": "55680",
-      "songName": "White Ceiling - Parannoul",
-      "hash": "c4165c0f448a39a60807ab391b9aefea47ee8dbf",
-      "levelid": "custom_level_c4165c0f448a39a60807ab391b9aefea47ee8dbf"
-    },
-    {
-      "key": "5567f",
-      "songName": "RAIN GOD",
-      "hash": "96b95657e59afb0ae03ec673543792718778e0b7",
-      "levelid": "custom_level_96b95657e59afb0ae03ec673543792718778e0b7"
-    },
-    {
-      "key": "5567b",
-      "songName": "Brutal Spam (but I made it)",
-      "hash": "bdb42c454cb5bfe95fa1cb702d18200a47223827",
-      "levelid": "custom_level_bdb42c454cb5bfe95fa1cb702d18200a47223827"
+      "hash": "906434fa5984532aacc1cc262adcb86cd4cef243",
+      "levelid": "custom_level_906434fa5984532aacc1cc262adcb86cd4cef243"
     }
   ],
   "image": ""
