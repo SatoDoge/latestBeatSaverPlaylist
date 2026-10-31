@@ -1,202 +1,298 @@
 {
-  "playlistTitle": "2026-10-29T15:18:48.141Z~2026-10-30T15:18:48.141Z",
+  "playlistTitle": "2026-10-30T15:18:47.984Z~2026-10-31T15:18:47.984Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-10-29T15:18:48.141Z and 2026-10-30T15:18:48.141Z",
+  "discripstion": "Maps published between 2026-10-30T15:18:47.984Z and 2026-10-31T15:18:47.984Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "5570a",
-      "songName": "[Genres Of Halloween FINALE] (V4) Steampianist, TriAxis - The Experiment (feat. Vocaloid Gumi)",
-      "hash": "11059b2fc299f7fb7ca2ac6d72e5bbd7b25102b0",
-      "levelid": "custom_level_11059b2fc299f7fb7ca2ac6d72e5bbd7b25102b0"
+      "key": "5576e",
+      "songName": "Серега Пират, qeqoqeq - Зомби апокалипсис",
+      "hash": "146bac1127e681af652bfa8248b4834f4f5f5abd",
+      "levelid": "custom_level_146bac1127e681af652bfa8248b4834f4f5f5abd"
     },
     {
-      "key": "55705",
-      "songName": "Like A Boss",
-      "hash": "a3943022ce462746a8499c89a01cbf8d1c9094e3",
-      "levelid": "custom_level_a3943022ce462746a8499c89a01cbf8d1c9094e3"
+      "key": "5576b",
+      "songName": "santa doesn't know you like i do",
+      "hash": "2d4d2bc8b7e579de3a7505c7f667d9cc0e85fad5",
+      "levelid": "custom_level_2d4d2bc8b7e579de3a7505c7f667d9cc0e85fad5"
     },
     {
-      "key": "55703",
-      "songName": "note test 2",
-      "hash": "485cc72f2f174ea92851a6003284382fc2532dc8",
-      "levelid": "custom_level_485cc72f2f174ea92851a6003284382fc2532dc8"
+      "key": "5576a",
+      "songName": "DYNASTYA",
+      "hash": "5033e9fb8a1b387beec04b3b2153238d5a48a0a7",
+      "levelid": "custom_level_5033e9fb8a1b387beec04b3b2153238d5a48a0a7"
     },
     {
-      "key": "555cb",
-      "songName": "永遠に一回の - 藤川千愛",
-      "hash": "f9e0163dcdf4af7bbdf79b4953aec1dafc3eb1af",
-      "levelid": "custom_level_f9e0163dcdf4af7bbdf79b4953aec1dafc3eb1af"
+      "key": "55769",
+      "songName": "Genesis - Shiori Novella",
+      "hash": "ea6d7bf281e17cd29967307571fd4d7d1104cf51",
+      "levelid": "custom_level_ea6d7bf281e17cd29967307571fd4d7d1104cf51"
     },
     {
-      "key": "556ff",
-      "songName": "Get Dangerous! ",
-      "hash": "553b0f1ea07ad2ff8251f2b0fc1e0780ae411e23",
-      "levelid": "custom_level_553b0f1ea07ad2ff8251f2b0fc1e0780ae411e23"
+      "key": "55768",
+      "songName": "Another Five Nights (Remastered)",
+      "hash": "69f92dfd0177b68137d8068f6958f2dbf1216efd",
+      "levelid": "custom_level_69f92dfd0177b68137d8068f6958f2dbf1216efd"
     },
     {
-      "key": "556fe",
-      "songName": "Pick Your Poison ",
-      "hash": "999075bf74df16546891f4344b992f34ba3fb6f7",
-      "levelid": "custom_level_999075bf74df16546891f4344b992f34ba3fb6f7"
+      "key": "55766",
+      "songName": "VALORANT, Grabbitz, Oli Sykes, Courtney LaPlante - If The Sun Burns Out Tonight",
+      "hash": "ae5877ae10946f351823292b3ea09a7084b92198",
+      "levelid": "custom_level_ae5877ae10946f351823292b3ea09a7084b92198"
     },
     {
-      "key": "556fa",
-      "songName": "毎日コハルビヨリ (ヤマノススメ セカンドシーズン OP2)",
-      "hash": "e7c4635cc7264f254d3a0971e3626c1f3f5634ab",
-      "levelid": "custom_level_e7c4635cc7264f254d3a0971e3626c1f3f5634ab"
+      "key": "55762",
+      "songName": "dabbackwood - да пошло все (feat. volhey)",
+      "hash": "d3d40d6377cfeb489af00a1c424b1e8cabee9660",
+      "levelid": "custom_level_d3d40d6377cfeb489af00a1c424b1e8cabee9660"
     },
     {
-      "key": "556b2",
-      "songName": "YOU&愛Heaven",
-      "hash": "0c3143ba7436c8bd402d092f02c142bccfa1d4c5",
-      "levelid": "custom_level_0c3143ba7436c8bd402d092f02c142bccfa1d4c5"
+      "key": "55761",
+      "songName": "first song",
+      "hash": "f06922ba433349854e170e91b224ce1883ed8895",
+      "levelid": "custom_level_f06922ba433349854e170e91b224ce1883ed8895"
     },
     {
-      "key": "556f0",
-      "songName": " Knock2 - sound di alarm",
-      "hash": "8962c832c41b42ee298ecd03977f90fc57921036",
-      "levelid": "custom_level_8962c832c41b42ee298ecd03977f90fc57921036"
+      "key": "5575d",
+      "songName": "Animal I Have Become",
+      "hash": "9203ca23075927e8c9d9e07369dd39cd6b9efee1",
+      "levelid": "custom_level_9203ca23075927e8c9d9e07369dd39cd6b9efee1"
     },
     {
-      "key": "556ed",
-      "songName": "ZeRo GalaCtICy",
-      "hash": "e06552cbb8c4b43b35c8ddb1884011723ac8a328",
-      "levelid": "custom_level_e06552cbb8c4b43b35c8ddb1884011723ac8a328"
+      "key": "5575c",
+      "songName": "TIN ー Ticking",
+      "hash": "734c2b6d56843f9869f0a9e975352d2fcd501e1e",
+      "levelid": "custom_level_734c2b6d56843f9869f0a9e975352d2fcd501e1e"
     },
     {
-      "key": "556ee",
-      "songName": "Aekhlorią - Ashes of Nothing",
-      "hash": "52509a848ed77f79c2b66ec1af7de265d5d04a93",
-      "levelid": "custom_level_52509a848ed77f79c2b66ec1af7de265d5d04a93"
+      "key": "5575b",
+      "songName": "tokiwa - You are my angel (feat. Kaai Yuki)",
+      "hash": "92c794a55669ae91c6c397d84a113d35584e3162",
+      "levelid": "custom_level_92c794a55669ae91c6c397d84a113d35584e3162"
     },
     {
-      "key": "556ec",
-      "songName": "Twenty One Pilots - Center Mass",
-      "hash": "044334a57666032e7483773003168d41343e54c7",
-      "levelid": "custom_level_044334a57666032e7483773003168d41343e54c7"
+      "key": "5575a",
+      "songName": "Cocoiro Rainbow (ヤマノススメ セカンドシーズン ED2)",
+      "hash": "f01fc17b9ec2c386a70c7581b9620e739305aa32",
+      "levelid": "custom_level_f01fc17b9ec2c386a70c7581b9620e739305aa32"
     },
     {
-      "key": "556eb",
-      "songName": "#jerseyclub *Bounty*",
-      "hash": "773479d8a904fd36472979f2bb0afc7d66f2405c",
-      "levelid": "custom_level_773479d8a904fd36472979f2bb0afc7d66f2405c"
+      "key": "55759",
+      "songName": "owl*tree - Paqqin",
+      "hash": "9d7fc099181afb148493ef02084931fa46b69819",
+      "levelid": "custom_level_9d7fc099181afb148493ef02084931fa46b69819"
     },
     {
-      "key": "556ea",
-      "songName": "Friday",
-      "hash": "f1ac451b838e5df312910d177a0286124e3ff769",
-      "levelid": "custom_level_f1ac451b838e5df312910d177a0286124e3ff769"
+      "key": "55758",
+      "songName": "longstoryshort - Don't Do It",
+      "hash": "2f3ba76cc5179f26f1e07f3f3af3266bb31e9003",
+      "levelid": "custom_level_2f3ba76cc5179f26f1e07f3f3af3266bb31e9003"
     },
     {
-      "key": "556e8",
-      "songName": "NIVIRO - The Ghost (Nightcore)",
-      "hash": "a952436d6a9934c0a11485187e9855b8dc0502fe",
-      "levelid": "custom_level_a952436d6a9934c0a11485187e9855b8dc0502fe"
+      "key": "55755",
+      "songName": " LiSA - Crossing Field (TV Size)",
+      "hash": "23b46460456ac10ab7ad98180f8e64e97e4d1adb",
+      "levelid": "custom_level_23b46460456ac10ab7ad98180f8e64e97e4d1adb"
     },
     {
-      "key": "556e7",
-      "songName": "I Can't Help But Wonder",
-      "hash": "6b81f8e67707b4170fdd201cb744c4f1cf37c694",
-      "levelid": "custom_level_6b81f8e67707b4170fdd201cb744c4f1cf37c694"
+      "key": "5574f",
+      "songName": "I just threw out the love of my dreams uwu",
+      "hash": "10863c915f1ba68014fc33b9292baae6f297f77d",
+      "levelid": "custom_level_10863c915f1ba68014fc33b9292baae6f297f77d"
     },
     {
-      "key": "556a8",
-      "songName": "Anyone Can find Love (Except You) ",
-      "hash": "86148ac5be9900ce02fed888c6f9c9848584c8d4",
-      "levelid": "custom_level_86148ac5be9900ce02fed888c6f9c9848584c8d4"
+      "key": "55748",
+      "songName": "Pierce The Veil - A Match Into Water",
+      "hash": "a20cdada88e7d5e6ce065bcc886d7b0b567f6057",
+      "levelid": "custom_level_a20cdada88e7d5e6ce065bcc886d7b0b567f6057"
     },
     {
-      "key": "556e3",
-      "songName": "okway ",
-      "hash": "26acb6962c55c5edb0e4dc9418a3fccc124e71e4",
-      "levelid": "custom_level_26acb6962c55c5edb0e4dc9418a3fccc124e71e4"
+      "key": "55747",
+      "songName": ".bd",
+      "hash": "1f3dbb9a040fbbedb3506fd1063c2b077dc39d05",
+      "levelid": "custom_level_1f3dbb9a040fbbedb3506fd1063c2b077dc39d05"
     },
     {
-      "key": "556e2",
-      "songName": "Tiffany Day - COPYCAT",
-      "hash": "bbce7f5ecc955cacbdab260756cd09b9040c4b47",
-      "levelid": "custom_level_bbce7f5ecc955cacbdab260756cd09b9040c4b47"
+      "key": "55744",
+      "songName": "Matasaburo (A Cappella Version) Wuthering Waves Brainrot lalalalala pipipipipipi",
+      "hash": "e79df089d30addf398adb29278885a2366ef01b8",
+      "levelid": "custom_level_e79df089d30addf398adb29278885a2366ef01b8"
     },
     {
-      "key": "556e0",
-      "songName": "Quadratics",
-      "hash": "af134a2d6a23244bf69dfbcc455762e19f1c0ae7",
-      "levelid": "custom_level_af134a2d6a23244bf69dfbcc455762e19f1c0ae7"
+      "key": "55740",
+      "songName": "Suicide",
+      "hash": "e8e774192006615491b38c319e4072428b6b20b4",
+      "levelid": "custom_level_e8e774192006615491b38c319e4072428b6b20b4"
     },
     {
-      "key": "556df",
-      "songName": "Dantes Inferno",
-      "hash": "2c6134f18043bf8676b232d2bbaa386ce5594bf5",
-      "levelid": "custom_level_2c6134f18043bf8676b232d2bbaa386ce5594bf5"
+      "key": "55736",
+      "songName": "That's not Me ",
+      "hash": "0536e214c45a7cb94d8359fafe676f1b3670a9f2",
+      "levelid": "custom_level_0536e214c45a7cb94d8359fafe676f1b3670a9f2"
     },
     {
-      "key": "556de",
-      "songName": "Black Sabbath - Paranoid (2009 Remaster)",
-      "hash": "fd782852f8d6a22d7e9cf8fce77fbf54c00cf661",
-      "levelid": "custom_level_fd782852f8d6a22d7e9cf8fce77fbf54c00cf661"
+      "key": "55734",
+      "songName": "Kazumi Totaka, Shinobu Tanaka - Staff Credits (From \"Luigi's Mansion\")",
+      "hash": "8383ca4f69d44fedb8190c234cf86152b3983058",
+      "levelid": "custom_level_8383ca4f69d44fedb8190c234cf86152b3983058"
     },
     {
-      "key": "556dd",
-      "songName": "Lust (frenchcore)",
-      "hash": "405d867300e8339f733b54b84d521eb04d9fa060",
-      "levelid": "custom_level_405d867300e8339f733b54b84d521eb04d9fa060"
+      "key": "5572f",
+      "songName": "tooter footer wooter",
+      "hash": "ee66fc07cd8a288e555a53281d4107e0ec331b49",
+      "levelid": "custom_level_ee66fc07cd8a288e555a53281d4107e0ec331b49"
     },
     {
-      "key": "556dc",
-      "songName": "Display",
-      "hash": "4e90e6d437e343707b309e6e2e3d7030ccf2c54c",
-      "levelid": "custom_level_4e90e6d437e343707b309e6e2e3d7030ccf2c54c"
+      "key": "5572c",
+      "songName": "Yoshimasa Terui - Delirious",
+      "hash": "33e1f9ef6263dfe13e29a3d0a99734525f816d21",
+      "levelid": "custom_level_33e1f9ef6263dfe13e29a3d0a99734525f816d21"
     },
     {
-      "key": "556d7",
-      "songName": "My Lighthouse - Rend Collective",
-      "hash": "cb40ff0bcf2decc60fbeaf8786f646b3b0e651ef",
-      "levelid": "custom_level_cb40ff0bcf2decc60fbeaf8786f646b3b0e651ef"
+      "key": "5572b",
+      "songName": "polish.swot sings aiscream ",
+      "hash": "a4ecb3a8ef51ec4494a086996e4e11c2640ceac9",
+      "levelid": "custom_level_a4ecb3a8ef51ec4494a086996e4e11c2640ceac9"
     },
     {
-      "key": "556d5",
-      "songName": "METALCORE TEST SNIPPET OR WHATEVER",
-      "hash": "fa52f03ae54fc5ae017d65b65681fc7a65a96423",
-      "levelid": "custom_level_fa52f03ae54fc5ae017d65b65681fc7a65a96423"
+      "key": "52e66",
+      "songName": "一点",
+      "hash": "d5ad64c24b252b1c8a1b94fdfff0a542e5ddc930",
+      "levelid": "custom_level_d5ad64c24b252b1c8a1b94fdfff0a542e5ddc930"
     },
     {
-      "key": "556d4",
+      "key": "55728",
+      "songName": "PINK FLAGS AUHUUHHUAUHAUHA",
+      "hash": "709bafb8c4dd9fd3d88372c86064bc376b0dad0a",
+      "levelid": "custom_level_709bafb8c4dd9fd3d88372c86064bc376b0dad0a"
+    },
+    {
+      "key": "55727",
+      "songName": "Sledge",
+      "hash": "85fbc533f33a5fc31ace5b131dea7d4650edd7d7",
+      "levelid": "custom_level_85fbc533f33a5fc31ace5b131dea7d4650edd7d7"
+    },
+    {
+      "key": "55725",
+      "songName": "ANTHEM PART 3 - blink-182",
+      "hash": "f62fe15699ed7565a212358541f9c43fd38ea4a7",
+      "levelid": "custom_level_f62fe15699ed7565a212358541f9c43fd38ea4a7"
+    },
+    {
+      "key": "55498",
+      "songName": "[Halloween Special 2026] Spooky Scary Skeletons (Remix) - The Living Tombstone",
+      "hash": "da5394cf6a42ba65e840b30cf0690b1efd95aaf4",
+      "levelid": "custom_level_da5394cf6a42ba65e840b30cf0690b1efd95aaf4"
+    },
+    {
+      "key": "552cb",
+      "songName": "[Halloween Special] Teminite - Pirate Afterparty",
+      "hash": "20f81945ef1a2be13beebfffa6524c5a95d64f7b",
+      "levelid": "custom_level_20f81945ef1a2be13beebfffa6524c5a95d64f7b"
+    },
+    {
+      "key": "55297",
+      "songName": "[HALLOWEEN SPECIAL] ReeK - Weeaboo Spookfest",
+      "hash": "edc8e895cb6f05cb4ce5aa8654cb760702ac5062",
+      "levelid": "custom_level_edc8e895cb6f05cb4ce5aa8654cb760702ac5062"
+    },
+    {
+      "key": "55724",
+      "songName": "Neuro-sama & ODDEEO - Pattern Recognition",
+      "hash": "983db42f8b70fac9d33dc7c44c9f1dfbd685de0a",
+      "levelid": "custom_level_983db42f8b70fac9d33dc7c44c9f1dfbd685de0a"
+    },
+    {
+      "key": "55723",
+      "songName": "Last Dinosaurs - Non Lo So",
+      "hash": "dc2ee96d69787015f9631fa31033332c706600a0",
+      "levelid": "custom_level_dc2ee96d69787015f9631fa31033332c706600a0"
+    },
+    {
+      "key": "556a7",
+      "songName": "Netrum X Halvorsen - Desert Island",
+      "hash": "494ab1f04035ec1df019a8a24d823c3c233561db",
+      "levelid": "custom_level_494ab1f04035ec1df019a8a24d823c3c233561db"
+    },
+    {
+      "key": "55720",
+      "songName": "L'amour au spectacle",
+      "hash": "503f02f57911bf213453fbbedf9887fd6830e9e4",
+      "levelid": "custom_level_503f02f57911bf213453fbbedf9887fd6830e9e4"
+    },
+    {
+      "key": "5571f",
+      "songName": "I Swear I'll Be Just Fine",
+      "hash": "b63552c258073c046867297bcf44ec6ce37e5a34",
+      "levelid": "custom_level_b63552c258073c046867297bcf44ec6ce37e5a34"
+    },
+    {
+      "key": "5571d",
+      "songName": "I Swear I'll Be Just Fine",
+      "hash": "c418259313d7a9eadc96ba2794a8ee6acd13fe09",
+      "levelid": "custom_level_c418259313d7a9eadc96ba2794a8ee6acd13fe09"
+    },
+    {
+      "key": "5571c",
+      "songName": "Danny Elfman - Oogie Boogie Song",
+      "hash": "387116c8ff850b8f6c03a1fcf37e763241289740",
+      "levelid": "custom_level_387116c8ff850b8f6c03a1fcf37e763241289740"
+    },
+    {
+      "key": "55719",
+      "songName": "izna - DUMB HOT!",
+      "hash": "5447cda0cb31803115244726d8a94eb4f758b8fd",
+      "levelid": "custom_level_5447cda0cb31803115244726d8a94eb4f758b8fd"
+    },
+    {
+      "key": "54b86",
+      "songName": "LOONA - Star",
+      "hash": "4c0ce6c20157bc174299b0e9b484e63996870b4f",
+      "levelid": "custom_level_4c0ce6c20157bc174299b0e9b484e63996870b4f"
+    },
+    {
+      "key": "55716",
+      "songName": "he ate them...",
+      "hash": "bf458b993584999b8d776a96a5506eedd8d93817",
+      "levelid": "custom_level_bf458b993584999b8d776a96a5506eedd8d93817"
+    },
+    {
+      "key": "55715",
+      "songName": "Hit the gas like you wouldnt believe it",
+      "hash": "a555dc5de70347ac283d21b27a6dd6d8c5a95869",
+      "levelid": "custom_level_a555dc5de70347ac283d21b27a6dd6d8c5a95869"
+    },
+    {
+      "key": "55711",
+      "songName": "China Anne McClain - Calling All the Monsters (From A.N.T Farm)",
+      "hash": "8377b5977d1ee3761a03084db0da74f4e5d9ea37",
+      "levelid": "custom_level_8377b5977d1ee3761a03084db0da74f4e5d9ea37"
+    },
+    {
+      "key": "55710",
       "songName": "Advanced BeatSaber Tutorial",
-      "hash": "e73aaa7108a3417692545de65138dce1ba3a6ff1",
-      "levelid": "custom_level_e73aaa7108a3417692545de65138dce1ba3a6ff1"
+      "hash": "d8d48a970fdf48ec12dac2f0b9dd0988507c1851",
+      "levelid": "custom_level_d8d48a970fdf48ec12dac2f0b9dd0988507c1851"
     },
     {
-      "key": "556ce",
-      "songName": "katagiri - Nyan Nyan Naughty Night",
-      "hash": "6ba997fd46ff820074d8fcd975ff8e35f751828a",
-      "levelid": "custom_level_6ba997fd46ff820074d8fcd975ff8e35f751828a"
+      "key": "5570e",
+      "songName": "Test N.1 - Scars",
+      "hash": "e0fd46c338d250ef5e01889a51a4911d3dde6623",
+      "levelid": "custom_level_e0fd46c338d250ef5e01889a51a4911d3dde6623"
     },
     {
-      "key": "556cc",
-      "songName": "60 minutes of silences ....",
-      "hash": "2fe8309555547d69f0c92bb20dcfccd8372fcb16",
-      "levelid": "custom_level_2fe8309555547d69f0c92bb20dcfccd8372fcb16"
+      "key": "55557",
+      "songName": "[2026 Halloween & OMT 2026] K-forest vs. Halv - Optimized Eternity",
+      "hash": "e4b0c7aec783e5a5ce5bf78ffb06f0311b362072",
+      "levelid": "custom_level_e4b0c7aec783e5a5ce5bf78ffb06f0311b362072"
     },
     {
-      "key": "556c7",
-      "songName": "Silentroom x Shun - Rainshower",
-      "hash": "1e482dd6b6c70888912bfd95308669f66ae8c64a",
-      "levelid": "custom_level_1e482dd6b6c70888912bfd95308669f66ae8c64a"
-    },
-    {
-      "key": "5568b",
-      "songName": "[Genres Of Halloween FINALE] (Chroma+) Azari - Scapegoat (feat. Rosu)",
-      "hash": "abc135ed3d872cd40ec5cbc4c687eebb5aeea511",
-      "levelid": "custom_level_abc135ed3d872cd40ec5cbc4c687eebb5aeea511"
-    },
-    {
-      "key": "556c4",
-      "songName": "The Angel Pt. 5",
-      "hash": "906434fa5984532aacc1cc262adcb86cd4cef243",
-      "levelid": "custom_level_906434fa5984532aacc1cc262adcb86cd4cef243"
+      "key": "5570b",
+      "songName": "Brooklyn Blood Pop",
+      "hash": "d11d5ddf0e8ea12fa037dfcb1e2a509b25342c99",
+      "levelid": "custom_level_d11d5ddf0e8ea12fa037dfcb1e2a509b25342c99"
     }
   ],
   "image": ""
