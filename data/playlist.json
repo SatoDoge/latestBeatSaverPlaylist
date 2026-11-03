@@ -1,202 +1,136 @@
 {
-  "playlistTitle": "2026-11-01T15:18:48.062Z~2026-11-02T15:18:48.062Z",
+  "playlistTitle": "2026-11-02T15:18:48.444Z~2026-11-03T15:18:48.444Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-11-01T15:18:48.062Z and 2026-11-02T15:18:48.062Z",
+  "discripstion": "Maps published between 2026-11-02T15:18:48.444Z and 2026-11-03T15:18:48.444Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "55813",
-      "songName": "Myszojelen",
-      "hash": "ee73b680d5b5053cdc24ad281255d7c9711dabb1",
-      "levelid": "custom_level_ee73b680d5b5053cdc24ad281255d7c9711dabb1"
+      "key": "5584b",
+      "songName": "Congratulations 2",
+      "hash": "fd294dde48d64ab8f4228ac117259863527f77d7",
+      "levelid": "custom_level_fd294dde48d64ab8f4228ac117259863527f77d7"
     },
     {
-      "key": "55810",
-      "songName": "Reckless - Chandol",
-      "hash": "d3dd078a6c084969a4b601b1cb648d3b84efe701",
-      "levelid": "custom_level_d3dd078a6c084969a4b601b1cb648d3b84efe701"
+      "key": "55847",
+      "songName": "Ohrenkrebs",
+      "hash": "a21d4e485ce0b8bc4412a9e70bd61e87c681f3c0",
+      "levelid": "custom_level_a21d4e485ce0b8bc4412a9e70bd61e87c681f3c0"
     },
     {
-      "key": "5580e",
-      "songName": "[2000s Rock & Metal] No One Knows - Queens of the Stone Age",
-      "hash": "0b259c2d11c09b17fa4852c22b0392da4c3c783b",
-      "levelid": "custom_level_0b259c2d11c09b17fa4852c22b0392da4c3c783b"
+      "key": "55842",
+      "songName": "Cosmic Crown",
+      "hash": "2b21e05065184c04d1c1a67caec558fd38146ba0",
+      "levelid": "custom_level_2b21e05065184c04d1c1a67caec558fd38146ba0"
     },
     {
-      "key": "5580f",
-      "songName": "tik tok - gladde paling",
-      "hash": "9cedec1d1de41ab2b61dbd7f03633453df02b6e0",
-      "levelid": "custom_level_9cedec1d1de41ab2b61dbd7f03633453df02b6e0"
+      "key": "5583f",
+      "songName": "僕らのFreedom DiVE↓",
+      "hash": "72bb817ea84645ab25d46e9af2fc62e7e43ed9cd",
+      "levelid": "custom_level_72bb817ea84645ab25d46e9af2fc62e7e43ed9cd"
     },
     {
-      "key": "5580d",
-      "songName": "欸？大狗！",
-      "hash": "cb69841b094a5d63e0870b15bfd332871ba63c64",
-      "levelid": "custom_level_cb69841b094a5d63e0870b15bfd332871ba63c64"
+      "key": "5583e",
+      "songName": "Jay Sean - Down    (Ranked ???)",
+      "hash": "97fb9be1a31a4db0cafb96c90044cc0fdb49238a",
+      "levelid": "custom_level_97fb9be1a31a4db0cafb96c90044cc0fdb49238a"
     },
     {
-      "key": "5580c",
-      "songName": "たそがれのザンギ",
-      "hash": "da377115715f27b123f1701f73d893506242ac95",
-      "levelid": "custom_level_da377115715f27b123f1701f73d893506242ac95"
+      "key": "5583c",
+      "songName": "色違いの翼 (ヤマノススメ サードシーズン ED)",
+      "hash": "244046b4d80eeb97a09beec0b1589beaa1b1a4a7",
+      "levelid": "custom_level_244046b4d80eeb97a09beec0b1589beaa1b1a4a7"
     },
     {
-      "key": "5580b",
-      "songName": "愛探眼影(Aisagasu Eye Shadow)“ex;curse velvet(2026 Ver)”",
-      "hash": "16d117b96d0cef91ee833849e1596e96d06fb5f7",
-      "levelid": "custom_level_16d117b96d0cef91ee833849e1596e96d06fb5f7"
+      "key": "5583b",
+      "songName": "橋本みゆき - Faze to love",
+      "hash": "16da94142aa4e245803d791daa19d23a8c51525d",
+      "levelid": "custom_level_16da94142aa4e245803d791daa19d23a8c51525d"
     },
     {
-      "key": "5580a",
-      "songName": "クソデカ天体観測",
-      "hash": "586a7a600796f59d3bfee3ff733892abfbf19cf3",
-      "levelid": "custom_level_586a7a600796f59d3bfee3ff733892abfbf19cf3"
+      "key": "5583a",
+      "songName": "random",
+      "hash": "4b3d2a9438dd2622af7979697fd9f133abfc9600",
+      "levelid": "custom_level_4b3d2a9438dd2622af7979697fd9f133abfc9600"
     },
     {
-      "key": "55807",
-      "songName": "een auto no arrows",
-      "hash": "075d9b3fe500245dd25ca104ffb64ee15d41e221",
-      "levelid": "custom_level_075d9b3fe500245dd25ca104ffb64ee15d41e221"
+      "key": "55838",
+      "songName": "six impala - !¡! find the answer ¡!¡",
+      "hash": "e92bf867f257b9c76eb98399ab0fbcd7e615207b",
+      "levelid": "custom_level_e92bf867f257b9c76eb98399ab0fbcd7e615207b"
     },
     {
-      "key": "55802",
-      "songName": "Diamond Dream (魔法の姉妹ルルットリリィ 挿入歌)",
-      "hash": "a41795f2d4ccaaf355e45763cbdcc53765a1718b",
-      "levelid": "custom_level_a41795f2d4ccaaf355e45763cbdcc53765a1718b"
+      "key": "55835",
+      "songName": "kano - Walk This Way!",
+      "hash": "46e609d3766a6b13d705f33ae5fc4a1d9b4a84af",
+      "levelid": "custom_level_46e609d3766a6b13d705f33ae5fc4a1d9b4a84af"
     },
     {
-      "key": "5577c",
-      "songName": "DJHRNYHORSE - Hands All Over Me",
-      "hash": "bd94ec58c9b7bae5e3994dc8eb94da58dd9823bb",
-      "levelid": "custom_level_bd94ec58c9b7bae5e3994dc8eb94da58dd9823bb"
+      "key": "55834",
+      "songName": "Demon Ghost Cave",
+      "hash": "158329515d91a53e804bdddde658b5b9f6285d53",
+      "levelid": "custom_level_158329515d91a53e804bdddde658b5b9f6285d53"
     },
     {
-      "key": "55801",
+      "key": "55831",
       "songName": "Void Hornet",
-      "hash": "0e8d511f5da148364f9ec822750f12c66436027b",
-      "levelid": "custom_level_0e8d511f5da148364f9ec822750f12c66436027b"
+      "hash": "7390ec10b1d8443196b7e5e67c9524bfa59edb18",
+      "levelid": "custom_level_7390ec10b1d8443196b7e5e67c9524bfa59edb18"
     },
     {
-      "key": "557f8",
-      "songName": "agetha - C:\\User\\Agetha\\\"𝕐𝕆𝕌 𝕎𝔼ℝ𝔼 OBSESSED WITH 🄼🄴",
-      "hash": "a768d0eafa22bf4aed87f81d88daf6055ee92fda",
-      "levelid": "custom_level_a768d0eafa22bf4aed87f81d88daf6055ee92fda"
+      "key": "5582e",
+      "songName": "z u y a & slyde - HEARTATTACK",
+      "hash": "bdcfb2b656a1a7f14cc6458964fae5639e5def85",
+      "levelid": "custom_level_bdcfb2b656a1a7f14cc6458964fae5639e5def85"
     },
     {
-      "key": "557f6",
-      "songName": "ENHYPEN - Brought the Heat Back (feat. Ava Max)",
-      "hash": "c9c244ff6ca6576aa992eb70dd77c71dca12941b",
-      "levelid": "custom_level_c9c244ff6ca6576aa992eb70dd77c71dca12941b"
+      "key": "55827",
+      "songName": "no way",
+      "hash": "1708b1045fb55747af846045244b1f1ed80951b2",
+      "levelid": "custom_level_1708b1045fb55747af846045244b1f1ed80951b2"
     },
     {
-      "key": "557f4",
-      "songName": "Zhoni - DIGITAL SUICIDE WORLD",
-      "hash": "fbdffbfef4ac1fbed55fdc968b21b9ffddf432ed",
-      "levelid": "custom_level_fbdffbfef4ac1fbed55fdc968b21b9ffddf432ed"
+      "key": "55824",
+      "songName": "Unless You",
+      "hash": "1c9a115607c4034ff25d7192f969d7f7dcc422c0",
+      "levelid": "custom_level_1c9a115607c4034ff25d7192f969d7f7dcc422c0"
     },
     {
-      "key": "557f3",
-      "songName": " 『 愛するように 』/ feat. 可不",
-      "hash": "d50d8679dd0c9bc711803b464a2280b8565b339d",
-      "levelid": "custom_level_d50d8679dd0c9bc711803b464a2280b8565b339d"
+      "key": "55823",
+      "songName": "Hyvää Puuta",
+      "hash": "a14e636e3bcbc15dd02b5baeab4054ae7bf75e3b",
+      "levelid": "custom_level_a14e636e3bcbc15dd02b5baeab4054ae7bf75e3b"
     },
     {
-      "key": "557f1",
-      "songName": "ATEEZ - Bad",
-      "hash": "e1261f63fdc19b67b21914623d3fbd6320519984",
-      "levelid": "custom_level_e1261f63fdc19b67b21914623d3fbd6320519984"
+      "key": "55820",
+      "songName": "ScratchProject#2",
+      "hash": "3978e6907925d5f8d3d86ab62225ce7a9ae5e751",
+      "levelid": "custom_level_3978e6907925d5f8d3d86ab62225ce7a9ae5e751"
     },
     {
-      "key": "557ee",
-      "songName": "Day By Day",
-      "hash": "7f2d692597fb857879869812fdb80e1faaaee208",
-      "levelid": "custom_level_7f2d692597fb857879869812fdb80e1faaaee208"
+      "key": "5581e",
+      "songName": "one more time. ",
+      "hash": "2d4b19e018da86462f4de6376b3ea5824f1839fc",
+      "levelid": "custom_level_2d4b19e018da86462f4de6376b3ea5824f1839fc"
     },
     {
-      "key": "557ed",
-      "songName": "211 - Rukkus",
-      "hash": "48991b79ac5659d329057c0e5f7ab1e5a7d5b198",
-      "levelid": "custom_level_48991b79ac5659d329057c0e5f7ab1e5a7d5b198"
+      "key": "5581d",
+      "songName": "ice king. ",
+      "hash": "651b858dffab773047a26382055e2b14f1230c84",
+      "levelid": "custom_level_651b858dffab773047a26382055e2b14f1230c84"
     },
     {
-      "key": "557ea",
-      "songName": "cirno della miseria ⑨",
-      "hash": "abe488e42849b00ed46276a697de13f2215de1b6",
-      "levelid": "custom_level_abe488e42849b00ed46276a697de13f2215de1b6"
+      "key": "55816",
+      "songName": "SORRIZO RONALDO (V sla)",
+      "hash": "84a0984933b6a442299e4e3927805e59267bcca6",
+      "levelid": "custom_level_84a0984933b6a442299e4e3927805e59267bcca6"
     },
     {
-      "key": "557e9",
-      "songName": "Flamewall",
-      "hash": "e174bbbeccda508354a932d2fe42f9833e3b0ac6",
-      "levelid": "custom_level_e174bbbeccda508354a932d2fe42f9833e3b0ac6"
-    },
-    {
-      "key": "54ad2",
-      "songName": "horny club party",
-      "hash": "0fea6e5b06e9432e7291470153c356e3186db5e1",
-      "levelid": "custom_level_0fea6e5b06e9432e7291470153c356e3186db5e1"
-    },
-    {
-      "key": "557e5",
-      "songName": "Josh McNellan - Always On My Mind",
-      "hash": "31a2691c57f5e27920d1f5a9c4e1742bd13f4320",
-      "levelid": "custom_level_31a2691c57f5e27920d1f5a9c4e1742bd13f4320"
-    },
-    {
-      "key": "557e3",
-      "songName": "Illusionary Night (Angelicide)  ",
-      "hash": "9ff948922e37b8a69e40486f4ce58cbed431bb2c",
-      "levelid": "custom_level_9ff948922e37b8a69e40486f4ce58cbed431bb2c"
-    },
-    {
-      "key": "557e1",
-      "songName": "Zara Larsson & MNEK-Never Forget You",
-      "hash": "11098293917f1a3fef7609254cc471e45010a843",
-      "levelid": "custom_level_11098293917f1a3fef7609254cc471e45010a843"
-    },
-    {
-      "key": "557dc",
-      "songName": "jeko - Geheimnis",
-      "hash": "461c81dd0045411236cd489ed96f4d6f9d7392f2",
-      "levelid": "custom_level_461c81dd0045411236cd489ed96f4d6f9d7392f2"
-    },
-    {
-      "key": "557db",
-      "songName": "cookie456 in another universe",
-      "hash": "d6b74fc29d93981766b84bc2d77291af7ac49691",
-      "levelid": "custom_level_d6b74fc29d93981766b84bc2d77291af7ac49691"
-    },
-    {
-      "key": "557d7",
-      "songName": "When Autocorrect Won't Let You Say NO",
-      "hash": "8e0259c384e4dea05b18d85173698346192c24a0",
-      "levelid": "custom_level_8e0259c384e4dea05b18d85173698346192c24a0"
-    },
-    {
-      "key": "557d6",
-      "songName": "8485 - 1:15",
-      "hash": "2e59815dbc9d5dc1ba361d314517cf0705e25766",
-      "levelid": "custom_level_2e59815dbc9d5dc1ba361d314517cf0705e25766"
-    },
-    {
-      "key": "557d5",
-      "songName": "Fake Plastic Trees",
-      "hash": "49fa71633004e45112bae08385d54bd91fb67f70",
-      "levelid": "custom_level_49fa71633004e45112bae08385d54bd91fb67f70"
-    },
-    {
-      "key": "55598",
-      "songName": "Flower In A Hurricane",
-      "hash": "1d24fb4634f4f167ba3e06100b686832a15951a3",
-      "levelid": "custom_level_1d24fb4634f4f167ba3e06100b686832a15951a3"
-    },
-    {
-      "key": "557c9",
-      "songName": "Blind Channel - Messiah",
-      "hash": "c453e499873e709af0d4a6930bb35e5d70c94b3f",
-      "levelid": "custom_level_c453e499873e709af0d4a6930bb35e5d70c94b3f"
+      "key": "55812",
+      "songName": "run run run - redbug",
+      "hash": "732fe3662c61637e198c580fbfa04f6537318540",
+      "levelid": "custom_level_732fe3662c61637e198c580fbfa04f6537318540"
     }
   ],
   "image": ""
