@@ -1,136 +1,184 @@
 {
-  "playlistTitle": "2026-11-02T15:18:48.444Z~2026-11-03T15:18:48.444Z",
+  "playlistTitle": "2026-11-03T15:18:48.194Z~2026-11-04T15:18:48.194Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-11-02T15:18:48.444Z and 2026-11-03T15:18:48.444Z",
+  "discripstion": "Maps published between 2026-11-03T15:18:48.194Z and 2026-11-04T15:18:48.194Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "5584b",
-      "songName": "Congratulations 2",
-      "hash": "fd294dde48d64ab8f4228ac117259863527f77d7",
-      "levelid": "custom_level_fd294dde48d64ab8f4228ac117259863527f77d7"
+      "key": "55891",
+      "songName": " KSBMuzic-А ты будешь моей женой ",
+      "hash": "807a9adedf17b2baf34be0e3f079ccf7339755b7",
+      "levelid": "custom_level_807a9adedf17b2baf34be0e3f079ccf7339755b7"
     },
     {
-      "key": "55847",
-      "songName": "Ohrenkrebs",
-      "hash": "a21d4e485ce0b8bc4412a9e70bd61e87c681f3c0",
-      "levelid": "custom_level_a21d4e485ce0b8bc4412a9e70bd61e87c681f3c0"
+      "key": "55890",
+      "songName": "Tree On The Hill (Lunch Break Freestyle)",
+      "hash": "20a08f208b23aeb45b061560bc487c9fbdc1b004",
+      "levelid": "custom_level_20a08f208b23aeb45b061560bc487c9fbdc1b004"
     },
     {
-      "key": "55842",
-      "songName": "Cosmic Crown",
-      "hash": "2b21e05065184c04d1c1a67caec558fd38146ba0",
-      "levelid": "custom_level_2b21e05065184c04d1c1a67caec558fd38146ba0"
+      "key": "5588f",
+      "songName": "守護ってルーナイト/姫森ルーナ",
+      "hash": "13b9847eff241596d614729c7b35df496e1a0025",
+      "levelid": "custom_level_13b9847eff241596d614729c7b35df496e1a0025"
     },
     {
-      "key": "5583f",
-      "songName": "僕らのFreedom DiVE↓",
-      "hash": "72bb817ea84645ab25d46e9af2fc62e7e43ed9cd",
-      "levelid": "custom_level_72bb817ea84645ab25d46e9af2fc62e7e43ed9cd"
+      "key": "5588e",
+      "songName": "Brutalismus 3000 - I Bring My Gun To The Function (with Boys Noize)",
+      "hash": "f61db47efa7ba1a12644f4b4a04947753d3a4f2c",
+      "levelid": "custom_level_f61db47efa7ba1a12644f4b4a04947753d3a4f2c"
     },
     {
-      "key": "5583e",
-      "songName": "Jay Sean - Down    (Ranked ???)",
-      "hash": "97fb9be1a31a4db0cafb96c90044cc0fdb49238a",
-      "levelid": "custom_level_97fb9be1a31a4db0cafb96c90044cc0fdb49238a"
+      "key": "55778",
+      "songName": "resurrection",
+      "hash": "f8975aec46739d26f4901ed4f432e0eee8c8bb4b",
+      "levelid": "custom_level_f8975aec46739d26f4901ed4f432e0eee8c8bb4b"
     },
     {
-      "key": "5583c",
-      "songName": "色違いの翼 (ヤマノススメ サードシーズン ED)",
-      "hash": "244046b4d80eeb97a09beec0b1589beaa1b1a4a7",
-      "levelid": "custom_level_244046b4d80eeb97a09beec0b1589beaa1b1a4a7"
+      "key": "5588c",
+      "songName": "想いのち晴れ (ヤマノススメ Next Summit OP)",
+      "hash": "028bbc37f03736526760179453d1faa7290932ca",
+      "levelid": "custom_level_028bbc37f03736526760179453d1faa7290932ca"
     },
     {
-      "key": "5583b",
-      "songName": "橋本みゆき - Faze to love",
-      "hash": "16da94142aa4e245803d791daa19d23a8c51525d",
-      "levelid": "custom_level_16da94142aa4e245803d791daa19d23a8c51525d"
+      "key": "55889",
+      "songName": "I'M A BLACKHOLE - Odetari",
+      "hash": "9fbcaba68fc932fe97a98541a83e11c5cad1827e",
+      "levelid": "custom_level_9fbcaba68fc932fe97a98541a83e11c5cad1827e"
     },
     {
-      "key": "5583a",
-      "songName": "random",
-      "hash": "4b3d2a9438dd2622af7979697fd9f133abfc9600",
-      "levelid": "custom_level_4b3d2a9438dd2622af7979697fd9f133abfc9600"
+      "key": "55888",
+      "songName": "Waterflame - Blast Processing ",
+      "hash": "0b6476fd335680f5f01b56295ead73d1c0642d39",
+      "levelid": "custom_level_0b6476fd335680f5f01b56295ead73d1c0642d39"
     },
     {
-      "key": "55838",
-      "songName": "six impala - !¡! find the answer ¡!¡",
-      "hash": "e92bf867f257b9c76eb98399ab0fbcd7e615207b",
-      "levelid": "custom_level_e92bf867f257b9c76eb98399ab0fbcd7e615207b"
+      "key": "55887",
+      "songName": "illion - AIWAGUMA",
+      "hash": "4744eecce3bf52e13fc0b8c08193b91b4509dad3",
+      "levelid": "custom_level_4744eecce3bf52e13fc0b8c08193b91b4509dad3"
     },
     {
-      "key": "55835",
-      "songName": "kano - Walk This Way!",
-      "hash": "46e609d3766a6b13d705f33ae5fc4a1d9b4a84af",
-      "levelid": "custom_level_46e609d3766a6b13d705f33ae5fc4a1d9b4a84af"
+      "key": "55885",
+      "songName": "are you serious right now",
+      "hash": "c629522263a3cdb9c354f2ff7036035d23cc7355",
+      "levelid": "custom_level_c629522263a3cdb9c354f2ff7036035d23cc7355"
     },
     {
-      "key": "55834",
-      "songName": "Demon Ghost Cave",
-      "hash": "158329515d91a53e804bdddde658b5b9f6285d53",
-      "levelid": "custom_level_158329515d91a53e804bdddde658b5b9f6285d53"
+      "key": "55884",
+      "songName": "Geoxor - Moneko",
+      "hash": "79462cd4ac0262d689213cb380c00cdae122bd44",
+      "levelid": "custom_level_79462cd4ac0262d689213cb380c00cdae122bd44"
     },
     {
-      "key": "55831",
-      "songName": "Void Hornet",
-      "hash": "7390ec10b1d8443196b7e5e67c9524bfa59edb18",
-      "levelid": "custom_level_7390ec10b1d8443196b7e5e67c9524bfa59edb18"
+      "key": "55868",
+      "songName": "カルマ / BUMP OF CHICKEN",
+      "hash": "0ef783668c2489528baa9ca1aed392b741b18739",
+      "levelid": "custom_level_0ef783668c2489528baa9ca1aed392b741b18739"
     },
     {
-      "key": "5582e",
-      "songName": "z u y a & slyde - HEARTATTACK",
-      "hash": "bdcfb2b656a1a7f14cc6458964fae5639e5def85",
-      "levelid": "custom_level_bdcfb2b656a1a7f14cc6458964fae5639e5def85"
+      "key": "5587f",
+      "songName": "Rock It",
+      "hash": "d44f527885079ecc8c461a83d00eaed57e2306cb",
+      "levelid": "custom_level_d44f527885079ecc8c461a83d00eaed57e2306cb"
     },
     {
-      "key": "55827",
-      "songName": "no way",
-      "hash": "1708b1045fb55747af846045244b1f1ed80951b2",
-      "levelid": "custom_level_1708b1045fb55747af846045244b1f1ed80951b2"
+      "key": "5587e",
+      "songName": "anybody can find love [except you]",
+      "hash": "3502daa03d2247a7a757bd19d8ba53effb7a9647",
+      "levelid": "custom_level_3502daa03d2247a7a757bd19d8ba53effb7a9647"
     },
     {
-      "key": "55824",
-      "songName": "Unless You",
-      "hash": "1c9a115607c4034ff25d7192f969d7f7dcc422c0",
-      "levelid": "custom_level_1c9a115607c4034ff25d7192f969d7f7dcc422c0"
+      "key": "5587d",
+      "songName": "Whopper Whopper Ad, but every word is a Vine boom",
+      "hash": "0f4f48bfd61d7be79917a8e79c31107615a76cfd",
+      "levelid": "custom_level_0f4f48bfd61d7be79917a8e79c31107615a76cfd"
     },
     {
-      "key": "55823",
-      "songName": "Hyvää Puuta",
-      "hash": "a14e636e3bcbc15dd02b5baeab4054ae7bf75e3b",
-      "levelid": "custom_level_a14e636e3bcbc15dd02b5baeab4054ae7bf75e3b"
+      "key": "5587c",
+      "songName": "Kids",
+      "hash": "550cd8e06d4d15240a22a98d0f766c9a3970dcd3",
+      "levelid": "custom_level_550cd8e06d4d15240a22a98d0f766c9a3970dcd3"
     },
     {
-      "key": "55820",
-      "songName": "ScratchProject#2",
-      "hash": "3978e6907925d5f8d3d86ab62225ce7a9ae5e751",
-      "levelid": "custom_level_3978e6907925d5f8d3d86ab62225ce7a9ae5e751"
+      "key": "55878",
+      "songName": "[V3]BABYMETAL - Oh! MAJINAI (Updated)",
+      "hash": "e8291d1e070d65f733ea0d8c4b4bc65e57626e12",
+      "levelid": "custom_level_e8291d1e070d65f733ea0d8c4b4bc65e57626e12"
     },
     {
-      "key": "5581e",
-      "songName": "one more time. ",
-      "hash": "2d4b19e018da86462f4de6376b3ea5824f1839fc",
-      "levelid": "custom_level_2d4b19e018da86462f4de6376b3ea5824f1839fc"
+      "key": "55877",
+      "songName": "Twenty One Pilots - RAWFEAR",
+      "hash": "b974ef35c256ab4f1a640e43ca58803e47d845c6",
+      "levelid": "custom_level_b974ef35c256ab4f1a640e43ca58803e47d845c6"
     },
     {
-      "key": "5581d",
-      "songName": "ice king. ",
-      "hash": "651b858dffab773047a26382055e2b14f1230c84",
-      "levelid": "custom_level_651b858dffab773047a26382055e2b14f1230c84"
+      "key": "55876",
+      "songName": "Dance Magic - My Little Pony",
+      "hash": "23a9bf99f7789861fb4703b59e3bdec0b8388eee",
+      "levelid": "custom_level_23a9bf99f7789861fb4703b59e3bdec0b8388eee"
     },
     {
-      "key": "55816",
-      "songName": "SORRIZO RONALDO (V sla)",
-      "hash": "84a0984933b6a442299e4e3927805e59267bcca6",
-      "levelid": "custom_level_84a0984933b6a442299e4e3927805e59267bcca6"
+      "key": "55874",
+      "songName": "ALTÉGO - COULDN'T CARE LESS",
+      "hash": "9dab0ec2e63d1f73e264806ede38708f7ca0f89b",
+      "levelid": "custom_level_9dab0ec2e63d1f73e264806ede38708f7ca0f89b"
     },
     {
-      "key": "55812",
-      "songName": "run run run - redbug",
-      "hash": "732fe3662c61637e198c580fbfa04f6537318540",
-      "levelid": "custom_level_732fe3662c61637e198c580fbfa04f6537318540"
+      "key": "55872",
+      "songName": "Roar - Chinese Tattoo",
+      "hash": "c4023c84b6842f6b795cea606805623ca14c35c2",
+      "levelid": "custom_level_c4023c84b6842f6b795cea606805623ca14c35c2"
+    },
+    {
+      "key": "55871",
+      "songName": "Tyler, The Creator - Noid",
+      "hash": "9746719b6b4076e968a21bde7562263c656308d4",
+      "levelid": "custom_level_9746719b6b4076e968a21bde7562263c656308d4"
+    },
+    {
+      "key": "5586e",
+      "songName": "i remember when you were little",
+      "hash": "2629b76387b40e9f59f8d3164d45252e9078fdcd",
+      "levelid": "custom_level_2629b76387b40e9f59f8d3164d45252e9078fdcd"
+    },
+    {
+      "key": "5586b",
+      "songName": "Nothing But Thieves - Broken Machine",
+      "hash": "7c3acf109f03762057d5126eefbca419aa5e6db4",
+      "levelid": "custom_level_7c3acf109f03762057d5126eefbca419aa5e6db4"
+    },
+    {
+      "key": "5586a",
+      "songName": "pink flags",
+      "hash": "92e4315988d87c5b443a6e7234a848ddc810c397",
+      "levelid": "custom_level_92e4315988d87c5b443a6e7234a848ddc810c397"
+    },
+    {
+      "key": "55865",
+      "songName": "lapix - Odd Lovey",
+      "hash": "0f5ec82d92be7fd497fe20cea37bd83ea5e3d0ba",
+      "levelid": "custom_level_0f5ec82d92be7fd497fe20cea37bd83ea5e3d0ba"
+    },
+    {
+      "key": "55859",
+      "songName": "pensaste que eras especial - Clara Luna",
+      "hash": "373a4daad11a688a6f38801a6acedd36cada6b98",
+      "levelid": "custom_level_373a4daad11a688a6f38801a6acedd36cada6b98"
+    },
+    {
+      "key": "55857",
+      "songName": "sath4 - <3#006 w/yax03",
+      "hash": "090459b452dbd94f31b64b24014e88d7f49965d7",
+      "levelid": "custom_level_090459b452dbd94f31b64b24014e88d7f49965d7"
+    },
+    {
+      "key": "55854",
+      "songName": "NiziU - Sour Grapes",
+      "hash": "2c569d8341887161cc5518efc3f1b5e15282a5fd",
+      "levelid": "custom_level_2c569d8341887161cc5518efc3f1b5e15282a5fd"
     }
   ],
   "image": ""
