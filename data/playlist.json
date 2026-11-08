@@ -1,310 +1,136 @@
 {
-  "playlistTitle": "2026-11-06T15:18:48.379Z~2026-11-07T15:18:48.379Z",
+  "playlistTitle": "2026-11-07T15:18:47.836Z~2026-11-08T15:18:47.836Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-11-06T15:18:48.379Z and 2026-11-07T15:18:48.379Z",
+  "discripstion": "Maps published between 2026-11-07T15:18:47.836Z and 2026-11-08T15:18:47.836Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "55997",
-      "songName": "Picasso Mix",
-      "hash": "757c98682d06f4fd02e8d4727f664d20ce48dac0",
-      "levelid": "custom_level_757c98682d06f4fd02e8d4727f664d20ce48dac0"
+      "key": "559e3",
+      "songName": "Juggernaut. -  Akatsuki  [JBSL12 Grand Finals Tiebreaker]",
+      "hash": "de0b9b4be4c241b7800176c60de7735b238f37ad",
+      "levelid": "custom_level_de0b9b4be4c241b7800176c60de7735b238f37ad"
     },
     {
-      "key": "55996",
-      "songName": "Yooh - Crazy Shuffle",
-      "hash": "261dc1c727a7d19cee3f610205e3f66db2961ba6",
-      "levelid": "custom_level_261dc1c727a7d19cee3f610205e3f66db2961ba6"
+      "key": "559e5",
+      "songName": "FADEAWAY - Bishu",
+      "hash": "87f9b52b232b863e5f908402ef828ae2fb4c0352",
+      "levelid": "custom_level_87f9b52b232b863e5f908402ef828ae2fb4c0352"
     },
     {
-      "key": "55995",
-      "songName": "DEEPSEA",
-      "hash": "eeb0787a95e2d48ac739d4b441cbe50fbb86cb1d",
-      "levelid": "custom_level_eeb0787a95e2d48ac739d4b441cbe50fbb86cb1d"
+      "key": "559e0",
+      "songName": "Teaser",
+      "hash": "8b296ad57fe1f9499221fd381c4f1afb113d4ae4",
+      "levelid": "custom_level_8b296ad57fe1f9499221fd381c4f1afb113d4ae4"
     },
     {
-      "key": "55994",
-      "songName": "ELA PEIDA TEKK",
-      "hash": "75cb87fddae1a0119815b655b0cf63a8438a4eda",
-      "levelid": "custom_level_75cb87fddae1a0119815b655b0cf63a8438a4eda"
+      "key": "559df",
+      "songName": "STRIKE WITCHES 〜わたしにできること〜 (ストライクウィッチーズ OP)",
+      "hash": "d88f08709292042692a7a0b8886ce02b72d92f85",
+      "levelid": "custom_level_d88f08709292042692a7a0b8886ce02b72d92f85"
     },
     {
-      "key": "55992",
-      "songName": "zelda lost woods",
-      "hash": "fc782fd6b81000f9e332655262484150467874eb",
-      "levelid": "custom_level_fc782fd6b81000f9e332655262484150467874eb"
+      "key": "559de",
+      "songName": "Scop - Clean Freak (covered by Kano)",
+      "hash": "052fd00ba3a179471e1793d7a3c9f848e2bb3625",
+      "levelid": "custom_level_052fd00ba3a179471e1793d7a3c9f848e2bb3625"
     },
     {
-      "key": "55990",
-      "songName": "first song",
-      "hash": "a7fe7705c1824b4135cf90a435c18dc742c8d908",
-      "levelid": "custom_level_a7fe7705c1824b4135cf90a435c18dc742c8d908"
+      "key": "559db",
+      "songName": "Hai Yorokonde...?(ariiol remix)",
+      "hash": "04a232324ffb2136eb3b6cbd8cc63af2930cce5d",
+      "levelid": "custom_level_04a232324ffb2136eb3b6cbd8cc63af2930cce5d"
     },
     {
-      "key": "5598d",
-      "songName": "[Spider Slider Tournament] Camellia - [BLEED BLOOD]",
-      "hash": "7c0a37c6d1af3d5dc520e266f58d8232ef68b2bc",
-      "levelid": "custom_level_7c0a37c6d1af3d5dc520e266f58d8232ef68b2bc"
+      "key": "559dc",
+      "songName": "Joji, BENEE - Afterthought",
+      "hash": "b807a03a7479bd432bab80f534d5c6a3d5a8ea54",
+      "levelid": "custom_level_b807a03a7479bd432bab80f534d5c6a3d5a8ea54"
     },
     {
-      "key": "5598c",
-      "songName": "Duch papíru",
-      "hash": "2c92bcc92460d7d192298196a6f2c0c11b86f77b",
-      "levelid": "custom_level_2c92bcc92460d7d192298196a6f2c0c11b86f77b"
+      "key": "559d8",
+      "songName": "Tristam - I Remember (Original Mix)",
+      "hash": "0a165327087c1b0582e62318c35971afd3d9d2bb",
+      "levelid": "custom_level_0a165327087c1b0582e62318c35971afd3d9d2bb"
     },
     {
-      "key": "55989",
-      "songName": "Precious You* (TV Size) - Various Artists (Fujita Akane, Miyamoto Yume, Ozawa Ari)",
-      "hash": "49c2f17b37562f1b60fc631c86b0f0068878db84",
-      "levelid": "custom_level_49c2f17b37562f1b60fc631c86b0f0068878db84"
+      "key": "559d7",
+      "songName": "ericdoa - search & destroy",
+      "hash": "c2df2d67dc699de993cbdfad4d41948856776e34",
+      "levelid": "custom_level_c2df2d67dc699de993cbdfad4d41948856776e34"
     },
     {
-      "key": "55985",
-      "songName": "Tiffany Day, glaive - MEANT TO BE",
-      "hash": "978798f69db8930259b91adb5b076da2e55519b7",
-      "levelid": "custom_level_978798f69db8930259b91adb5b076da2e55519b7"
+      "key": "55999",
+      "songName": "Love Options",
+      "hash": "5e5eb176176a599f901d4fd756d69288d0233850",
+      "levelid": "custom_level_5e5eb176176a599f901d4fd756d69288d0233850"
     },
     {
-      "key": "55983",
-      "songName": "[REMAKE] のぼる↑ - 鎖の少女-Re Alive-",
-      "hash": "0942dcfac7ad440c70501f162a815be6f3b2c934",
-      "levelid": "custom_level_0942dcfac7ad440c70501f162a815be6f3b2c934"
+      "key": "559c1",
+      "songName": "Jackson Frost's Beat Practice",
+      "hash": "dafd9efb583a1da18f42628eda17f27fc617a255",
+      "levelid": "custom_level_dafd9efb583a1da18f42628eda17f27fc617a255"
     },
     {
-      "key": "55982",
-      "songName": "white girl manifestation type beat - haunt",
-      "hash": "a9682c9dfaf8756fccafbd44554bb6986fc1cc4c",
-      "levelid": "custom_level_a9682c9dfaf8756fccafbd44554bb6986fc1cc4c"
+      "key": "559bc",
+      "songName": "Jumps And BPM Practice",
+      "hash": "de96e43f830ae5370715307271f11b04ec6fce36",
+      "levelid": "custom_level_de96e43f830ae5370715307271f11b04ec6fce36"
     },
     {
-      "key": "55981",
-      "songName": "Forbidden Code (エクスメイデン ED)",
-      "hash": "1b945203caab57eed958d79796cc9462ce6cad64",
-      "levelid": "custom_level_1b945203caab57eed958d79796cc9462ce6cad64"
+      "key": "559bb",
+      "songName": "Larping The Rooms (Green Version) || The Larping Tombstone",
+      "hash": "7382af94d83fab46f318129b5b5683ea0ab767a5",
+      "levelid": "custom_level_7382af94d83fab46f318129b5b5683ea0ab767a5"
     },
     {
-      "key": "55980",
-      "songName": "asteria - FUSION",
-      "hash": "c41a05e3980c0cf89e632696deee7e38c7df1e16",
-      "levelid": "custom_level_c41a05e3980c0cf89e632696deee7e38c7df1e16"
+      "key": "559ba",
+      "songName": "Tanger - Take Me Higher",
+      "hash": "2bcbd5bb72f8bf158c73240a6bd8f3d47187061e",
+      "levelid": "custom_level_2bcbd5bb72f8bf158c73240a6bd8f3d47187061e"
     },
     {
-      "key": "5597f",
-      "songName": "Bomba",
-      "hash": "6d20dae3c54b3681c2cf258059ce80f482192bc5",
-      "levelid": "custom_level_6d20dae3c54b3681c2cf258059ce80f482192bc5"
+      "key": "559b9",
+      "songName": "Imperial Circus Dead Decadence - Yuuaku no Inori - Anima immortalis est",
+      "hash": "b8e2acd4f8bdf8353ee05b42fda970ec50685e95",
+      "levelid": "custom_level_b8e2acd4f8bdf8353ee05b42fda970ec50685e95"
     },
     {
-      "key": "55411",
-      "songName": "Til My Fingers Bleed - DINO, Duckwrth, The world alive",
-      "hash": "518ee5afa6b5e575b76107b390211e55c6fa7c3c",
-      "levelid": "custom_level_518ee5afa6b5e575b76107b390211e55c6fa7c3c"
+      "key": "559b8",
+      "songName": "iiiiiiiiiiiiiiiiiiiiiii [Version 2.0]",
+      "hash": "2bdbeb6b5c2cfbb74dc41306ed2a0b1d21a57d4a",
+      "levelid": "custom_level_2bdbeb6b5c2cfbb74dc41306ed2a0b1d21a57d4a"
     },
     {
-      "key": "5597e",
-      "songName": "そして僕にできるコト",
-      "hash": "b6db0d1d992c8824287ff153b04fc6a6008b3a47",
-      "levelid": "custom_level_b6db0d1d992c8824287ff153b04fc6a6008b3a47"
+      "key": "559b7",
+      "songName": "ALL HAIL THE 2ND MIGHT..",
+      "hash": "3e6c593ad1caf56e3213bbdc9315778fb331675a",
+      "levelid": "custom_level_3e6c593ad1caf56e3213bbdc9315778fb331675a"
     },
     {
-      "key": "5597d",
-      "songName": "0hio",
-      "hash": "53287b592a3451323da8696d3e2dcabf922c04b9",
-      "levelid": "custom_level_53287b592a3451323da8696d3e2dcabf922c04b9"
+      "key": "559af",
+      "songName": "El rap de mini Federico",
+      "hash": "891916618b2d75e32694a9f8f04678d05a67e855",
+      "levelid": "custom_level_891916618b2d75e32694a9f8f04678d05a67e855"
     },
     {
-      "key": "5597b",
-      "songName": " Szkarłatne serce - ANGUISH, zyzek, ily",
-      "hash": "b7478cf82782e51eb3794ac2202530edfda55b44",
-      "levelid": "custom_level_b7478cf82782e51eb3794ac2202530edfda55b44"
+      "key": "559ae",
+      "songName": "Rosy Retrospection",
+      "hash": "ffe4c3bcc261b6681a33634789b5919c5553b6cc",
+      "levelid": "custom_level_ffe4c3bcc261b6681a33634789b5919c5553b6cc"
     },
     {
-      "key": "5597a",
-      "songName": "Daten - Call of the Night OP1",
-      "hash": "6b4025b029028eaad48c730fe3cefc61a943d8ec",
-      "levelid": "custom_level_6b4025b029028eaad48c730fe3cefc61a943d8ec"
+      "key": "559ad",
+      "songName": "K9 Hemorrhoids - I Totally Do Not Have A Piss Fetish",
+      "hash": "2eac935853fd1e716a5e3969bd2cd6f9743dc5f0",
+      "levelid": "custom_level_2eac935853fd1e716a5e3969bd2cd6f9743dc5f0"
     },
     {
-      "key": "55978",
-      "songName": "syudou - Kyoutou feat. RYOKI from BE_FIRST",
-      "hash": "45f62419e66b78d03cb5a08f3e71bb2618b5679b",
-      "levelid": "custom_level_45f62419e66b78d03cb5a08f3e71bb2618b5679b"
-    },
-    {
-      "key": "55979",
-      "songName": "Shot - Blade And Bath (Cut.)",
-      "hash": "2234a2831cbb2a03a8a69ce45082100d97cec8cb",
-      "levelid": "custom_level_2234a2831cbb2a03a8a69ce45082100d97cec8cb"
-    },
-    {
-      "key": "55976",
-      "songName": "Jackson Frost's Angle Training",
-      "hash": "b4bfc6cd82287a3089c70a2d48304295c05b4fe3",
-      "levelid": "custom_level_b4bfc6cd82287a3089c70a2d48304295c05b4fe3"
-    },
-    {
-      "key": "55973",
-      "songName": "[REMAP] DJ Okawari ft. Ai Ninomiya - Speed of Light",
-      "hash": "010770f717c4d2ddb84455b9c439cc4d2a038d53",
-      "levelid": "custom_level_010770f717c4d2ddb84455b9c439cc4d2a038d53"
-    },
-    {
-      "key": "5596d",
-      "songName": "BURDEN",
-      "hash": "641f9e58c90b649157406dce7ea12fc7094770b3",
-      "levelid": "custom_level_641f9e58c90b649157406dce7ea12fc7094770b3"
-    },
-    {
-      "key": "54b7d",
-      "songName": "APRIL - Muah!",
-      "hash": "e4f49efbb2b0514f55ed93d7fc824da1bda837cc",
-      "levelid": "custom_level_e4f49efbb2b0514f55ed93d7fc824da1bda837cc"
-    },
-    {
-      "key": "55192",
-      "songName": "HUH JIWON - Call me up",
-      "hash": "3fbc9052e1a4e3c58e4a929c151e7e8d464f6a98",
-      "levelid": "custom_level_3fbc9052e1a4e3c58e4a929c151e7e8d464f6a98"
-    },
-    {
-      "key": "55965",
-      "songName": "TRANKY FUNKY",
-      "hash": "9ce458d01b92ac1eefb47407944c2fb726c35d70",
-      "levelid": "custom_level_9ce458d01b92ac1eefb47407944c2fb726c35d70"
-    },
-    {
-      "key": "55962",
-      "songName": "Lucid Dream",
-      "hash": "8af6ce93f75196e52f4e03c87d880216c84e92fc",
-      "levelid": "custom_level_8af6ce93f75196e52f4e03c87d880216c84e92fc"
-    },
-    {
-      "key": "5595c",
-      "songName": " +ERABY+E CONNEC+10N - Camellia",
-      "hash": "cd2991c76037681f30041f866b6c9c6a3d7b2e3d",
-      "levelid": "custom_level_cd2991c76037681f30041f866b6c9c6a3d7b2e3d"
-    },
-    {
-      "key": "5595a",
-      "songName": "Cam The Builder | Main Theme Song ",
-      "hash": "e93a27404fb639747a9b6dcc4e41d5267ae3ee48",
-      "levelid": "custom_level_e93a27404fb639747a9b6dcc4e41d5267ae3ee48"
-    },
-    {
-      "key": "54ec9",
-      "songName": "Kirby Air Ride - Light (iR2-X Remix)",
-      "hash": "5f2fecfc97d14cca0af3c70e2508c86120ec53b2",
-      "levelid": "custom_level_5f2fecfc97d14cca0af3c70e2508c86120ec53b2"
-    },
-    {
-      "key": "55956",
-      "songName": "Filthy Dog",
-      "hash": "1b579c3c8ccbba23cf1b37b227cd64c0cd559cc7",
-      "levelid": "custom_level_1b579c3c8ccbba23cf1b37b227cd64c0cd559cc7"
-    },
-    {
-      "key": "55955",
-      "songName": "Various Artists - 2010 Throwbacks!!!",
-      "hash": "40171b077ed21bd6ebfd1315f0aa2c903899e600",
-      "levelid": "custom_level_40171b077ed21bd6ebfd1315f0aa2c903899e600"
-    },
-    {
-      "key": "55950",
-      "songName": "ELECTROSOULS",
-      "hash": "0382483c1da84cbc526b799bae29d97fea76ffaa",
-      "levelid": "custom_level_0382483c1da84cbc526b799bae29d97fea76ffaa"
-    },
-    {
-      "key": "5594f",
-      "songName": "Dr coconut says liam is so cool",
-      "hash": "efb8fd9c3fb98b9139dc3aa60affeec38002e7bf",
-      "levelid": "custom_level_efb8fd9c3fb98b9139dc3aa60affeec38002e7bf"
-    },
-    {
-      "key": "5594d",
-      "songName": "XdollllopX (NEW! Uebok Auto Paranoid Reizoukou Style shitty uptempo -slicer remix)",
-      "hash": "9b8537dc75157b3b13eaa9a5499f8fe79881c6bb",
-      "levelid": "custom_level_9b8537dc75157b3b13eaa9a5499f8fe79881c6bb"
-    },
-    {
-      "key": "5594c",
-      "songName": "Verity Is Angrity",
-      "hash": "bf92abf3bb5bc84e1be3cd1d20acba63e89821f3",
-      "levelid": "custom_level_bf92abf3bb5bc84e1be3cd1d20acba63e89821f3"
-    },
-    {
-      "key": "5594a",
-      "songName": "matt proxy - STARS",
-      "hash": "ee569a41c2a360be2de450282b2cf88f86590820",
-      "levelid": "custom_level_ee569a41c2a360be2de450282b2cf88f86590820"
-    },
-    {
-      "key": "55949",
-      "songName": "KIDS",
-      "hash": "650643dcf6d683b0dfb756fa5d6b6e194e30844e",
-      "levelid": "custom_level_650643dcf6d683b0dfb756fa5d6b6e194e30844e"
-    },
-    {
-      "key": "55948",
-      "songName": "Tomoki Kikuya - I’ll do my best in the next life (from \"Bocchi The Rock!\")",
-      "hash": "da187f59e385b5b68ab40458b5e6ee95c6efcd66",
-      "levelid": "custom_level_da187f59e385b5b68ab40458b5e6ee95c6efcd66"
-    },
-    {
-      "key": "55945",
-      "songName": "Aperture",
-      "hash": "542d2dd7e5fdc8640c9aefd413c2d9ae099f1d7b",
-      "levelid": "custom_level_542d2dd7e5fdc8640c9aefd413c2d9ae099f1d7b"
-    },
-    {
-      "key": "55944",
-      "songName": "am i the only one that misses this",
-      "hash": "0a3dc038f13d23f6019951225f9bd724ce85f81c",
-      "levelid": "custom_level_0a3dc038f13d23f6019951225f9bd724ce85f81c"
-    },
-    {
-      "key": "55942",
-      "songName": "Porter Robinson - Perfect Pinterest Garden (Ninajirachi & underscores Remix)",
-      "hash": "b94f3a9e01b25c27558c0f9fdad915c8b0068197",
-      "levelid": "custom_level_b94f3a9e01b25c27558c0f9fdad915c8b0068197"
-    },
-    {
-      "key": "55943",
-      "songName": "I Wanna Guinea Pig For Christmas",
-      "hash": "8e414891157c6f74d755cddecd9cb1e86c03776f",
-      "levelid": "custom_level_8e414891157c6f74d755cddecd9cb1e86c03776f"
-    },
-    {
-      "key": "5593f",
-      "songName": "Konets solnechnykh dney - Rassvet",
-      "hash": "40c941cce9ad708c3a3ad1344f5c2491239262e8",
-      "levelid": "custom_level_40c941cce9ad708c3a3ad1344f5c2491239262e8"
-    },
-    {
-      "key": "5593e",
-      "songName": "Transform (feat. Charlotte Day Wilson)",
-      "hash": "115a94788de2fb40afdc5a0bd198eca08b5e80ec",
-      "levelid": "custom_level_115a94788de2fb40afdc5a0bd198eca08b5e80ec"
-    },
-    {
-      "key": "55936",
-      "songName": "Double Barrel Coach Gun",
-      "hash": "aebf425d6d89d26159cc2bca0d73f3466700a63b",
-      "levelid": "custom_level_aebf425d6d89d26159cc2bca0d73f3466700a63b"
-    },
-    {
-      "key": "55935",
-      "songName": "OMORI OST - 180 Fight Your Friends",
-      "hash": "ba7e9bb4413bfe67d790ba997a8965c3e274794c",
-      "levelid": "custom_level_ba7e9bb4413bfe67d790ba997a8965c3e274794c"
-    },
-    {
-      "key": "55933",
-      "songName": "Lag",
-      "hash": "6e1eb25a3859e3ea475c4476df03eb6d73393f31",
-      "levelid": "custom_level_6e1eb25a3859e3ea475c4476df03eb6d73393f31"
+      "key": "55998",
+      "songName": "glaive - stephany",
+      "hash": "05194f6dd998ee67120286e4f8ff43402f9abd34",
+      "levelid": "custom_level_05194f6dd998ee67120286e4f8ff43402f9abd34"
     }
   ],
   "image": ""
