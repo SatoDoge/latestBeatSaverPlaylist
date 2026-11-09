@@ -1,136 +1,274 @@
 {
-  "playlistTitle": "2026-11-07T15:18:47.836Z~2026-11-08T15:18:47.836Z",
+  "playlistTitle": "2026-11-08T15:18:48.348Z~2026-11-09T15:18:48.348Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-11-07T15:18:47.836Z and 2026-11-08T15:18:47.836Z",
+  "discripstion": "Maps published between 2026-11-08T15:18:48.348Z and 2026-11-09T15:18:48.348Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "559e3",
-      "songName": "Juggernaut. -  Akatsuki  [JBSL12 Grand Finals Tiebreaker]",
-      "hash": "de0b9b4be4c241b7800176c60de7735b238f37ad",
-      "levelid": "custom_level_de0b9b4be4c241b7800176c60de7735b238f37ad"
+      "key": "55a4e",
+      "songName": "Kikuo - XxX Cat [DANCE MAP]",
+      "hash": "ba148d22f2c48c3f67bc07a7296f5efc473c2c84",
+      "levelid": "custom_level_ba148d22f2c48c3f67bc07a7296f5efc473c2c84"
     },
     {
-      "key": "559e5",
-      "songName": "FADEAWAY - Bishu",
-      "hash": "87f9b52b232b863e5f908402ef828ae2fb4c0352",
-      "levelid": "custom_level_87f9b52b232b863e5f908402ef828ae2fb4c0352"
+      "key": "55a4c",
+      "songName": "Nanahira - Amor De Verao",
+      "hash": "bb71747f36b79b4dfba49aa77aa36b339c984d57",
+      "levelid": "custom_level_bb71747f36b79b4dfba49aa77aa36b339c984d57"
     },
     {
-      "key": "559e0",
-      "songName": "Teaser",
-      "hash": "8b296ad57fe1f9499221fd381c4f1afb113d4ae4",
-      "levelid": "custom_level_8b296ad57fe1f9499221fd381c4f1afb113d4ae4"
+      "key": "55a4b",
+      "songName": "Pommelien Thijs - Onomatopee",
+      "hash": "5a21d8d52b2193093a4771e19708df9cebd9362c",
+      "levelid": "custom_level_5a21d8d52b2193093a4771e19708df9cebd9362c"
     },
     {
-      "key": "559df",
-      "songName": "STRIKE WITCHES 〜わたしにできること〜 (ストライクウィッチーズ OP)",
-      "hash": "d88f08709292042692a7a0b8886ce02b72d92f85",
-      "levelid": "custom_level_d88f08709292042692a7a0b8886ce02b72d92f85"
+      "key": "55a49",
+      "songName": "Sean thanks his viewers for 1 year",
+      "hash": "05fd0d4c86c89fe0dbe5a8e283beb8a005f7b471",
+      "levelid": "custom_level_05fd0d4c86c89fe0dbe5a8e283beb8a005f7b471"
     },
     {
-      "key": "559de",
-      "songName": "Scop - Clean Freak (covered by Kano)",
-      "hash": "052fd00ba3a179471e1793d7a3c9f848e2bb3625",
-      "levelid": "custom_level_052fd00ba3a179471e1793d7a3c9f848e2bb3625"
+      "key": "55a45",
+      "songName": "The Void - Muse",
+      "hash": "10d2fcbca2c27532ed0f505bc8face2e7dd0e015",
+      "levelid": "custom_level_10d2fcbca2c27532ed0f505bc8face2e7dd0e015"
     },
     {
-      "key": "559db",
-      "songName": "Hai Yorokonde...?(ariiol remix)",
-      "hash": "04a232324ffb2136eb3b6cbd8cc63af2930cce5d",
-      "levelid": "custom_level_04a232324ffb2136eb3b6cbd8cc63af2930cce5d"
+      "key": "55a47",
+      "songName": "Sean says  (Oh Shoot)",
+      "hash": "3ca16b7eb937afa712248c3b2a0996a057450876",
+      "levelid": "custom_level_3ca16b7eb937afa712248c3b2a0996a057450876"
     },
     {
-      "key": "559dc",
-      "songName": "Joji, BENEE - Afterthought",
-      "hash": "b807a03a7479bd432bab80f534d5c6a3d5a8ea54",
-      "levelid": "custom_level_b807a03a7479bd432bab80f534d5c6a3d5a8ea54"
+      "key": "55a3f",
+      "songName": "Danknote - Tributo Gormita",
+      "hash": "229b3d5d241cdf66f2417ebf939ecbe3fec98035",
+      "levelid": "custom_level_229b3d5d241cdf66f2417ebf939ecbe3fec98035"
     },
     {
-      "key": "559d8",
-      "songName": "Tristam - I Remember (Original Mix)",
-      "hash": "0a165327087c1b0582e62318c35971afd3d9d2bb",
-      "levelid": "custom_level_0a165327087c1b0582e62318c35971afd3d9d2bb"
+      "key": "55a44",
+      "songName": "STRIKE WITCHES 2 〜笑顔の魔法〜 (ストライクウィッチーズ2 OP)",
+      "hash": "55b49ae8b3b34cc45e03325d080e2f7b8807e0e9",
+      "levelid": "custom_level_55b49ae8b3b34cc45e03325d080e2f7b8807e0e9"
     },
     {
-      "key": "559d7",
-      "songName": "ericdoa - search & destroy",
-      "hash": "c2df2d67dc699de993cbdfad4d41948856776e34",
-      "levelid": "custom_level_c2df2d67dc699de993cbdfad4d41948856776e34"
+      "key": "55a43",
+      "songName": "東の空から始まる世界",
+      "hash": "d5d0a17635d141ad78a824af08cadbf421851221",
+      "levelid": "custom_level_d5d0a17635d141ad78a824af08cadbf421851221"
     },
     {
-      "key": "55999",
-      "songName": "Love Options",
-      "hash": "5e5eb176176a599f901d4fd756d69288d0233850",
-      "levelid": "custom_level_5e5eb176176a599f901d4fd756d69288d0233850"
+      "key": "55a42",
+      "songName": "Blood Drain - Melty Blood Actress Again Current Code Intro",
+      "hash": "6b0ab0cf2fd71f3319e51f4ab3767b9740e3423b",
+      "levelid": "custom_level_6b0ab0cf2fd71f3319e51f4ab3767b9740e3423b"
     },
     {
-      "key": "559c1",
-      "songName": "Jackson Frost's Beat Practice",
-      "hash": "dafd9efb583a1da18f42628eda17f27fc617a255",
-      "levelid": "custom_level_dafd9efb583a1da18f42628eda17f27fc617a255"
+      "key": "55a41",
+      "songName": "the beast i worship - six impala (The Human Limit)",
+      "hash": "84c3a171e62a6f65ad60c969ce7bbc0a70b3b187",
+      "levelid": "custom_level_84c3a171e62a6f65ad60c969ce7bbc0a70b3b187"
     },
     {
-      "key": "559bc",
-      "songName": "Jumps And BPM Practice",
-      "hash": "de96e43f830ae5370715307271f11b04ec6fce36",
-      "levelid": "custom_level_de96e43f830ae5370715307271f11b04ec6fce36"
+      "key": "55a40",
+      "songName": "Beat Saber Creeper Rap",
+      "hash": "d6f9204a501942417bd206c993fcb00d61015e64",
+      "levelid": "custom_level_d6f9204a501942417bd206c993fcb00d61015e64"
     },
     {
-      "key": "559bb",
-      "songName": "Larping The Rooms (Green Version) || The Larping Tombstone",
-      "hash": "7382af94d83fab46f318129b5b5683ea0ab767a5",
-      "levelid": "custom_level_7382af94d83fab46f318129b5b5683ea0ab767a5"
+      "key": "55a3e",
+      "songName": "Black Blue Bling Blong",
+      "hash": "9d2b43693a6a5c090d1d7e13f5114a213337707c",
+      "levelid": "custom_level_9d2b43693a6a5c090d1d7e13f5114a213337707c"
     },
     {
-      "key": "559ba",
-      "songName": "Tanger - Take Me Higher",
-      "hash": "2bcbd5bb72f8bf158c73240a6bd8f3d47187061e",
-      "levelid": "custom_level_2bcbd5bb72f8bf158c73240a6bd8f3d47187061e"
+      "key": "55a3b",
+      "songName": "the real rice",
+      "hash": "b51010dc601867474541a6e11ee5d5131d07607e",
+      "levelid": "custom_level_b51010dc601867474541a6e11ee5d5131d07607e"
     },
     {
-      "key": "559b9",
-      "songName": "Imperial Circus Dead Decadence - Yuuaku no Inori - Anima immortalis est",
-      "hash": "b8e2acd4f8bdf8353ee05b42fda970ec50685e95",
-      "levelid": "custom_level_b8e2acd4f8bdf8353ee05b42fda970ec50685e95"
+      "key": "55a37",
+      "songName": "Tribbs - Forever (feat. Emilie Rachel)",
+      "hash": "f5911f224179236d1f6d4b033139d6630b1fc22b",
+      "levelid": "custom_level_f5911f224179236d1f6d4b033139d6630b1fc22b"
     },
     {
-      "key": "559b8",
-      "songName": "iiiiiiiiiiiiiiiiiiiiiii [Version 2.0]",
-      "hash": "2bdbeb6b5c2cfbb74dc41306ed2a0b1d21a57d4a",
-      "levelid": "custom_level_2bdbeb6b5c2cfbb74dc41306ed2a0b1d21a57d4a"
+      "key": "55a36",
+      "songName": "rejection - Hypnotize [CHROMA]",
+      "hash": "8fb9df02b52bf7ab9c0b0179e845f7bb9381baf7",
+      "levelid": "custom_level_8fb9df02b52bf7ab9c0b0179e845f7bb9381baf7"
     },
     {
-      "key": "559b7",
-      "songName": "ALL HAIL THE 2ND MIGHT..",
-      "hash": "3e6c593ad1caf56e3213bbdc9315778fb331675a",
-      "levelid": "custom_level_3e6c593ad1caf56e3213bbdc9315778fb331675a"
+      "key": "55a35",
+      "songName": "eahrjjjjjjjjjj",
+      "hash": "ab023ebb82356fe19a1db27b26d2750fbb97ecec",
+      "levelid": "custom_level_ab023ebb82356fe19a1db27b26d2750fbb97ecec"
     },
     {
-      "key": "559af",
-      "songName": "El rap de mini Federico",
-      "hash": "891916618b2d75e32694a9f8f04678d05a67e855",
-      "levelid": "custom_level_891916618b2d75e32694a9f8f04678d05a67e855"
+      "key": "55a33",
+      "songName": "lapix - Primitive Vibes",
+      "hash": "6983fb0d246487d97323a5bcb9f1e1e41090741d",
+      "levelid": "custom_level_6983fb0d246487d97323a5bcb9f1e1e41090741d"
     },
     {
-      "key": "559ae",
-      "songName": "Rosy Retrospection",
-      "hash": "ffe4c3bcc261b6681a33634789b5919c5553b6cc",
-      "levelid": "custom_level_ffe4c3bcc261b6681a33634789b5919c5553b6cc"
+      "key": "55a32",
+      "songName": "Try not to change your wallpaper challenge level: impossible",
+      "hash": "5b8e9ee9ebf0fdd6934de0535208c163a52dfe56",
+      "levelid": "custom_level_5b8e9ee9ebf0fdd6934de0535208c163a52dfe56"
     },
     {
-      "key": "559ad",
-      "songName": "K9 Hemorrhoids - I Totally Do Not Have A Piss Fetish",
-      "hash": "2eac935853fd1e716a5e3969bd2cd6f9743dc5f0",
-      "levelid": "custom_level_2eac935853fd1e716a5e3969bd2cd6f9743dc5f0"
+      "key": "55a30",
+      "songName": "evil hawaiian",
+      "hash": "a9e2f213e66b3bb325a9ba183ed2f34bb667b652",
+      "levelid": "custom_level_a9e2f213e66b3bb325a9ba183ed2f34bb667b652"
     },
     {
-      "key": "55998",
-      "songName": "glaive - stephany",
-      "hash": "05194f6dd998ee67120286e4f8ff43402f9abd34",
-      "levelid": "custom_level_05194f6dd998ee67120286e4f8ff43402f9abd34"
+      "key": "55a2f",
+      "songName": "Horse Kicks Tree, Farts On Dog Then Runs Away",
+      "hash": "b4f4b9d24b061ebb27cfc2c2849e414a6e7e7716",
+      "levelid": "custom_level_b4f4b9d24b061ebb27cfc2c2849e414a6e7e7716"
+    },
+    {
+      "key": "55a2d",
+      "songName": "BEAUZ & XYSM - Bella Ciao",
+      "hash": "93ad9849f19d6fe28d3fe4caa955eece3a0e4819",
+      "levelid": "custom_level_93ad9849f19d6fe28d3fe4caa955eece3a0e4819"
+    },
+    {
+      "key": "55a27",
+      "songName": "Plum - PLUM MEGAMIX 2",
+      "hash": "0c2a88f7e7c9b96afcfddfeec89f18c565f57127",
+      "levelid": "custom_level_0c2a88f7e7c9b96afcfddfeec89f18c565f57127"
+    },
+    {
+      "key": "55a24",
+      "songName": "Revisited",
+      "hash": "3ca10db563cc7526e0d387fc40dabf9a41b9f65a",
+      "levelid": "custom_level_3ca10db563cc7526e0d387fc40dabf9a41b9f65a"
+    },
+    {
+      "key": "55a1e",
+      "songName": "Animal I Have Become - Three Days Grace",
+      "hash": "1feff7526878174f238cf58f8e4e9f323ce00141",
+      "levelid": "custom_level_1feff7526878174f238cf58f8e4e9f323ce00141"
+    },
+    {
+      "key": "55a1d",
+      "songName": "i like the way joz",
+      "hash": "c9f2dcd265d702fc851bdb6ca58dc2914fb72fe4",
+      "levelid": "custom_level_c9f2dcd265d702fc851bdb6ca58dc2914fb72fe4"
+    },
+    {
+      "key": "55a1c",
+      "songName": "Nitro Fun, dnvn & Nito-Onna -if you wanna love me",
+      "hash": "01e69d0842571a5654400d0f12fcf8328f6b277a",
+      "levelid": "custom_level_01e69d0842571a5654400d0f12fcf8328f6b277a"
+    },
+    {
+      "key": "55a1b",
+      "songName": "Best Friends (Higgo remix)",
+      "hash": "ed8470829b552e8aea6553a5c2a403b9ff2de88e",
+      "levelid": "custom_level_ed8470829b552e8aea6553a5c2a403b9ff2de88e"
+    },
+    {
+      "key": "55a1a",
+      "songName": "Won't Miss You (AQ Flora edit)",
+      "hash": "8e768887ff8a34c67075be4bad00c423328ae9ca",
+      "levelid": "custom_level_8e768887ff8a34c67075be4bad00c423328ae9ca"
+    },
+    {
+      "key": "55a19",
+      "songName": "LIGHTS GO OUT",
+      "hash": "3e9394f8f70f3190012a5576578a79888b756a75",
+      "levelid": "custom_level_3e9394f8f70f3190012a5576578a79888b756a75"
+    },
+    {
+      "key": "55a11",
+      "songName": "Big Town Banky Blaine's Rockabilly BBQ",
+      "hash": "7b7d6efb36d1573726e4ec1ce91bb8695a2bc5b3",
+      "levelid": "custom_level_7b7d6efb36d1573726e4ec1ce91bb8695a2bc5b3"
+    },
+    {
+      "key": "55a10",
+      "songName": "DA BIGGEST BIRD",
+      "hash": "dd3dfde46fdbe58b304f722fd6834d4a9d6d6038",
+      "levelid": "custom_level_dd3dfde46fdbe58b304f722fd6834d4a9d6d6038"
+    },
+    {
+      "key": "53670",
+      "songName": "WHAT YOU WANT",
+      "hash": "d0908b8b2b0fc72b5d98703b1695369201feeb3e",
+      "levelid": "custom_level_d0908b8b2b0fc72b5d98703b1695369201feeb3e"
+    },
+    {
+      "key": "55a06",
+      "songName": "mthu - its like im not even here",
+      "hash": "39e349e8bf09f82898f7a21e7cbb988352b59404",
+      "levelid": "custom_level_39e349e8bf09f82898f7a21e7cbb988352b59404"
+    },
+    {
+      "key": "55a04",
+      "songName": "LeaF - Yobikomi Shoji Theme Song",
+      "hash": "3160b61a63fcbc741cba3c638a5ff0e1f56a5e1f",
+      "levelid": "custom_level_3160b61a63fcbc741cba3c638a5ff0e1f56a5e1f"
+    },
+    {
+      "key": "559fc",
+      "songName": "Gummibär - I'm A Gummy Bear",
+      "hash": "a1971a20a9f2a558f904e68e200f31a52e6a671e",
+      "levelid": "custom_level_a1971a20a9f2a558f904e68e200f31a52e6a671e"
+    },
+    {
+      "key": "559fa",
+      "songName": "Laur - LOCO",
+      "hash": "c6999908d35db46b8c0aff75b29c3c140f1b0a2c",
+      "levelid": "custom_level_c6999908d35db46b8c0aff75b29c3c140f1b0a2c"
+    },
+    {
+      "key": "559f9",
+      "songName": "Ariana Grande - Like I Do",
+      "hash": "d65042f3a6eab6834fe6e04ebede8b29339cb8d9",
+      "levelid": "custom_level_d65042f3a6eab6834fe6e04ebede8b29339cb8d9"
+    },
+    {
+      "key": "559f6",
+      "songName": "KATSEYE - Hootie Frutti",
+      "hash": "744902e6ce65b18c63a4838fe0896100a7f98da8",
+      "levelid": "custom_level_744902e6ce65b18c63a4838fe0896100a7f98da8"
+    },
+    {
+      "key": "559eb",
+      "songName": "Decalius - Misanthropy",
+      "hash": "3059ab424a3b6b0c24a68036ddbb836aedbd41ef",
+      "levelid": "custom_level_3059ab424a3b6b0c24a68036ddbb836aedbd41ef"
+    },
+    {
+      "key": "559ec",
+      "songName": "Yuusha",
+      "hash": "356277054dd71cb11aa2d9e8b0d9654e0eb28639",
+      "levelid": "custom_level_356277054dd71cb11aa2d9e8b0d9654e0eb28639"
+    },
+    {
+      "key": "559ea",
+      "songName": "Anytime Anywhere",
+      "hash": "a4b3b25ee62353e5458bcbff64e0b7fd1b053e54",
+      "levelid": "custom_level_a4b3b25ee62353e5458bcbff64e0b7fd1b053e54"
+    },
+    {
+      "key": "559e7",
+      "songName": " Empty old City - Looma",
+      "hash": "55fae5fcb1550436efd12edcdd154e003b16eb1f",
+      "levelid": "custom_level_55fae5fcb1550436efd12edcdd154e003b16eb1f"
+    },
+    {
+      "key": "559e6",
+      "songName": "Lucky ✩ Hakken",
+      "hash": "463e3a91af11619232e932da44eb64d1a30bc469",
+      "levelid": "custom_level_463e3a91af11619232e932da44eb64d1a30bc469"
     }
   ],
   "image": ""
