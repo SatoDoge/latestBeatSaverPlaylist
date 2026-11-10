@@ -1,274 +1,226 @@
 {
-  "playlistTitle": "2026-11-08T15:18:48.348Z~2026-11-09T15:18:48.348Z",
+  "playlistTitle": "2026-11-09T15:18:48.125Z~2026-11-10T15:18:48.125Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-11-08T15:18:48.348Z and 2026-11-09T15:18:48.348Z",
+  "discripstion": "Maps published between 2026-11-09T15:18:48.125Z and 2026-11-10T15:18:48.125Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "55a4e",
-      "songName": "Kikuo - XxX Cat [DANCE MAP]",
-      "hash": "ba148d22f2c48c3f67bc07a7296f5efc473c2c84",
-      "levelid": "custom_level_ba148d22f2c48c3f67bc07a7296f5efc473c2c84"
+      "key": "55ab2",
+      "songName": "The Hand",
+      "hash": "b6f270cdd4692b7c317072207f54012df3f77282",
+      "levelid": "custom_level_b6f270cdd4692b7c317072207f54012df3f77282"
     },
     {
-      "key": "55a4c",
-      "songName": "Nanahira - Amor De Verao",
-      "hash": "bb71747f36b79b4dfba49aa77aa36b339c984d57",
-      "levelid": "custom_level_bb71747f36b79b4dfba49aa77aa36b339c984d57"
+      "key": "55ab4",
+      "songName": "MORE MORE JUMP! - だめにんげんだ!",
+      "hash": "2336169f34eea22b50c577736bc78e4eb8b3c55c",
+      "levelid": "custom_level_2336169f34eea22b50c577736bc78e4eb8b3c55c"
     },
     {
-      "key": "55a4b",
-      "songName": "Pommelien Thijs - Onomatopee",
-      "hash": "5a21d8d52b2193093a4771e19708df9cebd9362c",
-      "levelid": "custom_level_5a21d8d52b2193093a4771e19708df9cebd9362c"
+      "key": "55ab3",
+      "songName": "HOYO-MiX -  Link Up",
+      "hash": "723064cf907876f27d3b0b48bbbcde8f7b0bb4f1",
+      "levelid": "custom_level_723064cf907876f27d3b0b48bbbcde8f7b0bb4f1"
     },
     {
-      "key": "55a49",
-      "songName": "Sean thanks his viewers for 1 year",
-      "hash": "05fd0d4c86c89fe0dbe5a8e283beb8a005f7b471",
-      "levelid": "custom_level_05fd0d4c86c89fe0dbe5a8e283beb8a005f7b471"
+      "key": "55ab0",
+      "songName": "Cash Betaald - Ome Thoom",
+      "hash": "63392c40fb621b0c9e7ae4a9db05eea87c118aca",
+      "levelid": "custom_level_63392c40fb621b0c9e7ae4a9db05eea87c118aca"
     },
     {
-      "key": "55a45",
-      "songName": "The Void - Muse",
-      "hash": "10d2fcbca2c27532ed0f505bc8face2e7dd0e015",
-      "levelid": "custom_level_10d2fcbca2c27532ed0f505bc8face2e7dd0e015"
+      "key": "55aaf",
+      "songName": "Houshou Marine & Kobo Kanaeru - I I I",
+      "hash": "04c3da9840a22fbbe53b589b7614edea41e247a8",
+      "levelid": "custom_level_04c3da9840a22fbbe53b589b7614edea41e247a8"
     },
     {
-      "key": "55a47",
-      "songName": "Sean says  (Oh Shoot)",
-      "hash": "3ca16b7eb937afa712248c3b2a0996a057450876",
-      "levelid": "custom_level_3ca16b7eb937afa712248c3b2a0996a057450876"
+      "key": "55aac",
+      "songName": "stasis - Schwank",
+      "hash": "5272f5c489d2fb9b6636e4dde3ff8e4a4418b254",
+      "levelid": "custom_level_5272f5c489d2fb9b6636e4dde3ff8e4a4418b254"
     },
     {
-      "key": "55a3f",
-      "songName": "Danknote - Tributo Gormita",
-      "hash": "229b3d5d241cdf66f2417ebf939ecbe3fec98035",
-      "levelid": "custom_level_229b3d5d241cdf66f2417ebf939ecbe3fec98035"
+      "key": "55aab",
+      "songName": "enveel - 2:00",
+      "hash": "ca6ac8f12a63258932c220df21830d7da0af2c90",
+      "levelid": "custom_level_ca6ac8f12a63258932c220df21830d7da0af2c90"
     },
     {
-      "key": "55a44",
-      "songName": "STRIKE WITCHES 2 〜笑顔の魔法〜 (ストライクウィッチーズ2 OP)",
-      "hash": "55b49ae8b3b34cc45e03325d080e2f7b8807e0e9",
-      "levelid": "custom_level_55b49ae8b3b34cc45e03325d080e2f7b8807e0e9"
+      "key": "55aaa",
+      "songName": "Make That Body",
+      "hash": "f42b990e5bb01a4f2a6bd85d7107761719c5c330",
+      "levelid": "custom_level_f42b990e5bb01a4f2a6bd85d7107761719c5c330"
     },
     {
-      "key": "55a43",
-      "songName": "東の空から始まる世界",
-      "hash": "d5d0a17635d141ad78a824af08cadbf421851221",
-      "levelid": "custom_level_d5d0a17635d141ad78a824af08cadbf421851221"
+      "key": "55aa9",
+      "songName": "Ride or Die",
+      "hash": "116e63cff8d537c8ab7dc971d4c32b7946649aab",
+      "levelid": "custom_level_116e63cff8d537c8ab7dc971d4c32b7946649aab"
     },
     {
-      "key": "55a42",
-      "songName": "Blood Drain - Melty Blood Actress Again Current Code Intro",
-      "hash": "6b0ab0cf2fd71f3319e51f4ab3767b9740e3423b",
-      "levelid": "custom_level_6b0ab0cf2fd71f3319e51f4ab3767b9740e3423b"
+      "key": "55aa8",
+      "songName": "MOVE! (We Keep It Movin')",
+      "hash": "dc8456234323ca7440c97d45f050aa7fc867350b",
+      "levelid": "custom_level_dc8456234323ca7440c97d45f050aa7fc867350b"
     },
     {
-      "key": "55a41",
-      "songName": "the beast i worship - six impala (The Human Limit)",
-      "hash": "84c3a171e62a6f65ad60c969ce7bbc0a70b3b187",
-      "levelid": "custom_level_84c3a171e62a6f65ad60c969ce7bbc0a70b3b187"
+      "key": "55aa7",
+      "songName": "F4SH10N",
+      "hash": "4151635f75ef5a040c191d9268587bb3bda81515",
+      "levelid": "custom_level_4151635f75ef5a040c191d9268587bb3bda81515"
     },
     {
-      "key": "55a40",
-      "songName": "Beat Saber Creeper Rap",
-      "hash": "d6f9204a501942417bd206c993fcb00d61015e64",
-      "levelid": "custom_level_d6f9204a501942417bd206c993fcb00d61015e64"
+      "key": "55aa1",
+      "songName": "Connect Link (ストライクウィッチーズ Operation Victory Arrow OP)",
+      "hash": "5be5dca9f0a214a9a439a33191dd4296924a09d8",
+      "levelid": "custom_level_5be5dca9f0a214a9a439a33191dd4296924a09d8"
     },
     {
-      "key": "55a3e",
-      "songName": "Black Blue Bling Blong",
-      "hash": "9d2b43693a6a5c090d1d7e13f5114a213337707c",
-      "levelid": "custom_level_9d2b43693a6a5c090d1d7e13f5114a213337707c"
+      "key": "55a9c",
+      "songName": "[FITBEAT] Worth It - Fifth Harmony (ft. Kid Ink)",
+      "hash": "886170e4b435e3491ad5d446e65faf174b1b657f",
+      "levelid": "custom_level_886170e4b435e3491ad5d446e65faf174b1b657f"
     },
     {
-      "key": "55a3b",
-      "songName": "the real rice",
-      "hash": "b51010dc601867474541a6e11ee5d5131d07607e",
-      "levelid": "custom_level_b51010dc601867474541a6e11ee5d5131d07607e"
+      "key": "55a9b",
+      "songName": "Syuenn - trickmaster",
+      "hash": "6d2605e4eb03eb43ad37c12a7d5d4b7cb7c83b6a",
+      "levelid": "custom_level_6d2605e4eb03eb43ad37c12a7d5d4b7cb7c83b6a"
     },
     {
-      "key": "55a37",
-      "songName": "Tribbs - Forever (feat. Emilie Rachel)",
-      "hash": "f5911f224179236d1f6d4b033139d6630b1fc22b",
-      "levelid": "custom_level_f5911f224179236d1f6d4b033139d6630b1fc22b"
+      "key": "55a9a",
+      "songName": "test",
+      "hash": "27c3ac106c1d1b3360fe831f18c14b08b8f06c86",
+      "levelid": "custom_level_27c3ac106c1d1b3360fe831f18c14b08b8f06c86"
     },
     {
-      "key": "55a36",
-      "songName": "rejection - Hypnotize [CHROMA]",
-      "hash": "8fb9df02b52bf7ab9c0b0179e845f7bb9381baf7",
-      "levelid": "custom_level_8fb9df02b52bf7ab9c0b0179e845f7bb9381baf7"
+      "key": "55a98",
+      "songName": "Hearts2Hearts - Candy Box Lover",
+      "hash": "c576a7d14f347da2867d2b6a0e1b1cdd8000c0a1",
+      "levelid": "custom_level_c576a7d14f347da2867d2b6a0e1b1cdd8000c0a1"
     },
     {
-      "key": "55a35",
-      "songName": "eahrjjjjjjjjjj",
-      "hash": "ab023ebb82356fe19a1db27b26d2750fbb97ecec",
-      "levelid": "custom_level_ab023ebb82356fe19a1db27b26d2750fbb97ecec"
+      "key": "55a96",
+      "songName": "Hearts2Hearts - Next Chapter",
+      "hash": "064d37147cfd1b49fafe4dc1e1865d7dadea8c85",
+      "levelid": "custom_level_064d37147cfd1b49fafe4dc1e1865d7dadea8c85"
     },
     {
-      "key": "55a33",
-      "songName": "lapix - Primitive Vibes",
-      "hash": "6983fb0d246487d97323a5bcb9f1e1e41090741d",
-      "levelid": "custom_level_6983fb0d246487d97323a5bcb9f1e1e41090741d"
+      "key": "55a95",
+      "songName": "BINI - Cherry On Top",
+      "hash": "daf5c4cce0d2fc04d0e7e3ab5f51521811f8f6c6",
+      "levelid": "custom_level_daf5c4cce0d2fc04d0e7e3ab5f51521811f8f6c6"
     },
     {
-      "key": "55a32",
-      "songName": "Try not to change your wallpaper challenge level: impossible",
-      "hash": "5b8e9ee9ebf0fdd6934de0535208c163a52dfe56",
-      "levelid": "custom_level_5b8e9ee9ebf0fdd6934de0535208c163a52dfe56"
+      "key": "55a94",
+      "songName": "Saitama 2000",
+      "hash": "113d9a626e22e04241595d5c2c19c3eced7055a5",
+      "levelid": "custom_level_113d9a626e22e04241595d5c2c19c3eced7055a5"
     },
     {
-      "key": "55a30",
-      "songName": "evil hawaiian",
-      "hash": "a9e2f213e66b3bb325a9ba183ed2f34bb667b652",
-      "levelid": "custom_level_a9e2f213e66b3bb325a9ba183ed2f34bb667b652"
+      "key": "55a8d",
+      "songName": "TETHERED",
+      "hash": "5dc88679937d3d8bde6506bc6169a5cc233a054a",
+      "levelid": "custom_level_5dc88679937d3d8bde6506bc6169a5cc233a054a"
     },
     {
-      "key": "55a2f",
-      "songName": "Horse Kicks Tree, Farts On Dog Then Runs Away",
-      "hash": "b4f4b9d24b061ebb27cfc2c2849e414a6e7e7716",
-      "levelid": "custom_level_b4f4b9d24b061ebb27cfc2c2849e414a6e7e7716"
+      "key": "55a8b",
+      "songName": "Phonk boiii REEEE",
+      "hash": "3a761db3d0c3a9ba204c3f47e3de68b3adb2803b",
+      "levelid": "custom_level_3a761db3d0c3a9ba204c3f47e3de68b3adb2803b"
     },
     {
-      "key": "55a2d",
-      "songName": "BEAUZ & XYSM - Bella Ciao",
-      "hash": "93ad9849f19d6fe28d3fe4caa955eece3a0e4819",
-      "levelid": "custom_level_93ad9849f19d6fe28d3fe4caa955eece3a0e4819"
+      "key": "55a81",
+      "songName": "Wonder Parade (1.1x)",
+      "hash": "0507b69c2cac779b23040801aedd6820bc700394",
+      "levelid": "custom_level_0507b69c2cac779b23040801aedd6820bc700394"
     },
     {
-      "key": "55a27",
-      "songName": "Plum - PLUM MEGAMIX 2",
-      "hash": "0c2a88f7e7c9b96afcfddfeec89f18c565f57127",
-      "levelid": "custom_level_0c2a88f7e7c9b96afcfddfeec89f18c565f57127"
+      "key": "55a7a",
+      "songName": "10minutes",
+      "hash": "069c27e7a342bfe90aec63ee1408973bfd1a62c7",
+      "levelid": "custom_level_069c27e7a342bfe90aec63ee1408973bfd1a62c7"
     },
     {
-      "key": "55a24",
-      "songName": "Revisited",
-      "hash": "3ca10db563cc7526e0d387fc40dabf9a41b9f65a",
-      "levelid": "custom_level_3ca10db563cc7526e0d387fc40dabf9a41b9f65a"
+      "key": "55a77",
+      "songName": "Danse Macabre",
+      "hash": "37ba3dbfdc10448c2f9b3d8b8cb58fef3aaf827f",
+      "levelid": "custom_level_37ba3dbfdc10448c2f9b3d8b8cb58fef3aaf827f"
     },
     {
-      "key": "55a1e",
-      "songName": "Animal I Have Become - Three Days Grace",
-      "hash": "1feff7526878174f238cf58f8e4e9f323ce00141",
-      "levelid": "custom_level_1feff7526878174f238cf58f8e4e9f323ce00141"
+      "key": "55a78",
+      "songName": "Homebrew Channel Theme",
+      "hash": "f66f31e87f349122ff4e5ec8ef80b7bc4dcc8571",
+      "levelid": "custom_level_f66f31e87f349122ff4e5ec8ef80b7bc4dcc8571"
     },
     {
-      "key": "55a1d",
-      "songName": "i like the way joz",
-      "hash": "c9f2dcd265d702fc851bdb6ca58dc2914fb72fe4",
-      "levelid": "custom_level_c9f2dcd265d702fc851bdb6ca58dc2914fb72fe4"
+      "key": "55a6e",
+      "songName": "4K - El Alfa x Darell x Noriel",
+      "hash": "be4e65121d6e473a9b9d01902eaf63494ac37cd5",
+      "levelid": "custom_level_be4e65121d6e473a9b9d01902eaf63494ac37cd5"
     },
     {
-      "key": "55a1c",
-      "songName": "Nitro Fun, dnvn & Nito-Onna -if you wanna love me",
-      "hash": "01e69d0842571a5654400d0f12fcf8328f6b277a",
-      "levelid": "custom_level_01e69d0842571a5654400d0f12fcf8328f6b277a"
+      "key": "55a6d",
+      "songName": "How To Pick Up A Duck",
+      "hash": "a1611658bc2838d955c8797ab4e1d0e108375557",
+      "levelid": "custom_level_a1611658bc2838d955c8797ab4e1d0e108375557"
     },
     {
-      "key": "55a1b",
-      "songName": "Best Friends (Higgo remix)",
-      "hash": "ed8470829b552e8aea6553a5c2a403b9ff2de88e",
-      "levelid": "custom_level_ed8470829b552e8aea6553a5c2a403b9ff2de88e"
+      "key": "55a6c",
+      "songName": "Drive - moa moa",
+      "hash": "e9ed3bc1947c53c4d07c415f18bfa82a46c66744",
+      "levelid": "custom_level_e9ed3bc1947c53c4d07c415f18bfa82a46c66744"
     },
     {
-      "key": "55a1a",
-      "songName": "Won't Miss You (AQ Flora edit)",
-      "hash": "8e768887ff8a34c67075be4bad00c423328ae9ca",
-      "levelid": "custom_level_8e768887ff8a34c67075be4bad00c423328ae9ca"
+      "key": "55a66",
+      "songName": "KILL KARL - NOT MY FUCKIN' PROBLEM",
+      "hash": "f690f572d81dda79ab918e7e9bdf86024d321575",
+      "levelid": "custom_level_f690f572d81dda79ab918e7e9bdf86024d321575"
     },
     {
-      "key": "55a19",
-      "songName": "LIGHTS GO OUT",
-      "hash": "3e9394f8f70f3190012a5576578a79888b756a75",
-      "levelid": "custom_level_3e9394f8f70f3190012a5576578a79888b756a75"
+      "key": "55a60",
+      "songName": "eve - Avant",
+      "hash": "bdc13e70c51794b99a6a2cfb0d1a47e1420d6270",
+      "levelid": "custom_level_bdc13e70c51794b99a6a2cfb0d1a47e1420d6270"
     },
     {
-      "key": "55a11",
-      "songName": "Big Town Banky Blaine's Rockabilly BBQ",
-      "hash": "7b7d6efb36d1573726e4ec1ce91bb8695a2bc5b3",
-      "levelid": "custom_level_7b7d6efb36d1573726e4ec1ce91bb8695a2bc5b3"
+      "key": "55a5e",
+      "songName": "Twin Tribes - Monolith",
+      "hash": "2105905bb2405cb6e5a266ab86ad22e6813839af",
+      "levelid": "custom_level_2105905bb2405cb6e5a266ab86ad22e6813839af"
     },
     {
-      "key": "55a10",
-      "songName": "DA BIGGEST BIRD",
-      "hash": "dd3dfde46fdbe58b304f722fd6834d4a9d6d6038",
-      "levelid": "custom_level_dd3dfde46fdbe58b304f722fd6834d4a9d6d6038"
+      "key": "55a5d",
+      "songName": "sega73, cee, isiah - cunning rhythm game furry vs vibro player",
+      "hash": "1b94f1d258ce3c2a567dee16f91ca812698ae35b",
+      "levelid": "custom_level_1b94f1d258ce3c2a567dee16f91ca812698ae35b"
     },
     {
-      "key": "53670",
-      "songName": "WHAT YOU WANT",
-      "hash": "d0908b8b2b0fc72b5d98703b1695369201feeb3e",
-      "levelid": "custom_level_d0908b8b2b0fc72b5d98703b1695369201feeb3e"
+      "key": "5581c",
+      "songName": "Sagenbringer - Bragis Flöte",
+      "hash": "3f66b4d28f54c9184cc6ebf7bf8b6b2618c7f9af",
+      "levelid": "custom_level_3f66b4d28f54c9184cc6ebf7bf8b6b2618c7f9af"
     },
     {
-      "key": "55a06",
-      "songName": "mthu - its like im not even here",
-      "hash": "39e349e8bf09f82898f7a21e7cbb988352b59404",
-      "levelid": "custom_level_39e349e8bf09f82898f7a21e7cbb988352b59404"
+      "key": "55a5c",
+      "songName": "Beat Saber with NO CONTROLLERS",
+      "hash": "ec3bedba6d5f9641870bbee36c29c5ea7ddcc604",
+      "levelid": "custom_level_ec3bedba6d5f9641870bbee36c29c5ea7ddcc604"
     },
     {
-      "key": "55a04",
-      "songName": "LeaF - Yobikomi Shoji Theme Song",
-      "hash": "3160b61a63fcbc741cba3c638a5ff0e1f56a5e1f",
-      "levelid": "custom_level_3160b61a63fcbc741cba3c638a5ff0e1f56a5e1f"
+      "key": "55a58",
+      "songName": "DEEPSEA",
+      "hash": "4f189248abb14f8e46327d8ea16fc16d4782dbff",
+      "levelid": "custom_level_4f189248abb14f8e46327d8ea16fc16d4782dbff"
     },
     {
-      "key": "559fc",
-      "songName": "Gummibär - I'm A Gummy Bear",
-      "hash": "a1971a20a9f2a558f904e68e200f31a52e6a671e",
-      "levelid": "custom_level_a1971a20a9f2a558f904e68e200f31a52e6a671e"
-    },
-    {
-      "key": "559fa",
-      "songName": "Laur - LOCO",
-      "hash": "c6999908d35db46b8c0aff75b29c3c140f1b0a2c",
-      "levelid": "custom_level_c6999908d35db46b8c0aff75b29c3c140f1b0a2c"
-    },
-    {
-      "key": "559f9",
-      "songName": "Ariana Grande - Like I Do",
-      "hash": "d65042f3a6eab6834fe6e04ebede8b29339cb8d9",
-      "levelid": "custom_level_d65042f3a6eab6834fe6e04ebede8b29339cb8d9"
-    },
-    {
-      "key": "559f6",
-      "songName": "KATSEYE - Hootie Frutti",
-      "hash": "744902e6ce65b18c63a4838fe0896100a7f98da8",
-      "levelid": "custom_level_744902e6ce65b18c63a4838fe0896100a7f98da8"
-    },
-    {
-      "key": "559eb",
-      "songName": "Decalius - Misanthropy",
-      "hash": "3059ab424a3b6b0c24a68036ddbb836aedbd41ef",
-      "levelid": "custom_level_3059ab424a3b6b0c24a68036ddbb836aedbd41ef"
-    },
-    {
-      "key": "559ec",
-      "songName": "Yuusha",
-      "hash": "356277054dd71cb11aa2d9e8b0d9654e0eb28639",
-      "levelid": "custom_level_356277054dd71cb11aa2d9e8b0d9654e0eb28639"
-    },
-    {
-      "key": "559ea",
-      "songName": "Anytime Anywhere",
-      "hash": "a4b3b25ee62353e5458bcbff64e0b7fd1b053e54",
-      "levelid": "custom_level_a4b3b25ee62353e5458bcbff64e0b7fd1b053e54"
-    },
-    {
-      "key": "559e7",
-      "songName": " Empty old City - Looma",
-      "hash": "55fae5fcb1550436efd12edcdd154e003b16eb1f",
-      "levelid": "custom_level_55fae5fcb1550436efd12edcdd154e003b16eb1f"
-    },
-    {
-      "key": "559e6",
-      "songName": "Lucky ✩ Hakken",
-      "hash": "463e3a91af11619232e932da44eb64d1a30bc469",
-      "levelid": "custom_level_463e3a91af11619232e932da44eb64d1a30bc469"
+      "key": "55a53",
+      "songName": "Darren Styles & Stonebank - Sky Is Falling (feat. EMEL)",
+      "hash": "b030bb52d7f01ca19e29056b9139d18072584ffb",
+      "levelid": "custom_level_b030bb52d7f01ca19e29056b9139d18072584ffb"
     }
   ],
   "image": ""
