@@ -1,190 +1,166 @@
 {
-  "playlistTitle": "2026-11-10T15:18:48.263Z~2026-11-11T15:18:48.263Z",
+  "playlistTitle": "2026-11-11T15:18:48.160Z~2026-11-12T15:18:48.160Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-11-10T15:18:48.263Z and 2026-11-11T15:18:48.263Z",
+  "discripstion": "Maps published between 2026-11-11T15:18:48.160Z and 2026-11-12T15:18:48.160Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "55b08",
-      "songName": "Raveyard",
-      "hash": "52f72aec6b84cb150ffa560895e28ee2365c51be",
-      "levelid": "custom_level_52f72aec6b84cb150ffa560895e28ee2365c51be"
+      "key": "55b42",
+      "songName": "AUGGHH / AHHHHH sound effect",
+      "hash": "feaab6a2bcd32cdaa02d3465e3f5273219bc99fa",
+      "levelid": "custom_level_feaab6a2bcd32cdaa02d3465e3f5273219bc99fa"
     },
     {
-      "key": "55b07",
-      "songName": "The Cardigans - Been It",
-      "hash": "df2e4d762c8d3bd57a1786133f36b3c7d7f34ea2",
-      "levelid": "custom_level_df2e4d762c8d3bd57a1786133f36b3c7d7f34ea2"
+      "key": "55b41",
+      "songName": "Deathblow",
+      "hash": "a964c363b46c0945df6f5183beb8e5ad79a51f8e",
+      "levelid": "custom_level_a964c363b46c0945df6f5183beb8e5ad79a51f8e"
     },
     {
-      "key": "55b01",
-      "songName": "Middle Milk, Anna Timgren - Mash",
-      "hash": "6f80cecd0535bd3cea86b1fba6e698ef4089524b",
-      "levelid": "custom_level_6f80cecd0535bd3cea86b1fba6e698ef4089524b"
+      "key": "55b40",
+      "songName": "This Love ",
+      "hash": "34dfa06047e78e2f3610f38c7ca5b03a25cc6141",
+      "levelid": "custom_level_34dfa06047e78e2f3610f38c7ca5b03a25cc6141"
     },
     {
-      "key": "55b00",
-      "songName": "Middle Milk, Anna Timgren - Teriyaki",
-      "hash": "e52091ce7cb22cb06e411b6b2c904e2a3c9387de",
-      "levelid": "custom_level_e52091ce7cb22cb06e411b6b2c904e2a3c9387de"
+      "key": "55b3f",
+      "songName": "Hikaru Utada - anata (Fukuoka no Shachiku remix)",
+      "hash": "07264ef69a6cc77421d3600697ed1bb9f938e1eb",
+      "levelid": "custom_level_07264ef69a6cc77421d3600697ed1bb9f938e1eb"
     },
     {
-      "key": "55b02",
-      "songName": "Rancid - Maxwell Murder",
-      "hash": "f836adff628da0c7d05b9b1139731bf277c843db",
-      "levelid": "custom_level_f836adff628da0c7d05b9b1139731bf277c843db"
+      "key": "55b3d",
+      "songName": "タッチ -Cute Rock Mix- / Re-wire Retro",
+      "hash": "76690c6abf62b3ebc7e849db1c60a8392534849b",
+      "levelid": "custom_level_76690c6abf62b3ebc7e849db1c60a8392534849b"
     },
     {
-      "key": "55b03",
-      "songName": "Watanabe Misato - My Revolution",
-      "hash": "9b0872a2dd1ecde960a9f07a661cfb7b888d2c7f",
-      "levelid": "custom_level_9b0872a2dd1ecde960a9f07a661cfb7b888d2c7f"
+      "key": "55b3c",
+      "songName": "The Beach Episode - Kindrid Remix",
+      "hash": "db18582132fd931106dd9c3ff8a2f73c0eb1606d",
+      "levelid": "custom_level_db18582132fd931106dd9c3ff8a2f73c0eb1606d"
     },
     {
-      "key": "55afe",
-      "songName": "Middle Milk, Anna Timgren - Zing It Up",
-      "hash": "884c240cf21dcc702cd05483f16f57f43cea740d",
-      "levelid": "custom_level_884c240cf21dcc702cd05483f16f57f43cea740d"
+      "key": "55b3b",
+      "songName": "空が呼ぶほうへ (ストライクウィッチーズ 501部隊発進しますっ! OP)",
+      "hash": "afe47a6ca1c0e1faf1b5ff00d7799a67581d88ed",
+      "levelid": "custom_level_afe47a6ca1c0e1faf1b5ff00d7799a67581d88ed"
     },
     {
-      "key": "55afd",
-      "songName": "Middle Milk, Anna Timgren - Good Time",
-      "hash": "ff2dfca6daf93dd97a223a6b9c51ea34ba3e60d8",
-      "levelid": "custom_level_ff2dfca6daf93dd97a223a6b9c51ea34ba3e60d8"
+      "key": "55b3a",
+      "songName": "Part - XI",
+      "hash": "f611b0a30a530c60a7044529e44c14e07982ef06",
+      "levelid": "custom_level_f611b0a30a530c60a7044529e44c14e07982ef06"
     },
     {
-      "key": "55afc",
-      "songName": "Cry - Trivecta Remix Gryffin, John Martin feat. Trivecta",
-      "hash": "ef8f1ed3d757bb0bfc28ac094bdab1347acd270b",
-      "levelid": "custom_level_ef8f1ed3d757bb0bfc28ac094bdab1347acd270b"
+      "key": "55b36",
+      "songName": "Back to Life - Hugel",
+      "hash": "ac3b7ac878e695b8c43c0a44f312089ca508bdbf",
+      "levelid": "custom_level_ac3b7ac878e695b8c43c0a44f312089ca508bdbf"
     },
     {
-      "key": "55af5",
-      "songName": "アシタノツバサ (ブレイブウィッチーズ OP)",
-      "hash": "8d993677a6722322e2a67f5ebd331e85ee00ee26",
-      "levelid": "custom_level_8d993677a6722322e2a67f5ebd331e85ee00ee26"
+      "key": "55b35",
+      "songName": "CRYSTALS - PR1SVX",
+      "hash": "5d5d3bc2593e14deb3c4aeb2b66eed7272a08df5",
+      "levelid": "custom_level_5d5d3bc2593e14deb3c4aeb2b66eed7272a08df5"
     },
     {
-      "key": "55af4",
-      "songName": "W smile",
-      "hash": "9c1afa94bec8046a42df65d25947886f47401114",
-      "levelid": "custom_level_9c1afa94bec8046a42df65d25947886f47401114"
+      "key": "55b33",
+      "songName": "19ZZ",
+      "hash": "13f9e2da106ca004267fe905162da1c706633edf",
+      "levelid": "custom_level_13f9e2da106ca004267fe905162da1c706633edf"
     },
     {
-      "key": "55af1",
-      "songName": "分野",
-      "hash": "5830e3adf450e9c15703623a1c0e4f42d6e3e649",
-      "levelid": "custom_level_5830e3adf450e9c15703623a1c0e4f42d6e3e649"
+      "key": "55b30",
+      "songName": "joe bans an \"innocent\" chatter",
+      "hash": "76133ba623d634219aed55da85ab9e66e1ffaa6b",
+      "levelid": "custom_level_76133ba623d634219aed55da85ab9e66e1ffaa6b"
     },
     {
-      "key": "55af0",
-      "songName": "Level Cleared!",
-      "hash": "44277080bf42a2f24fc87d30e51df5f9cbc7217c",
-      "levelid": "custom_level_44277080bf42a2f24fc87d30e51df5f9cbc7217c"
+      "key": "55b2f",
+      "songName": "I cant handle change (1.5x) (2:39)",
+      "hash": "58e18425a9c7198021b26ece9a0d357de302b100",
+      "levelid": "custom_level_58e18425a9c7198021b26ece9a0d357de302b100"
     },
     {
-      "key": "55aef",
-      "songName": "hi ",
-      "hash": "9d29aa2a46db6b995b91b61b859ed7ee4f1b2c5e",
-      "levelid": "custom_level_9d29aa2a46db6b995b91b61b859ed7ee4f1b2c5e"
+      "key": "55b2e",
+      "songName": "MOAI",
+      "hash": "22bd8001f79442c808c3e21db3e43d3cd57d1fe8",
+      "levelid": "custom_level_22bd8001f79442c808c3e21db3e43d3cd57d1fe8"
     },
     {
-      "key": "55aed",
-      "songName": "DJKurara - Japanese Transformation",
-      "hash": "00995a9a5595139490cc956fd07ad768aa14ce54",
-      "levelid": "custom_level_00995a9a5595139490cc956fd07ad768aa14ce54"
+      "key": "55b28",
+      "songName": "t+pazolite - Garakuta Doll Play (uncut edition)",
+      "hash": "f1148d50fea58ee486c49cacec14a2e684e58c47",
+      "levelid": "custom_level_f1148d50fea58ee486c49cacec14a2e684e58c47"
     },
     {
-      "key": "55ae3",
-      "songName": "Good Riddance (Green Day) ",
-      "hash": "4083720bf45478b8e3bfc4def28906a8f4553721",
-      "levelid": "custom_level_4083720bf45478b8e3bfc4def28906a8f4553721"
+      "key": "55b23",
+      "songName": "Punai Punai Taiso",
+      "hash": "c0d3702ec0b6cdbc1b7d5e917f9264ceb96a467f",
+      "levelid": "custom_level_c0d3702ec0b6cdbc1b7d5e917f9264ceb96a467f"
     },
     {
-      "key": "55adf",
-      "songName": "Joost - Everyday Everyday",
-      "hash": "5326669e1c03ee2ff9fd615ddc7b390adaaa74c7",
-      "levelid": "custom_level_5326669e1c03ee2ff9fd615ddc7b390adaaa74c7"
+      "key": "55b1b",
+      "songName": "Ian Asher - Way Too Self Aware",
+      "hash": "ec8c1f78c682a1a68534584f5d8c9ba3be6af2ab",
+      "levelid": "custom_level_ec8c1f78c682a1a68534584f5d8c9ba3be6af2ab"
     },
     {
-      "key": "55ade",
-      "songName": "You Vs Kaleidoscope",
-      "hash": "bfd433627cb0a0fb2ba1bd8a0fb1b7e59f8c0a86",
-      "levelid": "custom_level_bfd433627cb0a0fb2ba1bd8a0fb1b7e59f8c0a86"
+      "key": "55b1d",
+      "songName": "FISH",
+      "hash": "cc62f47548d4c3d6fe14605a5ad20358c73ef875",
+      "levelid": "custom_level_cc62f47548d4c3d6fe14605a5ad20358c73ef875"
     },
     {
-      "key": "55adc",
+      "key": "55b1a",
+      "songName": "All In - Alien Stage",
+      "hash": "ba629a7f094a44d76a3045d2c3906262aba47f41",
+      "levelid": "custom_level_ba629a7f094a44d76a3045d2c3906262aba47f41"
+    },
+    {
+      "key": "55b16",
+      "songName": "Casualty",
+      "hash": "ad4676f1b75d83b62bf36a70d2921b8061d4a86d",
+      "levelid": "custom_level_ad4676f1b75d83b62bf36a70d2921b8061d4a86d"
+    },
+    {
+      "key": "55b14",
+      "songName": "rush e",
+      "hash": "9604bd887bdc4f98f6b17e8380322a21a5e55e8a",
+      "levelid": "custom_level_9604bd887bdc4f98f6b17e8380322a21a5e55e8a"
+    },
+    {
+      "key": "55b15",
+      "songName": "Yuta Imai - G.H.O.S.T. ",
+      "hash": "cd21f24a00e56bf64d82e4bd1a841dbbf4c1e0b7",
+      "levelid": "custom_level_cd21f24a00e56bf64d82e4bd1a841dbbf4c1e0b7"
+    },
+    {
+      "key": "55b13",
+      "songName": "Stay Calm (CaseOh Cover)",
+      "hash": "c3a5c1b31c47283e00de45522227d72f94ce6762",
+      "levelid": "custom_level_c3a5c1b31c47283e00de45522227d72f94ce6762"
+    },
+    {
+      "key": "55b12",
       "songName": "Me.coM",
-      "hash": "630007cb10129c1763d83b70f2cb1966cc99c6a9",
-      "levelid": "custom_level_630007cb10129c1763d83b70f2cb1966cc99c6a9"
+      "hash": "e78b54ab1297d7aabd425c1f522e4f5b6696bf67",
+      "levelid": "custom_level_e78b54ab1297d7aabd425c1f522e4f5b6696bf67"
     },
     {
-      "key": "55ad5",
-      "songName": "Kyu-kurarin",
-      "hash": "57dd7fc707b176f05b9e39086adb7c59cbbcde26",
-      "levelid": "custom_level_57dd7fc707b176f05b9e39086adb7c59cbbcde26"
+      "key": "55b0d",
+      "songName": "A Fool Moon Night",
+      "hash": "193d5b8afab6a83411ead062af8b74ca86542457",
+      "levelid": "custom_level_193d5b8afab6a83411ead062af8b74ca86542457"
     },
     {
-      "key": "55ad3",
-      "songName": "Elle Cordova - Side Effects",
-      "hash": "acffcfcc0211fc5edd0e9eac5ef6ebf97ff0d603",
-      "levelid": "custom_level_acffcfcc0211fc5edd0e9eac5ef6ebf97ff0d603"
-    },
-    {
-      "key": "55ad2",
-      "songName": "Yeah boy ",
-      "hash": "a2e76c619520c01b6cbb5d492fa2eba4074d8232",
-      "levelid": "custom_level_a2e76c619520c01b6cbb5d492fa2eba4074d8232"
-    },
-    {
-      "key": "55ad1",
-      "songName": "I Like Bananas",
-      "hash": "42874eae88b2e1d01079992ce87e6c7c4b459304",
-      "levelid": "custom_level_42874eae88b2e1d01079992ce87e6c7c4b459304"
-    },
-    {
-      "key": "55ace",
-      "songName": "Eve, Psyche, and Bluebeard's Wife - LE SSERAFIM",
-      "hash": "39aa6e2b3dd08899beca7205aa977dd6ca17ef21",
-      "levelid": "custom_level_39aa6e2b3dd08899beca7205aa977dd6ca17ef21"
-    },
-    {
-      "key": "55ac9",
-      "songName": "Dialtone ",
-      "hash": "031e7ff8c3a3ef29bf500240d84f2e49b107e984",
-      "levelid": "custom_level_031e7ff8c3a3ef29bf500240d84f2e49b107e984"
-    },
-    {
-      "key": "55ac5",
-      "songName": "YELLOW YELLOW HAPPY",
-      "hash": "e174d7a840270bf440f48c219633d136c2b630bf",
-      "levelid": "custom_level_e174d7a840270bf440f48c219633d136c2b630bf"
-    },
-    {
-      "key": "55ac0",
-      "songName": "ericdoa - do ya?",
-      "hash": "cfbb1253c54f2f107778aab4f83414aefaa17fa6",
-      "levelid": "custom_level_cfbb1253c54f2f107778aab4f83414aefaa17fa6"
-    },
-    {
-      "key": "55abf",
-      "songName": "brakence - crystalized",
-      "hash": "3138f2db73ba9bd6638852194de2010e832be18d",
-      "levelid": "custom_level_3138f2db73ba9bd6638852194de2010e832be18d"
-    },
-    {
-      "key": "55abd",
-      "songName": "Tomoya Tomita - Shy But Deadly (From \"Yoshi's Woolly World\")",
-      "hash": "2a76f5f2c66c5de34abee31b977d8c56e5faa81e",
-      "levelid": "custom_level_2a76f5f2c66c5de34abee31b977d8c56e5faa81e"
-    },
-    {
-      "key": "55aba",
-      "songName": "I Like To Move It_TorsoAlt Demo",
-      "hash": "faa310deac14e9e98a493c02940d4f718aabcef2",
-      "levelid": "custom_level_faa310deac14e9e98a493c02940d4f718aabcef2"
+      "key": "55b0b",
+      "songName": "I Wanna Know Where My Wood Is",
+      "hash": "299308ec5cd3541e10b9360d9e1b540ec5f6e82d",
+      "levelid": "custom_level_299308ec5cd3541e10b9360d9e1b540ec5f6e82d"
     }
   ],
   "image": ""
