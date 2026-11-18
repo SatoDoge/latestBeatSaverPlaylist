@@ -1,178 +1,196 @@
 {
-  "playlistTitle": "2026-11-16T15:18:48.317Z~2026-11-17T15:18:48.317Z",
+  "playlistTitle": "2026-11-17T15:18:48.444Z~2026-11-18T15:18:48.444Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-11-16T15:18:48.317Z and 2026-11-17T15:18:48.317Z",
+  "discripstion": "Maps published between 2026-11-17T15:18:48.444Z and 2026-11-18T15:18:48.444Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "55d3b",
-      "songName": "Vestia Zeta - RADIO:ON",
-      "hash": "3902ec2bceda29e8bab77c1e6e7c4ded03b99ece",
-      "levelid": "custom_level_3902ec2bceda29e8bab77c1e6e7c4ded03b99ece"
+      "key": "55d95",
+      "songName": "Twenty One Pilots - Drum Show",
+      "hash": "629674c476a9627eafcef3f3bbacb3f0f488ff1c",
+      "levelid": "custom_level_629674c476a9627eafcef3f3bbacb3f0f488ff1c"
     },
     {
-      "key": "55d3a",
-      "songName": "TAK - ‘numb numb’ feat. 初音ミク、重音テト",
-      "hash": "e852c52c30f883d1a626b23502fb10643bab828f",
-      "levelid": "custom_level_e852c52c30f883d1a626b23502fb10643bab828f"
+      "key": "55d8f",
+      "songName": "MiiNDS - BRAINCELLS",
+      "hash": "a54239df1d5e4b3e5fc1379bf5ceed3eb558b06a",
+      "levelid": "custom_level_a54239df1d5e4b3e5fc1379bf5ceed3eb558b06a"
     },
     {
-      "key": "55d2f",
-      "songName": "わかし・さわがし・スカパンク - 初星学園",
-      "hash": "7a7c05076217d5dd9e37f5c729e86928aeede4be",
-      "levelid": "custom_level_7a7c05076217d5dd9e37f5c729e86928aeede4be"
+      "key": "55d8e",
+      "songName": "timmies (Feat. Shiloh Dynasty) - Tell Me Why I'm Waiting (Cartendo Edit)",
+      "hash": "cce01c33040f6b733bae6da646d510a2bfa32fdd",
+      "levelid": "custom_level_cce01c33040f6b733bae6da646d510a2bfa32fdd"
     },
     {
-      "key": "55d36",
-      "songName": "1000%キュンキュンさせてよ♥ (プリティーリズム オーロラドリーム OP2)",
-      "hash": "3d678e191d5adb8ab8c634bf269b4cd1506d01ae",
-      "levelid": "custom_level_3d678e191d5adb8ab8c634bf269b4cd1506d01ae"
+      "key": "55d8d",
+      "songName": "To Die For (Instrumental) - The Lion King Soundtrack (Disney)",
+      "hash": "a951e4acb296ef02e5cb641a7032aa942609daee",
+      "levelid": "custom_level_a951e4acb296ef02e5cb641a7032aa942609daee"
     },
     {
-      "key": "55d34",
-      "songName": ".co",
-      "hash": "2456d6cb0dff8664ecb78d52e6b3051d78a3d862",
-      "levelid": "custom_level_2456d6cb0dff8664ecb78d52e6b3051d78a3d862"
+      "key": "55d88",
+      "songName": "BOY MEETS GIRL (プリティーリズム・レインボーライブ OP)",
+      "hash": "5983c3d28a3ad64829ff676c8a6dd2159c17483b",
+      "levelid": "custom_level_5983c3d28a3ad64829ff676c8a6dd2159c17483b"
     },
     {
-      "key": "55d35",
-      "songName": "Text",
-      "hash": "c6a39de2866dc7eecc904546b3459f003452dd76",
-      "levelid": "custom_level_c6a39de2866dc7eecc904546b3459f003452dd76"
+      "key": "55d83",
+      "songName": "underscores - Spoiled little brat",
+      "hash": "6a8efba3b30605c8d5c4a44f434a23271c82ba6e",
+      "levelid": "custom_level_6a8efba3b30605c8d5c4a44f434a23271c82ba6e"
     },
     {
-      "key": "55d30",
-      "songName": "Illenium, Said The Sky - Walk Me Home (ft. Chelsea Cutler)",
-      "hash": "9d43a849e230dcc18ef72df55f33364114a7a7d9",
-      "levelid": "custom_level_9d43a849e230dcc18ef72df55f33364114a7a7d9"
+      "key": "55d82",
+      "songName": "The Strokes - The Adults Are Talking",
+      "hash": "83d3c8f84f1f5eebecfbcdb2506231e056ba048d",
+      "levelid": "custom_level_83d3c8f84f1f5eebecfbcdb2506231e056ba048d"
     },
     {
-      "key": "55d2a",
-      "songName": "going hard",
-      "hash": "c45e771eb97be2a613203d5f18ad4d112453d296",
-      "levelid": "custom_level_c45e771eb97be2a613203d5f18ad4d112453d296"
+      "key": "55d7c",
+      "songName": "Fall Out Boy - ACES",
+      "hash": "78440f34dd523b037a19d9b9f17e56f5695468d7",
+      "levelid": "custom_level_78440f34dd523b037a19d9b9f17e56f5695468d7"
     },
     {
-      "key": "55d2e",
-      "songName": "Stolen From Each Other",
-      "hash": "313190b5c8a62ea44ae1fc2855e918a4f7efccad",
-      "levelid": "custom_level_313190b5c8a62ea44ae1fc2855e918a4f7efccad"
+      "key": "55d7a",
+      "songName": "Pattern Recognition ",
+      "hash": "d43f138fd542cae8c5909a0eda002dc82d8e8a81",
+      "levelid": "custom_level_d43f138fd542cae8c5909a0eda002dc82d8e8a81"
     },
     {
-      "key": "55d2d",
-      "songName": "Yxkull",
-      "hash": "af856f3319c6c6087658c16e25c3d64629d49cd1",
-      "levelid": "custom_level_af856f3319c6c6087658c16e25c3d64629d49cd1"
+      "key": "55d74",
+      "songName": "Blacklolita - escape from everything (edgii's \"I was too lazy to map the rest of the song 2 years ago\" cut)",
+      "hash": "a1060cfcd12c6ddf0188948d91792ad9dda8a0e8",
+      "levelid": "custom_level_a1060cfcd12c6ddf0188948d91792ad9dda8a0e8"
     },
     {
-      "key": "55d2c",
-      "songName": "I Can't See - joz",
-      "hash": "c2675a33c9d8a0df50e19f16210b7c7ed949bba1",
-      "levelid": "custom_level_c2675a33c9d8a0df50e19f16210b7c7ed949bba1"
+      "key": "55d72",
+      "songName": "Snowscape",
+      "hash": "30b98d563b3a9370f7c8873c126b2896d70cd60a",
+      "levelid": "custom_level_30b98d563b3a9370f7c8873c126b2896d70cd60a"
     },
     {
-      "key": "55d29",
-      "songName": "reallerr - clarity in EIGHT different genres",
-      "hash": "e6358dd1e219bade2dd783b42d0bd4e22d3b1f37",
-      "levelid": "custom_level_e6358dd1e219bade2dd783b42d0bd4e22d3b1f37"
+      "key": "55d70",
+      "songName": "P!nk - Don't Let Me Get Me",
+      "hash": "a46b51337908c7089a9a19070937b2afd6001329",
+      "levelid": "custom_level_a46b51337908c7089a9a19070937b2afd6001329"
     },
     {
-      "key": "55d27",
-      "songName": "Asaniel - ELEKTRiK-HiWΛY【Cube Rebels Dual H. Division Tiebreaker】",
-      "hash": "f54daf4d0a8de3a6be37b22d4e097b2c43b92835",
-      "levelid": "custom_level_f54daf4d0a8de3a6be37b22d4e097b2c43b92835"
+      "key": "55d6f",
+      "songName": "Avioanele Americane - Florin Salam",
+      "hash": "4b04b33b28cee7b2aa92ef0135a7080570030005",
+      "levelid": "custom_level_4b04b33b28cee7b2aa92ef0135a7080570030005"
     },
     {
-      "key": "55d24",
-      "songName": "idk who invented diaracore but i sure as hell did",
-      "hash": "72f4e13a71a16936df2dd35966a213ef3b15b44d",
-      "levelid": "custom_level_72f4e13a71a16936df2dd35966a213ef3b15b44d"
+      "key": "55d6e",
+      "songName": "Saint Tropez - Florin Salam",
+      "hash": "79fe650b5c9d6948cfe7fc745a3d20d8aff497e1",
+      "levelid": "custom_level_79fe650b5c9d6948cfe7fc745a3d20d8aff497e1"
     },
     {
-      "key": "55d21",
-      "songName": "Outasight - The Bounce",
-      "hash": "874be988e47b8cc901ecda8c673fc3d95ccb8c0e",
-      "levelid": "custom_level_874be988e47b8cc901ecda8c673fc3d95ccb8c0e"
+      "key": "55d6d",
+      "songName": "Așa sunt zilele mele - Adrian Minune",
+      "hash": "be0c61d65916839a4a3280b8b317501081539d09",
+      "levelid": "custom_level_be0c61d65916839a4a3280b8b317501081539d09"
     },
     {
-      "key": "55d1e",
-      "songName": "いらっしゃいませ!",
-      "hash": "9aa7d15a97044527e4d74cf7a80f211c75ed424d",
-      "levelid": "custom_level_9aa7d15a97044527e4d74cf7a80f211c75ed424d"
+      "key": "55d6c",
+      "songName": "Marshmellow - Happier",
+      "hash": "6a8c5792b08afcbcef5ff8e04272d9bcc09c95e0",
+      "levelid": "custom_level_6a8c5792b08afcbcef5ff8e04272d9bcc09c95e0"
     },
     {
-      "key": "55d1c",
-      "songName": "Zendaya - Replay ",
-      "hash": "fba0b4d1465cbd9c4997aa76444dcdc6d48a9ff9",
-      "levelid": "custom_level_fba0b4d1465cbd9c4997aa76444dcdc6d48a9ff9"
+      "key": "55d6b",
+      "songName": "F4R3W3LL ST3LL4R B0DY",
+      "hash": "47cc0faa0d4825bf3562326cfa6c9ec46542cfbc",
+      "levelid": "custom_level_47cc0faa0d4825bf3562326cfa6c9ec46542cfbc"
     },
     {
-      "key": "55d1b",
-      "songName": "Adopt me scammer 2",
-      "hash": "635c504897d9ed8ee9a21ca3e9a36a8419717f60",
-      "levelid": "custom_level_635c504897d9ed8ee9a21ca3e9a36a8419717f60"
+      "key": "55d69",
+      "songName": "Jaroslav Beck - LUDICROUS+",
+      "hash": "a00891b6abf750fba6442b157bd14516df8b0f99",
+      "levelid": "custom_level_a00891b6abf750fba6442b157bd14516df8b0f99"
     },
     {
-      "key": "55d17",
-      "songName": "inoqx - BURDEN",
-      "hash": "e8df583697b802d0b63d13190d3151d0971db58e",
-      "levelid": "custom_level_e8df583697b802d0b63d13190d3151d0971db58e"
+      "key": "55d66",
+      "songName": "The Poppy Family - Where Evil Grows (feat. Terry Jacks & Susan Jacks)",
+      "hash": "44270d30ea9435ffacab5440d0702b1fb7094b72",
+      "levelid": "custom_level_44270d30ea9435ffacab5440d0702b1fb7094b72"
     },
     {
-      "key": "55d0f",
-      "songName": "koyori - Like-Love Climaxitis (covered by Momone Chinoi)",
-      "hash": "b09ef3fe0f8da7b52e5afd4438cb42e5533e5999",
-      "levelid": "custom_level_b09ef3fe0f8da7b52e5afd4438cb42e5533e5999"
+      "key": "55d59",
+      "songName": "Sheldon Lee Cooper U Doggg",
+      "hash": "2df13d241559752524c6ffbf13164b5986508b03",
+      "levelid": "custom_level_2df13d241559752524c6ffbf13164b5986508b03"
     },
     {
-      "key": "55d0d",
-      "songName": "This is what I'm  documenting for a second.",
-      "hash": "b2e1039d98d4758e0daab1e7867316ecd192486d",
-      "levelid": "custom_level_b2e1039d98d4758e0daab1e7867316ecd192486d"
+      "key": "559e1",
+      "songName": "WOAH",
+      "hash": "6770d8be2e39e1400c94609826b4e55a4a46edda",
+      "levelid": "custom_level_6770d8be2e39e1400c94609826b4e55a4a46edda"
     },
     {
-      "key": "55d0a",
-      "songName": "Join the Party - FNAF World Rap",
-      "hash": "a4dfb49c3ae958795cc58b2790c1de283102a199",
-      "levelid": "custom_level_a4dfb49c3ae958795cc58b2790c1de283102a199"
+      "key": "55d57",
+      "songName": "Heavenly wii Theme 🔥🥹",
+      "hash": "f7a75e18af06fc64ba4f89efbc6c0e22fd697877",
+      "levelid": "custom_level_f7a75e18af06fc64ba4f89efbc6c0e22fd697877"
     },
     {
-      "key": "55d09",
-      "songName": "Said The Sky - Right Here",
-      "hash": "173e69bd078598b62bbc1a0ae61be0aa5eb285c1",
-      "levelid": "custom_level_173e69bd078598b62bbc1a0ae61be0aa5eb285c1"
+      "key": "55d56",
+      "songName": "Too Sweet | Trinix, The Macarons Project",
+      "hash": "40579d22f5e4be1c585ececeb89eb4f68888438d",
+      "levelid": "custom_level_40579d22f5e4be1c585ececeb89eb4f68888438d"
     },
     {
-      "key": "55d08",
-      "songName": "SANity Krush",
-      "hash": "ca48200cfa7d49cfc3cc46f340485a8e14a513bb",
-      "levelid": "custom_level_ca48200cfa7d49cfc3cc46f340485a8e14a513bb"
+      "key": "55d55",
+      "songName": "Young Multi, Marceli - AK47",
+      "hash": "cb56af965ac3896721afeb071dadd8eb60efac13",
+      "levelid": "custom_level_cb56af965ac3896721afeb071dadd8eb60efac13"
     },
     {
-      "key": "55d04",
-      "songName": "Camellia - GALAXY BURST",
-      "hash": "bf6d3fa22f4766cb1aaa05dbf12f13f60ae8cc7b",
-      "levelid": "custom_level_bf6d3fa22f4766cb1aaa05dbf12f13f60ae8cc7b"
+      "key": "55d4e",
+      "songName": "As Hard As It Gets",
+      "hash": "347adc255d3f2f4138be7e2b15fa147a1ec13d83",
+      "levelid": "custom_level_347adc255d3f2f4138be7e2b15fa147a1ec13d83"
     },
     {
-      "key": "55d02",
-      "songName": "Feels Good",
-      "hash": "c9b46541a9c52969ed3f877a8a5dfb0602eacbf9",
-      "levelid": "custom_level_c9b46541a9c52969ed3f877a8a5dfb0602eacbf9"
+      "key": "55d4c",
+      "songName": "what a shame",
+      "hash": "904b238bf75defc2e4f46590475b7bd5ae9fa66c",
+      "levelid": "custom_level_904b238bf75defc2e4f46590475b7bd5ae9fa66c"
     },
     {
-      "key": "55cfe",
-      "songName": "雨爱",
-      "hash": "d847ccecbde8aeeda7fcc83d64d83053b6a3a60e",
-      "levelid": "custom_level_d847ccecbde8aeeda7fcc83d64d83053b6a3a60e"
+      "key": "55d49",
+      "songName": "Doodle Bear",
+      "hash": "e21bdbb29350de47aefae7f181701eb46e578e30",
+      "levelid": "custom_level_e21bdbb29350de47aefae7f181701eb46e578e30"
     },
     {
-      "key": "55cfb",
-      "songName": "jozin z bazin",
-      "hash": "aff04a8f2a57b82c6fbc6473f4dc736b898c7fda",
-      "levelid": "custom_level_aff04a8f2a57b82c6fbc6473f4dc736b898c7fda"
+      "key": "55d4a",
+      "songName": "Girls' Generation - Into The New World",
+      "hash": "fa5f9dcb8c67519866c193aaa9aa99722443e72f",
+      "levelid": "custom_level_fa5f9dcb8c67519866c193aaa9aa99722443e72f"
+    },
+    {
+      "key": "55d3f",
+      "songName": "Fresh Steam Water    (Nature)",
+      "hash": "8e49d35aa083af95bbd41fb599637d8a6a827d28",
+      "levelid": "custom_level_8e49d35aa083af95bbd41fb599637d8a6a827d28"
+    },
+    {
+      "key": "55d3e",
+      "songName": "Steam Life  (Nature)",
+      "hash": "a539d040f0f5c3d46e13ce17b62224942c1dbdc9",
+      "levelid": "custom_level_a539d040f0f5c3d46e13ce17b62224942c1dbdc9"
+    },
+    {
+      "key": "55d3d",
+      "songName": "ALONE",
+      "hash": "955a490376415d2af95870e74dd3322c7b134262",
+      "levelid": "custom_level_955a490376415d2af95870e74dd3322c7b134262"
     }
   ],
   "image": ""
