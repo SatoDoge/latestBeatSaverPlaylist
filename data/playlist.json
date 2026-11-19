@@ -1,196 +1,370 @@
 {
-  "playlistTitle": "2026-11-17T15:18:48.444Z~2026-11-18T15:18:48.444Z",
+  "playlistTitle": "2026-11-18T15:18:48.274Z~2026-11-19T15:18:48.274Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-11-17T15:18:48.444Z and 2026-11-18T15:18:48.444Z",
+  "discripstion": "Maps published between 2026-11-18T15:18:48.274Z and 2026-11-19T15:18:48.274Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "55d95",
-      "songName": "Twenty One Pilots - Drum Show",
-      "hash": "629674c476a9627eafcef3f3bbacb3f0f488ff1c",
-      "levelid": "custom_level_629674c476a9627eafcef3f3bbacb3f0f488ff1c"
+      "key": "55d7f",
+      "songName": "w.i.v - home",
+      "hash": "73fb759bec0e0e19389b96302d8a026d8181732b",
+      "levelid": "custom_level_73fb759bec0e0e19389b96302d8a026d8181732b"
     },
     {
-      "key": "55d8f",
-      "songName": "MiiNDS - BRAINCELLS",
-      "hash": "a54239df1d5e4b3e5fc1379bf5ceed3eb558b06a",
-      "levelid": "custom_level_a54239df1d5e4b3e5fc1379bf5ceed3eb558b06a"
+      "key": "55ddb",
+      "songName": "[vivid/stasis Map Pack] Lundy - bardess :Ø: of the future",
+      "hash": "b6b664e85f0c466a6e022b5d91d0ebca9301e3c5",
+      "levelid": "custom_level_b6b664e85f0c466a6e022b5d91d0ebca9301e3c5"
     },
     {
-      "key": "55d8e",
-      "songName": "timmies (Feat. Shiloh Dynasty) - Tell Me Why I'm Waiting (Cartendo Edit)",
-      "hash": "cce01c33040f6b733bae6da646d510a2bfa32fdd",
-      "levelid": "custom_level_cce01c33040f6b733bae6da646d510a2bfa32fdd"
+      "key": "55cc9",
+      "songName": "Lusumi- See You Move [vivid/stasis Map Pack]",
+      "hash": "798be1fadb9df75df4ad2c93798440568acdac06",
+      "levelid": "custom_level_798be1fadb9df75df4ad2c93798440568acdac06"
     },
     {
-      "key": "55d8d",
-      "songName": "To Die For (Instrumental) - The Lion King Soundtrack (Disney)",
-      "hash": "a951e4acb296ef02e5cb641a7032aa942609daee",
-      "levelid": "custom_level_a951e4acb296ef02e5cb641a7032aa942609daee"
+      "key": "55cc7",
+      "songName": "iosun - lost contact [vivid/stasis Map Pack]",
+      "hash": "1e9e5f45e284aab8f4f44c935ccb7e9312060544",
+      "levelid": "custom_level_1e9e5f45e284aab8f4f44c935ccb7e9312060544"
     },
     {
-      "key": "55d88",
-      "songName": "BOY MEETS GIRL (プリティーリズム・レインボーライブ OP)",
-      "hash": "5983c3d28a3ad64829ff676c8a6dd2159c17483b",
-      "levelid": "custom_level_5983c3d28a3ad64829ff676c8a6dd2159c17483b"
+      "key": "55dd8",
+      "songName": "GhostDragon - Replicating",
+      "hash": "3400175d61091b15bf927bb0283d2671aa0b0d55",
+      "levelid": "custom_level_3400175d61091b15bf927bb0283d2671aa0b0d55"
     },
     {
-      "key": "55d83",
-      "songName": "underscores - Spoiled little brat",
-      "hash": "6a8efba3b30605c8d5c4a44f434a23271c82ba6e",
-      "levelid": "custom_level_6a8efba3b30605c8d5c4a44f434a23271c82ba6e"
+      "key": "55dd7",
+      "songName": "djeb - bloody departure",
+      "hash": "f03dbed211646dea0f10e1642ca793698bfd3645",
+      "levelid": "custom_level_f03dbed211646dea0f10e1642ca793698bfd3645"
     },
     {
-      "key": "55d82",
-      "songName": "The Strokes - The Adults Are Talking",
-      "hash": "83d3c8f84f1f5eebecfbcdb2506231e056ba048d",
-      "levelid": "custom_level_83d3c8f84f1f5eebecfbcdb2506231e056ba048d"
+      "key": "55dd6",
+      "songName": "Drazically - E:RULER DISC",
+      "hash": "a05ac933eedb6541cb82f86555643caad34cee1b",
+      "levelid": "custom_level_a05ac933eedb6541cb82f86555643caad34cee1b"
     },
     {
-      "key": "55d7c",
-      "songName": "Fall Out Boy - ACES",
-      "hash": "78440f34dd523b037a19d9b9f17e56f5695468d7",
-      "levelid": "custom_level_78440f34dd523b037a19d9b9f17e56f5695468d7"
+      "key": "55ce1",
+      "songName": " [vivid/stasis Map Pack] Irissu - Un-TECHNiCAL Reason",
+      "hash": "6ed62766e10c5a83dcf241564eba4e4e6f9c71c7",
+      "levelid": "custom_level_6ed62766e10c5a83dcf241564eba4e4e6f9c71c7"
     },
     {
-      "key": "55d7a",
-      "songName": "Pattern Recognition ",
-      "hash": "d43f138fd542cae8c5909a0eda002dc82d8e8a81",
-      "levelid": "custom_level_d43f138fd542cae8c5909a0eda002dc82d8e8a81"
+      "key": "55dd5",
+      "songName": "vervid! - nullbreak [vivid/stasis Map Pack]",
+      "hash": "febaf7216a17eae911099d29161792fc7691e2e2",
+      "levelid": "custom_level_febaf7216a17eae911099d29161792fc7691e2e2"
     },
     {
-      "key": "55d74",
-      "songName": "Blacklolita - escape from everything (edgii's \"I was too lazy to map the rest of the song 2 years ago\" cut)",
-      "hash": "a1060cfcd12c6ddf0188948d91792ad9dda8a0e8",
-      "levelid": "custom_level_a1060cfcd12c6ddf0188948d91792ad9dda8a0e8"
+      "key": "55dc6",
+      "songName": "[vivid/stasis Map Pack] they - Яeboot (Reboot)",
+      "hash": "91365886380e979f43391e1aac9c6297f0adea51",
+      "levelid": "custom_level_91365886380e979f43391e1aac9c6297f0adea51"
     },
     {
-      "key": "55d72",
-      "songName": "Snowscape",
-      "hash": "30b98d563b3a9370f7c8873c126b2896d70cd60a",
-      "levelid": "custom_level_30b98d563b3a9370f7c8873c126b2896d70cd60a"
+      "key": "55dc1",
+      "songName": "[vivid/stasis Map Pack] Type R - Ione",
+      "hash": "7da2d73a429a743570d2ca07511654bef58aef27",
+      "levelid": "custom_level_7da2d73a429a743570d2ca07511654bef58aef27"
     },
     {
-      "key": "55d70",
-      "songName": "P!nk - Don't Let Me Get Me",
-      "hash": "a46b51337908c7089a9a19070937b2afd6001329",
-      "levelid": "custom_level_a46b51337908c7089a9a19070937b2afd6001329"
+      "key": "55dbe",
+      "songName": "[vivid/stasis Map Pack] Thiuth - _",
+      "hash": "9ed7317939829822b446cf421a70f50b7c23a183",
+      "levelid": "custom_level_9ed7317939829822b446cf421a70f50b7c23a183"
     },
     {
-      "key": "55d6f",
-      "songName": "Avioanele Americane - Florin Salam",
-      "hash": "4b04b33b28cee7b2aa92ef0135a7080570030005",
-      "levelid": "custom_level_4b04b33b28cee7b2aa92ef0135a7080570030005"
+      "key": "55ce2",
+      "songName": "[vivid/stasis Map Pack] Attoclef vs [-^v-] - Nightshade",
+      "hash": "e92183cb727aa0fe71544382b858e6b837163e01",
+      "levelid": "custom_level_e92183cb727aa0fe71544382b858e6b837163e01"
     },
     {
-      "key": "55d6e",
-      "songName": "Saint Tropez - Florin Salam",
-      "hash": "79fe650b5c9d6948cfe7fc745a3d20d8aff497e1",
-      "levelid": "custom_level_79fe650b5c9d6948cfe7fc745a3d20d8aff497e1"
+      "key": "55dbd",
+      "songName": "[vivid/stasis Map Pack] Sh0wtime - ALLIEVERWANTED",
+      "hash": "54335fc6bfb835b9d13590c3206435bb48672534",
+      "levelid": "custom_level_54335fc6bfb835b9d13590c3206435bb48672534"
     },
     {
-      "key": "55d6d",
-      "songName": "Așa sunt zilele mele - Adrian Minune",
-      "hash": "be0c61d65916839a4a3280b8b317501081539d09",
-      "levelid": "custom_level_be0c61d65916839a4a3280b8b317501081539d09"
+      "key": "55cfc",
+      "songName": "[vivid/stasis Map Pack] f2 - Ǝvanisce:əntiA",
+      "hash": "af7c8f8056032bfc5cc489c4005e5832b9b41361",
+      "levelid": "custom_level_af7c8f8056032bfc5cc489c4005e5832b9b41361"
     },
     {
-      "key": "55d6c",
-      "songName": "Marshmellow - Happier",
-      "hash": "6a8c5792b08afcbcef5ff8e04272d9bcc09c95e0",
-      "levelid": "custom_level_6a8c5792b08afcbcef5ff8e04272d9bcc09c95e0"
+      "key": "55d87",
+      "songName": "[vivid/stasis Map Pack] - tailspun - Bloom in Two",
+      "hash": "0d31ab535a59363657253209e3579d242608650c",
+      "levelid": "custom_level_0d31ab535a59363657253209e3579d242608650c"
     },
     {
-      "key": "55d6b",
-      "songName": "F4R3W3LL ST3LL4R B0DY",
-      "hash": "47cc0faa0d4825bf3562326cfa6c9ec46542cfbc",
-      "levelid": "custom_level_47cc0faa0d4825bf3562326cfa6c9ec46542cfbc"
+      "key": "55d8c",
+      "songName": "[vivid/stasis Map Pack] Kry.exe - Last Wish (vivid/stasis ver.)",
+      "hash": "447d1196c52e94959660f50ff0f47475a99167e5",
+      "levelid": "custom_level_447d1196c52e94959660f50ff0f47475a99167e5"
     },
     {
-      "key": "55d69",
-      "songName": "Jaroslav Beck - LUDICROUS+",
-      "hash": "a00891b6abf750fba6442b157bd14516df8b0f99",
-      "levelid": "custom_level_a00891b6abf750fba6442b157bd14516df8b0f99"
+      "key": "55d85",
+      "songName": "(Vivid/Stasis Pack) CONVERGENCE - A-Saph vs. Irissu vs. mrcool909090",
+      "hash": "bb0a3de6ec9d0efab88cd0ef6d221f4ac4404ea4",
+      "levelid": "custom_level_bb0a3de6ec9d0efab88cd0ef6d221f4ac4404ea4"
     },
     {
-      "key": "55d66",
-      "songName": "The Poppy Family - Where Evil Grows (feat. Terry Jacks & Susan Jacks)",
-      "hash": "44270d30ea9435ffacab5440d0702b1fb7094b72",
-      "levelid": "custom_level_44270d30ea9435ffacab5440d0702b1fb7094b72"
+      "key": "55d84",
+      "songName": "(Vivid/Stasis Pack) APØCALYPSE CALL - Theatrum Calamititus",
+      "hash": "2542cb4df48c98c4b2512c6d281325cd01414d09",
+      "levelid": "custom_level_2542cb4df48c98c4b2512c6d281325cd01414d09"
     },
     {
-      "key": "55d59",
-      "songName": "Sheldon Lee Cooper U Doggg",
-      "hash": "2df13d241559752524c6ffbf13164b5986508b03",
-      "levelid": "custom_level_2df13d241559752524c6ffbf13164b5986508b03"
+      "key": "55d51",
+      "songName": "[vivid/stasis Map Pack] Lorph & Elexia - Shattered Sky After Rain",
+      "hash": "b25ce4cb6596b0731e831b7da9c147791d7a7568",
+      "levelid": "custom_level_b25ce4cb6596b0731e831b7da9c147791d7a7568"
     },
     {
-      "key": "559e1",
-      "songName": "WOAH",
-      "hash": "6770d8be2e39e1400c94609826b4e55a4a46edda",
-      "levelid": "custom_level_6770d8be2e39e1400c94609826b4e55a4a46edda"
+      "key": "55d32",
+      "songName": "[vivid/stasis Map Pack] Altermis - Voltage Strike",
+      "hash": "fbb9a4df765c37de5aee82d2e1df379008f4cf00",
+      "levelid": "custom_level_fbb9a4df765c37de5aee82d2e1df379008f4cf00"
     },
     {
-      "key": "55d57",
-      "songName": "Heavenly wii Theme 🔥🥹",
-      "hash": "f7a75e18af06fc64ba4f89efbc6c0e22fd697877",
-      "levelid": "custom_level_f7a75e18af06fc64ba4f89efbc6c0e22fd697877"
+      "key": "55d05",
+      "songName": "[vivid/stasis Map Pack] KAMIKOTO - ULTiM∀TUM",
+      "hash": "211e892858f5990277f1c5ae50170a6d90dfc987",
+      "levelid": "custom_level_211e892858f5990277f1c5ae50170a6d90dfc987"
     },
     {
-      "key": "55d56",
-      "songName": "Too Sweet | Trinix, The Macarons Project",
-      "hash": "40579d22f5e4be1c585ececeb89eb4f68888438d",
-      "levelid": "custom_level_40579d22f5e4be1c585ececeb89eb4f68888438d"
+      "key": "55d06",
+      "songName": "[vivid/stasis Map Pack] kaypooma - reFract::dense",
+      "hash": "01911fe16db98508e0959bcf62239ad17c523abd",
+      "levelid": "custom_level_01911fe16db98508e0959bcf62239ad17c523abd"
     },
     {
-      "key": "55d55",
-      "songName": "Young Multi, Marceli - AK47",
-      "hash": "cb56af965ac3896721afeb071dadd8eb60efac13",
-      "levelid": "custom_level_cb56af965ac3896721afeb071dadd8eb60efac13"
+      "key": "55cc6",
+      "songName": "[vivid/stasis Map Pack] Lundy - Septima",
+      "hash": "a8bef4f9627b1469e8ab9d63a92c6cbfd5771b5e",
+      "levelid": "custom_level_a8bef4f9627b1469e8ab9d63a92c6cbfd5771b5e"
     },
     {
-      "key": "55d4e",
-      "songName": "As Hard As It Gets",
-      "hash": "347adc255d3f2f4138be7e2b15fa147a1ec13d83",
-      "levelid": "custom_level_347adc255d3f2f4138be7e2b15fa147a1ec13d83"
+      "key": "55cba",
+      "songName": "[vivid/stasis Map Pack] takehirotei - SEKAISEN::OBSERVER",
+      "hash": "87f5f1646c2d9fb7dcd3a1c7f375801b20c8f4a7",
+      "levelid": "custom_level_87f5f1646c2d9fb7dcd3a1c7f375801b20c8f4a7"
     },
     {
-      "key": "55d4c",
-      "songName": "what a shame",
-      "hash": "904b238bf75defc2e4f46590475b7bd5ae9fa66c",
-      "levelid": "custom_level_904b238bf75defc2e4f46590475b7bd5ae9fa66c"
+      "key": "55cb7",
+      "songName": "[vivid/stasis Map Pack] Kry.exe vs Ganymede. - First Breath",
+      "hash": "71ab5a65ab47e2768dc8719e40f51e386de13ea9",
+      "levelid": "custom_level_71ab5a65ab47e2768dc8719e40f51e386de13ea9"
     },
     {
-      "key": "55d49",
-      "songName": "Doodle Bear",
-      "hash": "e21bdbb29350de47aefae7f181701eb46e578e30",
-      "levelid": "custom_level_e21bdbb29350de47aefae7f181701eb46e578e30"
+      "key": "55c98",
+      "songName": "dandeless - grode [vivid/stasis Map Pack]",
+      "hash": "365f496767c6a05a40b6cba0ef060de7a38fb015",
+      "levelid": "custom_level_365f496767c6a05a40b6cba0ef060de7a38fb015"
     },
     {
-      "key": "55d4a",
-      "songName": "Girls' Generation - Into The New World",
-      "hash": "fa5f9dcb8c67519866c193aaa9aa99722443e72f",
-      "levelid": "custom_level_fa5f9dcb8c67519866c193aaa9aa99722443e72f"
+      "key": "55dd2",
+      "songName": "Wicsur - PAFOS",
+      "hash": "953e9f4f6da7bc538331590f0fae2ccf07d46a7a",
+      "levelid": "custom_level_953e9f4f6da7bc538331590f0fae2ccf07d46a7a"
     },
     {
-      "key": "55d3f",
-      "songName": "Fresh Steam Water    (Nature)",
-      "hash": "8e49d35aa083af95bbd41fb599637d8a6a827d28",
-      "levelid": "custom_level_8e49d35aa083af95bbd41fb599637d8a6a827d28"
+      "key": "55dd0",
+      "songName": "No Es Por Acá",
+      "hash": "78ffd00c2ef93487e42cc6da97e8cfd352396850",
+      "levelid": "custom_level_78ffd00c2ef93487e42cc6da97e8cfd352396850"
     },
     {
-      "key": "55d3e",
-      "songName": "Steam Life  (Nature)",
-      "hash": "a539d040f0f5c3d46e13ce17b62224942c1dbdc9",
-      "levelid": "custom_level_a539d040f0f5c3d46e13ce17b62224942c1dbdc9"
+      "key": "55dcf",
+      "songName": "EZ DO DANCE (プリティーリズム・レインボーライブ OP2)",
+      "hash": "ad0e3d35a1d30826a8f67918283be4b037f48dda",
+      "levelid": "custom_level_ad0e3d35a1d30826a8f67918283be4b037f48dda"
     },
     {
-      "key": "55d3d",
-      "songName": "ALONE",
-      "hash": "955a490376415d2af95870e74dd3322c7b134262",
-      "levelid": "custom_level_955a490376415d2af95870e74dd3322c7b134262"
+      "key": "55dce",
+      "songName": "seatrus - HeinousЯeaper",
+      "hash": "d567c878193203f9ce7c1ea31ef4630eb3c070dc",
+      "levelid": "custom_level_d567c878193203f9ce7c1ea31ef4630eb3c070dc"
+    },
+    {
+      "key": "55dc4",
+      "songName": "みらいのミラち - 村に伝わる呪いの手まり唄がSOUL'd OUTすぎる [Cinema]",
+      "hash": "584e10faff50e18532848772d42961110521662d",
+      "levelid": "custom_level_584e10faff50e18532848772d42961110521662d"
+    },
+    {
+      "key": "55dcd",
+      "songName": "Blu Does Snacks",
+      "hash": "f6db638c6c37734cc18ecf581d8e45a0164260fb",
+      "levelid": "custom_level_f6db638c6c37734cc18ecf581d8e45a0164260fb"
+    },
+    {
+      "key": "55dc9",
+      "songName": "asmr",
+      "hash": "a2a808f21f22fb6f13810d64b894af9bc166a0f7",
+      "levelid": "custom_level_a2a808f21f22fb6f13810d64b894af9bc166a0f7"
+    },
+    {
+      "key": "55dc8",
+      "songName": "More One Night",
+      "hash": "2529015ca71b46e9b6df4120dfd1a11afd30598a",
+      "levelid": "custom_level_2529015ca71b46e9b6df4120dfd1a11afd30598a"
+    },
+    {
+      "key": "55dc7",
+      "songName": "What's up with the number 33?",
+      "hash": "52aa3cf7cc8f883cd5ebb941ccbd5f7f32b5ca59",
+      "levelid": "custom_level_52aa3cf7cc8f883cd5ebb941ccbd5f7f32b5ca59"
+    },
+    {
+      "key": "55dc5",
+      "songName": "Xdinary Heroes - You Right There",
+      "hash": "c75ae70797c3105de6cb480c4c87b7d696c204a6",
+      "levelid": "custom_level_c75ae70797c3105de6cb480c4c87b7d696c204a6"
+    },
+    {
+      "key": "55dc0",
+      "songName": "[V3]BABYMETAL - THE LEGEND",
+      "hash": "2b7b4fc00c2c3b654e19256e1ddb56c8570c9aec",
+      "levelid": "custom_level_2b7b4fc00c2c3b654e19256e1ddb56c8570c9aec"
+    },
+    {
+      "key": "55dbc",
+      "songName": "Welcome To My Life - Simple Plan",
+      "hash": "aea282bfaecd2491513302d74f36847310b4cec8",
+      "levelid": "custom_level_aea282bfaecd2491513302d74f36847310b4cec8"
+    },
+    {
+      "key": "55dbb",
+      "songName": "Marino  &  Luminati Suns - Im Sorry Mom (Remix)",
+      "hash": "f1d88900c82dbaf9b0d6e0f375dce5cd7f0a4dc4",
+      "levelid": "custom_level_f1d88900c82dbaf9b0d6e0f375dce5cd7f0a4dc4"
+    },
+    {
+      "key": "55dba",
+      "songName": "Snap Snap",
+      "hash": "a004d3ad8cdf39b7d02caa5ab3ee3d2aa9b31afe",
+      "levelid": "custom_level_a004d3ad8cdf39b7d02caa5ab3ee3d2aa9b31afe"
+    },
+    {
+      "key": "55db9",
+      "songName": "Addie Ramsey - Patternz",
+      "hash": "c3362c326853e78a02f50bbae5f84b34d15f2bd5",
+      "levelid": "custom_level_c3362c326853e78a02f50bbae5f84b34d15f2bd5"
+    },
+    {
+      "key": "55db7",
+      "songName": "haunt",
+      "hash": "54795075793d5ed4fdd6e68d7bb65e89aa336c85",
+      "levelid": "custom_level_54795075793d5ed4fdd6e68d7bb65e89aa336c85"
+    },
+    {
+      "key": "55db5",
+      "songName": "Desultory Signals",
+      "hash": "89d878a02e9402dce4ae1723765f0feff3d71871",
+      "levelid": "custom_level_89d878a02e9402dce4ae1723765f0feff3d71871"
+    },
+    {
+      "key": "54a29",
+      "songName": "SLASHER",
+      "hash": "b57acb9a3c68f02a4b7090c2d4ea12bf8fc889ce",
+      "levelid": "custom_level_b57acb9a3c68f02a4b7090c2d4ea12bf8fc889ce"
+    },
+    {
+      "key": "53436",
+      "songName": "ABC - The Look Of Love (1982)",
+      "hash": "86801eb1e105793325b4cea15f988aebb7e6c7b1",
+      "levelid": "custom_level_86801eb1e105793325b4cea15f988aebb7e6c7b1"
+    },
+    {
+      "key": "55da8",
+      "songName": "Glitch Cat - midlight",
+      "hash": "0b39556f582c623327edb7b69a58b87fa464f367",
+      "levelid": "custom_level_0b39556f582c623327edb7b69a58b87fa464f367"
+    },
+    {
+      "key": "55da7",
+      "songName": "Expired Sugar",
+      "hash": "bd8fd4f09727f19c760454e3e9ff947f7dc74f9b",
+      "levelid": "custom_level_bd8fd4f09727f19c760454e3e9ff947f7dc74f9b"
+    },
+    {
+      "key": "55da6",
+      "songName": "Glitch Cat - REACHOUT",
+      "hash": "0b703f559409323ff5aff214eb25b846355ccdb6",
+      "levelid": "custom_level_0b703f559409323ff5aff214eb25b846355ccdb6"
+    },
+    {
+      "key": "55da3",
+      "songName": "The Flow",
+      "hash": "8449c5e22f180464edb93e3e607ea5544c42cd80",
+      "levelid": "custom_level_8449c5e22f180464edb93e3e607ea5544c42cd80"
+    },
+    {
+      "key": "55da2",
+      "songName": "sofia v2",
+      "hash": "b7c017407cc9fcee2555cfd5507051fcd7db5655",
+      "levelid": "custom_level_b7c017407cc9fcee2555cfd5507051fcd7db5655"
+    },
+    {
+      "key": "55da1",
+      "songName": "Marino - Im Sorry Mom",
+      "hash": "05c4db7b45206eac551c7a3fa336b53f68039dc4",
+      "levelid": "custom_level_05c4db7b45206eac551c7a3fa336b53f68039dc4"
+    },
+    {
+      "key": "55d9d",
+      "songName": "Blood in your eyes",
+      "hash": "1d6e58e086c1cf812726699d6086239f55bc5d6b",
+      "levelid": "custom_level_1d6e58e086c1cf812726699d6086239f55bc5d6b"
+    },
+    {
+      "key": "55d9c",
+      "songName": "K/DA - WATCH ME (ft. Sophie Powers, Mimi Webb)",
+      "hash": "81b24f7bb979363a41a92114327ec6a69f4421d1",
+      "levelid": "custom_level_81b24f7bb979363a41a92114327ec6a69f4421d1"
+    },
+    {
+      "key": "55d9b",
+      "songName": "Norgaard - The Vaccines",
+      "hash": "fd68ff13836cabaf7bb00e23ec6839a85c95e841",
+      "levelid": "custom_level_fd68ff13836cabaf7bb00e23ec6839a85c95e841"
+    },
+    {
+      "key": "5499a",
+      "songName": "Wow but featuring Owen Wilson ",
+      "hash": "15cfade98631a197e9cbdbf2471b9d7167551697",
+      "levelid": "custom_level_15cfade98631a197e9cbdbf2471b9d7167551697"
+    },
+    {
+      "key": "55d80",
+      "songName": "アリバイ",
+      "hash": "2756613da4eaaf8f31e57223b71c561ec3d69d9f",
+      "levelid": "custom_level_2756613da4eaaf8f31e57223b71c561ec3d69d9f"
+    },
+    {
+      "key": "55d9a",
+      "songName": "Tiffany Day - NO LUCK",
+      "hash": "3315df42ecbde75f7b1ec862b8c9c51f64534e48",
+      "levelid": "custom_level_3315df42ecbde75f7b1ec862b8c9c51f64534e48"
+    },
+    {
+      "key": "55d99",
+      "songName": "Just Pete - Cruel",
+      "hash": "9fc042b55c628c2e1a1c82793f57e317afa10273",
+      "levelid": "custom_level_9fc042b55c628c2e1a1c82793f57e317afa10273"
+    },
+    {
+      "key": "55d98",
+      "songName": "Boramiyu (보라미유) - Hey (있잖아)",
+      "hash": "f0a376a7c0b00d8fab76d33753c2c66f4060eaaa",
+      "levelid": "custom_level_f0a376a7c0b00d8fab76d33753c2c66f4060eaaa"
     }
   ],
   "image": ""
