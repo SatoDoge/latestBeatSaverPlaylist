@@ -1,370 +1,166 @@
 {
-  "playlistTitle": "2026-11-18T15:18:48.274Z~2026-11-19T15:18:48.274Z",
+  "playlistTitle": "2026-11-19T15:18:48.042Z~2026-11-20T15:18:48.042Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-11-18T15:18:48.274Z and 2026-11-19T15:18:48.274Z",
+  "discripstion": "Maps published between 2026-11-19T15:18:48.042Z and 2026-11-20T15:18:48.042Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "55d7f",
-      "songName": "w.i.v - home",
-      "hash": "73fb759bec0e0e19389b96302d8a026d8181732b",
-      "levelid": "custom_level_73fb759bec0e0e19389b96302d8a026d8181732b"
+      "key": "55e10",
+      "songName": "STAR SEED, VNDETTA - Gravity (ft. HYMNALS)",
+      "hash": "7eed0f4d62b8f08c4fe3293b59e59c0c2c15d4d1",
+      "levelid": "custom_level_7eed0f4d62b8f08c4fe3293b59e59c0c2c15d4d1"
     },
     {
-      "key": "55ddb",
-      "songName": "[vivid/stasis Map Pack] Lundy - bardess :Ø: of the future",
-      "hash": "b6b664e85f0c466a6e022b5d91d0ebca9301e3c5",
-      "levelid": "custom_level_b6b664e85f0c466a6e022b5d91d0ebca9301e3c5"
+      "key": "55e0f",
+      "songName": "ILXLI - ZEUS",
+      "hash": "e5062f5805c29f7f370d14eb3f0238531011d097",
+      "levelid": "custom_level_e5062f5805c29f7f370d14eb3f0238531011d097"
     },
     {
-      "key": "55cc9",
-      "songName": "Lusumi- See You Move [vivid/stasis Map Pack]",
-      "hash": "798be1fadb9df75df4ad2c93798440568acdac06",
-      "levelid": "custom_level_798be1fadb9df75df4ad2c93798440568acdac06"
+      "key": "55e0e",
+      "songName": "Edgars bukovskis - I'm Not Afraid",
+      "hash": "c37706f597f11ea5616ff1cd6beb3eb0ceb42e61",
+      "levelid": "custom_level_c37706f597f11ea5616ff1cd6beb3eb0ceb42e61"
     },
     {
-      "key": "55cc7",
-      "songName": "iosun - lost contact [vivid/stasis Map Pack]",
-      "hash": "1e9e5f45e284aab8f4f44c935ccb7e9312060544",
-      "levelid": "custom_level_1e9e5f45e284aab8f4f44c935ccb7e9312060544"
+      "key": "55e0d",
+      "songName": "[vivid/stasis Map Pack] Attoclef - UTF-8000000000",
+      "hash": "c9ba93897eb9d7bfe0ee16e1112bde47075f8a5a",
+      "levelid": "custom_level_c9ba93897eb9d7bfe0ee16e1112bde47075f8a5a"
     },
     {
-      "key": "55dd8",
-      "songName": "GhostDragon - Replicating",
-      "hash": "3400175d61091b15bf927bb0283d2671aa0b0d55",
-      "levelid": "custom_level_3400175d61091b15bf927bb0283d2671aa0b0d55"
+      "key": "55e08",
+      "songName": "[Poodle] Edo Maboroshi (必殺仕事人)",
+      "hash": "897ec21cda06812fba167c07155313a95a55f345",
+      "levelid": "custom_level_897ec21cda06812fba167c07155313a95a55f345"
     },
     {
-      "key": "55dd7",
-      "songName": "djeb - bloody departure",
-      "hash": "f03dbed211646dea0f10e1642ca793698bfd3645",
-      "levelid": "custom_level_f03dbed211646dea0f10e1642ca793698bfd3645"
+      "key": "55e07",
+      "songName": "<Perfect Pair>?",
+      "hash": "b2cd54a07103a90d5686b550eb31b6b2448b957a",
+      "levelid": "custom_level_b2cd54a07103a90d5686b550eb31b6b2448b957a"
     },
     {
-      "key": "55dd6",
-      "songName": "Drazically - E:RULER DISC",
-      "hash": "a05ac933eedb6541cb82f86555643caad34cee1b",
-      "levelid": "custom_level_a05ac933eedb6541cb82f86555643caad34cee1b"
+      "key": "55e03",
+      "songName": "CRAZY GONNA CRAZY (プリティーリズム・レインボーライブ OP3)",
+      "hash": "a99dcf189fa2ca206f01b5dd37cd89512434fed4",
+      "levelid": "custom_level_a99dcf189fa2ca206f01b5dd37cd89512434fed4"
     },
     {
-      "key": "55ce1",
-      "songName": " [vivid/stasis Map Pack] Irissu - Un-TECHNiCAL Reason",
-      "hash": "6ed62766e10c5a83dcf241564eba4e4e6f9c71c7",
-      "levelid": "custom_level_6ed62766e10c5a83dcf241564eba4e4e6f9c71c7"
+      "key": "55e02",
+      "songName": "IGYEIH",
+      "hash": "6b13eeaff3b8d73ffb2e48ca7209bcb153b1ba63",
+      "levelid": "custom_level_6b13eeaff3b8d73ffb2e48ca7209bcb153b1ba63"
     },
     {
-      "key": "55dd5",
-      "songName": "vervid! - nullbreak [vivid/stasis Map Pack]",
-      "hash": "febaf7216a17eae911099d29161792fc7691e2e2",
-      "levelid": "custom_level_febaf7216a17eae911099d29161792fc7691e2e2"
+      "key": "55e00",
+      "songName": "ハートフルフルフルボッコ♡ - プラチナ・ゴールドキャスト",
+      "hash": "12e19e0b1653e7384b81790f29523595be9529dd",
+      "levelid": "custom_level_12e19e0b1653e7384b81790f29523595be9529dd"
     },
     {
-      "key": "55dc6",
-      "songName": "[vivid/stasis Map Pack] they - Яeboot (Reboot)",
-      "hash": "91365886380e979f43391e1aac9c6297f0adea51",
-      "levelid": "custom_level_91365886380e979f43391e1aac9c6297f0adea51"
+      "key": "55dff",
+      "songName": "Goofy ahh type beat",
+      "hash": "228eef3e893ce521a88b2c3f0bc063cde430dcb4",
+      "levelid": "custom_level_228eef3e893ce521a88b2c3f0bc063cde430dcb4"
     },
     {
-      "key": "55dc1",
-      "songName": "[vivid/stasis Map Pack] Type R - Ione",
-      "hash": "7da2d73a429a743570d2ca07511654bef58aef27",
-      "levelid": "custom_level_7da2d73a429a743570d2ca07511654bef58aef27"
+      "key": "55dfe",
+      "songName": "H4unt",
+      "hash": "68fd2f61379216d589f393c9c88a577f4dd8a17d",
+      "levelid": "custom_level_68fd2f61379216d589f393c9c88a577f4dd8a17d"
     },
     {
-      "key": "55dbe",
-      "songName": "[vivid/stasis Map Pack] Thiuth - _",
-      "hash": "9ed7317939829822b446cf421a70f50b7c23a183",
-      "levelid": "custom_level_9ed7317939829822b446cf421a70f50b7c23a183"
+      "key": "55dfd",
+      "songName": "Opposition",
+      "hash": "10adac4cb2debca87c4a213e32515a5a683bf2da",
+      "levelid": "custom_level_10adac4cb2debca87c4a213e32515a5a683bf2da"
     },
     {
-      "key": "55ce2",
-      "songName": "[vivid/stasis Map Pack] Attoclef vs [-^v-] - Nightshade",
-      "hash": "e92183cb727aa0fe71544382b858e6b837163e01",
-      "levelid": "custom_level_e92183cb727aa0fe71544382b858e6b837163e01"
+      "key": "55dfc",
+      "songName": "It's Good - Netta",
+      "hash": "4114fa045752e1066fa79d196b51025b2e39b55e",
+      "levelid": "custom_level_4114fa045752e1066fa79d196b51025b2e39b55e"
     },
     {
-      "key": "55dbd",
-      "songName": "[vivid/stasis Map Pack] Sh0wtime - ALLIEVERWANTED",
-      "hash": "54335fc6bfb835b9d13590c3206435bb48672534",
-      "levelid": "custom_level_54335fc6bfb835b9d13590c3206435bb48672534"
+      "key": "55dfb",
+      "songName": "Ben Type Beat III (#greenscreen)",
+      "hash": "42327e5c64b9fac339deabb37804503f053f5726",
+      "levelid": "custom_level_42327e5c64b9fac339deabb37804503f053f5726"
     },
     {
-      "key": "55cfc",
-      "songName": "[vivid/stasis Map Pack] f2 - Ǝvanisce:əntiA",
-      "hash": "af7c8f8056032bfc5cc489c4005e5832b9b41361",
-      "levelid": "custom_level_af7c8f8056032bfc5cc489c4005e5832b9b41361"
+      "key": "55df7",
+      "songName": "Egs- bleood",
+      "hash": "24717bef89aeb2a92780497155470d493e4d640d",
+      "levelid": "custom_level_24717bef89aeb2a92780497155470d493e4d640d"
     },
     {
-      "key": "55d87",
-      "songName": "[vivid/stasis Map Pack] - tailspun - Bloom in Two",
-      "hash": "0d31ab535a59363657253209e3579d242608650c",
-      "levelid": "custom_level_0d31ab535a59363657253209e3579d242608650c"
+      "key": "55df2",
+      "songName": "Movin' To The Sun",
+      "hash": "974ac04324fb64db7275b66f5360f2db4ebc83dc",
+      "levelid": "custom_level_974ac04324fb64db7275b66f5360f2db4ebc83dc"
     },
     {
-      "key": "55d8c",
-      "songName": "[vivid/stasis Map Pack] Kry.exe - Last Wish (vivid/stasis ver.)",
-      "hash": "447d1196c52e94959660f50ff0f47475a99167e5",
-      "levelid": "custom_level_447d1196c52e94959660f50ff0f47475a99167e5"
+      "key": "55df1",
+      "songName": "Kassy - You and I in the Hard Day",
+      "hash": "fcebdd6b0baed62b62e6123679158699a337f45f",
+      "levelid": "custom_level_fcebdd6b0baed62b62e6123679158699a337f45f"
     },
     {
-      "key": "55d85",
-      "songName": "(Vivid/Stasis Pack) CONVERGENCE - A-Saph vs. Irissu vs. mrcool909090",
-      "hash": "bb0a3de6ec9d0efab88cd0ef6d221f4ac4404ea4",
-      "levelid": "custom_level_bb0a3de6ec9d0efab88cd0ef6d221f4ac4404ea4"
+      "key": "55def",
+      "songName": "Worst Song Known To Man in Beat Saber ",
+      "hash": "3870a1eda08c95dd2fc0ded6058ee7d3278f7fa4",
+      "levelid": "custom_level_3870a1eda08c95dd2fc0ded6058ee7d3278f7fa4"
     },
     {
-      "key": "55d84",
-      "songName": "(Vivid/Stasis Pack) APØCALYPSE CALL - Theatrum Calamititus",
-      "hash": "2542cb4df48c98c4b2512c6d281325cd01414d09",
-      "levelid": "custom_level_2542cb4df48c98c4b2512c6d281325cd01414d09"
+      "key": "55dee",
+      "songName": "[vivid/stasis Map Pack] Kyotsugyon - SUPERNOVA",
+      "hash": "d711a29040e6cf675c92cf44286f0dd2214a9a78",
+      "levelid": "custom_level_d711a29040e6cf675c92cf44286f0dd2214a9a78"
     },
     {
-      "key": "55d51",
-      "songName": "[vivid/stasis Map Pack] Lorph & Elexia - Shattered Sky After Rain",
-      "hash": "b25ce4cb6596b0731e831b7da9c147791d7a7568",
-      "levelid": "custom_level_b25ce4cb6596b0731e831b7da9c147791d7a7568"
+      "key": "55de8",
+      "songName": "CiON - Katsubou",
+      "hash": "54b22e2bb18282c8a903053261bca47d9c5e8ec6",
+      "levelid": "custom_level_54b22e2bb18282c8a903053261bca47d9c5e8ec6"
     },
     {
-      "key": "55d32",
-      "songName": "[vivid/stasis Map Pack] Altermis - Voltage Strike",
-      "hash": "fbb9a4df765c37de5aee82d2e1df379008f4cf00",
-      "levelid": "custom_level_fbb9a4df765c37de5aee82d2e1df379008f4cf00"
+      "key": "55de7",
+      "songName": "ころねぽち×ななひら - ロールケーキくるっくる～り！",
+      "hash": "ce061f2c449fc82a7ab2deba7b72dde7ce5a27f6",
+      "levelid": "custom_level_ce061f2c449fc82a7ab2deba7b72dde7ce5a27f6"
     },
     {
-      "key": "55d05",
-      "songName": "[vivid/stasis Map Pack] KAMIKOTO - ULTiM∀TUM",
-      "hash": "211e892858f5990277f1c5ae50170a6d90dfc987",
-      "levelid": "custom_level_211e892858f5990277f1c5ae50170a6d90dfc987"
+      "key": "55de6",
+      "songName": "Practice",
+      "hash": "b3bc03ce767195a055f007aaf8403d1229d374d0",
+      "levelid": "custom_level_b3bc03ce767195a055f007aaf8403d1229d374d0"
     },
     {
-      "key": "55d06",
-      "songName": "[vivid/stasis Map Pack] kaypooma - reFract::dense",
-      "hash": "01911fe16db98508e0959bcf62239ad17c523abd",
-      "levelid": "custom_level_01911fe16db98508e0959bcf62239ad17c523abd"
+      "key": "55de5",
+      "songName": "four",
+      "hash": "f4cc2df010f2f22673bcc15f5cee43b8e59712d3",
+      "levelid": "custom_level_f4cc2df010f2f22673bcc15f5cee43b8e59712d3"
     },
     {
-      "key": "55cc6",
-      "songName": "[vivid/stasis Map Pack] Lundy - Septima",
-      "hash": "a8bef4f9627b1469e8ab9d63a92c6cbfd5771b5e",
-      "levelid": "custom_level_a8bef4f9627b1469e8ab9d63a92c6cbfd5771b5e"
+      "key": "55de3",
+      "songName": "エータ・ベータ・イータ",
+      "hash": "9504b6c11576d23069aec0b0b4697f9deb99e704",
+      "levelid": "custom_level_9504b6c11576d23069aec0b0b4697f9deb99e704"
     },
     {
-      "key": "55cba",
-      "songName": "[vivid/stasis Map Pack] takehirotei - SEKAISEN::OBSERVER",
-      "hash": "87f5f1646c2d9fb7dcd3a1c7f375801b20c8f4a7",
-      "levelid": "custom_level_87f5f1646c2d9fb7dcd3a1c7f375801b20c8f4a7"
+      "key": "55dde",
+      "songName": "Jane!",
+      "hash": "4616213b318c98915a9770b6d00d6efdec904af7",
+      "levelid": "custom_level_4616213b318c98915a9770b6d00d6efdec904af7"
     },
     {
-      "key": "55cb7",
-      "songName": "[vivid/stasis Map Pack] Kry.exe vs Ganymede. - First Breath",
-      "hash": "71ab5a65ab47e2768dc8719e40f51e386de13ea9",
-      "levelid": "custom_level_71ab5a65ab47e2768dc8719e40f51e386de13ea9"
-    },
-    {
-      "key": "55c98",
-      "songName": "dandeless - grode [vivid/stasis Map Pack]",
-      "hash": "365f496767c6a05a40b6cba0ef060de7a38fb015",
-      "levelid": "custom_level_365f496767c6a05a40b6cba0ef060de7a38fb015"
-    },
-    {
-      "key": "55dd2",
-      "songName": "Wicsur - PAFOS",
-      "hash": "953e9f4f6da7bc538331590f0fae2ccf07d46a7a",
-      "levelid": "custom_level_953e9f4f6da7bc538331590f0fae2ccf07d46a7a"
-    },
-    {
-      "key": "55dd0",
-      "songName": "No Es Por Acá",
-      "hash": "78ffd00c2ef93487e42cc6da97e8cfd352396850",
-      "levelid": "custom_level_78ffd00c2ef93487e42cc6da97e8cfd352396850"
-    },
-    {
-      "key": "55dcf",
-      "songName": "EZ DO DANCE (プリティーリズム・レインボーライブ OP2)",
-      "hash": "ad0e3d35a1d30826a8f67918283be4b037f48dda",
-      "levelid": "custom_level_ad0e3d35a1d30826a8f67918283be4b037f48dda"
-    },
-    {
-      "key": "55dce",
-      "songName": "seatrus - HeinousЯeaper",
-      "hash": "d567c878193203f9ce7c1ea31ef4630eb3c070dc",
-      "levelid": "custom_level_d567c878193203f9ce7c1ea31ef4630eb3c070dc"
-    },
-    {
-      "key": "55dc4",
-      "songName": "みらいのミラち - 村に伝わる呪いの手まり唄がSOUL'd OUTすぎる [Cinema]",
-      "hash": "584e10faff50e18532848772d42961110521662d",
-      "levelid": "custom_level_584e10faff50e18532848772d42961110521662d"
-    },
-    {
-      "key": "55dcd",
-      "songName": "Blu Does Snacks",
-      "hash": "f6db638c6c37734cc18ecf581d8e45a0164260fb",
-      "levelid": "custom_level_f6db638c6c37734cc18ecf581d8e45a0164260fb"
-    },
-    {
-      "key": "55dc9",
-      "songName": "asmr",
-      "hash": "a2a808f21f22fb6f13810d64b894af9bc166a0f7",
-      "levelid": "custom_level_a2a808f21f22fb6f13810d64b894af9bc166a0f7"
-    },
-    {
-      "key": "55dc8",
-      "songName": "More One Night",
-      "hash": "2529015ca71b46e9b6df4120dfd1a11afd30598a",
-      "levelid": "custom_level_2529015ca71b46e9b6df4120dfd1a11afd30598a"
-    },
-    {
-      "key": "55dc7",
-      "songName": "What's up with the number 33?",
-      "hash": "52aa3cf7cc8f883cd5ebb941ccbd5f7f32b5ca59",
-      "levelid": "custom_level_52aa3cf7cc8f883cd5ebb941ccbd5f7f32b5ca59"
-    },
-    {
-      "key": "55dc5",
-      "songName": "Xdinary Heroes - You Right There",
-      "hash": "c75ae70797c3105de6cb480c4c87b7d696c204a6",
-      "levelid": "custom_level_c75ae70797c3105de6cb480c4c87b7d696c204a6"
-    },
-    {
-      "key": "55dc0",
-      "songName": "[V3]BABYMETAL - THE LEGEND",
-      "hash": "2b7b4fc00c2c3b654e19256e1ddb56c8570c9aec",
-      "levelid": "custom_level_2b7b4fc00c2c3b654e19256e1ddb56c8570c9aec"
-    },
-    {
-      "key": "55dbc",
-      "songName": "Welcome To My Life - Simple Plan",
-      "hash": "aea282bfaecd2491513302d74f36847310b4cec8",
-      "levelid": "custom_level_aea282bfaecd2491513302d74f36847310b4cec8"
-    },
-    {
-      "key": "55dbb",
-      "songName": "Marino  &  Luminati Suns - Im Sorry Mom (Remix)",
-      "hash": "f1d88900c82dbaf9b0d6e0f375dce5cd7f0a4dc4",
-      "levelid": "custom_level_f1d88900c82dbaf9b0d6e0f375dce5cd7f0a4dc4"
-    },
-    {
-      "key": "55dba",
-      "songName": "Snap Snap",
-      "hash": "a004d3ad8cdf39b7d02caa5ab3ee3d2aa9b31afe",
-      "levelid": "custom_level_a004d3ad8cdf39b7d02caa5ab3ee3d2aa9b31afe"
-    },
-    {
-      "key": "55db9",
-      "songName": "Addie Ramsey - Patternz",
-      "hash": "c3362c326853e78a02f50bbae5f84b34d15f2bd5",
-      "levelid": "custom_level_c3362c326853e78a02f50bbae5f84b34d15f2bd5"
-    },
-    {
-      "key": "55db7",
-      "songName": "haunt",
-      "hash": "54795075793d5ed4fdd6e68d7bb65e89aa336c85",
-      "levelid": "custom_level_54795075793d5ed4fdd6e68d7bb65e89aa336c85"
-    },
-    {
-      "key": "55db5",
-      "songName": "Desultory Signals",
-      "hash": "89d878a02e9402dce4ae1723765f0feff3d71871",
-      "levelid": "custom_level_89d878a02e9402dce4ae1723765f0feff3d71871"
-    },
-    {
-      "key": "54a29",
-      "songName": "SLASHER",
-      "hash": "b57acb9a3c68f02a4b7090c2d4ea12bf8fc889ce",
-      "levelid": "custom_level_b57acb9a3c68f02a4b7090c2d4ea12bf8fc889ce"
-    },
-    {
-      "key": "53436",
-      "songName": "ABC - The Look Of Love (1982)",
-      "hash": "86801eb1e105793325b4cea15f988aebb7e6c7b1",
-      "levelid": "custom_level_86801eb1e105793325b4cea15f988aebb7e6c7b1"
-    },
-    {
-      "key": "55da8",
-      "songName": "Glitch Cat - midlight",
-      "hash": "0b39556f582c623327edb7b69a58b87fa464f367",
-      "levelid": "custom_level_0b39556f582c623327edb7b69a58b87fa464f367"
-    },
-    {
-      "key": "55da7",
-      "songName": "Expired Sugar",
-      "hash": "bd8fd4f09727f19c760454e3e9ff947f7dc74f9b",
-      "levelid": "custom_level_bd8fd4f09727f19c760454e3e9ff947f7dc74f9b"
-    },
-    {
-      "key": "55da6",
-      "songName": "Glitch Cat - REACHOUT",
-      "hash": "0b703f559409323ff5aff214eb25b846355ccdb6",
-      "levelid": "custom_level_0b703f559409323ff5aff214eb25b846355ccdb6"
-    },
-    {
-      "key": "55da3",
-      "songName": "The Flow",
-      "hash": "8449c5e22f180464edb93e3e607ea5544c42cd80",
-      "levelid": "custom_level_8449c5e22f180464edb93e3e607ea5544c42cd80"
-    },
-    {
-      "key": "55da2",
-      "songName": "sofia v2",
-      "hash": "b7c017407cc9fcee2555cfd5507051fcd7db5655",
-      "levelid": "custom_level_b7c017407cc9fcee2555cfd5507051fcd7db5655"
-    },
-    {
-      "key": "55da1",
-      "songName": "Marino - Im Sorry Mom",
-      "hash": "05c4db7b45206eac551c7a3fa336b53f68039dc4",
-      "levelid": "custom_level_05c4db7b45206eac551c7a3fa336b53f68039dc4"
-    },
-    {
-      "key": "55d9d",
-      "songName": "Blood in your eyes",
-      "hash": "1d6e58e086c1cf812726699d6086239f55bc5d6b",
-      "levelid": "custom_level_1d6e58e086c1cf812726699d6086239f55bc5d6b"
-    },
-    {
-      "key": "55d9c",
-      "songName": "K/DA - WATCH ME (ft. Sophie Powers, Mimi Webb)",
-      "hash": "81b24f7bb979363a41a92114327ec6a69f4421d1",
-      "levelid": "custom_level_81b24f7bb979363a41a92114327ec6a69f4421d1"
-    },
-    {
-      "key": "55d9b",
-      "songName": "Norgaard - The Vaccines",
-      "hash": "fd68ff13836cabaf7bb00e23ec6839a85c95e841",
-      "levelid": "custom_level_fd68ff13836cabaf7bb00e23ec6839a85c95e841"
-    },
-    {
-      "key": "5499a",
-      "songName": "Wow but featuring Owen Wilson ",
-      "hash": "15cfade98631a197e9cbdbf2471b9d7167551697",
-      "levelid": "custom_level_15cfade98631a197e9cbdbf2471b9d7167551697"
-    },
-    {
-      "key": "55d80",
-      "songName": "アリバイ",
-      "hash": "2756613da4eaaf8f31e57223b71c561ec3d69d9f",
-      "levelid": "custom_level_2756613da4eaaf8f31e57223b71c561ec3d69d9f"
-    },
-    {
-      "key": "55d9a",
-      "songName": "Tiffany Day - NO LUCK",
-      "hash": "3315df42ecbde75f7b1ec862b8c9c51f64534e48",
-      "levelid": "custom_level_3315df42ecbde75f7b1ec862b8c9c51f64534e48"
-    },
-    {
-      "key": "55d99",
-      "songName": "Just Pete - Cruel",
-      "hash": "9fc042b55c628c2e1a1c82793f57e317afa10273",
-      "levelid": "custom_level_9fc042b55c628c2e1a1c82793f57e317afa10273"
-    },
-    {
-      "key": "55d98",
-      "songName": "Boramiyu (보라미유) - Hey (있잖아)",
-      "hash": "f0a376a7c0b00d8fab76d33753c2c66f4060eaaa",
-      "levelid": "custom_level_f0a376a7c0b00d8fab76d33753c2c66f4060eaaa"
+      "key": "55ddd",
+      "songName": "Cha Cha Slide (Hardino Mix)",
+      "hash": "5cc37dd7bee50da55042a92f491d9b4636178ecc",
+      "levelid": "custom_level_5cc37dd7bee50da55042a92f491d9b4636178ecc"
     }
   ],
   "image": ""
