@@ -1,166 +1,244 @@
 {
-  "playlistTitle": "2026-11-19T15:18:48.042Z~2026-11-20T15:18:48.042Z",
+  "playlistTitle": "2026-11-20T15:18:47.959Z~2026-11-21T15:18:47.959Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-11-19T15:18:48.042Z and 2026-11-20T15:18:48.042Z",
+  "discripstion": "Maps published between 2026-11-20T15:18:47.959Z and 2026-11-21T15:18:47.959Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "55e10",
-      "songName": "STAR SEED, VNDETTA - Gravity (ft. HYMNALS)",
-      "hash": "7eed0f4d62b8f08c4fe3293b59e59c0c2c15d4d1",
-      "levelid": "custom_level_7eed0f4d62b8f08c4fe3293b59e59c0c2c15d4d1"
+      "key": "55e6f",
+      "songName": "Golden Hour/Chime Remix",
+      "hash": "7823db82b544bbe32cf8f4705e12a2090d390ee6",
+      "levelid": "custom_level_7823db82b544bbe32cf8f4705e12a2090d390ee6"
     },
     {
-      "key": "55e0f",
-      "songName": "ILXLI - ZEUS",
-      "hash": "e5062f5805c29f7f370d14eb3f0238531011d097",
-      "levelid": "custom_level_e5062f5805c29f7f370d14eb3f0238531011d097"
+      "key": "55e6e",
+      "songName": "note test 3",
+      "hash": "5a964d237c5ce00c29b4598ae97a2940dd560465",
+      "levelid": "custom_level_5a964d237c5ce00c29b4598ae97a2940dd560465"
     },
     {
-      "key": "55e0e",
-      "songName": "Edgars bukovskis - I'm Not Afraid",
-      "hash": "c37706f597f11ea5616ff1cd6beb3eb0ceb42e61",
-      "levelid": "custom_level_c37706f597f11ea5616ff1cd6beb3eb0ceb42e61"
+      "key": "55e6b",
+      "songName": "zelda koriri forest",
+      "hash": "31090cb3197f29b88192a0a2394e009da805ff39",
+      "levelid": "custom_level_31090cb3197f29b88192a0a2394e009da805ff39"
     },
     {
-      "key": "55e0d",
-      "songName": "[vivid/stasis Map Pack] Attoclef - UTF-8000000000",
-      "hash": "c9ba93897eb9d7bfe0ee16e1112bde47075f8a5a",
-      "levelid": "custom_level_c9ba93897eb9d7bfe0ee16e1112bde47075f8a5a"
+      "key": "55e6a",
+      "songName": " Haraguchi Sasuke-Medicine",
+      "hash": "006be01ef7f1950457b855819dc95bf4e65dd8a8",
+      "levelid": "custom_level_006be01ef7f1950457b855819dc95bf4e65dd8a8"
     },
     {
-      "key": "55e08",
-      "songName": "[Poodle] Edo Maboroshi (必殺仕事人)",
-      "hash": "897ec21cda06812fba167c07155313a95a55f345",
-      "levelid": "custom_level_897ec21cda06812fba167c07155313a95a55f345"
+      "key": "55e65",
+      "songName": "時間の翼",
+      "hash": "49ca50baed28a1394824fd80dcc47c16ffd3f76c",
+      "levelid": "custom_level_49ca50baed28a1394824fd80dcc47c16ffd3f76c"
     },
     {
-      "key": "55e07",
-      "songName": "<Perfect Pair>?",
-      "hash": "b2cd54a07103a90d5686b550eb31b6b2448b957a",
-      "levelid": "custom_level_b2cd54a07103a90d5686b550eb31b6b2448b957a"
+      "key": "55e66",
+      "songName": "Various Artists - Mario Drawing Song (From \"Mario Kart World\")",
+      "hash": "35efb74998bf3683f532d870daf8cf05999aa675",
+      "levelid": "custom_level_35efb74998bf3683f532d870daf8cf05999aa675"
     },
     {
-      "key": "55e03",
-      "songName": "CRAZY GONNA CRAZY (プリティーリズム・レインボーライブ OP3)",
-      "hash": "a99dcf189fa2ca206f01b5dd37cd89512434fed4",
-      "levelid": "custom_level_a99dcf189fa2ca206f01b5dd37cd89512434fed4"
+      "key": "55e60",
+      "songName": "Butterfly Effect (プリティーリズム・レインボーライブ OP4)",
+      "hash": "5de721552a0afea75d93e09686fc1108c7c4b0d5",
+      "levelid": "custom_level_5de721552a0afea75d93e09686fc1108c7c4b0d5"
     },
     {
-      "key": "55e02",
-      "songName": "IGYEIH",
-      "hash": "6b13eeaff3b8d73ffb2e48ca7209bcb153b1ba63",
-      "levelid": "custom_level_6b13eeaff3b8d73ffb2e48ca7209bcb153b1ba63"
+      "key": "55e5d",
+      "songName": "Deco * 27 & PinnochioP - (Not) a Devil feat. Hatsune Miku",
+      "hash": "0d1387addc945f72c9779405b89b6e59bc20cffc",
+      "levelid": "custom_level_0d1387addc945f72c9779405b89b6e59bc20cffc"
     },
     {
-      "key": "55e00",
-      "songName": "ハートフルフルフルボッコ♡ - プラチナ・ゴールドキャスト",
-      "hash": "12e19e0b1653e7384b81790f29523595be9529dd",
-      "levelid": "custom_level_12e19e0b1653e7384b81790f29523595be9529dd"
+      "key": "55e5a",
+      "songName": "cortex, Kaliyah - Make Me Feel",
+      "hash": "3f214980aae9c0ed6e27d36417b6fa89553df81d",
+      "levelid": "custom_level_3f214980aae9c0ed6e27d36417b6fa89553df81d"
     },
     {
-      "key": "55dff",
-      "songName": "Goofy ahh type beat",
-      "hash": "228eef3e893ce521a88b2c3f0bc063cde430dcb4",
-      "levelid": "custom_level_228eef3e893ce521a88b2c3f0bc063cde430dcb4"
+      "key": "55e59",
+      "songName": "UNDEAD CORPORATION - Flowering Night Fever",
+      "hash": "d22dbd3ec40991613a018464820b12720e90383f",
+      "levelid": "custom_level_d22dbd3ec40991613a018464820b12720e90383f"
     },
     {
-      "key": "55dfe",
-      "songName": "H4unt",
-      "hash": "68fd2f61379216d589f393c9c88a577f4dd8a17d",
-      "levelid": "custom_level_68fd2f61379216d589f393c9c88a577f4dd8a17d"
+      "key": "55e58",
+      "songName": "Pardon My French",
+      "hash": "3fe38f61a722117f6b35623267566ac9f456bc2e",
+      "levelid": "custom_level_3fe38f61a722117f6b35623267566ac9f456bc2e"
     },
     {
-      "key": "55dfd",
-      "songName": "Opposition",
-      "hash": "10adac4cb2debca87c4a213e32515a5a683bf2da",
-      "levelid": "custom_level_10adac4cb2debca87c4a213e32515a5a683bf2da"
+      "key": "55e51",
+      "songName": "Taka no tsume NEO op",
+      "hash": "b306d10cec97060ec865ad31b2832a9784e05c0b",
+      "levelid": "custom_level_b306d10cec97060ec865ad31b2832a9784e05c0b"
     },
     {
-      "key": "55dfc",
-      "songName": "It's Good - Netta",
-      "hash": "4114fa045752e1066fa79d196b51025b2e39b55e",
-      "levelid": "custom_level_4114fa045752e1066fa79d196b51025b2e39b55e"
+      "key": "55e55",
+      "songName": "healing...",
+      "hash": "4ec96c10e30f87dc1a008f042cb7840819bed44a",
+      "levelid": "custom_level_4ec96c10e30f87dc1a008f042cb7840819bed44a"
     },
     {
-      "key": "55dfb",
-      "songName": "Ben Type Beat III (#greenscreen)",
-      "hash": "42327e5c64b9fac339deabb37804503f053f5726",
-      "levelid": "custom_level_42327e5c64b9fac339deabb37804503f053f5726"
+      "key": "55e54",
+      "songName": "Yetep, Hoang - Losing You (ft. Linney)",
+      "hash": "98aefb2b1c958ffb1718c1a3bdcf8d2e55335490",
+      "levelid": "custom_level_98aefb2b1c958ffb1718c1a3bdcf8d2e55335490"
     },
     {
-      "key": "55df7",
-      "songName": "Egs- bleood",
-      "hash": "24717bef89aeb2a92780497155470d493e4d640d",
-      "levelid": "custom_level_24717bef89aeb2a92780497155470d493e4d640d"
+      "key": "55b31",
+      "songName": "Epic Games Launcher (Parody of Bird Brain) - Nyx",
+      "hash": "44248faefbfbedd501e9536d6498ed5ae501d979",
+      "levelid": "custom_level_44248faefbfbedd501e9536d6498ed5ae501d979"
     },
     {
-      "key": "55df2",
-      "songName": "Movin' To The Sun",
-      "hash": "974ac04324fb64db7275b66f5360f2db4ebc83dc",
-      "levelid": "custom_level_974ac04324fb64db7275b66f5360f2db4ebc83dc"
+      "key": "55e50",
+      "songName": "Connor Kauffman - Heartless",
+      "hash": "c5be9dd734393bfb52a6208998b2ee3a515caf2d",
+      "levelid": "custom_level_c5be9dd734393bfb52a6208998b2ee3a515caf2d"
     },
     {
-      "key": "55df1",
-      "songName": "Kassy - You and I in the Hard Day",
-      "hash": "fcebdd6b0baed62b62e6123679158699a337f45f",
-      "levelid": "custom_level_fcebdd6b0baed62b62e6123679158699a337f45f"
+      "key": "55e4e",
+      "songName": "UP. DOWN. LEFT. RIGHT",
+      "hash": "c8bd175dc0e1a0115c48bd85ddae85c1eab1b227",
+      "levelid": "custom_level_c8bd175dc0e1a0115c48bd85ddae85c1eab1b227"
     },
     {
-      "key": "55def",
-      "songName": "Worst Song Known To Man in Beat Saber ",
-      "hash": "3870a1eda08c95dd2fc0ded6058ee7d3278f7fa4",
-      "levelid": "custom_level_3870a1eda08c95dd2fc0ded6058ee7d3278f7fa4"
+      "key": "55e4d",
+      "songName": "The Way I Want It",
+      "hash": "d391f2bc5b21e5e78ad91593c9d9097515eba5b4",
+      "levelid": "custom_level_d391f2bc5b21e5e78ad91593c9d9097515eba5b4"
     },
     {
-      "key": "55dee",
-      "songName": "[vivid/stasis Map Pack] Kyotsugyon - SUPERNOVA",
-      "hash": "d711a29040e6cf675c92cf44286f0dd2214a9a78",
-      "levelid": "custom_level_d711a29040e6cf675c92cf44286f0dd2214a9a78"
+      "key": "55e4b",
+      "songName": "Unheilig - Menschenherz",
+      "hash": "9f9f4a5451ac15091323518a367c19e8ae06ffcf",
+      "levelid": "custom_level_9f9f4a5451ac15091323518a367c19e8ae06ffcf"
     },
     {
-      "key": "55de8",
-      "songName": "CiON - Katsubou",
-      "hash": "54b22e2bb18282c8a903053261bca47d9c5e8ec6",
-      "levelid": "custom_level_54b22e2bb18282c8a903053261bca47d9c5e8ec6"
+      "key": "55e48",
+      "songName": "No es Por Acá",
+      "hash": "91b3cf9f0ecbbd99c80075315aa779d2a35590ae",
+      "levelid": "custom_level_91b3cf9f0ecbbd99c80075315aa779d2a35590ae"
     },
     {
-      "key": "55de7",
-      "songName": "ころねぽち×ななひら - ロールケーキくるっくる～り！",
-      "hash": "ce061f2c449fc82a7ab2deba7b72dde7ce5a27f6",
-      "levelid": "custom_level_ce061f2c449fc82a7ab2deba7b72dde7ce5a27f6"
+      "key": "55e47",
+      "songName": "Ben Type Beat V (#copterdog)",
+      "hash": "8fd08b957f0ebaf760f214c8012909815ab318a9",
+      "levelid": "custom_level_8fd08b957f0ebaf760f214c8012909815ab318a9"
     },
     {
-      "key": "55de6",
-      "songName": "Practice",
-      "hash": "b3bc03ce767195a055f007aaf8403d1229d374d0",
-      "levelid": "custom_level_b3bc03ce767195a055f007aaf8403d1229d374d0"
+      "key": "55e3c",
+      "songName": "Xdinary Heroes - Give Up The Ghost",
+      "hash": "840f0a202bf37795ebae3d71ae5cdf78208949cb",
+      "levelid": "custom_level_840f0a202bf37795ebae3d71ae5cdf78208949cb"
     },
     {
-      "key": "55de5",
-      "songName": "four",
-      "hash": "f4cc2df010f2f22673bcc15f5cee43b8e59712d3",
-      "levelid": "custom_level_f4cc2df010f2f22673bcc15f5cee43b8e59712d3"
+      "key": "55e3a",
+      "songName": "Ben Type Beat IV",
+      "hash": "8be9233f6f277b9787cca4a1e0299ceece4f6191",
+      "levelid": "custom_level_8be9233f6f277b9787cca4a1e0299ceece4f6191"
     },
     {
-      "key": "55de3",
-      "songName": "エータ・ベータ・イータ",
-      "hash": "9504b6c11576d23069aec0b0b4697f9deb99e704",
-      "levelid": "custom_level_9504b6c11576d23069aec0b0b4697f9deb99e704"
+      "key": "55e2d",
+      "songName": "get tf out of my room my <3",
+      "hash": "c20ab6a559cd49e34a8beb1b61a1990dedb136d6",
+      "levelid": "custom_level_c20ab6a559cd49e34a8beb1b61a1990dedb136d6"
     },
     {
-      "key": "55dde",
-      "songName": "Jane!",
-      "hash": "4616213b318c98915a9770b6d00d6efdec904af7",
-      "levelid": "custom_level_4616213b318c98915a9770b6d00d6efdec904af7"
+      "key": "55e2b",
+      "songName": "(NOT FINISED)bigshot but my cousin sings it",
+      "hash": "6953766bef3a331735789111c9695e504613ba3c",
+      "levelid": "custom_level_6953766bef3a331735789111c9695e504613ba3c"
     },
     {
-      "key": "55ddd",
-      "songName": "Cha Cha Slide (Hardino Mix)",
-      "hash": "5cc37dd7bee50da55042a92f491d9b4636178ecc",
-      "levelid": "custom_level_5cc37dd7bee50da55042a92f491d9b4636178ecc"
+      "key": "55e29",
+      "songName": " This Grill Is Not A Home. 2026 remap (Poodles)",
+      "hash": "32618721210ad7a5754a63f0cf496eba526e185c",
+      "levelid": "custom_level_32618721210ad7a5754a63f0cf496eba526e185c"
+    },
+    {
+      "key": "55e27",
+      "songName": "Dualismi",
+      "hash": "a3fded1ce7d2494cb9a8b385503855d866a111df",
+      "levelid": "custom_level_a3fded1ce7d2494cb9a8b385503855d866a111df"
+    },
+    {
+      "key": "55e26",
+      "songName": "Maxwell",
+      "hash": "651fdd953013e8c891eecf9f1b4a2bee2630d755",
+      "levelid": "custom_level_651fdd953013e8c891eecf9f1b4a2bee2630d755"
+    },
+    {
+      "key": "55e22",
+      "songName": "VIOLÀ - Frozen Lake",
+      "hash": "ccd1ccf5328c6a98b0ddcf746687ec631e98cd88",
+      "levelid": "custom_level_ccd1ccf5328c6a98b0ddcf746687ec631e98cd88"
+    },
+    {
+      "key": "55e23",
+      "songName": "haa AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "hash": "487a1cd48b07ff69751095508ce100d44c9188bf",
+      "levelid": "custom_level_487a1cd48b07ff69751095508ce100d44c9188bf"
+    },
+    {
+      "key": "55e1e",
+      "songName": "[Feetsaber]Lights Out",
+      "hash": "74f057b4baf565900aafaa619b96c17a9a697fc5",
+      "levelid": "custom_level_74f057b4baf565900aafaa619b96c17a9a697fc5"
+    },
+    {
+      "key": "55181",
+      "songName": "Boom Kitty - Warzone (Chroma/Fitbeat)",
+      "hash": "6c0d27befe31e5ff91478048117ba374b1528dc4",
+      "levelid": "custom_level_6c0d27befe31e5ff91478048117ba374b1528dc4"
+    },
+    {
+      "key": "55e19",
+      "songName": "You're Walking Down the Hallway",
+      "hash": "0207c02b719518cdee3815055678b11000fd0912",
+      "levelid": "custom_level_0207c02b719518cdee3815055678b11000fd0912"
+    },
+    {
+      "key": "55e18",
+      "songName": "Amatory - Oskolky",
+      "hash": "cdf1dc60c3faa345971ec67b6ae67bc325272b18",
+      "levelid": "custom_level_cdf1dc60c3faa345971ec67b6ae67bc325272b18"
+    },
+    {
+      "key": "55e16",
+      "songName": "Amatory - 7 shagov V2",
+      "hash": "2d6f19e2fd27f13fc8d5afeb56e82461fede2181",
+      "levelid": "custom_level_2d6f19e2fd27f13fc8d5afeb56e82461fede2181"
+    },
+    {
+      "key": "55e15",
+      "songName": "Amatory - 7 shagov",
+      "hash": "357280e1a75c4867edc05d289fb0da6bdf41e682",
+      "levelid": "custom_level_357280e1a75c4867edc05d289fb0da6bdf41e682"
+    },
+    {
+      "key": "55e14",
+      "songName": "Babooshka Pravoslavnaya Anatomia",
+      "hash": "25d73f9b8c06fa10432a9343ceb1262724f039fa",
+      "levelid": "custom_level_25d73f9b8c06fa10432a9343ceb1262724f039fa"
+    },
+    {
+      "key": "55e13",
+      "songName": "Marceline",
+      "hash": "4a214cf1d39361756f0693c990fb16189f873bbf",
+      "levelid": "custom_level_4a214cf1d39361756f0693c990fb16189f873bbf"
+    },
+    {
+      "key": "55e12",
+      "songName": "happy birthday.",
+      "hash": "d840404a66723eccabe8b6edd089297ae200f70d",
+      "levelid": "custom_level_d840404a66723eccabe8b6edd089297ae200f70d"
     }
   ],
   "image": ""
