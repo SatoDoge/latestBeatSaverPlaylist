@@ -1,196 +1,244 @@
 {
-  "playlistTitle": "2026-11-23T15:18:48.032Z~2026-11-24T15:18:48.032Z",
+  "playlistTitle": "2026-11-24T15:18:48.141Z~2026-11-25T15:18:48.141Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-11-23T15:18:48.032Z and 2026-11-24T15:18:48.032Z",
+  "discripstion": "Maps published between 2026-11-24T15:18:48.141Z and 2026-11-25T15:18:48.141Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "55f7f",
-      "songName": "Lovesick Cannibal",
-      "hash": "72dd3c9a73f015e6f7e0d03e4b8c14156eaecb30",
-      "levelid": "custom_level_72dd3c9a73f015e6f7e0d03e4b8c14156eaecb30"
+      "key": "55ff1",
+      "songName": "spooky scary verities",
+      "hash": "c46cb3f9b9b1436870194eef279d703254e439c3",
+      "levelid": "custom_level_c46cb3f9b9b1436870194eef279d703254e439c3"
     },
     {
-      "key": "55f79",
-      "songName": "Novaya Volna",
-      "hash": "1e784740de17780e8b36a5b747703856b479ef75",
-      "levelid": "custom_level_1e784740de17780e8b36a5b747703856b479ef75"
+      "key": "55ff0",
+      "songName": "Lovesick Cannibal ",
+      "hash": "9104b96705a49ca72677620a1afd9ce9c8fef0a8",
+      "levelid": "custom_level_9104b96705a49ca72677620a1afd9ce9c8fef0a8"
     },
     {
-      "key": "55f75",
-      "songName": "Hibdi skibdi ",
-      "hash": "9bb8c8e2ddbe9e12123164120c234fce10ef9d58",
-      "levelid": "custom_level_9bb8c8e2ddbe9e12123164120c234fce10ef9d58"
+      "key": "55fed",
+      "songName": " [WARNING] Monzetsu - Ryona Complex",
+      "hash": "b567e8d5d2bf6e28bccdd75b15849198c960f45d",
+      "levelid": "custom_level_b567e8d5d2bf6e28bccdd75b15849198c960f45d"
     },
     {
-      "key": "55f74",
-      "songName": "0M61LY5M",
-      "hash": "0a5bde8a270cb20670dbcd91d8d380b3995226f8",
-      "levelid": "custom_level_0a5bde8a270cb20670dbcd91d8d380b3995226f8"
+      "key": "55fea",
+      "songName": "FEEL THE RUSH",
+      "hash": "6f38b86e9b10fcaba07621a34560b4f227454b28",
+      "levelid": "custom_level_6f38b86e9b10fcaba07621a34560b4f227454b28"
     },
     {
-      "key": "55f73",
-      "songName": "68+1 - stars",
-      "hash": "3d33b737a6d531c67628edf40e06a2a78ccb7656",
-      "levelid": "custom_level_3d33b737a6d531c67628edf40e06a2a78ccb7656"
+      "key": "55fe6",
+      "songName": "Lyra Gigavolt - Supersonic",
+      "hash": "cef5df65af4fcbd59824698188f9b1d78a093f46",
+      "levelid": "custom_level_cef5df65af4fcbd59824698188f9b1d78a093f46"
     },
     {
-      "key": "55988",
-      "songName": "Sorry about the mess",
-      "hash": "9bf1113d81cc406b29e4e2d3792e260886dfb46d",
-      "levelid": "custom_level_9bf1113d81cc406b29e4e2d3792e260886dfb46d"
+      "key": "55fe4",
+      "songName": "BING CHILLING MIX",
+      "hash": "3e395870decd3b23a629611047d4960cf4b27b67",
+      "levelid": "custom_level_3e395870decd3b23a629611047d4960cf4b27b67"
     },
     {
-      "key": "55f72",
-      "songName": "プリティー☆チャンネル (キラッとプリ☆チャン ED)",
-      "hash": "32bb14950426e2cfb52d28f51943aa52e9df7e11",
-      "levelid": "custom_level_32bb14950426e2cfb52d28f51943aa52e9df7e11"
+      "key": "55fe3",
+      "songName": "Go! Up! スターダム! (キラッとプリ☆チャン OP2)",
+      "hash": "18e05c2f8326d2ff396a1ea2e1e04ff60409ef1c",
+      "levelid": "custom_level_18e05c2f8326d2ff396a1ea2e1e04ff60409ef1c"
     },
     {
-      "key": "55f6f",
-      "songName": "Elevator Operator - Electric Callboy",
-      "hash": "68196b650195c2f650c74a9cf184338eff67ab48",
-      "levelid": "custom_level_68196b650195c2f650c74a9cf184338eff67ab48"
+      "key": "55f34",
+      "songName": "Uru - あなたがいることで (By Your Presence)",
+      "hash": "e1d8de6d27cca4a801dcb791fe2f65637294f280",
+      "levelid": "custom_level_e1d8de6d27cca4a801dcb791fe2f65637294f280"
     },
     {
-      "key": "55f6e",
-      "songName": "Chingges Khaanii Magtaal",
-      "hash": "d6508125197e932c22c9237edf8111bc69e62076",
-      "levelid": "custom_level_d6508125197e932c22c9237edf8111bc69e62076"
+      "key": "55fcf",
+      "songName": "Zendaya - Replay ",
+      "hash": "ad8b1c0efff586c99c018f7d221d7a1985123b7a",
+      "levelid": "custom_level_ad8b1c0efff586c99c018f7d221d7a1985123b7a"
     },
     {
-      "key": "55f6d",
-      "songName": "H4unt (v2)",
-      "hash": "e01f6ba8f0c0cbe052fccb41a464884551f28217",
-      "levelid": "custom_level_e01f6ba8f0c0cbe052fccb41a464884551f28217"
+      "key": "55fcd",
+      "songName": "BAD ROMANCE",
+      "hash": "6c80c1260e1a1f493934e4c99ddeb22d681c3710",
+      "levelid": "custom_level_6c80c1260e1a1f493934e4c99ddeb22d681c3710"
     },
     {
-      "key": "55f6c",
-      "songName": "5 second challange",
-      "hash": "064366c1309019d9e61e69648aa085b19a916353",
-      "levelid": "custom_level_064366c1309019d9e61e69648aa085b19a916353"
+      "key": "55fc6",
+      "songName": "Fire In My Soul (Test) ",
+      "hash": "8b6d0cf9d8aaccce5d4a6e1daba455968f3b18d9",
+      "levelid": "custom_level_8b6d0cf9d8aaccce5d4a6e1daba455968f3b18d9"
     },
     {
-      "key": "55f6b",
-      "songName": "I remember when you were little ",
-      "hash": "fafc4b547ac4a61f36f8c9083b6f3a322f514afd",
-      "levelid": "custom_level_fafc4b547ac4a61f36f8c9083b6f3a322f514afd"
+      "key": "55fc1",
+      "songName": "Hizumi Rei & Kakusan NG - Yahweh feat. IA",
+      "hash": "710439bfd8bdc54a58c26ae40b6e96f8df228356",
+      "levelid": "custom_level_710439bfd8bdc54a58c26ae40b6e96f8df228356"
     },
     {
-      "key": "55f66",
-      "songName": "unslept - novaisnotsleepy",
-      "hash": "28eab5e4ed264f90011b15432c25e842c638a0fb",
-      "levelid": "custom_level_28eab5e4ed264f90011b15432c25e842c638a0fb"
+      "key": "55fc0",
+      "songName": "Lil Triangle - PISS!",
+      "hash": "47408602cccfcb982e630ffc9535cf3c112ad554",
+      "levelid": "custom_level_47408602cccfcb982e630ffc9535cf3c112ad554"
     },
     {
-      "key": "55f65",
-      "songName": "Look Like my Mama - AZ Chike ft. Tyler, the Creator",
-      "hash": "5498c9f6f86554f225d3893f2bd368e68e0ca52c",
-      "levelid": "custom_level_5498c9f6f86554f225d3893f2bd368e68e0ca52c"
+      "key": "55fbf",
+      "songName": "xaduma - WANT YOU MORE!",
+      "hash": "d1b63056bc2b3c23159b4c415f334482a3e4b2a9",
+      "levelid": "custom_level_d1b63056bc2b3c23159b4c415f334482a3e4b2a9"
     },
     {
-      "key": "55f60",
-      "songName": "In The Arms Of Morpheus",
-      "hash": "86cb3fe526a22c50fb8d534a60b1b4d5ff1fa244",
-      "levelid": "custom_level_86cb3fe526a22c50fb8d534a60b1b4d5ff1fa244"
+      "key": "55fbe",
+      "songName": "How To Be A Heartbreaker",
+      "hash": "42ce8f0a2d3a0301e038765c95b3a02ff83e9cf5",
+      "levelid": "custom_level_42ce8f0a2d3a0301e038765c95b3a02ff83e9cf5"
     },
     {
-      "key": "55f5f",
-      "songName": "GOT UR NUMB3R",
-      "hash": "c7a443d15e51498ed35e8335e29169564ae197a0",
-      "levelid": "custom_level_c7a443d15e51498ed35e8335e29169564ae197a0"
+      "key": "55fbd",
+      "songName": "what is this ",
+      "hash": "217a9497c967b6c43afaac52f5e5f1c4b9feea91",
+      "levelid": "custom_level_217a9497c967b6c43afaac52f5e5f1c4b9feea91"
     },
     {
-      "key": "55f5d",
-      "songName": "From The Subway Train",
-      "hash": "2c13b3b6a4378d6b5b14372801a4d232251c7bae",
-      "levelid": "custom_level_2c13b3b6a4378d6b5b14372801a4d232251c7bae"
+      "key": "55fbc",
+      "songName": "the one that got away (5)",
+      "hash": "6a1d4ceb02ff3c9371330289bc0f32481a398e47",
+      "levelid": "custom_level_6a1d4ceb02ff3c9371330289bc0f32481a398e47"
     },
     {
-      "key": "55f5c",
-      "songName": "Days of Candy",
-      "hash": "78d30d14260af62bbb7e64ada5cdb1a41040e77c",
-      "levelid": "custom_level_78d30d14260af62bbb7e64ada5cdb1a41040e77c"
+      "key": "55fba",
+      "songName": "deep down (4)",
+      "hash": "1eef30fc3898fa1ff8a725cb0feb1d98aed6d3d7",
+      "levelid": "custom_level_1eef30fc3898fa1ff8a725cb0feb1d98aed6d3d7"
     },
     {
-      "key": "55f5a",
-      "songName": "Σ - DJ Myosuke, Gram, t+pazolite",
-      "hash": "d2faadc111d0803a3857c45a14166d003a4880ec",
-      "levelid": "custom_level_d2faadc111d0803a3857c45a14166d003a4880ec"
+      "key": "55fb9",
+      "songName": "telephone (3)",
+      "hash": "3324029587db4022285dfe8142a046d05b2758c2",
+      "levelid": "custom_level_3324029587db4022285dfe8142a046d05b2758c2"
     },
     {
-      "key": "55f58",
-      "songName": "Dog Show",
-      "hash": "636a8539bcc4d54f7426b81b6a572401bd94bbb7",
-      "levelid": "custom_level_636a8539bcc4d54f7426b81b6a572401bd94bbb7"
+      "key": "55fb7",
+      "songName": "domino (2)",
+      "hash": "ce47ad9b7b06b032903d42dd69a2945243ad0d3c",
+      "levelid": "custom_level_ce47ad9b7b06b032903d42dd69a2945243ad0d3c"
     },
     {
-      "key": "55f57",
-      "songName": "SVDDEN DEATH - Behemoth (VIP)",
-      "hash": "6a48fa4c5b761f84a828944cb192ab6d4d98080f",
-      "levelid": "custom_level_6a48fa4c5b761f84a828944cb192ab6d4d98080f"
+      "key": "55fb6",
+      "songName": "just dance (1)",
+      "hash": "cd8ac391abf088f2b23a15e0ec54d389e8759a1c",
+      "levelid": "custom_level_cd8ac391abf088f2b23a15e0ec54d389e8759a1c"
     },
     {
-      "key": "55f56",
-      "songName": "Lady Gaga - Paparazzi",
-      "hash": "3fa79ccf415470de240eb1cfe37bc6067ad868aa",
-      "levelid": "custom_level_3fa79ccf415470de240eb1cfe37bc6067ad868aa"
+      "key": "55fad",
+      "songName": "Ruliea - Good-bye Gifted (feat. Hatsune Miku, Nurse Robot Type T)",
+      "hash": "8dec6e0fa98f3b613a46c76cb14b5cf13a8a0414",
+      "levelid": "custom_level_8dec6e0fa98f3b613a46c76cb14b5cf13a8a0414"
     },
     {
-      "key": "55f55",
-      "songName": "Plans",
-      "hash": "618fb510dd441e05fd7a5ae657dff20de83d0e70",
-      "levelid": "custom_level_618fb510dd441e05fd7a5ae657dff20de83d0e70"
+      "key": "55fa8",
+      "songName": "Maroon 5 - What Lovers Do (feat. SZA)",
+      "hash": "a79e458752788f710f5dc8371939cb87117527bc",
+      "levelid": "custom_level_a79e458752788f710f5dc8371939cb87117527bc"
     },
     {
-      "key": "55f53",
-      "songName": "Frankie Goes To Hollywood - Relax",
-      "hash": "98ceb76f63f087dff96fbd6ff702f36ac0332500",
-      "levelid": "custom_level_98ceb76f63f087dff96fbd6ff702f36ac0332500"
+      "key": "55fa6",
+      "songName": "Calvin Harris & Rihanna - This Is What You Came For",
+      "hash": "782758112a2d8d13aa8c7de8d59d12cb248d81fd",
+      "levelid": "custom_level_782758112a2d8d13aa8c7de8d59d12cb248d81fd"
     },
     {
-      "key": "55f52",
-      "songName": "Lazy Bear Games - Ignite [Chroma + V3]",
-      "hash": "25012999a59ea78dd4b3d3a7c09052cab34269f7",
-      "levelid": "custom_level_25012999a59ea78dd4b3d3a7c09052cab34269f7"
+      "key": "55fa5",
+      "songName": "what is this",
+      "hash": "5fb8f0f678e7015641b368d1ac349eb07b253034",
+      "levelid": "custom_level_5fb8f0f678e7015641b368d1ac349eb07b253034"
     },
     {
-      "key": "55f51",
-      "songName": "funk tonto",
-      "hash": "9b34b7d5c1e7dfc43e4d474beccb39dcca20866c",
-      "levelid": "custom_level_9b34b7d5c1e7dfc43e4d474beccb39dcca20866c"
+      "key": "55fa0",
+      "songName": "Taylor Swift - 22",
+      "hash": "7f4ac937dc2ba2f161220569d88bbcbf376800f6",
+      "levelid": "custom_level_7f4ac937dc2ba2f161220569d88bbcbf376800f6"
     },
     {
-      "key": "55f50",
-      "songName": "Blue Hour",
-      "hash": "cec7218565ee07e7eb54af6c63f4372969d4996b",
-      "levelid": "custom_level_cec7218565ee07e7eb54af6c63f4372969d4996b"
+      "key": "55f9e",
+      "songName": "Malcom Todd - Earrings",
+      "hash": "cd720c1ccbdddc3024d4a4f01342ffcc761f723a",
+      "levelid": "custom_level_cd720c1ccbdddc3024d4a4f01342ffcc761f723a"
     },
     {
-      "key": "55f4f",
-      "songName": "Trophy Heat",
-      "hash": "7e612ea44d110fdb432d776a195e5ce6076c89c0",
-      "levelid": "custom_level_7e612ea44d110fdb432d776a195e5ce6076c89c0"
+      "key": "55f9d",
+      "songName": "Tove Lo - Heroes",
+      "hash": "7ac2ee037f08709c9db4f101c4ac8e8d7d3db29f",
+      "levelid": "custom_level_7ac2ee037f08709c9db4f101c4ac8e8d7d3db29f"
     },
     {
-      "key": "55f4e",
-      "songName": "Shadowraze - baratrum",
-      "hash": "e3dc13da78e03ea2f0092de6d045fab839b34cf4",
-      "levelid": "custom_level_e3dc13da78e03ea2f0092de6d045fab839b34cf4"
+      "key": "55f9a",
+      "songName": "rN - Amereistr",
+      "hash": "5de7f2db5c7199ac847d35767d39f37314678a3f",
+      "levelid": "custom_level_5de7f2db5c7199ac847d35767d39f37314678a3f"
     },
     {
-      "key": "55f4d",
-      "songName": "note test",
-      "hash": "28eb652482be90b0ba7cc31891f981a36ac44cc0",
-      "levelid": "custom_level_28eb652482be90b0ba7cc31891f981a36ac44cc0"
+      "key": "55f98",
+      "songName": "SOUND ARCHITECT",
+      "hash": "dc6078e1ceb3cce0e8388e2294233b0d38beb3d4",
+      "levelid": "custom_level_dc6078e1ceb3cce0e8388e2294233b0d38beb3d4"
     },
     {
-      "key": "55f49",
-      "songName": "Rafutsuri-ソテリア (feat.桜あおい)",
-      "hash": "82db750fa162660193eb954174b90967c17ddeae",
-      "levelid": "custom_level_82db750fa162660193eb954174b90967c17ddeae"
+      "key": "55f97",
+      "songName": "Above The Waves [Full EP]",
+      "hash": "5219949abd03fbcb3f30a2e7cf2c5e532b03d338",
+      "levelid": "custom_level_5219949abd03fbcb3f30a2e7cf2c5e532b03d338"
+    },
+    {
+      "key": "55f96",
+      "songName": "Aftershock - joke 566",
+      "hash": "07cdc5b5bafaec8bc58a3123859e939df5e67c40",
+      "levelid": "custom_level_07cdc5b5bafaec8bc58a3123859e939df5e67c40"
+    },
+    {
+      "key": "55f94",
+      "songName": "Papercuts",
+      "hash": "121eb470b4f512793d6f0a5ac5aad11613ad8067",
+      "levelid": "custom_level_121eb470b4f512793d6f0a5ac5aad11613ad8067"
+    },
+    {
+      "key": "55f93",
+      "songName": "The 1975 - Robbers",
+      "hash": "ee2b03e86b408af8046a0036b05d50076430f7f7",
+      "levelid": "custom_level_ee2b03e86b408af8046a0036b05d50076430f7f7"
+    },
+    {
+      "key": "55f90",
+      "songName": "INDIVIDUAL",
+      "hash": "8be3b4b36a946fa81f08d6ce06530b16e2b418be",
+      "levelid": "custom_level_8be3b4b36a946fa81f08d6ce06530b16e2b418be"
+    },
+    {
+      "key": "55f8d",
+      "songName": "Olivia Rodrigo - stupid song",
+      "hash": "f5a9b9a2f974de895ceb1a33b568a3d9d69cfb12",
+      "levelid": "custom_level_f5a9b9a2f974de895ceb1a33b568a3d9d69cfb12"
+    },
+    {
+      "key": "55f8c",
+      "songName": "Howard Blake & Peter Auty - Walking In the Air (From The Snowman 1982)",
+      "hash": "db53d4d08cca0b2c549c83a56a25dc91f6f85b91",
+      "levelid": "custom_level_db53d4d08cca0b2c549c83a56a25dc91f6f85b91"
+    },
+    {
+      "key": "55f82",
+      "songName": "Decalius - Drowned, Rotten and Alone",
+      "hash": "b2c1d5d1f8b003eebe92da0ef8ab037ee0581886",
+      "levelid": "custom_level_b2c1d5d1f8b003eebe92da0ef8ab037ee0581886"
+    },
+    {
+      "key": "55f81",
+      "songName": "Connor Price & KAZUO - DIP",
+      "hash": "830bb259028721ec9735eb3dfef84c323078cfc5",
+      "levelid": "custom_level_830bb259028721ec9735eb3dfef84c323078cfc5"
     }
   ],
   "image": ""
