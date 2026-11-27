@@ -1,244 +1,310 @@
 {
-  "playlistTitle": "2026-11-25T15:18:48.197Z~2026-11-26T15:18:48.197Z",
+  "playlistTitle": "2026-11-26T15:18:48.171Z~2026-11-27T15:18:48.171Z",
   "playlistAuthor": "latestBeatSaverPlaylist",
-  "discripstion": "Maps published between 2026-11-25T15:18:48.197Z and 2026-11-26T15:18:48.197Z",
+  "discripstion": "Maps published between 2026-11-26T15:18:48.171Z and 2026-11-27T15:18:48.171Z",
   "customData": {
     "syncURL": "https://github.com/SatoDoge/latestBeatSaverPlaylist/releases/latest/download/BeatSaver_Maps_Yesterday.json"
   },
   "songs": [
     {
-      "key": "5606b",
-      "songName": "MasterSDesu - Inochi ni Kirawarete iru (Thai Ver.)",
-      "hash": "fe6d65d6635365616c3e3f4c61a6f8b1d0dea2ce",
-      "levelid": "custom_level_fe6d65d6635365616c3e3f4c61a6f8b1d0dea2ce"
+      "key": "56110",
+      "songName": "Nekomimi Archive (feat. Hatsune Miku)",
+      "hash": "1d863294ef7e2aa61e5632bb85e7fa784a95aa3e",
+      "levelid": "custom_level_1d863294ef7e2aa61e5632bb85e7fa784a95aa3e"
     },
     {
-      "key": "56068",
-      "songName": "Blood In Your Eyes",
-      "hash": "dc5d2c713c4d8bd8db7e9c33ef11de7012a43c55",
-      "levelid": "custom_level_dc5d2c713c4d8bd8db7e9c33ef11de7012a43c55"
+      "key": "5610f",
+      "songName": "Dear (feat. Hatsune Miku)",
+      "hash": "05c05866410acd852563e809d9c553558f67f542",
+      "levelid": "custom_level_05c05866410acd852563e809d9c553558f67f542"
     },
     {
-      "key": "56069",
-      "songName": "#魔法少女推活中 / 花隈千冬",
-      "hash": "59142f15bfdb0bfc647ccfdd43dde45b2dbac011",
-      "levelid": "custom_level_59142f15bfdb0bfc647ccfdd43dde45b2dbac011"
+      "key": "5610e",
+      "songName": "Eviternity (Rhea's \"Construction Site\" Remix)",
+      "hash": "ad799be8c77053151f51e839177e6e732caf78ea",
+      "levelid": "custom_level_ad799be8c77053151f51e839177e6e732caf78ea"
     },
     {
-      "key": "56065",
-      "songName": "チピチピチャパチャパ（七福あかねver）",
-      "hash": "ed5096566b218fd1b68bfa1fa26cc65f33cff2b2",
-      "levelid": "custom_level_ed5096566b218fd1b68bfa1fa26cc65f33cff2b2"
+      "key": "55f45",
+      "songName": "yume",
+      "hash": "29ebf2e3cba2795489a42c914be0accf6fa48c79",
+      "levelid": "custom_level_29ebf2e3cba2795489a42c914be0accf6fa48c79"
     },
     {
-      "key": "56064",
-      "songName": "Logan Paul - Hero",
-      "hash": "6a74f1e773c147c6649f5c3e777accded59b8bb2",
-      "levelid": "custom_level_6a74f1e773c147c6649f5c3e777accded59b8bb2"
+      "key": "5610d",
+      "songName": "FREE.99 - SUICIDE OCEAN",
+      "hash": "4131845f4e4bd2d0f9ecb8bd1a1348ea84ca45d6",
+      "levelid": "custom_level_4131845f4e4bd2d0f9ecb8bd1a1348ea84ca45d6"
     },
     {
-      "key": "56063",
-      "songName": "Mafumafu - Inochi ni Kirawareteiru. (Band Arrange ver.)",
-      "hash": "808f999a9a589c72fb92d1fc531015117830002e",
-      "levelid": "custom_level_808f999a9a589c72fb92d1fc531015117830002e"
+      "key": "5610c",
+      "songName": "Aziya - bbydoll (Nightcore Ver.)",
+      "hash": "1a50317ce00bd6ae44e1c1d9f05ee00f0ca752eb",
+      "levelid": "custom_level_1a50317ce00bd6ae44e1c1d9f05ee00f0ca752eb"
     },
     {
-      "key": "56061",
-      "songName": "[Vivify] Golden Hour",
-      "hash": "dc1ace6bef1575d31c9ae230ce87babb1518f682",
-      "levelid": "custom_level_dc1ace6bef1575d31c9ae230ce87babb1518f682"
+      "key": "5610b",
+      "songName": "Can't Wait To Die - Cover by schu. -  Will Wood",
+      "hash": "1eabf464050afe7debaabd0e4ec32402a57d16ea",
+      "levelid": "custom_level_1eabf464050afe7debaabd0e4ec32402a57d16ea"
     },
     {
-      "key": "56057",
-      "songName": "Edgars Bukovskis - Lies",
-      "hash": "8980dc6f4f193b05b61d634dadfc1bd1b4712e54",
-      "levelid": "custom_level_8980dc6f4f193b05b61d634dadfc1bd1b4712e54"
+      "key": "5610a",
+      "songName": "Touqai - Away",
+      "hash": "182938017658f35e7d5d3babecef25783027c65c",
+      "levelid": "custom_level_182938017658f35e7d5d3babecef25783027c65c"
     },
     {
-      "key": "56047",
-      "songName": "Counting (Henry Fong Flip) (DJT05H1N0U Remix)",
-      "hash": "11b56b959ae94365055ff147fc8db949c2d6bcb4",
-      "levelid": "custom_level_11b56b959ae94365055ff147fc8db949c2d6bcb4"
+      "key": "56108",
+      "songName": "Muse - Nightshift Superstar",
+      "hash": "1c7e4670ae90096f8c71f48f6921eca6dc1a9a92",
+      "levelid": "custom_level_1c7e4670ae90096f8c71f48f6921eca6dc1a9a92"
     },
     {
-      "key": "56050",
-      "songName": "KIRA KIRA ホログラム (キラッとプリ☆チャン ED2)",
-      "hash": "2a5b52df00b07cbb25580a7a72d46ed0d6c0adcf",
-      "levelid": "custom_level_2a5b52df00b07cbb25580a7a72d46ed0d6c0adcf"
+      "key": "56107",
+      "songName": " キノシタ feat. 初音ミク - Glory Steady Go! （t+pazolite REMIX)",
+      "hash": "a3a5aa690c0dba8ea7b28fce2e5d2b4644bd34a8",
+      "levelid": "custom_level_a3a5aa690c0dba8ea7b28fce2e5d2b4644bd34a8"
     },
     {
-      "key": "56046",
-      "songName": "BEAT IT",
-      "hash": "2f091ab51e7a1aedc9610ac4637da88f0766866f",
-      "levelid": "custom_level_2f091ab51e7a1aedc9610ac4637da88f0766866f"
+      "key": "56105",
+      "songName": "Camellia - Flamewall",
+      "hash": "5f89aab33d2ddaee316eda3ea183498a86766973",
+      "levelid": "custom_level_5f89aab33d2ddaee316eda3ea183498a86766973"
     },
     {
-      "key": "56045",
-      "songName": "白い雲のように",
-      "hash": "4b08b7a9707bfbd82d570a25488e646b295d4017",
-      "levelid": "custom_level_4b08b7a9707bfbd82d570a25488e646b295d4017"
+      "key": "56103",
+      "songName": "Faasquit - enter this worlds atomosphere",
+      "hash": "6445f3eed809f01c3685a617e8ff8e1711d74fd7",
+      "levelid": "custom_level_6445f3eed809f01c3685a617e8ff8e1711d74fd7"
     },
     {
-      "key": "56044",
-      "songName": "Dilemma",
-      "hash": "d4662ec4b5435e783cdafca8392a08bef6d64c29",
-      "levelid": "custom_level_d4662ec4b5435e783cdafca8392a08bef6d64c29"
+      "key": "560fe",
+      "songName": "t+pazolite - Count down 321",
+      "hash": "7aead514bb56330e025cca2ac34eb493ce14c8af",
+      "levelid": "custom_level_7aead514bb56330e025cca2ac34eb493ce14c8af"
     },
     {
-      "key": "56042",
-      "songName": "PUKE GIRL - bocchi the pink girl from noodle stopper figure on my shelf",
-      "hash": "d9ea47fcca432bed28ed898e19f63f49b6f408bd",
-      "levelid": "custom_level_d9ea47fcca432bed28ed898e19f63f49b6f408bd"
+      "key": "55f3f",
+      "songName": "Laserface 01 (Aperture)",
+      "hash": "06cf0dbb3c8b0fef428dd9ebf276487f05c34155",
+      "levelid": "custom_level_06cf0dbb3c8b0fef428dd9ebf276487f05c34155"
     },
     {
-      "key": "5603b",
-      "songName": "Good 4 u",
-      "hash": "ad783fcf69024ef2a02335982aabaaa4c7c38f67",
-      "levelid": "custom_level_ad783fcf69024ef2a02335982aabaaa4c7c38f67"
+      "key": "560fd",
+      "songName": "NANAOAKARI - Pi",
+      "hash": "c786b818afee9c0886f5bc962367b46432d0314e",
+      "levelid": "custom_level_c786b818afee9c0886f5bc962367b46432d0314e"
     },
     {
-      "key": "56032",
-      "songName": "elevate",
-      "hash": "4a4c9729c7da076003677a47f602b2d02e3ddb42",
-      "levelid": "custom_level_4a4c9729c7da076003677a47f602b2d02e3ddb42"
+      "key": "56073",
+      "songName": "Luktungdeath Project - GANGNAM STYLE",
+      "hash": "9cd49226dae54706a6bd2874ad00323d878dd5ce",
+      "levelid": "custom_level_9cd49226dae54706a6bd2874ad00323d878dd5ce"
     },
     {
-      "key": "56030",
-      "songName": "Origami Angel - Bed Bath & Batman Beyond",
-      "hash": "9958a3c7f8cd21d97680b4c263d6ea796a904ae4",
-      "levelid": "custom_level_9958a3c7f8cd21d97680b4c263d6ea796a904ae4"
+      "key": "560a8",
+      "songName": "\"shh...\"",
+      "hash": "7b98d92710cc4e13744a7e06873e62f96383ae8e",
+      "levelid": "custom_level_7b98d92710cc4e13744a7e06873e62f96383ae8e"
     },
     {
-      "key": "5602f",
-      "songName": "akiaura, LONOWN, DJ Pointless - If You Care",
-      "hash": "3ab391503f61e7758636e5c12b7d8926614d03d6",
-      "levelid": "custom_level_3ab391503f61e7758636e5c12b7d8926614d03d6"
+      "key": "560f8",
+      "songName": "never-ending!! (キラッとプリ☆チャン OP3)",
+      "hash": "7120c13e8b0f648579b60684a3f35fec667d1097",
+      "levelid": "custom_level_7120c13e8b0f648579b60684a3f35fec667d1097"
     },
     {
-      "key": "56024",
-      "songName": "I Don't Owe You Anything Now",
-      "hash": "fd5c6997fb6d7614b78e95d01869a14b229f96b9",
-      "levelid": "custom_level_fd5c6997fb6d7614b78e95d01869a14b229f96b9"
+      "key": "560f0",
+      "songName": "Golden hour",
+      "hash": "c843f36a5ccbba1768707e0e8682aca1c583e52c",
+      "levelid": "custom_level_c843f36a5ccbba1768707e0e8682aca1c583e52c"
     },
     {
-      "key": "56022",
-      "songName": "gfd",
-      "hash": "5c189a3bf0e1b275964e28e628e866d966640128",
-      "levelid": "custom_level_5c189a3bf0e1b275964e28e628e866d966640128"
+      "key": "560e3",
+      "songName": "gladde paling - een auto (remapped)",
+      "hash": "4794a4de23659d55262b73425aa8f4bb2bb6621e",
+      "levelid": "custom_level_4794a4de23659d55262b73425aa8f4bb2bb6621e"
     },
     {
-      "key": "56021",
-      "songName": "FUNKY TOWN",
-      "hash": "c47eb2af0f1e44ccf392c5ebbdfc68b0b87c9fbb",
-      "levelid": "custom_level_c47eb2af0f1e44ccf392c5ebbdfc68b0b87c9fbb"
+      "key": "560dd",
+      "songName": "Neurotoxin - Evil",
+      "hash": "029f0d46a3517abae971e1871248d88caf7bfcbe",
+      "levelid": "custom_level_029f0d46a3517abae971e1871248d88caf7bfcbe"
     },
     {
-      "key": "56020",
-      "songName": "emotionz",
-      "hash": "1fd321b84ae51e71a240e23e5abf654098db1a52",
-      "levelid": "custom_level_1fd321b84ae51e71a240e23e5abf654098db1a52"
+      "key": "560d9",
+      "songName": "【東方】Bad Apple!! ＰＶ【影絵】",
+      "hash": "9682cf6fd8ea63a74044cdddc59ad00bf7a0ddcc",
+      "levelid": "custom_level_9682cf6fd8ea63a74044cdddc59ad00bf7a0ddcc"
     },
     {
-      "key": "5601e",
-      "songName": "iron on the preotic table",
-      "hash": "a9cf2514ddcb5309c2a34911ebdbab6b179d429a",
-      "levelid": "custom_level_a9cf2514ddcb5309c2a34911ebdbab6b179d429a"
+      "key": "560d8",
+      "songName": "Koibumi 2000",
+      "hash": "40fc925c3cc2f16189fcd1973ee0082fdc4ac6e7",
+      "levelid": "custom_level_40fc925c3cc2f16189fcd1973ee0082fdc4ac6e7"
     },
     {
-      "key": "55d5c",
-      "songName": "Can we call it something besides brostep",
-      "hash": "3b654c9c78617d1b049e8c341b1e608ce3c4add2",
-      "levelid": "custom_level_3b654c9c78617d1b049e8c341b1e608ce3c4add2"
+      "key": "560ce",
+      "songName": "Dancecore Me Baby (Original Mix)",
+      "hash": "645e275cd2b1215b4b0bf00b4396a209561c6595",
+      "levelid": "custom_level_645e275cd2b1215b4b0bf00b4396a209561c6595"
     },
     {
-      "key": "5600c",
-      "songName": "NayutalieN - Rocket Cider (Harutya Cover)",
-      "hash": "022265707940eb1ac3afddf7d80ddefef1f2a1a4",
-      "levelid": "custom_level_022265707940eb1ac3afddf7d80ddefef1f2a1a4"
+      "key": "560c8",
+      "songName": "Black Or White",
+      "hash": "2e0f39f0b4870bd443727e32c69c878394095af6",
+      "levelid": "custom_level_2e0f39f0b4870bd443727e32c69c878394095af6"
     },
     {
-      "key": "5600b",
-      "songName": "【東方】Minorti - Dance in Devaloka",
-      "hash": "a983c40526cfd18c392e422b8ff5a50032c31d6a",
-      "levelid": "custom_level_a983c40526cfd18c392e422b8ff5a50032c31d6a"
+      "key": "560c7",
+      "songName": "Rip Out Your Eyes",
+      "hash": "dc8618fb28ad60d34b3047974edd238b88ab0fa8",
+      "levelid": "custom_level_dc8618fb28ad60d34b3047974edd238b88ab0fa8"
     },
     {
-      "key": "56009",
-      "songName": "pizza from italia",
-      "hash": "7217dd82cba66cce5e347dfaad0ff0df86379623",
-      "levelid": "custom_level_7217dd82cba66cce5e347dfaad0ff0df86379623"
+      "key": "560c6",
+      "songName": "tenpo pakala - turingsghost",
+      "hash": "9294bf5478a904d64265f589f7b39b23ebbf713d",
+      "levelid": "custom_level_9294bf5478a904d64265f589f7b39b23ebbf713d"
     },
     {
-      "key": "56007",
-      "songName": "akkiemi – truth yandere^^",
-      "hash": "bae41c3974281ea43167e51da818d7ea05049a36",
-      "levelid": "custom_level_bae41c3974281ea43167e51da818d7ea05049a36"
+      "key": "560af",
+      "songName": "This Love [Version 2]",
+      "hash": "ef6eb2167edefcbaffaf04f9ed49f16afdea60a3",
+      "levelid": "custom_level_ef6eb2167edefcbaffaf04f9ed49f16afdea60a3"
     },
     {
-      "key": "56006",
-      "songName": "#eurodab",
-      "hash": "eb9dd48beaed9f925cc2728c31ad0af766c979a6",
-      "levelid": "custom_level_eb9dd48beaed9f925cc2728c31ad0af766c979a6"
+      "key": "560ad",
+      "songName": "Laur - INNER VOID",
+      "hash": "55b63b4cb331c5a7d9f72c2939220ab12497240c",
+      "levelid": "custom_level_55b63b4cb331c5a7d9f72c2939220ab12497240c"
     },
     {
-      "key": "56005",
-      "songName": "Ghost Party (1.15x)",
-      "hash": "5db97068d4a7e1d417b289b5b9cf8a05f794b2a1",
-      "levelid": "custom_level_5db97068d4a7e1d417b289b5b9cf8a05f794b2a1"
+      "key": "560a7",
+      "songName": "Super stupiductive - katagiri",
+      "hash": "23b375604d5d0ca7da400322fb1fac169d09fee3",
+      "levelid": "custom_level_23b375604d5d0ca7da400322fb1fac169d09fee3"
     },
     {
-      "key": "56004",
-      "songName": "Buddy Holly",
-      "hash": "267d7bfe82261b2af1e2bed554173df15a8faa92",
-      "levelid": "custom_level_267d7bfe82261b2af1e2bed554173df15a8faa92"
+      "key": "560a6",
+      "songName": "Out Of My Mind Kai Wachi x LEVEL UP",
+      "hash": "b5eaf9df1a62f2724a0f4186638ae43a32ef04e5",
+      "levelid": "custom_level_b5eaf9df1a62f2724a0f4186638ae43a32ef04e5"
     },
     {
-      "key": "55fff",
-      "songName": "Justice - Flower In A Hurricane",
-      "hash": "5af7f9b7884f319061d1ba2f3278a90d5442ae7f",
-      "levelid": "custom_level_5af7f9b7884f319061d1ba2f3278a90d5442ae7f"
+      "key": "5592d",
+      "songName": "Johnny Hates Jazz - Shattered Dreams (1987) (7 Inch Single)",
+      "hash": "8617ee7fa726f3b6df6fbcaea77c19faa6330434",
+      "levelid": "custom_level_8617ee7fa726f3b6df6fbcaea77c19faa6330434"
     },
     {
-      "key": "55ffd",
-      "songName": "НЕ ПЛАЧЬ",
-      "hash": "2dafc0b2a827201278664572f0d61d1bab75a53a",
-      "levelid": "custom_level_2dafc0b2a827201278664572f0d61d1bab75a53a"
+      "key": "560a5",
+      "songName": "Rejection feat. such - Signal (7_7 bootleg)",
+      "hash": "0514cbeafd1e64d6bc67a86bc68691f48109e5a8",
+      "levelid": "custom_level_0514cbeafd1e64d6bc67a86bc68691f48109e5a8"
     },
     {
-      "key": "55ffc",
-      "songName": "Bane Of Creation",
-      "hash": "7ba7092720cc86c9bba8fcca2fa0672836d3b0a7",
-      "levelid": "custom_level_7ba7092720cc86c9bba8fcca2fa0672836d3b0a7"
+      "key": "560a4",
+      "songName": "GoldFish - Fort Knox",
+      "hash": "15fe39bdbcd58d9b275068f12312214bb1e766a6",
+      "levelid": "custom_level_15fe39bdbcd58d9b275068f12312214bb1e766a6"
     },
     {
-      "key": "55ffb",
-      "songName": "Destiny",
-      "hash": "9fca7aa8bbc7c6e823a34b78aa84893007a21fd9",
-      "levelid": "custom_level_9fca7aa8bbc7c6e823a34b78aa84893007a21fd9"
+      "key": "560a0",
+      "songName": "Brutal ",
+      "hash": "3e3a192319bac33720d26804f0674b7b524cb38c",
+      "levelid": "custom_level_3e3a192319bac33720d26804f0674b7b524cb38c"
     },
     {
-      "key": "55ff7",
-      "songName": "Шаман кинг в реальной жизни - sndk",
-      "hash": "fc6cb4b393eaf31a2d645a5effffdebda453ce65",
-      "levelid": "custom_level_fc6cb4b393eaf31a2d645a5effffdebda453ce65"
+      "key": "5609e",
+      "songName": "xi - Freedom Dive",
+      "hash": "3843f33a7abfbb2f29345166bb8212320e5dc171",
+      "levelid": "custom_level_3843f33a7abfbb2f29345166bb8212320e5dc171"
     },
     {
-      "key": "55ff4",
-      "songName": "[Feetsaber]恋愛裁判",
-      "hash": "88fee7358fc37b60f7fe803879efd7dd374f458a",
-      "levelid": "custom_level_88fee7358fc37b60f7fe803879efd7dd374f458a"
+      "key": "56091",
+      "songName": "Play Dead - LEAP",
+      "hash": "c046ea230b33cdfecb1928c37d511c551d7fe860",
+      "levelid": "custom_level_c046ea230b33cdfecb1928c37d511c551d7fe860"
     },
     {
-      "key": "55ff5",
-      "songName": "funk bingo",
-      "hash": "c056da166e693d58ef853fffdf6f360171de8043",
-      "levelid": "custom_level_c056da166e693d58ef853fffdf6f360171de8043"
+      "key": "5608f",
+      "songName": "SCARE Everynight! (Nightmare Critters Theme Song) ",
+      "hash": "360e90d5f6eaaa754ddf68407fafb4c80d11b155",
+      "levelid": "custom_level_360e90d5f6eaaa754ddf68407fafb4c80d11b155"
     },
     {
-      "key": "55ff3",
-      "songName": "tony v5 the comeback..",
-      "hash": "71d2e34b60f9b591dbd51ead13e76e41ee05bf2f",
-      "levelid": "custom_level_71d2e34b60f9b591dbd51ead13e76e41ee05bf2f"
+      "key": "5608c",
+      "songName": "[Fitbeat] Alok, Ella Eyre, Kenny Dope - Deep Down (ft. Never Dull)",
+      "hash": "4672dbef8d2d034f0c25953b5890d67f398c1be5",
+      "levelid": "custom_level_4672dbef8d2d034f0c25953b5890d67f398c1be5"
+    },
+    {
+      "key": "56082",
+      "songName": "montegam fearless",
+      "hash": "3aa6bfd1de3d56bd7d7a366e4c5dea7fd2bad966",
+      "levelid": "custom_level_3aa6bfd1de3d56bd7d7a366e4c5dea7fd2bad966"
+    },
+    {
+      "key": "5607e",
+      "songName": "Nyquist! - Bad End Etcetera",
+      "hash": "46677ff5eeb9562ae9c067c5870fef35e1ad7900",
+      "levelid": "custom_level_46677ff5eeb9562ae9c067c5870fef35e1ad7900"
+    },
+    {
+      "key": "5607c",
+      "songName": "Kakeru - FUYUHANABI (feat. Kanata N)",
+      "hash": "4612a4cd599480fa39f1048398ad890fb6a7927d",
+      "levelid": "custom_level_4612a4cd599480fa39f1048398ad890fb6a7927d"
+    },
+    {
+      "key": "5607b",
+      "songName": "Camellia - Hottest Take Machine",
+      "hash": "df7fdb8881517a228f589d00119b94226fc616ab",
+      "levelid": "custom_level_df7fdb8881517a228f589d00119b94226fc616ab"
+    },
+    {
+      "key": "5607a",
+      "songName": "latex fruit – forever+forever... (im your tamagotchi)",
+      "hash": "e9ec7b4644727908666746ba6a66202879629097",
+      "levelid": "custom_level_e9ec7b4644727908666746ba6a66202879629097"
+    },
+    {
+      "key": "56078",
+      "songName": "ぴ (Pi  Pit) - ナナヲアカリ (Akari Nanawo) | Even the Student Council Has Its Holes!",
+      "hash": "0c22e01a578d39ecb799152f5f06c6cdf1c8283c",
+      "levelid": "custom_level_0c22e01a578d39ecb799152f5f06c6cdf1c8283c"
+    },
+    {
+      "key": "56077",
+      "songName": "misery-pupsies (sped up)",
+      "hash": "d4a862b4c60dea33697d06a5f39378a73fc13841",
+      "levelid": "custom_level_d4a862b4c60dea33697d06a5f39378a73fc13841"
+    },
+    {
+      "key": "56072",
+      "songName": "Twenty One Pilots - Garbage",
+      "hash": "1e3d048d67751a39262620881ff3d3a2bdbfe559",
+      "levelid": "custom_level_1e3d048d67751a39262620881ff3d3a2bdbfe559"
+    },
+    {
+      "key": "56070",
+      "songName": "Fire In My Soul",
+      "hash": "a758c4aed65384069c4b17dfd140cf5dfcdc5bc5",
+      "levelid": "custom_level_a758c4aed65384069c4b17dfd140cf5dfcdc5bc5"
+    },
+    {
+      "key": "5606d",
+      "songName": "Flower In A Hurricane",
+      "hash": "cf96b7ce4a61995466d0f95c11d2c546715d75e7",
+      "levelid": "custom_level_cf96b7ce4a61995466d0f95c11d2c546715d75e7"
+    },
+    {
+      "key": "5606f",
+      "songName": "Lovesick Cannibal",
+      "hash": "8c2ab3ab0ec1530cd4e29a7e1338d1b5ae9936b6",
+      "levelid": "custom_level_8c2ab3ab0ec1530cd4e29a7e1338d1b5ae9936b6"
     }
   ],
   "image": ""
